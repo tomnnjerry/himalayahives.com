@@ -120,7 +120,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:Nisha_and_Maya_on_Pony_Trek_from_Aru_to_Lidderwat_(14391502547).jpg"
   }
  ],
- "exp:aru-tarsar-marsar-trek": [],
+ "exp:aru-tarsar-marsar-trek": [
+  {
+   "file": "File:Tarsar lake Aru.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tarsar_lake_Aru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Tarsar_lake_Aru.jpg/1920px-Tarsar_lake_Aru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2487,
+   "height": 1863,
+   "landscape": true,
+   "description": "Tarsar lake (3962 m) in Anantnag district, J&K; reachable via Aru",
+   "author": "Irfanaru",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarsar_lake_Aru.jpg"
+  },
+  {
+   "file": "File:Tarsar lake in Kashmir.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tarsar_lake_in_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Tarsar_lake_in_Kashmir.jpg/1920px-Tarsar_lake_in_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4752,
+   "height": 3168,
+   "landscape": true,
+   "description": "Morning view of Tarsar lake located in Kashmir",
+   "author": "Savitri Kore",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarsar_lake_in_Kashmir.jpg"
+  },
+  {
+   "file": "File:Shekawas on Tarsar Lake trek Jammu&Kashmir India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Shekawas_on_Tarsar_Lake_trek_Jammu%26Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/23/Shekawas_on_Tarsar_Lake_trek_Jammu%26Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1920,
+   "height": 1080,
+   "landscape": true,
+   "description": "Shekawas on Tarsar Lake trek Jammu&Kashmir India, Photos-Worldwide, Tarsar-Lake-Trek, CC0",
+   "author": "Photos Worldwide",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Shekawas_on_Tarsar_Lake_trek_Jammu%26Kashmir_India.jpg"
+  }
+ ],
  "exp:aru-herders-camps-walk": [
   {
    "file": "File:BAKARWALS RAJOURI.jpg",
@@ -672,7 +712,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:A_river_sight_from_Gurez-Tulail_Valley.jpg"
   }
  ],
- "exp:gurez-habba-khatoon-peak-evening": [],
+ "exp:gurez-habba-khatoon-peak-evening": [
+  {
+   "file": "File:Habba Khatoon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Habba_Khatoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Habba_Khatoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1200,
+   "landscape": true,
+   "description": "This photo contains Kishanganga River (Neelum River) in Gurez Valley and the pyramid shaped Habba Khatoon mountain named after Queen of Kashmir.",
+   "author": "Zahid samoon",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Habba_Khatoon.jpg"
+  }
+ ],
  "place:pahalgam": [
   {
    "file": "File:LiddarRiverJhelum.jpeg",
@@ -729,8 +783,88 @@
    "source": "https://commons.wikimedia.org/wiki/File:Lidder_river_at_Betaab_Valley.jpg"
   }
  ],
- "exp:pahalgam-lidder-trout-fishing": [],
- "exp:pahalgam-mamleshwar-temple-walk": [],
+ "exp:pahalgam-lidder-trout-fishing": [
+  {
+   "file": "File:Lidder River 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lidder_River_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lidder_River_1.jpg/1920px-Lidder_River_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4368,
+   "height": 2912,
+   "landscape": true,
+   "description": "The Lidder River near Lidderwat in Jammu and Kashmir",
+   "author": "KennyOMG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lidder_River_1.jpg"
+  },
+  {
+   "file": "File:Natural view of Jammu and Kashmir at Betaab Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Natural_view_of_Jammu_and_Kashmir_at_Betaab_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/67/Natural_view_of_Jammu_and_Kashmir_at_Betaab_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1592,
+   "height": 1188,
+   "landscape": true,
+   "description": "Lidder river at Betaab Valley in Jammu and Kashmir, a natural view. Photo taken on 25 April 2013.",
+   "author": "Billjones94",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Natural_view_of_Jammu_and_Kashmir_at_Betaab_Valley.jpg"
+  },
+  {
+   "file": "File:Pahalgam Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pahalgam_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/1920px-Pahalgam_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6745,
+   "height": 3762,
+   "landscape": true,
+   "description": "View of the Pahalgam Valley",
+   "author": "KennyOMG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg"
+  }
+ ],
+ "exp:pahalgam-mamleshwar-temple-walk": [
+  {
+   "file": "File:ShivaLinga Mamaleshwar Temple(Mamal Pahalgam) DivyaGupta.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/ShivaLinga_Mamaleshwar_Temple%28Mamal_Pahalgam%29_DivyaGupta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/ShivaLinga_Mamaleshwar_Temple%28Mamal_Pahalgam%29_DivyaGupta.jpg/1920px-ShivaLinga_Mamaleshwar_Temple%28Mamal_Pahalgam%29_DivyaGupta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2000,
+   "height": 3011,
+   "landscape": false,
+   "description": "This is a photo of ASI monument number",
+   "author": "Divya Gupta (divya.co)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ShivaLinga_Mamaleshwar_Temple(Mamal_Pahalgam)_DivyaGupta.jpg"
+  },
+  {
+   "file": "File:MamleshwarTemple 2 DivyaGupta forWiki.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MamleshwarTemple_2_DivyaGupta_forWiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/MamleshwarTemple_2_DivyaGupta_forWiki.jpg/1920px-MamleshwarTemple_2_DivyaGupta_forWiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1999,
+   "height": 2800,
+   "landscape": false,
+   "description": "This is a photo of ASI monument number",
+   "author": "Divya Gupta (divya.co)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:MamleshwarTemple_2_DivyaGupta_forWiki.jpg"
+  },
+  {
+   "file": "File:MamleshwarTemple 1 DivyaGupta forWiki.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MamleshwarTemple_1_DivyaGupta_forWiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MamleshwarTemple_1_DivyaGupta_forWiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1500,
+   "height": 2259,
+   "landscape": false,
+   "description": "This is a photo of ASI monument number",
+   "author": "Divya Gupta (divya.co)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:MamleshwarTemple_1_DivyaGupta_forWiki.jpg"
+  }
+ ],
  "place:pampore": [
   {
    "file": "File:Saffron From Pampore.jpg",
@@ -1046,7 +1180,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:Gurdwara_Chatti_Patshahi_Srinagar.jpg"
   }
  ],
- "exp:srinagar-dal-lake-dawn-vegetable-market": [],
+ "exp:srinagar-dal-lake-dawn-vegetable-market": [
+  {
+   "file": "File:Dal Lake Hazratbal Srinagar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1920px-Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5727,
+   "height": 3818,
+   "landscape": true,
+   "description": "The Dal Lake has four main Char Chinars (islands with trees) in the middle of the lake, which have contributed to making it notable.",
+   "author": "Suhail Skindar Sofi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Hazratbal_Srinagar.jpg"
+  },
+  {
+   "file": "File:A Grave in the Mazar e Shura cemetery.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/A_Grave_in_the_Mazar_e_Shura_cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3c/A_Grave_in_the_Mazar_e_Shura_cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1159,
+   "height": 840,
+   "landscape": true,
+   "description": "A Grave in the Mazar e Shura cemetery.",
+   "author": "Taffazull",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Grave_in_the_Mazar_e_Shura_cemetery.jpg"
+  },
+  {
+   "file": "File:Char Chinar (viewed from Lake).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Char_Chinar_%28viewed_from_Lake%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Char_Chinar_%28viewed_from_Lake%29.jpg/1920px-Char_Chinar_%28viewed_from_Lake%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3072,
+   "height": 1728,
+   "landscape": true,
+   "description": "Recent photograph, view of Char Chinar (Trees & Island) from a boat in Dal Lake",
+   "author": "Prateek",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Char_Chinar_(viewed_from_Lake).jpg"
+  }
+ ],
  "exp:srinagar-mughal-gardens-on-foot": [
   {
    "file": "File:Shalimar Bagh 1.jpg",
@@ -1257,9 +1431,103 @@
   }
  ],
  "stay:jktdc-pahalgam-huts": [],
- "stay:jktdc-dawar-gurez": [],
- "stay:ahdoos-hotel-srinagar": [],
- "stay:hotel-highlands-park-gulmarg": [],
+ "stay:jktdc-dawar-gurez": [
+  {
+   "file": "File:Habba Khatoon Pyramid Mountain.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Habba_Khatoon_Pyramid_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Habba_Khatoon_Pyramid_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1024,
+   "height": 683,
+   "landscape": true,
+   "description": "Habba Khatton Mountain with Kishan Ganga River (Neelum River) flowing at its foothill; bridge at Markoot (between Achoora and Dawar) in the background",
+   "author": "Aniketchoudhary87",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Habba_Khatoon_Pyramid_Mountain.jpg"
+  }
+ ],
+ "stay:ahdoos-hotel-srinagar": [
+  {
+   "file": "File:Residency Road, Regal Chowk, Srinagar, Jammu and Kashmir.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg/1920px-Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2992,
+   "height": 2992,
+   "landscape": true,
+   "description": "The Shri Chander Chinar Bada Akhara Udasin Trust is a major Udasin institution located on Residency Road, Regal Chowk, Srinagar, Jammu and Kashmir.",
+   "author": "GharWapsi",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Residency_Road,_Regal_Chowk,_Srinagar,_Jammu_and_Kashmir.jpg"
+  },
+  {
+   "file": "File:Udasin institution located on Residency Road, Regal Chowk, Srinagar, Jammu and Kashmir.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Udasin_institution_located_on_Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Udasin_institution_located_on_Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg/1920px-Udasin_institution_located_on_Residency_Road%2C_Regal_Chowk%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2992,
+   "height": 2992,
+   "landscape": true,
+   "description": "The Shri Chander Chinar Bada Akhara Udasin Trust is a major Udasin institution located on Residency Road, Regal Chowk, Srinagar, Jammu and Kashmir.",
+   "author": "GharWapsi",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Udasin_institution_located_on_Residency_Road,_Regal_Chowk,_Srinagar,_Jammu_and_Kashmir.jpg"
+  },
+  {
+   "file": "File:Residency Road Buildings.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Residency_Road_Buildings.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Residency_Road_Buildings.JPG/1920px-Residency_Road_Buildings.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2160,
+   "height": 843,
+   "landscape": true,
+   "description": "Shops at Residency Road.",
+   "author": "Sarkaaaar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Residency_Road_Buildings.JPG"
+  }
+ ],
+ "stay:hotel-highlands-park-gulmarg": [
+  {
+   "file": "File:Theme Park Hotel.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Theme_Park_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/52/Theme_Park_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1200,
+   "landscape": true,
+   "description": "Theme Park Hotel, Genting Highlands, Bentong, Pahang, Malaysia",
+   "author": "Chongkian",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Theme_Park_Hotel.jpg"
+  },
+  {
+   "file": "File:Genting in mist.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Genting_in_mist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/60/Genting_in_mist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1200,
+   "landscape": true,
+   "description": "Downtown Genting Highlands shrouded in mist",
+   "author": "Bearsmalaysia",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Genting_in_mist.jpg"
+  },
+  {
+   "file": "File:Genting Highland Malaysia (15).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Genting_Highland_Malaysia_%2815%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Genting_Highland_Malaysia_%2815%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1280,
+   "height": 960,
+   "landscape": true,
+   "description": "Genting Highland Malaysia",
+   "author": "Shahnoor Habib Munmun",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Genting_Highland_Malaysia_(15).JPG"
+  }
+ ],
  "stay:pahalgam-hotel": [
   {
    "file": "File:Hotel by the Lidder river, Pahalgam 2012.jpg",
