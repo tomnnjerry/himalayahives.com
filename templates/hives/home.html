@@ -18,10 +18,10 @@
       </form>
     </div>
     <div class="comb" aria-hidden="true">
-      {% for r in regions|slice:":3" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+      {% for r in regions|slice:":3" %}<a class="comb__c" href="{{ r.url }}" data-land="{{ r.slug }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
       <div class="comb__c comb__c--honey"><div><small>Saver trips from</small><b>{{ saver_from|inr }}</b><small>per person</small></div></div>
-      {% for r in regions|slice:"6:7" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
-      {% for r in regions|slice:"8:10" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+      {% for r in regions|slice:"6:7" %}<a class="comb__c" href="{{ r.url }}" data-land="{{ r.slug }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+      {% for r in regions|slice:"8:10" %}<a class="comb__c" href="{{ r.url }}" data-land="{{ r.slug }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
     </div>
   </div>
   <div class="hero__ridges" data-parallax>{% ridgeline "home" 4 %}</div>

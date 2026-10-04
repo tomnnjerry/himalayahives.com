@@ -1,0 +1,187 @@
+{
+ "slug": "sikkim-saver-gangtok-pelling-yuksom-6n",
+ "title": "Sikkim west by shared jeep, 6 nights",
+ "region": "sikkim",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "monasteries",
+  "homestays-and-villages",
+  "treks-and-walks"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 2
+  },
+  {
+   "place": "pelling",
+   "nights": 2
+  },
+  {
+   "place": "yuksom",
+   "nights": 2
+  }
+ ],
+ "start": "Siliguri (Sevoke Road shared-jeep stand)",
+ "end": "Siliguri (Sevoke Road shared-jeep stand)",
+ "price_from_inr": 17500,
+ "price_note": "Per person, twin sharing: 6 nights in simple guesthouses and homestays with breakfast, shared jeeps between towns, entry fees; lunches, dinners and the trip to and from Siliguri extra.",
+ "transport": "Shared jeeps and local taxis",
+ "group": "Independent, shared transport",
+ "best_months": [
+  0,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "meta_description": "Sikkim on a budget, 6 nights: Gangtok, Pelling and Yuksom by shared jeep with homestays and guesthouses, from about ₹17,500 per person.",
+ "summary": "Six nights across Sikkim's old royal west using shared jeeps, family homestays and simple guesthouses. You see Gangtok's monasteries, Pemayangtse and Rabdentse near Pelling, and the coronation seat at Yuksom, for a fraction of a private tour. Indian nationals need no special permit on this route as we understand it; check current status before you travel.",
+ "intro": [
+  "This is the Sikkim most travellers do not price correctly. The west has no permit areas on this route, so you can move on your own in shared jeeps that leave from fixed stands in each town. The cost comes down to beds, food and a few seats, and a careful traveller can do the whole loop for well under what a one-day North Sikkim tour costs.",
+  "We start in Gangtok for two nights, cross to Pelling for two, and finish in Yuksom, where the first Chogyal was consecrated in 1642. Rooms are simple, bathrooms are sometimes shared in the cheapest places, and jeeps leave when full, so mornings need patience. Foreign nationals need a Restricted Area Permit for Sikkim, and rules change, so check current status before you travel."
+ ],
+ "highlights": [
+  "Gangtok's Enchey monastery and Namgyal Institute of Tibetology area on foot",
+  "Pemayangtse monastery, founded in 1705, above Pelling",
+  "Rabdentse ruins, the second capital, a short walk from Pelling",
+  "Norbugang coronation throne and Dubdi monastery at Yuksom",
+  "Kangchenjunga at dawn from Pelling when the sky is clear"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Gangtok",
+   "place": "gangtok",
+   "overnight": "Guesthouse, Gangtok",
+   "drive": "≈ 115 km · 4–5 h",
+   "text": "Take a shared jeep from the Sevoke Road stand in Siliguri, which leaves when full and follows the Teesta up through Rangpo into Sikkim. Foreign nationals collect their Restricted Area Permit at Rangpo or Melli; carry passport copies and photos. Arrive in Gangtok by mid-afternoon, check in near MG Marg, and walk the pedestrian street for a first plate of momos and thukpa.",
+   "meals": "Dinner on your own"
+  },
+  {
+   "day": 2,
+   "title": "Gangtok on foot and by shared taxi",
+   "place": "gangtok",
+   "overnight": "Guesthouse, Gangtok",
+   "drive": "",
+   "text": "Take a local taxi seat to Enchey monastery, a Nyingma gompa above town, then walk down to the flower show ground and the ropeway if it is running. In the afternoon visit the Namgyal Institute of Tibetology for its manuscripts and thangkas. Keep the evening free for MG Marg, where the food stalls and tea shops stay open late. Tsomgo and Nathu La need a permit tour and are not in this price.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Gangtok to Pelling",
+   "place": "pelling",
+   "overnight": "Guesthouse, Pelling",
+   "drive": "≈ 115–130 km · 5–6 h",
+   "text": "Shared jeeps for Pelling leave from the Gangtok stand beside the main taxi stand, usually before 9 am. The road goes via Singtam and Legship or via Ravangla, depending on the day and road works. Pelling is long and ridge-top; settle in and walk to a viewpoint for the evening light on Kangchenjunga if the cloud allows. Prices of seats change by season; ask the driver before you board.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Pemayangtse and Rabdentse",
+   "place": "pelling",
+   "overnight": "Guesthouse, Pelling",
+   "drive": "≈ 10 km local",
+   "text": "Walk or take a shared taxi to Pemayangtse monastery, founded in 1705 and one of the oldest Nyingma monasteries in Sikkim. Ask permission before photographing inside. Then walk the forest path to the ruins of Rabdentse, the capital from 1670 until the 18th century, and sit on its terraces facing the snow range. Return for a simple dinner at your guesthouse.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Pelling to Yuksom",
+   "place": "yuksom",
+   "overnight": "Homestay, Yuksom",
+   "drive": "≈ 35 km · 1.5–2 h",
+   "text": "Take a shared jeep or hire a local taxi seat south-west to Yuksom, the first capital of Sikkim. Settle into a family homestay and walk up through forest to Norbugang, where the stone throne of the 1642 coronation stands. Evenings are quiet and cool; carry a torch and a warm layer. Yuksom is also the start of the Goecha La trek, so you will meet trekking groups at dinner.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Dubdi monastery and Kathok lake",
+   "place": "yuksom",
+   "overnight": "Homestay, Yuksom",
+   "drive": "",
+   "text": "Walk 45 minutes uphill to Dubdi, a monastery dated to 1701 and often called the oldest in Sikkim, then go down to Kathok lake, a small sacred pond in the forest. Return for a long lunch and rest. If you have the energy, walk the village lanes where homestays grow cardamom and vegetables. Do not enter the national park without the park permit and a guide.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Yuksom to Siliguri",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 150 km · 6–7 h",
+   "text": "Take the earliest shared jeep from Yuksom towards Jorethang and Melli, then change at Jorethang or Melli for Siliguri. Allow the whole day and do not book a flight or train for the same evening. In the monsoon, landslides can add hours; check current status before you travel and carry snacks.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "yuksom-homestay-village"
+ ],
+ "includes": [
+  "6 nights in simple guesthouses and homestays, twin sharing",
+  "Breakfast daily; dinners at Yuksom homestay",
+  "Shared jeeps for all road legs",
+  "Monastery and ruins entry fees where charged"
+ ],
+ "excludes": [
+  "Travel to and from Siliguri start point",
+  "Lunches and most dinners",
+  "Restricted Area Permit (free) logistics for foreign nationals",
+  "Permit tours to Tsomgo, Nathu La or North Sikkim",
+  "Trekking and park fees",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Shared jeeps leave when full; plan buffer on travel days and expect to start early.",
+  "All nights are below 2,200 m, so altitude is not a concern for healthy travellers.",
+  "Monsoon (June to September) brings landslides; this trip is best in March to May and October to December.",
+  "Cash matters: ATMs exist in Gangtok, Pelling and Jorethang but few elsewhere.",
+  "Plastic bags are banned in Sikkim; carry a cloth bag and a refillable bottle."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this Sikkim saver trip really cost?",
+   "a": "About ₹17,500 per person for beds, breakfasts, shared jeeps and entry fees, twin sharing. Add roughly ₹500–900 a day for lunch and dinner and your travel to Siliguri. Rates change with season; check current prices before you travel."
+  },
+  {
+   "q": "Do I need a permit for this route?",
+   "a": "Indian nationals need no special permit for Gangtok, Pelling and Yuksom. Foreign nationals need a free Restricted Area Permit, issued at Rangpo, Melli, Bagdogra Airport and online. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "Is it safe for solo women?",
+   "a": "Many solo women travel this west Sikkim circuit and report few problems; guesthouses are family-run and towns are quiet after dark. Use the usual care with night travel, book the first jeep of the day and share your plan."
+  },
+  {
+   "q": "Can I add Tsomgo Lake or Nathu La?",
+   "a": "Yes, from Gangtok as a one-day permit tour sold by registered agents, about ₹800–1,500 a seat in a shared vehicle. It is not included in the price. Nathu La opens only on permitted days; check current status before you travel."
+  },
+  {
+   "q": "What is the best month for this trip?",
+   "a": "March to May for rhododendrons and clear views, and October to December for the sharpest Kangchenjunga mornings. January and February are cold but clear. June to September is monsoon with landslide risk."
+  },
+  {
+   "q": "Are there ATMs in Pelling and Yuksom?",
+   "a": "Pelling has ATMs, but they can run out of cash; Yuksom has few or none. Withdraw enough in Gangtok or Jorethang and carry small notes for jeep seats and homestays."
+  },
+  {
+   "q": "Can I do this by Sikkim Nationalised Transport buses instead?",
+   "a": "Some buses run between Gangtok, Siliguri and Jorethang, but timings are fewer than shared jeeps and the Pelling–Yuksom leg is mostly by jeep. Ask at the bus stand; check current status before you travel."
+  },
+  {
+   "q": "Is vegetarian food easy to find?",
+   "a": "Yes. Dal, rice, vegetables, momos with vegetable filling and thukpa are widely available. Homestay hosts prepare vegetarian meals if you tell them in advance."
+  },
+  {
+   "q": "Can I stretch this to a Goecha La trek?",
+   "a": "Not on this trip. Goecha La is a multi-day high-altitude trek needing park permits, a guide and acclimatisation. We can plan it separately from Yuksom; check current permit rules before you travel."
+  }
+ ]
+}

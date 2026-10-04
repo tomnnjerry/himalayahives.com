@@ -1,0 +1,205 @@
+{
+ "slug": "sikkim-signature-kangchenjunga-and-the-north-8n",
+ "title": "Sikkim signature: Gangtok and the north",
+ "region": "sikkim",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "photography",
+  "adventure-sports",
+  "honeymoons"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 4
+  },
+  {
+   "place": "lachen",
+   "nights": 2
+  },
+  {
+   "place": "lachung",
+   "nights": 2
+  }
+ ],
+ "start": "Bagdogra Airport",
+ "end": "Bagdogra Airport",
+ "price_from_inr": 190000,
+ "price_note": "Per person, twin sharing: 4 nights at The Elgin Nor-Khill in Gangtok and the best available lodges in Lachen and Lachung, all meals in the north, private SUV, private guide, permits arranged; flights extra.",
+ "transport": "Private SUV with driver and local guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Sikkim signature trip, 8 nights: Gangtok's Elgin Nor-Khill, then Lachen, Gurudongmar, Lachung and Yumthang with a private guide, from ₹1,90,000 per person.",
+ "summary": "Eight nights joining royal Gangtok to the permit-only north: The Elgin Nor-Khill, Tsomgo Lake, two nights in Lachen for Gurudongmar at over 5,100 m, and two in Lachung for Yumthang. A private guide and SUV keep the high days unhurried and safe.",
+ "intro": [
+  "North Sikkim has few luxury lodges, and the best are simple compared with city hotels. What you pay for here is time, a guide who knows the road and checks you for altitude symptoms, and a private SUV that can wait out a landslide. In Gangtok we use The Elgin Nor-Khill for a proper rest at the start and end.",
+  "The order matters. Two nights in Gangtok, a day to Tsomgo at about 3,750 m, then Lachen at 2,750 m for two nights before Gurudongmar. Permit rules change and Gurudongmar has been open to Indian nationals only; we confirm your options before you pay. Check current status before you travel."
+ ],
+ "highlights": [
+  "The Elgin Nor-Khill as a rest base at both ends",
+  "Tsomgo Lake as a first step in altitude",
+  "Gurudongmar Lake at over 5,100 m with a guide who watches for symptoms",
+  "Yumthang Valley and the Lachung village monastery",
+  "Chungthang, where two rivers meet to form the Teesta"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Gangtok",
+   "place": "gangtok",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Meet your driver and guide at Bagdogra and head up the Teesta to Gangtok. Check in at The Elgin Nor-Khill and rest. Your guide reviews permits, packing and what to expect above 3,000 m.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Gangtok monasteries",
+   "place": "gangtok",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 50 km local",
+   "text": "Visit Enchey, the Namgyal Institute of Tibetology and Rumtek with your guide. Learn how Gangtok became the capital in 1894 and why the Karma Kagyu seat is here. Easy day, with a short walk on MG Marg.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Tsomgo Lake",
+   "place": "tsomgo-lake",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 40 km · 1.5–2 h each way",
+   "text": "Drive to Tsomgo Lake at about 3,750 m as an altitude test before the north. Your guide watches for headaches and nausea. Return to Gangtok by early afternoon. Permits for Tsomgo are arranged by your agent; check current status before you travel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Gangtok to Lachen",
+   "place": "lachen",
+   "overnight": "Lodge, Lachen",
+   "drive": "≈ 120 km · 6–7 h",
+   "text": "Drive through Mangan and Chungthang to Lachen at about 2,750 m. Rest, drink water, and eat lightly. Evening tea with the lodge hosts.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Gurudongmar Lake",
+   "place": "gurudongmar-lake",
+   "overnight": "Lodge, Lachen",
+   "drive": "≈ 65 km · 3–4 h each way",
+   "text": "Leave before dawn to reach Gurudongmar Lake, over 5,100 m, in the best light. Stay only 30–45 minutes, and descend if anyone feels unwell. Return for a hot lunch at Lachen and a rest. If the road is closed or the lake is not open to your passport, we stay at Lachen.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Lachen to Lachung",
+   "place": "lachung",
+   "overnight": "Lodge, Lachung",
+   "drive": "≈ 100 km · 4–5 h",
+   "text": "Drive down to Chungthang and then up the Lachung valley. Rest in the afternoon and walk to the village monastery.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Yumthang Valley",
+   "place": "yumthang-valley",
+   "overnight": "Lodge, Lachung",
+   "drive": "≈ 24 km · 1–1.5 h each way",
+   "text": "Go early to Yumthang at about 3,560 m for river views and, in April and May, rhododendrons. Return to Lachung for lunch; the afternoon is free. Zero Point depends on road status; check current status before you travel.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Lachung to Gangtok",
+   "place": "gangtok",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 115 km · 6–7 h",
+   "text": "Drive back to Gangtok and check in at The Elgin Nor-Khill for a final night with a proper bath and dinner. Keep a buffer for landslides.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Gangtok to Bagdogra",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Drive down to Bagdogra; schedule evening flights.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "elgin-nor-khill-gangtok"
+ ],
+ "includes": [
+  "7 nights, twin sharing, as listed",
+  "Meals as listed",
+  "Private SUV with driver and private guide",
+  "Protected Area Permits arranged by a registered agent",
+  "Entry fees"
+ ],
+ "excludes": [
+  "Flights",
+  "Restricted Area Permit logistics for foreign nationals",
+  "Travel insurance",
+  "Personal medicines",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Gurudongmar is above 5,100 m. Altitude sickness can be serious; talk to your doctor before booking and do not push on with symptoms.",
+  "North Sikkim has been closed at times; check current status before you travel.",
+  "Lodges in Lachen and Lachung are simple; hot water and power can be limited.",
+  "Mobile coverage is poor above Chungthang.",
+  "Pack thermals, a down jacket, gloves, sunscreen and sunglasses."
+ ],
+ "faqs": [
+  {
+   "q": "Why is this the signature trip if the north is simple?",
+   "a": "Because Gangtok's Elgin Nor-Khill, the guide, the permits and the private SUV give comfort and safety where the roads are hard. The lodges in Lachen and Lachung are the best available, not luxury hotels."
+  },
+  {
+   "q": "Is Gurudongmar open to foreigners?",
+   "a": "It has been open to Indian nationals only on recent rules, and rules change. Ask us at enquiry. Check current status before you travel."
+  },
+  {
+   "q": "Is the Tsomgo day necessary?",
+   "a": "It is a useful first step in altitude, from 1,650 m to 3,750 m, but not strictly required. We recommend it."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "April to May and October to November. Winter closes roads and lakes; monsoon brings landslides."
+  },
+  {
+   "q": "How do you manage altitude risk?",
+   "a": "Gradual ascent, two nights in Lachen, short stays at the lake, a guide who knows symptoms and a vehicle to descend. We cannot remove risk; talk to your doctor."
+  },
+  {
+   "q": "Can we add Pelling and Yuksom?",
+   "a": "Yes, see our heritage trip for Gangtok and Pelling; adding 2–3 nights and a western route is easy."
+  },
+  {
+   "q": "What happens if the road is closed?",
+   "a": "We wait, change the order or substitute another day. Keep two buffer days before flights; landslides are common."
+  },
+  {
+   "q": "Do the lodges have heating?",
+   "a": "Usually room heaters or electric blankets, plus quilts. Expect limited power and hot water; bring thermals."
+  },
+  {
+   "q": "Is this trip suitable for children?",
+   "a": "Not for young children above 3,500 m. Teens in good health may manage; speak to your doctor."
+  }
+ ]
+}

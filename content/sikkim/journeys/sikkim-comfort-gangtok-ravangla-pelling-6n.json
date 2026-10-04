@@ -1,0 +1,187 @@
+{
+ "slug": "sikkim-comfort-gangtok-ravangla-pelling-6n",
+ "title": "Sikkim monasteries and ridges, 6 nights",
+ "region": "sikkim",
+ "tier": "comfort",
+ "nights": 6,
+ "themes": [
+  "monasteries",
+  "pilgrimages",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 2
+  },
+  {
+   "place": "ravangla",
+   "nights": 2
+  },
+  {
+   "place": "pelling",
+   "nights": 2
+  }
+ ],
+ "start": "Bagdogra Airport",
+ "end": "Bagdogra Airport",
+ "price_from_inr": 52000,
+ "price_note": "Per person, twin sharing: 6 nights in Hotel Tibet in Gangtok, a Ravangla hotel and The Chumbi Mountain Retreat in Pelling with breakfast, private car with driver, entry fees; lunches and dinners mostly extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "meta_description": "Sikkim comfort trip, 6 nights: Gangtok, Ravangla and Pelling with private car and good hotels, monasteries and Kangchenjunga views, from ₹52,000 per person.",
+ "summary": "Six nights through South and West Sikkim by private car: two in Gangtok, two in Ravangla for Buddha Park and Maenam, and two in Pelling for Pemayangtse and Rabdentse. Hotels are chosen for views, and drives are short enough to leave afternoons free.",
+ "intro": [
+  "This route follows the old royal heartland south and west of Gangtok at a pace that suits families and couples. A private car means you skip the shared-jeep waits and stop where you like, at a tea shop in Temi or a viewpoint above the Rangit.",
+  "Hotel Tibet is a central Gangtok hotel; The Chumbi Mountain Retreat in Pelling faces the Kangchenjunga range. In Ravangla we use a good local hotel and walk to the Buddha Park and Ralong monastery. All nights are below 2,200 m, so acclimatisation is not an issue."
+ ],
+ "highlights": [
+  "Rumtek monastery and Enchey in Gangtok",
+  "Buddha Park at Ravangla with its large seated Buddha statue",
+  "Temi tea garden stop, Sikkim's best-known tea estate",
+  "Pemayangtse monastery and Rabdentse ruins",
+  "Kangchenjunga at sunrise from the Pelling ridge"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Gangtok",
+   "place": "gangtok",
+   "overnight": "Hotel Tibet, Gangtok",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Your driver meets you at Bagdogra and heads up NH10 along the Teesta, with a tea stop at Rangpo, where foreign nationals complete Restricted Area Permit formalities. Check in at Hotel Tibet and rest. In the evening, walk MG Marg, the car-free promenade, for a first meal of momos or a Sikkimese thali.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Gangtok monasteries and museum",
+   "place": "gangtok",
+   "overnight": "Hotel Tibet, Gangtok",
+   "drive": "≈ 50 km local",
+   "text": "Drive to Rumtek, the Karma Kagyu seat built in the 1960s, for the morning prayers and the golden stupa. Return to Gangtok via Enchey monastery and the Namgyal Institute of Tibetology. Ask permission before photographing inside any hall. Afternoon is free for the ropeway, flower show ground or a cafe on MG Marg.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Gangtok to Ravangla",
+   "place": "ravangla",
+   "overnight": "Hotel, Ravangla",
+   "drive": "≈ 65 km · 2.5–3 h",
+   "text": "Drive south through Singtam and up through Damthang, with a stop at the Temi tea garden if the road is clear. Reach Ravangla by early afternoon and visit Buddha Park, home to a large seated Buddha statue completed in 2013. The view runs across the Maenam range. Dinner is at your hotel; temperatures drop in the evening.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Maenam hill and Ralong monastery",
+   "place": "ravangla",
+   "overnight": "Hotel, Ravangla",
+   "drive": "≈ 30 km local",
+   "text": "Drive up to the Maenam Wildlife Sanctuary gate and walk the first forest section, where rhododendrons flower in spring. Then visit Ralong monastery, a Kagyu gompa on a green hill. Return for lunch and a quiet afternoon. If clouds close in, your driver can take you to the market instead.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Ravangla to Pelling",
+   "place": "pelling",
+   "overnight": "The Chumbi Mountain Retreat, Pelling",
+   "drive": "≈ 70 km · 3–4 h",
+   "text": "Travel west over the ridges to Pelling, crossing the Rangit near Legship if the route runs that way. Check in at The Chumbi Mountain Retreat and spend the late afternoon at a viewpoint facing Kangchenjunga. Clear mornings, from October to December, give the sharpest views; cloud is common in monsoon.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Pemayangtse and Rabdentse",
+   "place": "pelling",
+   "overnight": "The Chumbi Mountain Retreat, Pelling",
+   "drive": "≈ 20 km local",
+   "text": "Visit Pemayangtse, founded in 1705, and sit in the upper floor if it is open to see the painted images. Then walk to Rabdentse, the capital from 1670, and wander its stone terraces. Rabdentse is a gentle half-day walk. Return for lunch and an easy afternoon; if the weather is clear, the sunset from the retreat is worth waiting for.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Pelling to Bagdogra",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 140 km · 5–6 h",
+   "text": "Drive down via Jorethang and Melli to Bagdogra, arriving mid-afternoon. We suggest flights or trains after 6 pm; landslides on NH10 can add hours in the monsoon, so check current status before you travel.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-tibet-gangtok",
+  "chumbi-mountain-retreat-pelling"
+ ],
+ "includes": [
+  "6 nights, twin sharing, with breakfast",
+  "Private car with driver, Bagdogra to Bagdogra",
+  "Sightseeing as listed",
+  "Entry fees to monasteries where charged"
+ ],
+ "excludes": [
+  "Flights and trains to Bagdogra",
+  "Lunches and dinners except where listed",
+  "Restricted Area Permit logistics for foreign nationals",
+  "Camera fees",
+  "Tips"
+ ],
+ "good_to_know": [
+  "All nights are below 2,200 m, so altitude is not a concern for healthy travellers.",
+  "Photography rules differ in each monastery; ask before you shoot.",
+  "Tarmac is narrow and winding; carry travel-sickness tablets if you need them.",
+  "This route needs no North Sikkim permit; add Tsomgo or Lachung on request with extra nights.",
+  "Kangchenjunga views depend on cloud; October to December gives the best chance."
+ ],
+ "faqs": [
+  {
+   "q": "What is included in the price?",
+   "a": "Six nights with breakfast in the hotels named, a private car with driver, and monastery entry fees. Most lunches and dinners are extra. Prices are indicative for 2026; we confirm exact quotes at booking."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Foreign nationals need a free Restricted Area Permit for Sikkim. Indian nationals need none for this route as we understand it. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "Is it suitable for senior travellers?",
+   "a": "Yes, with caution. Drives are on winding roads and Pemayangtse and Rabdentse involve steps and short walks. All nights are below 2,200 m. Tell us about mobility needs and we adjust."
+  },
+  {
+   "q": "When is the best season?",
+   "a": "March to May for flowers and mild weather, and October to December for the clearest mountain views. January and February are cold but clear. Avoid June to September if you are nervous about landslides."
+  },
+  {
+   "q": "Can we do this with children?",
+   "a": "Yes. The drives are the main challenge; the hotels welcome families and the sights are short. Buddha Park and Temi are easy stops for children."
+  },
+  {
+   "q": "Can I add Tsomgo Lake or North Sikkim?",
+   "a": "Yes, with extra nights in Gangtok. Tsomgo is a day trip needing a permit tour; Lachung and Yumthang need two nights and a permit arranged by a registered agent. Check current status before you travel."
+  },
+  {
+   "q": "Is the Elgin Mount Pandim in Pelling an option?",
+   "a": "Yes, as an upgrade; it is part of our signature trip. Ask for a quote. The Chumbi Mountain Retreat is our comfort choice for views and price."
+  },
+  {
+   "q": "How is the food?",
+   "a": "Hotels serve Indian, Chinese and Sikkimese dishes. Look for momos, thukpa, phagshapa and gundruk soup; vegetarian options are easy. Your driver knows local places for lunch."
+  },
+  {
+   "q": "Can we start from Siliguri instead?",
+   "a": "Yes. Siliguri is about 20 km from Bagdogra, so a Siliguri pick-up and drop add little. Say so at booking."
+  }
+ ]
+}

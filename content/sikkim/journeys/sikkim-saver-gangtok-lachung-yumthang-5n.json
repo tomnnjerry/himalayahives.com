@@ -1,0 +1,174 @@
+{
+ "slug": "sikkim-saver-gangtok-lachung-yumthang-5n",
+ "title": "North Sikkim on a budget, 5 nights",
+ "region": "sikkim",
+ "tier": "saver",
+ "nights": 5,
+ "themes": [
+  "snow-and-winter",
+  "photography",
+  "homestays-and-villages"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 3
+  },
+  {
+   "place": "lachung",
+   "nights": 2
+  }
+ ],
+ "start": "Gangtok (taxi stand)",
+ "end": "Gangtok (taxi stand)",
+ "price_from_inr": 15000,
+ "price_note": "Per person, twin sharing: 3 nights in a Gangtok guesthouse and 2 nights in a Lachung homestay with meals on those nights, seats on shared permit tours for Tsomgo and Lachung-Yumthang; Gangtok meals and travel to Gangtok extra.",
+ "transport": "Seats on shared permit-tour vehicles",
+ "group": "Shared departures",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "North Sikkim on a budget, 5 nights: Gangtok, Tsomgo Lake and a Lachung homestay with Yumthang, on shared permit tours, from about ₹15,000 per person.",
+ "summary": "Five nights that put you in North Sikkim's permit country without a private car: three in Gangtok with a shared day to Tsomgo Lake, two in a Lachung homestay with a shared morning to Yumthang Valley. Permits are handled by the agency that sells your seat.",
+ "intro": [
+  "North Sikkim is priced for private vehicles, but shared permit tours let one traveller or a couple go up to Lachung without paying for a whole jeep. Agencies in Gangtok put together shared seats, a homestay and meals into a package. The trade-off is a fixed schedule and travelling with strangers.",
+  "We use that model here and add the Tsomgo day trip from Gangtok. Gurudongmar and Lachen are not in this saver budget, because they need extra nights and a private vehicle. Permit rules for Tsomgo, Nathu La and North Sikkim change often and differ for Indian and foreign nationals; check current status before you travel."
+ ],
+ "highlights": [
+  "Tsomgo Lake at about 3,750 m on the Nathu La road",
+  "A night in a Lachungpa family home with a wood stove",
+  "Yumthang Valley's flat river basin and, in April and May, its rhododendrons",
+  "The Teesta and Lachen Chu valleys above Chungthang",
+  "Gangtok's MG Marg after a cold day out"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Gangtok",
+   "place": "gangtok",
+   "overnight": "Guesthouse, Gangtok",
+   "drive": "",
+   "text": "Reach Gangtok by shared jeep from Siliguri or Bagdogra, about 4–5 hours. Choose a registered travel agent on the same day to confirm your Tsomgo seat and the North Sikkim package; they need photo ID and passport photos. Foreign nationals also need a Restricted Area Permit. Walk MG Marg for momos and an early night.",
+   "meals": "Dinner on your own"
+  },
+  {
+   "day": 2,
+   "title": "Tsomgo Lake day trip",
+   "place": "tsomgo-lake",
+   "overnight": "Guesthouse, Gangtok",
+   "drive": "≈ 40 km · 1.5–2 h each way",
+   "text": "Leave around 7 am in a shared jeep up the Nathu La road to Tsomgo Lake, at about 3,750 m. Walk slowly and drink water; the first hour at this altitude is when headaches start. Spend an hour at the lake, then return to Gangtok by early afternoon. Nathu La is open only to Indian nationals on set days; check current status before you travel.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Gangtok to Lachung",
+   "place": "lachung",
+   "overnight": "Homestay, Lachung",
+   "drive": "≈ 115 km · 6–7 h",
+   "text": "The shared vehicle leaves early, goes through Mangan and Chungthang, and reaches Lachung at about 2,700 m by mid-afternoon. Roads may be slow after rain. Your homestay hosts dinner and breakfast; the kitchen stove is the warm room. Walk to the village monastery in the late light. Mobile networks fade above Mangan, so tell home your plans before you leave.",
+   "meals": "Dinner, Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Yumthang Valley",
+   "place": "yumthang-valley",
+   "overnight": "Homestay, Lachung",
+   "drive": "≈ 24 km · 1–1.5 h each way",
+   "text": "Leave before dawn to reach Yumthang Valley, at about 3,560 m, while the light is soft and before the afternoon clouds. Walk along the river, drink hot tea at a roadside stall, and return to Lachung for lunch. Spend the afternoon resting, because the altitude and early start tire most people. In winter, snow may close the upper road; check current status before you travel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Lachung to Gangtok",
+   "place": "gangtok",
+   "overnight": "Guesthouse, Gangtok",
+   "drive": "≈ 115 km · 6–7 h",
+   "text": "Drive back through Chungthang and Mangan, with a lunch stop on the road. You reach Gangtok by evening and can sleep in the same guesthouse as before. If a landslide blocks the road, the driver will wait; keep a buffer day before any onward flight.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Depart Gangtok",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 115 km · 4–5 h",
+   "text": "Take a shared jeep from the Gangtok stand to Siliguri, Bagdogra or New Jalpaiguri. Book trains or flights for the evening or the next day, not the same morning, to allow for landslides and road works on NH10.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "lachung-homestay-village"
+ ],
+ "includes": [
+  "3 nights in a Gangtok guesthouse with breakfast",
+  "2 nights in a Lachung homestay with dinner and breakfast",
+  "Seats on shared permit tours to Tsomgo Lake and Lachung-Yumthang",
+  "Permit processing by the agency"
+ ],
+ "excludes": [
+  "Travel to Gangtok and onward",
+  "Gangtok lunches and dinners",
+  "Nathu La add-on",
+  "Restricted Area Permit for foreign nationals",
+  "Gurudongmar and Lachen",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Tsomgo is about 3,750 m and Yumthang about 3,560 m, but you sleep at 2,700 m; most people manage with water and slow walking. Talk to your doctor if you have heart, lung or blood-pressure conditions.",
+  "Carry original photo ID and passport photos; permit agencies need both.",
+  "Mobile coverage fades above Mangan; carry cash for the north, where ATMs are few.",
+  "The road to Yumthang can close in heavy snow or after landslides; check current status before you travel.",
+  "Winter nights in Lachung are well below freezing; bring thermals and a down jacket."
+ ],
+ "faqs": [
+  {
+   "q": "Is this trip possible in winter?",
+   "a": "Yes, in a cold-weather window from December to February, when Lachung and Yumthang are snowy and Tsomgo may be frozen. Roads can close without notice. Check current status before you travel and keep a buffer day."
+  },
+  {
+   "q": "Can foreign nationals do this trip?",
+   "a": "Foreign nationals need a Restricted Area Permit and a Protected Area Permit for North Sikkim, usually arranged by a registered agency and sometimes with a minimum group size. Rules change; check current status before you travel."
+  },
+  {
+   "q": "How cold does Lachung get?",
+   "a": "Nights in winter fall well below freezing and days stay cold. In April and May expect cool days and chilly nights. Pack thermals, a fleece and a down jacket year-round."
+  },
+  {
+   "q": "Is altitude sickness a risk on this itinerary?",
+   "a": "It can be, since Tsomgo is at about 3,750 m, a 2,100 m gain in a morning from Gangtok. Go slowly, drink water, avoid alcohol and descend if symptoms worsen. Talk to your doctor before you travel."
+  },
+  {
+   "q": "Can I book a homestay and a private jeep instead?",
+   "a": "Yes, it costs more. A private jeep for Lachung and Yumthang runs roughly ₹9,000–15,000 depending on season. Ask your agency for a quote and which permits they handle."
+  },
+  {
+   "q": "What does the agency need from me?",
+   "a": "Photocopies of an ID, passport-size photos, and for foreigners a passport copy and Indian visa copy, usually a day before travel. Some operators ask for payment up front."
+  },
+  {
+   "q": "Will I see Gurudongmar on this trip?",
+   "a": "No. Gurudongmar is at about 5,100–5,200 m and needs a night in Lachen and a permit; it is open to Indian nationals. See our comfort North Sikkim trip."
+  },
+  {
+   "q": "Is vegetarian food easy in Lachung?",
+   "a": "Yes. Homestays serve dal, rice, vegetables and eggs; meat appears in some meals. Say you are vegetarian when booking, and carry some snacks for the road."
+  },
+  {
+   "q": "Can I stay more nights in Lachung?",
+   "a": "Yes, an extra night lets you walk to the village and rest after the early start. Tell your agency when booking, as shared departures run on fixed dates."
+  }
+ ]
+}
