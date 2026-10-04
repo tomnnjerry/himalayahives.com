@@ -453,30 +453,43 @@
  ],
  "place:gulmarg": [
   {
-   "file": "File:Ancient Temple, Gulmarg.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ancient_Temple%2C_Gulmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ancient_Temple%2C_Gulmarg.jpg/1920px-Ancient_Temple%2C_Gulmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 2000,
-   "height": 1333,
+   "file": "File:Gulmarg Gondola, Cable Car.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gulmarg_Gondola%2C_Cable_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gulmarg_Gondola%2C_Cable_Car.JPG/1920px-Gulmarg_Gondola%2C_Cable_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
    "landscape": true,
-   "description": "The Maharani Ji (Mohinishwar Shiva) temple in the resort town of Gulmarg near Srinagar, Jammu and Kashmir, India",
-   "author": "Anurag Kumar",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Ancient_Temple,_Gulmarg.jpg"
-  },
-  {
-   "file": "File:Ancient Temple Gulmarg.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ancient_Temple_Gulmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ancient_Temple_Gulmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1887,
-   "height": 991,
-   "landscape": true,
-   "description": "Temple in Gulmarg after rain shower",
-   "author": "Kanchu22",
+   "description": "View of snow-covered woods from a cabin of the Gulmarg Gondola (cable car) in Gulmarg, Jammu and Kashmir, India. Mount Haramukh can be seen in the distance.",
+   "author": "Skywayman9",
    "license": "CC BY-SA 3.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Ancient_Temple_Gulmarg.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Gulmarg_Gondola,_Cable_Car.JPG"
+  },
+  {
+   "file": "File:Gulmarg - Srinagar views 106.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gulmarg_-_Srinagar_views_106.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Gulmarg_-_Srinagar_views_106.JPG/1920px-Gulmarg_-_Srinagar_views_106.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2592,
+   "height": 1944,
+   "landscape": true,
+   "description": "Gulmarg - Srinagar views",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gulmarg_-_Srinagar_views_106.JPG"
+  },
+  {
+   "file": "File:Tourists at the Gulmarg Gondola station in 2013.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tourists_at_the_Gulmarg_Gondola_station_in_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tourists_at_the_Gulmarg_Gondola_station_in_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1200,
+   "landscape": true,
+   "description": "Tourists at the Gulmarg Gondola station at Gulmarg, in Jammu and Kashmir, India. Photo taken in April 2013.",
+   "author": "Billjones94",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tourists_at_the_Gulmarg_Gondola_station_in_2013.jpg"
   },
   {
    "file": "File:Apharwat Peak Gulmarg.jpg",
@@ -516,19 +529,6 @@
    "license": "Public domain",
    "license_url": "",
    "source": "https://commons.wikimedia.org/wiki/File:Gulmarg-Gondala.JPG"
-  },
-  {
-   "file": "File:Gulmarg - Kashmir 2.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gulmarg_-_Kashmir_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Gulmarg_-_Kashmir_2.jpg/1920px-Gulmarg_-_Kashmir_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 3072,
-   "height": 2304,
-   "landscape": true,
-   "description": "Gulmarg - Kashmir 2",
-   "author": "Vikas Panwar",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gulmarg_-_Kashmir_2.jpg"
   }
  ],
  "exp:gulmarg-gondola-to-apharwat": [
@@ -1102,6 +1102,45 @@
  "exp:sonamarg-sindh-river-rafting": [],
  "place:srinagar": [
   {
+   "file": "File:Empty shikara on Dal Lake, Srinagar, India 2013-08-23 (flickr 9967093983).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Empty_shikara_on_Dal_Lake%2C_Srinagar%2C_India_2013-08-23_%28flickr_9967093983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Empty_shikara_on_Dal_Lake%2C_Srinagar%2C_India_2013-08-23_%28flickr_9967093983%29.jpg/1920px-Empty_shikara_on_Dal_Lake%2C_Srinagar%2C_India_2013-08-23_%28flickr_9967093983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5021,
+   "height": 3394,
+   "landscape": true,
+   "description": "An empty shikara floating on the Dal Lake in Srinagar, Jammu and Kashmir, India.",
+   "author": "Fulvio Spada from Torino, Italy",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Empty_shikara_on_Dal_Lake,_Srinagar,_India_2013-08-23_(flickr_9967093983).jpg"
+  },
+  {
+   "file": "File:Dal Lake, Srinagar, Jammu and Kashmir.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dal_Lake%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Dal_Lake%2C_Srinagar%2C_Jammu_and_Kashmir.jpg/1920px-Dal_Lake%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5184,
+   "height": 3456,
+   "landscape": true,
+   "description": "Houseboats on Dal Lake, Srinagar",
+   "author": "Dashrathgoyal85",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake,_Srinagar,_Jammu_and_Kashmir.jpg"
+  },
+  {
+   "file": "File:Dal Lake Hazratbal Srinagar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1920px-Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5727,
+   "height": 3818,
+   "landscape": true,
+   "description": "The Dal Lake has four main Char Chinars (islands with trees) in the middle of the lake, which have contributed to making it notable.",
+   "author": "Suhail Skindar Sofi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Hazratbal_Srinagar.jpg"
+  },
+  {
    "file": "File:Red and Yellow Tulips.JPG",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Red_and_Yellow_Tulips.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Red_and_Yellow_Tulips.JPG/1920px-Red_and_Yellow_Tulips.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1113,19 +1152,6 @@
    "license": "CC BY-SA 3.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "source": "https://commons.wikimedia.org/wiki/File:Red_and_Yellow_Tulips.JPG"
-  },
-  {
-   "file": "File:A DEMU passenger train at Srinagar Railway Station Platform.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/A_DEMU_passenger_train_at_Srinagar_Railway_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/97/A_DEMU_passenger_train_at_Srinagar_Railway_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1600,
-   "height": 1200,
-   "landscape": true,
-   "description": "A Passenger train on Srinagar Railway Station Platform",
-   "author": "PP Yoonus",
-   "license": "Public domain",
-   "license_url": "",
-   "source": "https://commons.wikimedia.org/wiki/File:A_DEMU_passenger_train_at_Srinagar_Railway_Station_Platform.jpg"
   },
   {
    "file": "File:A view of Pari Mahal Jammu and Kashmir India.jpg",
@@ -1152,32 +1178,6 @@
    "license": "CC BY-SA 3.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "source": "https://commons.wikimedia.org/wiki/File:Ancient_Temple-Hari_Parbat-2.JPG"
-  },
-  {
-   "file": "File:Dal Lake Hazratbal Srinagar.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1920px-Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5727,
-   "height": 3818,
-   "landscape": true,
-   "description": "The Dal Lake has four main Char Chinars (islands with trees) in the middle of the lake, which have contributed to making it notable.",
-   "author": "Suhail Skindar Sofi",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Hazratbal_Srinagar.jpg"
-  },
-  {
-   "file": "File:Gurdwara Chatti Patshahi Srinagar.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gurdwara_Chatti_Patshahi_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gurdwara_Chatti_Patshahi_Srinagar.jpg/1920px-Gurdwara_Chatti_Patshahi_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 2784,
-   "height": 2088,
-   "landscape": true,
-   "description": "Gurdwara Chatti Patshahi, also called Gurdwara Patshahi Chevin, as visible from near the Makhdoom Sahib shrine on Hari Parbat, located in the Rainawari neighbourhood of the city of Srinagar in Kashmir valley, Jammu and K",
-   "author": "Unpetitprole",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gurdwara_Chatti_Patshahi_Srinagar.jpg"
   }
  ],
  "exp:srinagar-dal-lake-dawn-vegetable-market": [
@@ -4223,6 +4223,45 @@
  ],
  "place:gangotri": [
   {
+   "file": "File:Gangotri glacier snout.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gangotri_glacier_snout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gangotri_glacier_snout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1067,
+   "landscape": true,
+   "description": "Gangotri/Gaumukh Namarupa Mahayatra 2009 (Terminus of the Gangotri Glacier, Gangotri, Uttarakhand, India)",
+   "author": "gbSk at Flickr",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gangotri_glacier_snout.jpg"
+  },
+  {
+   "file": "File:Gaumukh Gangotri glacier.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Gaumukh_Gangotri_glacier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Gaumukh_Gangotri_glacier.jpg/1920px-Gaumukh_Gangotri_glacier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2304,
+   "height": 1728,
+   "landscape": true,
+   "description": "Gaumukh (Cow's mouth), the end of Gangotri glacier, start of Bhagirathi River in Uttarakhand, India",
+   "author": "Atarax42",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gaumukh_Gangotri_glacier.jpg"
+  },
+  {
+   "file": "File:Gaumukh (gangotri glaciar) may 28 2007.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gaumukh_%28gangotri_glaciar%29_may_28_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gaumukh_%28gangotri_glaciar%29_may_28_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1840,
+   "height": 1232,
+   "landscape": true,
+   "description": "Gaumukh, the source of river Bhagirathi(a major tributary of Ganga) in Uttarakhand, India Taken by Anshul Sawant at noon on May 28, 2007 It should be in article titled Gaumukh",
+   "author": "Anshulsawant at en.wikipedia",
+   "license": "Public domain",
+   "license_url": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Gaumukh_(gangotri_glaciar)_may_28_2007.JPG"
+  },
+  {
    "file": "File:Gangotri (ganga river).jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Gangotri_%28ganga_river%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Gangotri_%28ganga_river%29.jpg/1920px-Gangotri_%28ganga_river%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4234,19 +4273,6 @@
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Gangotri_(ganga_river).jpg"
-  },
-  {
-   "file": "File:Badrinath Temple , Uttarakhand.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/1920px-Badrinath_Temple_%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 3000,
-   "landscape": true,
-   "description": "Badrinath Temple in uttarakhand are situated at 3100 meters above sea level . It is one of the four Dhams",
-   "author": "Anubha khare",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple_,_Uttarakhand.jpg"
   },
   {
    "file": "File:Kedarnath Temple.jpg",
@@ -4824,17 +4850,43 @@
  ],
  "place:rishikesh": [
   {
-   "file": "File:Trayambakeshwar Temple VK.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Trayambakeshwar_Temple_VK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Trayambakeshwar_Temple_VK.jpg/1920px-Trayambakeshwar_Temple_VK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5184,
-   "height": 3888,
+   "file": "File:Rishikesh, Lakshman Jhula.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rishikesh%2C_Lakshman_Jhula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rishikesh%2C_Lakshman_Jhula.jpg/1920px-Rishikesh%2C_Lakshman_Jhula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2592,
+   "height": 1944,
    "landscape": true,
-   "description": ":13 storied Trayambakeshwar Temple of Shiva near Laxman Jhula bridge at Rishikesh in Uttarakhand",
-   "author": "VK1983",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Trayambakeshwar_Temple_VK.jpg"
+   "description": "Lakshman Jhula, on the banks of Ganga, Rishikesh, Uttarakhand",
+   "author": "McKay Savage from London, UK",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rishikesh,_Lakshman_Jhula.jpg"
+  },
+  {
+   "file": "File:Lakshman jhula, Rishikesh 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lakshman_jhula%2C_Rishikesh_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lakshman_jhula%2C_Rishikesh_2.jpg/1920px-Lakshman_jhula%2C_Rishikesh_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 1836,
+   "landscape": true,
+   "description": "Lakshman jhula, Rishikesh",
+   "author": "आशीष_भटनागर",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lakshman_jhula,_Rishikesh_2.jpg"
+  },
+  {
+   "file": "File:Lakshman jhula, Rishikesh.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lakshman_jhula%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lakshman_jhula%2C_Rishikesh.jpg/1920px-Lakshman_jhula%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3200,
+   "height": 1776,
+   "landscape": true,
+   "description": "Lakshman jhula, Rishikesh",
+   "author": "आशीष_भटनागर",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lakshman_jhula,_Rishikesh.jpg"
   },
   {
    "file": "File:13 Manzil Temple Rishikesh 2021.jpg",
@@ -4874,32 +4926,6 @@
    "license": "CC BY 2.0",
    "license_url": "https://creativecommons.org/licenses/by/2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Evening_praying_time_at_Parmarth_Niketan_ghat,_by_the_Ganges,_Rishikesh.jpg"
-  },
-  {
-   "file": "File:Ganga Arti At Triveni Ghat In Rishikesh.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg/1920px-Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4608,
-   "height": 2128,
-   "landscape": true,
-   "description": "Triveni Ghat is the biggest and most famous ghat in Rishikesh at the banks of Ganges. The famous Ganga aarti is performed here every day.",
-   "author": "Bhuvi Uniyal",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg"
-  },
-  {
-   "file": "File:Ghats on the Ganges near Parmarth Niketan, Muni Ki Reti, Rishikesh.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ghats_on_the_Ganges_near_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ghats_on_the_Ganges_near_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg/1920px-Ghats_on_the_Ganges_near_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 3000,
-   "landscape": true,
-   "description": "Ghats on the Ganges near Parmarth Niketan, Muni Ki Reti, Rishikesh.",
-   "author": "Ken Wieland from Philadelphia, USA",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Ghats_on_the_Ganges_near_Parmarth_Niketan,_Muni_Ki_Reti,_Rishikesh.jpg"
   }
  ],
  "exp:rishikesh-triveni-ghat-ganga-aarti": [
@@ -6229,30 +6255,69 @@
  ],
  "place:kausani": [
   {
-   "file": "File:Garrulax lineatus -Kausani, Uttarakhand state, India-8.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Garrulax_lineatus_-Kausani%2C_Uttarakhand_state%2C_India-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Garrulax_lineatus_-Kausani%2C_Uttarakhand_state%2C_India-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1018,
-   "height": 879,
+   "file": "File:Sunrise from Kausani, Almora, Uttarakhand, India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sunrise_from_Kausani%2C_Almora%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Sunrise_from_Kausani%2C_Almora%2C_Uttarakhand%2C_India.jpg/1920px-Sunrise_from_Kausani%2C_Almora%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4280,
+   "height": 2579,
    "landscape": true,
-   "description": "A Streaked Laughingthrush near the foothills of himalaya in Kausani, Uttarakhand state, India.",
-   "author": "Yogendra Joshi",
+   "description": "The Sun emerges from behind the Panchchuli peaks of the Kumayun Himalaya. Taken at Kausani, Almora, Uttarakhand, India on evening of 30 May 2014.",
+   "author": "Abhijit Kar Gupta from Kolkata, India",
    "license": "CC BY 2.0",
    "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Garrulax_lineatus_-Kausani,_Uttarakhand_state,_India-8.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_from_Kausani,_Almora,_Uttarakhand,_India.jpg"
   },
   {
-   "file": "File:Dream country.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dream_country.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dream_country.jpg/1920px-Dream_country.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 2816,
-   "height": 2112,
+   "file": "File:Kausani, Uttarakhand 263639, India - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kausani%2C_Uttarakhand_263639%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kausani%2C_Uttarakhand_263639%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 932,
    "landscape": true,
-   "description": "Kumaon Himalaya range from kausani, Uttrakhand",
-   "author": "Sujayadhar",
+   "description": "Kausani, Uttarakhand 263639, India",
+   "author": "sushanta mohanta sin…",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kausani,_Uttarakhand_263639,_India_-_panoramio.jpg"
+  },
+  {
+   "file": "File:Kausani, Uttarakhand 263639, India - panoramio (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kausani%2C_Uttarakhand_263639%2C_India_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kausani%2C_Uttarakhand_263639%2C_India_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1600,
+   "height": 1200,
+   "landscape": true,
+   "description": "Kausani, Uttarakhand 263639, India",
+   "author": "sushanta mohanta sin…",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kausani,_Uttarakhand_263639,_India_-_panoramio_(1).jpg"
+  },
+  {
+   "file": "File:Panoramic view of the Himalayas from Kausani, Uttarakhand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Panoramic_view_of_the_Himalayas_from_Kausani%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Panoramic_view_of_the_Himalayas_from_Kausani%2C_Uttarakhand.jpg/1920px-Panoramic_view_of_the_Himalayas_from_Kausani%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4358,
+   "height": 900,
+   "landscape": true,
+   "description": "Panoramic view of the Himalayas from Kausani, Uttarakhand. Flickr uploader's description: \"Himalayas from Kausani. Shot almost an year ago.. and want to go back..\"",
+   "author": "Gaurav Agrawal from Delhi, India",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_Himalayas_from_Kausani,_Uttarakhand.jpg"
+  },
+  {
+   "file": "File:Trishul Peak At Kausani, Uttarakhand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Trishul_Peak_At_Kausani%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Trishul_Peak_At_Kausani%2C_Uttarakhand.jpg/1920px-Trishul_Peak_At_Kausani%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2592,
+   "height": 1944,
+   "landscape": true,
+   "description": "Trisul Peak from Anasakti Ashram, Kausani, Bageshwar District, Uttarahand",
+   "author": "Aru10491",
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dream_country.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Trishul_Peak_At_Kausani,_Uttarakhand.jpg"
   }
  ],
  "exp:kausani-anasakti-ashram-sunrise": [
@@ -6830,30 +6895,43 @@
  ],
  "place:ranikhet": [
   {
-   "file": "File:Bhalu Dam.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bhalu_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bhalu_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1300,
-   "height": 866,
+   "file": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/1920px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7570,
+   "height": 2200,
    "landscape": true,
-   "description": "Bhalu Dam is a colonial reminiscent situated among thick pine, Himalayan oak and Cedar forests near Ranikhet",
+   "description": "Photograph taken from Ranikhet, Almora, Uttarakhand, India. Showing, from left to right: Nanda Ghunti (6,309 metres (20,699 ft)), Trisul (7,120 metres (23,360 ft)), Mrigthuni (6,855 metres (22,490 ft)), Devtoli (6,788 me",
+   "author": "Original: Harshit SR Derivative work: UnpetitproleX",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg"
+  },
+  {
+   "file": "File:Temple Bells (4834757731).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Temple_Bells_%284834757731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Temple_Bells_%284834757731%29.jpg/1920px-Temple_Bells_%284834757731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
+   "landscape": true,
+   "description": "A temple for a local goddess called Jhoola Devi, near to Ranikhet (Almora, Uttarakhand, India). Like many other temples all across Himalaya, this temple is full of metal bells. The legend is that the goddess protects peo",
+   "author": "Ibn Batoota",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Temple_Bells_(4834757731).jpg"
+  },
+  {
+   "file": "File:Panorama of Ranikhet town in Almora district, Uttarakhand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg/1920px-Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5080,
+   "height": 1931,
+   "landscape": true,
+   "description": "Photograph taken from Ranikhet, Almora, Uttarakhand, India.",
    "author": "Harshit SR",
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bhalu_Dam.jpg"
-  },
-  {
-   "file": "File:Fantastic view.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Fantastic_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Fantastic_view.jpg/1920px-Fantastic_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4320,
-   "height": 2432,
-   "landscape": true,
-   "description": "clouds over ranikhet valley",
-   "author": "Ayushbisht1",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Fantastic_view.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Ranikhet_town_in_Almora_district,_Uttarakhand.jpg"
   },
   {
    "file": "File:Haidakhan Temple.jpg",
@@ -6880,32 +6958,6 @@
    "license": "CC BY-SA 3.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "source": "https://commons.wikimedia.org/wiki/File:Jhula_devi_temple,_Ranikhet.jpg"
-  },
-  {
-   "file": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/1920px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 7570,
-   "height": 2200,
-   "landscape": true,
-   "description": "Photograph taken from Ranikhet, Almora, Uttarakhand, India. Showing, from left to right: Nanda Ghunti (6,309 metres (20,699 ft)), Trisul (7,120 metres (23,360 ft)), Mrigthuni (6,855 metres (22,490 ft)), Devtoli (6,788 me",
-   "author": "Original: Harshit SR Derivative work: UnpetitproleX",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg"
-  },
-  {
-   "file": "File:Panorama of Ranikhet town in Almora district, Uttarakhand.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg/1920px-Panorama_of_Ranikhet_town_in_Almora_district%2C_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5080,
-   "height": 1931,
-   "landscape": true,
-   "description": "Photograph taken from Ranikhet, Almora, Uttarakhand, India.",
-   "author": "Harshit SR",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Ranikhet_town_in_Almora_district,_Uttarakhand.jpg"
   }
  ],
  "exp:ranikhet-regimental-museum-cantonment-walk": [
@@ -10011,82 +10063,43 @@
  "exp:lava-changey-falls-and-kolakham": [],
  "place:lepchajagat": [
   {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 01.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_01.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
+   "file": "File:The majestic Kanchenjunga range.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/The_majestic_Kanchenjunga_range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/The_majestic_Kanchenjunga_range.jpg/1920px-The_majestic_Kanchenjunga_range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3888,
+   "height": 2592,
    "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
+   "description": "The majestic Kanchenjunga range, Lepchajagat",
+   "author": "SubrataEmfluence",
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_01.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:The_majestic_Kanchenjunga_range.jpg"
   },
   {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 06.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_06.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
+   "file": "File:DarjeelingTrainFruitshop (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/DarjeelingTrainFruitshop_%282%29.jpg/1920px-DarjeelingTrainFruitshop_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3093,
+   "height": 2021,
    "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
+   "description": "A Darjeeling Himalayan Railway train passing a fruit and vegetable shop in Darjeeling en route to the main train station.",
+   "author": "Arne Hückelheim 2010-09-21 12:41:53 This is a cropped in which the glare has been lessened",
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_06.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:DarjeelingTrainFruitshop_(2).jpg"
   },
   {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 02.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_02.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
+   "file": "File:1046 IndiaDarjeeling 19931231 (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/1046_IndiaDarjeeling_19931231_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/29/1046_IndiaDarjeeling_19931231_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1771,
+   "height": 1455,
    "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
+   "description": "Damage to the Darjeeling Himalayan Railway tracks caused by landslide",
+   "author": "MaltaGC (Nigel Tout), 31 December 1993",
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_02.jpg"
-  },
-  {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 03.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_03.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
-   "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_03.jpg"
-  },
-  {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 08.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_08.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
-   "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_08.jpg"
-  },
-  {
-   "file": "File:Darjeeling Woodpecker the Silent Sculptor of Himalayan Forests 04.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_04.jpg/1920px-Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 5568,
-   "height": 3712,
-   "landscape": true,
-   "description": "The Darjeeling Woodpecker (Dendrocopos darjellensis) is a striking bird that brings life to the ancient forests of the Himalayas. Its bold black-and-white plumage is beautifully patterned with white barring across the wi",
-   "author": "Shiv's fotografia",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Woodpecker_the_Silent_Sculptor_of_Himalayan_Forests_04.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:1046_IndiaDarjeeling_19931231_(2).jpg"
   }
  ],
  "exp:lepchajagat-forest-sunrise-walk": [
@@ -10375,7 +10388,60 @@
    "source": "https://commons.wikimedia.org/wiki/File:Tea_Garden_enroute_Mirik_-_panoramio.jpg"
   }
  ],
- "place:rishyap": [],
+ "place:rishyap": [
+  {
+   "file": "File:Rishop village in Kalimpong district 08.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rishop_village_in_Kalimpong_district_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Rishop_village_in_Kalimpong_district_08.jpg/1920px-Rishop_village_in_Kalimpong_district_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 1836,
+   "landscape": true,
+   "description": "Rishop village in Kalimpong district",
+   "author": "Pinakpani",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rishop_village_in_Kalimpong_district_08.jpg"
+  },
+  {
+   "file": "File:Rishop village in Kalimpong district 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rishop_village_in_Kalimpong_district_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Rishop_village_in_Kalimpong_district_02.jpg/1920px-Rishop_village_in_Kalimpong_district_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 1468,
+   "landscape": true,
+   "description": "Rishop village in Kalimpong district",
+   "author": "Pinakpani",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rishop_village_in_Kalimpong_district_02.jpg"
+  },
+  {
+   "file": "File:Rishop village in Kalimpong district 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rishop_village_in_Kalimpong_district_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rishop_village_in_Kalimpong_district_03.jpg/1920px-Rishop_village_in_Kalimpong_district_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 1836,
+   "landscape": true,
+   "description": "Rishop village in Kalimpong district",
+   "author": "Pinakpani",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rishop_village_in_Kalimpong_district_03.jpg"
+  },
+  {
+   "file": "File:Rishop village in Kalimpong district 07.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rishop_village_in_Kalimpong_district_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rishop_village_in_Kalimpong_district_07.jpg/1920px-Rishop_village_in_Kalimpong_district_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 1468,
+   "landscape": true,
+   "description": "Rishop village in Kalimpong district",
+   "author": "Pinakpani",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rishop_village_in_Kalimpong_district_07.jpg"
+  }
+ ],
  "exp:rishyap-tiffindara-sunrise": [
   {
    "file": "File:Kanchenjunga range from Tiger Hill, Darjeeling.jpg",
@@ -10609,7 +10675,34 @@
    "source": "https://commons.wikimedia.org/wiki/File:Natural_sculpture_on_our_trek_way_to_Phalut.JPG"
   }
  ],
- "place:sittong": [],
+ "place:sittong": [
+  {
+   "file": "File:Sittong Mud Monestry.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sittong_Mud_Monestry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sittong_Mud_Monestry.jpg/1920px-Sittong_Mud_Monestry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3600,
+   "height": 3000,
+   "landscape": true,
+   "description": "There is a approx. 400 years old Buddhist Monastery located in Upper Sittong near Tham village which is mainly made of mud and bamboo.",
+   "author": "Auli Raha (অলি রাহা)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sittong_Mud_Monestry.jpg"
+  },
+  {
+   "file": "File:Sittong Mud Monastery.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sittong_Mud_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sittong_Mud_Monastery.jpg/1920px-Sittong_Mud_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3600,
+   "height": 3000,
+   "landscape": true,
+   "description": "There is a approx. 400 years old Buddhist Monastery located in Upper Sittong near Tham village which is mainly made of mud and bamboo.",
+   "author": "Auli Raha (অলি রাহা)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sittong_Mud_Monastery.jpg"
+  }
+ ],
  "exp:sittong-orange-orchard-walk": [],
  "exp:sittong-mungpoo-rabindra-bhavan": [
   {
@@ -13390,19 +13483,6 @@
  "exp:hemis-rumbak-village-homestay-walk": [],
  "place:kargil": [
   {
-   "file": "File:TOURIST FECILITATION CENTRE KARGIL.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/TOURIST_FECILITATION_CENTRE_KARGIL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/TOURIST_FECILITATION_CENTRE_KARGIL.jpg/1920px-TOURIST_FECILITATION_CENTRE_KARGIL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4096,
-   "height": 1834,
-   "landscape": true,
-   "description": "TOURIST FECILITATION CENTRE KARGIL IS LOCATED AT BEMATHANG KARGIL",
-   "author": "FAYAZ SHUJA",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:TOURIST_FECILITATION_CENTRE_KARGIL.jpg"
-  },
-  {
    "file": "File:Kargil Town Panorama.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kargil_Town_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kargil_Town_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13414,6 +13494,32 @@
    "license": "CC BY 2.0",
    "license_url": "https://creativecommons.org/licenses/by/2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Kargil_Town_Panorama.jpg"
+  },
+  {
+   "file": "File:A Traditional House in Hundurman Village, Kargil 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_Traditional_House_in_Hundurman_Village%2C_Kargil_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/A_Traditional_House_in_Hundurman_Village%2C_Kargil_03.jpg/1920px-A_Traditional_House_in_Hundurman_Village%2C_Kargil_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4080,
+   "height": 3060,
+   "landscape": true,
+   "description": "Hunderman is a small, old village in Kargil, Ladakh. It is about 10 km north of Kargil town, on the bank of the Suru River. The old part of the village is called Hunderman Brok. It has old houses made of stone and mud in",
+   "author": "Rajani Gairshail",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Traditional_House_in_Hundurman_Village,_Kargil_03.jpg"
+  },
+  {
+   "file": "File:Kargil town, India panorama.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kargil_town%2C_India_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kargil_town%2C_India_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1024,
+   "height": 766,
+   "landscape": true,
+   "description": "A view of Kargil, India.",
+   "author": "https://www.flickr.com/photos/himalayan-trails/",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kargil_town,_India_panorama.jpg"
   },
   {
    "file": "File:Kargil airport overview.jpg",
@@ -13453,19 +13559,6 @@
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Rangdum_village_of_Zanskar_in_Kargil.jpg"
-  },
-  {
-   "file": "File:Sodh Khar (Fort) Kargil.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sodh_Khar_%28Fort%29_Kargil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sodh_Khar_%28Fort%29_Kargil.jpg/1920px-Sodh_Khar_%28Fort%29_Kargil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 3264,
-   "height": 2448,
-   "landscape": true,
-   "description": "One of the three ancint forts situated in the vicinity of Kargil Town in Sodh Area. It was burnt and destroyed during the 19th century Dogra Raid of Ladakh. The fort itself is 500 years old and the chief atraction is the",
-   "author": "123shob123",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sodh_Khar_(Fort)_Kargil.jpg"
   }
  ],
  "exp:kargil-mulbekh-chamba-and-shergol": [
@@ -17386,19 +17479,6 @@
  ],
  "place:gangtok": [
   {
-   "file": "File:Kangch-Goechala.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kangch-Goechala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kangch-Goechala.jpg/1920px-Kangch-Goechala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 2592,
-   "height": 1944,
-   "landscape": true,
-   "description": "Picture of Kangchenjunga taken by author from Goecha La pass, 4940m, Sikkim. The peak in the image is actually the South peak of Kangchenjunga, which is about 400 ft lower than the main peak. You can also see the West pe",
-   "author": "Ashinpt at enwiki",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangch-Goechala.jpg"
-  },
-  {
    "file": "File:1 Beauty of hill city Gangtok.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/1_Beauty_of_hill_city_Gangtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/1_Beauty_of_hill_city_Gangtok.jpg/1920px-1_Beauty_of_hill_city_Gangtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19142,7 +19222,60 @@
    "source": "https://commons.wikimedia.org/wiki/File:Great_Hornbill_Male.jpg"
   }
  ],
- "place:bomdila": [],
+ "place:bomdila": [
+  {
+   "file": "File:Bomdila Monastery, Arunachal Pradesh.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bomdila_Monastery%2C_Arunachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bomdila_Monastery%2C_Arunachal_Pradesh.jpg/1920px-Bomdila_Monastery%2C_Arunachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4160,
+   "height": 3120,
+   "landscape": true,
+   "description": "Monastery at Bomdila, Arunachal Pradesh, India",
+   "author": "Chaduvari",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila_Monastery,_Arunachal_Pradesh.jpg"
+  },
+  {
+   "file": "File:Bomdila monastery paintings.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bomdila_monastery_paintings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bomdila_monastery_paintings.jpg/1920px-Bomdila_monastery_paintings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4617,
+   "height": 3828,
+   "landscape": true,
+   "description": "Bomdila Monastery aka Gentse Gaden Rabgye Ling monastery is a Buddhist monastery in Arunachal Pradesh, northeastern India , was built in 1965 by the twelfth incarnation of the Tsona Gontse Rinpoche. The monastery follows",
+   "author": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila_monastery_paintings.jpg"
+  },
+  {
+   "file": "File:Bomdila monastery in dark clouds.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bomdila_monastery_in_dark_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bomdila_monastery_in_dark_clouds.jpg/1920px-Bomdila_monastery_in_dark_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5397,
+   "height": 3598,
+   "landscape": true,
+   "description": "Bomdila Monastery aka Gentse Gaden Rabgye Ling monastery is a Buddhist monastery in Arunachal Pradesh, northeastern India , was built in 1965 by the twelfth incarnation of the Tsona Gontse Rinpoche. Inside the Gompa, the",
+   "author": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila_monastery_in_dark_clouds.jpg"
+  },
+  {
+   "file": "File:Bomdila monastery Buddha temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bomdila_monastery_Buddha_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bomdila_monastery_Buddha_temple.jpg/1920px-Bomdila_monastery_Buddha_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5515,
+   "height": 3677,
+   "landscape": true,
+   "description": "Bomdila Monastery aka Gentse Gaden Rabgye Ling monastery is a Buddhist monastery in Arunachal Pradesh, northeastern India , was built in 1965 by the twelfth incarnation of the Tsona Gontse Rinpoche. Inside the Gompa, the",
+   "author": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomdila_monastery_Buddha_temple.jpg"
+  }
+ ],
  "exp:bomdila-upper-gompa-evening-prayers": [],
  "exp:bomdila-eaglenest-birding-day": [
   {
