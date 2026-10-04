@@ -1,0 +1,244 @@
+{
+ "slug": "spiti-signature-slow-spiti-and-lahaul-11n",
+ "title": "Slow Spiti and Lahaul with a private guide",
+ "region": "spiti",
+ "tier": "signature",
+ "nights": 11,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "photography",
+  "homestays-and-villages"
+ ],
+ "stops": [
+  {
+   "place": "nako",
+   "nights": 1
+  },
+  {
+   "place": "tabo",
+   "nights": 2
+  },
+  {
+   "place": "kaza",
+   "nights": 5
+  },
+  {
+   "place": "chandratal",
+   "nights": 1
+  },
+  {
+   "place": "jispa",
+   "nights": 2
+  }
+ ],
+ "start": "Kalpa (Kinnaur), after 2 nights from Shimla",
+ "end": "Manali",
+ "price_from_inr": 195000,
+ "price_note": "Per person, twin sharing: 11 nights in the best rooms in each stop including 5 nights at The Grand Dewachen, all meals, private SUV and driver, private guide throughout; Shimla–Kalpa nights and flights extra.",
+ "transport": "Private SUV with driver, private guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  1,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Signature Spiti and Lahaul trip, 11 nights: Nako, Tabo, five nights at The Grand Dewachen near Kaza, Chandratal and Jispa, private guide, from ₹1,95,000 pp.",
+ "summary": "Our slowest and most comfortable Spiti journey: eleven nights with a private guide and SUV, climbing gently through Nako and Tabo, five nights at The Grand Dewachen in Rangrik for unhurried village days, a camp night at Chandratal and two quiet nights at Hotel Ibex in Jispa before Manali.",
+ "intro": [
+  "Signature in Spiti does not mean marble lobbies. The valley has no luxury resorts, and we would not pretend otherwise. What this journey offers is time, the best rooms that exist at each stop, a guide who can explain what you are seeing in the gompas and villages, and a driver who knows every slide zone. Five nights in one place near Kaza mean you never pack and unpack during the high days.",
+  "The pace is set by altitude. Nako and two nights at Tabo bring you up slowly from Kinnaur. At Rangrik, about 3,650 m, the first full day is kept light, and the high villages come only on the third and fourth days. Chandratal, at about 4,250 m, follows a week above 3,000 m. Two nights at Jispa, lower and warm, make a calm ending. We recommend two nights from Shimla to Kalpa before day 1; we arrange them separately."
+ ],
+ "highlights": [
+  "Private guide in Tabo's 996 CE assembly hall and at Key Gompa",
+  "Five nights at The Grand Dewachen in Rangrik",
+  "A full day in the Pin valley looking for ibex",
+  "Langza, Hikkim and Komic with time to walk",
+  "Chandratal at dawn and two slow nights at Jispa"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Kalpa to Nako",
+   "place": "nako",
+   "overnight": "Nako",
+   "drive": "≈ 117 km · 4–5 h",
+   "text": "Your guide and driver meet you in Kalpa after breakfast. The road follows the Sutlej through Pooh and climbs from Khab, where the Spiti river joins, to Nako at 3,625 m. Lunch in the village, rest, and walk with your guide to the 1025 CE temple halls linked to Rinchen Zangpo and around the lake in the evening. Keep the evening quiet and hydrate well.",
+   "meals": "Lunch, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Gue and down to Tabo",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 63 km plus Gue detour · 4–5 h",
+   "text": "Drive through Chango's orchards to Sumdo, then up to Gue to see the seated mummy of a monk believed to date from the 1500s. Continue to Tabo at about 3,050 m, lower than Nako and good for sleep. Check into the best guesthouse in the village and walk the outer walls of the monastery in the late afternoon light.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Tabo with your guide",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "",
+   "text": "Attend morning prayers, then spend a long morning inside the old complex founded in 996 CE with your guide, who will explain the clay figures and murals of the assembly hall. Photography is not allowed inside. After lunch, walk to the meditation caves above the village. This lower-altitude day matters: it sets up the five nights near Kaza.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Dhankar to Rangrik",
+   "place": "kaza",
+   "overnight": "Rangrik",
+   "drive": "≈ 60 km including Dhankar · 3–4 h",
+   "text": "Climb to Dhankar's cliff-top gompa above the Spiti–Pin confluence and hear from your guide how it served as the seat of Spiti's rulers. Continue to Kaza and across the river to Rangrik, and check into The Grand Dewachen for five nights. Rest for the afternoon; at about 3,650 m the first night is often restless.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Kaza and Rangrik slowly",
+   "place": "kaza",
+   "overnight": "Rangrik",
+   "drive": "≈ 15 km",
+   "text": "A light day by design. Walk Rangrik's fields and small gompa in the morning, then drive into Kaza to see the Sakya Tangyud monastery and the old lanes of Kaza Khas. Lunch at a Kaza cafe with sea buckthorn juice. Return to the hotel for a quiet afternoon. Clear nights at Rangrik are dark and good for stars.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Key Gompa and Kibber",
+   "place": "key-and-kibber",
+   "overnight": "Rangrik",
+   "drive": "≈ 60 km round trip · 3 h",
+   "text": "Leave early for morning prayers at Key Gompa, where your guide can arrange a quiet visit to the prayer halls and roof terraces. Drive on to Kibber, once the last village on the trade path to Ladakh, and walk across Chicham bridge. Picnic lunch, then return to Rangrik for the afternoon.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Langza, Hikkim and Komic",
+   "place": "langza",
+   "overnight": "Rangrik",
+   "drive": "≈ 60 km loop · 5 h",
+   "text": "Drive up to Langza at about 4,420 m for the Buddha statue and fossil slopes, then on to Hikkim's post office and Komic, at about 4,587 m. With a guide and no rush, you can sit in a village kitchen for tea and see how families store food for the eight-month winter. Return to sleep at Rangrik, lower down.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Pin valley",
+   "place": "pin-valley",
+   "overnight": "Rangrik",
+   "drive": "≈ 110 km round trip · 5 h",
+   "text": "A full day in Pin Valley National Park. Stop at Kungri gompa, of the Nyingma school, then drive to Mudh at the end of the road. Walk with a local spotter to look for ibex and blue sheep on the banded slopes. Lunch in Mudh, and return to Rangrik in the late afternoon. Fuel up in Kaza for the drive over Kunzum.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Over Kunzum La to Chandratal",
+   "place": "chandratal",
+   "overnight": "Chandratal camp",
+   "drive": "≈ 100 km · 4–5 h",
+   "text": "Drive through Kiato and Losar and over Kunzum La at about 4,590 m, stopping at the shrine. Lunch at Batal, then take the side road to the best-run camp at Chandratal. Walk to the lake in the afternoon with your guide. Expect a cold night below freezing, and no mobile signal.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Chandratal to Jispa",
+   "place": "jispa",
+   "overnight": "Jispa",
+   "drive": "≈ 135 km · 6–7 h",
+   "text": "Walk to the lake at dawn, then drive the rough stretch from Batal through Chhatru to Gramphu, crossing the streams in the morning when they run low. Join the paved road at Gramphu, pass the Atal Tunnel's north portal and drive through Tandi and Keylong to Hotel Ibex in Jispa, at about 3,200 m. A warm room and an easier night.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 11,
+   "title": "Jispa, Darcha and Kardang",
+   "place": "jispa",
+   "overnight": "Jispa",
+   "drive": "≈ 60 km of short drives",
+   "text": "A slow last day. Walk the Bhaga riverbank in the morning, drive up to Darcha where the Leh road starts its climb, and in the afternoon visit Kardang Gompa above Keylong, the most important monastery in Lahaul, where monks and nuns share the community. Dinner at the hotel.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 12,
+   "title": "Jispa to Manali",
+   "place": "jispa",
+   "overnight": "",
+   "drive": "≈ 95 km · 3–4 h",
+   "text": "Drive through Keylong and Sissu and under the Pir Panjal by the Atal Tunnel, reaching Manali by lunchtime. Your guide and driver take you to your Manali hotel or onward to Bhuntar airport, about 50 km further, by arrangement.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "the-grand-dewachen-rangrik",
+  "chandratal-camping-ground-tents",
+  "hotel-ibex-jispa"
+ ],
+ "includes": [
+  "11 nights in the best available rooms at each stop, twin sharing",
+  "All meals from lunch on day 1 to breakfast on day 12",
+  "Private SUV with driver from Kalpa to Manali",
+  "Private English- or Hindi-speaking guide throughout",
+  "Local wildlife spotter in Pin valley",
+  "Lahaul vehicle permits and monastery donations on guided visits"
+ ],
+ "excludes": [
+  "Shimla–Kalpa nights before day 1",
+  "Flights and trains",
+  "Drinks",
+  "Protected Area Permit fees for foreign nationals",
+  "Tips for guide and driver"
+ ],
+ "good_to_know": [
+  "Acclimatisation: all eleven nights are at about 3,000 m or above, and one is at about 4,250 m. The plan climbs slowly and keeps high villages to day trips, but no itinerary removes the risk. Rest when you arrive, drink water, avoid alcohol at first and talk to your doctor before you go.",
+  "The best hotels in Spiti and Lahaul are comfortable, not luxurious. Expect warm rooms and good food rather than spas.",
+  "Kunzum La usually opens from about mid-June to October; outside that window we exit through Kinnaur. Check current status before you travel.",
+  "No mobile signal from Losar to Chhatru, including Chandratal.",
+  "Inside monasteries, follow your guide's lead on shoes, photography and where to sit."
+ ],
+ "faqs": [
+  {
+   "q": "Is ₹1,95,000 per person realistic for this trip?",
+   "a": "For two people sharing, with five nights at The Grand Dewachen, a private guide, SUV and all meals for 11 nights, yes. It is mostly the cost of the guide, vehicle and the few top rooms. Prices are indicative for 2026."
+  },
+  {
+   "q": "Are there luxury hotels in Spiti?",
+   "a": "Not in the international sense. The Grand Dewachen at Rangrik is the most comfortable hotel in the valley, and Hotel Ibex is among the best in Lahaul. Elsewhere we use the best rooms available."
+  },
+  {
+   "q": "Why stay five nights in one hotel?",
+   "a": "It cuts packing, lets you sleep at about 3,650 m while visiting higher villages, and leaves room for a rest day or a weather day without changing bookings."
+  },
+  {
+   "q": "Who is the guide?",
+   "a": "A professional guide from Himachal who knows Spiti's monasteries, villages and roads. We match the guide to your language and interests. We do not name guides in advance."
+  },
+  {
+   "q": "Can the trip be reversed to start in Manali?",
+   "a": "We advise against it, because it takes you to 3,650 m or higher too quickly. If you must, we add two nights at Jispa first and adjust the order."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, for healthy seniors who are comfortable with long drives and simple mountain hotels. We can skip Chandratal for an extra night in Jispa. Talk to your doctor before booking."
+  },
+  {
+   "q": "What about foreign travellers?",
+   "a": "Foreign nationals need a Protected Area Permit for the Kinnaur–Spiti border stretch; we help arrange it. Check current status before you travel."
+  },
+  {
+   "q": "What is the weather like in July and August?",
+   "a": "Inside Spiti it is dry and sunny, around 9–24 °C by day in Kaza. The approach roads can see monsoon landslides, so we keep flexibility in the plan."
+  },
+  {
+   "q": "Can we add a winter snow leopard trip?",
+   "a": "That is a separate journey from January to March, based at Kibber homestays, since the comfortable hotels are closed in winter. Ask us for details."
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+[
+ {
+  "slug": "nako-to-tabo",
+  "from": "nako",
+  "to": "tabo",
+  "distance_km": 63,
+  "summary": "The stretch where the Kinnaur road becomes Spiti: down from Nako past the Malling slide zone, along the Spiti river through Chango and Sumdo, and into Tabo. About 63 km and 2.5–3 hours, with a detour to the Gue mummy possible on the way.",
+  "options": [
+   {
+    "mode": "HRTC bus",
+    "time": "2.5–3.5 h",
+    "cost": "₹150–250",
+    "text": "The Reckong Peo–Kaza bus passes the Nako turn-off and continues to Tabo once a day, usually reaching Nako around late morning or midday. Wait at the main road below the village, ask at your guesthouse for the usual time, and be early. Seats can be full in July and August; standing on mountain roads is tiring but common."
+   },
+   {
+    "mode": "Private car",
+    "time": "2–2.5 h",
+    "cost": "₹3,500–5,000 one way",
+    "text": "A taxi from Nako or a car from Reckong Peo gives you time to stop at Chango's apple orchards and Sumdo, and to make the Gue detour. Gue adds about 2 hours and ₹1,500–2,500. Foreign nationals must carry their Protected Area Permit on this stretch."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "2–2.5 h",
+    "cost": "₹400–700 a seat",
+    "text": "Shared taxis between Reckong Peo and Kaza run in season but are irregular from Nako, which is mid-route. Ask your guesthouse whether a vehicle with empty seats is passing. Do not rely on one for a fixed plan; the bus or a private car is safer."
+   }
+  ],
+  "stops_on_way": [
+   "Malling nala slide zone",
+   "Chango orchards",
+   "Sumdo, at the Spiti–Kinnaur border",
+   "Gue mummy detour"
+  ],
+  "road_status": "Open most of the year; landslides at Malling and snow in winter can close it for hours or days. Check current status before you travel.",
+  "tip": "Cross the Malling stretch in the morning, before afternoon winds bring more rockfall.",
+  "faqs": [
+   {
+    "q": "How far is Tabo from Nako?",
+    "a": "About 63 km by road via Malling, Chango and Sumdo, roughly 2.5–3 hours depending on road work and landslides."
+   },
+   {
+    "q": "Can I see the Gue mummy between Nako and Tabo?",
+    "a": "Yes, Gue is a side road from near Sumdo. Allow about 2 extra hours and arrange a car, as buses do not go to Gue."
+   },
+   {
+    "q": "Do foreigners need a permit from Nako to Tabo?",
+    "a": "Yes. Foreign nationals need a Protected Area Permit for the border stretch that includes Nako and Sumdo. Indians do not need a permit. Check current status before you travel."
+   },
+   {
+    "q": "Is the Nako to Tabo road dangerous?",
+    "a": "It is a narrow mountain road with rockfall zones, especially at Malling. Travel in daylight with an experienced driver or on the HRTC bus, and avoid moving after heavy rain."
+   }
+  ]
+ },
+ {
+  "slug": "tabo-to-kaza",
+  "from": "tabo",
+  "to": "kaza",
+  "distance_km": 47,
+  "summary": "The heart of the Spiti valley in 47 km: from Tabo's orchards past the Dhankar turn-off and the Pin river confluence to Kaza. Under 2 hours direct, or a half-day with Dhankar's cliff-top gompa on the way.",
+  "options": [
+   {
+    "mode": "HRTC bus",
+    "time": "1.5–2 h",
+    "cost": "₹80–120",
+    "text": "The Reckong Peo–Kaza bus passes Tabo in the early afternoon, and local buses run between Tabo and Kaza on some days. Ask in Tabo the evening before for timings. The bus does not go up to Dhankar village, which is 8 km off the main road and steep."
+   },
+   {
+    "mode": "Private car",
+    "time": "1.5 h direct; 4–5 h with Dhankar",
+    "cost": "₹3,000–4,000 with Dhankar",
+    "text": "The best way to combine the drive with Dhankar's gompa and the view over the Spiti and Pin rivers. Leave Tabo after breakfast, spend 2 hours at Dhankar, and reach Kaza by mid-afternoon. Add Lhalung village if you have time and energy."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "1.5–2 h",
+    "cost": "₹300–500 a seat",
+    "text": "Seats in Kaza-bound taxis from Reckong Peo are sometimes free at Tabo, and Kaza drivers returning empty may offer a seat. These are informal, so ask at your guesthouse and the road-side cafes in the morning."
+   }
+  ],
+  "stops_on_way": [
+   "Dhankar gompa and village",
+   "Spiti–Pin confluence",
+   "Lingti river bridge",
+   "Schilling viewpoint"
+  ],
+  "road_status": "Open most of the year, with snow in winter. Check current status before you travel.",
+  "tip": "Do Dhankar on the way to Kaza, not as a separate trip, to save a full taxi day.",
+  "faqs": [
+   {
+    "q": "How long does it take from Tabo to Kaza?",
+    "a": "About 1.5–2 hours for the 47 km direct. With Dhankar on the way, allow 4–5 hours."
+   },
+   {
+    "q": "Is there a bus from Tabo to Kaza?",
+    "a": "Yes, the Reckong Peo–Kaza HRTC bus passes Tabo once a day, usually in the early afternoon, and local buses run on some days. Check current status before you travel."
+   },
+   {
+    "q": "Can I visit Dhankar between Tabo and Kaza by bus?",
+    "a": "Not easily. Dhankar is 8 km uphill from the main road. Take a taxi or shared car, or stay a night in Dhankar village."
+   },
+   {
+    "q": "Should I stay in Tabo or Kaza first?",
+    "a": "Tabo first, if coming from Kinnaur. At about 3,050 m it is lower than Kaza and helps your body adjust before 3,650 m."
+   }
+  ]
+ },
+ {
+  "slug": "kaza-to-key-and-kibber",
+  "from": "kaza",
+  "to": "key-and-kibber",
+  "distance_km": 19,
+  "summary": "The short climb from Kaza to Key Gompa at about 4,166 m and on to Kibber village at about 4,270 m. Twelve kilometres to Key, about 19 to Kibber, and the start of the road to Chicham bridge. Easy by taxi, local bus or, for the fit and acclimatised, on foot.",
+  "options": [
+   {
+    "mode": "Local bus",
+    "time": "45 min–1 h",
+    "cost": "₹40–80",
+    "text": "A local bus runs from Kaza to Kibber via Key in season, usually once or twice a day, leaving Kaza in the afternoon and returning next morning. That makes it good for a night in Kibber but awkward for a day trip. Ask at the Kaza bus stand for current timings."
+   },
+   {
+    "mode": "Taxi",
+    "time": "30 min to Key; 50 min to Kibber",
+    "cost": "₹2,000–3,000 for Key, Kibber and Chicham return",
+    "text": "The usual way to visit Key and Kibber in half a day. Taxi union rates are posted in Kaza and cover waiting time. Leave at 6.30 am to reach Key for morning prayers, then go on to Kibber and Chicham bridge."
+   },
+   {
+    "mode": "On foot",
+    "time": "3–4 h to Key",
+    "cost": "Free",
+    "text": "Fit travellers who have had two nights in Kaza can walk the road or village paths to Key, gaining about 500 m. Start early with water, sun protection and a phone, and take a taxi back. Do not walk on your first or second day."
+   }
+  ],
+  "stops_on_way": [
+   "Key Gompa",
+   "Kee village fields",
+   "Kibber village",
+   "Chicham bridge"
+  ],
+  "road_status": "Paved and open most of the year; snow can close it for a day or two in winter. Check current status before you travel.",
+  "tip": "Share a taxi with three others and combine Key and Kibber with the Langza loop on a separate day.",
+  "faqs": [
+   {
+    "q": "How far is Key Monastery from Kaza?",
+    "a": "About 12 km, roughly 30 minutes by taxi. Kibber is about 7 km further."
+   },
+   {
+    "q": "Is there a bus from Kaza to Kibber?",
+    "a": "A local bus usually runs in the afternoon in season and returns next morning, which suits a night in Kibber. Check current status before you travel."
+   },
+   {
+    "q": "Can I visit Key, Kibber and Langza in one day?",
+    "a": "It is possible by taxi but rushed and tiring at this altitude. We suggest Key, Kibber and Chicham one day and Langza, Hikkim and Komic another."
+   },
+   {
+    "q": "Should I sleep in Kibber?",
+    "a": "Only after at least two nights in Kaza. Kibber is about 600 m higher, so the extra night is good acclimatisation if you feel well."
+   }
+  ]
+ },
+ {
+  "slug": "kaza-to-pin-valley",
+  "from": "kaza",
+  "to": "pin-valley",
+  "distance_km": 50,
+  "summary": "From Kaza down the Spiti river to the Attargo bridge, then up the Pin river past Kungri gompa and Gulling to Mudh, the last village on the road. About 50 km and 2 hours into Pin Valley National Park.",
+  "options": [
+   {
+    "mode": "Local bus",
+    "time": "2–2.5 h",
+    "cost": "₹80–150",
+    "text": "A local bus usually leaves Kaza for Mudh in the afternoon and returns early the next morning. It is the cheapest way in and suits an overnight in a Mudh homestay. Timings change by season, so ask at the Kaza bus stand a day before."
+   },
+   {
+    "mode": "Taxi",
+    "time": "2 h each way",
+    "cost": "₹3,500–5,000 return",
+    "text": "A taxi lets you stop at Kungri gompa and the painted slopes and return the same day, but Mudh is best with a night. A one-way drop costs less and you can return on the morning bus. Book through the Kaza taxi union."
+   },
+   {
+    "mode": "Combined with Dhankar",
+    "time": "Full day",
+    "cost": "₹4,500–6,000 per car",
+    "text": "If you are coming from Tabo, a taxi can include Dhankar and continue to Mudh, avoiding a return to Kaza. This is a long day; start early and keep the Dhankar stop short."
+   }
+  ],
+  "stops_on_way": [
+   "Attargo bridge over the Spiti",
+   "Kungri gompa",
+   "Gulling village",
+   "Sagnam"
+  ],
+  "road_status": "Usually open from May to October; snow and slides can close it. Check current status before you travel.",
+  "tip": "Take the afternoon bus in and the morning bus out, and spend dawn looking for ibex.",
+  "faqs": [
+   {
+    "q": "How far is Mudh from Kaza?",
+    "a": "About 50 km, roughly 2 hours by road via Attargo bridge and Gulling."
+   },
+   {
+    "q": "Is there a bus to Pin valley?",
+    "a": "Yes, a local bus usually runs from Kaza to Mudh in the afternoon and returns the next morning. Check current status before you travel."
+   },
+   {
+    "q": "Is there an entry fee for Pin Valley National Park?",
+    "a": "Rules on fees and permits for the national park can change. Ask at the forest office in Kaza and check current status before you travel."
+   },
+   {
+    "q": "Can I do Pin valley as a day trip?",
+    "a": "Yes, by taxi, but you miss the quiet evening and dawn wildlife. A night in a Mudh homestay is much better."
+   }
+  ]
+ },
+ {
+  "slug": "kaza-to-chandratal",
+  "from": "kaza",
+  "to": "chandratal",
+  "distance_km": 95,
+  "summary": "West from Kaza up the Spiti valley through Kiato and Losar, over Kunzum La at about 4,590 m, then down to Batal and up the side road to the Chandratal camps. About 95 km and 4–5 hours on a mix of good road and rough track.",
+  "options": [
+   {
+    "mode": "Private car",
+    "time": "4–5 h",
+    "cost": "₹6,000–8,000 drop",
+    "text": "The practical way. Taxi union rates from Kaza cover a drop at the Chandratal camps; you then continue to Manali the next day by another arranged car or the same one on a two-day hire. Stop at Kunzum La's shrine and for lunch at Batal."
+   },
+   {
+    "mode": "HRTC bus plus walk or lift",
+    "time": "4–5 h to Batal",
+    "cost": "₹250–400 to Batal",
+    "text": "The Kaza–Manali bus passes Batal, about 2.9 km from the Chandratal turn-off and roughly 15 km from the lake. From there you need a lift or a pre-arranged camp pick-up; walking the side road is long and only for the fit and acclimatised. Arrange it with your camp before leaving Kaza."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "4–5 h",
+    "cost": "₹800–1,200 a seat to the Batal turn-off",
+    "text": "Shared taxis from Kaza to Manali can drop you at the turn-off, and some drivers will go to the camps for an extra fee. Agree everything in Kaza. Seats fill early, so book the evening before."
+   }
+  ],
+  "stops_on_way": [
+   "Kiato village",
+   "Losar",
+   "Kunzum La shrine",
+   "Batal dhabas"
+  ],
+  "road_status": "Kunzum La is usually open from about mid-June to October, and the Chandratal camps run in that window. Check current status before you travel.",
+  "tip": "Do this leg after several nights in Kaza; arriving at Chandratal acclimatised makes the cold night far easier.",
+  "faqs": [
+   {
+    "q": "How far is Chandratal from Kaza?",
+    "a": "About 95 km via Losar, Kunzum La and Batal, roughly 4–5 hours by car depending on the road beyond Losar."
+   },
+   {
+    "q": "Can I reach Chandratal by bus?",
+    "a": "Not directly. The Kaza–Manali HRTC bus passes Batal, near the turn-off, and you need a lift or a camp pick-up for the last stretch."
+   },
+   {
+    "q": "When is the Kaza–Chandratal road open?",
+    "a": "Usually from about mid-June to October, once Kunzum La is cleared, until the first heavy snow. Check current status before you travel."
+   },
+   {
+    "q": "Is it better to visit Chandratal from Kaza or Manali?",
+    "a": "From Kaza, after acclimatising in Spiti. Going from Manali to Chandratal in a day takes you from about 2,050 m to 4,250 m, which raises the risk of altitude sickness."
+   }
+  ]
+ }
+]

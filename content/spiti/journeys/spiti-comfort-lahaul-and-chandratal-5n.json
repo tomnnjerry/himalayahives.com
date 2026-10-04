@@ -1,0 +1,179 @@
+{
+ "slug": "spiti-comfort-lahaul-and-chandratal-5n",
+ "title": "Lahaul and Chandratal from Manali",
+ "region": "spiti",
+ "tier": "comfort",
+ "nights": 5,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "family-holidays"
+ ],
+ "stops": [
+  {
+   "place": "keylong",
+   "nights": 2
+  },
+  {
+   "place": "jispa",
+   "nights": 2
+  },
+  {
+   "place": "chandratal",
+   "nights": 1
+  }
+ ],
+ "start": "Manali",
+ "end": "Manali",
+ "price_from_inr": 41000,
+ "price_note": "Per person, twin sharing: 5 nights in good hotels, a lodge and a Chandratal camp with dinner and breakfast, private SUV with driver from Manali and back; travel to Manali extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Comfort Lahaul trip, 5 nights from Manali: Keylong's gompas, two nights at Jispa on the Bhaga and a camp night at Chandratal, by private SUV, from ₹41,000.",
+ "summary": "A short, careful trip through the Atal Tunnel into Lahaul: two nights in Keylong for Kardang and Shashur gompas, two at Jispa by the Bhaga river, then up to the Chandratal camps for one night before driving back to Manali. Four nights around 3,100 m come before the one high night.",
+ "intro": [
+  "Since the Atal Tunnel opened in 2020, Lahaul is a two-hour drive from Manali, and that has made a trip of this length possible. It suits families, couples and older travellers who want high-mountain landscapes and Buddhist monasteries without the long drives of a full Spiti circuit. You see the green side of the district: willows, potato and pea fields, and gompas above the Bhaga river.",
+  "The trip is built around one rule: do not go from Manali to Chandratal in a day. Four nights at Keylong (3,080 m) and Jispa (3,200 m) give your body time before the camps at about 4,250 m. If anyone feels unwell at Jispa, we simply skip Chandratal and spend another night by the river. Spiti proper, Kaza and the high villages are not part of this trip."
+ ],
+ "highlights": [
+  "The Atal Tunnel under the Pir Panjal",
+  "Kardang Gompa across the Bhaga river",
+  "Shashur Gompa's terrace above Keylong",
+  "Slow riverside days at Jispa and the road to Darcha",
+  "A night at Chandratal, the crescent-shaped moon lake"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Manali to Keylong via the Atal Tunnel",
+   "place": "keylong",
+   "overnight": "Keylong",
+   "drive": "≈ 71 km · 2–3 h",
+   "text": "Leave Manali mid-morning and drive up the Solang side to the south portal of the Atal Tunnel. The 9.02 km tunnel brings you out at Sissu in Lahaul, with its waterfall and wide valley. Continue through Tandi, where the Chandra and Bhaga rivers meet, to Keylong, the district headquarters at 3,080 m. Check in and keep the afternoon easy with a walk through the short market street.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Kardang and Shashur gompas",
+   "place": "keylong",
+   "overnight": "Keylong",
+   "drive": "≈ 25 km of short drives",
+   "text": "In the morning, drive across the Bhaga to Kardang, the most important monastery in Lahaul, of the Drukpa lineage, where monks and nuns share the community. In the afternoon, go up to Shashur Gompa, about 3 km above Keylong and founded in the 17th century, for its terrace view over the valley. Return to Keylong for dinner. Remove shoes in prayer halls and ask before photographing.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Keylong to Jispa",
+   "place": "jispa",
+   "overnight": "Jispa",
+   "drive": "≈ 22 km · 45 min",
+   "text": "A short drive along the Manali–Leh road to Jispa, at about 3,200 m. Check in to your lodge by the Bhaga river and spend the day slowly: a walk along the gravel banks, a visit to the small Jispa gompa above the road, a long lunch. This is a deliberate rest day, letting your body settle before the high night ahead.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Darcha and the riverbank",
+   "place": "jispa",
+   "overnight": "Jispa",
+   "drive": "≈ 15 km round trip",
+   "text": "Drive 7 km up to Darcha, the last village before the road climbs towards Baralacha La and Ladakh, and see where the road to Zanskar begins. Return to Jispa for an afternoon by the river. If everyone feels well, with no persistent headache and normal sleep, we go to Chandratal tomorrow. If not, we stay another night here instead.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Jispa to Chandratal",
+   "place": "chandratal",
+   "overnight": "Chandratal camp",
+   "drive": "≈ 135 km · 6–7 h",
+   "text": "Leave early and drive back through Keylong and Tandi to Gramphu, then east along the Chandra river on the rough road through Chhatru to Batal. Cross the streams in the morning, when water is lower. Lunch at Batal's dhabas, then take the side road to the camps at about 4,250 m. Walk to the lake in the late afternoon. No mobile signal tonight, and it will be cold.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Chandratal to Manali",
+   "place": "chandratal",
+   "overnight": "",
+   "drive": "≈ 125 km · 6–7 h",
+   "text": "Walk to the lake for the still water of early morning, then start back. The road returns along the Chandra to Gramphu, through the Atal Tunnel and down to Manali by mid-afternoon. The drop in altitude makes most people feel better within hours. Your driver drops you at your Manali hotel or the bus stand.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hptdc-hotel-chandrabhaga-keylong",
+  "padma-lodge-jispa",
+  "hotel-ibex-jispa",
+  "chandratal-camping-ground-tents"
+ ],
+ "includes": [
+  "5 nights in hotels, a riverside lodge and a Chandratal camp, twin sharing",
+  "Dinner and breakfast daily",
+  "Private SUV with driver from Manali and back, fuel, tolls and driver costs",
+  "Atal Tunnel and Lahaul vehicle permits where needed"
+ ],
+ "excludes": [
+  "Travel to and from Manali",
+  "Lunches and drinks",
+  "Monastery donations",
+  "Rohtang Pass permit (not on this route)"
+ ],
+ "good_to_know": [
+  "Acclimatisation: four nights at 3,080–3,200 m come before Chandratal at about 4,250 m. Rest on arrival, drink water, avoid alcohol and tell us early if you feel unwell; we can skip the camp night. Talk to your doctor before you travel, especially with heart or lung conditions.",
+  "The Chandratal camps and the Batal road usually open from about mid-June until early October. Check current status before you travel.",
+  "The road from Gramphu to Batal is rough with stream crossings; expect a bumpy, slow day.",
+  "Traffic at the Atal Tunnel can be heavy on weekends in May and June; we leave Manali early.",
+  "There is no mobile signal at Chandratal."
+ ],
+ "faqs": [
+  {
+   "q": "Can we visit Chandratal as a day trip from Manali?",
+   "a": "It is possible but tiring, about 12–14 hours of driving, and not much fun. Sleeping at Chandratal straight from Manali is worse for altitude. This trip builds up over four nights first."
+  },
+  {
+   "q": "Is this trip good for families with children?",
+   "a": "Yes, for children who travel well on mountain roads. Keylong and Jispa are gentle altitudes. Talk to your doctor before taking young children to Chandratal, and be ready to skip that night."
+  },
+  {
+   "q": "Do we need a permit for the Atal Tunnel?",
+   "a": "Tourist vehicles may need a permit or registration for Lahaul, depending on current rules; we arrange it. No Rohtang Pass permit is needed for this route. Check current status before you travel."
+  },
+  {
+   "q": "What does ₹41,000 per person include?",
+   "a": "Five nights with dinner and breakfast on twin sharing, plus a private SUV with driver from Manali and back. It excludes travel to Manali, lunches and donations. Prices are indicative for 2026."
+  },
+  {
+   "q": "Which months are best?",
+   "a": "July to September, when the Chandratal camps are open and Lahaul's fields are green. Late June works once the road is open. Early October is cold but clear."
+  },
+  {
+   "q": "Can we add Kaza and Spiti?",
+   "a": "Yes, by continuing from Chandratal over Kunzum La to Kaza and leaving via Kinnaur. That needs at least five extra nights; see our Spiti circuit trips."
+  },
+  {
+   "q": "How good are the hotels in Lahaul?",
+   "a": "Comfortable rather than luxurious. Jispa's Hotel Ibex and Padma Lodge are among the best, with warm rooms and hot water. Keylong has simpler hotels, including the HPTDC property."
+  },
+  {
+   "q": "Is there network in Keylong and Jispa?",
+   "a": "Usually yes, with BSNL and Jio, and sometimes Airtel. Signal ends beyond Gramphu on the Batal road and at Chandratal."
+  },
+  {
+   "q": "Can this trip run in winter?",
+   "a": "Not as written. In winter Keylong is reachable when the Atal Tunnel is open, but Chandratal and the Batal road are closed by snow."
+  }
+ ]
+}

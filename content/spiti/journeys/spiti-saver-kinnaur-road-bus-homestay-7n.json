@@ -1,0 +1,201 @@
+{
+ "slug": "spiti-saver-kinnaur-road-bus-homestay-7n",
+ "title": "Spiti by HRTC bus, the slow Kinnaur way in",
+ "region": "spiti",
+ "tier": "saver",
+ "nights": 7,
+ "themes": [
+  "road-trips",
+  "homestays-and-villages",
+  "monasteries"
+ ],
+ "stops": [
+  {
+   "place": "nako",
+   "nights": 1
+  },
+  {
+   "place": "tabo",
+   "nights": 2
+  },
+  {
+   "place": "kaza",
+   "nights": 3
+  },
+  {
+   "place": "pin-valley",
+   "nights": 1
+  }
+ ],
+ "start": "Reckong Peo bus stand (Kinnaur), after 2 nights on the way from Shimla",
+ "end": "Kaza bus stand (bus to Manali or back to Reckong Peo)",
+ "price_from_inr": 19500,
+ "price_note": "Per person, twin sharing: 7 nights in homestays and simple guesthouses with dinner and breakfast, HRTC and local buses, one shared taxi day; travel to Reckong Peo and your nights in Kinnaur extra.",
+ "transport": "HRTC and local buses, with one shared taxi loop from Kaza",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  1,
+  1,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Saver Spiti trip, 7 nights by HRTC bus from Reckong Peo: Nako, two nights in Tabo, Kaza village loops and a Pin valley homestay, from ₹19,500.",
+ "summary": "Seven nights into Spiti on the cheapest and kindest route for your body: the HRTC bus up the Kinnaur road, a night in Nako, two in Tabo at 3,050 m, three in Kaza for the village loops, and a homestay night in Mudh at the end of the Pin valley road.",
+ "intro": [
+  "This is the trip we suggest to students, solo travellers and anyone who wants Spiti without a private car. The bus from Reckong Peo climbs past the Sutlej gorges to Nako, and from there the road follows the Spiti river up through Tabo to Kaza. Coming this way, your sleeping altitude rises over several days instead of jumping from Manali to 3,650 m in one, which is the single best thing you can do against altitude sickness.",
+  "The trade-offs are real. Buses run once a day on most legs, seats can be full in July, and homestay rooms are simple, sometimes with shared bathrooms and bucket hot water. We plan one shared taxi day from Kaza for Key, Kibber and Langza, split four ways. Before day 1, spend two nights reaching Reckong Peo from Shimla, for example at Narkanda or Sarahan and at Kalpa; those nights are not in this price."
+ ],
+ "highlights": [
+  "A night at Nako's lake below Reo Purgyil",
+  "Morning prayers and the 996 CE assembly hall at Tabo",
+  "Key Gompa, Kibber and Chicham bridge on a shared taxi day",
+  "Fossils at Langza and a postcard from Hikkim",
+  "Dawn ibex walk from a homestay in Mudh"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Reckong Peo to Nako by bus",
+   "place": "nako",
+   "overnight": "Nako",
+   "drive": "≈ 105 km · 4–5 h",
+   "text": "Take the morning HRTC bus from Reckong Peo towards Kaza and get off at the Nako turn-off; ask the conductor to tell you. The road follows the Sutlej through Akpa and Pooh, then climbs in tight bends from Khab, where the Spiti river joins the Sutlej. Walk up into the village, find a homestay near the lake, and rest. At 3,625 m this is your first night above 3,000 m: drink water, skip alcohol and walk slowly to the 1025 CE temples in the evening.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Nako to Tabo, down to 3,050 m",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 63 km · 2.5–3 h",
+   "text": "Catch the Kaza-bound bus at the main road around late morning; check timing with your host. The road drops past the Malling slide zone, through Chango's orchards and Sumdo, where the valley turns into Spiti. Tabo sits lower than Nako, at about 3,050 m, which gives your body a gentle night. Check into the monastery guest house or a homestay, eat a simple lunch on the main road and walk around the outer walls of the old monastery before sunset.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Tabo monastery and caves",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "",
+   "text": "Sit quietly at the back of morning prayers in the new monastery, then enter the old complex when the caretaker opens it. The main assembly hall dates from 996 CE; bring a small torch and do not photograph inside. In the afternoon, climb the short, steep path to the meditation caves above the village, and look down over the apricot and apple fields. This rest day at a lower altitude makes the next week much easier.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tabo to Kaza",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "≈ 47 km · 1.5–2 h",
+   "text": "Take the early afternoon bus to Kaza, or share a car if one is going and include a stop at Dhankar. In Kaza, check into Zostel or a family homestay in Kaza Khas. Do little: walk to the Sakya Tangyud monastery, look at the taxi union rate board, and eat early. Kaza is 3,650 m, and even after Nako and Tabo a mild headache is common tonight. If it worsens, tell your host and rest.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Key, Kibber and Chicham",
+   "place": "key-and-kibber",
+   "overnight": "Kaza",
+   "drive": "≈ 50 km round trip · 3 h of driving",
+   "text": "Today's the shared taxi day. Find three others at your hostel the evening before and split a union taxi, about ₹1,000–1,500 each for the full loop. Reach Key Gompa by 7 am for prayers, then drive up to Kibber and walk across Chicham bridge. In the afternoon, cross to Langza for the Buddha statue and fossil slopes, and on to Hikkim's post office and Komic at about 4,587 m. Return to sleep in Kaza.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "A slow day in Kaza",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "",
+   "text": "Keep this day free. If you feel well, walk the lanes of Kaza Khas in the morning, sit in a cafe with sea buckthorn juice and buy woollens in the market. If the road news is bad, this is also your spare day. Confirm the afternoon bus to Mudh for tomorrow and withdraw cash, since Pin valley homestays prefer cash and ATMs can be empty.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Afternoon bus to Mudh",
+   "place": "pin-valley",
+   "overnight": "Mudh",
+   "drive": "≈ 50 km · 2–2.5 h",
+   "text": "Spend the morning in Kaza, then take the afternoon local bus to Mudh, usually leaving around mid-afternoon; check the time at the stand. The road crosses the Spiti at Attargo and climbs the Pin valley past Kungri gompa and Gulling. Mudh is the end of the road, at about 3,800 m. Check into a homestay, watch the evening light on the banded slopes, and ask your host about a dawn walk.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Ibex at dawn, then Kaza and onward",
+   "place": "pin-valley",
+   "overnight": "",
+   "drive": "≈ 50 km · 2 h",
+   "text": "Walk out at sunrise with binoculars to scan the slopes for ibex and blue sheep, then catch the morning bus back to Kaza. From Kaza, continue on your own: the HRTC bus to Manali leaves very early, so in season most travellers sleep another night in Kaza and leave next morning, or return to Reckong Peo by the daily bus. Neither onward leg is included.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "tabo-monastery-guest-house",
+  "zostel-spiti-kaza",
+  "mudh-homestay-village"
+ ],
+ "includes": [
+  "7 nights in homestays, a hostel private room or simple guesthouses, twin sharing",
+  "Dinner and breakfast every night",
+  "HRTC and local bus fares on all listed legs",
+  "One shared union taxi day for Key, Kibber, Langza, Hikkim and Komic (your share of four)"
+ ],
+ "excludes": [
+  "Travel to Reckong Peo and your two nights in Kinnaur on the way",
+  "Onward bus from Kaza to Manali or Reckong Peo",
+  "Lunches, snacks and drinks",
+  "Monastery donations and entry fees",
+  "Protected Area Permit fees for foreign nationals"
+ ],
+ "good_to_know": [
+  "Acclimatisation: this route climbs gradually, but Kaza (3,650 m) and the villages above 4,200 m can still cause headaches and poor sleep. Rest on arrival, drink water, avoid alcohol, and descend if symptoms worsen. Talk to your doctor about medication before you go.",
+  "Buses usually run once a day per leg and timings change by season; ask your host the evening before.",
+  "Rooms are simple; some have shared bathrooms, and hot water may come by bucket.",
+  "Carry enough cash for the whole week; ATMs in Kaza can run dry and network outages are common.",
+  "July and August bring landslides on the Kinnaur road; keep a spare day. Check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Is ₹19,500 per person enough for 7 nights in Spiti?",
+   "a": "Yes, for twin sharing with homestays and buses. It covers rooms with dinner and breakfast, bus fares and your share of one taxi loop. Add ₹300–600 a day for lunch and snacks, plus travel to Reckong Peo and back from Kaza. Prices are indicative for 2026."
+  },
+  {
+   "q": "Why start from Reckong Peo and not Manali?",
+   "a": "Because the climb is gradual. Via Kinnaur you sleep at Nako (3,625 m) and Tabo (3,050 m) before Kaza. From Manali, the bus takes you from about 2,050 m to 3,650 m in one day, which is harder on the body. The Kinnaur road is also open for more of the year."
+  },
+  {
+   "q": "How do I get from Shimla to Reckong Peo?",
+   "a": "HRTC buses run daily from Shimla to Reckong Peo, about 10–11 hours. We suggest breaking it with a night at Narkanda or Sarahan, then sleeping at Kalpa above Reckong Peo before day 1."
+  },
+  {
+   "q": "Can I do this trip alone?",
+   "a": "Yes. Many solo travellers do this route. Use Zostel in Kaza to find taxi partners. Single rooms in homestays cost a little more than half a twin room."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Indian citizens do not. Foreign nationals need a Protected Area Permit for the Nako–Sumdo stretch, usually arranged in Reckong Peo or Shimla. Check current status before you travel."
+  },
+  {
+   "q": "Will I get altitude sickness?",
+   "a": "Some headache and poor sleep on the first nights at Nako and Kaza are common. Serious altitude sickness is less likely on this gradual route but possible. Rest, hydrate, avoid alcohol and go down if symptoms worsen. Talk to your doctor before you go."
+  },
+  {
+   "q": "Is there mobile network on this route?",
+   "a": "BSNL and Jio work in Kaza, Tabo and Nako most of the time, with gaps on the road and in Mudh. Download maps offline and tell family when you will be out of range."
+  },
+  {
+   "q": "What if a bus is cancelled or full?",
+   "a": "Ask your host about shared taxis passing through, or wait a day; this is why day 6 is kept free. In peak season, board early at the starting stand where possible."
+  },
+  {
+   "q": "Can I end the trip in Manali instead?",
+   "a": "Yes, between about mid-June and October when Kunzum La is open. Sleep an extra night in Kaza and take the early HRTC bus to Manali, about 10–12 hours, or a shared taxi seat."
+  }
+ ]
+}

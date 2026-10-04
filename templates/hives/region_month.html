@@ -1,0 +1,94 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ title }} · weather, where to go and prices · Himalaya Hives{% endblock %}
+{% block description %}{{ r.name }} in {{ month }}: {% if rating == 2 %}one of the best months{% elif rating == 1 %}a good month{% else %}a hard month{% endif %}{% if md.weather %}. {{ md.weather }}{% endif %}. Where to go, festivals, crowds, prices and trips.{% endblock %}
+{% block og_title %}{{ title }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block alt_from %}{{ r.min_alt }}{% endblock %}{% block alt_to %}{{ r.max_alt }}{% endblock %}{% block alt_label %}{{ r.name }}{% endblock %}
+{% block fab_label %}Plan {{ r.name }} in {{ month|slice:":3" }}{% endblock %}{% block fab_land %}&land={{ r.slug }}&month={{ month }}{% endblock %}
+{% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Plan "|add:r.name|add:" for "|add:month %}{% endblock %}
+{% block head_extra %}<style>
+.month.is-cur { outline: 2px solid var(--ink); outline-offset: -2px; background: var(--tint); }
+.months .month b { overflow-wrap: anywhere; }
+.mnav { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 26px; }
+</style>{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo r.slug|add:"-"|add:month %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">{% if rating == 2 %}Best month{% elif rating == 1 %}Good month{% else %}Hard or closed{% endif %} · {{ r.name }}</p>
+      <h1 class="d-1">{{ title }}</h1>
+      {% if md.summary %}<p class="answer">{{ md.summary }}</p>{% else %}<p class="answer">{% if rating == 2 %}{{ month }} is one of the best months for {{ r.name }}.{% elif rating == 1 %}{{ month }} is a good month for {{ r.name }}, with some trade-offs.{% else %}{{ month }} is a hard month for most of {{ r.name }}: some roads, passes or stays may be closed.{% endif %} Best months overall: {{ r.best_label }}.</p>{% endif %}
+      <dl class="phead__meta">
+        {% if md.weather %}<div><dt>Weather</dt><dd>{{ md.weather }}</dd></div>{% endif %}
+        {% if md.price_level %}<div><dt>Prices</dt><dd>{{ md.price_level|capfirst }}</dd></div>{% endif %}
+        {% if md.crowd %}<div><dt>Crowds</dt><dd>{{ md.crowd|capfirst }}</dd></div>{% endif %}
+        <div><dt>Best overall</dt><dd>{{ r.best_label }}</dd></div>
+      </dl>
+    </div>
+    <div class="phead__photo">{% with gimg=go.0|first_img rimg=r|first_img %}{% if gimg %}{% with img=gimg %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ go.0.name }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endwith %}{% elif rimg %}{% with img=rimg %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ r.name }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endwith %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline r.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <nav class="months" aria-label="{{ r.name }} by month">{% for m in r.bar %}<a class="month{% if forloop.counter0 == i %} is-cur{% endif %}" href="{% url 'region_month' r.slug m.full|lower %}" data-v="{{ m.v }}"{% if forloop.counter0 == i %} aria-current="page"{% endif %}><b>{{ m.m }}</b><em>{% if m.v == 2 %}Best{% elif m.v == 1 %}Good{% else %}Hard{% endif %}</em></a>{% endfor %}</nav>
+    <div class="mnav"><a class="link" href="{% url 'region_month' r.slug prev %}">← {{ prev_name }}</a><a class="link" href="{{ r.url }}#months">{{ r.name }} all year</a><a class="link" href="{% url 'region_month' r.slug next %}">{{ next_name }} →</a></div>
+  </div>
+</section>
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      {% if go %}<p class="eyebrow">Where to go</p><h2 class="d-2" style="margin-bottom:18px">Our picks for {{ month }}</h2>
+      <div class="grid grid--2">{% for p in go %}{% include "hives/partials/card_place.html" %}{% endfor %}</div>
+      {% else %}<div class="panel panel--wax"><h2>Ask us about {{ month }}</h2><p style="margin:0">We have not picked places for {{ month }} yet. {% if rating == 0 %}Much of {{ r.name }} is hard going this month, but{% else %}Tell us your dates and{% endif %} a planner will say what is open and worth the trip.</p></div>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>{{ month }} in brief</h2>
+        <div class="ledger">
+          <div class="ledger__row"><span>Rating</span><span class="ledger__dots"></span><b>{% if rating == 2 %}Best{% elif rating == 1 %}Good{% else %}Hard or closed{% endif %}</b></div>
+          {% if md.weather %}<div class="ledger__row"><span>Weather</span><span class="ledger__dots"></span><b>{{ md.weather|truncatechars:40 }}</b></div>{% endif %}
+          {% if md.price_level %}<div class="ledger__row"><span>Prices</span><span class="ledger__dots"></span><b>{{ md.price_level|capfirst }}</b></div>{% endif %}
+          {% if md.crowd %}<div class="ledger__row"><span>Crowds</span><span class="ledger__dots"></span><b>{{ md.crowd|capfirst }}</b></div>{% endif %}
+        </div>
+        {% if md.tip %}<p class="eyebrow" style="margin:18px 0 6px">Planner's tip</p><p style="margin:0;font-size:16px">{{ md.tip }}</p>{% endif %}
+        <p class="small muted" style="margin:14px 0 0">Weather differs by altitude. Roads and passes open and close with snow: check current status before you travel.</p>
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="month" qf_land=r.slug qf_title=r.name|add:" in "|add:month qf_message="Month: "|add:month %}
+    </aside>
+  </div>
+</section>
+
+{% if events %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Festivals</p><h2 class="d-1">On in {{ month }}</h2></div><a class="link" href="{% url 'festivals' %}#{{ month|lower }}">Festival calendar {% icon "arrow" %}</a></div>
+    <div class="toc">{% for f in events %}<a class="toc__row" href="{{ f.url }}"><span class="hbadge hbadge--sm">{% icon "festival" %}</span><span><b>{{ f.name }}</b><small>{{ f.when }}</small></span><span class="readout">{{ f.place_obj.name }}</span>{% icon "arrow" %}</a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec{% if not events %} sec--paper2{% endif %}" id="trips">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Trips</p><h2 class="d-1">Trips at their best in {{ month }}</h2></div><a class="link" href="{{ r.url }}#trips">Every {{ r.name }} trip {% icon "arrow" %}</a></div>
+    {% if journeys %}<div class="grid grid--4" data-fill>{% for j in journeys|slice:":8" %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+    {% else %}<div class="panel panel--wax" style="max-width:720px"><h2>No published trip peaks in {{ month }}</h2><p>We still plan {{ r.name }} in {{ month }} where the roads allow. Send your dates and budget and we suggest a route that works this month.</p><a class="btn btn--ink" href="{% url 'plan' %}?land={{ r.slug }}&month={{ month }}&from={{ request.path|urlencode }}">Plan {{ r.name }} in {{ month }}</a></div>{% endif %}
+  </div>
+</section>
+
+{% if others %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Elsewhere in {{ month }}</p><h2 class="d-1">Other hives this month</h2></div></div>
+    <div class="months">{% for o in others %}<a class="month" href="{% url 'region_month' o.r.slug month|lower %}" data-v="{{ o.rating }}" data-land="{{ o.r.slug }}"><b>{{ o.r.name }}</b><em>{% if o.rating == 2 %}Best{% elif o.rating == 1 %}Good{% else %}Hard{% endif %}</em><small>Best {{ o.r.best_label }}</small></a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">{{ title }}, answered</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=faqs open_first=True %}
+  </div>
+</section>
+{% endblock %}

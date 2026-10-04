@@ -1,0 +1,232 @@
+{
+ "slug": "spiti-saver-village-homestays-9n",
+ "title": "Spiti village homestays: Dhankar to Langza",
+ "region": "spiti",
+ "tier": "saver",
+ "nights": 9,
+ "themes": [
+  "homestays-and-villages",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "nako",
+   "nights": 1
+  },
+  {
+   "place": "tabo",
+   "nights": 1
+  },
+  {
+   "place": "dhankar",
+   "nights": 1
+  },
+  {
+   "place": "kaza",
+   "nights": 2
+  },
+  {
+   "place": "key-and-kibber",
+   "nights": 2
+  },
+  {
+   "place": "langza",
+   "nights": 1
+  },
+  {
+   "place": "kaza",
+   "nights": 1
+  }
+ ],
+ "start": "Reckong Peo (Kinnaur), after 2 nights on the way from Shimla",
+ "end": "Kaza (onward bus or shared taxi to Manali, Jun–Oct)",
+ "price_from_inr": 25500,
+ "price_note": "Per person, twin sharing: 9 nights in village homestays and simple guesthouses with dinner and breakfast, a shared car Reckong Peo–Dhankar–Kaza and short taxi transfers; travel to Reckong Peo and onward from Kaza extra.",
+ "transport": "Shared car to Kaza, then local buses and short taxi transfers",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  1,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Saver Spiti homestay trip, 9 nights: Nako, Tabo, Dhankar, Kaza, two nights in Kibber and a night in Langza, climbing slowly, from ₹25,500 per person.",
+ "summary": "Nine nights sleeping in Spiti's villages, not just its town: Nako by the lake, Tabo by its monastery, Dhankar under the cliff fort, Kaza to adjust, then two nights in Kibber and one in Langza. The climb is planned step by step so the high villages feel good, not frightening.",
+ "intro": [
+  "Most Spiti trips sleep in Kaza and visit the villages by car. This one stays in them. You eat dinner in family kitchens, wake to the sound of cows being taken out, and see Key Gompa and the Langza Buddha after the day cars have gone. It suits patient travellers, photographers and couples who are comfortable with simple rooms and bucket hot water.",
+  "The order of nights is built around altitude. Nako and Tabo settle you between 3,000 and 3,600 m. Dhankar, at 3,894 m, is a short step up, then two nights in Kaza let you rest before Kibber at about 4,270 m and Langza at about 4,420 m. We end with a night back in Kaza for the early bus out. Spend two nights reaching Reckong Peo from Shimla before day 1; they are not in this price."
+ ],
+ "highlights": [
+  "Dhankar's cliff-top gompa at dusk, without the day cars",
+  "Morning prayers at Key Gompa, walking down from Kibber",
+  "Chicham bridge and the old trade village of Kibber",
+  "A night below the Langza Buddha and Chau Chau Kang Nilda",
+  "Family dinners in five different villages"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Reckong Peo to Nako",
+   "place": "nako",
+   "overnight": "Nako",
+   "drive": "≈ 105 km · 4–5 h",
+   "text": "Take the morning HRTC bus towards Kaza and get off at the Nako turn-off, or join the shared car we arrange for the group. The road follows the Sutlej past Pooh and climbs from Khab, where the Spiti river comes in. Settle into a homestay near Nako lake. At 3,625 m, this is your first high night: walk slowly to the temple complex, drink plenty of water and avoid alcohol.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Nako to Tabo",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 63 km · 2.5–3 h",
+   "text": "Drive down past Malling and Sumdo into the Spiti valley. Tabo sits lower than Nako, at about 3,050 m, which is good for sleep. In the afternoon, visit the old monastery complex founded in 996 CE, with its clay figures and murals, and climb to the meditation caves above the village before sunset. Stay in a family homestay among the orchards.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Up to Dhankar",
+   "place": "dhankar",
+   "overnight": "Dhankar",
+   "drive": "≈ 35 km · 1.5 h",
+   "text": "After morning prayers at Tabo, drive on towards Kaza and turn up the steep 8 km road to Dhankar village at 3,894 m. Settle into a homestay and rest through the middle of the day. In the late afternoon, walk up to the old gompa on its spur of eroded earth, high above the meeting of the Spiti and Pin rivers. Move slowly and keep your walking short today.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Dhankar to Kaza",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "≈ 33 km · 1–1.5 h",
+   "text": "If you slept well and feel strong, walk part of the steep trail towards Dhankar Lake in the early morning, about an hour up, and turn back whenever you need to. Otherwise, rest. Drive to Kaza in the late morning and check into a homestay in Kaza Khas or the hostel. Spend the afternoon quietly near the Sakya Tangyud monastery and the market.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Rest and Kaza Khas",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "",
+   "text": "A rest day at 3,650 m before the high villages. Walk the old lanes of Kaza Khas, buy a woollen cap, refill water bottles at a cafe and withdraw cash. Confirm the afternoon bus to Kibber for tomorrow. If the road news from Kinnaur or Kunzum is bad, today is your buffer.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Up to Kibber",
+   "place": "key-and-kibber",
+   "overnight": "Kibber",
+   "drive": "≈ 19 km · 50 min",
+   "text": "Take the afternoon local bus or a short taxi to Kibber, at about 4,270 m. Settle into a family homestay and take an easy walk around the village lanes as the fields are watered and animals come home. Kibber was the last village on the trade path to Ladakh over Parang La. Eat dinner early and sleep with water by the bed.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Chicham bridge and Key Gompa",
+   "place": "key-and-kibber",
+   "overnight": "Kibber",
+   "drive": "≈ 20 km of short drives or walks",
+   "text": "Walk or drive to Chicham bridge for the view down into the gorge, then come back for lunch. In the afternoon, go down to Key Gompa, 7 km below Kibber, and climb slowly to its upper terraces for the view down the Spiti river. Return to Kibber for a second night, which gives your body more time at height before Langza.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Kibber to Langza",
+   "place": "langza",
+   "overnight": "Langza",
+   "drive": "≈ 40 km via Kaza · 1.5–2 h",
+   "text": "Take a taxi down to Kaza and up the switchbacks to Langza, at about 4,420 m. Visit Hikkim's post office and Komic, at about 4,587 m, on the way, and then settle into a Langza homestay. Walk to the Buddha statue and the fossil slopes in the afternoon, slowly. Look, photograph and leave fossils where they lie. If a strong headache or breathlessness comes on, go down to Kaza.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Down to Kaza",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "≈ 16 km · 45 min",
+   "text": "Watch the light come up on Chau Chau Kang Nilda behind the village, then come down to Kaza mid-morning. Spend the afternoon resting, buying dried apricots and sea buckthorn products and booking your seat on tomorrow's bus or shared taxi. Sleep early: the Manali bus leaves before dawn.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Leave Kaza",
+   "place": "kaza",
+   "overnight": "",
+   "drive": "",
+   "text": "Leave Kaza on the early HRTC bus to Manali when Kunzum La is open, roughly mid-June to October, or by shared taxi seat. Outside that window, or if you prefer, take the daily bus back down to Reckong Peo. Onward travel is not included.",
+   "meals": ""
+  }
+ ],
+ "stays": [
+  "zostel-spiti-kaza",
+  "kibber-homestay-village",
+  "langza-homestay-village",
+  "tabo-monastery-guest-house"
+ ],
+ "includes": [
+  "9 nights in village homestays, a hostel private room or simple guesthouses, twin sharing",
+  "Dinner and breakfast every night",
+  "Shared car Reckong Peo–Nako–Tabo–Dhankar–Kaza",
+  "Local bus or short taxi to Kibber and Kibber–Hikkim–Komic–Langza–Kaza transfers"
+ ],
+ "excludes": [
+  "Travel to Reckong Peo and nights in Kinnaur on the way",
+  "Onward travel from Kaza",
+  "Lunches and drinks",
+  "Monastery entry fees and donations",
+  "Protected Area Permit fees for foreign nationals"
+ ],
+ "good_to_know": [
+  "Acclimatisation: three nights on this trip are above 4,200 m. The order of nights is planned to climb slowly, but headaches and poor sleep are still likely. Go down to Kaza if symptoms worsen, and talk to your doctor before you go.",
+  "Homestays are simple; many have shared bathrooms and bucket hot water. Bring a sleeping-bag liner and a warm layer for nights.",
+  "Network is patchy in Dhankar, Kibber and Langza; tell family you will be out of contact.",
+  "Carry cash for the whole trip; village homestays rarely take cards and UPI depends on signal.",
+  "Do not collect fossils, and ask before photographing people and inside monasteries."
+ ],
+ "faqs": [
+  {
+   "q": "Is it safe to sleep in Kibber and Langza?",
+   "a": "For healthy adults who follow this order of nights, usually yes. You reach Kibber only after five nights between 3,000 and 3,900 m. Some headache is normal; vomiting, confusion or breathlessness at rest are not. Descend to Kaza if they appear, and talk to your doctor first."
+  },
+  {
+   "q": "Why not stay in Kaza and do day trips?",
+   "a": "You can, and our first saver trip does. Sleeping in villages means quiet evenings, local food and dawn at Key and Langza after the day cars leave. It also puts more money directly into village households."
+  },
+  {
+   "q": "How basic are the homestays?",
+   "a": "Clean but simple: thick blankets, beds or floor mattresses, and often shared bathrooms with bucket hot water. A few have attached bathrooms. Expect home-cooked rice, dal, vegetables and sometimes thukpa."
+  },
+  {
+   "q": "What does ₹25,500 per person include?",
+   "a": "Nine nights with dinner and breakfast on twin sharing, the shared car to Kaza and transfers to Kibber and Langza. It excludes travel to Reckong Peo, onward travel from Kaza, lunches and donations. Prices are indicative for 2026."
+  },
+  {
+   "q": "Can I do this trip in May?",
+   "a": "Not well. Kibber and Langza may still have snow and fewer homestays are open. June to September is best."
+  },
+  {
+   "q": "Is this trip suitable for children?",
+   "a": "Not for young children, because of the nights above 4,200 m. Families with teenagers who are fit and healthy can manage it; talk to your doctor before you go."
+  },
+  {
+   "q": "Can I exit to Manali at the end?",
+   "a": "Yes, when Kunzum La is open, roughly mid-June to October. The early HRTC bus takes about 10–12 hours. Check current status before you travel."
+  },
+  {
+   "q": "How do I find a homestay in each village?",
+   "a": "We arrange them in advance for this trip. Travelling independently, ask your previous host to phone ahead; Spiti's homestay families know each other across villages."
+  },
+  {
+   "q": "Do I need trekking experience?",
+   "a": "No. Walks are short and optional. But you need to be in reasonable health and happy walking slowly up and down steep village paths at altitude."
+  }
+ ]
+}

@@ -1,0 +1,272 @@
+[
+ {
+  "slug": "leh-to-nubra-valley",
+  "from": "leh",
+  "to": "nubra-valley",
+  "distance_km": 120,
+  "summary": "Leh to Diskit in Nubra is about 120 km over Khardung La (5,359 m), 4–5 hours by car. A state bus and shared taxis run in season. Cross only after two or three nights in Leh, and keep the stop at the top short.",
+  "options": [
+   {
+    "mode": "Shared taxi",
+    "time": "4–5 h",
+    "cost": "₹800–1,200 a seat",
+    "text": "Shared Innovas and Sumos leave Leh in the morning for Diskit and Hunder when they fill. Look for flyers in Changspa and Main Bazaar, ask your guesthouse, or post in hostel common areas a day ahead. You will need your environment fee receipt and ID. Return seats are easiest to find in Diskit's bazaar."
+   },
+   {
+    "mode": "State bus",
+    "time": "5–6 h",
+    "cost": "₹200–300",
+    "text": "A bus runs from Leh bus stand to Diskit on most days in season, leaving early in the morning, with some services continuing to Hunder or Panamik. It is by far the cheapest way to cross Khardung La. Seats are basic and the stop at the pass is brief. Check timings at the bus stand a day before; check current status before you travel."
+   },
+   {
+    "mode": "Private car",
+    "time": "4–4.5 h",
+    "cost": "₹9,000–11,000 one way; ₹12,000–15,000 for a 2-day return trip",
+    "text": "A Ladakh Taxi Union car lets you stop at South Pullu, Khardung La and North Pullu and drop down to Hunder or Sumur. Union rates are fixed by route and published in Leh. Leaving at 7 am beats the traffic at the pass and the afternoon melt water on the north side."
+   }
+  ],
+  "stops_on_way": [
+   "South Pullu checkpost",
+   "Khardung La (5,359 m)",
+   "North Pullu",
+   "Khardung village",
+   "Diskit Monastery"
+  ],
+  "road_status": "Usually open all year but can close for hours or days after snow, mostly October to May; check current status before you travel.",
+  "tip": "Spend no more than 15–20 minutes at Khardung La; most altitude trouble on this route starts with a long stop at the top.",
+  "faqs": [
+   {
+    "q": "How long does it take from Leh to Nubra Valley?",
+    "a": "About 4–5 hours by car from Leh to Diskit, 120 km over Khardung La, and 5–6 hours by bus. Hunder is 10 km beyond Diskit, Sumur and Tegar about an hour on the other arm of the valley. Add time for checkpost queues and photo stops."
+   },
+   {
+    "q": "Is Khardung La open all year?",
+    "a": "Khardung La is kept open through most of the year, but snow can close it for hours or days, especially between October and May. Early mornings can be icy. Check current status before you travel, and leave flexibility in your plan."
+   },
+   {
+    "q": "Do I need a permit to go from Leh to Nubra?",
+    "a": "Indians need the online environment fee receipt and photo ID; foreign nationals need a Protected Area Permit arranged through a Leh agency. Checkposts at South Pullu and North Pullu inspect documents. Carry several printed copies. Rules change, so check current status before you travel."
+   },
+   {
+    "q": "Can I go from Nubra to Pangong directly?",
+    "a": "Yes. A road along the Shyok river links Nubra with Pangong via Agham and Shyok village, joining the Pangong road near Durbuk. It saves returning to Leh but is rough and prone to stream crossings and landslides. Ask locally the day before, and check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "leh-to-pangong-tso",
+  "from": "leh",
+  "to": "pangong-tso",
+  "distance_km": 160,
+  "summary": "Leh to Pangong Tso is about 160 km via Karu and Chang La (about 5,360 m), 5–6 hours by car. Most travellers go by private or shared taxi and sleep one night at Spangmik or Lukung after at least three nights in Ladakh.",
+  "options": [
+   {
+    "mode": "Shared taxi",
+    "time": "5–6 h",
+    "cost": "₹1,500–2,500 a seat one way",
+    "text": "Shared cars to Pangong are arranged by agencies and guesthouses rather than from a stand. Notice boards in Changspa and Main Bazaar list departures in season, often as a two-day return trip. Confirm where you will be dropped (Lukung, Spangmik or Man) and how the return works before you pay."
+   },
+   {
+    "mode": "Bus",
+    "time": "6–7 h",
+    "cost": "₹400–600",
+    "text": "A bus runs from Leh towards Pangong on a few days a week in season. It is cheap but slow, and timings vary year to year, so ask at Leh bus stand. You will need to stay at least one night and catch the return service. Check current status before you travel."
+   },
+   {
+    "mode": "Private car",
+    "time": "5–5.5 h",
+    "cost": "₹12,000–15,000 for a 2-day return trip",
+    "text": "A union taxi lets you leave at 7 am, cross Chang La before the afternoon melt, stop at Tangtse and Durbuk for tea, and reach the lake by lunchtime. A same-day return is possible but long and tiring at altitude; we always plan a night."
+   }
+  ],
+  "stops_on_way": [
+   "Karu and the Hemis turning",
+   "Chang La (≈ 5,360 m)",
+   "Durbuk",
+   "Tangtse checkpost",
+   "Lukung"
+  ],
+  "road_status": "Normally open May to October and often longer; snow can close Chang La briefly at any time. Check current status before you travel.",
+  "tip": "Do not plan Pangong before your fourth night in Ladakh; the lake is higher than Leh and nights there are the hardest of most trips.",
+  "faqs": [
+   {
+    "q": "How far is Pangong Tso from Leh?",
+    "a": "About 160 km by road via Karu, Chang La and Tangtse, taking 5–6 hours depending on stops and road works. Spangmik is a little beyond Lukung, and Man and Merak further along the shore. Add 30–60 minutes for those villages."
+   },
+   {
+    "q": "Can I do Pangong as a day trip from Leh?",
+    "a": "It is possible, but about 10–12 hours of driving and over Chang La twice in one day. We do not recommend it, especially for children and seniors. Staying one night at Pangong gives you sunrise and evening light and spreads the effort."
+   },
+   {
+    "q": "How high is Chang La?",
+    "a": "Chang La is about 5,360 m, among the highest motorable passes on the main tourist routes in Ladakh. Keep stops short, drink water, and do not cross it until you have spent at least two or three nights in Leh."
+   },
+   {
+    "q": "What documents do I need for Pangong?",
+    "a": "Indians need the online Ladakh environment fee receipt and photo ID; foreign nationals need a Protected Area Permit. Checkposts at Tangtse inspect them. Carry several printed copies. Rules change, so check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "nubra-valley-to-turtuk",
+  "from": "nubra-valley",
+  "to": "turtuk",
+  "distance_km": 85,
+  "summary": "Diskit to Turtuk is about 85 km down the Shyok river, 2.5–3 hours by road through a narrow desert gorge. It drops to about 2,900 m, lower than anywhere else on a usual Ladakh trip.",
+  "options": [
+   {
+    "mode": "Private car",
+    "time": "2.5–3 h",
+    "cost": "₹4,500–6,500 one way; ₹6,500–8,000 day return",
+    "text": "The easiest option. Most travellers based in Hunder or Diskit hire a car for a day return or a one-night stay. The road follows the Shyok past Skuru, Bogdang and Chalunka with short stops for photographs. Leave early to have time in the village."
+   },
+   {
+    "mode": "Bus",
+    "time": "3–3.5 h",
+    "cost": "₹150–250",
+    "text": "A local bus runs between Diskit and Turtuk on some days, leaving early from Diskit's bazaar and returning the next morning. It is used by villagers and soldiers and fills quickly. Ask in Diskit the day before; timings change, so check current status before you travel."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "2.5–3 h",
+    "cost": "₹600–1,000 a seat",
+    "text": "Shared cars run between Diskit and Turtuk when there are enough passengers, especially in July and August. Ask in Diskit's taxi stand or at your guesthouse. Return seats are easiest to find in the morning."
+   }
+  ],
+  "stops_on_way": [
+   "Hunder dunes",
+   "Skuru",
+   "Bogdang",
+   "Chalunka",
+   "Shyok river gorge"
+  ],
+  "road_status": "Generally open from May to October and much of the year, but landslides and stream flows can close sections in summer; check current status before you travel.",
+  "tip": "Stay a night in Turtuk; the day return is long and the village's evenings are its best part.",
+  "faqs": [
+   {
+    "q": "How far is Turtuk from Diskit?",
+    "a": "About 85 km along the Shyok river, a drive of 2.5–3 hours. From Hunder it is about 75 km. From Leh, Turtuk is around 205 km via Khardung La, too far for a comfortable single day."
+   },
+   {
+    "q": "Do I need a permit for Turtuk?",
+    "a": "Indians need the Ladakh environment fee receipt and photo ID; foreign nationals need a Protected Area Permit that covers Turtuk. Checkposts on the Shyok road inspect documents. Rules change, so check current status before you travel."
+   },
+   {
+    "q": "Is the road to Turtuk safe?",
+    "a": "Yes. It is a single, mostly paved road through a narrow gorge, used by army and local traffic. Landslides are possible after rain, and drivers avoid the road after dark. Follow your driver's advice and allow extra time in July and August."
+   },
+   {
+    "q": "Is Turtuk worth the drive from Nubra?",
+    "a": "Yes. It is the only Balti village most travellers can reach in India, with stone houses, apricot orchards and a culture quite different from Buddhist Ladakh. A night in a Turtuk homestay is one of the most rewarding stops on a Ladakh trip."
+   }
+  ]
+ },
+ {
+  "slug": "leh-to-kargil",
+  "from": "leh",
+  "to": "kargil",
+  "distance_km": 220,
+  "summary": "Leh to Kargil is about 220 km on the Srinagar highway, 6–7 hours via Nimmu, Khalatse, Lamayuru, Fotu La and Mulbekh. Buses and shared taxis run daily in season; with a car you can stop at Alchi, Lamayuru and Mulbekh.",
+  "options": [
+   {
+    "mode": "Bus",
+    "time": "7–8 h",
+    "cost": "₹450–650",
+    "text": "JKSRTC and Ladakh buses leave Leh bus stand early in the morning for Kargil, stopping at Khalatse, Lamayuru and Mulbekh. It is the cheapest way along the highway and a good way to drop off at Lamayuru for a night. Check timings at the bus stand a day before; check current status before you travel."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "6–7 h",
+    "cost": "₹1,000–1,500 a seat",
+    "text": "Shared Sumos and Innovas run between Leh and Kargil from the taxi stand near the bus station, mainly in the morning. They are faster than the bus but cramped. Seats on through services to Srinagar are also sold for the Kargil leg."
+   },
+   {
+    "mode": "Private car",
+    "time": "6–7 h plus stops",
+    "cost": "₹12,000–15,000 one way",
+    "text": "A union taxi lets you turn the transfer into a day of sights: Likir, Alchi, the Indus–Zanskar confluence, Lamayuru and the Mulbekh Maitreya. Union rates apply. Break it with a night at Lamayuru or Alchi if you have time."
+   }
+  ],
+  "stops_on_way": [
+   "Indus–Zanskar confluence at Nimmu",
+   "Alchi turning at Saspol",
+   "Lamayuru Monastery",
+   "Fotu La (4,108 m)",
+   "Mulbekh Chamba"
+  ],
+  "road_status": "Leh to Kargil is usually open most of the year; beyond Kargil, Zoji La closes in winter. Check current status before you travel.",
+  "tip": "If you are heading on to Srinagar, sleep in Kargil and cross Zoji La early the next morning.",
+  "faqs": [
+   {
+    "q": "How long is the drive from Leh to Kargil?",
+    "a": "About 6–7 hours by car for 220 km, longer with stops at Alchi, Lamayuru and Mulbekh. Buses take 7–8 hours. Many travellers break the journey at Lamayuru or Alchi and arrive in Kargil the next day."
+   },
+   {
+    "q": "Do I need a permit from Leh to Kargil?",
+    "a": "No permit is required for the Srinagar–Leh highway between Leh and Kargil. Carry photo ID for routine checkposts. Rules change, so check current status before you travel."
+   },
+   {
+    "q": "Is the Leh–Kargil road difficult?",
+    "a": "Not by Ladakh standards. It is a mostly good highway with a few long climbs, including Fotu La (4,108 m) and Namika La. Expect army convoys and road works. It is one of the easier long drives in the region."
+   },
+   {
+    "q": "Is it better to drive Srinagar–Leh or Leh–Srinagar?",
+    "a": "Driving from Srinagar towards Leh is better for acclimatisation, because you gain height slowly through Kargil (2,676 m) and Lamayuru. Flying into Leh and driving out to Srinagar is fine too, as long as you take rest days in Leh first."
+   }
+  ]
+ },
+ {
+  "slug": "kargil-to-zanskar",
+  "from": "kargil",
+  "to": "zanskar",
+  "distance_km": 235,
+  "summary": "Kargil to Padum in Zanskar is about 235 km via the Suru valley, Rangdum and Pensi La (about 4,400 m), 10–12 hours of rough driving. Most travellers split it with a night at Rangdum.",
+  "options": [
+   {
+    "mode": "Private car",
+    "time": "10–12 h, or 2 days via Rangdum",
+    "cost": "₹12,000–16,000 one way",
+    "text": "A taxi from Kargil is the most reliable way to Zanskar. Leave at dawn, stop at Panikhar for views of Nun Kun, at Rangdum's gompa and at the Drang Drung viewpoint below Pensi La. Splitting the trip with a night at Rangdum is kinder for families and seniors."
+   },
+   {
+    "mode": "Bus",
+    "time": "12–14 h",
+    "cost": "₹700–1,000",
+    "text": "A bus runs between Kargil and Padum a few times a week in summer, leaving very early. It is cheap but long and uncomfortable, with few stops. Ask at the Kargil bus stand for the current schedule; check current status before you travel."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "10–12 h",
+    "cost": "₹1,500–2,500 a seat",
+    "text": "Shared cars run from Kargil to Padum when there is demand, mostly in July and August. Ask at the Kargil taxi stand and at hotels a day ahead. Return seats from Padum are arranged in the bazaar."
+   }
+  ],
+  "stops_on_way": [
+   "Sankoo",
+   "Panikhar and Nun Kun views",
+   "Parkachik glacier",
+   "Rangdum Monastery",
+   "Pensi La and Drang Drung glacier"
+  ],
+  "road_status": "Usually open about June to October, depending on snow on Pensi La; sections are unpaved. Check current status before you travel.",
+  "tip": "Carry food, water and warm clothes in the car; there are very few shops between Panikhar and Padum.",
+  "faqs": [
+   {
+    "q": "How long does it take from Kargil to Padum?",
+    "a": "About 10–12 hours by car for roughly 235 km, more with stops or bad weather. Buses take longer. We recommend a night at Rangdum, about 130 km from Kargil, which makes both days shorter and helps with acclimatisation."
+   },
+   {
+    "q": "Is the road to Zanskar paved?",
+    "a": "Parts of the road, especially in the Suru valley, are paved; long sections near Rangdum and Pensi La are rough or under construction. A sturdy SUV with an experienced local driver is best. Check current status before you travel."
+   },
+   {
+    "q": "Where can I stay on the way to Zanskar?",
+    "a": "Rangdum has simple guesthouses and camps, and a few homestays, with dinner and breakfast at about ₹1,500–2,500 per person. Panikhar and Sankoo also have basic stays. Book ahead in July and August if you can."
+   },
+   {
+    "q": "When does Pensi La open?",
+    "a": "Pensi La usually opens in late May or June and closes in October or November with snow, depending on the year. Early and late in the season, expect snow on the road. Check current status before you travel."
+   }
+  ]
+ }
+]
