@@ -1,0 +1,146 @@
+{
+  "slug": "badrinath",
+  "name": "Badrinath & Mana",
+  "region": "garhwal",
+  "kind": "pilgrimage town",
+  "wiki": "Badrinath",
+  "image_query": "Badrinath Temple Alaknanda Neelkanth",
+  "lat": 30.744,
+  "lng": 79.493,
+  "altitude_m": 3300,
+  "tagline": "Vishnu's shrine on the Alaknanda, and the village before Tibet",
+  "meta_description": "Badrinath and Mana guide: temple darshan and Tapt Kund, Mana village, Vyas Gufa, Bhim Pul, Vasudhara Falls walk, opening dates, bus costs and GMVN stays.",
+  "summary": "Badrinath is the Vishnu shrine at about 3,300 m on the Alaknanda, one of the four Char Dham and open roughly late April to mid-November. Three kilometres on is Mana, the last village before the Mana Pass to Tibet. It is reachable by road all the way; one or two nights is enough.",
+  "intro": [
+    "Badrinath sits in a wide, bare valley between the Nar and Narayan ranges, with the pyramid of Neelkanth, 6,597 m, rising behind the town. The temple, its painted facade bright red, blue and gold, faces the Alaknanda river; below it, steaming hot springs feed the Tapt Kund where pilgrims bathe before darshan. Badrinath is one of the four dhams of both the Himalayan Char Dham and the all-India Char Dham of Badrinath, Puri, Dwarka and Rameswaram.",
+    "The temple is run by a state-appointed committee, but its rituals keep an unusual link with South India. By tradition the Rawal, the chief priest, is a Nambudiri Brahmin from Kerala, a practice attributed to Adi Shankara, who is said to have recovered the Badrinarayan image from the Alaknanda. The temple opens each spring on a date announced on Basant Panchami at the old Tehri royal palace in Narendra Nagar, and closes in November, when an image of Badri is carried down to Joshimath.",
+    "Three kilometres further, at about 3,200 m, lies Mana, a village of the Bhotiya Marchha community. Mana once traded wool and salt with Tibet across the Mana Pass, until the route closed in the early 1950s. Its signboards, which once read India's last village, now call it the first. In summer its lanes sell hand-knitted woollens, and paths lead to Vyas Gufa, Bhim Pul and the long waterfall of Vasudhara. In winter the whole village moves down to lower valleys."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, mid-Sep – Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 315 km · 11–12 h"],
+    ["From Rishikesh", "≈ 295 km · 10–11 h"],
+    ["Altitude", "≈ 3,300 m (Mana ≈ 3,200 m)"],
+    ["Known for", "Badrinath temple, Tapt Kund, Mana village, Vasudhara Falls"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Darshan at Badrinath", "text": "The temple opens before dawn for the abhishek, and general darshan runs through the day with a midday break. Queues stretch for hours in May and June. Go early or after 7 pm, and check timings and token systems at the temple committee office."},
+    {"title": "Tapt Kund hot springs", "text": "Sulphur springs below the temple at about 55 °C feed bathing tanks where pilgrims take a dip before darshan, while air temperatures stay cool all year. Separate sections for men and women; take a towel and something warm to change into."},
+    {"title": "Mana village lanes", "text": "Stone houses with slate roofs, women knitting caps and socks in doorways, and small tea shops marked first tea shop of India. Walk slowly and ask before photographing people; this is home for about 1,200 residents in summer."},
+    {"title": "Vyas Gufa and Bhim Pul", "text": "Above Mana, a small cave shrine is where the sage Vyasa is said to have composed the epics, with Ganesh Gufa nearby. Below the village, a natural rock slab spans the roaring Saraswati: Bhim Pul, said to have been laid by Bhima for Draupadi."},
+    {"title": "Vasudhara Falls", "text": "A waterfall of about 120 m dropping off a cliff, reached by a 3-hour walk from Mana past the Saraswati temple. Pilgrims believe its spray falls only on the pure of heart. The path is stony and climbs above 3,600 m; go with water and a warm layer."},
+    {"title": "Neelkanth at first light", "text": "On clear mornings in May, June and October, the snow pyramid of Neelkanth, 6,597 m, turns pink above the temple at sunrise. Stand on the bridge over the Alaknanda for the classic view of temple and peak together."}
+  ],
+  "field_notes": [
+    {"fact": "Badrinath's chief priest, the Rawal, is traditionally a Nambudiri Brahmin from Kerala, a tradition believed to have been started by Adi Shankara. He must be a bachelor with a postgraduate Sanskrit degree, and is formally approved by the former ruler of Tehri Garhwal.", "source": "Badrinath Temple"},
+    {"fact": "In 1624 the Portuguese Jesuits António de Andrade and Manuel Marques crossed the Mana Pass and became the first known Europeans to enter Tibet. The pass remained a trade route until it was closed in 1951.", "source": "Mana Pass"},
+    {"fact": "Badrinath takes its name from the Sanskrit badari, the jujube tree, and natha, lord. The hot springs of Tapt Kund below the temple stay at about 55 °C all year, though the air rarely rises above 17 °C.", "source": "Badrinath Temple"}
+  ],
+  "local_word": {"word": "Badri", "language": "Sanskrit / Garhwali", "meaning": "the jujube (ber) tree; Badrinath means lord of the badri"},
+  "costs": [
+    ["UTC or GMOU bus, Rishikesh to Badrinath", "₹600–950"],
+    ["Shared jeep seat, Joshimath to Badrinath", "₹200–350"],
+    ["Taxi, Badrinath to Mana and back with waiting", "₹500–900"],
+    ["GMVN or dharamshala dorm bed", "₹300–800 a night"],
+    ["Double room in a Badrinath hotel, peak season", "₹2,500–6,000"],
+    ["Thali at a Badrinath dhaba", "₹150–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and GMOU buses leave Rishikesh between about 4 am and 6 am for Badrinath, roughly 295 km and 10–11 hours via Devprayag, Rudraprayag and Joshimath. Shared jeeps run from Joshimath (45 km, 1.5–2 hours)."},
+    {"mode": "Road", "text": "By car from Rishikesh, most travellers break the journey at Joshimath or Pipalkoti. The road above Joshimath, past Vishnuprayag and Govindghat, is narrow and slide-prone in monsoon. Traffic is controlled at times in peak season; check current status before you travel."},
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is the nearest, about 315 km away. Seasonal helicopter charters fly pilgrims from Dehradun to Badrinath; seats are expensive and depend on weather."}
+  ],
+  "where_to_stay": "Saver: GMVN runs Hotel Devlok and a Yatri Niwas with dorm beds, and dharamshalas run by trusts and communities offer simple rooms close to the temple at ₹300–1,500. Comfort: Badrinath's private hotels are plain but warm, at ₹2,500–6,000 for a double in peak season; ask for rooms with geysers and blankets. There is no luxury hotel here; signature trips sleep lower, at Joshimath or Auli, and visit Badrinath for the day with an early start.",
+  "stays": ["gmvn-hotel-devlok-badrinath"],
+  "tips": [
+    "Register for the Char Dham before you leave Rishikesh; checkposts on the Badrinath road verify registrations.",
+    "Go for darshan before 6 am or after 7 pm in peak season to avoid the longest queues.",
+    "Nights are near freezing even in June; carry a down jacket, cap and gloves.",
+    "Keep cash for Mana and Badrinath; the ATMs are few and often crowded in May and June.",
+    "Spend your first night at Joshimath if you come straight from the plains, to ease the jump to 3,300 m."
+  ],
+  "themes": ["pilgrimages", "homestays-and-villages", "road-trips", "photography"],
+  "nearby": ["auli", "valley-of-flowers", "kedarnath"],
+  "experiences": [
+    {
+      "slug": "badrinath-tapt-kund-and-darshan",
+      "title": "Tapt Kund dip and Badrinath darshan",
+      "kind": "spiritual",
+      "duration": "2–4 hours",
+      "best_time": "4:30–7 am, May–Oct",
+      "cost": "Free darshan; special pujas at fixed committee rates",
+      "image_query": "Badrinath Temple facade",
+      "wiki": "Badrinath Temple",
+      "summary": "Bathe in the hot springs of Tapt Kund, then join the queue for darshan of the black stone Badrinarayan image in its gilded sanctum. The early-morning abhishek is the most moving time, before crowds and the midday break.",
+      "body": [
+        "The temple's sanctum holds a one-foot image of Badrinarayan in black shaligram stone, seated in meditation under a gold canopy, with images of Kubera, Narada, Uddhava and Nara and Narayana beside him. Pilgrims first bathe in Tapt Kund, the hot sulphur springs just below the temple, whose water stays around 55 °C. The steam rising off the tanks against the snow peaks is one of the enduring images of the yatra.",
+        "The day begins around 4:30 am with the abhishek performed by the Rawal, for which tickets are sold through the temple committee. General darshan follows, with a break in the early afternoon and the evening aarti and Geet Govind at closing. In May and June the queue can stretch across the bridge and take three or four hours. Token systems are sometimes introduced; check at the committee office.",
+        "Dress modestly and warmly, and leave phones and bags at the cloakrooms if asked; photography is not allowed inside. Remember that this is a working shrine where families may have saved for years to come. After darshan, walk along the riverside to the Brahma Kapal ghat, where pilgrims perform rites for their ancestors, and to the small shrines around the town."
+      ],
+      "good_for": ["seniors", "families", "first-timers"],
+      "faqs": [
+        {"q": "What are the darshan timings at Badrinath?", "a": "The temple usually opens around 4:30 am for the abhishek and closes after the evening aarti around 9 pm, with a break of a few hours after midday. Timings change with the season and crowds; confirm with the temple committee or your hotel on arrival."},
+        {"q": "Is it safe to bathe in Tapt Kund?", "a": "Yes for most healthy adults, but the water is hot, about 55 °C at source, and tanks are cooler. Enter slowly, stay a few minutes and avoid it if you have heart conditions or high blood pressure. Keep valuables with a companion."},
+        {"q": "Can I book special pujas at Badrinath online?", "a": "The Badrinath–Kedarnath temple committee offers some pujas through its official website and counters, at fixed rates. Use only the official site or office; agents who promise VIP darshan for extra money are not authorised. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "mana-village-vyas-gufa-bhim-pul-walk",
+      "title": "Mana village walk to Vyas Gufa and Bhim Pul",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "8–11 am, May–Oct",
+      "cost": "Free; taxi from Badrinath ₹500–900 return",
+      "image_query": "Mana village Uttarakhand houses",
+      "wiki": "Mana, Chamoli",
+      "summary": "Wander the stone lanes of Mana, a Bhotiya village 3 km beyond Badrinath at about 3,200 m, then climb to the cave shrines of Vyas Gufa and Ganesh Gufa and down to the rock bridge of Bhim Pul over the roaring Saraswati.",
+      "body": [
+        "Mana is home to about 1,200 people of the Marchha and Jad Bhotiya clans, who lived for centuries by trading with Tibet across the Mana Pass. Since the pass closed in the early 1950s, they have turned to farming potatoes and buckwheat, herding, weaving and, increasingly, pilgrims. Every winter the entire village moves down to lower valleys near Chamoli and Gopeshwar, returning when Badrinath reopens.",
+        "From the taxi stand, lanes climb between houses of stone and timber where women sit knitting caps, socks and shawls for sale. Above the village, a few minutes' climb, is Vyas Gufa, a small cave with a roof of layered rock said to look like the pages of a book; tradition holds that Vyasa composed the Mahabharata here, with Ganesh as his scribe at nearby Ganesh Gufa.",
+        "Below the village, the Saraswati river crashes through a narrow gorge beneath Bhim Pul, a single huge rock that bridges it. Legend says Bhima threw it across so Draupadi could cross on the Pandavas' last journey. Walk gently, buy woollens directly from the women who make them, and ask before photographing residents. The village is close to the border; follow any instructions from army or police posts."
+      ],
+      "good_for": ["families", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Why is Mana called the first village of India?", "a": "Mana was long signposted as the last Indian village on the road towards the Tibet border. In recent years the signboards were changed to call it the first village of India. It is about 26 km from the border, and it is the last settlement before the Mana Pass."},
+        {"q": "Do I need a permit to visit Mana village?", "a": "No permit is needed for Indian visitors to Mana village, Vyas Gufa, Bhim Pul or Vasudhara. Foreign visitors should carry passports. Going beyond Mana towards the pass requires special permission. Rules can change; check current status before you travel."},
+        {"q": "What can I buy in Mana?", "a": "Hand-knitted woollen caps, socks, gloves and shawls made in the village, along with local rajma, herbs and tea at the shops. Buy from the women who knit them, and pay the asking price, which is usually modest."}
+      ]
+    },
+    {
+      "slug": "mana-vasudhara-falls-walk",
+      "title": "Walk to Vasudhara Falls from Mana",
+      "kind": "trek",
+      "duration": "5–6 hours return",
+      "best_time": "8 am start, late May–Oct",
+      "cost": "Free; guide ₹1,000–1,500",
+      "image_query": "Vasudhara Falls Badrinath",
+      "wiki": "Vasudhara Falls",
+      "summary": "A stony trail of about 5 km from Mana past the Saraswati temple and up the Alaknanda valley to Vasudhara, a slender waterfall of about 120 m. Big mountain views, little shade and a climb to above 3,600 m.",
+      "body": [
+        "The path to Vasudhara begins near Bhim Pul at the edge of Mana village and runs north-west along the Alaknanda valley. After the small Saraswati temple it becomes rocky and steep in places, crossing scree and meadow with views back towards Mana and up to the peaks around Chaukhamba and Neelkanth. Most walkers take about three hours up and two down.",
+        "The waterfall drops about 120 m off a sheer cliff, falling so far that much of it turns to spray in the wind. Pilgrims believe the water falls only on those who are pure of heart, and many stand beneath the drifting mist. Legend places the Pandavas here on their last journey towards Swargarohini, and Sahadeva is said to have died near Vasudhara.",
+        "Start early to avoid afternoon wind and cloud. Carry water, snacks, sunscreen and a warm layer; there are few stalls past the first kilometre. The route stays above 3,200 m throughout, so it is a good acclimatisation walk only if you have already spent a night at Badrinath. Beyond Vasudhara the trail continues to Laxmi Van and Satopanth Tal, a serious trek that needs permits, a guide and camping gear."
+      ],
+      "good_for": ["students", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long is the Vasudhara Falls trek?", "a": "About 5 km one way from Mana, or 9 km from Badrinath. Walkers usually take three hours up and two down. The trail is stony with some steep sections and little shade, so it suits reasonably fit walkers rather than young children or frail seniors."},
+        {"q": "When is Vasudhara Falls accessible?", "a": "Usually from mid-May to October or November, while Badrinath temple is open. Snow can block the path early in the season. Mid-September to October brings the clearest skies. Check current status in Mana before setting out."},
+        {"q": "Can I continue from Vasudhara to Satopanth Tal?", "a": "Yes, but it is a separate 2–3 day trek with camping above 4,000 m, requiring forest permits, a registered guide and proper gear. It is not a day walk. Plan it with a licensed local operator and acclimatise first."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When does Badrinath temple open and close?", "a": "Badrinath usually opens in late April or early May, on a date announced on Basant Panchami at the Tehri royal palace in Narendra Nagar, and closes in mid-to-late November, with the date announced on Vijayadashami. Check current status before you travel."},
+    {"q": "How do I reach Badrinath from Rishikesh by bus?", "a": "UTC and GMOU buses leave Rishikesh early morning and reach Badrinath in 10–11 hours, costing about ₹600–950. Alternatively, take a bus to Joshimath and a shared jeep from there (₹200–350). Book the bus a day ahead in May and June."},
+    {"q": "Is a helicopter available to Badrinath?", "a": "Seasonal helicopter charters run from Dehradun to Badrinath, often as part of Char Dham packages. They are expensive and weather-dependent. Unlike Kedarnath, there is no IRCTC shuttle, because Badrinath is reachable by road. Check current status before you travel."},
+    {"q": "Is Badrinath suitable for senior citizens?", "a": "Yes. The temple is a short walk from the car park, with steps and a bridge. The main challenges are altitude (3,300 m), cold nights and long queues. Seniors should sleep a night at Joshimath first, dress warmly and go for darshan early."},
+    {"q": "How many days do I need for Badrinath and Mana?", "a": "One full day covers darshan, Tapt Kund and Mana village. Add a second day for Vasudhara Falls or a slower pace. Most travellers combine Badrinath with Joshimath, Auli or the Valley of Flowers in a 5–7 night trip."},
+    {"q": "Is there mobile network and ATM in Badrinath?", "a": "Jio, Airtel and BSNL generally work in Badrinath town, though very crowded days slow data. There are a couple of ATMs, which can run dry in peak season. Carry enough cash from Joshimath for your stay."},
+    {"q": "What is the weather like in Badrinath?", "a": "In May and June days are 10–18 °C and nights 2–8 °C. October drops to 0–14 °C with frosty mornings. July and August bring rain and landslides on the road. From December to March the town is snowbound and closed."},
+    {"q": "Can I stay in Mana village?", "a": "A few homestays and guesthouses in Mana take guests in season, and the number has grown in recent years. Facilities are simple. Most travellers sleep in Badrinath, 3 km away, and visit Mana for the day."},
+    {"q": "Is Badrinath affected by altitude sickness?", "a": "At about 3,300 m, mild symptoms such as headache, poor sleep and breathlessness on stairs are common on the first night if you drive up from the plains in one day. Break the journey at Joshimath, drink water, avoid alcohol and talk to your doctor about precautions."}
+  ]
+}

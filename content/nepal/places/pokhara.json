@@ -1,0 +1,146 @@
+{
+  "slug": "pokhara",
+  "name": "Pokhara",
+  "region": "nepal",
+  "kind": "city",
+  "wiki": "Pokhara",
+  "image_query": "Phewa Lake Pokhara Machapuchare",
+  "lat": 28.2096,
+  "lng": 83.9856,
+  "altitude_m": 822,
+  "tagline": "A lake town under the Fishtail and the Annapurnas",
+  "meta_description": "Pokhara guide: Phewa Lake, Sarangkot sunrise, Peace Pagoda, paragliding, the Annapurna treks, tourist bus and flight options, costs in INR and where to stay.",
+  "summary": "Pokhara is Nepal's second city and the base for the Annapurna region, at about 800 m beside Phewa Lake, 200 km west of Kathmandu. Machapuchare, the 6,993 m Fishtail, rises straight behind it. Come for lake boats, Sarangkot sunrise, paragliding and the start of the Poon Hill, Ghandruk and Jomsom routes.",
+  "intro": [
+    "Few cities sit so close to big mountains. Within about 30 km of Pokhara the land climbs from under 1,000 m to over 7,500 m, which is why Machapuchare, Annapurna South and the Annapurna massif look so close from the lakeshore. Machapuchare is held sacred and is closed to climbing. On clear mornings its double summit is reflected in Phewa Lake, which forms the city's southern edge.",
+    "Pokhara's market owes its start to Bhaktapur too: in the 1770s the last King of Kaski brought sixteen Newar families from Bhaktapur to develop the bazaar. The old town of Bhimsen Tole still has a few Newar houses and temples. Most visitors stay in Lakeside, a long strip of hotels, cafes and gear shops along the eastern shore of Phewa, with Damside to the south and quieter Khahare and Sedi Bagar to the north.",
+    "The Seti Gandaki cuts through the city in a gorge only a few metres wide in places, and the Davis Falls and Gupteshwor cave show how water vanishes underground here. Pokhara International Airport opened on 1 January 2023, but most travellers still arrive on the 7–8 hour tourist bus from Kathmandu. Two or three nights is the minimum; many people stay a week."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Pokhara International Airport (PHH)"],
+    ["From Kathmandu", "≈ 200 km · 7–8 h by road; 25 min by air"],
+    ["Altitude", "≈ 800–830 m (Lakeside)"],
+    ["Known for", "Phewa Lake, Sarangkot, Peace Pagoda, paragliding, Annapurna treks"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Phewa Lake by rowing boat", "text": "Hire a wooden doonga at Lakeside or Barahi ghat and row to the island temple of Tal Barahi, a two-storey pagoda to the goddess Barahi. Early morning gives still water and mountain reflections; boats cost about NPR 700–1,000 an hour."},
+    {"title": "Sarangkot at dawn", "text": "The ridge of Sarangkot, about 1,600 m, looks straight at Machapuchare, Annapurna South and Dhaulagiri. Drive up before sunrise or walk up from Lakeside in 1.5–2 hours. It is also the main launch site for paragliders."},
+    {"title": "Peace Pagoda across the lake", "text": "The white Shanti Stupa sits on a ridge on the far side of Phewa Lake, built by the Japanese Nipponzan Myohoji order. Take a boat across and walk up in 45 minutes for the full lake and mountain view."},
+    {"title": "International Mountain Museum", "text": "A large museum near the airport on the Himalaya's peaks, climbers and mountain peoples, with sections on the Gurung, Thakali and Sherpa communities. Good for a rainy afternoon and for children."},
+    {"title": "Davis Falls and Gupteshwor cave", "text": "Water from Phewa Lake's dam drops into a hole called Patale Chhango and runs underground through Gupteshwor Mahadev cave, across the road. Best in and just after the monsoon, when the flow is heavy."},
+    {"title": "Gateway to the Annapurnas", "text": "Pokhara is where Poon Hill, Ghandruk, Mardi Himal and Annapurna Base Camp treks begin, and where buses and flights leave for Jomsom. Permits are issued at the Nepal Tourism Board office in Damside."}
+  ],
+  "field_notes": [
+    {"fact": "In the 1770s the last King of Kaski brought sixteen Newar families from Bhaktapur to Pokhara to develop the market that became today's old bazaar.", "source": "Pokhara"},
+    {"fact": "Machapuchare, the 6,993 m 'Fishtail', is the closest high peak to Pokhara. It is considered sacred and climbing it is prohibited.", "source": "Pokhara"},
+    {"fact": "Davis Falls, known locally as Patale Chhango (underworld's waterfall), was named after a Swiss woman who drowned there on 31 July 1961. The water then runs about 150 m through an underground tunnel.", "source": "Davis Falls"}
+  ],
+  "local_word": {"word": "Tal", "language": "Nepali", "meaning": "lake, as in Phewa Tal and Begnas Tal"},
+  "costs": [
+    ["Tourist bus seat, Kathmandu–Pokhara", "₹500–1,600 (NPR 800–2,500); Greenline ≈ USD 25"],
+    ["Rowing boat on Phewa Lake, one hour", "₹450–650"],
+    ["Taxi to Sarangkot for sunrise, return", "₹1,250–1,900"],
+    ["Tandem paragliding from Sarangkot", "₹5,000–8,000"],
+    ["Lakeside hostel dorm or budget double", "₹400–1,800 a night"],
+    ["ACAP permit for treks", "₹625 SAARC; ₹1,875 other foreigners"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Several domestic airlines fly Kathmandu–Pokhara in about 25 minutes. Pokhara International Airport opened in January 2023; check current status for any international routes."},
+    {"mode": "Bus", "text": "Tourist buses leave Kathmandu's Sorhakhutte around 7 am and arrive at Pokhara's tourist bus park in 7–8 hours for NPR 800–2,500. From Sunauli, buses from Bhairahawa take 7–9 hours on the Siddhartha Highway."},
+    {"mode": "Road", "text": "By private car from Kathmandu, the Prithvi Highway via Mugling takes 6–8 hours; expect construction delays near Naubise and Mugling."}
+  ],
+  "where_to_stay": "Saver: Lakeside has dozens of hostels and simple guesthouses from ₹400 for a dorm bed; the lanes behind the lake road are quieter. Comfort: Temple Tree Resort & Spa at Gaurighat, Lakeside, is a stone-and-timber resort with a pool, about 150 m from the lake, good for families and couples. Signature: Tiger Mountain Pokhara Lodge sits on a ridge about 30 minutes from the city, with 18 rooms in stone cottages, an infinity pool and Annapurna views from its terraces.",
+  "stays": ["temple-tree-resort-pokhara", "tiger-mountain-pokhara-lodge"],
+  "tips": [
+    "Get your ACAP permit at the Nepal Tourism Board office in Damside before heading to the trails.",
+    "Check the paragliding company's licence and insurance before booking; ask for a briefing.",
+    "Morning is the time for mountain views; clouds usually build after 10 am.",
+    "Avoid swimming in Phewa Lake away from designated spots; it is deeper and colder than it looks.",
+    "Book Jomsom flights for early morning; afternoon winds stop flights in the Kali Gandaki valley."
+  ],
+  "themes": ["honeymoons", "family-holidays", "adventure-sports", "treks-and-walks", "photography"],
+  "nearby": ["ghandruk", "bandipur", "marpha"],
+  "experiences": [
+    {
+      "slug": "pokhara-sarangkot-sunrise",
+      "title": "Sunrise over Machapuchare from Sarangkot",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "5–8 am, Oct–Mar",
+      "cost": "Taxi ₹1,250–1,900 return; small viewpoint fee",
+      "image_query": "Sarangkot sunrise Annapurna Machapuchare",
+      "wiki": "Sarangkot",
+      "summary": "Drive or walk up to the Sarangkot ridge before dawn and watch the sun hit Machapuchare, Annapurna South and Dhaulagiri. It is Pokhara's most popular morning for good reason, and quiet enough if you walk a little away from the main viewpoint.",
+      "body": [
+        "Sarangkot is a ridge just north-west of Phewa Lake at about 1,600 m. In the dark, taxis climb from Lakeside to the parking area below the main viewpoint in about 30–40 minutes. Fitter walkers can take the stepped trail from Lakeside in 1.5–2 hours. Either way, be at the top 20 minutes before sunrise with a warm layer.",
+        "From the viewpoint, the panorama runs from Dhaulagiri in the west, over the Annapurna peaks, to Machapuchare's twin summit almost directly ahead and Lamjung Himal to the east. Below, the lake and city sit in morning mist. The main platform fills with people in peak season; walk a few minutes along the ridge for space.",
+        "After sunrise, have tea at a ridge cafe and walk down through the village. Sarangkot is also where Pokhara's paragliders launch from mid-morning, so stay on if you want to watch or fly. Clear dawns are most likely from October to February."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How do I get to Sarangkot for sunrise?", "a": "Book a taxi the night before from Lakeside; it takes 30–40 minutes. Or walk the trail from Lakeside in 1.5–2 hours, with a torch."},
+        {"q": "Which mountains are visible from Sarangkot?", "a": "Dhaulagiri, the Annapurna peaks, Annapurna South, Machapuchare and Lamjung Himal on clear days."},
+        {"q": "Is Sarangkot sunrise worth it in April?", "a": "Sometimes. Spring haze often blurs the view after the first light. October to February is much more reliable."}
+      ]
+    },
+    {
+      "slug": "pokhara-phewa-boat-and-peace-pagoda-hike",
+      "title": "Row across Phewa, walk up to the Peace Pagoda",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "7–11 am, Oct–Apr",
+      "cost": "Boat ₹450–650 an hour or one-way crossing; pagoda free",
+      "image_query": "Shanti Stupa Pokhara Phewa Lake",
+      "wiki": "Shanti Stupa, Pokhara",
+      "summary": "Take a wooden boat past the island temple of Tal Barahi to the south shore of Phewa Lake, then climb through forest to the white Shanti Stupa for the best view of the lake and the Annapurnas together.",
+      "body": [
+        "Hire a boat at Lakeside or Barahi ghat in the morning, when the water is still. Most boatmen first stop at Tal Barahi, a small two-storey pagoda on an island, where families make offerings, especially on Saturdays. Then cross to the south shore near Anadu, about 20–30 minutes' paddling.",
+        "From the jetty, a stepped trail climbs through forest to the Shanti Stupa, the World Peace Pagoda, in about 45 minutes. It was built by the Japanese Buddhist order Nipponzan Myohoji as one of a series of peace pagodas around the world. Walk around it clockwise, keep quiet near the shrine and leave shoes at the steps.",
+        "From the terrace you see the whole of Phewa Lake, Lakeside and, on clear mornings, the Annapurna range and Machapuchare above the city. Walk down the other side to the road and take a taxi back, or return the way you came and catch a boat. Carry water; there are cafes on the ridge."
+      ],
+      "good_for": ["couples", "families", "students", "photographers"],
+      "faqs": [
+        {"q": "How much does a boat on Phewa Lake cost?", "a": "About NPR 700–1,000 an hour for a rowing boat, more with a boatman. Prices are posted at the main ghats; check current status before you travel."},
+        {"q": "How long is the climb to the Peace Pagoda?", "a": "About 45 minutes from the south shore jetty on a stepped forest trail."},
+        {"q": "Are life jackets provided on Phewa Lake boats?", "a": "They should be. Ask for one before you set off, especially with children."}
+      ]
+    },
+    {
+      "slug": "pokhara-tandem-paragliding-sarangkot",
+      "title": "Tandem paragliding from Sarangkot",
+      "kind": "adventure",
+      "duration": "2–3 hours including transfer (20–30 min flight)",
+      "best_time": "10 am–3 pm, Oct–May",
+      "cost": "₹5,000–8,000 for a standard tandem flight",
+      "image_query": "Paragliding Pokhara Phewa Lake",
+      "wiki": "",
+      "summary": "Launch from the Sarangkot ridge with a licensed pilot and circle down over Phewa Lake with the Annapurnas behind you. Pokhara has been a paragliding centre for decades, and no experience is needed.",
+      "body": [
+        "Paragliding companies in Lakeside pick you up from your hotel and drive to the launch site on Sarangkot, about 30 minutes. After a short briefing and harness fitting, you run a few steps downhill with your pilot behind you and lift off. Flights usually last 20–30 minutes, longer in good thermals, and land on a field by the lake shore.",
+        "In the air you look across Phewa Lake to the Peace Pagoda and back to Machapuchare and the Annapurnas. Eagles and kites often share the thermals. Most pilots carry a camera on a pole for photos and video, usually for an extra fee.",
+        "Choose a company registered with the Civil Aviation Authority of Nepal, ask about the pilot's licence and the insurance, and check the weight limits. Flights do not go in rain, strong wind or low cloud, which makes the monsoon unreliable. Wear closed shoes, a jacket and sunglasses."
+      ],
+      "good_for": ["couples", "students", "solo"],
+      "faqs": [
+        {"q": "Is paragliding in Pokhara safe?", "a": "Accidents are rare but possible. Fly with a registered company, check the pilot's licence and insurance, and follow the briefing. Do not fly if you have heart or back problems; talk to your doctor if unsure."},
+        {"q": "Is there an age or weight limit?", "a": "Companies set their own limits, often for children under about 10 and for weights above about 100 kg. Ask before booking."},
+        {"q": "When is the paragliding season in Pokhara?", "a": "Roughly October to May, with October to December the most reliable. Flights are often cancelled in the monsoon."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I go from Kathmandu to Pokhara cheaply?", "a": "Take a tourist bus from Sorhakhutte near Thamel at about 7 am for NPR 800–1,200 (₹500–750). It takes 7–8 hours, with breakfast and lunch stops. Greenline and sofa buses cost more and are more comfortable. Book a day ahead in October and November."},
+    {"q": "How many days do I need in Pokhara?", "a": "Two or three nights for the lake, Sarangkot, the Peace Pagoda and a museum or cave. Add 4–5 days for the Poon Hill trek or 3 nights for a Jomsom and Muktinath trip."},
+    {"q": "Where do I get trekking permits in Pokhara?", "a": "At the Nepal Tourism Board office in Damside, near the lake's south end. The ACAP permit costs NPR 1,000 for SAARC nationals and NPR 3,000 for others. Bring passport photocopies and photos. Check current status before you travel."},
+    {"q": "Is Pokhara good for a honeymoon?", "a": "Yes. Lakeside hotels, boat rides, sunrise at Sarangkot and a ridge lodge like Tiger Mountain make for an easy, slow trip. Avoid June to August if you want mountain views."},
+    {"q": "Is Pokhara safe for solo travellers?", "a": "Yes, Lakeside is relaxed and well-used to solo travellers. Take normal care at night and on lake walks. For treks, use a licensed guide."},
+    {"q": "What is the weather like in Pokhara?", "a": "Mild most of the year: 7–20 °C in January and 20–30 °C in May. The monsoon from June to September is very wet; Pokhara is one of Nepal's rainiest cities."},
+    {"q": "Can I fly to Pokhara from India?", "a": "Check current status. Pokhara International Airport opened in 2023, but most international flights still use Kathmandu. Many Indian travellers fly to Kathmandu and connect, or come by road from Sunauli."},
+    {"q": "Is there UPI or card payment in Pokhara?", "a": "Many Lakeside hotels and shops take cards, and some take UPI via Nepali payment networks. Carry cash for taxis, boats and small cafes."},
+    {"q": "Is Pokhara good for kids?", "a": "Yes. Boats, the Mountain Museum, Davis Falls and short walks keep children busy. Choose a hotel with a garden or pool, like Temple Tree."}
+  ]
+}

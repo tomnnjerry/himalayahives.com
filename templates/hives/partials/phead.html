@@ -1,0 +1,14 @@
+{% load hives %}<header class="phead ground"{% if land %} data-land="{{ land }}"{% endif %}>
+  {% topo seed|default:"page" %}
+  <div class="wrap">{% if crumbs %}{% include "hives/partials/crumbs.html" %}{% endif %}</div>
+  <div class="wrap phead__in">
+    <div>
+      {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+      <h1 class="d-1">{{ title }}</h1>
+      {% if lede %}<p class="lede">{{ lede }}</p>{% endif %}
+      {% if answer %}<p class="answer">{{ answer }}</p>{% endif %}
+    </div>
+    {% if img %}<div class="phead__photo"><img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ title }}" fetchpriority="high">{% include "hives/partials/credit.html" %}</div>{% endif %}
+  </div>
+  {% ridgeline seed|default:"page" 4 %}
+</header>

@@ -1,0 +1,145 @@
+{
+  "slug": "yusmarg",
+  "name": "Yusmarg",
+  "region": "kashmir",
+  "kind": "hill station",
+  "wiki": "Yusmarg",
+  "image_query": "Yusmarg meadow pine forest Kashmir",
+  "lat": 33.833,
+  "lng": 74.665,
+  "altitude_m": 2396,
+  "tagline": "Pine meadows on the Doodh Ganga, a walk from Nilnag lake",
+  "meta_description": "Yusmarg guide: meadows at 2,396 m, Nilnag lake hike, Doodh Ganga river, Charar-e-Sharief shrine stop, JKTDC huts and day-trip costs for 2026.",
+  "summary": "Yusmarg is a hill station of meadows and pine forest at 2,396 m on the Doodh Ganga river, about 50 km south-west of Srinagar in Budgam district. Walk 4 km to the blue Nilnag lake, picnic by the river and stop at the Charar-e-Sharief shrine on the way. Day trip or one quiet night.",
+  "intro": [
+    "Yusmarg sits on a long, sloping meadow in the western part of Budgam district, at 2,396 m, with dense pine and fir forest on three sides and the Doodh Ganga river cutting below it. The Pir Panjal rises to the south-west, with Sunset Peak among the summits trekkers aim for. It feels older and quieter than Gulmarg: fewer hotels, more cattle, and long views down to the valley.",
+    "The road from Srinagar passes through Budgam and Charar-e-Sharief, a town 18 km before Yusmarg that is home to the shrine of Sheikh Noor-ud-din Noorani, Kashmir's most revered Sufi saint. Many Kashmiri families combine the two in a day. Above the meadow, a forest trail leads to Nilnag, a small lake known for its deep blue water.",
+    "Facilities are basic. JKTDC runs huts on the meadow, there are a few guesthouses and tea stalls, and pony owners offer rides to Nilnag and the river. In winter the meadow is under snow, and access depends on clearance. From April to October, Yusmarg is a fine break from the busier circuits."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Oct"],
+    ["Nights we suggest", "0 (day trip) or 1"],
+    ["Nearest airport", "Srinagar, about 50 km"],
+    ["From Srinagar", "≈ 50 km · 1 h 30 min–2 h"],
+    ["Altitude", "2,396 m"],
+    ["Known for", "Meadows, Nilnag lake, Doodh Ganga, Charar-e-Sharief"]
+  ],
+  "best_months": [0, 0, 1, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Nilnag lake", "text": "A 4 km forest trail, or a pony ride, leads to Nilnag, a small lake ringed by pine and known for its blue water. Go in the morning when the surface is still and reflections are clear."},
+    {"title": "Doodh Ganga river", "text": "Below the meadow, the Doodh Ganga, a tributary of the Jhelum, runs white over rocks through pine forest. A short walk down from the meadow leads to picnic spots on its banks."},
+    {"title": "Charar-e-Sharief shrine", "text": "The shrine of Sheikh Noor-ud-din Noorani, Nund Rishi, at Charar-e-Sharief, 18 km before Yusmarg, is one of Kashmir's most important Sufi sites. Dress modestly and cover your head."},
+    {"title": "Sang-e-Safed valley", "text": "A 10 km trek leads from Yusmarg to the Sang-e-Safed valley and a lake that stays mostly covered with ice even in summer. Go with a local guide as a long day or overnight trip."},
+    {"title": "Quiet meadow nights", "text": "Stay a night in a JKTDC hut for a meadow with almost no traffic after 5 pm, clear skies for stars and cattle bells at dawn. Rooms are basic but warm with extra blankets."}
+  ],
+  "field_notes": [
+    {"fact": "A trek of 4 km from Yusmarg leads to Nilnag, a small lake known for its blue water, and a 10 km trek leads to a lake in the Sang-e-Safed valley that stays mostly frozen even in summer.", "source": "Yusmarg"},
+    {"fact": "Yusmarg sits on the bank of the Doodh Ganga, a tributary of the Jhelum, at 2,396 m, and lies about 18 km south of the town of Charar-e-Sharief.", "source": "Yusmarg"},
+    {"fact": "The Charar-e-Sharief shrine honours Sheikh Noor-ud-din Noorani, a 14th and 15th century Sufi saint and poet whose Kashmiri verses, called shruks, are still recited across the valley.", "source": "Nund Rishi"}
+  ],
+  "local_word": {"word": "Nag", "language": "Kashmiri", "meaning": "a spring or small lake, as in Nilnag, Verinag and Sheshnag"},
+  "costs": [
+    ["Private taxi day trip from Srinagar", "₹2,500–3,500"],
+    ["Shared Sumo seat Srinagar–Charar-e-Sharief, then local cab", "₹80–150, then ₹100–200"],
+    ["Pony to Nilnag and back, fixed rate", "₹800–1,500"],
+    ["JKTDC hut per night", "₹2,000–4,000 a unit"],
+    ["Local guide for Sang-e-Safed", "₹1,500–2,500 a day"],
+    ["Kahwa and snacks at a stall", "₹50–150"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar and drive about 50 km via Budgam and Charar-e-Sharief, 1 h 30 min to 2 h."},
+    {"mode": "Bus", "text": "Shared Sumos and minibuses run from Srinagar to Charar-e-Sharief; from there, local cabs and occasional shared vehicles climb to Yusmarg. Morning departures are most reliable."},
+    {"mode": "Road", "text": "The road is paved to the meadow and open from spring to late autumn. Snow can close it in winter; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC huts on the meadow are the main option, with simple heated rooms and basic meals in season; a few small guesthouses also operate. Comfort: most comfort travellers visit as a day trip from a Srinagar houseboat or hotel. Signature: no luxury stays; base at The LaLiT in Srinagar and visit by private car, combining Yusmarg with Charar-e-Sharief.",
+  "stays": [],
+  "tips": [
+    "Leave Srinagar by 8 am and stop at Charar-e-Sharief on the way up, when the shrine is calmer.",
+    "Avoid Fridays at Charar-e-Sharief if you want a quiet visit; prayers draw large crowds.",
+    "Carry water and a snack for the Nilnag walk; stalls on the trail are few.",
+    "Agree pony rates before setting off and confirm the waiting time at the lake.",
+    "Women should carry a scarf for the shrine; men should wear long trousers."
+  ],
+  "themes": ["family-holidays", "treks-and-walks", "pilgrimages", "homestays-and-villages"],
+  "nearby": ["doodhpathri", "srinagar", "gulmarg"],
+  "experiences": [
+    {
+      "slug": "yusmarg-nilnag-lake-hike",
+      "title": "Forest walk from Yusmarg to Nilnag lake",
+      "kind": "trek",
+      "duration": "3–4 hours return",
+      "best_time": "8 am, May–Oct",
+      "cost": "Free on foot; pony ₹800–1,500 return",
+      "image_query": "Nilnag lake Yusmarg",
+      "wiki": "",
+      "summary": "A 4 km trail through pine and fir forest leads from the Yusmarg meadow to Nilnag, a small lake known for its blue water. It is a gentle half-day walk for most ages, with a pony option, and the best way to see Yusmarg's forest.",
+      "body": [
+        "The trail leaves the meadow and climbs gently into forest, following a path worn by herders and ponies. It is mostly shaded, with occasional clearings that look back over the meadow to the Pir Panjal. The gradient is easy, but the altitude of about 2,400 m means you will breathe harder than at home.",
+        "Nilnag is a small, still lake in a forest bowl, its colour deepest on calm sunny mornings. The name combines nil, blue, and nag, the Kashmiri word for a spring or lake. Sit by the shore, but do not swim; the water is cold and the banks are soft.",
+        "Walk back the same way or ask your guide about forest loops. Pony owners at the meadow offer rides for those who prefer not to walk, at rates displayed on a board. Carry water, wear good shoes, and leave nothing behind. In late autumn, start early because the sun leaves the forest by mid-afternoon."
+      ],
+      "good_for": ["families", "couples", "seniors", "students"],
+      "faqs": [
+        {"q": "How long is the walk to Nilnag lake?", "a": "About 4 km each way from the Yusmarg meadow, roughly 1 h 15 min to 1 h 30 min at an easy pace. Allow 3–4 hours return with time at the lake. The path is shaded and gently graded."},
+        {"q": "Can seniors and children reach Nilnag?", "a": "Yes. Fit children and seniors usually manage the walk slowly, and ponies are available for anyone who prefers to ride. Take breaks, drink water and wear warm layers; the forest is cool even in summer."},
+        {"q": "Is a guide needed for Nilnag?", "a": "Not essential, as the trail is well used, but a local guide or pony handler helps in mist or after rain, when side paths can confuse. Do not walk alone late in the day."}
+      ]
+    },
+    {
+      "slug": "yusmarg-charar-e-sharief-shrine",
+      "title": "Stop at the Charar-e-Sharief shrine",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, all year except Friday noon",
+      "cost": "Free",
+      "image_query": "Charar-e-Sharief shrine Budgam",
+      "wiki": "Nund Rishi",
+      "summary": "On the road to Yusmarg, Charar-e-Sharief holds the shrine of Sheikh Noor-ud-din Noorani, Nund Rishi, the founder figure of Kashmir's Rishi order of Sufis. A short, respectful visit gives context to the songs, place names and beliefs you meet across the valley.",
+      "body": [
+        "Sheikh Noor-ud-din Noorani, called Nund Rishi or Sheikh ul-Alam, lived in the 14th and 15th centuries and is revered by Kashmiris of different faiths. His Kashmiri verses, known as shruks, are recited at shrines and homes, and he is closely linked in memory with the earlier mystic poet Lal Ded. Srinagar's airport is named after him.",
+        "The shrine stands in the hill town of Charar-e-Sharief, about 18 km before Yusmarg. Visitors remove shoes, cover their heads and keep voices low. Women generally have a separate section. Photography inside the shrine is usually not allowed; ask before taking pictures even in the courtyard.",
+        "The town's lanes sell walnut, dry fruit, kahwa and tea. Fridays and the saint's annual urs bring large crowds, so choose another day for a quiet visit. Combine the stop with Yusmarg in a single day by private car or shared Sumo."
+      ],
+      "good_for": ["seniors", "families", "solo", "students"],
+      "faqs": [
+        {"q": "Can non-Muslims visit Charar-e-Sharief?", "a": "Visitors of all faiths generally visit respectfully. Dress modestly, cover your head, remove shoes and follow the instructions of caretakers. Avoid Friday prayer time and the annual urs if you prefer a calm visit."},
+        {"q": "How far is Charar-e-Sharief from Yusmarg?", "a": "About 18 km, 30–40 minutes by road. Most visitors stop on the way up from Srinagar, which is about 30 km further. Shared Sumos run from Srinagar to Charar-e-Sharief through the day."},
+        {"q": "Is photography allowed at Charar-e-Sharief shrine?", "a": "Photography inside the shrine is usually not permitted. In the courtyard and lanes, ask before photographing people. Keep phones silent and avoid filming during prayers."}
+      ]
+    },
+    {
+      "slug": "yusmarg-doodh-ganga-riverside-walk",
+      "title": "Down to the Doodh Ganga for a riverside picnic",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Midday, May–Sep",
+      "cost": "Free",
+      "image_query": "Doodh Ganga river Yusmarg",
+      "wiki": "",
+      "summary": "Below the Yusmarg meadow, a path drops through pine forest to the Doodh Ganga, which tumbles white over rocks on its way to the Jhelum. It is the easiest walk in Yusmarg and the best picnic spot, especially for families.",
+      "body": [
+        "From the edge of the meadow, ask a stall owner or pony handler to point out the path to the river. It drops through pine forest for 20–30 minutes, steep in places, to grassy banks above the water. The Doodh Ganga, the milk river, gets its name from the white water churning over boulders.",
+        "Find a flat bank well above the water for a picnic. The sound of the river and the shade of pines make it the coolest place in Yusmarg on summer afternoons. Watch for wagtails and dippers on the rocks, and look up for eagles over the ridges.",
+        "The river is fast and cold, so do not wade or let children near the edge. The walk back up is steeper than it looks; allow time and rest often. In June and July the river is at its fullest from snowmelt. Take all rubbish back to the meadow bins or to Srinagar."
+      ],
+      "good_for": ["families", "couples", "photographers"],
+      "faqs": [
+        {"q": "How far is the Doodh Ganga from the Yusmarg meadow?", "a": "A 20–30 minute walk downhill through pine forest, a little longer coming back up. Paths are not marked, so ask locals for the way and wear shoes with grip."},
+        {"q": "Is it safe to go into the Doodh Ganga?", "a": "No. The river is fast, very cold and full of slippery boulders. Enjoy it from the bank, and keep children well back from the water."},
+        {"q": "Can we cook or light a fire by the river?", "a": "Avoid it. Forest fires are a risk in dry spells and rules may prohibit open fires. Bring a packed lunch and a flask of kahwa instead, and leave nothing behind."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Yusmarg from Srinagar?", "a": "About 50 km via Budgam and Charar-e-Sharief, roughly 1 h 30 min to 2 h by car. A private taxi day trip costs about ₹2,500–3,500. Shared Sumos run to Charar-e-Sharief, with local cabs onward."},
+    {"q": "Is Yusmarg worth visiting?", "a": "Yes, if you want meadows and pine forest without crowds. Yusmarg is quieter than Gulmarg and Pahalgam, with an easy lake walk and a riverside picnic. Combine it with Charar-e-Sharief for a full day."},
+    {"q": "What is the best time to visit Yusmarg?", "a": "April to June and September to October. Summer is green and mild; autumn is clear and golden. Winter brings deep snow and limited access from December to March."},
+    {"q": "Can we stay overnight in Yusmarg?", "a": "Yes, JKTDC huts and a few guesthouses operate. Rooms are basic but adequate for one night, with heaters or extra blankets. Book JKTDC through its official website and confirm meals in advance."},
+    {"q": "Is Yusmarg good for families?", "a": "Yes. Open meadows, pony rides and the gentle Nilnag walk suit children and grandparents. Keep children away from the Doodh Ganga, carry warm clothes and pack food, since stalls are simple."},
+    {"q": "Is there mobile network in Yusmarg?", "a": "Postpaid networks work patchily on the meadow and fade in the forest. Prepaid SIMs from outside Jammu and Kashmir generally do not work. Download maps before you go."},
+    {"q": "Is Yusmarg safe?", "a": "Yusmarg is a regular family destination and generally calm. Travel in daylight, use registered taxis and return before dark if not staying overnight. Check current advisories before you travel."},
+    {"q": "Can we see snow in Yusmarg?", "a": "Yes, in winter from about December to March, but road access depends on snow clearance and facilities are very limited. Spring visitors in April may see snow on the forest edges and peaks."},
+    {"q": "Yusmarg or Doodhpathri, which is better?", "a": "Both are calm Budgam meadows. Yusmarg has the Nilnag lake walk and the Charar-e-Sharief shrine on the way; Doodhpathri has a broader river and more open meadows. With one day, choose by mood; with two, see both."}
+  ]
+}

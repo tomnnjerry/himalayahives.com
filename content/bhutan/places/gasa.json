@@ -1,0 +1,144 @@
+{
+  "slug": "gasa",
+  "name": "Gasa",
+  "region": "bhutan",
+  "kind": "village",
+  "wiki": "Gasa District",
+  "image_query": "Gasa Dzong Bhutan mountains",
+  "lat": 27.9,
+  "lng": 89.73,
+  "altitude_m": 2800,
+  "tagline": "Hot springs and a cliff-top dzong at the edge of the high north",
+  "meta_description": "Gasa guide: Gasa Tshachu hot springs, Gasa Dzong, the road from Punakha, gateway to Laya and the Snowman Trek, best months and honest costs.",
+  "summary": "Gasa is Bhutan's northernmost district headquarters, about 75 km and 3 hours north of Punakha, with a 17th-century dzong on a ridge at about 2,800 m and the Gasa Tshachu hot springs on the Mo Chhu below. It is the least populated district and the gateway to Laya and the Snowman Trek. One night is enough.",
+  "intro": [
+    "Gasa District covers about 3,118 sq km of the high north, bordering Tibet, and had only about 3,100 people in the 2005 census, making it the largest by area relative to population and the least densely populated district in Bhutan. It became a district of its own in 1992, carved out of Punakha. Almost all of it lies inside Jigme Dorji National Park, home to wild takin, blue sheep and snow leopard, with the semi-nomadic Layap and Lunap communities in the far north.",
+    "Gasa Dzong, Trashi Thongmön Dzong, was built in the 17th century as a bulwark against attacks from the north, on the site of a 13th-century meditation place. Locals say the landscape forms the image of Tsheringma, goddess of long life, with the dzong on her chest. It was badly damaged by fire in January 2008 and has since been restored.",
+    "Most visitors come for the Gasa Tshachu, hot springs on the bank of the Mo Chhu at about 2,100 m, believed to cure many illnesses. A 2008 flood destroyed the old bathing complex and it was rebuilt. Bhutanese families come in winter to soak for days. The road from Punakha follows the Mo Chhu north through forest and is narrow and partly rough; check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Paro International Airport, ≈ 200 km"],
+    ["From Punakha", "≈ 75 km · 3 h"],
+    ["Altitude", "Dzong ≈ 2,800 m; hot springs ≈ 2,100 m"],
+    ["Known for", "Gasa Tshachu hot springs, Gasa Dzong, Laya, Snowman Trek"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gasa Tshachu", "text": "Hot springs on the Mo Chhu at about 2,100 m, with several pools of different temperatures. Bhutanese believe they cure joint pain and many other ailments. Bathing is free; a short steep path leads down from the road."},
+    {"title": "Gasa Dzong", "text": "Trashi Thongmön Dzong, on a ridge above the Mo Chhu, was built in the 17th century to guard the northern approaches. Its round watchtowers are unusual in Bhutan. Restored after a 2008 fire."},
+    {"title": "Gateway to Laya", "text": "The road now continues north towards Laya, home of the Layap people, known for their conical bamboo hats. Laya lies at about 3,800 m and needs separate planning and acclimatisation."},
+    {"title": "Jigme Dorji National Park", "text": "Gasa lies inside Bhutan's largest protected area, with forests rising to glaciers. Wild takin herds are concentrated in Gasa, and the park shelters snow leopard and red panda."},
+    {"title": "Snowman Trek country", "text": "Gasa is part of the route of the Snowman Trek through Lunana, one of the hardest treks in the Himalaya, with many passes above 5,000 m. Its trailhead options and permits need specialist planning."}
+  ],
+  "field_notes": [
+    {"fact": "Gasa District was a sub-district of Punakha until 1992, when it became a separate district at the start of Bhutan's 7th Five Year Plan.", "source": "Gasa District"},
+    {"fact": "In Bhutan a hot spring is called tshachu and a medicinal mineral spring menchu; a 13th-century belief holds that the saint Drupthob Terkhungpa scattered 128 medicines in Gasa, forming its springs.", "source": "List of hot springs and mineral springs of Bhutan"},
+    {"fact": "Gasa Dzong was badly damaged in January 2008 by a fire that took about 10 hours to put out.", "source": "Gasa Dzong"}
+  ],
+  "local_word": {"word": "Tshachu", "language": "Dzongkha", "meaning": "hot spring, valued for healing"},
+  "costs": [
+    ["Gasa Tshachu bathing", "Free"],
+    ["Simple guesthouse double near the springs", "₹2,000–4,000 a night"],
+    ["Punakha–Gasa car share for four, return", "₹1,500–2,500 per person"],
+    ["Local lunch of rice, datshi and greens", "₹250–400"],
+    ["Licensed guide, per day", "₹2,500–3,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Paro, then drive to Punakha (about 4–4.5 hours) and on to Gasa (about 3 hours). Most trips spend a night in Punakha first."},
+    {"mode": "Bus", "text": "Limited public buses run between Punakha and Gasa. Tourists need their licensed guide, so most go with the operator's vehicle."},
+    {"mode": "Road", "text": "Punakha to Gasa is about 75 km and 3 hours on a narrow, partly rough road up the Mo Chhu valley. Monsoon landslides can close it; check current status before you travel."}
+  ],
+  "where_to_stay": "Gasa has a few simple guesthouses and small hotels near the hot springs and the dzong, with doubles around ₹2,000–4,000 and basic bathrooms. There are no comfort or luxury hotels; comfort and signature travellers usually visit as a long day trip from Punakha or stay one simple night for an early soak.",
+  "stays": [],
+  "tips": [
+    "Bring a swimsuit and quick-dry towel; pools are segregated or shared by custom, ask your guide.",
+    "Do not soak for long periods if you have heart conditions or high blood pressure; talk to your doctor.",
+    "Winter is busiest at the springs, when Bhutanese families come for days.",
+    "Carry cash: there is no reliable ATM in Gasa.",
+    "Keep monsoon months out of plans; landslides affect the Punakha–Gasa road."
+  ],
+  "themes": ["wellness-and-yoga", "road-trips", "treks-and-walks", "wildlife-and-birds"],
+  "nearby": ["punakha", "dochula"],
+  "experiences": [
+    {
+      "slug": "gasa-tshachu-hot-spring-soak",
+      "title": "A soak in the Gasa Tshachu hot springs",
+      "kind": "wellness",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Nov – Apr",
+      "cost": "Free",
+      "image_query": "Gasa hot spring tshachu Bhutan",
+      "wiki": "List of hot springs and mineral springs of Bhutan",
+      "summary": "Walk down from the road to the Mo Chhu and soak in Bhutan's best-known hot springs, where pools of different temperatures sit beside the river and Bhutanese families come in winter to ease aching joints.",
+      "body": [
+        "Gasa Tshachu lies on the bank of the Mo Chhu at about 2,100 m, a short steep walk down from the road below the dzong. The springs are fed into several stone-lined pools, each said to treat different complaints, from joint pain to skin conditions. Bhutan's Institute of Traditional Medicine Services has documented the tshachus of the country and their mineral content of sulphur, limestone and coal.",
+        "Two oral traditions explain the springs. One holds that the 13th-century saint Drupthob Terkhungpa scattered 128 medicines here, from which 128 hot and mineral springs formed. Another says the Zhabdrung bathed here in the 17th century and his fatigue and joint pain were relieved. The local deity, Dendup Norzang, was once a wrathful demon and became a protector.",
+        "Bathing is free. Changing rooms are basic. Follow your guide's lead on which pools are for men, women or families. Shower first, keep soap out of the pools, and limit each soak to 15–20 minutes, drinking water between. If you have heart conditions, high blood pressure or are pregnant, talk to your doctor before soaking."
+      ],
+      "good_for": ["couples", "seniors", "solo", "students"],
+      "faqs": [
+        {"q": "Is Gasa Tshachu free?", "a": "Yes, as with other hot springs in Bhutan, bathing at the springs is free. Guesthouses nearby charge for rooms and meals. Check current status before you travel."},
+        {"q": "How hot are the Gasa springs?", "a": "The pools vary from warm to quite hot. Test with your hand first and move between pools. Limit each soak to 15–20 minutes and drink water."},
+        {"q": "When is the best time to visit Gasa Tshachu?", "a": "Winter and spring, from November to April, when the air is cold and the road dry. Monsoon floods on the Mo Chhu have damaged the springs before, including a 2008 flood that destroyed the old complex."}
+      ]
+    },
+    {
+      "slug": "gasa-dzong-ridge-visit",
+      "title": "Gasa Dzong and its round watchtowers",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "9 am – 4 pm, Mar – May and Oct – Dec",
+      "cost": "Entry fee may apply (check current status)",
+      "image_query": "Gasa Dzong Trashi Thongmon",
+      "wiki": "Gasa Dzong",
+      "summary": "Visit the 17th-century Trashi Thongmön Dzong on its ridge above the Mo Chhu, built to defend Bhutan's northern frontier, with round watchtowers and views up towards the snow peaks of Jigme Dorji National Park.",
+      "body": [
+        "Gasa Dzong was built in the 17th century by Tenzin Drukdra, the second Druk Desi, on a meditation site founded by Drubthob Terkhungpa in the 13th century. It was meant as a bulwark against attacks from Tibet, and later expanded by the fourth Desi, Gyalse Tenzin Rabgye. The name Trashi Thongmön comes from the local protector deity, renamed by the Zhabdrung.",
+        "The dzong's round towers are unusual in Bhutan, where most dzongs are rectangular. Locals say the surrounding landscape forms the image of Tsheringma, goddess of long life, with the dzong on her chest. A fire in January 2008 burned for about 10 hours and badly damaged it; it has since been restored.",
+        "Dress modestly and go with your guide. From the dzong's ridge, on a clear day, you look up the Mo Chhu towards the high north. Combine the visit with the hot springs below. The air is cooler than in Punakha; carry a jacket."
+      ],
+      "good_for": ["photographers", "seniors", "first-timers", "couples"],
+      "faqs": [
+        {"q": "Who built Gasa Dzong?", "a": "Tenzin Drukdra, the second Druk Desi, in the 17th century, on a site where Drubthob Terkhungpa had meditated in the 13th century. It guarded the northern route from Tibet and was expanded by the fourth Desi."},
+        {"q": "Was Gasa Dzong damaged by fire?", "a": "Yes. In January 2008 a fire burned for about 10 hours and caused serious damage. The dzong has since been restored and houses district offices and monks."},
+        {"q": "How far is Gasa Dzong from the hot springs?", "a": "A short drive and a steep walk; both lie on the Mo Chhu valley slope, with the springs about 700 m lower. Most visitors do both in one day."}
+      ]
+    },
+    {
+      "slug": "gasa-mo-chhu-valley-drive",
+      "title": "Up the Mo Chhu valley from Punakha",
+      "kind": "nature",
+      "duration": "3 hours (drive)",
+      "best_time": "Morning, Oct – May",
+      "cost": "Part of your transfer",
+      "image_query": "Mo Chhu valley Punakha Gasa road",
+      "wiki": "Jigme Dorji National Park",
+      "summary": "Follow the Mo Chhu north from Punakha past rice terraces, Tashithang forest and the boundary of Jigme Dorji National Park, watching for langurs, hornbills and, if you are very lucky, takin.",
+      "body": [
+        "North of Punakha the road passes Khamsum Yulley Namgyal Chorten on its hill and runs beside rice terraces and orange groves along the Mo Chhu. The valley narrows and the forest thickens. Around Tashithang you enter Jigme Dorji National Park, Bhutan's largest protected area, which spans from subtropical forest to glaciers and borders Tibet.",
+        "The road climbs from about 1,200 m to over 2,000 m. Look for grey langurs on the roadside, kingfishers on the river and flocks of birds in the broadleaf forest. The park shelters takin, blue sheep, snow leopard and red panda higher up, though you are unlikely to see them from the road.",
+        "The road is narrow, partly unpaved and prone to landslides in the monsoon. Your driver will check conditions before leaving; check current status before you travel. Carry travel-sickness tablets and water, and stop at Damji or another village for tea on the way."
+      ],
+      "good_for": ["photographers", "students", "couples", "solo"],
+      "faqs": [
+        {"q": "How long is the drive from Punakha to Gasa?", "a": "About 75 km and 3 hours on a narrow, partly rough road along the Mo Chhu. Landslides in the monsoon can add hours or close it. Check current status before you travel."},
+        {"q": "Will I see takin on the way to Gasa?", "a": "Unlikely from the road. Most wild takin herds in Bhutan are in Gasa, but they live in high forests and meadows. Your best sure sighting is at the Royal Takin Preserve in Thimphu."},
+        {"q": "Do I need a permit for Gasa?", "a": "Yes, Gasa must be listed on your entry permit, and you need your licensed guide. Your operator arranges both. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Gasa worth the drive from Punakha?", "a": "If you like hot springs, quiet roads and forest, yes. It adds a night and about 6 hours of driving to a Punakha stay. If your time is short, skip it in favour of Phobjikha."},
+    {"q": "Can I do Gasa as a day trip from Punakha?", "a": "Yes, but it is a long day: about 3 hours each way plus time at the springs and dzong. Leave by 7 am. An overnight is more relaxed."},
+    {"q": "What is the altitude of Gasa?", "a": "The dzong sits at about 2,800 m and the hot springs at about 2,100 m. Most people are fine after a night in Punakha. Laya, further north, is about 3,800 m and needs proper acclimatisation."},
+    {"q": "Are there hotels in Gasa?", "a": "Only simple guesthouses and small hotels near the springs and dzong, with basic rooms. Book through your operator. There is no luxury option."},
+    {"q": "Is there mobile network in Gasa?", "a": "There is coverage around the dzong area, but it is patchy along the road and at the springs. Tell family you may be offline for a day."},
+    {"q": "Can I trek to Laya from Gasa?", "a": "Laya is reached by road and trail north of Gasa and is part of the Laya and Snowman treks. It needs a licensed trekking guide, permits and acclimatisation, with nights above 3,800 m. Talk to your doctor before high treks."},
+    {"q": "Is Gasa good for seniors?", "a": "The springs are relaxing, but the path down is steep and the road long and winding. Seniors who are steady on steps will enjoy it. Talk to your doctor about hot soaks if you have heart conditions."},
+    {"q": "When is the Gasa Tshechu?", "a": "In spring; the 2026 tentative calendar listed 26–28 March at Gasa Dzong. It is a small local festival with few foreign visitors. Check current status before you travel."},
+    {"q": "Are there ATMs in Gasa?", "a": "Do not rely on finding one. Withdraw or carry cash in Punakha or Thimphu before you go."}
+  ]
+}

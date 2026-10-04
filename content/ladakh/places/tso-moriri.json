@@ -1,0 +1,144 @@
+{
+  "slug": "tso-moriri",
+  "name": "Tso Moriri",
+  "region": "ladakh",
+  "kind": "lake",
+  "wiki": "Tso Moriri",
+  "image_query": "Tso Moriri lake Korzok",
+  "lat": 32.968,
+  "lng": 78.258,
+  "altitude_m": 4522,
+  "tagline": "A Ramsar lake at 4,522 m, home of the Changpa herders",
+  "meta_description": "Tso Moriri guide: Korzok village and monastery, Changpa herders, bar-headed geese, Tso Kar, homestays, permits, acclimatisation and real costs.",
+  "summary": "Tso Moriri is a 26 km lake at 4,522 m on the Changthang plateau, about 220 km and 6–7 hours from Leh. Korzok is the only permanent village on its shore. It is a Ramsar wetland where bar-headed geese breed. Go only after five or more nights in Ladakh; the altitude is serious.",
+  "intro": [
+    "Tso Moriri lies in a high basin on the Changthang plateau, ringed by peaks over 6,000 m. It is about 26 km long and a few kilometres wide, fed by snow-melt streams that form marshes at their mouths. The water is slightly brackish, and the lake has no outlet. It is quieter and higher than Pangong, and it feels much more remote.",
+    "Korzok, on the north-west shore, is the only year-round village. Around it the Changpa, semi-nomadic herders of Tibetan origin, move their yaks, sheep and Changthangi goats between summer and winter pastures. The fine winter under-coat of those goats is pashm, the raw fibre of pashmina, so the shawl in a Delhi shop window may well begin here.",
+    "The lake is protected as the Tso Moriri Wetland Conservation Reserve and listed as a Ramsar site. Black-necked cranes visit, and it is the only breeding ground of the bar-headed goose in India. All this sits at 4,522 m: sleep here only late in your trip, keep the first evening quiet and talk to your doctor before you plan it."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Leh, ≈ 220 km"],
+    ["From Leh", "≈ 220 km · 6–7 h via Chumathang"],
+    ["Altitude", "4,522 m"],
+    ["Known for", "Changpa herders, Korzok Monastery, bar-headed geese"]
+  ],
+  "best_months": [0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 0, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Korzok village and monastery", "text": "Korzok's monastery, around 400 years old, sits above the village and the lake. Morning prayers, a small courtyard and views across the water make it the centre of any visit. Walk slowly; every step is at 4,500 m."},
+    {"title": "Changpa herders on the move", "text": "In summer Changpa families graze their animals on pastures around the lake. You may see goats being combed for pashm in early summer. Watch from a respectful distance and ask your homestay host before visiting any camp."},
+    {"title": "Birds of a high wetland", "text": "Bar-headed geese breed here, and black-necked cranes, brown-headed gulls and great crested grebes use the marshes. Stay on paths, keep well back from nesting areas, and bring binoculars rather than walking closer."},
+    {"title": "Tso Kar and the salt flats", "text": "On the way from Leh, a short detour leads to Tso Kar, a smaller saline lake whose white crust was once harvested for salt. Kiang, the Tibetan wild ass, often graze on the plains around it."},
+    {"title": "Kiang on the Changthang plains", "text": "The road from Mahe to Korzok crosses open grassland where herds of kiang graze. Ask your driver to stop, switch off the engine and watch; never chase animals with a vehicle."}
+  ],
+  "field_notes": [
+    {"fact": "Tso Moriri is the only breeding ground of the bar-headed goose in India. The wetland is protected as the Tso Moriri Wetland Conservation Reserve, a Ramsar site, with a wildlife checkpoint at Mahe Bridge.", "source": "Tso Moriri"},
+    {"fact": "Korzok is the only permanent village on the lake. Apart from army outposts on the eastern shore, everyone else around Tso Moriri moves with the seasons, mainly Changpa herders and their animals.", "source": "Tso Moriri"},
+    {"fact": "The Changpa raise Changthangi goats whose under-coat produces pashmina, one of the finest goat fibres. They have been classified as a Scheduled Tribe since 2001.", "source": "Changpa"}
+  ],
+  "local_word": {"word": "Changthang", "language": "Ladakhi / Tibetan", "meaning": "northern plains, the high plateau of eastern Ladakh"},
+  "costs": [
+    ["Bus Leh–Korzok (10th, 20th and 30th of the month)", "≈ ₹400–600 one way"],
+    ["Union taxi Leh–Tso Moriri 2 days", "₹15,000–18,000 a car"],
+    ["Homestay in Korzok with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Camp with attached bathroom, double with meals", "₹4,500–8,000 a night"],
+    ["Korzok Monastery donation or entry", "₹30–50"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh. Plan Tso Moriri for day five or later of your trip, after Leh and preferably Nubra."},
+    {"mode": "Bus", "text": "A bus runs from Leh to Korzok on about the 10th, 20th and 30th of each month, early in the morning. Most travellers share a taxi instead. Check current status before you travel."},
+    {"mode": "Road", "text": "From Leh ≈ 220 km · 6–7 h via Upshi, Chumathang, Mahe and Sumdo. From Pangong ≈ 8–9 h via Chushul and Nyoma. From the Manali road, a track via Tso Kar and Polokongka La joins at Sumdo."}
+  ],
+  "where_to_stay": "Saver: Korzok has family homestays and a few small guesthouses at ₹1,500–2,500 per person with dinner and breakfast, with shared bathrooms and very limited hot water. Comfort: several fixed tented camps near the village have attached bathrooms and buffet meals at ₹4,500–8,000 a double. Signature: there is no luxury hotel here; we choose the best camp available for one night and plan everything around rest and warmth.",
+  "stays": [],
+  "tips": [
+    "Sleep at Tso Moriri only after five or more nights in Ladakh; it is higher than Pangong.",
+    "Do not drink alcohol and do not plan a hard walk on your first evening here.",
+    "Carry cash, snacks and any medicines you need; Korzok has only small shops.",
+    "Keep away from the marshy inflows where birds nest, and never let drivers take vehicles onto the shore.",
+    "Pack a down jacket, warm gloves and a hat; even in August night temperatures fall below freezing."
+  ],
+  "themes": ["wildlife-and-birds", "homestays-and-villages", "photography", "road-trips"],
+  "nearby": ["leh", "pangong-tso", "hemis"],
+  "experiences": [
+    {
+      "slug": "tso-moriri-korzok-monastery-and-village",
+      "title": "Korzok monastery and village at 4,522 m",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "7 am or 5 pm, Jun–Sep",
+      "cost": "Monastery ₹30–50; village walk free",
+      "image_query": "Korzok monastery Tso Moriri",
+      "wiki": "Karzok",
+      "summary": "A slow walk through Korzok, the only permanent village on Tso Moriri, up to its monastery of around 400 years, with views over the lake and the barley fields that grow here at a height few crops survive.",
+      "body": [
+        "Korzok is a few dozen whitewashed houses, prayer walls and animal pens on the north-west shore of Tso Moriri. Barley grows in small walled fields, one of the highest farmed places in Ladakh, and the village serves as a base for Changpa families who range across the surrounding pastures.",
+        "The monastery stands above the houses. It is around 400 years old and draws pilgrims as well as visitors. Inside, butter lamps light old statues and paintings; outside, the courtyard looks straight down the lake. Mornings bring prayers and the softest light on the water.",
+        "Walk at half your normal pace. At 4,522 m even a short climb leaves you breathless, and it is easy to overdo it on the first evening. Ask before photographing people, walk clockwise around chortens and mani walls, and keep your voice low inside the monastery."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "How old is Korzok Monastery?", "a": "Korzok Monastery is about 400 years old and is still an active monastery with resident monks. It sits above Korzok village on the north-west shore of the lake. Visitors are welcome; a small entry fee or donation of ₹30–50 is usual."},
+        {"q": "Can I walk around Tso Moriri?", "a": "Short walks along the shore near Korzok are fine. The full lake is about 26 km long and there is no circuit path suitable for casual visitors, plus marshy areas where birds breed are off-limits. Longer treks in the area need a guide and full acclimatisation."},
+        {"q": "Is Korzok suitable for elderly travellers?", "a": "Only with care and a doctor's advice. At 4,522 m Korzok is higher than Pangong, and the village walk includes slopes. Seniors should visit after a full week in Ladakh, keep activity minimal and consider whether a stay at lower altitude suits them better. Talk to your doctor before you plan it."}
+      ]
+    },
+    {
+      "slug": "tso-moriri-wetland-birdwatching",
+      "title": "Birdwatching on the Tso Moriri wetland",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "6–9 am, Jun–Aug",
+      "cost": "Free; binocular hire from camps ₹200–300 where available",
+      "image_query": "Bar-headed goose Tso Moriri",
+      "wiki": "Tso Moriri",
+      "summary": "Tso Moriri's marshes are the only Indian breeding ground of the bar-headed goose and a summer stop for black-necked cranes, grebes and gulls. Watch from the shore with binoculars in the early morning, keeping well back from nests.",
+      "body": [
+        "Thirty-four bird species have been recorded around the lake, including fourteen kinds of waterbird. The headline species is the bar-headed goose, which breeds here in summer. Brown-headed gulls, great crested grebes and ruddy shelducks are common, and the endangered black-necked crane is sometimes seen.",
+        "The best places are the marshy deltas where streams enter the lake. Go early, between 6 and 9 am, when birds are feeding and the wind is light. Bring binoculars and a long lens, and settle at a distance; geese with goslings move away quickly if approached.",
+        "Conservation groups have worked here for years to protect breeding birds from disturbance, loose dogs and vehicles on the shore. Help by staying on established tracks, never chasing birds or letting dogs follow you, and carrying out all waste. A quiet morning watching is worth more than a close photograph."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Which birds can I see at Tso Moriri?", "a": "In summer, bar-headed geese, brown-headed gulls, great crested grebes, ruddy shelducks and sometimes black-necked cranes. The lake supports about 34 species in all. Early morning in June to August is best. Bring binoculars; approaching nests is prohibited and harmful."},
+        {"q": "Do I need a permit for birdwatching at Tso Moriri?", "a": "No separate birdwatching permit is needed for casual visitors. You need the area permits: the online environment fee receipt for Indians or a Protected Area Permit for foreign nationals. There is a wildlife checkpoint at Mahe Bridge. Check current status before you travel."},
+        {"q": "Can I fly a drone at Tso Moriri?", "a": "Avoid it. Drones disturb nesting birds, and the area is near sensitive border zones where drones need official permission. Fines and confiscation are possible. Rules change, so check current status before you travel and assume the answer is no."}
+      ]
+    },
+    {
+      "slug": "tso-moriri-tso-kar-salt-lake-detour",
+      "title": "Tso Kar salt lake and kiang plains",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Jun–Sep, morning",
+      "cost": "Included in taxi hire; adds ₹2,000–3,000 to a union fare",
+      "image_query": "Tso Kar lake Ladakh",
+      "wiki": "Tso Kar",
+      "summary": "A detour to Tso Kar, a smaller saline lake with white salt crusts, on the way to or from Tso Moriri. The open plains around it are good for spotting kiang, the Tibetan wild ass, and the occasional herder camp.",
+      "body": [
+        "Tso Kar lies north-west of Tso Moriri, in a wide basin close to the Leh–Manali highway. Its edges are crusted white with salt, which herders and traders once collected and carried to markets. Today the basin is part of a protected wetland, and a few camps operate in summer.",
+        "The plains around it are some of the best places in Ladakh to see kiang grazing in loose herds. Foxes, marmots and birds such as black-necked cranes may also appear. Ask your driver to stop well short of animals and switch off the engine.",
+        "Linking Tso Kar with Tso Moriri adds rough driving and time, so it works best on a two-night Changthang loop or as part of the drive to or from the Manali road. Everything here is above 4,500 m; keep exertion low and drink plenty of water."
+      ],
+      "good_for": ["photographers", "students", "couples"],
+      "faqs": [
+        {"q": "How far is Tso Kar from Tso Moriri?", "a": "By road it is roughly 3–4 hours, depending on the route via Sumdo and Polokongka La and the condition of the track. From the Leh–Manali highway near Debring, Tso Kar is a short detour. Plan it as part of a Changthang loop, not an extra day trip."},
+        {"q": "Can I see kiang near Tso Kar?", "a": "Often, yes. Kiang, the Tibetan wild ass, graze on the plains around Tso Kar and along the Mahe–Korzok road in summer. They are wild animals: stop at a distance, stay in or beside the vehicle and do not chase them. Morning and late afternoon are best."},
+        {"q": "Is there accommodation at Tso Kar?", "a": "A few seasonal camps operate near Tso Kar in summer, with simple tents and meals. It is above 4,500 m and very cold at night, so most travellers prefer to stay at Tso Moriri or drive on. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Tso Moriri from Leh?", "a": "About 220 km, a 6–7 hour drive via Upshi, Chumathang, Mahe and Sumdo. Most travellers hire a Ladakh Taxi Union car for two days, roughly ₹15,000–18,000. A bus runs on about the 10th, 20th and 30th of each month. Check current status before you travel."},
+    {"q": "Is Tso Moriri higher than Pangong?", "a": "Yes. Tso Moriri is at 4,522 m, a few hundred metres higher than Pangong at about 4,250 m. That makes it the highest place most visitors sleep in Ladakh. Plan it after five or more nights in the region, keep your first evening restful, and talk to your doctor before your trip."},
+    {"q": "Do I need a permit for Tso Moriri?", "a": "Indian citizens carry the online Environment and Development Fee receipt and photo ID. Foreign nationals need a Protected Area Permit through a registered Leh travel agency. There are checkpoints at Mahe Bridge and Sumdo. Rules change, so check current status before you travel."},
+    {"q": "Where should I stay at Tso Moriri?", "a": "Korzok has family homestays and small guesthouses at about ₹1,500–2,500 per person with meals, and fixed tented camps with attached bathrooms at ₹4,500–8,000 a double. There is no luxury hotel. Book ahead in July and August; most places close by late September."},
+    {"q": "What is the best time to visit Tso Moriri?", "a": "Mid-June to mid-September. The lake thaws in late May or June, camps open in June and birds breed in summer. By late September nights fall well below freezing and camps close. Winter visits need special planning and are not recommended for casual travellers."},
+    {"q": "Is there mobile network at Tso Moriri?", "a": "Coverage is weak. Postpaid BSNL and Jio sometimes work in Korzok, other networks rarely. Prepaid SIMs from outside Jammu and Kashmir and Ladakh do not work at all. Expect to be offline for a day, and tell family your plans before leaving Leh."},
+    {"q": "Can I combine Tso Moriri and Pangong?", "a": "Yes. A road links Pangong to Tso Moriri via Chushul and Nyoma, about 8–9 hours, so a loop Leh–Pangong–Tso Moriri–Leh takes three or four days. It suits travellers who are already well acclimatised and comfortable with long, rough drives. Check current status before you travel."},
+    {"q": "Can families with children visit Tso Moriri?", "a": "It is possible but demanding. Children react to altitude like adults but may not explain symptoms clearly, and 4,522 m is high. Many families visit Pangong instead, or only go to Tso Moriri after a week in Ladakh. Talk to your doctor before planning it with young children."},
+    {"q": "What should I pack for Tso Moriri?", "a": "A down jacket, thermals, warm hat, gloves, sunglasses and high-SPF sunscreen, a head torch, cash, snacks, a refillable bottle and any medicines you need. Power can be limited to evenings, so bring a power bank. Pack out all your rubbish."}
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "gulmarg",
+  "name": "Gulmarg",
+  "region": "kashmir",
+  "kind": "hill station",
+  "wiki": "Gulmarg",
+  "image_query": "Gulmarg meadow Apharwat snow",
+  "lat": 34.0484,
+  "lng": 74.3805,
+  "altitude_m": 2650,
+  "tagline": "A ski meadow at 2,650 m with a gondola to Apharwat",
+  "meta_description": "Gulmarg guide: gondola to Apharwat, skiing from December to March, Maharani temple and St Mary's church, real gondola, pony and ski hire costs for 2026.",
+  "summary": "Gulmarg is a cup-shaped meadow at 2,650 m, about 50 km west of Srinagar. In summer it is wildflowers, pony rides and golf; from December to March it is India's best ski resort. The two-phase gondola climbs to about 4,000 m on Apharwat. One or two nights is ideal.",
+  "intro": [
+    "Gulmarg means meadow of flowers, a name given in the 16th century by Sultan Yousuf Shah Chak to a pasture once called Gaurimarg, after the goddess Gauri. The meadow is about 3 km long, ringed by fir and pine forest, with the Apharwat ridge rising behind it to over 4,000 m. On clear days you can see Nanga Parbat far to the north from the upper slopes.",
+    "The British and the Dogra Maharajas turned Gulmarg into a summer retreat. The ski club dates from 1927, the stone-and-timber St Mary's Church from 1902, and the Maharani Temple on its hillock from 1915. Today the meadow holds hotels, huts, a golf course and the base station of the Gulmarg Gondola, which made Gulmarg a serious ski destination with long off-piste runs from the Apharwat ridge.",
+    "Gulmarg works as a day trip from Srinagar, but a night here lets you ride the gondola early before cloud builds and see the meadow empty at dusk. In winter, stay longer: three to five nights gives you time to learn to ski or to wait out a storm for powder days. Snow usually holds from mid-December to March."
+  ],
+  "facts": [
+    ["Best months", "Dec – Mar for snow; May – Jun, Sep – Oct for meadows"],
+    ["Nights we suggest", "1–2 (3–5 to ski)"],
+    ["Nearest airport", "Srinagar, about 56 km"],
+    ["From Srinagar", "≈ 50–56 km · 1 h 30 min–2 h"],
+    ["Altitude", "2,650 m (gondola top close to 4,000 m)"],
+    ["Known for", "Skiing, the gondola, meadows, golf"]
+  ],
+  "best_months": [2, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Gondola to Kongdori and Apharwat", "text": "Phase 1 rises from the meadow to Kongdori; Phase 2 continues to the Apharwat ridge close to 4,000 m. Book online for a time slot. In summer there is snow on the ridge into June; in winter the top is a ski area with avalanche control."},
+    {"title": "Learn to ski", "text": "Gentle nursery slopes near the meadow suit beginners, and certified instructors and rental shops cluster near the gondola base. The government's Indian Institute of Skiing and Mountaineering runs courses for Indian nationals in winter, booked well ahead."},
+    {"title": "Maharani Temple and St Mary's", "text": "Maharaja Hari Singh built the Shiva temple on a meadow hillock in 1915 for his wife. St Mary's Church, built in 1902 of grey stone with a green roof, stands near the main road. Both are short walks from most hotels."},
+    {"title": "Alpather lake trek", "text": "From the Kongdori gondola station, a high trail leads to Alpather, a glacial lake below Apharwat that often stays frozen into June. Go only with a local guide, start early, and be ready for altitude above 3,500 m."},
+    {"title": "Meadow and forest walks", "text": "Outer Circular Walk around the meadow, about 11 km through pine and fir, gives views of the Pir Panjal and, on clear days, Nanga Parbat. It suits families who want to avoid pony touts."}
+  ],
+  "field_notes": [
+    {"fact": "Gulmarg was known as Gaurimarg, the path of the goddess Gauri, until Sultan Yousuf Shah Chak, who ruled Kashmir in the 1570s and 1580s, renamed it Gulmarg, meaning meadow of flowers.", "source": "Gulmarg"},
+    {"fact": "Skiing in Gulmarg has a long history: the Gulmarg ski club was set up in 1927, and the meadow hosted the first Khelo India Winter Games in March 2020.", "source": "Gulmarg"},
+    {"fact": "The Maharani Temple on the meadow hillock was built by Maharaja Hari Singh for his wife Maharani Mohini Bai Sisodia in 1915, and St Mary's Church nearby was built in 1902.", "source": "Gulmarg"}
+  ],
+  "local_word": {"word": "Marg", "language": "Kashmiri", "meaning": "a high meadow or pasture, as in Gulmarg, Sonamarg and Yusmarg"},
+  "costs": [
+    ["Gulmarg Gondola Phase 1, Indian adult (2025 rate)", "about ₹900"],
+    ["Gulmarg Gondola Phase 2, Indian adult (2025 rate)", "about ₹900"],
+    ["Ski, boot and pole hire per day", "₹1,000–2,000"],
+    ["Certified ski instructor per day", "₹2,500–4,000"],
+    ["Pony on a fixed meadow circuit", "₹800–1,500"],
+    ["Shared Sumo Srinagar–Tangmarg, then Tangmarg–Gulmarg", "₹150–250, then ₹50–100 a seat"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar, then drive about 56 km, 1 h 30 min to 2 h, via Magam and Tangmarg. A private taxi from the airport costs roughly ₹2,500–3,500 one way."},
+    {"mode": "Bus", "text": "JKSRTC and shared Sumos run from Srinagar to Tangmarg; from Tangmarg, shared taxis climb the last 13 km of hairpins to Gulmarg. In winter, chains may be mandatory on the Tangmarg–Gulmarg road."},
+    {"mode": "Road", "text": "Srinagar taxis can drop you in Gulmarg. In heavy snow the road may be restricted to four-wheel drives with chains; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC huts and hotels on the meadow are the most reliable government option, and simple guesthouses in Tangmarg, 13 km below, cost far less than the meadow. Comfort: Hotel Highlands Park, a heritage property from the 1960s with cottages and a bar, is a favourite with skiers; there are several mid-range hotels near the gondola. Signature: The Khyber Himalayan Resort & Spa, opened in 2012, has the best rooms, spa and views, and fills early for the ski season and Christmas.",
+  "stays": ["khyber-himalayan-resort-gulmarg", "hotel-highlands-park-gulmarg"],
+  "tips": [
+    "Book gondola tickets on the official Jammu and Kashmir Cable Car Corporation website and avoid touts at the base.",
+    "Take the first gondola slot of the day; cloud usually builds on Apharwat by noon.",
+    "Agree pony and sledge rates against the official rate card before setting off.",
+    "Carry warm layers even in June: Apharwat is close to 4,000 m and can be below freezing.",
+    "Off-piste skiing from Apharwat needs a qualified guide, avalanche gear and the day's patrol bulletin."
+  ],
+  "themes": ["snow-and-winter", "adventure-sports", "family-holidays", "honeymoons"],
+  "nearby": ["srinagar", "doodhpathri", "yusmarg"],
+  "experiences": [
+    {
+      "slug": "gulmarg-gondola-to-apharwat",
+      "title": "Gondola to the Apharwat ridge",
+      "kind": "adventure",
+      "duration": "3–5 hours",
+      "best_time": "9 am, Dec–Jun and Sep–Oct",
+      "cost": "About ₹900 per phase for Indian adults (2025); foreigners pay more",
+      "image_query": "Gulmarg Gondola Apharwat",
+      "wiki": "Gulmarg Gondola",
+      "summary": "The Gulmarg Gondola climbs in two phases from the meadow to Kongdori and then to the Apharwat ridge close to 4,000 m. It is one of the highest cable cars in the world and the reason Gulmarg is a ski resort. In summer it gives snow and views of the Pir Panjal.",
+      "body": [
+        "Phase 1 runs from the base station on the meadow to Kongdori, a shoulder above the tree line with a cafe, pony trails and, in winter, ski runs back down through the forest. Phase 2 continues to the Apharwat station near the top of the ridge. The ride is short, but the change is dramatic: you leave fir forest and arrive on open, often snowy slopes above 3,900 m.",
+        "Tickets are sold for fixed time slots through the official online portal of the Jammu and Kashmir Cable Car Corporation. In 2025 each phase cost about ₹900 for Indian adults. Phase 2 closes in high wind and during avalanche control, so keep the day flexible and check at the counter before buying. Queues are longest from 10 am to 2 pm in May, June and over Christmas.",
+        "At the top, move slowly. The air is thin, and visitors arriving from sea level in one morning often feel breathless or headachy. Spend no more than an hour or two, drink water, and come down if you feel unwell. Wear sunglasses and sunscreen, because snow glare is strong, and carry a jacket and gloves in every month."
+      ],
+      "good_for": ["families", "couples", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How do I book Gulmarg Gondola tickets?", "a": "Book online on the Jammu and Kashmir Cable Car Corporation's official portal for a fixed date and time slot, and carry the ID used for booking. Phase 2 tickets are subject to weather. Counter sales exist but sell out in peak season. Check current fares and rules before you travel."},
+        {"q": "Is Phase 2 of the Gulmarg Gondola safe for children and seniors?", "a": "The ride itself is easy, but the top station is close to 4,000 m. Healthy children and seniors usually manage a short visit. People with heart or lung conditions, and pregnant women, should talk to their doctor first. Keep the visit short and descend if anyone feels unwell."},
+        {"q": "Will there be snow at the Gulmarg Gondola top in summer?", "a": "Usually yes on Apharwat until late May or June, with patches into July in some years. From August to October the ridge is mostly bare rock and grass. Phase 1 at Kongdori has no snow in summer. For snow on the meadow itself, come from mid-December to March."}
+      ]
+    },
+    {
+      "slug": "gulmarg-first-ski-lessons",
+      "title": "First ski lessons on the Gulmarg nursery slopes",
+      "kind": "adventure",
+      "duration": "2–5 days",
+      "best_time": "Jan–Mar",
+      "cost": "Instructor ₹2,500–4,000 a day; gear ₹1,000–2,000 a day",
+      "image_query": "Gulmarg skiing slopes",
+      "wiki": "",
+      "summary": "Gulmarg is the best place in India to learn to ski. Gentle slopes near the meadow, rental shops by the gondola and certified local instructors make it easy to start, and three days of lessons gets most beginners linking turns on the easier runs.",
+      "body": [
+        "Beginners start on the gentle slopes around the meadow, served by short surface lifts, before moving up to the easier Kongdori runs. Instructors certified by the tourism department or the Indian Institute of Skiing and Mountaineering (IISM) are available through hotels and the ski shops near the gondola base. Agree the rate per day and whether it includes lift passes before you start.",
+        "IISM, a government institute in Gulmarg, runs structured courses for Indian nationals through the winter, including accommodation and equipment. Seats are limited and booked months ahead, so check their calendar in autumn. For a short trip, private lessons are more flexible: three to five half days is enough for most fit adults to ski the nursery slopes confidently.",
+        "Rent gear on the first morning and get boots fitted carefully; poorly fitting boots spoil more ski days than bad weather. Dress in waterproof layers, gloves and goggles, and avoid jeans. Snow quality is usually best in late January and February. Off-piste runs from Apharwat are for experienced skiers with guides and avalanche equipment only."
+      ],
+      "good_for": ["students", "couples", "families", "solo"],
+      "faqs": [
+        {"q": "How much does skiing in Gulmarg cost for a beginner?", "a": "For a three-day beginner trip, budget about ₹2,500–4,000 a day for an instructor, ₹1,000–2,000 a day for skis, boots and poles, and a few hundred for surface lifts. Clothing can be hired too. Accommodation is extra and rises sharply over Christmas and New Year."},
+        {"q": "When is the ski season in Gulmarg?", "a": "Usually mid-December to mid-March, depending on snowfall. Late January and February have the deepest base and most reliable conditions. Early December and late March can be thin. Check snow reports and avalanche bulletins before you travel."},
+        {"q": "Can children learn to ski in Gulmarg?", "a": "Yes. Children from about six years can take lessons on the nursery slopes, and some instructors specialise in kids. Short sessions of two hours work best. Hire child-sized boots and helmets, and keep them well layered against the cold."}
+      ]
+    },
+    {
+      "slug": "gulmarg-maharani-temple-and-st-marys-walk",
+      "title": "Meadow walk to the Maharani Temple and St Mary's",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Late afternoon, May–Oct",
+      "cost": "Free",
+      "image_query": "Maharani Temple Gulmarg",
+      "wiki": "",
+      "summary": "A gentle walk across the meadow links Gulmarg's two heritage buildings: the Maharani Temple, built by Maharaja Hari Singh in 1915, and St Mary's Church from 1902. It shows the meadow's history as a royal and colonial retreat, away from the gondola crowds.",
+      "body": [
+        "The Maharani Temple sits on a small hillock in the middle of the meadow, its red roof visible from most of Gulmarg. Maharaja Hari Singh built it in 1915 for his wife, Maharani Mohini Bai Sisodia, and dedicated it to Shiva. A short climb on steps leads to the shrine and a view over the golf course and the Apharwat ridge.",
+        "From the temple, follow the meadow paths to St Mary's Church near the main road. Built in 1902 of grey stone with a steep green roof, it served the British families who spent summers here. It is often locked; you can still see the building and its setting among the pines. Respect services if one is under way.",
+        "On the way, you pass the golf course, among the highest in the world at about 2,650 m, and the old cottages that date from the colonial era. Late afternoon light on the meadow is soft and warm, and pony traffic is lighter. Wear proper shoes, because the meadow is muddy after rain."
+      ],
+      "good_for": ["seniors", "families", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is the Maharani Temple in Gulmarg open to all visitors?", "a": "Yes, visitors of all faiths may enter respectfully. Remove shoes before the shrine, dress modestly and avoid loud conversation. The climb from the meadow is short, with steps, and suitable for most seniors taking it slowly."},
+        {"q": "Can we visit St Mary's Church in Gulmarg?", "a": "You can see the building and its grounds from outside at any time. The church is often locked except for occasional services. Avoid climbing on walls or entering if a service or a private event is in progress."},
+        {"q": "Do I need a pony for the Gulmarg meadow walk?", "a": "No. The meadow is flat to gently rolling and easily walkable in two to three hours. Pony owners will offer rides; if you choose one, agree the circuit and rate against the official rate card before you set off."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Gulmarg worth a night or just a day trip?", "a": "Stay a night if you can. You can take the first gondola slot before cloud builds and crowds arrive from Srinagar, and you see the meadow empty at dawn and dusk. A day trip works if time is short, but expect gondola queues between 10 am and 2 pm."},
+    {"q": "When is the best time to see snow in Gulmarg?", "a": "Mid-December to March for snow on the meadow, with February usually the most reliable. Apharwat at the gondola top keeps snow into May or June. If you want snow and fewer crowds, avoid the Christmas to New Year week and go in late January or February."},
+    {"q": "How much does a day trip from Srinagar to Gulmarg cost?", "a": "A private taxi from Srinagar costs about ₹2,500–3,500 for the day. Gondola tickets were about ₹900 per phase for Indian adults in 2025. Add lunch at ₹300–600. By shared Sumo via Tangmarg, transport drops to about ₹500 return per person."},
+    {"q": "Is Gulmarg suitable for seniors?", "a": "Yes, with care. The meadow is at 2,650 m and most seniors adapt well after a slow first day. The gondola's top station is close to 4,000 m, so keep that visit short and talk to your doctor if you have heart or lung conditions. Use the gondola rather than ponies for the climb."},
+    {"q": "Is there a mobile network and ATM in Gulmarg?", "a": "Postpaid mobile networks work on the meadow, with weaker data at the gondola top. Prepaid SIMs from outside Jammu and Kashmir generally do not work. There are a few ATMs, but they can run dry in peak season, so bring cash from Srinagar."},
+    {"q": "Are pony rides in Gulmarg fixed price?", "a": "Yes, the tourism department publishes rates for set circuits and they are displayed at pony stands, but you must ask. Agree the destination, waiting time and price before starting, and do not pay a guide extra to skip gondola queues."},
+    {"q": "Can beginners ski in Gulmarg?", "a": "Yes. Gulmarg has nursery slopes on the meadow with short lifts, plenty of rental shops and certified instructors. Most adults are skiing gentle runs after three days of lessons. Off-piste terrain from Apharwat is strictly for experienced skiers with guides."},
+    {"q": "Is Gulmarg crowded in summer?", "a": "From late April to June the meadow and gondola are busy with day-trippers from Srinagar, especially on weekends. Arrive early, book gondola slots ahead, and walk the Outer Circular path for quiet. September and early October are calmer with stable weather."},
+    {"q": "What should I wear in Gulmarg?", "a": "In summer, warm layers, a waterproof jacket and good shoes, plus gloves and a hat for Apharwat. In winter, thermal base layers, a down jacket, waterproof trousers, snow boots, gloves, goggles and sunglasses. Snow boots and coats can be rented in Tangmarg and Gulmarg."}
+  ]
+}

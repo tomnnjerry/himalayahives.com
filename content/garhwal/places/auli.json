@@ -1,0 +1,145 @@
+{
+  "slug": "auli",
+  "name": "Auli & Joshimath",
+  "region": "garhwal",
+  "kind": "hill station",
+  "wiki": "Auli, India",
+  "image_query": "Auli ski slope Nanda Devi",
+  "lat": 30.528,
+  "lng": 79.567,
+  "altitude_m": 2800,
+  "tagline": "Ski slopes and meadows facing Nanda Devi, above Joshimath",
+  "meta_description": "Auli and Joshimath guide: skiing and GMVN courses, Gorson Bugyal walk, Narsingh temple, Chipko country, ropeway status, costs, seasons and stays.",
+  "summary": "Auli is a ski slope and meadow at about 2,800 m, 13 km by road above Joshimath, with Nanda Devi across the valley. Come January to early March for skiing and snow, or April–June and October for meadow walks to Gorson Bugyal. Joshimath, the town below, is the gateway to Badrinath and the Valley of Flowers.",
+  "intro": [
+    "Auli means meadow in Garhwali, and for most of the year that is what it is: a broad grassy slope above Joshimath ringed by oak and deodar, facing Nanda Devi, Dronagiri, Kamet and Trishul. From January to early March the slope fills with snow and becomes India's best-known ski area, with a chairlift, a ski lift, an artificial lake built for snow-making and the GMVN ski resort. Auli hosted the first South Asian Winter Games in 2011.",
+    "Joshimath, also called Jyotirmath, sits below at about 1,875 m on the road to Badrinath. It holds one of the four cardinal monasteries founded by Adi Shankara and the Narsingh temple, where an image of Badrinath is worshipped while the high shrine is snowbound. The town has had a hard few years: in January 2023 hundreds of homes developed cracks as the slope beneath subsided, and parts of the town were evacuated. Visitors are welcome, but please follow local advisories.",
+    "Beyond Joshimath the Niti valley road climbs past Reni village, where in March 1974 Gaura Devi and the women of Reni hugged the trees and gave the Chipko movement its best-known moment. For travellers, Auli and Joshimath work as a ski holiday in winter, a quiet two-night meadow stop in spring and autumn, and the natural overnight between Rishikesh and Ghangaria or Badrinath."
+  ],
+  "facts": [
+    ["Best months", "Jan – Mar (snow); Apr – Jun, Oct (meadows)"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 285 km · 10–11 h"],
+    ["From Rishikesh", "≈ 265 km to Joshimath · 9–10 h"],
+    ["Altitude", "≈ 2,800 m (Joshimath ≈ 1,875 m)"],
+    ["Known for", "Skiing, Nanda Devi views, Gorson Bugyal, Jyotirmath"]
+  ],
+  "best_months": [2, 2, 1, 1, 2, 1, 0, 0, 1, 2, 1, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Skiing on the Auli slope", "text": "From January to early March the main slope carries enough snow for beginners and intermediates. GMVN runs 7-day and 14-day ski courses with gear, lessons and stay, and private instructors give day lessons. Snow depends on the winter, so check current status before you travel."},
+    {"title": "Gorson Bugyal walk", "text": "A 3 km forest and meadow walk from the top of the Auli chairlift to Gorson Bugyal, a wide grassland with views of Nanda Devi and Nanda Ghunti. In spring and autumn it is a gentle half-day; in winter, a snowshoe or ski-touring trail."},
+    {"title": "Nanda Devi across the valley", "text": "Nanda Devi, at 7,816 m the highest mountain wholly within India, faces Auli across the Dhauliganga valley. Clear mornings from October to March give the best views; stand near the artificial lake or at the top of the chairlift."},
+    {"title": "Narsingh temple and Jyotirmath", "text": "In Joshimath, the Narsingh temple holds an image of Vishnu as Narsingh and, in winter, an image of Badrinath brought down from the closed shrine. Nearby stands Jyotirmath, the northern monastery founded by Adi Shankara."},
+    {"title": "The Niti valley and Reni", "text": "The road north from Joshimath follows the Dhauliganga past Tapovan and Reni towards Malari. It is the Chipko country of 1974. Higher sections near the border may need permits; check current status before you travel."}
+  ],
+  "field_notes": [
+    {"fact": "Auli hosted the inaugural South Asian Winter Games in 2011, and the slopes are run by the state agency GMVN, which with Uttarakhand Tourism stages winter sports competitions to promote skiing in India.", "source": "Auli, India"},
+    {"fact": "Jyotirmath is the northern monastery, or uttaramnaya matha, one of the four cardinal institutions founded by Adi Shankara; the others are at Shringeri, Puri and Dwarka. By tradition the northern matha is in charge of the Atharvaveda.", "source": "Joshimath"},
+    {"fact": "On 25 March 1974, with the men of Reni away in Chamoli, Gaura Devi led 27 women of the village into the forest above the Alaknanda and hugged the trees to stop contractors felling them. After a four-day stand-off the loggers left.", "source": "Chipko movement"}
+  ],
+  "local_word": {"word": "Bugyal", "language": "Garhwali", "meaning": "high alpine meadow used for summer grazing; Auli itself is also called Auli Bugyal"},
+  "costs": [
+    ["UTC or GMOU bus, Rishikesh to Joshimath", "₹550–850"],
+    ["Taxi, Joshimath to Auli (13 km, one way)", "₹800–1,500"],
+    ["GMVN 7-day ski course with stay, food and gear", "₹15,000–25,000 (indicative)"],
+    ["Ski and boot hire with poles, per day", "₹800–1,500"],
+    ["Private ski instructor, per day", "₹1,500–2,500"],
+    ["Hotel room in Joshimath", "₹1,500–4,000 a night"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is about 285 km from Joshimath, 10–11 hours by road. Helicopter charters to the region exist but are irregular; most travellers drive."},
+    {"mode": "Bus", "text": "UTC and GMOU buses leave Rishikesh early morning for Joshimath, about 265 km and 9–10 hours via Devprayag, Srinagar, Rudraprayag and Chamoli. From Joshimath, taxis go up the 13 km road to Auli."},
+    {"mode": "Road", "text": "By car from Rishikesh, break the journey at Srinagar or Rudraprayag if you start late. The Joshimath–Auli ropeway was suspended after the 2023 land subsidence and a replacement has been planned; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: Joshimath has guesthouses and small hotels at ₹1,500–3,000 a night, convenient for buses to Badrinath and Govindghat. In Auli, GMVN runs the ski resort and other tourist accommodation with rooms and huts close to the slope, which fill early in ski season. Comfort: a handful of private resorts and cottages sit higher on the Auli slope with Nanda Devi views; choose one with reliable heating. There is no signature-level hotel here; we pair Auli with Rishikesh or Mussoorie for that.",
+  "stays": [],
+  "tips": [
+    "Book ski courses and Auli rooms by November for January and February; the GMVN batches fill early.",
+    "Carry gloves, thermal layers and sunglasses; snow glare at 2,800 m burns eyes and skin quickly.",
+    "Joshimath residents have lived through subsidence and evacuation since 2023; be considerate and follow any advisories in affected areas.",
+    "The road from Joshimath to Auli can ice over after snowfall; use a local driver with chains rather than self-driving.",
+    "Use Joshimath ATMs before heading to Auli, Govindghat or Badrinath, where cash machines are few."
+  ],
+  "themes": ["snow-and-winter", "adventure-sports", "family-holidays", "treks-and-walks"],
+  "nearby": ["valley-of-flowers", "badrinath", "chopta-tungnath"],
+  "experiences": [
+    {
+      "slug": "auli-gmvn-ski-course",
+      "title": "Learn to ski on the Auli slopes",
+      "kind": "adventure",
+      "duration": "1, 7 or 14 days",
+      "best_time": "January to early March",
+      "cost": "Day lesson ₹1,500–2,500; 7-day GMVN course ₹15,000–25,000",
+      "image_query": "Auli skiing GMVN slope",
+      "wiki": "Auli, India",
+      "summary": "Auli's main slope, with a chairlift and ski lift, is where most Indians learn to ski. Take a day lesson with a certified instructor or join a GMVN course of 7 or 14 days, which includes gear, lessons, rooms and meals.",
+      "body": [
+        "Auli's skiing runs on a broad, open slope above the GMVN resort, with an artificial lake built to feed snow-making when natural snow is thin. A chairlift and a surface ski lift carry skiers up. The slope suits beginners and intermediates: wide, without trees on the main run, and with Nanda Devi straight ahead as you come down.",
+        "GMVN, the state tourism corporation, runs residential ski courses of 7 and 14 days in the season, usually covering equipment, instruction, accommodation and meals. Courses are popular with students and families, and batches fill early, so book as soon as dates are announced. Private instructors certified by the state also offer day lessons for those who want to try for an afternoon. Rental shops in Auli supply skis, boots and poles.",
+        "Snow is the variable. In good winters the season runs from late December to March; in poor years, there may be only a few weeks of skiable snow. Check current status before you travel, and keep your plan flexible. Dress in waterproof layers, wear sunglasses or goggles, use high-factor sunscreen and drink water: at 2,800 m the sun is strong and the air dry."
+      ],
+      "good_for": ["students", "families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "When is the ski season in Auli?", "a": "Usually from late December or January to early March, depending on snowfall. January and February are most reliable. In poor snow years the season can be very short, so check current status before you travel and keep a flexible date."},
+        {"q": "How much does skiing in Auli cost?", "a": "Indicative 2026 costs: ski hire ₹800–1,500 a day, a private instructor ₹1,500–2,500 a day, and a GMVN 7-day course with stay, food and gear about ₹15,000–25,000. Prices vary by season and category; confirm with GMVN when booking."},
+        {"q": "Is Auli good for beginner skiers?", "a": "Yes. Most visitors are beginners, and instructors start on the gentle lower slope before moving up. Expect to spend the first day learning to stop and turn. Children above about 8 usually do well with a dedicated instructor."}
+      ]
+    },
+    {
+      "slug": "auli-gorson-bugyal-walk",
+      "title": "Meadow walk to Gorson Bugyal",
+      "kind": "nature",
+      "duration": "4–5 hours return",
+      "best_time": "8 am, Apr–Jun and Oct–Nov",
+      "cost": "Free; guide ₹1,000–1,500",
+      "image_query": "Gorson Bugyal meadow Auli",
+      "wiki": "Gorson Bugyal",
+      "summary": "From the top of the Auli slope, a forest trail of about 3 km leads through oak and conifer to Gorson Bugyal, a wide alpine meadow facing Nanda Devi and Nanda Ghunti. Gentle, quiet and best in the clear months of autumn.",
+      "body": [
+        "Gorson Bugyal is the larger meadow above Auli, a sweep of grassland several hundred acres across. The trail leaves from the upper end of the Auli slope near the top of the chairlift and climbs gently through oak, fir and rhododendron forest for about 3 km before opening onto the meadow. Allow 1.5–2 hours up at an easy pace.",
+        "From the meadow the views reach Nanda Devi and Nanda Ghunti, and on very clear days Dronagiri and the peaks towards the Niti valley. In spring the grass greens and small flowers come up; in October it turns gold. About a kilometre on lies Chattarkund, a small pond in the forest. Fit walkers can continue towards Tali Top with a local guide.",
+        "Carry water, snacks and a warm layer, as there are no shops on the trail outside peak season. Weather changes fast at this height; turn back if cloud rolls in and you lose the path. In winter the meadow is under snow and the route becomes a snowshoe or ski-touring trail; go only with a guide. Leave no litter: these meadows are grazing land for village herds in summer."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "How long is the Gorson Bugyal trek?", "a": "About 3 km one way from the upper Auli slope, roughly 1.5–2 hours up and an hour down. It is a gentle trail through forest. With Chattarkund and photo stops, allow 4–5 hours for the round trip."},
+        {"q": "Can I do Gorson Bugyal in winter?", "a": "Yes, but it becomes a snow walk. Use a local guide, wear waterproof boots or snowshoes and start early. In heavy snow the trail is hard to follow. Check weather and snow conditions in Auli before setting out."},
+        {"q": "Is Gorson Bugyal suitable for children?", "a": "Yes, for children used to walking. The path is gentle with few steep sections. Keep them close where the trail runs above slopes and dress them in warm layers, as the meadow is windy even on sunny days."}
+      ]
+    },
+    {
+      "slug": "joshimath-narsingh-temple-jyotirmath",
+      "title": "Narsingh temple and Jyotirmath in Joshimath",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Morning aarti, all year",
+      "cost": "Free",
+      "image_query": "Narsingh temple Joshimath",
+      "wiki": "Joshimath",
+      "summary": "Visit Joshimath's two sacred centres: the Narsingh temple, which keeps an image of Badrinath through the winter, and Jyotirmath, the northern monastery founded by Adi Shankara. A short, meaningful stop on the road to Badrinath.",
+      "body": [
+        "Joshimath's main temple is dedicated to Vishnu as Narsingh, the man-lion. Its image is believed to have been established by Adi Shankara. The image's left arm is thin and weak, and local legends tie its fate to the future of the region and its pilgrimage. While Badrinath is closed in winter, an image of Badri is brought here and worshipped for six months.",
+        "Up the hill is Jyotirmath, the northern of the four cardinal monasteries Adi Shankara is said to have founded, with Shringeri, Puri and Dwarka. By tradition it is in charge of the Atharvaveda. The complex includes a cave where Shankara is said to have meditated and an old mulberry tree known as the kalpavriksha. The town's alternative name, Jyotirmath, comes from the monastery.",
+        "Dress modestly, remove shoes and leather items where asked, and keep photography for outside the sanctums. The morning aarti is the best time to visit. Since 2023, parts of Joshimath have been affected by land subsidence; follow local signs and avoid marked danger zones. Pair the visit with a stop for lunch before driving on to Govindghat or Badrinath."
+      ],
+      "good_for": ["seniors", "families", "first-timers"],
+      "faqs": [
+        {"q": "Where is Badrinath worshipped in winter?", "a": "When Badrinath closes in November, an image of Badri is brought to the Narsingh temple in Joshimath and worshipped for about six months. Images of Uddhav and Kuber go to Pandukeshwar. The temples are open to visitors through winter."},
+        {"q": "Is Joshimath safe to visit after the subsidence?", "a": "Joshimath is open, and buses and taxis to Badrinath and Auli pass through daily. Some areas were declared unsafe in 2023 and buildings were evacuated or demolished. Follow local advisories, stay in hotels outside marked zones, and check current status before you travel."},
+        {"q": "Are Joshimath and Jyotirmath the same place?", "a": "Yes. Jyotirmath is the older name, taken from the monastery Adi Shankara is said to have founded here, and it is now widely used for the town alongside Joshimath. Bus boards and maps may use either name."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is there snow in Auli in December?", "a": "Sometimes. The first snow often comes in mid-to-late December, but heavy, skiable snow is more reliable in January and February. If snow is the purpose of your trip, aim for the second half of January and check current status before you travel."},
+    {"q": "Is the Joshimath–Auli ropeway working?", "a": "The 4 km ropeway, once one of the longest in Asia, was suspended after the 2023 land subsidence damaged its towers, and plans for a replacement were announced. Its status has changed several times; check current status before you travel. The road to Auli is open year round, snow permitting."},
+    {"q": "How do I reach Auli from Delhi?", "a": "Take a train or bus to Haridwar or Rishikesh, then a UTC or GMOU bus or car to Joshimath, about 265 km and 9–10 hours from Rishikesh. From Joshimath, a taxi climbs 13 km to Auli in 30–40 minutes. Break the drive in Srinagar or Rudraprayag if you start late."},
+    {"q": "How many days do I need in Auli?", "a": "Two nights for the meadows, Gorson Bugyal and Joshimath's temples. For skiing, a day lesson needs one extra day; a GMVN course is 7 or 14 days. Many travellers combine Auli with Badrinath or the Valley of Flowers in one trip."},
+    {"q": "Is Auli good for a family trip?", "a": "Yes. Meadow walks, snow play in winter, beginner skiing for older children and mountain views suit families. Bring proper warm clothing; winter nights fall well below freezing, and heated rooms are worth paying for."},
+    {"q": "Does Auli have ATMs and mobile network?", "a": "Auli has limited facilities; draw cash in Joshimath, which has several ATMs. Jio and Airtel generally work in Joshimath and on much of the Auli slope, but signal fades on forest trails like Gorson Bugyal."},
+    {"q": "What can I do in Auli in summer?", "a": "Walk to Gorson Bugyal and Tali, visit Joshimath's temples, take a day trip to Badrinath and Mana, or use Auli as an acclimatisation stop before the Valley of Flowers. Summer days are 15–22 °C, with cool nights and green meadows."},
+    {"q": "Is Auli affected by altitude sickness?", "a": "At about 2,800 m, mild symptoms such as headache and poor sleep are possible on the first night if you arrive from the plains in one day. Drink water, rest on arrival and avoid alcohol. Serious altitude sickness is uncommon at this height, but talk to your doctor if you have heart or lung conditions."},
+    {"q": "How much does a winter trip to Auli cost?", "a": "From Rishikesh, a 4–5 night saver trip by bus with Joshimath guesthouses and a couple of ski lessons costs about ₹12,000–18,000 per person. A comfort trip with a private car and a slope-side hotel runs ₹35,000–50,000 per person for two sharing."}
+  ]
+}

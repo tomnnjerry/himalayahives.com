@@ -1,0 +1,146 @@
+{
+  "slug": "kalpa",
+  "name": "Kalpa",
+  "region": "himachal",
+  "kind": "village",
+  "wiki": "Kalpa, Himachal Pradesh",
+  "image_query": "Kalpa Kinnaur Kailash view",
+  "lat": 31.5377,
+  "lng": 78.2575,
+  "altitude_m": 2960,
+  "tagline": "Apple orchards facing the Kinnaur Kailash peak at dawn",
+  "meta_description": "Kalpa guide: Kinnaur Kailash sunrise, Roghi cliff walk, apple orchards and chilgoza, HPTDC Kinner Kailash hotel, buses from Shimla, permits, altitude and costs.",
+  "summary": "Kalpa is a Kinnauri village at about 2,960 m above Reckong Peo, facing the Kinnaur Kailash range across the Sutlej. Stay two or three nights for sunrise on the peaks, walks to Roghi and orchard life. It is 8–9 hours by road from Shimla. Best April–June and September–October.",
+  "intro": [
+    "Kalpa sits on a sloping shelf high above the Sutlej, 7 km and 500 m above Reckong Peo, the district headquarters of Kinnaur. Across the gorge rises the Kinnaur Kailash range, its main summit at about 6,050 m. A rock pinnacle on its flank is worshipped as a Shiva lingam, and pilgrims walk a multi-day circuit around the mountain. From Kalpa you see the whole wall from your window, and at sunrise it turns orange and then white.",
+    "The village itself is old Kinnaur. Houses are built of stone and deodar with slate roofs, the Narayan-Nagini temple has fine wood carving, and a small Buddhist temple stands nearby; Kinnauri life mixes Hindu and Buddhist practice. Around the village are apple orchards, and on the slopes below grow chilgoza pines, whose nuts are a prized local crop. In September and October the orchards are busy with picking, grading and packing.",
+    "Kalpa is the natural night stop between Shimla and Spiti, and a destination in its own right for two or three slow days. At nearly 3,000 m, take the first afternoon easy if you have come straight from the plains, and talk to your doctor if you have heart or lung conditions. The road along the Sutlej from Shimla is long and sometimes blocked by slides, so build in a buffer day."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Oct"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Shimla (Jubbarhatti), ≈ 245 km"],
+    ["From Shimla", "≈ 225 km · 8–9 h"],
+    ["Altitude", "2,960 m"],
+    ["Known for", "Kinnaur Kailash views, apples, chilgoza, old temples"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 0, 1, 2, 2, 1, 0],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Sunrise on Kinnaur Kailash", "text": "From Kalpa's terraces the whole range glows at dawn. Find a spot on the village road or your hotel balcony by 5:30 am in summer. The rock pinnacle worshipped as a Shiva lingam is visible with binoculars."},
+    {"title": "Roghi village walk", "text": "A 3 km walk or drive from Kalpa along a road cut into the cliff to Roghi, a village of orchards and old houses with views straight down to the Sutlej. Easy, with no traffic in the mornings."},
+    {"title": "Narayan-Nagini temple", "text": "A wooden temple in the old village with carved panels and a pagoda-style roof, the centre of village festivals. Remove shoes and ask before photographing inside."},
+    {"title": "Apple country", "text": "Kalpa's slopes are orchard after orchard. In April they blossom; from September to October they are harvested. Many homestays are inside working orchards."},
+    {"title": "Chilgoza pine forests", "text": "On the drier slopes around Kalpa and Reckong Peo, chilgoza pines produce prized nuts harvested in autumn. Buy them in Reckong Peo market in October and November."},
+    {"title": "Reckong Peo market", "text": "The district headquarters 7 km below, with ATMs, shops selling Kinnauri caps and shawls, and the bus stand for Shimla and Sangla."}
+  ],
+  "field_notes": [
+    {"fact": "The Kinnaur Kailash range rises to about 6,050 m. A rock pinnacle about 24 m high on its slopes is worshipped as a Shiva lingam, and pilgrims walk a circuit around the mountain over several days.", "source": "Kinnaur Kailash"},
+    {"fact": "Kalpa was the headquarters of Kinnaur district before the administration moved down to Reckong Peo, 7 km away and about 500 m lower, which is now the main town of the district.", "source": "Kalpa, Himachal Pradesh"},
+    {"fact": "The chilgoza pine, Pinus gerardiana, grows on dry slopes of the north-west Himalaya including Kinnaur. Its large edible seeds are a valuable crop and an important source of income for local families.", "source": "Pinus gerardiana"}
+  ],
+  "local_word": {"word": "Neoza", "language": "Kinnauri", "meaning": "the chilgoza pine nut, harvested in autumn and sold as a prized snack"},
+  "costs": [
+    ["HRTC bus, Shimla–Reckong Peo", "₹400–650"],
+    ["Local bus or shared taxi, Peo–Kalpa", "₹30–100"],
+    ["Orchard homestay with meals", "₹1,500–2,500 per person"],
+    ["HPTDC Kinner Kailash double", "₹2,500–5,000 a night (check current rate)"],
+    ["Plate of rajma-chawal at a dhaba", "₹120–200"],
+    ["100 g of chilgoza in Reckong Peo", "₹200–500 depending on harvest"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "The nearest airport is Shimla, about 245 km and 9 hours away, with few flights. Chandigarh airport is about 340 km and 11 hours away, with more flights and road connections."},
+    {"mode": "Bus", "text": "HRTC buses run daily from Shimla's ISBT Tutikandi and from Rampur to Reckong Peo, about 9–10 hours from Shimla. From Peo, local buses and shared taxis go up to Kalpa, 7 km and 20–30 minutes."},
+    {"mode": "Road", "text": "Follow NH5, the old Hindustan–Tibet road, from Shimla via Narkanda, Rampur and Karcham to Powari, then climb through Reckong Peo to Kalpa, about 225 km and 8–9 hours. Landslide zones around Nathpa and Tapri can close the road for hours. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: orchard homestays and small family guesthouses in Kalpa and Roghi charge ₹1,500–2,500 per person with meals, and Reckong Peo has cheaper basic hotels. Government stays: HPTDC's Hotel Kinner Kailash, with cottages in the village, is a dependable choice and usually closes in deep winter. Comfort: several mid-range hotels on the Kalpa road have rooms facing the Kinnaur Kailash for ₹3,500–7,000 a night; ask specifically for a view room. Signature: there is no luxury hotel in Kalpa; signature trips use the best view rooms available plus a private car and guide.",
+  "stays": ["hptdc-hotel-kinner-kailash-kalpa"],
+  "tips": [
+    "Ask for a room facing the Kinnaur Kailash; it is the reason to stay in Kalpa.",
+    "Rest on the first afternoon and drink plenty of water; you are sleeping close to 3,000 m.",
+    "Withdraw cash in Reckong Peo; Kalpa has few or no reliable ATMs.",
+    "Foreign nationals going on towards Spiti need an Inner Line Permit, available in Reckong Peo; check current status before you travel.",
+    "Do not pick apples in orchards without asking; buy from the family instead."
+  ],
+  "themes": ["road-trips", "homestays-and-villages", "photography", "food-and-tea", "pilgrimages"],
+  "nearby": ["sangla-chitkul", "shimla"],
+  "experiences": [
+    {
+      "slug": "kalpa-kinnaur-kailash-sunrise",
+      "title": "Sunrise over the Kinnaur Kailash range",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "5:30–7 am, Apr–Jun and Sep–Nov",
+      "cost": "Free",
+      "image_query": "Kinnaur Kailash sunrise Kalpa",
+      "wiki": "Kinnaur Kailash",
+      "summary": "Wake before dawn and watch first light reach the Kinnaur Kailash range across the Sutlej, its summit around 6,050 m. Find the rock pinnacle worshipped as Shiva's lingam with binoculars, then walk the quiet village lanes as Kalpa wakes up.",
+      "body": [
+        "Kalpa faces east across the Sutlej gorge to the Kinnaur Kailash range, with Jorkanden and the Kailash peak rising more than 3,000 m above the village. On clear mornings the first sun touches the summits orange, then gold, while the valley below is still in shadow. The best light lasts about 20 minutes. Spring and autumn give the clearest mornings; monsoon cloud often hides the peaks in July and August.",
+        "On the range's slopes stands a tall rock pinnacle that Kinnauris and Hindu pilgrims worship as a Shiva lingam. It is said to change colour through the day. Pilgrims walk the Kinnaur Kailash parikrama, a circuit of several days over high ground, especially around the August pilgrimage season. That trek needs acclimatisation, a guide and good fitness.",
+        "After sunrise, walk through the old village to the Narayan-Nagini temple and the small Buddhist temple nearby, both in active use. Families will be heading to orchards and cattle sheds. Carry a warm jacket; mornings at almost 3,000 m are cold even in May, often near freezing in October. A thermos of tea from your homestay helps."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "When is the best time to see Kinnaur Kailash from Kalpa?", "a": "From late September to November and from April to June, when skies are clearest. Mornings are best; clouds often build by afternoon. In July and August monsoon cloud usually hides the peaks. In winter the view is clear but cold and some hotels close."},
+        {"q": "What is the Shivling on Kinnaur Kailash?", "a": "A natural rock pinnacle about 24 m tall on the slopes of the Kinnaur Kailash range, worshipped as a lingam of Shiva. It is visible from Kalpa with binoculars and is the goal of the Kinnaur Kailash parikrama pilgrimage."},
+        {"q": "Can I trek to the Kinnaur Kailash Shivling?", "a": "Yes, as a demanding pilgrimage trek of several days, usually from the Tangling side, crossing high and steep ground. It needs fitness, acclimatisation and a local guide or registered group, and it is mainly done in summer. Talk to your doctor and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kalpa-roghi-cliff-road-walk",
+      "title": "Walk the cliff road to Roghi village",
+      "kind": "village",
+      "duration": "2–3 hours return",
+      "best_time": "Morning, Apr–Jun and Sep–Nov",
+      "cost": "Free",
+      "image_query": "Roghi village Kinnaur cliff road",
+      "wiki": "",
+      "summary": "An easy 3 km walk from Kalpa along a road blasted into the cliff, with sheer drops to the Sutlej and the Kinnaur Kailash range opposite, to the orchard village of Roghi. Flat, quiet and one of the best short walks in Kinnaur.",
+      "body": [
+        "From Kalpa, the road to Roghi runs north along the hillside, through apple orchards and then out onto a stretch cut into a near-vertical rock face. Look down and you see the Sutlej hundreds of metres below; look across and the Kinnaur Kailash range fills the view. The road is narrow but has little traffic in the morning, so walking is safer and far more rewarding than driving. Keep well away from the edge, especially with children.",
+        "Roghi is a quiet farming village of stone and timber houses, apple and apricot orchards and fields of peas and other crops. Its small temple is the focus of village festivals. People here are used to a few walkers; greet them, ask before photographs and stick to paths through the orchards. In September and October you will see apples packed into boxes beside the road.",
+        "Walk back the same way, or ask your homestay to arrange a pickup. The round trip takes 2–3 hours with stops. Start early in summer, as there is little shade, and carry water and sun protection. The road can be icy or blocked by snow in winter and occasionally by rockfall after rain; check locally before you set out."
+      ],
+      "good_for": ["couples", "families", "photographers", "solo"],
+      "faqs": [
+        {"q": "How far is Roghi from Kalpa?", "a": "About 3 km along a mostly level road, taking 45 minutes to an hour each way on foot. It is an easy walk suitable for most ages, though there are steep drops beside the road. Taxis can also drive it."},
+        {"q": "Is the Roghi road safe to walk?", "a": "Yes in daylight and dry weather if you stay on the inside of the road and watch for occasional vehicles. Keep children close near the cliff section. Avoid it after heavy rain or snow, when rockfall and ice are possible."},
+        {"q": "Can I stay in Roghi?", "a": "A few homestays operate in Roghi, offering simple rooms and home-cooked food in an orchard setting. Kalpa has more choice. Ask locally or book ahead in apple season, when families are busy with harvest."}
+      ]
+    },
+    {
+      "slug": "kalpa-orchard-harvest-homestay",
+      "title": "Apple harvest in a Kinnauri orchard home",
+      "kind": "food",
+      "duration": "Half day",
+      "best_time": "Sep–Oct for harvest; Apr for blossom",
+      "cost": "Included with orchard homestays; apples ₹80–200 a kilo",
+      "image_query": "Kinnaur apple orchard harvest",
+      "wiki": "",
+      "summary": "Spend a morning with a Kinnauri orchard family at harvest time: picking, sorting and packing apples, then a lunch of local food. Learn how apples, chilgoza and peas sustain households at nearly 3,000 m.",
+      "body": [
+        "Kinnaur's apples are grown higher than almost anywhere else in India, mostly between 2,000 and 3,000 m, and the cold nights and bright days give firm, sweet fruit that ripens later than in Shimla district. Around Kalpa most families have orchards, and from September to October the whole village is busy. If you stay in an orchard homestay at harvest time, ask your hosts whether you can join them for a morning.",
+        "Picking is done by hand, with ladders and cloth bags, and the apples are then sorted by size and quality and packed into cardboard boxes for trucks to markets in the plains. It is hard, skilled work, and you will mostly watch and help with sorting. Hosts often explain varieties, the cost of boxes and transport, and how hail and early snow can damage a year's crop.",
+        "Lunch might include rajma, local greens, rice and, in season, roasted chilgoza nuts from the pines on the dry slopes. Kinnauri food is simple and filling. Please do not pick fruit yourself without asking, as each apple is income. In April, the same orchards are in blossom and make a beautiful, quieter time to visit."
+      ],
+      "good_for": ["families", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "When is apple harvest in Kinnaur?", "a": "Mainly September and October, a few weeks later than in Shimla district because of the altitude. The exact timing varies with the year's weather and the height of each orchard. April brings blossom."},
+        {"q": "Can I buy apples directly from farmers in Kalpa?", "a": "Yes. Many families sell a few kilos or a box to visitors at harvest time. Ask your homestay host or at orchards along the road. Prices vary with the season's crop and grade."},
+        {"q": "What is chilgoza and when is it harvested?", "a": "Chilgoza is the edible seed of the chilgoza pine, which grows on dry slopes in Kinnaur. Cones are harvested in autumn and the nuts sold from October onward in Reckong Peo and beyond. They are expensive because harvesting is slow and the crop varies."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Kalpa from Shimla?", "a": "By HRTC bus from Shimla's ISBT Tutikandi to Reckong Peo, about 9–10 hours, then a local bus or taxi 7 km up to Kalpa. By private car it is about 225 km and 8–9 hours along NH5 via Narkanda and Rampur. Start early to cross landslide zones in daylight."},
+    {"q": "What is the best time to visit Kalpa?", "a": "April to June and September to October. April has orchard blossom, May and June are pleasant, and autumn has the clearest views and apple harvest. Winter is very cold with snow, and many hotels close. Monsoon brings slides on the Sutlej road."},
+    {"q": "Do I need a permit for Kalpa?", "a": "Indian citizens need no permit for Kalpa, Reckong Peo or Sangla. Foreign nationals can visit Kalpa freely but need an Inner Line Permit to continue towards Spiti beyond Jangi; it is issued in Reckong Peo and Shimla. Check current status before you travel."},
+    {"q": "Will I get altitude sickness in Kalpa?", "a": "Kalpa is close to 3,000 m, and some people coming directly from the plains feel headaches or breathlessness on the first night. Arrive via Shimla or Sarahan, rest on the first afternoon, drink water and avoid alcohol. Talk to your doctor if you have heart or lung conditions."},
+    {"q": "Is there mobile network in Kalpa?", "a": "Yes, Jio, Airtel and BSNL work in Kalpa and Reckong Peo, though speeds vary. Coverage becomes patchy on parts of the Sutlej road. Most homestays have Wi-Fi, but it fails during power cuts."},
+    {"q": "Are there ATMs in Kalpa?", "a": "Reliable ATMs are in Reckong Peo, 7 km below. Kalpa itself has limited options. Withdraw enough cash in Rampur or Peo for your stay in Kalpa and Sangla, as UPI may fail when signal drops."},
+    {"q": "How many days should I stay in Kalpa?", "a": "Two to three nights: one day for sunrise, the village and Roghi, another for a slow orchard day or a trip to Reckong Peo market. If you are continuing to Spiti, Kalpa is a good acclimatisation stop of two nights."},
+    {"q": "Is Kalpa open in winter?", "a": "The village is lived in all year and the road from Reckong Peo usually stays open, though snow and ice can block it for a day or two. Many hotels, including HPTDC's, close from about December to March. Check current status before you travel."},
+    {"q": "Is Kalpa suitable for kids and seniors?", "a": "Yes for healthy travellers who can manage the long road from Shimla and the altitude near 3,000 m. Take two days for the drive with a stop in Sarahan or Narkanda, keep the first day easy, and talk to your doctor about anyone with heart or lung conditions."}
+  ]
+}

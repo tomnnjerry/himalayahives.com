@@ -1,0 +1,60 @@
+{
+  "slug": "kumaon-saver-hostel-trail-mukteshwar-kasar-devi-6n",
+  "title": "Hostel trail: Mukteshwar and Kasar Devi",
+  "region": "kumaon",
+  "tier": "saver",
+  "nights": 6,
+  "themes": ["homestays-and-villages", "treks-and-walks", "adventure-sports", "food-and-tea"],
+  "stops": [{"place": "mukteshwar", "nights": 3}, {"place": "almora", "nights": 3}],
+  "start": "Kathgodam railway station",
+  "end": "Kathgodam railway station",
+  "price_from_inr": 11500,
+  "price_note": "Per person in hostel dorm beds: 6 nights at Zostel Mukteshwar and a Kasar Devi hostel, shared taxis and jeeps, one rappelling session; trains and meals extra.",
+  "transport": "Shared taxis and jeeps",
+  "group": "Private",
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Unhurried",
+  "meta_description": "Saver hostel trip in Kumaon, 6 nights: Zostel Mukteshwar and Kasar Devi hostels, orchard walks, rappelling and Crank's Ridge, from ₹11,500 per person.",
+  "summary": "Six slow nights for students, solo travellers and young couples, split between two of Kumaon's best hostel bases: Zostel Mukteshwar among the orchards and a hostel on the Kasar Devi ridge above Almora. Walks, a rappelling session, bal mithai and long café afternoons, all by shared taxi.",
+  "intro": [
+    "This trip is built around hostels, which in Kumaon are not party places but quiet bases with common rooms, terraces and fellow travellers. Zostel Mukteshwar sits in an orchard on a 2,171 m ridge; Kasar Devi has several hostels on the pine ridge where seekers and writers have gathered since the 1930s. Both work well for a few days of walking, reading or remote work.",
+    "Travel is by shared taxi: from Kathgodam via Bhowali to Mukteshwar, then via Bhowali and the Kosi valley to Almora and up to Kasar Devi. Dorm beds keep costs low; private rooms are available for couples at a higher price. Days are loosely planned, with suggested walks and outings, so you can stay in when the weather turns or the café conversation is good."
+  ],
+  "highlights": [
+    "Orchard terraces and snow views at Zostel Mukteshwar",
+    "Rappelling at the Chauli ki Jali cliffs",
+    "Village walks to Satkhol and Sitla",
+    "The Crank's Ridge walk at Kasar Devi",
+    "Bal mithai and copper workshops in Almora's Lal Bazaar"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathgodam to Mukteshwar", "place": "mukteshwar", "overnight": "Zostel Mukteshwar", "drive": "≈ 70 km · 3 h", "text": "From Kathgodam, take a shared taxi to Bhowali, about an hour, and change for a jeep to Mukteshwar via Ramgarh's orchards and Nathuakhan. Check into your dorm bed at Zostel and spend the afternoon on the terrace getting your bearings. At sunset, walk to the Mukteshwar Dham and the Chauli ki Jali cliffs for the light over the valley, staying well back from the unrailed edges.", "meals": ""},
+    {"day": 2, "title": "Rappelling and the temple at dawn", "place": "mukteshwar", "overnight": "Zostel Mukteshwar", "drive": "", "text": "Get up for sunrise at the Mukteshwar temple, when the snow peaks show on clear mornings. After breakfast, book a rappelling session with an operator at Chauli ki Jali; check the helmets, harnesses and backup rope before you pay. Spend the afternoon at the hostel or wandering the small bazaar, and swap trail tips with other guests in the evening.", "meals": ""},
+    {"day": 3, "title": "Village walk to Satkhol and Sitla", "place": "mukteshwar", "overnight": "Zostel Mukteshwar", "drive": "", "text": "Ask the hostel for the current trail and walk through deodar and oak to the villages on neighbouring spurs. Look for naulas, terraced fields and small temples, and stop for tea where it is offered. Carry water and snacks; the walk takes most of a morning. In winter, watch the forecast: if a western disturbance brings snow, this is the day to see the orchards white.", "meals": ""},
+    {"day": 4, "title": "Mukteshwar to Kasar Devi", "place": "almora", "overnight": "Kasar Devi hostel", "drive": "≈ 95 km · 3.5–4 h", "text": "Take a shared jeep back to Bhowali and change for a shared taxi to Almora, past Kainchi Dham and along the Kosi. From Almora, a shared jeep climbs 8 km to Kasar Devi. Check into a hostel on the ridge and climb the steps to the Kasar Devi temple for sunset over the Hawalbagh valley.", "meals": ""},
+    {"day": 5, "title": "Crank's Ridge and Lal Bazaar", "place": "almora", "overnight": "Kasar Devi hostel", "drive": "≈ 16 km round trip · 40 min", "text": "Walk the pine ridge beyond the temple in the morning, the Crank's Ridge where Lama Anagarika Govinda lived and Beat poets visited in the 1960s. After lunch at a ridge café, take a shared jeep down to Almora and walk Lal Bazaar: bal mithai and singori at the lower end, the Nanda Devi temple, carved wooden house fronts and copper workshops.", "meals": ""},
+    {"day": 6, "title": "A slow day on the ridge", "place": "almora", "overnight": "Kasar Devi hostel", "drive": "", "text": "Keep this day open. Read, write or work from a café with a view, or take a shared jeep to the bells of the Chitai Golu Devta temple, 8 km beyond Almora. Energetic travellers can walk down through the forest towards the Kosi valley and catch a jeep back. In the evening, share a last meal with friends made on the way.", "meals": ""},
+    {"day": 7, "title": "Back to Kathgodam", "place": "almora", "overnight": "", "drive": "≈ 98 km · 3.5 h", "text": "Take a shared jeep down to Almora and a shared taxi to Kathgodam, leaving by 10 am to reach the station by early afternoon for the Shatabdi or an evening train. Buy bal mithai at Almora's bus stand shops on your way through.", "meals": ""}
+  ],
+  "stays": ["zostel-mukteshwar"],
+  "includes": ["6 nights in hostel dorm beds (3 at Zostel Mukteshwar, 3 at Kasar Devi)", "All shared taxi and jeep fares from Kathgodam and back", "One rappelling session at Chauli ki Jali with a vetted operator", "A trip pack with walking routes and food stops"],
+  "excludes": ["Trains to and from Kathgodam", "All meals", "Private rooms (available at extra cost)", "Temple offerings and entry fees", "Personal travel insurance"],
+  "good_to_know": [
+    "Prices are per person in dorm beds; couples who want a private room should add about ₹1,000–1,500 per person per night.",
+    "Both bases are below 2,200 m; altitude is not a concern for healthy travellers.",
+    "Nights from November to February drop below freezing; check heating and bring warm sleepwear.",
+    "Power cuts happen in storms; keep a power bank charged if you work online.",
+    "Leopards live around both ridges, so do not walk forest roads alone after dark."
+  ],
+  "faqs": [
+    {"q": "Is this trip only for young travellers?", "a": "No. Hostels in Mukteshwar and Kasar Devi attract all ages, though most guests are in their twenties and thirties. Anyone comfortable with shared spaces will enjoy it."},
+    {"q": "Can I work remotely on this trip?", "a": "Yes. Both bases have 4G and many hostels have Wi-Fi and common work areas. Speeds vary and storms can cut power, so keep a backup and avoid critical calls on travel days."},
+    {"q": "Are there women-only dorms?", "a": "Many hostels in Kumaon offer female dorms or private rooms. Tell us when you book and we will request one where available."},
+    {"q": "What does food cost on this trip?", "a": "Expect ₹500–900 a day for hostel cafés and local eateries. Kumaoni thalis in Almora cost ₹150–250; café meals at Kasar Devi are pricier."},
+    {"q": "Is rappelling safe for beginners?", "a": "With a careful operator it is a beginner-friendly activity. We use operators with good gear and a backup safety line, and you can skip it if you prefer."},
+    {"q": "When is the best time for this trip?", "a": "March to June and September to December. Winter is cold but clear and quiet, with a chance of snow at Mukteshwar. July and August are wet."},
+    {"q": "Can I swap Mukteshwar for Nainital?", "a": "You can, but Nainital is busier and pricier. Mukteshwar suits this slow, hostel-based trip better, and Nainital is easy to add as a day on the way."},
+    {"q": "How do shared taxis work on this route?", "a": "Jeeps and taxis leave from stands in Kathgodam, Bhowali, Mukteshwar and Almora when full. Pay the driver per seat. Mornings have the most departures."},
+    {"q": "Can I extend this trip?", "a": "Easily. Add Binsar for a night at the KMVN rest house, or Jageshwar for two nights, both reachable from Kasar Devi."}
+  ]
+}

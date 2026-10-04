@@ -1,0 +1,144 @@
+{
+  "slug": "nako",
+  "name": "Nako",
+  "region": "spiti",
+  "kind": "village",
+  "wiki": "Nako, Himachal Pradesh",
+  "image_query": "Nako village lake Kinnaur",
+  "lat": 31.881,
+  "lng": 78.628,
+  "altitude_m": 3625,
+  "tagline": "A lake village and 11th-century temples on the road to Spiti",
+  "meta_description": "Nako guide: Kinnaur village at 3,625 m on the Spiti circuit, 1025 CE temples, Nako lake, Reo Purgyil views, stays, bus fares and permit rules.",
+  "summary": "Nako is a stone-and-mud village at 3,625 m in upper Kinnaur, 7 km above NH-505, with a small lake, an 11th-century temple complex linked to Rinchen Zangpo, and views of Reo Purgyil, Himachal's highest peak. It is the classic first stop on the Shimla–Spiti circuit and a good acclimatisation night.",
+  "intro": [
+    "Nako sits on a slope above the Spiti river's gorge near the Tibet border, technically in Kinnaur but Tibetan Buddhist in language and faith, much like Spiti. About 570 people live here in houses of stone, mud and timber clustered around a small lake fringed with willows and poplars. Fields of barley and peas are terraced above and below.",
+    "The temple complex in the village dates from 1025 CE and is named in honour of Rinchen Zangpo, the translator who founded Tabo. Its four halls hold Vajrayana images, including sculptures of the Five Dhyani Buddhas, and old paintings in dim light. A small shrine nearby protects a rock believed to bear the footprint of Padmasambhava.",
+    "Above the village rises Reo Purgyil, at 6,816 m the highest mountain in Himachal Pradesh. For travellers on the Shimla route, Nako is the perfect first night above 3,000 m: high enough to start acclimatising, low enough to sleep reasonably, and quiet once the day traffic moves on. Foreign nationals need a Protected Area Permit for this border stretch; check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Apr – Oct; reachable most of the year"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Shimla, about 300 km"],
+    ["From Kalpa", "≈ 117 km · 4–5 h"],
+    ["Altitude", "3,625 m"],
+    ["Known for", "1025 CE temples, Nako lake, Reo Purgyil, acclimatisation stop"]
+  ],
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "The temple complex", "text": "Nako's four temple halls date from 1025 CE and are linked to Rinchen Zangpo. Inside, dim light shows clay images and wall paintings. Ask the caretaker to open them, leave a donation, and do not photograph inside."},
+    {"title": "Nako lake", "text": "The small lake in the middle of the village is ringed by willows and prayer flags. Walk around it in the evening; in deep winter it freezes and local children skate on it."},
+    {"title": "Padmasambhava's footprint", "text": "A shrine near the village protects a rock believed to carry the footprint of Padmasambhava, the teacher credited with bringing Buddhism to Tibet. It is a place of prayer; visit quietly."},
+    {"title": "Reo Purgyil views", "text": "Climb a little above the village for views of Reo Purgyil, at 6,816 m the highest mountain in Himachal Pradesh. Sunset light on its snow is the reason to stay the night."},
+    {"title": "First night on the climb", "text": "Coming from Kalpa or Reckong Peo, Nako is the right place to sleep before Tabo and Kaza. Walk slowly, drink water, and let your body adjust to 3,625 m."}
+  ],
+  "field_notes": [
+    {"fact": "Nako's monastery was established in 1025 CE and is named in honour of Rinchen Zangpo, who translated Buddhist scriptures from Sanskrit into Tibetan. It has four halls with sculptures of the Five Dhyani Buddhas.", "source": "Nako, Himachal Pradesh"},
+    {"fact": "A shrine in Nako protects a rock believed to bear the footprint of Padmasambhava, marking his visit to the area, along with a stucco statue and murals.", "source": "Nako, Himachal Pradesh"},
+    {"fact": "Reo Purgyil, which rises above Nako, reaches 6,816 m and is the highest mountain in Himachal Pradesh.", "source": "Nako, Himachal Pradesh"}
+  ],
+  "local_word": {"word": "Tso", "language": "Tibetan", "meaning": "lake, as in the small lake at the heart of Nako"},
+  "costs": [
+    ["HRTC bus, Reckong Peo–Nako turn-off", "₹200–300"],
+    ["Taxi Reckong Peo–Nako", "₹5,000–7,000 per car"],
+    ["Guesthouse or homestay with dinner and breakfast", "₹1,200–2,500 per person"],
+    ["Temple entry", "Small fee or donation"],
+    ["Thali or thukpa", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Shimla airport is about 300 km away; Chandigarh has more flights. Allow two days by road to Nako, with a night in Kalpa or Reckong Peo."},
+    {"mode": "Bus", "text": "HRTC buses from Reckong Peo to Kaza pass the Nako turn-off and some go up into the village; check current timings at Reckong Peo bus stand. From Shimla, ride to Reckong Peo first."},
+    {"mode": "Road", "text": "Nako is 7 km up a branch road from NH-505, about 117 km from Kalpa and 63 km before Tabo. The road through Kinnaur is open most of the year, apart from landslides and snow."}
+  ],
+  "where_to_stay": "Saver: Nako has a few simple guesthouses near the lake and family homestays in the old village, at about ₹1,200–2,500 a person with meals; rooms are basic and hot water may come by bucket. Comfort: one or two better guesthouses on the road side have attached bathrooms and restaurants; we choose them each season. Signature: there is no hotel of signature standard in Nako; we use the best available room for one night, and it is worth it for the acclimatisation.",
+  "stays": [],
+  "tips": [
+    "Foreign nationals must carry a Protected Area Permit for the Nako–Sumdo stretch; check current status.",
+    "Sleep a night in Nako on the way up from Shimla; it is the best acclimatisation stop on the route.",
+    "Photography is not allowed inside the old temples; ask the caretaker before opening.",
+    "Stop at the Gue mummy between Nako and Tabo to save a separate trip.",
+    "Expect landslides at Malling and other stretches in July and August; keep a spare day."
+  ],
+  "themes": ["monasteries", "road-trips", "homestays-and-villages", "photography"],
+  "nearby": ["tabo", "dhankar", "kaza"],
+  "experiences": [
+    {
+      "slug": "nako-old-temples-visit",
+      "title": "Nako's 11th-century temple halls",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Morning, Apr–Oct",
+      "cost": "Small fee or donation",
+      "image_query": "Nako Monastery Kinnaur",
+      "wiki": "",
+      "summary": "Step into the dim halls of Nako's temple complex, founded in 1025 CE and named for the translator Rinchen Zangpo, to see clay images and paintings that have survived nearly a thousand years.",
+      "body": [
+        "The temple complex sits at the upper edge of the village: four low halls of mud and stone with flat roofs. They date from 1025 CE and are linked to Rinchen Zangpo, who founded Tabo a generation earlier. Inside are sculptures of the Five Dhyani Buddhas and walls of paintings in Vajrayana style.",
+        "A caretaker holds the keys. Ask in the village or at the newer monastery building, and be ready to wait. A small fee or donation is expected. Photography inside is not allowed; the paintings are fragile and the light is low, so give your eyes time.",
+        "Do not touch walls or images, and keep bags close. Afterwards, walk round the complex clockwise and down to the lake through the village lanes."
+      ],
+      "good_for": ["first-timers", "seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "How old is Nako Monastery?", "a": "The complex was established in 1025 CE and is named in honour of the translator Rinchen Zangpo."},
+        {"q": "Is photography allowed inside?", "a": "No. Photograph the exteriors and village instead."},
+        {"q": "Is it always open?", "a": "A caretaker opens it on request. Ask in the village and allow time."}
+      ]
+    },
+    {
+      "slug": "nako-lake-and-village-walk",
+      "title": "Evening walk around Nako lake",
+      "kind": "village",
+      "duration": "1 hour",
+      "best_time": "5–7 pm, Apr–Oct",
+      "cost": "Free",
+      "image_query": "Nako Lake Kinnaur",
+      "wiki": "",
+      "summary": "Circle the small lake at the heart of Nako, past willows, prayer wheels and stone houses, as families bring livestock home and the light turns gold on the hills.",
+      "body": [
+        "Nako's lake is small, a few minutes' walk around, but it is the centre of village life. Willows and poplars line the shore, prayer flags stretch between trees, and paths lead off into lanes of stone and mud houses.",
+        "Walk in the evening, when the day traffic from the highway has gone and families return from the fields. Turn the prayer wheels clockwise as you pass, greet people with julley, and ask before taking portraits.",
+        "Keep the lake clean: no washing, no littering, no swimming. In deep winter it freezes hard and children skate on it, but in summer it is a quiet, reflective pool."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can I boat on Nako lake?", "a": "Small boating has been offered in some summers, but it is not reliable. Ask locally; the walk is the main experience."},
+        {"q": "Does the lake freeze?", "a": "Yes, in deep winter. Local children skate on it."},
+        {"q": "Is the walk easy?", "a": "Yes, flat and short, though at 3,625 m. Go slowly."}
+      ]
+    },
+    {
+      "slug": "nako-reo-purgyil-sunset",
+      "title": "Sunset on Reo Purgyil from above Nako",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Sunset, Apr–Oct",
+      "cost": "Free",
+      "image_query": "Reo Purgyil peak",
+      "wiki": "Reo Purgyil",
+      "summary": "Climb a short way above the village to watch the evening light on Reo Purgyil, at 6,816 m the highest mountain in Himachal Pradesh.",
+      "body": [
+        "Reo Purgyil rises on the border ridge above Nako to 6,816 m, the highest point in Himachal Pradesh. From the village itself the view is partly hidden; climb 15–20 minutes up the slopes above the houses for a clear line to the peak.",
+        "Go an hour before sunset with a warm layer. The light moves up the snow and rock as the valley falls into shadow. It is a good, gentle acclimatisation walk on your first evening above 3,500 m.",
+        "Stay on paths, avoid fields and walk down before dark, carrying a torch. Do not fly drones here; this is a sensitive border area."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "How high is Reo Purgyil?", "a": "6,816 m, the highest mountain in Himachal Pradesh."},
+        {"q": "Can I fly a drone at Nako?", "a": "Nako is close to the international border. Assume drones are not allowed unless you have permission."},
+        {"q": "Is the walk steep?", "a": "Short and moderately steep, about 15–20 minutes up. Go slowly at this altitude."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do I need a permit to visit Nako?", "a": "Indian citizens do not need a permit. Foreign nationals need a Protected Area Permit for the border stretch that includes Nako and the road to Sumdo, issued in Reckong Peo, Kaza or Shimla, often for groups arranged by an agent. Check current status before you travel."},
+    {"q": "How do I reach Nako from Shimla?", "a": "By road through Kinnaur: Shimla to Reckong Peo or Kalpa on day one (about 9 hours), then about 117 km to Nako on day two. HRTC buses from Reckong Peo towards Kaza pass the Nako turn-off. Check current timings and road status before you travel."},
+    {"q": "Is Nako in Spiti?", "a": "No, Nako is in Kinnaur district, but it lies on the Spiti circuit, 63 km before Tabo, and shares Spiti's Tibetan Buddhist culture and landscape. Most Spiti trips from Shimla stop here."},
+    {"q": "How high is Nako?", "a": "Nako is at about 3,625 m. Coming from Kalpa or Reckong Peo, it is a big step up, so rest on arrival, drink water and avoid alcohol. It is the best place on the Shimla route to start acclimatising. Talk to your doctor about altitude before you travel."},
+    {"q": "Where can I stay in Nako?", "a": "Nako has simple guesthouses near the lake and on the road, plus family homestays in the old village, at about ₹1,200–2,500 a person with meals. Rooms are basic. There is no luxury hotel; the experience is the village."},
+    {"q": "Is there mobile network in Nako?", "a": "BSNL and Jio usually work in Nako, with patchy data. Some guesthouses have Wi-Fi. Carry cash, as there is no reliable ATM; Reckong Peo is the last dependable stop."},
+    {"q": "Is the Kinnaur road safe in monsoon?", "a": "It is usually open, but July and August bring landslides, especially at Malling near Nako, which can close the road for hours or days. Travel in daylight, keep a spare day, and check current status before you travel."},
+    {"q": "Is Nako open in winter?", "a": "Nako is inhabited all year and the Kinnaur road usually stays open, apart from snow and ice closures. Many guesthouses close from November to March. The lake freezes and the village is very quiet."},
+    {"q": "How long should I stay in Nako?", "a": "One night is ideal, both for the temples and lake and for acclimatisation before Tabo and Kaza. Add a second night only if you want slow walks above the village."}
+  ]
+}

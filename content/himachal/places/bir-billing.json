@@ -1,0 +1,147 @@
+{
+  "slug": "bir-billing",
+  "name": "Bir and Billing",
+  "region": "himachal",
+  "kind": "village",
+  "wiki": "Bir, Himachal Pradesh",
+  "image_query": "Bir Billing paragliding Kangra",
+  "lat": 32.042,
+  "lng": 76.714,
+  "altitude_m": 1525,
+  "tagline": "Paragliding over tea gardens and Tibetan monasteries in Kangra",
+  "meta_description": "Bir Billing guide: tandem paragliding prices and season, Tibetan colony monasteries, tea gardens, Baijnath temple, hostels and how to reach from Delhi or Dharamshala.",
+  "summary": "Bir is a village at about 1,500 m in the Kangra valley; Billing, 14 km up the road at about 2,400 m, is the paragliding take-off. Come October–November or March–May for flying. Tandem flights cost about ₹3,000–4,500. Stay two nights for the flight, Tibetan monasteries, tea gardens and Baijnath.",
+  "intro": [
+    "Bir is two villages in one. The old Himachali village sits around its bazaar on the main road, with Kangri houses and fields of rice and wheat. Below it, the Tibetan colony grew up in the 1960s around Chowgan, with several monasteries, a Tibetan school and the craft and study centres that now draw long-stay students. Between them lie small tea gardens, part of the Kangra tea belt that has grown tea since the mid-19th century.",
+    "What made Bir famous is the air above it. Billing, a meadow at about 2,400 m on the ridge behind the village, faces south over the wide Kangra valley, and on most clear days from October to November and March to May thermals rise steadily off the slopes. Pilots launch from Billing and land in fields at Bir roughly 1,000 m lower. In 2015 Bir Billing hosted India's first Paragliding World Cup, and cross-country pilots now fly long distances along the Dhauladhar.",
+    "For most visitors the experience is a 15–30 minute tandem flight with a licensed pilot, followed by a slow day of cafés and monastery visits. Bir has become a backpacker base with hostels, yoga and meditation courses and a few good cafés, but it is still smaller and calmer than McLeodganj. Pair it with Dharamshala, 70 km west, or use it as a stop between Dharamshala and Manali."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Kangra (Gaggal), ≈ 65 km"],
+    ["From McLeodganj", "≈ 70 km · 2.5 h"],
+    ["Altitude", "1,525 m (Billing ≈ 2,400 m)"],
+    ["Known for", "Paragliding, Tibetan monasteries, Kangra tea"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Tandem flight from Billing", "text": "A 15–30 minute flight from about 2,400 m down to the landing fields at Bir, with a licensed pilot and a GoPro option. Fly in the morning for calmer air. Typically ₹3,000–4,500 depending on flight length and season."},
+    {"title": "Tibetan colony monasteries", "text": "Several monasteries in and around Chowgan, including the large Sherab Ling complex near Bhattu, 10 km away. Walk the colony in the morning when monks and children are on the way to prayers and school."},
+    {"title": "Tea gardens", "text": "Small family tea estates lie along the road between Bir and the colony. Kangra tea carries a Geographical Indication tag. Walk the rows in March–April or October and buy green or black tea direct."},
+    {"title": "Baijnath temple", "text": "A stone Shiva temple of 1204 in the north Indian Nagara style, 15 km from Bir, with fine carvings and an inscription recording its construction. Free entry and rarely crowded outside Shivratri."},
+    {"title": "Billing meadow at sunset", "text": "Even without flying, drive or walk up to Billing for the view across the Kangra valley to the plains and the take-offs of the last pilots. Carry a jacket; it is much colder than Bir."},
+    {"title": "Slow café days", "text": "Bir's cafés and bakeries on the colony roads serve good coffee and Tibetan food. Many travellers stay longer for meditation, yoga or Buddhist philosophy courses."}
+  ],
+  "field_notes": [
+    {"fact": "Bir Billing hosted the Paragliding World Cup in 2015, the first time the series was held in India. Billing's take-off, at about 2,400 m, faces south over the Kangra valley.", "source": "Bir, Himachal Pradesh"},
+    {"fact": "Tea has been grown in the Kangra valley since the mid-19th century, and Kangra tea received a Geographical Indication tag in 2005. Production fell after the 1905 Kangra earthquake damaged many estates.", "source": "Kangra tea"},
+    {"fact": "The Baijnath temple near Bir was built in 1204 by two local merchants, according to inscriptions on its walls, and has been in continuous worship since. It is dedicated to Shiva as Vaidyanath, the lord of physicians.", "source": "Baijnath Temple"}
+  ],
+  "local_word": {"word": "Gompa", "language": "Tibetan", "meaning": "a monastery; literally a place of solitude or meditation"},
+  "costs": [
+    ["Tandem paragliding flight", "₹3,000–4,500"],
+    ["Taxi, Bir–Billing one way", "₹800–1,200 a car"],
+    ["Hostel dorm bed", "₹500–900"],
+    ["Local bus, Baijnath–Bir", "₹30–60"],
+    ["Café meal or Tibetan thali", "₹150–350"],
+    ["100 g of local Kangra tea", "₹100–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Kangra airport at Gaggal is about 65 km and 2 hours away. Taxis cost roughly ₹2,500–3,500. Flights from Delhi are daily in good weather."},
+    {"mode": "Bus", "text": "HRTC and private Volvos run overnight from Delhi to Baijnath or Bir Road, about 11–12 hours; take a local bus or taxi for the last 10–15 km. HRTC buses link Baijnath with Dharamshala (≈ 3 h), Palampur and Mandi."},
+    {"mode": "Rail", "text": "The narrow-gauge Kangra Valley Railway from Pathankot stops at Ahju station, about 3 km from Bir. It is very slow and services are sometimes suspended, but it is a charming ride when running."},
+    {"mode": "Road", "text": "From McLeodganj via Palampur and Baijnath, about 70 km and 2.5 hours. From Manali via Mandi and Joginder Nagar, about 210 km and 6–7 hours."}
+  ],
+  "where_to_stay": "Saver: Bir has many hostels and simple guesthouses in the Tibetan colony and near the landing site, from about ₹500 for a dorm bed and ₹1,200–2,000 for a private double; Zostel runs a hostel here. Comfort: a handful of boutique cottages and mid-range hotels sit among the tea gardens and on the road towards Billing, mostly ₹3,500–7,000 a night. Signature: there is no luxury hotel in Bir itself; signature travellers usually stay in the Dharamshala or Palampur area and drive over for the flight.",
+  "stays": ["zostel-bir"],
+  "tips": [
+    "Fly in the morning between 9 and 11 am, when air is calmer and better for first-timers.",
+    "Book through a registered operator and ask to see the pilot's licence and insurance cover.",
+    "Paragliding stops during the monsoon, usually from mid-July to mid-September; check current status before you travel.",
+    "Dress modestly and walk clockwise around monastery stupas and prayer wheels.",
+    "Carry cash; Bir has few ATMs and they sometimes run out on weekends."
+  ],
+  "themes": ["adventure-sports", "monasteries", "food-and-tea", "wellness-and-yoga", "homestays-and-villages"],
+  "nearby": ["mcleodganj", "chamba", "manali"],
+  "experiences": [
+    {
+      "slug": "bir-billing-tandem-paragliding",
+      "title": "Tandem paragliding from Billing to Bir",
+      "kind": "adventure",
+      "duration": "2–3 hours including drive and briefing",
+      "best_time": "9–11 am, Oct–Nov and Mar–May",
+      "cost": "₹3,000–4,500 per flight; video ₹500–1,000",
+      "image_query": "Paragliding Billing Himachal",
+      "wiki": "Bir, Himachal Pradesh",
+      "summary": "Drive up to the Billing take-off at about 2,400 m, run a few steps with your pilot and fly for 15–30 minutes over pine forest, tea gardens and the Bir monasteries to land in the fields below. No experience needed.",
+      "body": [
+        "Your operator will collect you in Bir and drive about 14 km up a winding road to the Billing take-off, which takes 45 minutes to an hour. After a short safety briefing you are clipped into a harness in front of a licensed tandem pilot. Take-off is a few running steps down the slope until the wing fills and lifts you off. Most flights last 15–30 minutes, depending on the package and the day's air.",
+        "From the air you see the shape of the valley: the dark ridge of the Dhauladhar behind, the forest dropping to Bir's terraces and tea gardens, the white monasteries of the Tibetan colony and, on clear days, the plains of Kangra to the south. Pilots often circle in thermals to gain height. Tell your pilot if you feel unwell; they can keep the flight gentle. Landing is in a large field near the colony.",
+        "Flying is weather-dependent. Operators cancel when winds are strong or clouds build, and the season stops during the monsoon, typically from mid-July to mid-September. Choose an operator registered with the state tourism department, ask about insurance, and avoid anyone offering a much cheaper price. People over about 100 kg or with back, heart or pregnancy issues should check with operators and talk to your doctor first."
+      ],
+      "good_for": ["students", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How much does paragliding in Bir cost?", "a": "A standard tandem flight costs about ₹3,000–4,500 in 2026, with longer flights at the top of that range. GoPro video adds ₹500–1,000. Prices include the drive to Billing. Be wary of much cheaper offers, which may cut corners on equipment or pilots."},
+        {"q": "Is paragliding in Bir safe?", "a": "With a licensed pilot, good equipment and sensible weather calls, tandem flights have a good safety record, but it is an adventure sport with real risk. Use a registered operator, follow the briefing, and accept cancellations when pilots say the air is not safe."},
+        {"q": "What is the best season for paragliding in Bir?", "a": "October and November for stable air and clear views, and March to May for good thermals. December to February is possible on clear days but colder. Flying stops for the monsoon, usually mid-July to mid-September. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "bir-tibetan-colony-monastery-walk",
+      "title": "Monastery walk in Bir's Tibetan colony",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "Morning, all year",
+      "cost": "Free; donations welcome",
+      "image_query": "Bir Tibetan colony monastery",
+      "wiki": "",
+      "summary": "A gentle walk through Bir's Tibetan colony at Chowgan, visiting monasteries, prayer wheels and stupas, then out through the tea gardens. Combine with a taxi to the large Sherab Ling monastery near Bhattu.",
+      "body": [
+        "Bir's Tibetan colony was set up in the 1960s for refugees who followed the Dalai Lama into India. Today it is a small town of its own around Chowgan, with several monasteries of different Tibetan Buddhist traditions within walking distance, a Tibetan school and handicraft workshops. Start at the main road and walk downhill through the colony in the morning, when monks are heading to prayers and the smell of incense and juniper smoke drifts out of the temples.",
+        "Visitors are usually welcome in the assembly halls outside prayer times. Walk clockwise around stupas and prayer wheels, remove shoes before entering, and ask before photographing monks or the interiors. Many monasteries have painted murals and large statues of the Buddha and of Guru Rinpoche. A small donation in the offering box is appreciated.",
+        "From the colony, follow the lanes into the tea gardens, which are especially green in April and October. If you have a taxi, add Sherab Ling, a large monastery set in forest near Bhattu about 10 km away, known for its traditional architecture and quiet grounds. Finish with momos or thukpa in one of the colony cafés. Several centres in Bir run meditation and Buddhist study courses that you can join."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can tourists enter the monasteries in Bir?", "a": "Yes, usually, outside prayer and ritual times. Remove shoes, dress modestly, speak quietly and walk clockwise. Some halls do not allow photography inside. If a door is closed or a ceremony is under way, wait outside or come back later."},
+        {"q": "How far is Sherab Ling from Bir?", "a": "About 10 km, roughly 25–30 minutes by taxi via Bhattu. It is set in pine forest above the road and is one of the larger monasteries in the area. Taxis from Bir charge around ₹1,000–1,500 for the return trip with waiting time."},
+        {"q": "Are there meditation courses in Bir?", "a": "Yes. Several Buddhist centres in and around Bir offer meditation, philosophy and Tibetan language courses, from a few days to several weeks. Schedules and registration rules vary, so check their official websites before you travel."}
+      ]
+    },
+    {
+      "slug": "bir-tea-gardens-and-baijnath-temple",
+      "title": "Kangra tea gardens and Baijnath temple",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "Mar–May and Oct–Nov",
+      "cost": "Free entry; taxi ₹1,200–1,800 for the loop",
+      "image_query": "Baijnath Temple Kangra",
+      "wiki": "Baijnath Temple",
+      "summary": "Walk through Bir's small tea estates, buy Kangra green or black tea, then drive 15 km to the stone Baijnath temple, built in 1204, for its carved walls and evening prayers.",
+      "body": [
+        "The Kangra valley has grown tea since the mid-19th century, when British planters found the slopes below the Dhauladhar suited to the bush. Bir sits at the eastern end of that belt. Its estates are small and family-run, with rows of tea on gentle slopes between the village and the colony. In March–April and October you can see plucking, and some estates sell directly from their factory or home. Kangra tea, with a Geographical Indication tag since 2005, is lighter than Assam, and its green tea is especially good.",
+        "From Bir, drive about 15 km to Baijnath, a small town on the main road. Its temple to Shiva as Vaidyanath, the lord of physicians, was built in 1204 according to inscriptions on its walls. It is a fine example of the north Indian Nagara style in stone, with a tall curved spire and carved niches of deities. The temple is active, so remove shoes and leave leather items outside.",
+        "Come in the late afternoon to see the evening aarti. The Shivratri festival in February or March draws large crowds. On the way back, stop in Palampur's tea estates if you have time, or in the Bir bazaar for a cup of local chai. The loop is easy and suits families and seniors."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Can I visit a tea factory in Bir?", "a": "Some small estates in Bir allow visitors to walk the gardens and buy tea, and a few show the drying and rolling process. Larger factories in Palampur are easier to visit. Ask your hostel or guesthouse which estates are open, and always ask before entering private gardens."},
+        {"q": "What is special about the Baijnath temple?", "a": "It is a well-preserved stone temple built in 1204 in the Nagara style, with carved walls and inscriptions recording its construction. It is dedicated to Shiva as Vaidyanath and is in active worship. Entry is free."},
+        {"q": "When is the best time to see tea plucking in Kangra?", "a": "The first flush in March and April and the autumn flush in October are the best times. Plucking continues through the monsoon months, but rain makes visits less pleasant. Winter is dormant season, with little activity in the gardens."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the best time to visit Bir Billing?", "a": "October and November for the best flying weather and clear views, and March to May for spring. December to February is cold but often clear. Flying stops during the monsoon, usually from mid-July to mid-September, and heavy rain makes the area less pleasant."},
+    {"q": "How much does a Bir trip cost?", "a": "A saver weekend from Delhi costs about ₹9,000–13,000 per person: overnight Volvo both ways, two nights in a hostel, food and one tandem flight. With a private car and boutique stay, expect ₹20,000–30,000 per person for two nights including the flight."},
+    {"q": "How do I reach Bir from Delhi?", "a": "Take an overnight HRTC or private Volvo to Baijnath or Bir Road, about 11–12 hours, then a local bus or taxi for the last stretch. Alternatively fly to Kangra and take a taxi for about 2 hours. Trains run to Pathankot, about 140 km away."},
+    {"q": "Is there an age or weight limit for paragliding?", "a": "Operators generally take adults and older children in good health, with a weight range roughly 30–100 kg depending on the pilot and wing. People with back, heart or neck problems, or who are pregnant, should not fly without medical advice. Always talk to your doctor if unsure."},
+    {"q": "How many days should I spend in Bir?", "a": "Two nights is ideal: one morning for the flight, one day for the monasteries, tea gardens and Baijnath. If weather cancels flights, a spare day helps. Many travellers stay a week or more for meditation courses or to learn to fly solo."},
+    {"q": "Is Bir safe for solo women travellers?", "a": "Yes. Bir is a small, friendly village with many solo travellers and long-stay students, and hostels have women-only dorms. Use normal care walking the unlit lanes between the colony and the bazaar at night and arrange taxis through your hostel."},
+    {"q": "Are there ATMs and network in Bir?", "a": "There are a few ATMs in Bir, and more in Baijnath, 15 km away. They can run out of cash on busy weekends. Jio and Airtel work well in Bir; signal is weaker at Billing. Many cafés and operators accept UPI."},
+    {"q": "Can I fly paragliding solo in Bir?", "a": "Only if you hold a recognised pilot licence and register with the local authorities. Several schools in Bir run beginner courses of one to two weeks leading to basic certification. Tandem flights are the option for everyone else."},
+    {"q": "Is Bir good for families with kids?", "a": "Yes. Distances are short, the monasteries and landing fields fascinate children, and the altitude is low. Children can fly tandem with some operators if they meet weight and age rules. Keep an eye on them near the busy landing site."}
+  ]
+}

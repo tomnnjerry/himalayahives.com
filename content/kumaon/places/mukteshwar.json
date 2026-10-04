@@ -1,0 +1,145 @@
+{
+  "slug": "mukteshwar",
+  "name": "Mukteshwar",
+  "region": "kumaon",
+  "kind": "village",
+  "wiki": "Mukteshwar",
+  "image_query": "Mukteshwar temple Himalaya view",
+  "lat": 29.47,
+  "lng": 79.65,
+  "altitude_m": 2171,
+  "tagline": "Orchards, cliffs and a Shiva temple on a 2,171 m ridge",
+  "meta_description": "Mukteshwar guide: Mukteshwar Dham and Chauli ki Jali cliffs, Ramgarh orchards, hostels to boutique stays, costs and how to reach from Nainital.",
+  "summary": "Mukteshwar is a ridge-top village at 2,171 m, 51 km from Nainital, known for its Shiva temple, the Chauli ki Jali cliffs, apple and apricot orchards around Ramgarh and long snow views. It suits workations, couples and slow weekends. Two to three nights is right, and it is one of the likelier places in Kumaon to see snow.",
+  "intro": [
+    "Mukteshwar takes its name from the Mukteshwar Dham, a small Shiva temple about 350 years old at the highest point of the ridge. Beside it, the rock drops away in overhangs locals call Chauli ki Jali, used today for rappelling and for watching the sun set over the Kosi valley. Below the ridge, deodar and oak forest runs down to orchards and the villages of Satkhol, Sitla and Dhanachuli.",
+    "The town grew around science, not tourism. In 1893 the British moved a bacteriological laboratory here from Pune to make serum against cattle plague, choosing the cold, isolated ridge on purpose. It became the Indian Veterinary Research Institute campus that still fills the top of the hill. Jim Corbett knew the place as Muktesar, the name many locals use, and wrote about a man-eating tiger here.",
+    "Today Mukteshwar is popular with Delhi travellers who want a quieter base than Nainital, and with remote workers who stay a week or more. The road from Bhowali passes through Ramgarh, the fruit belt of Kumaon, where Rabindranath Tagore and the Hindi poet Mahadevi Verma both spent time. From November to February, Mukteshwar gets cold enough for frost most nights and snow on some days."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Feb"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Pantnagar (≈ 100 km · 3 h)"],
+    ["From Kathgodam", "≈ 70 km · 2.5–3 h via Bhowali and Ramgarh"],
+    ["Altitude", "2,171 m"],
+    ["Known for", "Mukteshwar Dham, Chauli ki Jali, orchards, snow views"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Mukteshwar Dham at sunrise", "text": "Climb the stone steps from the IVRI gate area to the small Shiva temple at the top of the ridge. At dawn on a clear winter morning the snow peaks line the north. The temple is simple and old; remove shoes and keep voices low."},
+    {"title": "Sunset from Chauli ki Jali", "text": "The overhanging cliffs beside the temple face west over the valley. They are the town's sunset point and its rappelling site. There are no railings in places, so stay well back from the edge, especially with children."},
+    {"title": "Ramgarh's orchards", "text": "On the drive in, Ramgarh's slopes are planted with apple, apricot, plum and peach. In June and July roadside stalls sell fruit and homemade jams. Neemrana's Ramgarh Bungalows grows its own fruit for jam here."},
+    {"title": "Village walks to Satkhol and Sitla", "text": "Forest paths link Mukteshwar to villages on nearby spurs. A half-day walk passes terraced fields, naulas and small temples. Ask your stay for the current trail, as some paths have been cut by new roads."},
+    {"title": "Snow in winter", "text": "At 2,171 m, Mukteshwar is one of the likelier places near Delhi to get snow, usually between late December and February after a western disturbance. Roads can be slippery for a day; carry chains or wait for the plough."}
+  ],
+  "field_notes": [
+    {"fact": "In 1893 the Imperial Bacteriological Laboratory, set up at Pune in 1889, moved to Mukteshwar to produce serum against cattle plague, on the advice of the Cattle Plague Commission. It grew into the Indian Veterinary Research Institute campus that still occupies the ridge.", "source": "Mukteshwar"},
+    {"fact": "Before 1947 the town was known as Muktesar, the spelling Jim Corbett used in his books. Many local people still call it Muktesar, and a post office opened here in 1905.", "source": "Mukteshwar"},
+    {"fact": "Mukteshwar's ridge carries orchards of a regional station of the Central Institute of Temperate Horticulture alongside the veterinary institute, part of why the area grows apples, apricots and plums.", "source": "Mukteshwar"}
+  ],
+  "local_word": {"word": "Hisalu", "language": "Kumaoni", "meaning": "a small wild yellow raspberry of the Kumaon hillsides, eaten in early summer"},
+  "costs": [
+    ["Shared taxi seat, Bhowali–Mukteshwar", "₹150–250"],
+    ["Private taxi, Nainital–Mukteshwar one way", "₹2,000–2,800"],
+    ["Hostel dorm bed", "₹600–1,000 a night"],
+    ["Homestay double with breakfast", "₹2,000–3,500 a night"],
+    ["Rappelling session at Chauli ki Jali", "₹500–1,000"],
+    ["Kumaoni thali at a local dhaba", "₹180–280"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 100 km and 3 hours away. A taxi costs roughly ₹3,500–4,500."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 70 km away. Take a shared taxi to Bhowali (about 1 hour) and change for Mukteshwar, or hire a private taxi for ₹2,500–3,500. The road goes via Bhowali, Ramgarh and Nathuakhan."},
+    {"mode": "Road", "text": "From Delhi it is about 340 km, 8–9 hours via Moradabad, Haldwani and Bhowali. Uttarakhand Roadways and KMOU buses run to Mukteshwar from Haldwani on some days. In snow, the last stretch can close for a day; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: Zostel Mukteshwar has dorms and private rooms with orchard views and is a favourite of students and remote workers; village homestays near Satkhol and Sitla start around ₹2,000 for a double. Comfort: Neemrana's Ramgarh Bungalows, a set of restored 19th-century cottages in Ramgarh, about 25 km before Mukteshwar, suit slow stays and writers. Signature: Te Aroha by Shervani at Dhanachuli, about 10 km away, has suites and cottages facing the snow peaks.",
+  "stays": ["zostel-mukteshwar", "ramgarh-bungalows", "te-aroha-dhanachuli"],
+  "tips": [
+    "Check that your stay has heating and hot water between November and February; nights go below freezing.",
+    "Power cuts happen in storms, so ask whether your stay has an inverter or generator if you are working remotely.",
+    "Leopards are common around Mukteshwar; walk with a torch and in company after dark.",
+    "Buy fruit and jam from Ramgarh growers in June and July rather than at city shops.",
+    "Stay well back from the edge at Chauli ki Jali; parts of the cliff have no railing."
+  ],
+  "themes": ["snow-and-winter", "honeymoons", "homestays-and-villages", "adventure-sports"],
+  "nearby": ["nainital", "bhimtal-sattal", "almora"],
+  "experiences": [
+    {
+      "slug": "mukteshwar-dham-and-chauli-ki-jali",
+      "title": "Mukteshwar Dham and the Chauli ki Jali cliffs",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Sunrise or 4–6 pm, Oct–Jun",
+      "cost": "Free",
+      "image_query": "Mukteshwar Dham temple",
+      "wiki": "Mukteshwar",
+      "summary": "The old Shiva temple that gave Mukteshwar its name sits at the top of the ridge, and the overhanging cliffs of Chauli ki Jali lie beside it. Go at dawn for the snow peaks or late afternoon for the sunset over the Kosi valley.",
+      "body": [
+        "The Mukteshwar Dham is a small stone temple to Shiva, about 350 years old, reached by a flight of steps near the veterinary institute. Its position at the highest point of the ridge makes it a natural viewpoint. On clear days between October and February the snow peaks of the Nanda Devi and Trishul groups stand on the northern skyline.",
+        "From the temple a short path leads to Chauli ki Jali, a set of overhanging cliffs with natural holes in the rock. Local belief holds that women hoping for children should pass through one of these openings; you will see couples doing so on festival days. The cliffs face west, which is why the town gathers here in the evening.",
+        "There are few railings and the rock can be slippery, so keep children close and stay away from the edge. Monkeys gather near the temple and snatch food. Dress respectfully, leave shoes at the temple steps and do not use drones near the institute campus, which is a restricted government site."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How old is the Mukteshwar temple?", "a": "The Mukteshwar Dham Shiva temple is generally dated to about 350 years ago. The town takes its name from it. It is a small stone shrine at the highest point of the ridge, reached by steps near the IVRI campus."},
+        {"q": "What is Chauli ki Jali?", "a": "It is a group of overhanging cliffs with holes in the rock beside the Mukteshwar temple. It is the town's sunset point and a site for rappelling and rock-climbing sessions. Parts of it have no railings, so take care."},
+        {"q": "When can I see snow peaks from Mukteshwar?", "a": "Views are clearest from October to February, especially just after rain or snow clears. From March the haze increases, and in the monsoon clouds usually hide the peaks."}
+      ]
+    },
+    {
+      "slug": "mukteshwar-rappelling-chauli-ki-jali",
+      "title": "Rappelling and rock climbing at Mukteshwar",
+      "kind": "adventure",
+      "duration": "1–3 hours",
+      "best_time": "Morning, Oct–Jun",
+      "cost": "₹500–1,000 per activity; packages ₹1,500–2,500",
+      "image_query": "Mukteshwar rappelling cliff",
+      "wiki": "",
+      "summary": "Local operators set fixed ropes on the cliffs near Chauli ki Jali for rappelling, short rock climbs and a zipline. It is a good first taste of rope work for teenagers and students, provided you check equipment and choose an operator carefully.",
+      "body": [
+        "The rock faces at Mukteshwar are short, solid and close to the road, which makes them suited to beginner sessions. Operators rig a top rope or a rappel line, give a short briefing and walk you through descending the face backwards. Most sessions take 15–30 minutes per person, with waiting time in busy seasons.",
+        "Before you pay, look at the helmets, harnesses and ropes. They should be in good condition, the operator should use a second safety line, and an instructor should control the belay. Ask how long they have run sessions here and whether they hold any training certification. Walk away if the setup looks improvised.",
+        "Mornings are best, before afternoon wind and the risk of hail in spring. Wear trainers with grip and trousers you can move in. Children usually need to be at least 10 or 12 and accompanied; operators set their own rules. In the monsoon the rock is wet and sessions are often suspended."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "Is rappelling at Mukteshwar safe?", "a": "It can be safe with a careful operator: good helmets and harnesses, a backup safety rope and a trained instructor on the belay. Inspect the gear and briefing before paying, and skip sessions in rain or strong wind."},
+        {"q": "How much does rappelling at Mukteshwar cost?", "a": "Single activities such as rappelling or a short climb cost about ₹500–1,000; combined packages with a zipline cost ₹1,500–2,500. Prices vary by operator and season, so compare two or three."},
+        {"q": "Can children try rock climbing at Mukteshwar?", "a": "Many operators accept children from about 10–12 years with a parent present. Each sets its own age and weight limits. Make sure child-size harnesses and helmets are available."}
+      ]
+    },
+    {
+      "slug": "mukteshwar-ramgarh-orchard-villages",
+      "title": "Ramgarh orchards and the writers' hills",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Apr–Jul for fruit, Oct–Nov for views",
+      "cost": "Taxi ₹1,500–2,500 for the half day; fruit by weight",
+      "image_query": "Ramgarh Nainital orchards",
+      "wiki": "",
+      "summary": "Ramgarh, on the road between Bhowali and Mukteshwar, is Kumaon's fruit belt, with apple, apricot, plum and peach orchards on terraced slopes. It also has a literary past: the Hindi poet Mahadevi Verma kept a summer home here, now a small museum.",
+      "body": [
+        "Ramgarh is split into Malla (upper) and Talla (lower) Ramgarh along the road. Orchards here blossom in March and April and fruit from June, starting with apricots and plums and moving to apples by July and August. Small growers sell fruit, juice and jam at stalls on the road, and some will show visitors their trees if asked politely.",
+        "The Hindi poet Mahadevi Verma spent summers at Ramgarh in a house she called Meera Kutir, now kept as a museum to her work. Rabindranath Tagore is also remembered locally; a ridge here is called Tagore Top. These links are part of why Ramgarh draws writers on retreat today, along with the Neemrana Ramgarh Bungalows, a set of restored 19th-century cottages.",
+        "Combine a stop in Ramgarh with a walk on the old lanes of Talla Ramgarh and lunch at a dhaba in Nathuakhan on the way to Mukteshwar. Do not pick fruit from trees without permission, and keep to field edges. In the monsoon, landslides sometimes close the stretch between Bhowali and Ramgarh; check current status before you travel."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "When is fruit season in Ramgarh?", "a": "Blossom comes in March and April. Apricots and plums ripen from about June, peaches and pears follow, and apples are picked from July to September depending on variety and altitude."},
+        {"q": "What is the Mahadevi Verma connection to Ramgarh?", "a": "The Hindi poet Mahadevi Verma kept a summer home at Ramgarh, called Meera Kutir, which is now maintained as a museum about her life and writing. Opening times vary, so ask locally."},
+        {"q": "How far is Ramgarh from Mukteshwar?", "a": "Ramgarh is about 25 km before Mukteshwar on the road from Bhowali, roughly 45 minutes to an hour by car. It is an easy stop on the way in or out."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Mukteshwar better than Nainital?", "a": "For a quiet stay, yes. Mukteshwar is a ridge village with forest walks, orchards and wide snow views, and far fewer crowds. Nainital has the lake, shops and more to see. Many travellers spend one night in Nainital and two or three in Mukteshwar."},
+    {"q": "Does it snow in Mukteshwar?", "a": "Snow falls in most winters, usually on a few days between late December and February after a western disturbance. It is not guaranteed. Roads can be slippery or closed for a day; check current status before you travel."},
+    {"q": "How do I reach Mukteshwar from Kathgodam?", "a": "Take a shared taxi to Bhowali and another to Mukteshwar, or hire a private taxi for ₹2,500–3,500. The 70 km drive via Bhowali and Ramgarh takes 2.5–3 hours."},
+    {"q": "Is Mukteshwar good for a workation?", "a": "Yes, many remote workers stay a week or more at Zostel and homestays. Jio and Airtel 4G work in most of the village, and some stays have fibre broadband. Ask about power backup before booking, since storms can cut supply."},
+    {"q": "How many days are enough for Mukteshwar?", "a": "Two nights covers the temple, Chauli ki Jali, a village walk and Ramgarh. Stay longer for rest or remote work. Mukteshwar pairs well with Nainital or Bhimtal on a five-night trip."},
+    {"q": "What is the weather in Mukteshwar in December?", "a": "Days are about 8–14 °C and nights fall below freezing, with frost most mornings. Skies are usually clear, giving good snow views. Snow is possible late in the month. Carry thermals and a down jacket."},
+    {"q": "What does a budget trip to Mukteshwar cost?", "a": "A hostel bed costs ₹600–1,000 a night, a homestay double ₹2,000–3,500, meals ₹400–600 a day, and shared taxis from Bhowali ₹150–250. Two nights from Kathgodam can cost under ₹5,000 per person."},
+    {"q": "Is Mukteshwar safe for solo travellers?", "a": "Yes, it is quiet and friendly, and the hostel scene is used to solo guests. The main risks are leopards and dark roads at night, so do not walk alone after dark and carry a torch."},
+    {"q": "Can I visit the IVRI campus in Mukteshwar?", "a": "IVRI is a working government research institute. The temple steps start near it, but entry to buildings and labs is restricted. A small museum has been open to visitors at times; ask at the gate and follow staff instructions."}
+  ]
+}

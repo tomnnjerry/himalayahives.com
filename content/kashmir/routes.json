@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "srinagar-to-gulmarg",
+    "from": "srinagar",
+    "to": "gulmarg",
+    "distance_km": 56,
+    "summary": "Srinagar to Gulmarg is about 50–56 km west through Magam and Tangmarg, the last 13 km climbing hairpins through pine forest. It takes 1 h 30 min to 2 h by car. Budget travellers use shared Sumos to Tangmarg and a shared taxi up.",
+    "options": [
+      {"mode": "Shared Sumo via Tangmarg", "time": "2 h 30 min–3 h", "cost": "₹150–250 to Tangmarg, then ₹50–100 a seat", "text": "Shared Sumos to Tangmarg leave from Srinagar's taxi stands through the morning and fill before departing. At Tangmarg, change to a shared taxi for the climb to Gulmarg. It is cheap and reliable in daylight, but afternoon returns can mean a wait. Keep small notes and ask locals which stand serves Tangmarg that day."},
+      {"mode": "JKSRTC bus", "time": "2 h 30 min–3 h 30 min", "cost": "₹100–300 depending on service", "text": "JKSRTC runs local buses towards Tangmarg and has operated seasonal tourist services from the Tourist Reception Centre in Srinagar. Buses are slower than Sumos, with frequent stops, but very cheap. Timetables change by season, so ask at the TRC the day before and check current status before you travel."},
+      {"mode": "Private car", "time": "1 h 30 min–2 h", "cost": "₹2,500–3,500 day return", "text": "A private taxi from Srinagar is the easiest option, especially for families with luggage. Srinagar taxis can drive to Gulmarg. In heavy snow, police may allow only four-wheel drives or vehicles with chains above Tangmarg, and you may need to switch to a local vehicle. Agree waiting time and return in advance."}
+    ],
+    "stops_on_way": ["Magam", "Tangmarg", "Drung waterfall (winter ice, short detour)"],
+    "road_status": "Open all year; snow can restrict the Tangmarg–Gulmarg section to 4x4s with chains in winter. Check current status before you travel.",
+    "tip": "Leave Srinagar by 7.30 am in season to reach the gondola before the queues build.",
+    "faqs": [
+      {"q": "How long does it take from Srinagar to Gulmarg?", "a": "About 1 h 30 min to 2 h by private car for 50–56 km, longer in winter or on weekends. By shared Sumo with a change at Tangmarg, allow 2 h 30 min to 3 h. Snow and traffic at Tangmarg can add time."},
+      {"q": "Can I go to Gulmarg by bus?", "a": "Yes, but not always directly. Local buses and shared Sumos run to Tangmarg, and shared taxis climb the last 13 km. JKSRTC has run seasonal tourist buses from the TRC; check current status before you travel."},
+      {"q": "Do I need snow chains for Gulmarg in winter?", "a": "After fresh snow, police often require chains or four-wheel drive above Tangmarg. Chains can be hired at Tangmarg, and local 4x4 taxis run the climb. Your Srinagar driver will know the rules on the day."},
+      {"q": "What is there to see on the way to Gulmarg?", "a": "The drive passes rice fields and apple orchards around Magam, then pine forest above Tangmarg. In winter, a short detour to Drung waterfall near Tangmarg shows it frozen. In summer, roadside stalls sell fresh fruit."}
+    ]
+  },
+  {
+    "slug": "srinagar-to-pahalgam",
+    "from": "srinagar",
+    "to": "pahalgam",
+    "distance_km": 95,
+    "summary": "Srinagar to Pahalgam is about 90–95 km south-east via Pampore, Awantipora and Anantnag, then up the Lidder valley. It takes 2 h 30 min to 3 h by car. On a budget, take the local train or a shared Sumo to Anantnag and change.",
+    "options": [
+      {"mode": "Train and shared Sumo", "time": "3 h 30 min–4 h", "cost": "₹20–50 train, then ₹100–150 a seat", "text": "Local DEMU trains run from Srinagar to Anantnag in under an hour for a tiny fare. From Anantnag, shared Sumos and minibuses run up the Lidder valley to Pahalgam through the day. It is the cheapest route and avoids highway traffic, but involves a change and waits. Check current train timetables before you travel."},
+      {"mode": "Shared Sumo", "time": "3–3 h 30 min", "cost": "₹250–400 per seat in total", "text": "Shared Sumos run from Srinagar to Anantnag frequently, with onward Sumos to Pahalgam. Some direct seats to Pahalgam are available in peak season. Vehicles leave when full, so mornings are best. Expect tight seating and luggage on the roof, and keep valuables with you."},
+      {"mode": "Private car", "time": "2 h 30 min–3 h", "cost": "₹3,000–4,000 one way", "text": "The easiest option, allowing stops at Pampore's saffron fields, the Avantipora temple ruins and roadside cricket bat workshops near Sangam and Bijbehara. Remember that Srinagar taxis usually cannot do local sightseeing in Pahalgam, where union taxis operate. During the Amarnath Yatra, convoy timings and checks apply."}
+    ],
+    "stops_on_way": ["Pampore saffron fields", "Avantiswami Temple ruins at Awantipora", "Cricket bat workshops around Sangam and Bijbehara", "Martand Sun Temple (detour near Anantnag)"],
+    "road_status": "Open all year; snow can slow the last stretch in winter and yatra convoys apply in July–August. Check current status before you travel.",
+    "tip": "Stop for saffron kahwa in Pampore and the Avantipora ruins on the way; both add under two hours.",
+    "faqs": [
+      {"q": "What is the cheapest way from Srinagar to Pahalgam?", "a": "Take a local train from Srinagar to Anantnag, then a shared Sumo or minibus to Pahalgam. The total is usually under ₹250 per person. Allow 3 h 30 min to 4 h with waiting time, and travel in the morning."},
+      {"q": "How long is the drive from Srinagar to Pahalgam?", "a": "About 90–95 km, 2 h 30 min to 3 h by private car. Add time for stops at Pampore and Avantipora, traffic at Anantnag, and yatra convoys in July and August."},
+      {"q": "Can my Srinagar taxi take me sightseeing in Pahalgam?", "a": "Usually not. Local union rules reserve sightseeing to Aru, Betaab Valley and Chandanwari for Pahalgam-registered taxis at fixed rates. Your Srinagar taxi can drop you and pick you up."},
+      {"q": "Where are the cricket bat factories on the way to Pahalgam?", "a": "Workshops making willow cricket bats line the highway around Sangam and Bijbehara near Anantnag. Many welcome a short visit and sell bats directly. Kashmir willow is grown along the Jhelum."}
+    ]
+  },
+  {
+    "slug": "srinagar-to-sonamarg",
+    "from": "srinagar",
+    "to": "sonamarg",
+    "distance_km": 85,
+    "summary": "Srinagar to Sonamarg is about 80–85 km north-east along the Sindh valley via Ganderbal, Kangan and Gund on NH1. It takes 2 h 30 min to 3 h. Since January 2025 the Z-Morh tunnel keeps the last section open for much of the winter.",
+    "options": [
+      {"mode": "Shared Sumo", "time": "3–3 h 30 min", "cost": "₹250–400 per seat", "text": "Shared Sumos run from Srinagar to Kangan and on to Sonamarg, more frequently in summer. Departures are mainly in the morning, and return seats in the afternoon can be scarce. It is a good budget option for a one-way trip, for example to start the Great Lakes trek, but tricky for a same-day return."},
+      {"mode": "JKSRTC bus", "time": "3 h 30 min–5 h", "cost": "₹150–500 depending on service", "text": "JKSRTC runs local buses up the Sindh valley and has operated seasonal tourist buses to Sonamarg from Srinagar. The Srinagar–Leh bus also passes through Sonamarg. Buses are slow, with many stops, but cheap. Check current timetables at the TRC or bus stand before you travel."},
+      {"mode": "Private car", "time": "2 h 30 min–3 h", "cost": "₹3,000–4,000 day return", "text": "A private taxi is the most practical way to do a Sonamarg day trip, with time for Thajiwas and a riverside lunch. In July and August, Amarnath convoys and Baltal traffic slow the road. In winter, drive only after checking snow clearance and carry chains."}
+    ],
+    "stops_on_way": ["Kheer Bhawani temple at Tulmulla (short detour)", "Manasbal Lake (detour)", "Kangan and Gund riverside", "Sonamarg Tunnel at Z-Morh"],
+    "road_status": "Open year-round to Sonamarg via the Z-Morh tunnel subject to snow clearance; Zoji La beyond usually opens about April or May to November or December. Check current status before you travel.",
+    "tip": "Start before 7.30 am to beat traffic at Kangan and reach Thajiwas before the clouds.",
+    "faqs": [
+      {"q": "Is Srinagar to Sonamarg open in winter?", "a": "Since the Z-Morh (Sonamarg) tunnel opened in January 2025, the road can stay open on many winter days, subject to snow clearance and avalanche warnings. Check current status before you travel and carry chains."},
+      {"q": "How far is Sonamarg from Srinagar?", "a": "About 80–85 km along NH1 through Ganderbal, Kangan and Gund, usually 2 h 30 min to 3 h by car. Yatra traffic in July and August and snow in winter can add time."},
+      {"q": "Can I do Srinagar to Sonamarg as a day trip by public transport?", "a": "It is possible by shared Sumo but tight, because return seats in the afternoon are limited. Leave by 7 am and head back by 2 pm. A private taxi is easier for a same-day return."},
+      {"q": "What can I see on the way to Sonamarg?", "a": "Short detours lead to the Kheer Bhawani temple at Tulmulla and Manasbal Lake. Beyond Kangan, the road follows the Sindh river through narrow forested sections, with roadside trout restaurants near Gund."}
+    ]
+  },
+  {
+    "slug": "srinagar-to-gurez-valley",
+    "from": "srinagar",
+    "to": "gurez-valley",
+    "distance_km": 125,
+    "summary": "Srinagar to Dawar in Gurez is about 123–130 km north via Bandipora, climbing over the Razdan Pass at about 3,300 m. It takes 5–6 hours. The road is open from about late May to November, and registration at checkposts is mandatory.",
+    "options": [
+      {"mode": "Shared Sumo via Bandipora", "time": "6–7 h", "cost": "₹100–200 to Bandipora, then ₹400–700 a seat", "text": "Take a bus or shared Sumo from Srinagar to Bandipora early in the morning, then a shared Sumo from Bandipora to Dawar, which usually departs in the morning and fills quickly. Carry Aadhaar or passport and photocopies for checkposts. It is the cheapest option but needs an early start."},
+      {"mode": "JKSRTC bus to Bandipora", "time": "6–8 h with onward Sumo", "cost": "₹100–200 for the bus leg", "text": "JKSRTC and private buses link Srinagar with Bandipora several times a day. From Bandipora, continue by shared Sumo to Gurez. Buses are slower but comfortable for luggage. Some seasons have seen direct services to Gurez; check current status at the bus stand."},
+      {"mode": "Private car", "time": "5–6 h", "cost": "₹6,000–8,000 one way; ₹13,000–18,000 for 3 days", "text": "A private car from Srinagar is the most flexible way, allowing stops on the Razdan Pass and use of the vehicle for Tulail. Choose a driver who knows the road and the registration process. The pass road is narrow; drive in daylight only and avoid late afternoons when cloud settles."}
+    ],
+    "stops_on_way": ["Wular Lake views near Bandipora", "Tragbal forest", "Razdan Pass, about 3,300 m", "Kanzalwan bridge"],
+    "road_status": "Usually open late May to November; closed by snow on the Razdan Pass the rest of the year. Registration with ID at checkposts is mandatory. Check current status before you travel.",
+    "tip": "Carry several photocopies of your ID; you will register at more than one checkpost.",
+    "faqs": [
+      {"q": "How long does it take from Srinagar to Gurez?", "a": "About 5–6 hours by private car for 123–130 km, including checkpost stops. By bus and shared Sumo via Bandipora, allow 6–8 hours. Start by 7 am to cross the Razdan Pass in good light."},
+      {"q": "When is the Razdan Pass open?", "a": "Usually from about late May or June to November, depending on snowfall. Early and late in the season, sudden snow can close it for days. Check current status before you travel."},
+      {"q": "Do I need a permit to drive to Gurez?", "a": "Indian citizens register with photo ID at checkposts; no separate permit is usually needed. Foreign nationals need prior permission from the Deputy Commissioner in Bandipora. Check current status before you travel."},
+      {"q": "Is the road to Gurez safe?", "a": "It is paved but narrow and steep on the Razdan Pass, with sharp bends and occasional landslides. Drive in daylight with an experienced local driver and follow checkpost instructions. Avoid travel in heavy rain or snow."}
+    ]
+  },
+  {
+    "slug": "pahalgam-to-aru-valley",
+    "from": "pahalgam",
+    "to": "aru-valley",
+    "distance_km": 12,
+    "summary": "Pahalgam to Aru is a 12 km drive up the West Lidder valley through pine forest, 30–40 minutes by union taxi. Fit walkers can hike it along a forest trail in about 3–4 hours, and ponies are available.",
+    "options": [
+      {"mode": "Union taxi", "time": "30–40 min", "cost": "₹1,200–2,000 return per car", "text": "Pahalgam's taxi union runs fixed-rate trips to Aru from the main stand, often combined with Betaab Valley and Chandanwari in a full-day package. Rates are printed on the stand's list. Srinagar taxis generally cannot do this run. Agree waiting time if you are returning the same day."},
+      {"mode": "Shared taxi", "time": "40 min–1 h", "cost": "₹100–200 a seat", "text": "In season, shared taxis sometimes run between Pahalgam and Aru, mainly in the morning, used by villagers and trekkers. They are not guaranteed; ask at the stand the evening before. A good option if you are staying overnight in Aru with light luggage."},
+      {"mode": "Walk or pony", "time": "3–4 h on foot", "cost": "Free on foot; pony ₹1,200–2,000", "text": "A forest trail climbs gently from Pahalgam along the West Lidder to Aru, passing meadows and herders' camps. It is a fine half-day walk for fit hikers. Ponies can carry luggage or riders. Take a guide if unsure of the path, and avoid walking alone late in the day."}
+    ],
+    "stops_on_way": ["West Lidder river viewpoints", "Pine forest meadows", "Herders' camps in summer"],
+    "road_status": "Open from about April to November; snow can close it in winter depending on clearance. Check current status before you travel.",
+    "tip": "Stay a night in Aru and take the first taxi of the morning to see the meadow before day-trippers.",
+    "faqs": [
+      {"q": "How far is Aru from Pahalgam?", "a": "About 12 km up the West Lidder valley, 30–40 minutes by taxi. Walking the forest trail takes 3–4 hours for fit hikers."},
+      {"q": "What does a taxi from Pahalgam to Aru cost?", "a": "Union taxis charge fixed rates, roughly ₹1,200–2,000 for an Aru return, or more as part of a full circuit including Betaab Valley and Chandanwari. Rates are printed at the Pahalgam taxi stand."},
+      {"q": "Can I walk from Pahalgam to Aru?", "a": "Yes. A trail through pine forest along the West Lidder takes 3–4 hours, gaining a little over 200 m. It is a pleasant walk for fit hikers. Carry water, start early and consider a local guide."},
+      {"q": "Is the Aru road open in winter?", "a": "Snow can close it for days or weeks between December and March, depending on clearance. In late autumn and early spring it is often open but icy. Check current status in Pahalgam before you travel."}
+    ]
+  }
+]

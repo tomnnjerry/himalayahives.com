@@ -1,0 +1,60 @@
+{
+  "slug": "kumaon-comfort-lakes-family-6n",
+  "title": "Kumaon lakes family holiday",
+  "region": "kumaon",
+  "tier": "comfort",
+  "nights": 6,
+  "themes": ["family-holidays", "adventure-sports", "wildlife-and-birds", "road-trips"],
+  "stops": [{"place": "nainital", "nights": 3}, {"place": "bhimtal-sattal", "nights": 3}],
+  "start": "Kathgodam railway station",
+  "end": "Kathgodam railway station",
+  "price_from_inr": 42000,
+  "price_note": "Per person, twin sharing: 6 nights in good hotels with breakfast and dinner, private car with driver for all days, boat rides and ropeway; trains extra; child rates on request.",
+  "transport": "Private car with driver",
+  "group": "Private",
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Unhurried",
+  "meta_description": "Kumaon lakes family trip, 6 nights: Nainital, Bhimtal, Sattal and Naukuchiatal with a private car, boats, ropeway, Kaladhungi and short walks, from ₹42,000.",
+  "summary": "Six easy nights around Kumaon's lakes for families: three in Nainital at The Naini Retreat above the lake, three by the quieter waters of Bhimtal and Naukuchiatal. Boats, the ropeway, a short ridge walk, Jim Corbett's house at Kaladhungi, kayaking and a dawn birding walk at Sattal, with a private car and short drives.",
+  "intro": [
+    "Kumaon's lake district is the easiest Himalayan holiday for children. Kathgodam station is 35 km from Nainital and 22 km from Bhimtal, drives are short, and every day has water, boats or forest. We keep travel under two hours on any day, choose hotels with space to run around, and leave afternoons free for rest.",
+    "The first three nights are in Nainital, at The Naini Retreat on the Ayarpata slope, above the noise of the Mall. The car takes you down to the lake when you want it and back up when legs are tired. The second half moves to Bhimtal or Naukuchiatal, where the pace is slower: kayaks, paddle boats, a lakeside walk and an early birding walk at Sattal for curious children."
+  ],
+  "highlights": [
+    "Rowing boats and the Naina Devi temple on Naini lake",
+    "The Snow View ropeway and a short forest walk down",
+    "Jim Corbett's house and museum at Kaladhungi",
+    "Kayaking on Naukuchiatal and boats to Bhimtal's island",
+    "A gentle dawn birding walk at Sattal"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive Kathgodam, up to Nainital", "place": "nainital", "overnight": "The Naini Retreat, Nainital", "drive": "≈ 35 km · 1.5 h", "text": "Your driver meets you at Kathgodam station, usually off the Shatabdi around midday. The road climbs through Jeolikote's forest to Nainital in about 1.5 hours; we stop for tea if anyone feels queasy. Check in at The Naini Retreat on the Ayarpata slope and rest. In the late afternoon, the car drops you at the Mall for a gentle lakeside walk and an early dinner.", "meals": "Dinner"},
+    {"day": 2, "title": "Boats, Naina Devi and the ropeway", "place": "nainital", "overnight": "The Naini Retreat, Nainital", "drive": "", "text": "Start with a rowing boat across the lake to the Naina Devi temple while it is calm. Walk across the Flats, where the 1880 landslip happened, and ride the ropeway to Snow View. Children enjoy the walk down through the forest, about 45 minutes. Afternoon free at the hotel; in the evening, browse Mallital for candles and woollens.", "meals": "Breakfast, Dinner"},
+    {"day": 3, "title": "Kaladhungi and Corbett's house", "place": "nainital", "overnight": "The Naini Retreat, Nainital", "drive": "≈ 70 km round trip · 3 h", "text": "Drive down the Kaladhungi road through oak, pine and then sal forest, about 1,500 m lower in 35 km. Visit the Jim Corbett Museum at Chhoti Haldwani, his old winter home, with his furniture, maps of the man-eater hunts and the graves of his dogs in the garden. Stop at the Corbett waterfall nearby if it is open. Return to Nainital for a quiet evening.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Nainital to Bhimtal via Kainchi Dham", "place": "bhimtal-sattal", "overnight": "Lakeside hotel, Bhimtal or Naukuchiatal", "drive": "≈ 50 km · 2 h", "text": "Check out after breakfast. On a weekday, stop at Kainchi Dham, 17 km away, to see the temple by the Shipra stream; skip it on weekends and around 15 June. Continue via Bhowali to Bhimtal and check into a lakeside hotel. In the late afternoon, walk the lake road to the dam and the Bhimeshwar shrine.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Kayaks and the island aquarium", "place": "bhimtal-sattal", "overnight": "Lakeside hotel, Bhimtal or Naukuchiatal", "drive": "≈ 10 km · 30 min", "text": "Drive to Naukuchiatal for a morning on the water: kayaks for older children and adults, paddle boats for the rest, all with life jackets. After lunch, take a boat to the island aquarium in Bhimtal lake. Teenagers who want more can try a tandem paragliding flight in dry months with a licensed operator, at extra cost.", "meals": "Breakfast, Dinner"},
+    {"day": 6, "title": "Sattal at dawn", "place": "bhimtal-sattal", "overnight": "Lakeside hotel, Bhimtal or Naukuchiatal", "drive": "≈ 20 km round trip · 1 h", "text": "An early start for those who want it: a local birding guide leads a two-hour walk on the Sattal forest road, pointing out blue magpies, barbets and kingfishers. Return for a late breakfast. Spend the rest of the day at the hotel, or visit the Sattal Christian Ashram and sit by the lakes with a picnic.", "meals": "Breakfast, Dinner"},
+    {"day": 7, "title": "Back to Kathgodam", "place": "bhimtal-sattal", "overnight": "", "drive": "≈ 22 km · 45 min", "text": "A relaxed morning, then the short drive down to Kathgodam station, 45 minutes from Bhimtal. We time the departure for your train, with a buffer for traffic, and stop for kafal or local fruit in season on the way.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-naini-retreat"],
+  "includes": ["6 nights in good hotels, twin sharing, with breakfast and dinner", "Private car with driver from Kathgodam and back, all transfers and sightseeing", "One rowing boat on Naini lake and the Snow View ropeway", "Jim Corbett Museum entry", "Kayak or paddle boat hire at Naukuchiatal and a Sattal birding guide"],
+  "excludes": ["Train fares", "Lunches", "Paragliding and other optional activities", "Kainchi Dham shuttle charges if applied", "Tips for driver and guides"],
+  "good_to_know": [
+    "All stays are below 2,100 m; altitude is not an issue for children.",
+    "Carry motion-sickness tablets; the Kathgodam and Kaladhungi roads are winding.",
+    "In May and June, traffic in Nainital is heavy; we start outings early.",
+    "Hotels on slopes have steps; tell us about prams or mobility needs and we choose rooms accordingly.",
+    "Boats and kayaks always with life jackets; the driver will wait while you are on the water."
+  ],
+  "faqs": [
+    {"q": "Is Nainital good for a family holiday?", "a": "Yes. It is close to the railhead, has boats, a ropeway and easy walks, and is under 2,100 m. Pairing it with calmer Bhimtal gives children space and parents rest."},
+    {"q": "What is the cost of this trip for a family of four?", "a": "The price is ₹42,000 per person on twin sharing. Children sharing a room with parents usually cost much less; we quote exact child rates by age and hotel when you enquire."},
+    {"q": "What age is this trip suitable for?", "a": "All ages. Toddlers enjoy boats and gardens; older children enjoy kayaking, the ropeway and birding. Paragliding is only for older teenagers, with operator rules."},
+    {"q": "Do we need a car for the whole trip?", "a": "Yes, it is included. A private car makes short drives easy with children and luggage, and lets you avoid Nainital's crowded taxi stands."},
+    {"q": "What is the best time for a family trip to the Kumaon lakes?", "a": "March to June and September to December. School holidays in May and June are busiest; October and the Christmas break are calmer with clear views."},
+    {"q": "Can we add Mukteshwar or Ranikhet?", "a": "Yes. Add two nights at Mukteshwar for orchards and cliffs, or Ranikhet for the regimental museum and Chaubatia orchards. Both are about 2 hours from Nainital."},
+    {"q": "Is The Naini Retreat child-friendly?", "a": "It has gardens and space away from the Mall's traffic, which suits families. Some areas involve steps on the slope. We request rooms that suit your family."},
+    {"q": "How do we get to Kathgodam from Delhi?", "a": "The Shatabdi from New Delhi takes about six hours and arrives around midday. Overnight trains and Roadways buses are alternatives. We can advise on booking."},
+    {"q": "Is the food suitable for children?", "a": "Hotels serve Indian and continental dishes and can make simple food on request. Try Kumaoni dishes like aloo ke gutke and bal mithai along the way."}
+  ]
+}

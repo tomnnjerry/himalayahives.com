@@ -1,0 +1,57 @@
+{
+  "slug": "kumaon-saver-weekend-nainital-bhimtal-3n",
+  "title": "Long weekend from Delhi: Nainital and Bhimtal",
+  "region": "kumaon",
+  "tier": "saver",
+  "nights": 3,
+  "themes": ["family-holidays", "road-trips", "photography"],
+  "stops": [{"place": "bhimtal-sattal", "nights": 1}, {"place": "nainital", "nights": 2}],
+  "start": "Kathgodam railway station (overnight train from Delhi)",
+  "end": "Kathgodam railway station (overnight train to Delhi)",
+  "price_from_inr": 7500,
+  "price_note": "Per person, twin sharing: 3 nights in clean guesthouses with breakfast, shared taxis from and to Kathgodam, one boat ride; trains from Delhi extra.",
+  "transport": "Overnight train to Kathgodam, shared taxis and walking",
+  "group": "Private",
+  "best_months": [1, 1, 2, 2, 1, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "meta_description": "Saver long weekend in Kumaon from Delhi: 3 nights in Bhimtal, Sattal and Nainital by overnight train and shared taxi, from ₹7,500 per person.",
+  "summary": "A three-night long weekend from Delhi that uses the overnight train both ways, so you lose no daylight. One night at Bhimtal for the quieter lakes and Sattal's birds, two in Nainital for the dawn row, the ridges and Kainchi Dham. Honest guesthouse rooms and shared taxis keep it affordable.",
+  "intro": [
+    "The trick to a cheap weekend in Kumaon is the train. Take the overnight Ranikhet Express or a similar service from Delhi on Thursday or Friday night, wake at Kathgodam around dawn, and you are at Bhimtal before breakfast. Going home, the evening train from Kathgodam has you back in Delhi for work. Sleeper class is cheapest; 3AC is warmer and more comfortable.",
+    "We start at Bhimtal rather than Nainital because it is 45 minutes from the station, calmer and cheaper, and Sattal's lakes and birds are close. Then two nights in Nainital give time for the lake at dawn, Snow View or Tiffin Top, and a morning at Kainchi Dham. Rooms are simple guesthouses with attached bathrooms; on long weekends prices rise, so book early."
+  ],
+  "highlights": [
+    "Overnight train both ways, so three full days in the hills",
+    "Sattal's forest lakes and birds at dawn",
+    "A hand-rowed boat to the Naina Devi temple at first light",
+    "Snow View ropeway or the Tiffin Top walk on Ayarpata",
+    "An early weekday visit to Kainchi Dham"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathgodam to Bhimtal and Sattal", "place": "bhimtal-sattal", "overnight": "Bhimtal", "drive": "≈ 22 km · 45 min", "text": "Arrive at Kathgodam around dawn on the overnight train and take a shared taxi to Bhimtal for ₹100–150. Check in, rest and have breakfast by the lake. Late morning, walk the lake road to the dam and the Bhimeshwar shrine and take a boat to the island aquarium. In the afternoon, share a taxi to Sattal, 10 km away, for a slow walk around the lakes and tea by the water. Back in Bhimtal, eat at a local dhaba and sleep early.", "meals": "Breakfast"},
+    {"day": 2, "title": "Sattal at dawn, then up to Nainital", "place": "nainital", "overnight": "Nainital", "drive": "≈ 22 km · 1 h", "text": "If you like birds, take an early taxi back to Sattal for an hour on the forest road, when barbets and blue magpies are active. Otherwise enjoy a slow breakfast. Late morning, take a shared taxi up to Nainital via Bhowali. Check into a guesthouse in the Mallital lanes, then walk the Mall Road to Tallital and back along the quieter western side. In the evening, see the lake lights from the Flats and try a Kumaoni thali in Mallital.", "meals": "Breakfast"},
+    {"day": 3, "title": "Dawn row, ridges and Kainchi Dham", "place": "nainital", "overnight": "Nainital", "drive": "≈ 34 km round trip · 1.5 h", "text": "Be at the Tallital jetty by 6:30 am for a hand-rowed boat across to the Naina Devi temple while the lake is still. After breakfast, ride the ropeway to Snow View or walk up to Tiffin Top on Ayarpata for views north to the snow peaks. After lunch, take a shared taxi to Kainchi Dham, 17 km away, if it is a weekday; on busy days follow police shuttle arrangements. Return to Nainital for a last evening on the Mall.", "meals": "Breakfast"},
+    {"day": 4, "title": "Morning free, evening train to Delhi", "place": "nainital", "overnight": "On the train", "drive": "≈ 35 km · 1.5 h", "text": "Keep the morning easy: walk up to St John in the Wilderness, browse the Mallital bazaar for candles and woollens, or take a pedal boat on the lake. Check out by noon and leave your bag with the guesthouse. After lunch, take a shared taxi down to Kathgodam, allowing at least two hours for the drive and possible traffic on the hill road. Board the evening train and arrive in Delhi the next morning.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": ["3 nights in guesthouses with attached bathrooms, twin sharing", "Daily breakfast", "Shared taxis Kathgodam–Bhimtal, Bhimtal–Nainital and Nainital–Kathgodam", "One rowing boat ride on Naini lake", "Pre-trip help with train booking and a printed day plan"],
+  "excludes": ["Train fares from and to Delhi", "Lunches and dinners", "Taxis to Sattal and Kainchi Dham", "Ropeway and entry tickets", "Long-weekend and peak-season surcharges"],
+  "good_to_know": [
+    "Book trains as soon as reservations open; weekend berths to Kathgodam sell out quickly.",
+    "Rooms in Nainital cost much more on long weekends and in May–June; we confirm the actual rate before you pay.",
+    "All stays are below 2,100 m, so altitude is not a concern for healthy travellers.",
+    "Traffic on the Kathgodam–Nainital road can be heavy; keep a two-hour buffer before your train.",
+    "Guesthouses are simple: clean rooms and hot water, but small and sometimes up steps."
+  ],
+  "faqs": [
+    {"q": "Which train should I take from Delhi to Kathgodam for a weekend?", "a": "The overnight Ranikhet Express from Delhi Junction is the classic choice, arriving at Kathgodam early morning. Other overnight services also run. Book as early as possible and check current timings before you travel."},
+    {"q": "Is ₹7,500 the full cost of this weekend?", "a": "It covers 3 nights' rooms with breakfast, shared taxis and one boat ride, per person on twin sharing. Add trains (about ₹700–2,000 return per person by class), meals of ₹500–800 a day and tickets. Long weekends cost more."},
+    {"q": "Can we do this trip by bus instead of train?", "a": "Yes. Uttarakhand Roadways runs overnight buses from Delhi's Anand Vihar to Haldwani and Nainital, including Volvo services. The train is usually more comfortable and predictable."},
+    {"q": "Is this trip good for families with children?", "a": "Yes. The drives are short, Bhimtal is calm, and children enjoy boats and the ropeway. Carry motion-sickness tablets for the hill road and warm layers for the evenings."},
+    {"q": "Can we stay only in Nainital instead of Bhimtal?", "a": "You can, but Bhimtal on the first night means a shorter ride after the train, lower prices and a quieter start. It also puts Sattal within easy reach."},
+    {"q": "What is the weather like for this weekend trip?", "a": "Days are mild most of the year, about 15–25 °C from March to June and October, and colder from November to February with near-freezing nights. July and August are rainy."},
+    {"q": "Is it safe for a solo woman to do this trip?", "a": "Yes, this is a well-travelled route. Use taxis from the official stands, stay in central Mallital, and avoid forest paths after dark. We share guesthouses with good records for solo guests."},
+    {"q": "Can we add Mukteshwar to this weekend?", "a": "Not comfortably in three nights. Add a fourth night and go to Mukteshwar from Nainital via Bhowali, about 2 hours each way."},
+    {"q": "What if the train is late?", "a": "The plan has slack on the first day. If the train is very late, we move the Sattal walk to the second morning. On the last day, leave Nainital early enough to reach Kathgodam two hours before departure."}
+  ]
+}

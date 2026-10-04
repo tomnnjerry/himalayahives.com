@@ -1,0 +1,146 @@
+{
+  "slug": "thimphu",
+  "name": "Thimphu",
+  "region": "bhutan",
+  "kind": "city",
+  "wiki": "Thimphu",
+  "image_query": "Thimphu city Tashichho Dzong valley",
+  "lat": 27.47,
+  "lng": 89.64,
+  "altitude_m": 2320,
+  "tagline": "A capital without traffic lights, run from a dzong",
+  "meta_description": "Thimphu guide: Tashichho Dzong, Buddha Dordenma, the takin preserve, archery, weekend market, budget to luxury stays and honest costs for Indians.",
+  "summary": "Thimphu, at 2,248–2,648 m on the Wang Chhu, has been Bhutan's capital since 1955 and officially since 1961. It is the country's largest city yet still has no traffic lights. Spend two nights: Tashichho Dzong at evening, Buddha Dordenma, the takin preserve, an archery match, the weekend market and the crafts school.",
+  "intro": [
+    "Thimphu stretches north to south along the west bank of the Wang Chhu, a valley of about 100,000 people that was a scatter of hamlets before 1960. The third king made it the seat of government, rebuilt Tashichho Dzong in the 1960s, and the city grew from there. By regulation, buildings follow traditional design with painted window frames and sloping roofs, so even the apartment blocks look Bhutanese.",
+    "The centre is small. Norzin Lam is the main street, with a white-gloved policeman directing traffic from a painted pavilion at the main junction: local authorities once installed traffic lights and removed them before they went live. Clock Tower Square is the meeting point. Below the town on the river is the Centenary Farmers Market, busiest Friday to Sunday, where you can see 20 kinds of chilli and blocks of datshi cheese.",
+    "Thimphu is where you sort out practical things, change money, buy a SIM and, for Indians who entered at Phuentsholing, pick up any extra permits your operator needs. It is also the best place to understand modern Bhutan: archers at Changlimithang, students at the crafts school, monks and ministers sharing Tashichho Dzong. Most trips spend two nights here between Paro and Punakha."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Paro International Airport, ≈ 54 km"],
+    ["From Phuentsholing", "≈ 150 km · 5–6 h"],
+    ["Altitude", "2,248–2,648 m"],
+    ["Known for", "Tashichho Dzong, Buddha Dordenma, archery, weekend market"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 1, 0, 0, 2, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Tashichho Dzong at dusk", "text": "The seat of government since 1968 holds the throne room, ministries and the summer quarters of the central monk body. Tourists visit in the late afternoon on working days, after offices close, when the flag is lowered in the courtyard."},
+    {"title": "Buddha Dordenma", "text": "A 54 m gilded bronze Buddha completed in 2015 on the ruins of Kuensel Phodrang, the palace of the 13th Druk Desi. Inside are about 125,000 smaller gilded Buddhas. The terrace gives a full view of the valley."},
+    {"title": "Royal Takin Preserve", "text": "The takin, Bhutan's national animal, lives in a 3.4 hectare fenced forest at Motithang. It began as a mini-zoo; when the king ordered the animals freed, they wandered the city streets for weeks and were given this reserve instead."},
+    {"title": "Archery at Changlimithang", "text": "Archery has been the national sport since 1971. Teams shoot traditional bamboo or compound bows at small painted targets about 145 m away, singing and teasing their rivals. Changlimithang's range is next to the national stadium."},
+    {"title": "Centenary Farmers Market", "text": "The two-storey market on the river sells chillies by the kilo, dried yak cheese, red rice, fern fronds and betel nut. Across the cantilever footbridge are handicraft stalls. Go Friday to Sunday morning."},
+    {"title": "Institute for Zorig Chusum", "text": "Students train in Bhutan's 13 traditional arts: painting, wood carving, embroidery, sculpture and more. Visitors can watch classes in session on weekdays during term. Entry is about Nu 200."}
+  ],
+  "field_notes": [
+    {"fact": "Thimphu is one of only two national capitals in the world without traffic lights, the other being Ngerulmud in Palau. A set of lights was installed in the city and removed before it ever operated.", "source": "Thimphu"},
+    {"fact": "Simtokha Dzong, 5 km south of the city, was built by the Zhabdrung in 1629 and is the oldest dzong surviving in its original form; since 1961 it has housed a school of Dzongkha language and Buddhist studies.", "source": "Simtokha Dzong"},
+    {"fact": "The Memorial Chorten was built in 1974 in memory of the third king and, unlike most stupas, holds no human remains; his mother, Queen Phuntsho Choden, was its main patron.", "source": "Memorial Chorten, Thimphu"}
+  ],
+  "local_word": {"word": "Da", "language": "Dzongkha", "meaning": "arrow; also the word for archery"},
+  "costs": [
+    ["Buddha Dordenma entry", "Nu 300–1,000 (check current status)"],
+    ["Takin Preserve entry", "Nu 300"],
+    ["Paro–Thimphu taxi, whole car", "₹1,200–2,000"],
+    ["Local SIM with data pack", "₹300–700"],
+    ["Plate of momos in a local cafe", "₹120–250"],
+    ["Simple certified hotel, double", "₹2,500–4,500 a night"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly into Paro, then drive about 54 km and 1 h 15 min to Thimphu along the Paro Chhu and Wang Chhu. Your guide meets you at the airport."},
+    {"mode": "Bus", "text": "Public coaches run Phuentsholing–Thimphu in about 5–6 hours and Thimphu–Punakha in about 3 hours, for a few hundred ngultrum. Tourists need their licensed guide with them beyond the first checkpoint; check current status before you travel."},
+    {"mode": "Road", "text": "From Phuentsholing it is about 150 km and 5–6 hours via Gedu and Chhuzom. From Punakha it is about 72 km and 2.5–3 hours over Dochu La at 3,100 m."}
+  ],
+  "where_to_stay": "Saver travellers use the tourist-certified hotels off Norzin Lam and near Clock Tower Square, with doubles around ₹2,500–4,500. Comfort picks include Hotel Druk on Clock Tower Square, open since 1985, and Le Méridien Thimphu. Signature stays are Taj Tashi in the centre, Six Senses Thimphu on a ridge above the valley and Amankora Thimphu in pine forest near Dechencholing Palace at the north end of the city.",
+  "stays": ["hotel-druk-thimphu"],
+  "tips": [
+    "Visit Tashichho Dzong after 5 pm on working days, when government offices close; it is open for longer on public holidays.",
+    "Go to the weekend market on Saturday morning before 10 am for the best produce and fewest crowds.",
+    "Buy your local SIM in Thimphu, where B-Mobile and TashiCell offices are easy to find.",
+    "Ask your guide if there is an archery match on; weekends and holidays are best.",
+    "Restaurants close early; plan dinner by 8.30 pm outside the big hotels."
+  ],
+  "themes": ["monasteries", "festivals", "food-and-tea", "photography"],
+  "nearby": ["paro", "dochula", "punakha", "haa"],
+  "experiences": [
+    {
+      "slug": "thimphu-tashichho-dzong-evening",
+      "title": "Tashichho Dzong at flag-lowering time",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "5–6 pm on working days, all year",
+      "cost": "Entry Nu 500–1,000 (check current status)",
+      "image_query": "Tashichho Dzong Thimphu evening",
+      "wiki": "Tashichho Dzong",
+      "summary": "See the seat of Bhutan's government and the summer home of its monk body in the hour after offices shut, when the national flag is lowered with a small ceremony and the white walls turn gold.",
+      "body": [
+        "Tashichho Dzong, the 'fortress of the glorious religion', stands on the west bank of the Wang Chhu at the north end of Thimphu. An older dzong on the ridge above dates to 1216; the Zhabdrung took it over in 1641, and after fires and an 1897 earthquake the present building was largely rebuilt by the third king from 1962 to 1968. Only the central tower, the Lhakhang Sarp and the main protector temple survive from the earlier dzong.",
+        "Today it holds the king's throne room, the cabinet secretariat and the ministries of home affairs and finance, and in summer the Je Khenpo and central monk body. Because it is a working government building, tourists can usually enter only after 5 pm on working days, and for longer on public holidays. Security checks are light but real: carry your permit and expect a bag check.",
+        "Arrive at about 5 pm to watch the flag-lowering at the main courtyard. Your guide will put on a kabney, the ceremonial scarf. You can photograph the courtyards but not the temples. Afterwards, walk to the lawn outside for a view of the dzong against the hills, then drive back to town past the National Assembly building."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "When can tourists visit Tashichho Dzong?", "a": "Usually from about 5 pm to 6 pm on working days and during the day on public holidays, because it is a government office. Timings change for state events, so check current status before you travel and let your guide plan the slot."},
+        {"q": "Is the Thimphu Tshechu held at Tashichho Dzong?", "a": "Yes. The Thimphu Tshechu takes place in the dzong's courtyard and grounds in September or October; in 2026 it ran 21–23 September. During the festival the dzong is crowded and access rules change."},
+        {"q": "What should I wear?", "a": "Long sleeves and long trousers or a skirt, closed shoes, no caps. Shorts and sleeveless tops are not allowed. Indians can rent or buy a gho or kira in Thimphu if they want to dress the local way for festivals."}
+      ]
+    },
+    {
+      "slug": "thimphu-buddha-dordenma-and-takin",
+      "title": "Buddha Dordenma and the takin preserve",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "9 am – 1 pm, Sep – May",
+      "cost": "Dordenma Nu 300–1,000; takin Nu 300",
+      "image_query": "Buddha Dordenma statue Thimphu",
+      "wiki": "Buddha Dordenma statue",
+      "summary": "Two of Thimphu's easiest half-day stops: the giant gilded Buddha above the city's southern approach and the forest enclosure at Motithang where Bhutan's national animal, the takin, lives.",
+      "body": [
+        "Buddha Dordenma sits on a ridge about 100 m above the Wang Chhu at the south end of Thimphu, on the ruins of Kuensel Phodrang, palace of the 13th Druk Desi. Construction began in 2006 and finished in 2015. The bronze statue, gilded in gold, is about 54 m tall and houses 100,000 eight-inch and 25,000 twelve-inch gilded Buddhas. It marks the 60th birthday of the fourth king and the centenary of the monarchy.",
+        "The surrounding Kuensel Phodrang nature park protects about 943 acres of forest, with walking paths and outdoor gyms opened in 2015. Take the stairs down from the terrace for a quieter view. Shoes come off inside the meditation hall under the statue, and photography inside is not allowed.",
+        "Across the valley, the Royal Takin Preserve at Motithang is a 3.4 hectare fenced forest for the takin, which looks like a cross between a goat and a cow. Legend says the saint Drukpa Kunley created it by sticking a goat's head on a cow's skeleton. The animals were once kept in a mini-zoo; when released, they stayed in town, so the preserve was made. Come in the morning when they feed."
+      ],
+      "good_for": ["families", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How tall is Buddha Dordenma?", "a": "About 54 m (177 ft), making it one of the largest Buddha statues in the world. It was completed in September 2015 and holds 125,000 smaller gilded Buddhas inside. The terrace views stretch over most of Thimphu."},
+        {"q": "Why is the takin Bhutan's national animal?", "a": "It is linked to a 15th-century legend in which the saint Drukpa Kunley created the takin from the bones of a cow and the head of a goat. The Bhutan takin is a vulnerable goat-antelope that lives wild in the high forests of Gasa and other northern districts."},
+        {"q": "Can I feed the takin?", "a": "No. Hand-feeding through the fence has made several animals obese, according to the preserve's own history. Watch quietly from the paths, and keep children from poking fingers through the wire."}
+      ]
+    },
+    {
+      "slug": "thimphu-archery-and-weekend-market",
+      "title": "Archery match and the weekend market",
+      "kind": "food",
+      "duration": "3–4 hours",
+      "best_time": "Saturday or Sunday, 8 am – 12 pm",
+      "cost": "Free; budget ₹300–800 for snacks and produce",
+      "image_query": "Bhutan archery traditional bow Thimphu",
+      "wiki": "Archery in Bhutan",
+      "summary": "Spend a weekend morning the Thimphu way: chillies, cheese and red rice at the Centenary Farmers Market, then an archery match at Changlimithang, where teams sing, dance and heckle across a 145 m range.",
+      "body": [
+        "Start at the Centenary Farmers Market on the river below Norzin Lam, which runs through the week but is fullest from Friday to Sunday. The ground floor is all vegetables: piles of green and red chillies, bunches of fern fronds called nakey, wild mushrooms in season and red rice from Paro and Punakha. Upstairs are dried fish, chugo (hard dried yak cheese on a string), datshi and betel. Ask before photographing stallholders.",
+        "Walk over the cantilever footbridge to the handicraft stalls on the east bank for prayer flags, wooden bowls and textiles. Prices are negotiable within reason. A plate of momos or a bowl of thukpa from a nearby cafe costs ₹120–250.",
+        "Then head to the archery range beside Changlimithang Stadium. Archery was declared Bhutan's national sport in 1971. Teams of 13 shoot two arrows each at small wooden targets about 145 m away, first in one direction and then back. When an archer hits, teammates dance and sing; rivals shout insults to put him off. Stand well to the side, never behind the target, and ask your guide to explain the scoring."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "When are archery matches held in Thimphu?", "a": "Practice and matches run most weekends and on public holidays, with major tournaments around Losar and the Coronation National Archery tournament. Your guide can find out where a game is on. Matches can last all day, so drop in for an hour."},
+        {"q": "Can tourists try archery?", "a": "Sometimes. The Folk Heritage Museum in Thimphu offers short archery sessions, and some hotels and operators arrange a try with traditional bamboo bows. Never walk onto a live range."},
+        {"q": "What should I buy at the weekend market?", "a": "Dried red chillies, Bhutanese red rice, chugo dried cheese, local honey, buckwheat flour and incense. Check India's customs rules before carrying food home; dried goods in small amounts are normally fine."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days do I need in Thimphu?", "a": "Two nights is right for most trips. Day one: Buddha Dordenma, the takin preserve, Memorial Chorten and Tashichho Dzong in the evening. Day two: the crafts school, the weekend market if it is a weekend, Simtokha Dzong and an archery match. Add a night for a Phajoding or Tango monastery hike."},
+    {"q": "Is Thimphu expensive?", "a": "For Indian travellers, day-to-day costs are similar to an Indian hill town: momos ₹120–250, a local meal ₹250–450, a simple double ₹2,500–4,500. The real extras are the ₹1,200 nightly SDF and the guide and vehicle, which a group of four can share."},
+    {"q": "Do Indians need extra permits in Thimphu?", "a": "As we understand it, the entry permit covers Paro and Thimphu, and districts beyond them must be listed on your permit. Licensed operators usually arrange this online before you arrive; if not, the immigration office in Thimphu handles it on working days. Check current status before you travel."},
+    {"q": "What is the altitude of Thimphu?", "a": "The city spans 2,248–2,648 m, which makes it Asia's highest capital. Most visitors feel only mild breathlessness on stairs. Drink water, go easy on alcohol the first night and talk to your doctor if you have heart or lung conditions."},
+    {"q": "Where can I exchange money in Thimphu?", "a": "Bank of Bhutan and Bhutan National Bank branches and ATMs line Norzin Lam, and larger hotels exchange US dollars. Indian rupees are accepted at par almost everywhere. Some merchants accept Indian UPI QR payments, but carry cash."},
+    {"q": "Is Thimphu safe for solo travellers?", "a": "Yes, by regional standards. Streets are calm, police are visible and your guide is never far away. At night the centre empties early. Watch your step on unlit pavements and keep away from packs of stray dogs after dark."},
+    {"q": "What is the best time to visit Thimphu?", "a": "March to May and September to November, especially around the Thimphu Tshechu in September or October. Winter is cold but clear, with fewer visitors and lower hotel rates. July and August are wet."},
+    {"q": "Can I visit Thimphu on a day trip from Paro?", "a": "You can, since it is only about 55 km, but you will miss the evening at Tashichho Dzong and the weekend market. We suggest at least one night. If you are short of time, sleep in Thimphu and do Paro's sights on your way out."},
+    {"q": "Is there nightlife in Thimphu?", "a": "A little: a few bars, karaoke places and live music venues on and around Norzin Lam, mostly busy on Friday and Saturday. Smoking is banned in public places. Alcohol is sold in licensed bars, and Tuesdays have long been a dry day in Bhutan; check current status before you travel."}
+  ]
+}

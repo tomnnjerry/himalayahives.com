@@ -1,0 +1,146 @@
+{
+  "slug": "kathmandu",
+  "name": "Kathmandu",
+  "region": "nepal",
+  "kind": "city",
+  "wiki": "Kathmandu",
+  "image_query": "Kathmandu Durbar Square temples",
+  "lat": 27.7172,
+  "lng": 85.324,
+  "altitude_m": 1400,
+  "tagline": "Stupas, a living goddess and the start of every trek",
+  "meta_description": "Kathmandu travel guide: Durbar Square, Swayambhunath, Boudhanath, Thamel stays from hostels to Dwarika's, real costs in INR and NPR, and how to get in.",
+  "summary": "Kathmandu is Nepal's capital and the start of most trips, at about 1,400 m in the Kathmandu valley. Give it two or three nights: Durbar Square and the Kumari, the stupas of Swayambhunath and Boudhanath, and Pashupatinath on the Bagmati. Stay in Thamel for budget and trek logistics, or Battisputali for Dwarika's.",
+  "intro": [
+    "Kathmandu takes its name from Kasthamandap, a wooden pavilion beside Durbar Square; the Sanskrit words mean wood and pavilion. Newar people, the valley's original city-builders, still call it Yen. The old city is a grid of brick courtyards, shrines at every crossing and markets that run from Asan to Indra Chowk, while Thamel to the north is the guesthouse quarter where trekkers buy gear and book buses. It is noisy and dusty, and the temples are worth every minute of it.",
+    "The valley's UNESCO World Heritage listing of 1979 covers seven monument zones, and four of them are in or around Kathmandu: Hanuman Dhoka Durbar Square, Swayambhunath, Boudhanath and Pashupatinath. Many buildings fell in the April 2015 earthquake. Kasthamandap itself collapsed and has been rebuilt with traditional joinery, and Boudhanath's cracked spire was restored and reopened in November 2016 with community money and gold.",
+    "For Indian travellers, Kathmandu is a short flight from Delhi or a long bus ride from Sunauli or Raxaul. Pashupatinath, one of the most important Shiva temples in South Asia, draws many families on its own. Plan at least two full days, more if you want to add Patan and Bhaktapur as day trips, and keep a spare day before any Lukla flight."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Tribhuvan International Airport (KTM), ≈ 6 km from Thamel"],
+    ["From Sunauli border", "≈ 280 km · 8–10 h"],
+    ["Altitude", "1,400 m"],
+    ["Known for", "Durbar Square, Kumari, Swayambhunath, Boudhanath, Pashupatinath, Thamel"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Kathmandu Durbar Square", "text": "The old royal square of Hanuman Dhoka holds the palace courtyards, the Kumari Ghar where the living goddess lives, and Kasthamandap, rebuilt after the 2015 earthquake. SAARC visitors pay NPR 150 and other foreigners NPR 1,000. Go before 9 am, when the square belongs to locals doing puja."},
+    {"title": "Swayambhunath above the city", "text": "The white stupa with painted eyes sits on a hill west of the city, reached by a long eastern stairway built in the time of King Pratap Malla. Monkeys gave it its nickname. Dawn brings Tibetan and Newar Buddhists walking the circuit and spinning prayer wheels."},
+    {"title": "Boudhanath and the Tibetan quarter", "text": "Boudha is the largest spherical stupa in Nepal, about 36 m high, on the old trade road to Tibet. After 1959 Tibetan refugees settled here and over 50 gompas now ring the area. Walk the circuit clockwise at dusk with the butter lamps lit."},
+    {"title": "Pashupatinath on the Bagmati", "text": "Nepal's holiest Shiva temple stands on the Bagmati river east of the city. Only Hindus may enter the main temple courtyard; everyone can watch the evening aarti and the cremation ghats from the far bank. Dress modestly and do not photograph funerals at close range."},
+    {"title": "Asan to Indra Chowk on foot", "text": "The old market lanes between Asan and Indra Chowk sell spices, brass pots, glass bangles and dried fish, with a temple at every junction. It takes an hour to walk slowly, and it is the best way to see how the old city still works."},
+    {"title": "Garden of Dreams", "text": "A restored neo-classical garden at the edge of Thamel, built in the early twentieth century and reopened after restoration. It is a quiet place to sit between sightseeing and trek errands, with a small entry fee."}
+  ],
+  "field_notes": [
+    {"fact": "The city's name comes from Kasthamandap, from Sanskrit kastha (wood) and mandapa (pavilion). Newar people call the city Yen, and older texts call it Kantipur, the city of light.", "source": "Kathmandu"},
+    {"fact": "Kasthamandap's oldest features date to the Licchavi period; radiocarbon dating points to construction in the 7th century CE. It collapsed in the April 2015 earthquake and was rebuilt.", "source": "Kasthamandap"},
+    {"fact": "Boudhanath's restoration after the 2015 earthquake was led by the local community, cost about USD 2.1 million and used over 30 kg of gold. It reopened on 22 November 2016.", "source": "Boudha Stupa"}
+  ],
+  "local_word": {"word": "Yen", "language": "Newar", "meaning": "the Newar name for Kathmandu"},
+  "costs": [
+    ["Hostel dorm bed in Thamel", "₹400–800 a night"],
+    ["Plate of buff or veg momos", "₹100–200"],
+    ["Durbar Square entry", "₹95 SAARC; ₹625 other foreigners"],
+    ["Taxi, Thamel to Boudhanath", "₹300–450"],
+    ["Tourist bus to Pokhara", "₹500–750 (NPR 800–1,200)"],
+    ["Licensed city guide, half day", "₹1,500–2,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tribhuvan International Airport has direct flights from Delhi (about 1 h 40 min), Mumbai, Bengaluru, Kolkata and Varanasi. Pre-paid taxis to Thamel cost about NPR 700–1,000."},
+    {"mode": "Bus", "text": "From Sunauli, buses leave Bhairahawa for Kathmandu through the day and take 8–10 hours. From Raxaul, cross to Birgunj and take a day or night bus (7–9 hours). Tourist buses arrive from Pokhara at Sorhakhutte near Thamel."},
+    {"mode": "Road", "text": "Indian cars can enter with a bhansar customs permit at the border. Expect slow traffic on the Prithvi Highway near Naubise and inside the valley's ring road."}
+  ],
+  "where_to_stay": "Saver: Thamel and Paknajol have the most hostels and guesthouses; Zostel Kathmandu is down an alley off Paknajol Marg, with dorms and private rooms. Comfort: the Kathmandu Guest House in Thamel, open since 1968, has a quiet garden courtyard and rooms across several price levels. Signature: Dwarika's Hotel at Battisputali is built around hundreds of rescued carved Newar windows and doors, close to Pashupatinath and Boudhanath. Stay in Thamel if you need trek shops and tourist buses; stay near Boudha for quiet mornings at the stupa.",
+  "stays": ["zostel-kathmandu", "kathmandu-guest-house-thamel", "dwarikas-hotel-kathmandu"],
+  "tips": [
+    "Carry your passport or voter ID to every heritage site to pay the SAARC rate.",
+    "Wear a mask on dusty days; the valley's winter air quality can be poor.",
+    "Walk heritage sites clockwise and ask before photographing people at prayer.",
+    "Keep small NPR notes for temple donations, taxis and street food.",
+    "Book Pokhara tourist buses a day ahead from a Thamel counter in October and November."
+  ],
+  "themes": ["monasteries", "pilgrimages", "photography", "food-and-tea", "festivals"],
+  "nearby": ["patan", "bhaktapur", "nagarkot"],
+  "experiences": [
+    {
+      "slug": "kathmandu-swayambhunath-dawn-kora",
+      "title": "Dawn kora at Swayambhunath",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "6–8 am, Oct–Apr",
+      "cost": "Entry ≈ NPR 200 for foreigners; taxi from Thamel ₹250–400",
+      "image_query": "Swayambhunath stupa eyes Kathmandu",
+      "wiki": "Swayambhunath",
+      "summary": "Climb the eastern stairway to Swayambhunath at first light and walk the circuit with the morning pilgrims. You see Newar and Tibetan Buddhists at prayer, the city waking below, and on clear winter mornings the snow line to the north.",
+      "body": [
+        "Swayambhunath sits on a wooded hill about 3 km west of Thamel. The legend in the Swayambhu Purana says a lotus grew here from a seed sown in the lake that once filled the valley, and the stupa marks its light. The steep eastern stairway, built in the time of King Pratap Malla in the 17th century, is the pilgrims' way up. Start from the foot of the steps at about 6 am and climb slowly; the monkeys that gave the site its nickname are most active early.",
+        "At the top, walk clockwise around the stupa, turning the prayer wheels with your right hand. The square base is painted with the eyes of the Buddha looking in four directions. Around the stupa you will find small shrines, butter lamp houses and a Tibetan gompa where morning prayers are often under way. Sit quietly at the back if you enter, and leave shoes outside where asked.",
+        "From the western terrace you can look across the whole valley. On clear days between October and February the Ganesh Himal and Langtang ranges show above the haze. Walk down by the western side to the small Buddha park, then take a taxi back for breakfast in Thamel or carry on to Kathmandu Durbar Square, about 25 minutes away."
+      ],
+      "good_for": ["solo", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How many steps are there to Swayambhunath?", "a": "The eastern stairway is long and steep, with a few hundred steps, and takes 10–20 minutes at an easy pace. If stairs are hard for you, a taxi can drop you at the western car park near the top, from where it is a short, gentler walk."},
+        {"q": "Are the monkeys at Swayambhunath dangerous?", "a": "They are used to people but will grab food and plastic bags. Keep snacks out of sight, do not feed them, and hold phones and glasses firmly. Children should stay close."},
+        {"q": "What is the entry fee for Swayambhunath?", "a": "Foreigners pay an entry fee of about NPR 200; SAARC visitors usually pay less, and Nepali citizens enter free. Fees change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kathmandu-boudhanath-evening-kora",
+      "title": "Butter lamps and kora at Boudhanath",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "5–7 pm, all year",
+      "cost": "Entry ≈ NPR 400 foreigners, less for SAARC; taxi ₹300–450",
+      "image_query": "Boudhanath stupa butter lamps evening",
+      "wiki": "Boudha Stupa",
+      "summary": "Walk the evening circuit of Boudhanath with the Tibetan community, light butter lamps and climb to a rooftop for the stupa at dusk. It is the best two hours in Kathmandu for understanding why Buddhists have come here for centuries.",
+      "body": [
+        "Boudhanath stands about 6 km east of Thamel on what was once the main trade route between Tibet and India, and merchants rested here before and after the passes. At about 36 m, it is the largest spherical stupa in Nepal. After 1959 Tibetan refugees settled around it, and today over 50 gompas, along with thangka studios, incense shops and tea houses, surround the square.",
+        "Arrive around 5 pm, when families, monks and older residents start the evening kora, always clockwise. Join them at their pace. At the lamp houses near the main gate you can pay a small amount to light a row of butter lamps. Some of the gompas on the side lanes are open in the evening for prayers; enter quietly, never point your feet at the altar, and do not photograph without permission.",
+        "As light fades, climb to one of the rooftop cafes around the circuit for the stupa against the sky. The 2015 earthquake cracked the spire; the community restored it with gold and reopened it in November 2016. If you are here on a full-moon day or during Losar, the circuit is packed and the lamps run late."
+      ],
+      "good_for": ["couples", "families", "solo", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Which way do you walk around Boudhanath?", "a": "Always clockwise, keeping the stupa on your right. Spinning prayer wheels is welcome; use your right hand."},
+        {"q": "How do I get from Thamel to Boudhanath?", "a": "A taxi takes 25–40 minutes depending on traffic and costs about NPR 500–700. Local microbuses from Ratna Park are cheaper but crowded."},
+        {"q": "Can I visit the monasteries around Boudha?", "a": "Many gompas welcome quiet visitors outside prayer times and some during evening prayers. Remove shoes, dress modestly and ask before taking photographs."}
+      ]
+    },
+    {
+      "slug": "kathmandu-durbar-square-kumari-walk",
+      "title": "Durbar Square and the Kumari Ghar",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "8–11 am, Oct–Apr",
+      "cost": "Entry NPR 150 SAARC, NPR 1,000 others; guide ₹1,500–2,500",
+      "image_query": "Kumari Ghar Kathmandu Durbar Square",
+      "wiki": "Kathmandu Durbar Square",
+      "summary": "A morning in Kathmandu's royal square with a licensed guide: the Hanuman Dhoka palace, Kasthamandap, the Kumari's house and the old market lanes north to Indra Chowk and Asan. The best single introduction to Newar Kathmandu.",
+      "body": [
+        "Kathmandu Durbar Square was the palace of the Malla and later Shah kings, named Hanuman Dhoka after the statue of Hanuman at its gate. Enter early, buy your ticket at the counter and hire a licensed guide there if you want the stories behind each temple. Walk past the tall Taleju temple, the huge Kal Bhairab relief, before which, tradition says, no one dares tell a lie, and the courtyards of the palace museum.",
+        "The Kumari Ghar is the three-storey house of the Royal Kumari, a young girl from the Newar Shakya community worshipped as a living goddess until puberty. Visitors may enter the courtyard; she sometimes appears briefly at the carved upper window. Photographing her is not allowed, and guides will remind you. Nearby is Kasthamandap, the wooden rest house that gave Kathmandu its name, rebuilt after it collapsed in 2015.",
+        "From the square walk north through Indra Chowk, where the Akash Bhairab mask is displayed during Indra Jatra, then on to Asan's market crossroads. Stop for a cup of chiya and a plate of momos in a side lane. The whole loop takes about three hours at a slow pace and ends close to Thamel."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can I see the Kumari in Kathmandu?", "a": "Sometimes. The Royal Kumari appears briefly at her window on some days, usually in the morning; there is no fixed schedule. Photographs of her are strictly forbidden."},
+        {"q": "Is the Durbar Square ticket valid for more than a day?", "a": "Ask at the counter for an extended pass if you are staying several days; it usually needs your passport and a photo. Check current status before you travel."},
+        {"q": "Was Kathmandu Durbar Square damaged in the 2015 earthquake?", "a": "Yes, several temples fell, including Kasthamandap. Many have been rebuilt or are under restoration, and the square is open to visitors."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days do I need in Kathmandu?", "a": "Two full days covers Durbar Square, Swayambhunath, Boudhanath and Pashupatinath. Add a third for Patan or Bhaktapur, which are 20–40 minutes away by taxi. Before a Lukla flight, keep one spare day, because mountain flights are often delayed by weather."},
+    {"q": "Where should I stay in Kathmandu on a budget?", "a": "Thamel and Paknajol have the most hostels and simple guesthouses, with dorm beds at ₹400–800 and private doubles at ₹1,200–2,500. Zostel Kathmandu is a reliable hostel. Thamel is also where tourist buses to Pokhara leave from and where trekking agencies and gear shops cluster."},
+    {"q": "Can non-Hindus enter Pashupatinath?", "a": "Non-Hindus are not allowed into the main temple courtyard but can walk the riverside complex, the smaller shrines and the far bank of the Bagmati. Hindu visitors, including Indians, can enter the inner courtyard. Foreign visitors pay an entry fee; check current status before you travel."},
+    {"q": "Is Kathmandu safe for tourists?", "a": "Generally yes. Petty theft happens in crowded markets, so keep phones and wallets secure. Traffic is the biggest daily risk. Watch the news for strikes or demonstrations, which can close roads for a day, and follow your hotel's advice."},
+    {"q": "How do I get from Kathmandu airport to Thamel?", "a": "Pre-paid taxis from the counter inside arrivals cost about NPR 700–1,000 and take 20–40 minutes. Ride-hailing apps such as Pathao and InDrive also work in Kathmandu and are often cheaper."},
+    {"q": "What is the air quality like in Kathmandu?", "a": "The valley traps dust and smoke, and air quality is often poor from December to April, especially in the mornings and evenings. Carry an N95 mask if you are sensitive. After the monsoon in October the air is usually at its cleanest."},
+    {"q": "Can I use Indian money in Kathmandu?", "a": "Yes, ₹100 notes are taken in most shops and hotels at 1 INR = 1.6 NPR. Since 2026 Nepal has allowed post-2016 ₹200 and ₹500 notes up to ₹25,000 per person, but small shops may refuse them. Check current status before you travel."},
+    {"q": "What should I eat in Kathmandu?", "a": "Try momos, Newari samay baji (beaten rice with buffalo meat, beans and pickles), chatamari (rice-flour crepe) and yomari in winter. Thakali dal bhat sets are filling and good value. In Boudha, eat thukpa and Tibetan bread."},
+    {"q": "Is Kathmandu good for families with kids?", "a": "Yes, if you keep the pace slow. Swayambhunath's monkeys and Boudhanath's prayer wheels are usually a hit with children. Avoid the busiest traffic hours, use taxis between sites, and carry hand sanitiser and bottled or filtered water."}
+  ]
+}

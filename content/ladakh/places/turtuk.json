@@ -1,0 +1,145 @@
+{
+  "slug": "turtuk",
+  "name": "Turtuk",
+  "region": "ladakh",
+  "kind": "village",
+  "wiki": "Turtuk",
+  "image_query": "Turtuk village Ladakh",
+  "lat": 34.847,
+  "lng": 76.827,
+  "altitude_m": 2900,
+  "tagline": "A Balti village of apricots on the Shyok, open to visitors since 2010",
+  "meta_description": "Turtuk guide: India's Balti village on the Shyok, history since 1971, apricot orchards, homestays, buses from Leh and Diskit, permits and real costs.",
+  "summary": "Turtuk is a Balti village on the Shyok river, about 85 km beyond Diskit and some 205 km from Leh. It was under Pakistani control until 1971 and opened to tourists in 2010. Come for stone lanes, apricot orchards and Balti homestays at about 2,900 m, the lowest overnight in Nubra.",
+  "intro": [
+    "Turtuk feels different the moment you arrive. The prayer flags of Buddhist Nubra give way to a mosque with a wooden minaret, the language changes from Ladakhi to Balti, and stone houses stand in terraces of barley and apricot trees above the Shyok. Geographically this is Baltistan: Turtuk is one of only five Balti villages in India, and the only region in India where Balti people live.",
+    "Its history explains the change. Turtuk came under Pakistani control after the war of 1947–48, along with most of Baltistan, and was taken by the Indian Army in 1971. Families here have relatives across the Line of Control, a short distance downstream. The village stayed closed to outsiders until 2010, so tourism here is young, small-scale and run by families.",
+    "At about 2,900 m Turtuk is lower and warmer than Leh, and its apricots are famous. In July and August fruit dries on every rooftop. Spend a night, walk the two halves of the village linked by a footbridge, eat at a homestay, and you will understand Ladakh's Balti side better than any museum could show you."
+  ],
+  "facts": [
+    ["Best months", "May – Oct (apricots Jul – Aug)"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Leh, ≈ 205 km"],
+    ["From Diskit", "≈ 85 km · 2.5–3 h"],
+    ["Altitude", "≈ 2,900 m"],
+    ["Known for", "Balti culture, apricots, history since 1971"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 2, 2, 2, 1, 0, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The Balti village walk", "text": "Cross the footbridge over the stream that splits Turtuk into two halves and climb through stone lanes, irrigation channels and terraced fields. Families sit outside in the evening; a greeting and a smile open more doors than a camera."},
+    {"title": "Apricot season", "text": "In July and August apricots dry on rooftops and flat stones across the village. Homestays serve fresh fruit, dried apricots and apricot kernel oil. Buy directly from families, and ask before picking anything from an orchard."},
+    {"title": "The old royal house", "text": "Turtuk claims to be the historic capital of the southern Chorbat stretch of the Shyok, and an old royal house stands in the village. A family member often shows visitors around for a small donation."},
+    {"title": "The Shyok road from Diskit", "text": "The drive down the Shyok from Hunder is one of the most dramatic in Ladakh: a narrow road between granite walls, the river dropping fast and the valley getting warmer with every kilometre. Allow time for photographs and army convoys."},
+    {"title": "Gompas above the river", "text": "A few small Buddhist shrines sit on the plateau above the Shyok, a reminder that the valley's past is layered. The walk up gives wide views of the village terraces and the river gorge."}
+  ],
+  "field_notes": [
+    {"fact": "Turtuk came under Pakistani control after the 1947–48 war and was taken by the Indian Army in 1971. It stayed closed to outsiders for decades and was opened to tourists only in 2010.", "source": "Turtuk"},
+    {"fact": "Turtuk is one of five Balti-populated villages under Indian control, with Bogdang, Tyakshi, Chalunkha and Dhothang. Together they form the only region in India where Balti people live.", "source": "Turtuk"},
+    {"fact": "About half of Turtuk's people follow the Noorbakhshia Sufi tradition, named after a disciple of the Persian preacher Syed Ali Shah Hamdani; the rest are Sunni. Earlier, villagers followed the Bon religion.", "source": "Turtuk"}
+  ],
+  "local_word": {"word": "Chorbat", "language": "Balti (place name)", "meaning": "the old name for this stretch of the lower Shyok valley, of which Turtuk was the historic centre"},
+  "costs": [
+    ["Bus Leh–Turtuk (weekly, early morning)", "≈ ₹300–350 one way"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,000 per person"],
+    ["Guesthouse double room", "₹1,500–3,000 a night"],
+    ["Balti home-cooked meal", "₹200–400"],
+    ["Taxi day trip Hunder–Turtuk–Hunder", "₹4,500–6,000 a car"],
+    ["Royal house visit", "Small donation, ₹50–100"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh, rest two nights, then travel over Khardung La to Nubra. Turtuk is about 205 km from Leh airport."},
+    {"mode": "Bus", "text": "A bus from Leh to Turtuk runs about once a week, early in the morning, and takes most of the day; the fare is roughly ₹300–350. Shared taxis from Diskit are more frequent. Check current status before you travel."},
+    {"mode": "Road", "text": "From Hunder or Diskit ≈ 85 km · 2.5–3 h along the Shyok. From Leh ≈ 205 km · 7 h. The road is narrow, with army traffic; avoid driving after dark."}
+  ],
+  "where_to_stay": "Saver: Turtuk is a homestay village. Families in both halves of the village offer simple rooms at ₹1,200–2,000 per person with dinner and breakfast, often with shared bathrooms and hot water in buckets. Comfort: a handful of guesthouses and small camps on the edge of the village have attached bathrooms and garden seating, at ₹1,500–3,000 a double. There is no luxury hotel; signature travellers usually visit as a long day trip from Lchang Nang Retreat or stay one simple night for the experience.",
+  "stays": ["turtuk-balti-homestays"],
+  "tips": [
+    "Turtuk is a conservative Muslim village: cover shoulders and knees, and women may want a light scarf.",
+    "Ask before photographing people, especially women and children, and accept a no.",
+    "Carry cash from Leh; there is no reliable ATM in Turtuk.",
+    "Alcohol is not part of village life here; do not drink in public.",
+    "Respect signs about restricted areas towards the Line of Control and follow army instructions without argument."
+  ],
+  "themes": ["homestays-and-villages", "food-and-tea", "road-trips", "photography"],
+  "nearby": ["nubra-valley", "leh"],
+  "experiences": [
+    {
+      "slug": "turtuk-balti-village-walk",
+      "title": "Turtuk Balti village walk",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "8 am or 4 pm, May–Oct",
+      "cost": "Free; local guide ₹500–1,000",
+      "image_query": "Turtuk village Balti houses",
+      "wiki": "Turtuk",
+      "summary": "A slow walk through both halves of Turtuk: stone lanes, water channels, terraced barley and apricot orchards, the mosque and the old royal house. A local guide from your homestay explains Balti life and the village's history since 1971.",
+      "body": [
+        "Turtuk is split by a stream into two parts joined by a footbridge. Start in the lower village near the mosque and climb through lanes lined with dry-stone walls. Water channels run beside the paths and feed every field, as in Ladakhi villages, but the houses, food and language here are Balti.",
+        "Ask your homestay family to find a local guide, usually a young villager, for ₹500–1,000. They will take you to the old royal house, explain how families live with relatives across the Line of Control, and show how houses store food for the long winter. You learn as much about how people farm at this height as about the politics.",
+        "Walk slowly, keep to the paths and greet people with a quiet Assalam alaikum. This is a conservative village, so dress modestly and ask before taking photographs. If you are offered tea, accept; refusing hospitality is considered rude, and Balti tea is worth it."
+      ],
+      "good_for": ["solo", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "Do I need a guide in Turtuk?", "a": "Not strictly, since the village is small and the paths are clear. A local guide, arranged through your homestay for about ₹500–1,000, adds a great deal: access to the royal house, context about Balti life and the village's history, and introductions that a lone visitor would not get."},
+        {"q": "Is it respectful to photograph people in Turtuk?", "a": "Ask first, every time. Many people, especially women, prefer not to be photographed, and children should not be photographed without a parent's consent. Landscapes, houses from the lane and the orchards are fine. Do not fly drones near the Line of Control or army areas."},
+        {"q": "What language do people speak in Turtuk?", "a": "Balti, a Tibetic language related to Ladakhi, is the home language. Most adults also speak Urdu and Hindi, many younger people speak English, and some speak Ladakhi. A simple Assalam alaikum works as a greeting."}
+      ]
+    },
+    {
+      "slug": "turtuk-apricot-orchards-and-balti-kitchen",
+      "title": "Apricot orchards and a Balti home kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "July–August for fresh fruit",
+      "cost": "Meal at homestay ₹200–400",
+      "image_query": "Turtuk apricots drying",
+      "wiki": "Balti people",
+      "summary": "Turtuk is known for its apricots. In summer, walk the orchards, watch fruit drying on rooftops and sit down to a home-cooked Balti meal of breads, vegetables and apricot dishes in a family kitchen.",
+      "body": [
+        "Apricot trees shade almost every field in Turtuk. In July the first fruit ripens and families spread apricots on roofs and flat rocks to dry, a store of sugar for the long winter. Kernels are cracked and pressed for oil, used in cooking and on skin in the dry air.",
+        "Ask your homestay if you can help in the kitchen before dinner. Balti cooking shares ingredients with Ladakhi food, barley, wheat, butter and dried apricots, but its flavours lean towards Baltistan. Expect flatbreads, a vegetable or lentil dish, and sometimes an apricot soup or chutney.",
+        "Buy dried apricots and kernel oil directly from families, who receive the full price. Do not pick fruit from trees without asking; every tree belongs to someone. In late season, ask for the sweet kernel varieties that many families keep for themselves."
+      ],
+      "good_for": ["families", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "When is apricot season in Turtuk?", "a": "Fresh apricots ripen from early July into August, depending on the year and the variety. Blossom comes in April. Dried apricots and apricot kernel oil are sold all season. If fresh fruit matters to you, aim for mid-July to mid-August."},
+        {"q": "Is Balti food vegetarian-friendly?", "a": "Homestays can easily cook vegetarian meals of bread, dal, vegetables and rice. Meat is eaten, but usually on special occasions. Tell your host in advance if you are vegetarian, vegan or have allergies. Pork and alcohol are not served in this Muslim village."},
+        {"q": "Can I buy apricots in Turtuk to take home?", "a": "Yes. Families sell dried apricots, apricot kernels and kernel oil, usually by weight. Carry cash and small notes. Dried fruit travels well; fresh apricots bruise easily on the long road back to Leh, so buy those to eat during your stay."}
+      ]
+    },
+    {
+      "slug": "turtuk-shyok-gorge-drive",
+      "title": "The Shyok gorge drive from Hunder to Turtuk",
+      "kind": "nature",
+      "duration": "3 hours one way",
+      "best_time": "Leave Hunder by 8 am, May–Oct",
+      "cost": "Shared taxi seat ₹500–800; taxi ₹4,500–6,000 a car return",
+      "image_query": "Shyok river valley Ladakh",
+      "wiki": "Shyok River",
+      "summary": "About 85 km down the Shyok from Hunder to Turtuk, through a narrow gorge where the valley drops and warms. Villages thin out, then Balti hamlets appear. Stop at viewpoints, travel early and be patient with army traffic.",
+      "body": [
+        "Below Hunder the Shyok cuts a deep gorge between the Ladakh and Karakoram ranges. The road clings to the side, sometimes on blasted rock ledges, and the river runs grey and fast below. The valley loses height as you go, and by Turtuk it is noticeably warmer than Diskit.",
+        "Watch the villages change. Buddhist mani walls give way to small mosques, and Ladakhi gives way to Balti. Bogdang, just before Turtuk, is the first Balti village and has been part of Indian-administered Ladakh since 1948.",
+        "The road carries army trucks heading to forward posts, so expect stops and slow passing. Do not photograph military installations, and keep your permit receipt and ID ready at checkpoints. Start early, carry snacks and water, and plan to arrive in Turtuk by lunch."
+      ],
+      "good_for": ["photographers", "first-timers", "couples"],
+      "faqs": [
+        {"q": "How long is the drive from Hunder to Turtuk?", "a": "About 85 km and 2.5–3 hours, depending on army convoys and roadworks. From Leh it is about 205 km and seven hours. A day trip from Hunder is possible but leaves only two or three hours in the village; one night in Turtuk is far better."},
+        {"q": "Is the road to Turtuk safe?", "a": "The road is maintained for military use and is generally in fair condition, but narrow with steep drops and occasional rockfall. Drive only in daylight, follow your driver's judgement, and avoid the road after heavy rain. Check current status before you travel."},
+        {"q": "Is public transport available to Turtuk?", "a": "A bus from Leh runs about once a week, and shared taxis run from Diskit when enough passengers gather, roughly ₹500–800 a seat. In peak season you can often share a taxi with other travellers met in Hunder. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do I need a permit to visit Turtuk?", "a": "Indian citizens need the online Environment and Development Fee receipt for Nubra, which covers Turtuk, plus photo ID. Foreign nationals need a Protected Area Permit through a registered Leh travel agency; Turtuk has been open to foreigners with this permit. Rules change in border areas, so check current status before you travel."},
+    {"q": "Is one night enough in Turtuk?", "a": "One night lets you walk the village in the evening and morning, which is the best of Turtuk. Two nights let you slow down, visit the royal house, walk to the plateau gompas and help with apricot work in season. A day trip from Hunder feels rushed because the drive takes 2.5–3 hours each way."},
+    {"q": "Is Turtuk safe for tourists?", "a": "Yes. Turtuk has welcomed visitors since 2010, and families running homestays look after their guests. It is near the Line of Control, so the army is present and some areas are restricted: follow signs and instructions, do not photograph military sites and do not fly drones."},
+    {"q": "Is Turtuk suitable for solo women travellers?", "a": "Generally yes, and many women visit alone. It is a conservative village, so dress modestly, keep shoulders and knees covered and carry a light scarf. Homestay families are protective of guests. Arrange transport through your homestay or the taxi stand in Diskit rather than accepting rides from strangers."},
+    {"q": "Is there mobile network in Turtuk?", "a": "Coverage is limited. Postpaid BSNL and Jio often work in the village, Airtel less reliably, and prepaid SIMs from outside Jammu and Kashmir and Ladakh do not work at all. Some homestays have Wi-Fi when the network is up. Tell family your plans before leaving Diskit."},
+    {"q": "What is the best time to visit Turtuk?", "a": "May to October, when the road is reliable and homestays are open. July and August bring apricot season and warm days around 25 °C. April brings blossom but fewer open homestays. Winter is cold and quiet, with most families not hosting visitors."},
+    {"q": "How much does a night in Turtuk cost?", "a": "A homestay with dinner and breakfast costs about ₹1,200–2,000 per person, and a simple guesthouse double room about ₹1,500–3,000. Add ₹500–1,000 for a local guide and transport from Hunder: a shared taxi seat is ₹500–800, a private taxi ₹4,500–6,000 return. Carry all the cash you need."},
+    {"q": "Can I visit Thang or the zero point from Turtuk?", "a": "Visitors are sometimes allowed to drive a few kilometres beyond Turtuk to viewpoints facing villages across the Line of Control, depending on army rules at the time. Access opens and closes. Ask at your homestay and check current status before you travel; never go beyond where you are permitted."},
+    {"q": "What should I wear in Turtuk?", "a": "Modest clothing: long trousers or skirts, sleeves covering the shoulders and a light scarf for women when entering homes or near the mosque. Days are warm in summer, so choose loose cotton layers. Evenings cool down, so carry a fleece even in July."}
+  ]
+}

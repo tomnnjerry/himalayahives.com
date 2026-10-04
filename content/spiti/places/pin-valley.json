@@ -1,0 +1,145 @@
+{
+  "slug": "pin-valley",
+  "name": "Pin Valley and Mudh",
+  "region": "spiti",
+  "kind": "national park",
+  "wiki": "Pin Valley National Park",
+  "image_query": "Pin Valley National Park Mudh village",
+  "lat": 31.96,
+  "lng": 78.0,
+  "altitude_m": 3800,
+  "tagline": "A national park of ibex, blue sheep and Nyingma villages",
+  "meta_description": "Pin Valley and Mudh guide: national park since 1987, ibex and snow leopards, Kungri gompa, homestays, Kaza–Mudh bus, Pin–Parvati and Pin–Bhaba treks.",
+  "summary": "Pin Valley runs south from the Spiti river at Attargo into a 675 km² national park set up in 1987. The road ends at Mudh, about 3,800 m, a village of homestays and fields under bare red and grey mountains. Come for walks, ibex and blue sheep, Kungri gompa, and the end of the Pin–Parvati and Pin–Bhaba treks.",
+  "intro": [
+    "Cross the Spiti river at the Attargo bridge below Dhankar and the road turns into the Pin valley, narrower and more colourful than the main valley, with mountains streaked red, grey and ochre. Villages here follow the Nyingma school of Tibetan Buddhism, and Kungri, near Gulling, is the valley's main gompa. The road ends at Mudh, about 50 km from Kaza.",
+    "Much of the upper valley lies inside Pin Valley National Park, established in 1987 and covering 675 km² between about 3,500 m and more than 6,000 m. It protects Siberian ibex, blue sheep and snow leopards, as well as rare medicinal plants. You will not see snow leopards on a summer walk, but ibex and blue sheep are often visible on the slopes above Mudh in the morning and evening.",
+    "Mudh is also where two classic treks end: the Pin–Parvati from Kullu's Parvati valley, and the Pin–Bhaba from Kafnu in Kinnaur. For everyone else, it is a place to slow down for a night or two in a family homestay, walk the valley floor towards the high pastures, and listen to the river. Geologists know it too: the rock layers near Mudh were studied in the 19th century by Ferdinand Stoliczka."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 290 km via Kaza"],
+    ["From Kaza", "≈ 50 km · 2 h to Mudh"],
+    ["Altitude", "about 3,800 m (Mudh)"],
+    ["Known for", "National park, ibex and blue sheep, Kungri gompa, trek finishes"]
+  ],
+  "best_months": [0, 0, 0, 0, 1, 2, 2, 1, 2, 1, 0, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Mudh, the end of the road", "text": "Mudh is a farming village of stone houses and homestays where the road stops and the trails begin. Evenings are quiet, the river is loud, and the mountains around turn red at sunset."},
+    {"title": "Ibex and blue sheep at dawn", "text": "Walk out of Mudh at sunrise and scan the slopes. Siberian ibex and blue sheep graze on the cliffs above the valley. Binoculars help; a village guide helps more."},
+    {"title": "Kungri gompa", "text": "Kungri, near Gulling, is the main monastery of the Pin valley and belongs to the Nyingma school. Its older and newer halls are worth a stop on the drive in."},
+    {"title": "Painted mountains", "text": "The Pin valley's slopes are banded red, grey and yellow, layers of old seabed laid down over hundreds of millions of years. Late afternoon light shows them best."},
+    {"title": "Where the big treks end", "text": "Mudh is the finishing point of the Pin–Parvati trek from Kullu and the Pin–Bhaba trek from Kinnaur. Trekkers arrive tired and happy; the homestays know how to feed them."}
+  ],
+  "field_notes": [
+    {"fact": "Pin Valley National Park was established in 1987 and covers 675 km², ranging from about 3,500 m near Ka Dogri to more than 6,000 m. It also shelters 22 rare and endangered medicinal plant species.", "source": "Pin Valley National Park"},
+    {"fact": "In the 19th century the geologist Ferdinand Stoliczka studied the rock formations near Mud village in Pin and named one of the layers the Muth succession.", "source": "Spiti"},
+    {"fact": "The Pin valley is home to the rare Chumurti horse breed and to some of the few surviving Buchen lamas of the Nyingma school, known for their ritual performances.", "source": "Spiti"}
+  ],
+  "local_word": {"word": "Buchen", "language": "Spiti Bhoti", "meaning": "lamas of the Pin valley's Nyingma tradition who perform ritual plays in villages"},
+  "costs": [
+    ["Local bus Kaza–Mudh", "₹80–150"],
+    ["Taxi Kaza–Mudh and back", "₹3,500–5,000 per car"],
+    ["Homestay in Mudh with dinner and breakfast", "₹1,200–2,000 per person"],
+    ["Local guide for a day walk", "₹1,500–2,500 per group"],
+    ["Pin–Parvati trek with an agency", "₹20,000–35,000 per person"],
+    ["Plate of thukpa or dal-rice", "₹120–200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "The nearest airport is Bhuntar near Kullu. Travel to Kaza via Manali and the Atal Tunnel, then drive about 50 km to Mudh."},
+    {"mode": "Bus", "text": "A local HRTC bus runs between Kaza and Mudh in season, usually leaving Kaza in the afternoon and returning in the morning; check current timings at Kaza bus stand."},
+    {"mode": "Road", "text": "From Kaza, follow NH-505 towards Tabo, cross the Spiti river at Attargo and drive up the Pin valley to Mudh, about 50 km and 2 hours on a mostly paved road."}
+  ],
+  "where_to_stay": "Saver: Mudh has a cluster of family homestays and small guesthouses at about ₹1,200–2,000 a person with dinner and breakfast; rooms are simple, some with attached bathrooms, and solar or bucket hot water. Gulling and other villages have a few more. Comfort and signature: there are no hotels at this level in Pin valley, so comfort trips choose the best homestay rooms in Mudh, and signature trips visit as a long day from Kaza or Rangrik. Book ahead in July and August when trek groups finish here.",
+  "stays": [],
+  "tips": [
+    "Walk out of Mudh at sunrise with binoculars for the best chance of ibex and blue sheep.",
+    "Stay on paths inside the national park and do not pick plants; many are rare medicinal species.",
+    "Carry cash from Kaza; there are no ATMs in the Pin valley.",
+    "Take the afternoon bus from Kaza and return on the morning bus to save on taxis.",
+    "Hire a local guide for walks beyond the valley floor; trails are unmarked and rivers rise in the afternoon."
+  ],
+  "themes": ["wildlife-and-birds", "treks-and-walks", "homestays-and-villages", "monasteries"],
+  "nearby": ["dhankar", "kaza", "tabo"],
+  "experiences": [
+    {
+      "slug": "mudh-pin-valley-meadow-walk",
+      "title": "Valley walk from Mudh towards the pastures",
+      "kind": "trek",
+      "duration": "4–5 hours",
+      "best_time": "7 am, Jun–Sep",
+      "cost": "Free; local guide ₹1,500–2,500 per group",
+      "image_query": "Mudh village Pin Valley",
+      "wiki": "Pin Valley National Park",
+      "summary": "Follow the Pin river upstream from Mudh along the first stretch of the trek trails, through pastures and past grazing animals, and turn back when you have had enough.",
+      "body": [
+        "From Mudh, a trail continues up the valley along the Pin river, the same route trekkers follow towards the Pin–Parvati and Pin–Bhaba passes. The first few hours are gentle by Spiti standards, crossing pastures and side streams with the valley walls rising on both sides.",
+        "Start early. Mornings are calm and clear, animals are active, and streams are lower before afternoon snowmelt. Carry water, food, sun protection and a warm layer; there are no shops beyond the village. A local guide knows where ibex and blue sheep graze and which streams are safe to cross.",
+        "This is inside or near the national park, so stay on the trail, carry all rubbish out, and do not disturb grazing animals or shepherds' camps. Turn back at midday to reach Mudh before the wind rises."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is the Mudh valley walk difficult?", "a": "It is gentle at first, but you are at about 3,800 m. Fit walkers manage 4–5 hours; turn back whenever you want."},
+        {"q": "Do I need a permit to walk in Pin Valley National Park?", "a": "Day walks near Mudh usually need no separate permit, but rules for longer treks and camping can change. Check current status with the forest office in Kaza."},
+        {"q": "Will I see a snow leopard?", "a": "Very unlikely in summer. You have a good chance of ibex and blue sheep on the slopes."}
+      ]
+    },
+    {
+      "slug": "pin-valley-ibex-and-blue-sheep-dawn",
+      "title": "Ibex and blue sheep at dawn",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Sunrise, Jun–Oct",
+      "cost": "Local guide ₹1,000–2,000 per group",
+      "image_query": "Siberian ibex Spiti",
+      "wiki": "Siberian ibex",
+      "summary": "Scan the cliffs above Mudh at first light with a village guide for Siberian ibex and blue sheep, the prey of the snow leopards that live higher up in the park.",
+      "body": [
+        "Pin Valley National Park was created to protect the Siberian ibex and its predator, the snow leopard. Ibex, with their long curved horns, and blue sheep, or bharal, graze the cliffs and slopes around Mudh, coming lower in the early morning and evening.",
+        "Go out at sunrise with binoculars or a spotting scope. Sit still on a rise and scan slowly; the animals blend into the rock and are easier to see when they move. A village guide knows the usual slopes and can tell you what you are looking at.",
+        "Keep your distance and your voice low. Do not chase animals for photographs or fly drones over them. Bird life is good too: watch for Himalayan snowcock, chukar and choughs."
+      ],
+      "good_for": ["photographers", "families", "students", "solo"],
+      "faqs": [
+        {"q": "When is the best time to see ibex in Pin Valley?", "a": "Early morning and evening, from June to October. In winter animals come lower, but access is harder."},
+        {"q": "Do I need binoculars?", "a": "Yes. Animals are often hundreds of metres away. Binoculars or a spotting scope make all the difference."},
+        {"q": "Are snow leopards seen in Pin Valley?", "a": "They live in the park, but sightings are rare and mostly in winter. Kibber is the usual base for winter snow leopard trips."}
+      ]
+    },
+    {
+      "slug": "pin-valley-kungri-gompa",
+      "title": "Kungri, the Nyingma gompa of Pin",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, May–Oct",
+      "cost": "Free; donation welcome",
+      "image_query": "Kungri Monastery Pin Valley",
+      "wiki": "",
+      "summary": "Stop at Kungri near Gulling, the main monastery of the Pin valley, which follows the Nyingma school, the oldest of the four main schools of Tibetan Buddhism.",
+      "body": [
+        "Most monasteries in the main Spiti valley belong to the Gelug school. The Pin valley is different: its villages and its main monastery, Kungri, near Gulling, follow the Nyingma school, the oldest of Tibetan Buddhism's main traditions.",
+        "Kungri has older halls and newer buildings around a courtyard. If the doors are open, a monk may show you inside. Remove your shoes, walk clockwise, and ask before photographing the interiors.",
+        "The visit fits easily on the drive between Kaza and Mudh. Leave a donation in the box, and if there is a ceremony happening, watch from the side without walking through it."
+      ],
+      "good_for": ["first-timers", "seniors", "couples", "families"],
+      "faqs": [
+        {"q": "Where is Kungri Monastery?", "a": "Near Gulling village in the Pin valley, on the road between the Attargo bridge and Mudh."},
+        {"q": "Is Kungri open to visitors?", "a": "Yes, usually in daytime. Halls may be locked when monks are away; ask in the courtyard."},
+        {"q": "What is special about the Pin valley's Buddhism?", "a": "Its villages follow the Nyingma school, unlike most of Spiti, and the valley keeps traditions such as the Buchen ritual performers."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Mudh in Pin Valley?", "a": "From Kaza, drive about 50 km (2 hours) via the Attargo bridge, or take the local HRTC bus that usually leaves Kaza in the afternoon and returns in the morning. A return taxi costs about ₹3,500–5,000 a car. Check current bus timings at Kaza bus stand."},
+    {"q": "Can I see snow leopards in Pin Valley?", "a": "Snow leopards live in Pin Valley National Park, but sightings are rare and mostly in winter. In summer you are more likely to see Siberian ibex and blue sheep. For dedicated snow leopard trips, Kibber in January to March is the usual base."},
+    {"q": "Is there accommodation in Mudh?", "a": "Yes, a cluster of family homestays and small guesthouses at about ₹1,200–2,000 a person with dinner and breakfast. Rooms are simple and clean, with basic bathrooms. Book ahead in July and August when trekking groups finish at Mudh."},
+    {"q": "When is the best time to visit Pin Valley?", "a": "June to September, when the road is clear and homestays are open. September has the clearest skies. Snow can block the road from November to April, and many families leave or close for winter."},
+    {"q": "Do I need a permit for Pin Valley National Park?", "a": "Day visits to Mudh and walks near the village usually need no separate permit. For treks such as Pin–Parvati and Pin–Bhaba, entry fees or forest permits may apply, and rules change; check current status with the forest office or your trekking agency."},
+    {"q": "Is there mobile network in Mudh?", "a": "Signal in Mudh is weak and patchy, with BSNL the most reliable. Expect to be offline for most of your stay. Tell family before you leave Kaza, and carry cash, since there are no ATMs in Pin valley."},
+    {"q": "Which treks end in Mudh?", "a": "The Pin–Parvati trek from the Parvati valley in Kullu and the Pin–Bhaba trek from Kafnu in Kinnaur both end at Mudh. Both cross passes above 4,800 m, take 5–10 days, and need an experienced guide or agency."},
+    {"q": "Is Pin Valley good for families?", "a": "Yes. Mudh is lower than Kaza's high villages, the walks are gentle, and children enjoy spotting ibex. Homestays are simple. Keep walks short and carry warm clothes for cold evenings."},
+    {"q": "How high is Mudh?", "a": "Mudh is at about 3,800 m, a little higher than Kaza. Spend at least one night in Kaza or Tabo before sleeping in Mudh. Drink water, go slowly on walks, and talk to your doctor about altitude before you travel."}
+  ]
+}

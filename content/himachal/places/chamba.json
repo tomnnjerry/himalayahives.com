@@ -1,0 +1,147 @@
+{
+  "slug": "chamba",
+  "name": "Chamba",
+  "region": "himachal",
+  "kind": "town",
+  "wiki": "Chamba, Himachal Pradesh",
+  "image_query": "Chamba town Ravi river temples",
+  "lat": 32.5534,
+  "lng": 76.1258,
+  "altitude_m": 996,
+  "tagline": "A thousand-year-old hill capital of stone temples and fine embroidery",
+  "meta_description": "Chamba guide: Lakshmi Narayan temples, Chaugan, Bhuri Singh Museum, Chamba rumal embroidery, Minjar Mela, Bharmour day trip, buses from Pathankot, costs.",
+  "summary": "Chamba is a small town at about 1,000 m on the Ravi, capital of a hill kingdom for over a thousand years. Spend two nights for the 10th-century stone temples, the Chaugan meadow, the Bhuri Singh Museum and Chamba rumal embroidery, plus a day at Bharmour. Best March–April and September–November.",
+  "intro": [
+    "Chamba sits on a shelf above the Ravi river in the far west of Himachal, a few hours from Pathankot and Dalhousie. Tradition credits Raja Sahil Varman with founding it in the 10th century and naming it after his daughter Champavati, after the capital moved down from Bharmour. Because it was remote, the kingdom kept its own rulers until 1948, and with them its temples, its painting tradition and its crafts. It still feels like a small capital rather than a resort.",
+    "The centre of town is the Chaugan, a long grassy meadow where fairs, cricket and evening walks happen. Around it are the Bhuri Singh Museum, the old palaces and the temple lanes. The Lakshmi Narayan complex, a group of stone shikhara temples with wooden canopies to shed snow and rain, stands a few minutes away. The Chamba rumal, an embroidered square in double-sided satin stitch, is the town's best-known craft, along with leather Chamba chappals and the chilli condiment chukh.",
+    "Chamba is also the gateway to the Gaddi shepherds' homeland of Bharmour and the Manimahesh pilgrimage, and to the remote Pangi valley beyond. In late July or early August, the week-long Minjar Mela fills the Chaugan. Summers are warm at this lower altitude, so we prefer spring and autumn. It pairs naturally with McLeodganj and Bir on a Kangra–Chamba circuit."
+  ],
+  "facts": [
+    ["Best months", "Mar – Apr, Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Kangra (Gaggal), ≈ 170 km"],
+    ["From Pathankot", "≈ 120 km · 4 h"],
+    ["Altitude", "996 m"],
+    ["Known for", "Stone temples, Chamba rumal, Minjar Mela, Bharmour"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 1, 1, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Lakshmi Narayan temples", "text": "A group of stone temples in the Nagara style, the oldest traditionally dated to the 10th century, with wooden umbrella-like canopies over the spires. Still in daily worship, a short walk from the Chaugan."},
+    {"title": "The Chaugan", "text": "Chamba's grassy central meadow above the Ravi, used for fairs, sport and evening walks. During Minjar Mela it fills with stalls, music and processions."},
+    {"title": "Bhuri Singh Museum", "text": "Opened in the early 20th century and named after Raja Bhuri Singh, the museum holds Pahari miniature paintings, carved fountain stones, copper plates and fine Chamba rumals. A small entry fee applies."},
+    {"title": "Chamba rumal workshops", "text": "Square cloths embroidered in silk with double satin stitch so the picture looks the same on both sides. Visit workshops and cooperatives in town to see it made and buy directly."},
+    {"title": "Bharmour and the Chaurasi temples", "text": "The old capital, 65 km up the Budhil valley at about 2,200 m, where a courtyard holds a cluster of stone and wooden temples. Home of the Gaddi shepherds and start of the Manimahesh yatra."},
+    {"title": "Chamunda Devi temple viewpoint", "text": "A wooden temple on a ridge above town, reached by a steep path or road, with views over Chamba, the Ravi and the Chaugan. Best at sunset."}
+  ],
+  "field_notes": [
+    {"fact": "Chamba town is traditionally said to have been founded in the 10th century by Raja Sahil Varman, who moved his capital down from Brahmapura (Bharmour) and named the new town after his daughter Champavati.", "source": "Chamba, Himachal Pradesh"},
+    {"fact": "The Chamba rumal is embroidered in a double satin stitch, so the image appears the same on both sides of the cloth. Designs were often drawn by Pahari painters before women embroidered them in untwisted silk.", "source": "Chamba Rumal"},
+    {"fact": "During Minjar Mela, people wear a minjar, a silk tassel said to represent shoots of maize or paddy, and at the end of the fair the minjars are offered to the Ravi river.", "source": "Minjar Mela"}
+  ],
+  "local_word": {"word": "Chukh", "language": "Chambeali", "meaning": "a fiery red chilli condiment made in Chamba with chillies, mustard oil and lemon"},
+  "costs": [
+    ["HRTC bus, Pathankot–Chamba", "₹200–320"],
+    ["HRTC bus, Dharamshala–Chamba", "₹350–500"],
+    ["Bhuri Singh Museum entry", "₹20–50 (check current rate)"],
+    ["Small Chamba rumal from a cooperative", "₹1,500–5,000"],
+    ["Pair of Chamba chappals", "₹500–1,500"],
+    ["Dhaba thali in the bazaar", "₹120–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Kangra airport at Gaggal is about 170 km and 5–6 hours away. Pathankot has a small airport with limited flights. Most visitors fly to Kangra or Amritsar and continue by road."},
+    {"mode": "Rail", "text": "Pathankot Cantt and Chakki Bank stations, about 120 km away, have trains from Delhi and Jammu. From Pathankot, HRTC buses and taxis take about 4 hours to Chamba."},
+    {"mode": "Bus", "text": "HRTC buses run from Pathankot, Dharamshala, Dalhousie and Shimla to Chamba. Overnight HRTC buses from Delhi take about 14 hours. Buses from Chamba to Bharmour run several times a day."},
+    {"mode": "Road", "text": "From Dharamshala via Nurpur and Banikhet, about 170 km and 5–6 hours. From Dalhousie, 50 km and 2 hours, or via Khajjiar. The road along the Ravi suffers slides in monsoon; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: HPTDC runs hotels in Chamba, including near the Chaugan, and there are simple guesthouses in the bazaar for ₹1,000–2,500 a night. Comfort: a few mid-range hotels and homestays on the edge of town and along the Ravi have river or valley views for ₹3,000–6,000 a night. Signature: Chamba has no luxury hotel; signature travellers usually stay in good heritage properties around Dalhousie or the Kangra valley and visit Chamba on a long day or with a simple overnight.",
+  "stays": [],
+  "tips": [
+    "Visit the Lakshmi Narayan temples early in the morning, when villagers come for prayers and the light is soft.",
+    "Buy Chamba rumals from cooperatives or the artisans themselves, and ask about the stitch; real double-sided work looks the same on both faces.",
+    "Book rooms months ahead for Minjar Mela week, usually late July or early August.",
+    "Carry a light jacket in spring and autumn; evenings by the Ravi turn cool quickly.",
+    "For Bharmour, leave Chamba by 8 am and return before dark; the road is narrow with steep drops."
+  ],
+  "themes": ["festivals", "pilgrimages", "photography", "road-trips", "family-holidays"],
+  "nearby": ["mcleodganj", "bir-billing"],
+  "experiences": [
+    {
+      "slug": "chamba-lakshmi-narayan-temples-and-chaugan",
+      "title": "Stone temples and the Chaugan at dawn",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "7 am, all year",
+      "cost": "Free; guide ₹800–1,500",
+      "image_query": "Lakshmi Narayan Temple Chamba",
+      "wiki": "",
+      "summary": "A morning walk from the Chaugan meadow to the Lakshmi Narayan group of stone temples, then through the old lanes to smaller shrines and the palace area. Chamba's thousand-year history in an easy 2 km loop.",
+      "body": [
+        "Start at the Chaugan, the long green meadow at the centre of town, where locals walk and play cricket in the morning and the old palace buildings stand to one side. From its northern end, a lane leads uphill to the Lakshmi Narayan temple complex. Several stone temples stand together in the north Indian shikhara style, their tall curved towers topped with wooden canopies that protect them from snow and rain, a feature typical of Chamba.",
+        "The main temple is dedicated to Vishnu as Lakshmi Narayan, and others honour Shiva and other deities. Tradition dates the oldest temples here to the 10th century, around the time of the town's founding, though they have been repaired and added to over the centuries. Look for carved stone panels, metal images and the brass figure of Garuda, Vishnu's mount, facing the main shrine. This is a living temple: remove shoes and leather, and ask before taking photographs.",
+        "From the complex, wander the old lanes to smaller temples such as Hari Rai near the Chaugan, known for a fine bronze image, and the stepped streets of the bazaar. End with tea and a plate of local snacks near the Chaugan. A local guide adds stories of the rajas and the temples and costs ₹800–1,500 for the walk."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How old are the Chamba temples?", "a": "Tradition dates the oldest temples of the Lakshmi Narayan complex to the 10th century, when Chamba became the capital, though they have been renovated many times. Other temples in town date from later centuries. They remain in daily worship."},
+        {"q": "Can non-Hindus enter the Lakshmi Narayan temples?", "a": "Generally yes, visitors of all faiths may enter the complex respectfully. Remove shoes and leather items, dress modestly and follow any instructions from priests. Some inner sanctums may be restricted during rituals."},
+        {"q": "Is photography allowed in the Chamba temples?", "a": "Photography of the exteriors is usually fine. Inside the shrines, and of the deities, it is often not allowed or should only be done with permission. Ask the priest, and avoid photographing worshippers during prayers."}
+      ]
+    },
+    {
+      "slug": "chamba-rumal-embroidery-and-museum",
+      "title": "Chamba rumal embroidery and the museum",
+      "kind": "craft",
+      "duration": "3–4 hours",
+      "best_time": "10 am, Tue–Sun (check museum days)",
+      "cost": "Museum ₹20–50; rumals ₹1,500 upwards",
+      "image_query": "Chamba Rumal embroidery",
+      "wiki": "Chamba Rumal",
+      "summary": "See historic Chamba rumals and Pahari paintings at the Bhuri Singh Museum, then visit an embroidery workshop where women stitch scenes in silk with a double satin stitch that looks the same on both sides.",
+      "body": [
+        "The Chamba rumal is a square of fine cotton or muslin embroidered in untwisted silk with scenes from Krishna's life, weddings, hunts and the game of chaupar. Its special feature is the double satin stitch, sometimes called do-rukha, which leaves the image identical on both faces with no knots showing. In the old days rumals covered gifts exchanged at weddings and offerings at temples. Pahari painters often drew the designs before the embroiderers began.",
+        "Start at the Bhuri Singh Museum near the Chaugan, named after Raja Bhuri Singh and opened in the early 20th century. Its collection includes old rumals, Pahari miniature paintings from the Chamba and Kangra schools, carved stone fountain slabs from village springs and copper-plate grants of the rajas. Plan an hour; photography rules vary by gallery.",
+        "Then visit a workshop or cooperative in town where women still embroider rumals. A small piece can take weeks and a large one months. Prices reflect that: a small modern rumal costs ₹1,500–5,000 and larger ones far more. The Chamba rumal is protected with a Geographical Indication. Buying directly helps keep the craft alive and gives fair income to the artisans."
+      ],
+      "good_for": ["couples", "seniors", "families", "photographers"],
+      "faqs": [
+        {"q": "What is a Chamba rumal?", "a": "A square embroidered cloth from Chamba, stitched in silk with a double satin stitch so the design looks the same on both sides. Scenes usually show Krishna, weddings or courtly life. It is a protected craft with a Geographical Indication tag."},
+        {"q": "Where can I buy a genuine Chamba rumal?", "a": "From artisans' workshops, cooperatives and government emporiums in Chamba town. Check both sides of the cloth: genuine double satin stitch looks almost identical on the back. Machine-made copies are cheaper but lack this finish."},
+        {"q": "What are the Bhuri Singh Museum timings?", "a": "The museum generally opens from about 10 am to 5 pm and closes one day a week and on some public holidays. Timings change, so check current status locally or on the Himachal language and culture department's website."}
+      ]
+    },
+    {
+      "slug": "chamba-bharmour-chaurasi-day-trip",
+      "title": "Day trip to Bharmour's Chaurasi temples",
+      "kind": "spiritual",
+      "duration": "Full day, 9–10 hours",
+      "best_time": "Apr–Jun and Sep–Nov",
+      "cost": "Taxi ₹3,500–5,000 return; HRTC bus ₹100–180 each way",
+      "image_query": "Chaurasi temple Bharmour",
+      "wiki": "Bharmour",
+      "summary": "Drive 65 km up the Ravi and Budhil valleys to Bharmour at about 2,200 m, the old capital of Chamba and home of the Gaddi shepherds. See the Chaurasi temple courtyard with its stone and wooden shrines, and return the same evening.",
+      "body": [
+        "Bharmour was the capital of the Chamba rajas before the move down to Chamba town, and it remained the religious heart of the region. The road follows the Ravi gorge and then the Budhil valley, with steep cliffs and narrow sections, and takes about 3 hours each way. Leave early, and do not try it in heavy rain, when the gorge sees rockfalls.",
+        "At the centre of Bharmour is the Chaurasi temple courtyard, named for the 84 shrines said to stand here. The largest temples, to Manimahesh, a form of Shiva, and to Lakshana Devi, are among the oldest in the region; the Lakshana Devi temple is built of wood with fine carvings. Small stone lingams fill the courtyard. Remove shoes and leather and dress modestly.",
+        "Bharmour is the homeland of the Gaddi people, semi-nomadic shepherds who move flocks of sheep and goats between high summer pastures and the lower Kangra hills in winter. You may meet herds on the road. In August or September, the town fills with pilgrims on the Manimahesh yatra to a high lake below Manimahesh Kailash; that trek needs several days and acclimatisation. Check current status before you travel."
+      ],
+      "good_for": ["seniors", "photographers", "families", "couples"],
+      "faqs": [
+        {"q": "How far is Bharmour from Chamba?", "a": "About 65 km, taking roughly 3 hours each way by road along the Ravi and Budhil valleys. HRTC buses run several times a day and take a little longer. A taxi day trip costs about ₹3,500–5,000 for the car."},
+        {"q": "What does Chaurasi mean?", "a": "Chaurasi means 84 in Hindi. The temple courtyard in Bharmour is named for the 84 shrines traditionally said to stand there, including the main temples of Manimahesh and Lakshana Devi and many small lingams."},
+        {"q": "Can I do the Manimahesh yatra from Bharmour?", "a": "Yes. The road continues to Hadsar, where the trek to Manimahesh lake, at about 4,000 m, begins. It takes two to three days return and is busiest during the official yatra in August–September. Acclimatise, go with a registered group, and talk to your doctor if you have health issues."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Chamba?", "a": "Take a train or bus to Pathankot, then an HRTC bus or taxi for about 4 hours to Chamba. From Dharamshala, the drive via Nurpur takes 5–6 hours. Overnight HRTC buses run from Delhi. The nearest busy airport is Kangra, about 5–6 hours away."},
+    {"q": "What is the best time to visit Chamba?", "a": "March, April, September, October and November. Spring and autumn are pleasant and clear. May and June are warm at Chamba's low altitude. The monsoon is heavy from July, though Minjar Mela in late July or early August draws many visitors."},
+    {"q": "How many days do I need in Chamba?", "a": "Two nights is ideal: one day for the temples, the Chaugan, the museum and rumal workshops, and one day for Bharmour. Add a night for Dalhousie or Khajjiar on the way in or out."},
+    {"q": "How much does a Chamba trip cost?", "a": "On a saver budget, about ₹1,800–2,800 a day for an HPTDC or guesthouse room, dhaba meals and HRTC buses. With a private car and a good hotel, expect ₹6,000–10,000 a day per person. Rumals and paintings are extra and can be costly."},
+    {"q": "What is Minjar Mela?", "a": "A week-long fair in Chamba held in the monsoon month of Shravan, usually late July or early August. People wear silk tassels called minjar, processions and cultural programmes fill the Chaugan, and at the end the minjars are offered to the Ravi river."},
+    {"q": "Is Chamba good for families and seniors?", "a": "Yes. At about 1,000 m there are no altitude concerns, the main sights are close together and flat around the Chaugan, and hotels are simple but comfortable. Bharmour is a long, winding road day; skip it if anyone gets carsick."},
+    {"q": "Are there ATMs and network in Chamba?", "a": "Yes. Chamba is a district headquarters with several ATMs and good network on Jio, Airtel and BSNL. Signal becomes patchy on the Bharmour road and beyond. Most hotels and larger shops take cards and UPI."},
+    {"q": "Is Chamba safe for solo travellers?", "a": "Yes. Chamba is a quiet, traditional town with few tourists, and locals are helpful. Dress modestly, especially at temples. Solo women travel here comfortably but should avoid travelling the gorge roads after dark."},
+    {"q": "What is Chamba famous for?", "a": "Its 10th-century stone temples, the Chamba rumal embroidery, Pahari miniature painting, leather chappals, the fiery chukh chilli sauce, Minjar Mela and as the gateway to Bharmour and the Manimahesh pilgrimage."}
+  ]
+}

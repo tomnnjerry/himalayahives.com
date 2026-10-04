@@ -1,0 +1,6 @@
+{% load hives %}<article class="note"{% if n.place %} data-land="{{ n.place.region }}"{% endif %}>
+  <span class="note__stamp">Sourced</span>
+  {% if n.place %}<a class="note__where" href="{{ n.place.url }}">{{ n.place.name }} · {{ n.place.alt_label }}</a>{% endif %}
+  <p class="note__fact">{{ n.fact }}</p>
+  <p class="note__src">Source: <b>{{ n.source }}</b></p>
+</article>

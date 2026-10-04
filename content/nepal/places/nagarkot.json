@@ -1,0 +1,145 @@
+{
+  "slug": "nagarkot",
+  "name": "Nagarkot",
+  "region": "nepal",
+  "kind": "hill station",
+  "wiki": "Nagarkot",
+  "image_query": "Nagarkot sunrise Himalaya view",
+  "lat": 27.7154,
+  "lng": 85.5205,
+  "altitude_m": 2175,
+  "tagline": "The valley's eastern rim and a long line of peaks at dawn",
+  "meta_description": "Nagarkot guide: sunrise over eight Himalayan ranges, the panoramic hiking trail to Changu Narayan, how to reach from Kathmandu or Bhaktapur, costs and stays.",
+  "summary": "Nagarkot is a ridge-top hill station on the eastern rim of the Kathmandu valley, about 32 km from Kathmandu at roughly 2,175 m. On clear mornings from October to March you can see eight of Nepal's Himalayan ranges, Everest included. Stay one night for sunset and sunrise and walk down to Changu Narayan.",
+  "intro": [
+    "Nagarkot began as a fort. Its position on the valley's eastern rim made it a lookout over the routes into the Kathmandu valley, and in later times it became a summer retreat for the royal family before hotels arrived. Today it is a scatter of lodges, pine woods and farm terraces along a ridge, with a view tower at the top and villages of farming families on the slopes below.",
+    "The reason to come is the horizon. On a clear morning the line of peaks runs from Annapurna and Manaslu in the west, through Ganesh Himal, Langtang and Jugal, to Rolwaling, the Everest group and Numbur in the east. Everest itself is a small point on the skyline and is visible only on the clearest days. October to March gives the best odds; from April, haze often hides everything after sunrise.",
+    "Nagarkot is an easy add-on to Bhaktapur, which is about 20 km below. Most people arrive in the afternoon, watch sunset, sleep, rise at 5:30 am for dawn, and then walk the panoramic trail down through villages and forest to Changu Narayan, one of the oldest temples in the valley."
+  ],
+  "facts": [
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Tribhuvan International Airport, ≈ 28 km"],
+    ["From Kathmandu (Thamel)", "≈ 32 km · 1 h 15 min–1 h 45 min"],
+    ["Altitude", "≈ 2,175 m"],
+    ["Known for", "Sunrise and sunset over the Himalaya, ridge walks, Changu Narayan trail"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise from the view tower", "text": "The tower on the ridge top, about 30 minutes' walk or a short drive above the hotel area, gives the widest view. Arrive by 6 am in winter and stand with the line of peaks turning pink one after another from west to east."},
+    {"title": "Eight ranges on one skyline", "text": "On clear days you see the Annapurna, Manaslu, Ganesh Himal, Langtang, Jugal, Rolwaling, Mahalangur (Everest) and Numbur ranges. A peak-finder chart at most lodges helps you name them."},
+    {"title": "Panoramic trail to Changu Narayan", "text": "A mostly downhill walk of about 3–4 hours through pine forest, terraces and farm villages ends at Changu Narayan, a Vishnu temple on a hilltop that is part of the valley's World Heritage listing."},
+    {"title": "Sunset over the valley", "text": "Evenings are quieter than mornings. Find a lodge terrace facing west and watch the light drop over the valley floor, with Kathmandu's lights coming on below."},
+    {"title": "Cool nights in a warm season", "text": "At over 2,000 m, Nagarkot is 6–8 °C cooler than Kathmandu. In April and May, when the valley is hot, it is a good place to sleep, though views are less reliable."}
+  ],
+  "field_notes": [
+    {"fact": "Nagarkot was an ancient fort of the Kathmandu valley, built to watch the activities of neighbouring kingdoms. It later became a summer retreat for the royal family before becoming a hill station.", "source": "Nagarkot"},
+    {"fact": "Eight of Nepal's thirteen Himalayan ranges are visible from Nagarkot, including Annapurna, Manaslu, Ganesh Himal, Langtang, Jugal, Rolwaling, Mahalangur and Numbur.", "source": "Nagarkot"},
+    {"fact": "Changu Narayan, at the end of the panoramic trail, is a hilltop Vishnu temple and one of the seven monument zones of the Kathmandu Valley World Heritage Site.", "source": "Changu Narayan Temple"}
+  ],
+  "local_word": {"word": "Surya udaya", "language": "Nepali", "meaning": "sunrise"},
+  "costs": [
+    ["Taxi from Thamel, one way", "₹2,200–3,100 (NPR 3,500–5,000)"],
+    ["Local bus Bhaktapur–Nagarkot", "₹60–100"],
+    ["Simple lodge double", "₹1,500–3,000 a night"],
+    ["Dal bhat at a lodge", "₹250–450"],
+    ["Changu Narayan temple entry", "≈ ₹60–190 SAARC; ≈ ₹190–625 others"],
+    ["Hired guide for the ridge walk", "₹1,500–2,500 a day"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tribhuvan International Airport is about 28 km away; a taxi takes 1–1.5 hours."},
+    {"mode": "Bus", "text": "Local buses run from Bhaktapur's bus park to Nagarkot in about an hour; change in Bhaktapur if coming from Kathmandu. A tourist bus from Thamel runs in some seasons. Check current status before you travel."},
+    {"mode": "Road", "text": "By taxi or private car from Thamel the drive via Bhaktapur takes 1 h 15 min to 1 h 45 min on a winding paved road."}
+  ],
+  "where_to_stay": "Saver: simple lodges along the ridge road offer doubles from ₹1,500 with views from the roof; book one facing north or east. Comfort: several mid-range resorts on the ridge have heated rooms, terraces and buffet meals, good for families. Signature: Nagarkot has no hotel at the level of Dwarika's; for a signature trip we add Nagarkot as a sunrise excursion with a private car, or book the best room at a comfort resort. Book ahead for October–November weekends, when Kathmandu residents come up.",
+  "stays": [],
+  "tips": [
+    "Check the forecast the evening before; if cloud is forecast, skip the early climb to the tower.",
+    "Carry a warm jacket; winter dawns can drop near freezing.",
+    "Walk the trail to Changu Narayan in the morning and get a taxi or bus from there to Bhaktapur.",
+    "Ask your lodge for a wake-up knock; most staff know the sunrise time.",
+    "In April and May come for the cool air, not the view."
+  ],
+  "themes": ["photography", "treks-and-walks", "honeymoons", "family-holidays"],
+  "nearby": ["bhaktapur", "kathmandu", "patan"],
+  "experiences": [
+    {
+      "slug": "nagarkot-view-tower-sunrise",
+      "title": "Sunrise from Nagarkot's view tower",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "5:30–7:30 am, Oct–Mar",
+      "cost": "Free; taxi to the tower from the hotel area ₹400–800",
+      "image_query": "Nagarkot view tower sunrise",
+      "wiki": "",
+      "summary": "Rise before dawn and stand on the highest point of the Nagarkot ridge as the Himalaya lights up from Annapurna to the Everest group. On the clearest days, this is one of the widest mountain views you can reach by road from Kathmandu.",
+      "body": [
+        "The view tower stands at the top of the ridge, a 30–45 minute uphill walk or short drive from the main cluster of hotels. Leave about 45 minutes before sunrise with a torch and warm layers. Many lodges also have rooftop terraces with good views, so if you are tired, you can stay put and still see most of the skyline.",
+        "As the sky lightens, the peaks appear in sequence. To the west are Annapurna and Manaslu, then the long white wall of Ganesh Himal and Langtang to the north, then Jugal, Rolwaling and the Everest group to the east. Everest is a small dark point between larger-looking nearer peaks and is easiest to pick out with a peak chart or phone app.",
+        "After sunrise, mist usually rises from the valley below and the view fades within an hour or two. Walk back down for breakfast, or start the trail to Changu Narayan from near the ridge. Clear mornings are most likely from October to March; in spring, haze and pre-monsoon cloud often block the view."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can you see Everest from Nagarkot?", "a": "Yes, on clear days. It is far away and looks small, so use a peak-finder chart or app. October to February gives the best odds."},
+        {"q": "What time is sunrise in Nagarkot?", "a": "Around 5:30 am in May and June and around 6:45 am in December and January. Ask your lodge the evening before."},
+        {"q": "Is the climb to the tower difficult?", "a": "It is a steady uphill walk of 30–45 minutes on a road and path. Taxis can drive most of the way if you prefer."}
+      ]
+    },
+    {
+      "slug": "nagarkot-changu-narayan-hike",
+      "title": "Ridge walk from Nagarkot to Changu Narayan",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "7–11 am, Oct–Apr",
+      "cost": "Free walk; temple entry extra; guide ₹1,500–2,500",
+      "image_query": "Changu Narayan temple Bhaktapur",
+      "wiki": "Changu Narayan Temple",
+      "summary": "A mostly downhill walk of about 10–12 km from the Nagarkot ridge through pine forest, terraced fields and farming villages to the hilltop temple of Changu Narayan, then on to Bhaktapur by bus or taxi.",
+      "body": [
+        "The panoramic trail leaves the ridge near Nagarkot and drops gradually west along forested slopes and village paths. You pass terraces of rice, wheat and mustard depending on the season, and small farms where buffaloes are tethered under the eaves. Paths branch often, so a local guide or an offline map is useful. Most people take 3–4 hours at an easy pace.",
+        "The walk ends at Changu Narayan, a temple to Vishnu on a hilltop above the valley floor. It is one of the seven monument zones of the Kathmandu Valley World Heritage Site, and its courtyard holds some of the finest stone sculpture in the valley, including images of Vishnu on Garuda. The village lane leading to the temple has a small museum and tea houses.",
+        "From Changu Narayan, buses and taxis run down to Bhaktapur in about 30 minutes. Carry water, snacks and sun protection; there are few shops in the middle of the walk. In the monsoon the path is muddy and leeches are common."
+      ],
+      "good_for": ["couples", "students", "solo", "photographers"],
+      "faqs": [
+        {"q": "How long is the Nagarkot to Changu Narayan walk?", "a": "About 10–12 km, taking 3–4 hours. It is mostly downhill, with a few short climbs."},
+        {"q": "Do I need a guide for the Changu Narayan trail?", "a": "Not legally, but the paths branch often. A guide or an offline map app prevents wrong turns."},
+        {"q": "How do I get back from Changu Narayan?", "a": "Local buses and taxis go to Bhaktapur in about 30 minutes. From Bhaktapur, buses and taxis continue to Kathmandu."}
+      ]
+    },
+    {
+      "slug": "nagarkot-sunset-ridge-walk",
+      "title": "Sunset walk along the Nagarkot ridge",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "4–6 pm, Oct–Mar",
+      "cost": "Free",
+      "image_query": "Nagarkot ridge sunset Kathmandu valley",
+      "wiki": "",
+      "summary": "An easy late-afternoon walk along the Nagarkot ridge road and forest paths, ending at a west-facing terrace for sunset over the Kathmandu valley. A gentle option for families, seniors and anyone who arrives after lunch.",
+      "body": [
+        "Most visitors to Nagarkot arrive in the afternoon. Instead of waiting in your room, walk the ridge road north from the hotel cluster, where pine forest opens onto terraces and views across the valley. The road is quiet in the late afternoon, and you pass small tea shops, farm houses and the occasional school group.",
+        "As the sun drops, the Kathmandu valley floor turns gold and then grey, with the lights of Bhaktapur and Kathmandu coming on. To the north, the snow peaks may turn pink for a few minutes if the sky is clear. Bring a warm layer; the temperature drops quickly after sunset.",
+        "Return by torchlight to your lodge for dinner. This walk is easy and flat enough for most ages and is a good way to get your bearings before the early start to sunrise the next day."
+      ],
+      "good_for": ["families", "seniors", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is the Nagarkot sunset walk suitable for children?", "a": "Yes. It follows the ridge road and easy paths. Keep children away from the road edge and carry a torch for the walk back."},
+        {"q": "Will I see the mountains at sunset?", "a": "Sometimes. Afternoon cloud often covers the peaks, but the valley view is reliable."},
+        {"q": "What should I carry?", "a": "A warm layer, a torch or phone light, water and a little cash for tea on the way."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Nagarkot worth an overnight stay?", "a": "Yes, if you come between October and March. The best views are at sunrise, which you can only catch by sleeping on the ridge or leaving Kathmandu at 4 am. In the hazy months, it is a pleasant cool retreat but the mountains are rarely visible."},
+    {"q": "How far is Nagarkot from Kathmandu?", "a": "About 32 km. A taxi takes 1 h 15 min to 1 h 45 min via Bhaktapur and costs about NPR 3,500–5,000 one way. Local buses from Bhaktapur take about an hour."},
+    {"q": "Which month gives the clearest view from Nagarkot?", "a": "October to February usually gives the clearest skies. November and December are especially reliable. From April to September, haze or monsoon cloud often hides the peaks."},
+    {"q": "Is Nagarkot good for a honeymoon?", "a": "It is a quiet, cool place for one or two nights, with sunrise and sunset terraces. Book a room with a view and add Bhaktapur or Dhulikhel."},
+    {"q": "How cold is Nagarkot in winter?", "a": "Nights in December and January can fall near 0 °C. Rooms in budget lodges may not be heated, so pack warm clothes."},
+    {"q": "Are there ATMs in Nagarkot?", "a": "Options are limited. Withdraw cash in Bhaktapur or Kathmandu before you go; most lodges accept INR ₹100 notes and some take cards."},
+    {"q": "Can I do Nagarkot as a day trip?", "a": "Yes, but you will miss sunrise. A day trip suits sunset, or a walk to Changu Narayan combined with Bhaktapur."},
+    {"q": "Is there mobile network in Nagarkot?", "a": "Yes, Nepal Telecom and Ncell both work on the ridge, with 4G in most places."},
+    {"q": "Is Nagarkot suitable for seniors?", "a": "Yes. Most hotels are reachable by car, and rooftop terraces give views without hiking. Altitude at about 2,175 m does not usually cause problems for healthy travellers."}
+  ]
+}

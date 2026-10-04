@@ -1,0 +1,146 @@
+{
+  "slug": "bumthang",
+  "name": "Bumthang (Jakar)",
+  "region": "bhutan",
+  "kind": "valley",
+  "wiki": "Bumthang District",
+  "image_query": "Bumthang valley Jakar Dzong",
+  "lat": 27.55,
+  "lng": 90.75,
+  "altitude_m": 2600,
+  "tagline": "Four valleys of temples, buckwheat and yathra wool",
+  "meta_description": "Bumthang guide: Jambay and Kurjey Lhakhang, Burning Lake, Jakar Dzong, buckwheat food, yathra weaving, festivals, stays and honest costs.",
+  "summary": "Bumthang is four high valleys around Jakar town at about 2,600 m in central Bhutan, called the country's spiritual heartland. Here are Jambay Lhakhang, Kurjey Lhakhang, the Burning Lake and Tamshing, plus buckwheat fields, yathra looms and the Red Panda brewery. Spend two to three nights.",
+  "intro": [
+    "Bumthang District is made of four glacial valleys: Choekhor (also called Bumthang or Chamkhar), Tang, Ura and Chhume. The name is often translated as 'beautiful field', from thang, a flat place, and bum, which may refer to a holy-water vase or to a girl. Jakar, the main town, sits in Choekhor valley under its dzong. It is about 270 km and 8–9 hours by road from Thimphu, or a short domestic flight to Bathpalathang airport when it runs.",
+    "This is where Guru Rinpoche came in the 8th century to heal the local king Sindhu Raja, leaving his body print in a cave at Kurjey. It is where the treasure-revealer Pema Lingpa was born in Tang valley in 1450, and where he leapt into the Burning Lake with a lit butter lamp. The first kings ruled from here and from Trongsa; the first three are entombed at Kurjey.",
+    "Bumthang farms differently from the west. The valleys are too cold for much rice, so families grow buckwheat, wheat, barley and potatoes, keep cattle and sell honey, apples and cheese. Women weave yathra, a woven wool cloth in bold geometric patterns, on looms in front of their houses. The Swiss link is real too: Swiss development work here in the 20th century left a cheese factory, a brewery and a guesthouse that still serves fondue."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Bathpalathang (domestic); Paro for international"],
+    ["From Trongsa", "≈ 68 km · 2.5–3 h"],
+    ["Altitude", "≈ 2,600–3,100 m"],
+    ["Known for", "Ancient temples, Burning Lake, buckwheat, yathra, festivals"]
+  ],
+  "best_months": [0, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Jambay Lhakhang", "text": "Said to be one of the 108 temples built by Songtsen Gampo in 659, this is Bhutan's other ancient temple alongside Kyichu in Paro. Its Jambay Lhakhang Drup in October or November includes a midnight fire blessing."},
+    {"title": "Kurjey Lhakhang", "text": "Three temples stand against the cave where Guru Rinpoche is believed to have meditated and left a body print. It is the resting place of the first three kings of Bhutan. A spring here is held to be holy."},
+    {"title": "Membartsho, the Burning Lake", "text": "A deep pool in the Tang Chhu gorge, about 30 minutes' drive from Chamkhar, where Pema Lingpa is said to have dived in with a burning lamp and come out with a treasure, lamp still lit. The rocks are slippery: stay back."},
+    {"title": "Jakar Dzong", "text": "The 'castle of the white bird' sits on a ridge above Jakar town and may be the largest dzong by circumference, more than 1,500 m around. It now houses district offices and monks."},
+    {"title": "Tamshing Lhakhang", "text": "Built by Pema Lingpa in 1501, this Nyingma temple has wall paintings from his time, among the oldest in Bhutan. A chain-mail shirt said to have been made by him hangs inside for pilgrims to carry around the altar."},
+    {"title": "Yathra weaving in Chhume", "text": "In Chhume valley, about 30 minutes west of Jakar, women weave yathra on back-strap and frame looms at roadside workshops. Pieces become jackets, blankets and cushion covers."}
+  ],
+  "field_notes": [
+    {"fact": "Bumthang's main farm products include buckwheat, wheat, dairy, honey, apples and potatoes, and the district is nationally known for yathra and mathra wool weaving.", "source": "Bumthang District"},
+    {"fact": "Brokkat, an endangered language spoken by only about 300 people, survives in the village of Dhur in Bumthang, a remnant of yak-herding communities.", "source": "Bumthang District"},
+    {"fact": "Membartsho is maintained by nuns of the nearby Pema Tekchok Choling nunnery, founded in 2000 as Bhutan's first shedra, or Buddhist college, for women; the pool is dangerous and five people drowned there between 2011 and 2015.", "source": "Membartsho"}
+  ],
+  "local_word": {"word": "Puta", "language": "Bumthangkha", "meaning": "buckwheat noodles, Bumthang's everyday dish"},
+  "costs": [
+    ["Jambay or Kurjey Lhakhang entry", "Nu 500–1,000 (check current status)"],
+    ["Yathra shawl or runner", "₹2,000–8,000"],
+    ["Plate of puta or khuli", "₹150–300"],
+    ["Red Panda beer at a local bar", "₹150–250"],
+    ["Guesthouse double with breakfast", "₹3,500–6,500 a night"],
+    ["Thimphu–Bumthang public bus seat", "₹500–800"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Drukair has operated domestic flights between Paro and Bathpalathang airport near Jakar; schedules are limited and change with the season, so check current status before you travel."},
+    {"mode": "Bus", "text": "Public buses run Thimphu–Bumthang in about 9–10 hours along the Lateral Road. Tourists must travel with their licensed guide, so most go by the operator's vehicle."},
+    {"mode": "Road", "text": "Trongsa to Jakar is about 68 km and 2.5–3 hours over Yotong La at about 3,400 m. Thimphu to Jakar is about 270 km and 8–9 hours, usually split with nights in Punakha or Phobjikha and Trongsa."}
+  ],
+  "where_to_stay": "Saver and budget travellers have well-run guesthouses and small hotels in and around Jakar and Chamkhar, including the Swiss Guest House above Jakar, a farmhouse-style lodge open since the early 1980s, with doubles from about ₹3,500–6,500. Comfort travellers find good 3-star hotels with wood stoves along the valley. Signature stays are Amankora Bumthang, next to the Wangdue Chhoeling Palace, and Six Senses Bumthang, built in a pine forest above the valley.",
+  "stays": ["swiss-guest-house-bumthang", "amankora-bhutan-lodges", "six-senses-bhutan-lodges"],
+  "tips": [
+    "Try puta, buckwheat noodles with mustard oil and chilli, and khuli, buckwheat pancakes.",
+    "Visit the Burning Lake with your guide and keep well back from the slippery rock edge.",
+    "Buy yathra directly from weavers in Chhume; prices reflect the hours on the loom.",
+    "Pack a warm jacket: autumn nights in Jakar fall close to 0 °C.",
+    "If you can, time your visit with the Jakar Tshechu or Jambay Lhakhang Drup in October or November."
+  ],
+  "themes": ["monasteries", "festivals", "food-and-tea", "homestays-and-villages"],
+  "nearby": ["trongsa", "phobjikha"],
+  "experiences": [
+    {
+      "slug": "bumthang-jambay-kurjey-temple-walk",
+      "title": "Jambay to Kurjey: the temple walk of Choekhor",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "8.30 am – 12.30 pm, Mar – Nov",
+      "cost": "Entries Nu 500–1,000 each (check current status)",
+      "image_query": "Kurjey Lhakhang Bumthang temple",
+      "wiki": "Kurjey Lhakhang",
+      "summary": "A gentle 3–4 km walk up the Choekhor valley linking Jambay Lhakhang, Kurjey Lhakhang and, across a footbridge, Tamshing, three temples that together tell the story of Buddhism's arrival in Bhutan.",
+      "body": [
+        "Start at Jambay Lhakhang, a few kilometres north of Jakar. Tradition says it was built in 659 by Songtsen Gampo on the same day as Kyichu Lhakhang in Paro, as part of the 108 temples pinning down a demoness. It is dedicated to Jampa, Maitreya, the Buddha of the future. Guru Rinpoche is said to have used it as a residence, and a small room above the entrance is believed to have been his seat.",
+        "Walk on to Kurjey Lhakhang, about 2 km further along the valley. The story: Sindhu Raja, king of Bumthang, angered the local deity Shelging Karpo, who stole his life force. Guru Rinpoche came, lured the deity out of his cave with a dance and reflected sunlight, and tamed him. The oldest temple, Guru Lhakhang, was built against the cave holding his body print. The first three kings of Bhutan are entombed here, and a large tree behind one of the temples is believed to be a treasure left by Guru Rinpoche.",
+        "From Kurjey, cross the Chamkhar Chhu on a suspension footbridge and walk 20 minutes to Tamshing Lhakhang, built by Pema Lingpa in 1501, with some of the oldest wall paintings in Bhutan. Ask the caretaker about the heavy chain-mail shirt pilgrims carry around the inner sanctum. Dress modestly and keep cameras off inside."
+      ],
+      "good_for": ["seniors", "families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "How long does the Jambay–Kurjey–Tamshing walk take?", "a": "About 3–4 hours including temple visits, covering 3–4 km on mostly flat valley roads and a footbridge. Your vehicle can pick you up at Tamshing. It is suitable for older children and seniors."},
+        {"q": "Who is buried at Kurjey Lhakhang?", "a": "The remains of the first three kings of Bhutan rest here: Ugyen Wangchuck, Jigme Wangchuck and Jigme Dorji Wangchuck. Kurjey is also central to the story of Guru Rinpoche's arrival in Bhutan."},
+        {"q": "Is there a festival at Kurjey?", "a": "Yes, the Kurjey Tshechu, held in the summer, usually in June; the 2026 tentative date was 24 June. It features masked dances and a large thongdrel. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "bumthang-membartsho-burning-lake",
+      "title": "Membartsho, the Burning Lake in Tang valley",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Morning, Mar – Nov",
+      "cost": "Free; butter lamps ₹50–200",
+      "image_query": "Membartsho Burning Lake Bumthang",
+      "wiki": "Membartsho",
+      "summary": "A short drive and a five-minute walk lead to a deep pool in the Tang Chhu gorge, revered as the place where Pema Lingpa recovered treasures hidden by Guru Rinpoche. Pilgrims float butter lamps and leave clay tsatsas.",
+      "body": [
+        "Membartsho, or Mebar Tsho, is a pool in a narrow gorge of the Tang Chhu, about 30 minutes by car from Chamkhar town and five minutes' walk from the road. Pema Lingpa, born in Tang valley in 1450 and apprenticed as a blacksmith, is said to have dreamt of a temple at the bottom of the river. He dived in and came back with a treasure chest.",
+        "When the local ruler doubted him, he returned with a crowd, held up a lit butter lamp and said that if he were a true treasure-revealer he would come back with the lamp still burning. He dived, and emerged holding a statue, a chest and the lamp, still alight. Hence the name, 'burning lake'. The treasures he found here include a statue of Guru Rinpoche and scrolls.",
+        "Today prayer flags crowd the gorge and small clay tsatsas line the rocks. Nuns from the nearby Pema Tekchok Choling nunnery look after the site and keep butter lamps in a small cupboard by the wooden footbridge. You can light one for a small offering. Stay well back from the edge: the rocks are slippery, the current fast, and drownings have occurred here."
+      ],
+      "good_for": ["couples", "seniors", "photographers", "solo"],
+      "faqs": [
+        {"q": "Is Membartsho actually a lake?", "a": "No. It is a deep pool in the Tang Chhu gorge, not a lake. The name comes from the legend of Pema Lingpa's burning lamp. It is a sacred site, so do not swim, throw stones or step on offerings."},
+        {"q": "Is the Burning Lake dangerous?", "a": "It can be. The rocks are slippery and the current is strong; five people drowned there between 2011 and 2015, including a tourist and his guide. Keep children close and stay behind the edge."},
+        {"q": "How far is the Burning Lake from Jakar?", "a": "About 30 minutes by car into Tang valley, then a five-minute walk down from the road. Combine it with Ugyen Choling Palace Museum further up Tang valley for a half or full day."}
+      ]
+    },
+    {
+      "slug": "bumthang-buckwheat-and-yathra",
+      "title": "Buckwheat kitchen and yathra looms",
+      "kind": "craft",
+      "duration": "Half day",
+      "best_time": "10 am – 3 pm, Mar – Nov",
+      "cost": "Cooking session ₹800–2,000; yathra from ₹2,000",
+      "image_query": "Bhutan yathra weaving loom Bumthang",
+      "wiki": "",
+      "summary": "Learn how Bumthang feeds and dresses itself: a farmhouse session making puta buckwheat noodles and khuli pancakes, then a visit to Chhume valley weavers working yathra wool in bold geometric patterns.",
+      "body": [
+        "Bumthang's valleys sit too high and cold for much rice, so buckwheat has long been a staple. Your guide can arrange a session in a farmhouse kitchen: flour is pressed through a wooden extruder to make puta, buckwheat noodles tossed with mustard oil, chilli and spring onion, and batter is spread thin on a griddle for khuli pancakes, eaten with ezay chilli paste or butter. Other dishes may include hoentoe dumplings or local cheese.",
+        "Then drive about 30 minutes west to Chhume valley. Here, at roadside workshops and in front of houses, women weave yathra, a woven wool cloth whose patterns are made in the loom, on back-strap and frame looms. Yathra is made from sheep's wool, sometimes yak hair, coloured with natural or chemical dyes, and sewn into jackets, blankets and cushion covers.",
+        "Watch quietly and ask before photographing weavers. A good piece may take weeks; prices reflect that, and bargaining hard is not customary. Look for even weave and tight edges. If time allows, stop at the Bumthang Swiss cheese factory or the Red Panda brewery in Jakar, Bhutan's only brewery, which makes an unfiltered wheat beer."
+      ],
+      "good_for": ["couples", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "What is yathra?", "a": "Yathra is a woven wool textile from Bumthang, made in bands with geometric patterns and used for jackets, blankets, rugs and bags. It is one of Bumthang's best-known crafts, along with mathra, another wool weave."},
+        {"q": "What is puta?", "a": "Puta are buckwheat noodles, a staple of Bumthang. Dough is pressed through a wooden press into boiling water, then mixed with mustard oil, chilli and salt. Khuli are thin buckwheat pancakes often eaten with chilli paste."},
+        {"q": "Is buying yathra in Bumthang cheaper than in Thimphu?", "a": "Usually a little, and the money goes straight to the weaver. A shawl or table runner costs roughly ₹2,000–8,000 depending on size and wool. Larger blankets cost more."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Bumthang from Thimphu?", "a": "By road, about 270 km and 8–9 hours along the Lateral Road via Dochu La, Wangdue, Pele La and Trongsa. Most trips break it with nights in Punakha or Phobjikha and Trongsa. Drukair has run domestic flights from Paro to Bathpalathang; check current status before you travel."},
+    {"q": "How many days should I spend in Bumthang?", "a": "Two to three nights. One day for the Choekhor temples, one for Tang valley and the Burning Lake, and an optional day for Ura valley or a festival. Bumthang rewards slow travel."},
+    {"q": "When are festivals in Bumthang?", "a": "Several: Ura Yakchoe in spring, Kurjey and Nimalung tshechus in June, Jakar Tshechu and Jambay Lhakhang Drup in October or November and the Nalakhar Tshechu in November. The 2026 tentative calendar listed Jakar Tshechu 18–21 October and Jambay Lhakhang Drup 26–29 October. Check current status before you travel."},
+    {"q": "How cold is Bumthang?", "a": "Jakar sits at about 2,600 m. Autumn days are 10–18 °C and nights near freezing; December to February nights drop to −5 °C or lower and passes can see snow. Summer is mild and wet."},
+    {"q": "Is Bumthang suitable for a budget trip?", "a": "Yes, if you have time. The long drive adds days, SDF and guide costs, so a Bumthang loop needs at least 8–9 nights. Guesthouses are reasonably priced and local food is cheap. A group of four sharing a vehicle keeps costs sensible."},
+    {"q": "Can I see black-necked cranes in Bumthang?", "a": "Yes. Bumthang has wintering cranes too, notably in the Chhume valley area, though Phobjikha is the better-known site. Ask your guide where birds were seen that week, and keep your distance."},
+    {"q": "Are there ATMs in Jakar?", "a": "Yes, bank branches and ATMs operate in Jakar town, though acceptance of Indian and foreign cards varies. Carry enough cash from Thimphu for the few days you spend here."},
+    {"q": "What is Bumthang known for besides temples?", "a": "Buckwheat dishes, honey, apples, Swiss-style cheese, Red Panda wheat beer from Bhutan's only brewery, and yathra weaving. It is also the gateway to Ura valley and the Ugyen Choling palace museum in upper Tang."},
+    {"q": "Do I need a separate permit for Bumthang?", "a": "Bumthang must be listed on your entry permit, as with every district beyond Paro and Thimphu. Your licensed operator arranges it with your route. Check current status before you travel."}
+  ]
+}

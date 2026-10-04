@@ -1,0 +1,146 @@
+{
+  "slug": "kausani",
+  "name": "Kausani",
+  "region": "kumaon",
+  "kind": "hill station",
+  "wiki": "Kausani",
+  "image_query": "Kausani Himalaya view Trishul",
+  "lat": 29.85,
+  "lng": 79.6,
+  "altitude_m": 1890,
+  "tagline": "Gandhi's ridge, a poet's birthplace and a 300 km wall of peaks",
+  "meta_description": "Kausani guide: Anasakti Ashram where Gandhi stayed in 1929, Pant museum, tea estate, Baijnath temples, KMVN rest house, costs and how to reach.",
+  "summary": "Kausani is a pine-covered ridge village at about 1,890 m, 52 km north of Almora, facing a wide panorama of peaks from Trishul and Nanda Devi to Panchachuli. Gandhi stayed here for two weeks in 1929 and the Hindi poet Sumitranandan Pant was born here. Two nights covers the ashrams, tea estate and Baijnath.",
+  "intro": [
+    "Kausani runs along a narrow ridge on the Almora–Bageshwar road, with the Someshwar valley on one side and the Garur and Katyur valleys on the other. The rivers below, the Kosi and the Gomti, water the flat, fertile fields called seras. On a clear morning from the ridge, the snow peaks stretch for some 300 km across the northern sky, with Trishul and Nanda Devi closest and the Panchachuli group far to the east.",
+    "In June 1929 Mahatma Gandhi stayed here for about 14 days while writing Anasakti Yoga, his commentary on the Bhagavad Gita, and is said to have compared the view to Switzerland. The house is now the Anasakti Ashram, with a prayer hall and exhibition. His English disciple Sarla Behn founded the Lakshmi Ashram, a school for hill girls, just below the village in 1946.",
+    "The Hindi poet Sumitranandan Pant was born in Kausani in 1900, and his family home is a small museum. Today the village is a quiet stop on Kumaon circuits, with the KMVN rest house, a government tea estate and a few cafés. The temple town of Baijnath, once the Katyuri capital, lies 17 km below, and Bageshwar 40 km on, on the way to Munsiyari."
+  ],
+  "facts": [
+    ["Best months", "Sep – Jun"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Pantnagar (≈ 178 km · 5.5 h)"],
+    ["From Almora", "≈ 52 km · 2 h"],
+    ["Altitude", "about 1,890 m"],
+    ["Known for", "Himalaya panorama, Anasakti Ashram, Pant museum, tea"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Sunrise from the ridge", "text": "Stand outside the KMVN rest house or the Anasakti Ashram at first light. From October to February the sun lights Trishul first, then Nanda Devi and the long line of peaks to Panchachuli. Arrive 20 minutes early and dress warmly."},
+    {"title": "Anasakti Ashram", "text": "The house where Gandhi stayed for about two weeks in 1929 is now an ashram with a prayer hall, photographs and a small library. Evening prayers are open to visitors. Keep silence inside and dress modestly."},
+    {"title": "Sumitranandan Pant museum", "text": "The poet's childhood home near the bus stand holds his manuscripts, letters, awards and personal belongings. It is small, free or low-cost, and gives a sense of the Hindi literary world that grew around Kumaon."},
+    {"title": "Kausani tea estate", "text": "A tea garden on the slopes outside the village grows and sells hill tea. Walk the rows, see processing where open, and buy packs at the shop. Tea in Kumaon was first planted under the British in the 19th century."},
+    {"title": "Baijnath temples", "text": "Seventeen kilometres below Kausani, the Baijnath temple group stands on the Gomti river in the old Katyuri capital. The stone temples are protected by the ASI; the riverside setting is calm in the morning."},
+    {"title": "Lakshmi Ashram", "text": "Founded in 1946 by Gandhi's disciple Sarla Behn, this school for girls lies in pine forest about 1 km below the village. Visits are possible with prior permission; it is a working school, not a sight."}
+  ],
+  "field_notes": [
+    {"fact": "Mahatma Gandhi stayed at Kausani for 14 days in 1929, writing his commentary Anasakti Yoga. The house he stayed in is now the Anasakti Ashram, a short walk from the bus stand.", "source": "Kausani"},
+    {"fact": "The Hindi poet Sumitranandan Pant was born in Kausani on 20 May 1900. His family home is now a museum holding drafts of his poems, letters, awards and articles of daily use.", "source": "Kausani"},
+    {"fact": "Lakshmi Ashram near Kausani was founded in 1946 by Gandhi's English disciple Catherine Heilemann, known as Sarla Behn, to support the education and self-reliance of Kumaoni women.", "source": "Kausani"}
+  ],
+  "local_word": {"word": "Sera", "language": "Kumaoni", "meaning": "flat, irrigated riverbank fields, like those of the Kosi and Gomti valleys below Kausani"},
+  "costs": [
+    ["Shared jeep seat, Almora–Kausani", "₹150–250"],
+    ["KMVN rest house double", "₹2,000–4,500 a night"],
+    ["Budget hotel double in the village", "₹1,200–2,500 a night"],
+    ["Taxi to Baijnath and back", "₹1,000–1,500"],
+    ["Kausani tea pack at the estate shop", "₹150–500"],
+    ["Kumaoni thali at a local eatery", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 178 km away, 5–6 hours by road via Almora. A taxi costs roughly ₹6,000–7,500."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 145 km away, 5 hours via Almora. Take a shared taxi to Almora and a shared jeep or bus on to Kausani, or hire a taxi for ₹4,500–5,500."},
+    {"mode": "Bus", "text": "KMOU and Uttarakhand Roadways buses run from Haldwani and Almora towards Bageshwar and stop at Kausani. Shared jeeps run between Almora, Kausani and Bageshwar through the day. Check current status before you travel in the monsoon."}
+  ],
+  "where_to_stay": "Saver: the KMVN tourist rest house on the ridge has some of the best mountain views in the village at a modest price, and several budget hotels near the bus stand start around ₹1,200 a night; the Anasakti Ashram has simple rooms for guests who keep its routine. Comfort: a handful of mid-range resorts on the ridge and along the Baijnath road offer heated rooms and Himalayan-facing balconies. There is no true luxury hotel in Kausani; signature trips usually stay at Binsar or Kasar Devi and visit.",
+  "stays": ["kmvn-trh-kausani"],
+  "tips": [
+    "Book a room that faces north; the view is the reason to come.",
+    "Kausani is small, so walk everywhere and keep the car for Baijnath and Bageshwar.",
+    "Attend evening prayer at the Anasakti Ashram once, quietly and on time.",
+    "Carry cash; Kausani's ATMs are few and can run dry.",
+    "If continuing to Munsiyari, leave Kausani early, as the drive via Bageshwar and Thal takes 7–8 hours."
+  ],
+  "themes": ["photography", "food-and-tea", "family-holidays", "wellness-and-yoga"],
+  "nearby": ["almora", "binsar", "ranikhet", "munsiyari"],
+  "experiences": [
+    {
+      "slug": "kausani-anasakti-ashram-sunrise",
+      "title": "Sunrise and silence at Anasakti Ashram",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Sunrise and evening prayer, Sep–Jun",
+      "cost": "Free; donations welcome",
+      "image_query": "Anasakti Ashram Kausani",
+      "wiki": "",
+      "summary": "Watch the peaks light up from the garden of the house where Gandhi stayed in 1929, then see the small exhibition on his visit. Evening prayers are open to visitors and give a quieter side of Kausani.",
+      "body": [
+        "Gandhi came to Kausani in June 1929, during a tour of Kumaon, and stayed about two weeks in a bungalow on the ridge. He used the time to write Anasakti Yoga, his translation and commentary on the Bhagavad Gita, and remarked on the beauty of the setting. The bungalow later became the Anasakti Ashram, run along Gandhian lines.",
+        "Today the ashram has a prayer hall, a photo exhibition on Gandhi's life and his visit, and a small library and shop selling his writings. The garden faces the snow peaks, and early morning is the best time to sit there. The ashram also keeps simple rooms for guests who follow its routine.",
+        "Evening prayers are held at a fixed time; ask at the office. Keep silence, dress modestly and do not bring food or alcohol. Photography is usually allowed in the garden but ask before photographing the prayer hall. Combine the visit with the Pant museum, a short walk away."
+      ],
+      "good_for": ["seniors", "students", "families", "solo"],
+      "faqs": [
+        {"q": "When did Gandhi visit Kausani?", "a": "Gandhi stayed at Kausani for about 14 days in June 1929, writing Anasakti Yoga, his commentary on the Bhagavad Gita. The bungalow where he stayed is now the Anasakti Ashram."},
+        {"q": "Can I stay at the Anasakti Ashram?", "a": "The ashram has a few simple rooms for guests who are willing to follow its routine, including quiet hours and no alcohol or meat. Contact it in advance; rooms are limited."},
+        {"q": "Is the Anasakti Ashram open every day?", "a": "It is generally open daily for visitors, with set hours and evening prayers. Timings change with the season, so check at the office or with your hotel."}
+      ]
+    },
+    {
+      "slug": "kausani-tea-estate-walk",
+      "title": "A walk through the Kausani tea estate",
+      "kind": "food",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Apr–Oct",
+      "cost": "Free to walk; tea packs ₹150–500",
+      "image_query": "Kausani tea estate Uttarakhand",
+      "wiki": "",
+      "summary": "Walk the tea rows on the slopes below Kausani, see how leaf is picked and processed when the factory is working, and buy hill tea at the estate shop. It is an easy outing and a reminder that Kumaon once had a serious tea industry.",
+      "body": [
+        "The British planted tea in Kumaon in the 19th century, with gardens around Almora, Sattal, Chaukori, Berinag and Kausani. Many were later abandoned as tea moved to Assam and Darjeeling. Kausani's estate is part of efforts by the state to revive hill tea, and its rows cover the slopes just outside the village.",
+        "The plucking season runs roughly from spring to autumn. In the morning you may see pickers working the bushes, taking the top leaves and bud. When the small processing unit is open, staff sometimes explain withering, rolling and drying. The estate shop sells black and green teas in small packs.",
+        "Ask at the gate before walking the rows, stay on paths and do not pick leaves. Weekends are busier with day visitors. Combine the walk with Baijnath, which lies on the same road down the valley, or with a slow lunch back in the village."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is there a tea garden in Kausani?", "a": "Yes, a tea estate lies on the slopes just outside the village on the Baijnath road. Visitors can walk the rows and buy tea at its shop. It is part of efforts to revive hill tea in Uttarakhand."},
+        {"q": "When is tea plucked in Kausani?", "a": "Roughly from spring to autumn, with the first flush in April and May. Plucking stops in winter. Mornings are the best time to see work in the garden."},
+        {"q": "Can I buy Kausani tea?", "a": "Yes, the estate shop sells black and green teas in small packs, typically ₹150–500 depending on type and weight. Packs make light, useful gifts."}
+      ]
+    },
+    {
+      "slug": "kausani-baijnath-temples",
+      "title": "Baijnath temples in the old Katyuri capital",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "Morning, all year except monsoon",
+      "cost": "Free entry; taxi ₹1,000–1,500 return",
+      "image_query": "Baijnath temple Uttarakhand Gomti",
+      "wiki": "Baijnath, Uttarakhand",
+      "summary": "Drive 17 km down from Kausani to Baijnath on the Gomti river, where a group of stone temples marks the old Katyuri capital of Kartikeyapura. The main temple is dedicated to Shiva as Vaidyanath and the site is protected by the ASI.",
+      "body": [
+        "Before the Chand kings ruled from Almora, the Katyuri dynasty controlled much of Kumaon from the Garur and Baijnath valley, known as Katyur. Their capital, Kartikeyapura, is linked with this site, and the temples at Baijnath are among the best surviving works of their period. They stand on the bank of the Gomti in a flat, fertile valley.",
+        "The main temple is to Shiva as Vaidyanath, lord of physicians, with smaller shrines around it. The image of Parvati in the main sanctum is admired for its carving. The Archaeological Survey of India protects the group, and the setting by the river with steps down to the water is calm early in the day.",
+        "Remove shoes before entering the shrines and follow any rules on photographs inside. The village of Baijnath has tea stalls and simple eateries. Return the same way to Kausani or continue 23 km to Bageshwar, the confluence town of the Saryu and Gomti, on the way to Munsiyari."
+      ],
+      "good_for": ["seniors", "families", "photographers", "students"],
+      "faqs": [
+        {"q": "How far is Baijnath from Kausani?", "a": "About 17 km, 30–40 minutes by road down the Garur valley. A taxi for the return trip costs ₹1,000–1,500, and shared jeeps run on the Kausani–Bageshwar road."},
+        {"q": "Who built the Baijnath temples?", "a": "They are linked with the Katyuri dynasty, who ruled from this valley before the Chand kings. The temples are protected by the Archaeological Survey of India."},
+        {"q": "Can I visit Baijnath on the way to Munsiyari?", "a": "Yes. Baijnath lies on the road from Kausani to Bageshwar, the usual route to Munsiyari via Thal. A short stop adds about an hour."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Why is Kausani famous?", "a": "For its wide view of the snow peaks from Trishul and Nanda Devi to Panchachuli, for Gandhi's stay in 1929 at what is now the Anasakti Ashram, and as the birthplace of the Hindi poet Sumitranandan Pant. It is also known for tea and quiet."},
+    {"q": "What is the best time to visit Kausani?", "a": "October to February for the clearest mountain views, and March to June for pleasant weather and rhododendrons. July and August are rainy and the peaks are usually hidden."},
+    {"q": "How many days are enough for Kausani?", "a": "Two nights is enough to see sunrise twice, visit the ashrams and Pant museum, walk the tea estate and drive to Baijnath. It combines well with Almora and Binsar or as a stop on the way to Munsiyari."},
+    {"q": "How do I reach Kausani from Kathgodam?", "a": "Take a shared taxi to Almora, about 3 hours, then a shared jeep or bus on to Kausani, about 2 hours. A private taxi from Kathgodam costs about ₹4,500–5,500 and takes 5 hours."},
+    {"q": "Does it snow in Kausani?", "a": "Light snow falls in some winters, usually in January or February, but not every year. Nights are cold from December to February, often near freezing."},
+    {"q": "Is Kausani good for families?", "a": "Yes. It is quiet, safe and walkable, with short outings to the tea estate and Baijnath. There is little nightlife or shopping, so it suits families who enjoy views and slow days."},
+    {"q": "Where should I stay in Kausani on a budget?", "a": "The KMVN rest house on the ridge has excellent views for its price. Budget hotels near the bus stand start around ₹1,200 a night. Book north-facing rooms for the view."},
+    {"q": "Is there network in Kausani?", "a": "Jio, Airtel and BSNL work in the village. Speeds are fine for messages and maps, but slower in bad weather. Some hotels have Wi-Fi."},
+    {"q": "Can I go from Kausani to Munsiyari?", "a": "Yes. The road runs via Baijnath, Bageshwar and Thal, about 180 km and 7–8 hours. Shared jeeps run from Bageshwar. Leave early and check current status before you travel in the monsoon."}
+  ]
+}

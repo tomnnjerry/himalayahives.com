@@ -1,0 +1,60 @@
+{
+  "slug": "kumaon-comfort-birding-sattal-binsar-6n",
+  "title": "Kumaon birding: Sattal and Binsar",
+  "region": "kumaon",
+  "tier": "comfort",
+  "nights": 6,
+  "themes": ["wildlife-and-birds", "photography", "treks-and-walks"],
+  "stops": [{"place": "bhimtal-sattal", "nights": 3}, {"place": "binsar", "nights": 3}],
+  "start": "Kathgodam railway station",
+  "end": "Kathgodam railway station",
+  "price_from_inr": 40000,
+  "price_note": "Per person, twin sharing: 6 nights with meals at a Sattal-area lodge and the KMVN Binsar rest house, private car, five guided birding sessions, Binsar fees; trains extra.",
+  "transport": "Private car with driver",
+  "group": "Private",
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Active",
+  "meta_description": "Kumaon birding trip, 6 nights: dawn walks at Sattal and in Binsar's oak forest with local guides, private car and lodges, from ₹40,000 per person.",
+  "summary": "Six nights for birders and bird photographers in two of Kumaon's richest habitats: the lakes, streams and mixed forest of Sattal at about 1,370 m, and the mature oak and rhododendron of Binsar near 2,400 m. Five guided dawn sessions, slow walks, and stays placed close to the birds.",
+  "intro": [
+    "Sattal and Binsar show two layers of Himalayan forest a few hours apart. Sattal, low and warm, holds barbets, woodpeckers, blue magpies, kingfishers and, in winter, thrushes and forktails on its streams. Binsar, higher and cooler, holds oak specialists, nuthatches, laughingthrushes and pheasants such as kalij and koklass. Together they give a strong list in a week.",
+    "We stay near Sattal for three nights so you can be on the forest road at first light without a long drive, then three nights inside Binsar sanctuary at the KMVN rest house, a short walk from the best oak forest. Local guides lead five dawn sessions; afternoons are for rest, photo review or quieter solo walks. We prefer guides who do not use playback."
+  ],
+  "highlights": [
+    "Five dawn sessions with local birding guides",
+    "Sattal's streams for forktails and thrushes in winter",
+    "Barbets, woodpeckers and blue magpies in Sattal's forest",
+    "Kalij pheasant and oak-forest flocks in Binsar",
+    "Sunrise over the high Himalaya from Binsar's Zero Point"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathgodam to Sattal", "place": "bhimtal-sattal", "overnight": "Lodge or camp near Sattal", "drive": "≈ 32 km · 1 h", "text": "Your driver meets you at Kathgodam and takes you up via Bhimtal to a lodge near Sattal. After lunch, walk with your guide along the lake edges and the lower forest road for a first look: kingfishers, cormorants, bulbuls and the red-billed blue magpie are likely. Review the plan for the next mornings and sleep early.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Sattal forest road at dawn", "place": "bhimtal-sattal", "overnight": "Lodge or camp near Sattal", "drive": "", "text": "Out at first light with your guide on the forest road between the lakes, where mixed flocks move through at sunrise. Target species include great and blue-throated barbets, greater yellownape and other woodpeckers, slaty-headed parakeet and laughingthrushes. Return for a late breakfast. In the afternoon, a slower walk along the outflow stream for forktails and whistling thrush.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Streams, slopes and Naukuchiatal", "place": "bhimtal-sattal", "overnight": "Lodge or camp near Sattal", "drive": "≈ 30 km round trip · 1 h", "text": "Second dawn session on a different stretch, often higher slopes above the lakes, with photography from known feeding spots. After breakfast, drive to Naukuchiatal for waterbirds and a lakeside walk. Afternoon free for rest or editing photos. In winter, your guide may suggest an evening at a stream edge for thrushes coming to drink.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Sattal to Binsar", "place": "binsar", "overnight": "KMVN rest house, Binsar", "drive": "≈ 110 km · 4 h", "text": "A final short walk at Sattal, then the drive via Bhowali, Kainchi and the Kosi valley to Almora and north to Binsar's gate. The road inside climbs through oak to the KMVN rest house. Settle in, then take an easy afternoon walk on the forest paths near the rest house to hear the forest's calls before your guide's session tomorrow.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Binsar oak forest at dawn", "place": "binsar", "overnight": "KMVN rest house, Binsar", "drive": "", "text": "Walk to Zero Point before sunrise for the view of Chaukhamba to Panchachuli, then bird slowly back through the oak with your guide. Look for kalij pheasant on trail edges, white-throated laughingthrush, chestnut-bellied nuthatch, black-headed and Eurasian jays, and mixed flocks of tits and warblers. Afternoon rest; power is limited, so charge cameras when you can.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Pheasant walk and the sanctuary museum", "place": "binsar", "overnight": "KMVN rest house, Binsar", "drive": "", "text": "Final guided dawn session on quieter trails, with patience at forest openings where koklass and kalij pheasants feed early. Visit the small sanctuary museum to learn about Binsar's plants and mammals. In the afternoon, sit at a viewpoint with binoculars for raptors riding the thermals over the valleys.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Binsar to Kathgodam", "place": "binsar", "overnight": "", "drive": "≈ 120 km · 4 h", "text": "A last short walk near the rest house, then the drive out via Almora and the Kosi valley to Kathgodam, arriving by mid-afternoon for the Shatabdi or an evening train. Your guide can help you finalise your trip list on the way.", "meals": "Breakfast"}
+  ],
+  "stays": ["kmvn-trh-binsar"],
+  "includes": ["6 nights, twin sharing, at a lodge near Sattal and the KMVN rest house in Binsar", "Meals as listed", "Private car with driver for all transfers", "Five guided dawn birding sessions with local guides", "Binsar sanctuary and vehicle fees for Indian nationals"],
+  "excludes": ["Train fares", "Camera fees if charged", "Extra guide sessions", "Foreign-national sanctuary fees", "Tips"],
+  "good_to_know": [
+    "Binsar's rest house has limited power; bring spare batteries and a power bank for cameras.",
+    "All nights are below 2,500 m; altitude is not a concern for healthy travellers.",
+    "Winter mornings are near freezing; bring gloves, a hat and a warm jacket for dawn sessions.",
+    "We do not run this trip from June to September, when rain and leeches make birding hard.",
+    "Leopards live in both areas; stay with your guide on dawn and dusk walks."
+  ],
+  "faqs": [
+    {"q": "How many bird species can I expect on this trip?", "a": "It depends on season, weather and effort, but a keen birder can expect a good list of Himalayan forest species over five guided sessions. We do not promise numbers or particular birds."},
+    {"q": "What is the best season for birding in Kumaon?", "a": "November to May. Winter brings altitudinal migrants to Sattal's streams; March to May brings breeding calls and plumage in Binsar. Avoid the monsoon."},
+    {"q": "Is this trip suitable for beginners?", "a": "Yes. Guides help beginners find and identify birds, and the walks are easy to moderate. Bring binoculars; a field guide or app helps."},
+    {"q": "Do the guides use playback?", "a": "We prefer guides who do not, and ask them to avoid it with sensitive species. Tell us your preference and we will brief the guide."},
+    {"q": "Can I add Pangot to this trip?", "a": "Yes. Pangot, near Nainital, is another known birding area and can be added as a day trip from Sattal or with an extra night. Ask us when booking."},
+    {"q": "What camera gear should I bring?", "a": "A telephoto lens of 400 mm or more helps in forest. Bring spare batteries and memory cards, as power at Binsar is limited, and a rain cover."},
+    {"q": "Why stay at the KMVN rest house in Binsar?", "a": "It sits inside the sanctuary near the best oak forest and Zero Point, so you can be birding at first light. Rooms are simple, but the location is ideal."},
+    {"q": "Can a non-birding partner enjoy this trip?", "a": "Yes, if they like forest walks, views and quiet. Sattal has lakes and the Christian Ashram; Binsar has Zero Point and the museum."},
+    {"q": "What is the price per person for a solo birder?", "a": "Solo travellers pay a single supplement for rooms and car. Expect roughly 1.5 times the twin-share price; we quote exactly when you enquire."}
+  ]
+}

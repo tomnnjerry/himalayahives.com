@@ -1,0 +1,146 @@
+{
+  "slug": "sangla-chitkul",
+  "name": "Sangla and Chitkul",
+  "region": "himachal",
+  "kind": "valley",
+  "wiki": "Sangla, India",
+  "image_query": "Chitkul village Baspa valley",
+  "lat": 31.4246,
+  "lng": 78.2638,
+  "altitude_m": 2700,
+  "tagline": "The Baspa valley, from Kamru's fort-temple to the last village",
+  "meta_description": "Sangla and Chitkul guide: Baspa valley, Kamru fort, Rakchham, Chitkul at 3,450 m, Banjara camp, HRTC buses from Shimla and Peo, altitude advice and real costs.",
+  "summary": "The Sangla valley follows the Baspa river from Karcham to Chitkul, the last village on the road at about 3,450 m. Base yourself at Sangla (about 2,700 m) for three nights: Kamru's fort-temple, Rakchham's meadows and a day in Chitkul. Open April to November; best May–June and September–October.",
+  "intro": [
+    "The Baspa river leaves the Sutlej at Karcham and climbs east into one of the most beautiful valleys in Himachal. The road from Karcham is narrow and dramatic, cut into cliffs for its first 18 km, and then the valley widens into fields, orchards and forests of deodar and blue pine, with snow peaks on both sides. Sangla is the main village and market, at about 2,700 m, with Kamru's tall fort-temple rising on the slope above it.",
+    "Further up, the valley passes Batseri, a village of carved timber houses, and Rakchham, set among boulders and meadows below granite walls, before reaching Chitkul at about 3,450 m. Chitkul is the last inhabited village on the road towards the Tibet border, and beyond it lies the restricted border zone. It has old wooden houses, the temple of the goddess Mathi and a few simple guesthouses and dhabas, including one that calls itself the last dhaba of India.",
+    "We give the Baspa valley at least three nights. The drive from Shimla is long, and Chitkul's altitude means you should sleep lower first. Sangla's homestays and the Banjara camp beside the river make good bases, and walks in every direction are easy to arrange. Most guesthouses in Chitkul open roughly from April to November; in winter the upper valley is under snow. Monsoon cloud and slides make July and August uncertain."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, Sep – Oct"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Shimla (Jubbarhatti), ≈ 240 km"],
+    ["From Shimla", "≈ 225 km · 8–9 h to Sangla"],
+    ["Altitude", "2,700 m at Sangla; 3,450 m at Chitkul"],
+    ["Known for", "Baspa river, Chitkul, Kamru fort, apples and trout"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 0, 1, 2, 2, 1, 0],
+  "nights": "3",
+  "highlights": [
+    {"title": "Chitkul, the last village", "text": "At about 3,450 m, the last inhabited village on the Baspa road, with timber houses, the Mathi temple and wide river meadows. Visit by day from Sangla or stay a night once you are acclimatised."},
+    {"title": "Kamru fort-temple", "text": "A tall timber-and-stone tower above Sangla, linked with the former Bushahr rulers and home to a shrine of the goddess Kamakhya. A steep 2 km walk from Sangla through the old village."},
+    {"title": "Rakchham meadows", "text": "A village at about 3,100 m among granite boulders and meadows beside the Baspa, 13 km beyond Sangla. A good place for gentle walks and acclimatisation before Chitkul."},
+    {"title": "Batseri's carved houses", "text": "A village a few kilometres from Sangla with some of the finest carved wooden houses and a temple in the valley. Walk the lanes quietly and ask before photographing homes."},
+    {"title": "Baspa river walks", "text": "Riverside paths through forest and orchards between Sangla, Batseri and Rakchham, with the snow peaks above. Spring flowers and autumn colour are both excellent."},
+    {"title": "Trout and Kinnauri food", "text": "The cold Baspa supports trout, and a state fish farm operates near Sangla. Homestays serve rajma, local greens and, in season, apples and chilgoza nuts."}
+  ],
+  "field_notes": [
+    {"fact": "The Baspa river rises near the border with Tibet and flows through the Sangla valley to join the Sutlej at Karcham. Its waters drive the Baspa hydroelectric project near Karcham.", "source": "Baspa River"},
+    {"fact": "Chitkul is the last inhabited village of the Baspa valley on the road towards the Indo-Tibet border. The temple of the local goddess Mathi is the centre of village life, and travel beyond the village is restricted.", "source": "Chitkul"},
+    {"fact": "Kamru, just above Sangla, was an old seat of the rulers of the Bushahr state. Its tall fort building houses a temple of the goddess Kamakhya, and visitors must follow the village's dress rules to enter.", "source": "Kamru Township"}
+  ],
+  "local_word": {"word": "Thepang", "language": "Kinnauri", "meaning": "the grey woollen Kinnauri cap with a green velvet band, worn by men and women at festivals"},
+  "costs": [
+    ["HRTC bus, Shimla–Sangla", "₹450–700"],
+    ["HRTC bus, Sangla–Chitkul", "₹40–80"],
+    ["Taxi day trip, Sangla–Chitkul return", "₹2,000–3,000 a car"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Thali at a Chitkul dhaba", "₹150–300"],
+    ["Local guide for valley walks", "₹1,200–2,000 a day"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Shimla airport is about 240 km and 9 hours away, with few flights. Chandigarh airport, about 340 km and 11 hours, has more flights and onward taxis."},
+    {"mode": "Bus", "text": "HRTC runs direct buses from Shimla to Sangla, and more frequent buses from Reckong Peo and Rampur to Sangla and Chitkul. Shimla to Sangla takes about 9–10 hours; Sangla to Chitkul about 1 hour."},
+    {"mode": "Road", "text": "From Shimla along NH5 via Narkanda and Rampur to Karcham, then 18 km up the Baspa to Sangla, about 225 km and 8–9 hours. The Karcham–Sangla stretch is narrow with sheer drops; drive it in daylight. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: Sangla, Batseri, Rakchham and Chitkul all have family homestays and simple guesthouses, typically ₹1,500–2,500 per person with dinner and breakfast; Chitkul's are more basic and open roughly April to November. Comfort: the Banjara camp and retreat on the Baspa near Sangla, with stone-and-timber rooms, cottages and Swiss tents, is the best-known comfort stay, and several small hotels in Sangla and Rakchham offer river views. Signature: there is no luxury hotel in the valley; we use Banjara's best rooms with a private car and guide.",
+  "stays": ["banjara-camp-sangla"],
+  "tips": [
+    "Sleep at Sangla or Rakchham before spending a night in Chitkul at about 3,450 m.",
+    "Drive the Karcham–Sangla road only in daylight and let local drivers handle it in rain.",
+    "Carry cash from Reckong Peo or Rampur; ATMs in Sangla are few and often empty.",
+    "Respect village dress rules at Kamru, where visitors may be asked to wear a Kinnauri cap or cover their heads.",
+    "Pack warm layers even in June; Chitkul evenings drop close to freezing."
+  ],
+  "themes": ["homestays-and-villages", "road-trips", "photography", "treks-and-walks", "food-and-tea"],
+  "nearby": ["kalpa", "shimla"],
+  "experiences": [
+    {
+      "slug": "sangla-chitkul-last-village-day",
+      "title": "A day in Chitkul, the last village",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "May–Jun and Sep–Oct, leave 8 am",
+      "cost": "Bus ₹40–80 each way or taxi ₹2,000–3,000 return",
+      "image_query": "Chitkul village Kinnaur",
+      "wiki": "Chitkul",
+      "summary": "Ride 26 km up the Baspa from Sangla to Chitkul at about 3,450 m, the last inhabited village on the road. Walk the timber lanes to the Mathi temple, then follow the river meadows upstream towards the border zone.",
+      "body": [
+        "The road from Sangla passes Batseri and Rakchham and climbs through forest and open meadows to Chitkul, about 1 hour away. The village is built on a slope above the Baspa, with houses of timber and stone, slate roofs and wooden balconies. The Mathi temple, dedicated to the goddess of the valley, stands at its heart and has finely carved woodwork. Visitors should remove shoes and leather and follow any rules posted at the gate.",
+        "Below the village, wide meadows run along the Baspa, and a level path leads upstream past grazing animals and boulders with the snow peaks closing in. You can walk for an hour or two before reaching the limit for civilians; beyond Chitkul is a restricted border zone. Signs and ITBP posts make the boundary clear, and you must not go past them.",
+        "Chitkul has a few dhabas, including one that calls itself the last dhaba of India, serving rajma-chawal, Maggi and tea. At about 3,450 m, walk slowly and drink plenty of water; if you feel headaches or breathlessness, go back down to Sangla. Leave by mid-afternoon in autumn, when temperatures drop sharply and light fades early."
+      ],
+      "good_for": ["photographers", "couples", "families", "students"],
+      "faqs": [
+        {"q": "Can I stay overnight in Chitkul?", "a": "Yes, there are homestays and guesthouses open roughly from April to November. Rooms are simple and nights cold. Sleep at Sangla or Rakchham for at least one night first to acclimatise, as Chitkul is about 3,450 m high."},
+        {"q": "Can I go beyond Chitkul towards the border?", "a": "No. The area beyond Chitkul is a restricted border zone, and civilians may walk only a short distance up the river meadows. Follow signs and instructions from ITBP and police. Treks such as Lamkhaga need special permissions arranged through registered operators."},
+        {"q": "Is there mobile network in Chitkul?", "a": "Coverage is limited. BSNL and Jio sometimes work, but signal is weak and unreliable. Tell family you may be out of contact for a day. Sangla has better coverage."}
+      ]
+    },
+    {
+      "slug": "sangla-kamru-fort-village-walk",
+      "title": "Walk up to Kamru's fort-temple",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Nov",
+      "cost": "Free; donation at the temple",
+      "image_query": "Kamru Fort Sangla",
+      "wiki": "Kamru Township",
+      "summary": "Climb 2 km from Sangla through apple orchards and the old village of Kamru to its tall timber fort, an old seat of the Bushahr rulers with a shrine of the goddess Kamakhya. Steep but short, with views across the Baspa valley.",
+      "body": [
+        "Kamru sits on a spur directly above Sangla, and its fort tower is visible from the main road. A path and narrow road climb through orchards and terraced fields, then through the village gate, carved in wood. The walk is about 2 km and takes 45 minutes to an hour uphill. Kamru was an old seat of the Bushahr state, whose rulers later moved down to Sarahan and Rampur on the Sutlej.",
+        "The fort is a multi-storey building of timber and stone in the region's traditional style, crowned by a wooden structure with a shrine of the goddess Kamakhya. Villagers maintain it and the temple courtyard. Visitors may be asked to cover their heads or wear a Kinnauri cap, provided at the entrance, and to tie a cloth around the waist. Leather items are not allowed inside. Photography inside the shrine is usually not permitted.",
+        "Look out from the courtyard over Sangla, the Baspa and the snow peaks of the range opposite. The village lanes around the fort have old houses with carved balconies, and residents are used to visitors, but walk quietly and do not enter homes or temple areas without permission. Come down the same way and finish with tea in Sangla's bazaar."
+      ],
+      "good_for": ["couples", "families", "photographers", "solo"],
+      "faqs": [
+        {"q": "Can tourists enter Kamru fort?", "a": "Visitors can usually enter the courtyard and see the fort, following the rules set by villagers and the temple committee: head covering, a cloth tied at the waist and no leather. Access to upper floors may be restricted. Follow instructions from the caretakers."},
+        {"q": "How far is Kamru from Sangla?", "a": "About 2 km uphill, roughly 45 minutes to an hour on foot. A narrow road also goes most of the way. The walk is steep in places but short and suitable for most active visitors."},
+        {"q": "What is the history of Kamru?", "a": "Kamru was an old seat of the Bushahr state, which ruled much of Kinnaur and the upper Sutlej. The rulers later shifted to Sarahan and Rampur. The fort and its Kamakhya shrine remain important to the valley."}
+      ]
+    },
+    {
+      "slug": "sangla-rakchham-meadows-and-batseri",
+      "title": "Rakchham meadows and Batseri village",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "May–Jun and Sep–Oct",
+      "cost": "Taxi ₹1,500–2,000 or local bus ₹30–60",
+      "image_query": "Rakchham village Baspa river",
+      "wiki": "Rakchham",
+      "summary": "Visit Batseri, a village of finely carved wooden houses near Sangla, then continue to Rakchham at about 3,100 m for a walk through boulder-strewn meadows beside the Baspa. A gentle day that helps you acclimatise before Chitkul.",
+      "body": [
+        "Batseri lies a few kilometres from Sangla on the opposite bank of the Baspa. Its houses and temple have some of the best wood carving in the valley, with panels of flowers, animals and deities, and the village is surrounded by apple orchards and chilgoza pine. Walk in quietly, greet people and ask before photographing homes. Keep away from the base of the cliffs after rain; rockfall is a real hazard on these steep slopes.",
+        "Rakchham, about 13 km above Sangla, sits on a wide terrace among huge granite boulders, with streams running down from the cliffs and meadows along the river. It is a lovely place for an easy walk: follow paths along the Baspa, cross small wooden bridges and watch for birds in the willows. In autumn the fields are golden and the cliffs catch the afternoon light.",
+        "At about 3,100 m, Rakchham is a useful step up from Sangla before Chitkul. Several homestays and guesthouses operate here in season. Bring a warm layer, sun protection and water. The valley is cold after sunset, and in October frost forms overnight. Return to Sangla by late afternoon or stay the night."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Is it better to stay in Sangla, Rakchham or Chitkul?", "a": "Sangla has the most choice and the lowest altitude, making it the best first base. Rakchham is quieter and a good second step. Chitkul is the most dramatic but highest and coldest. Many travellers spend two nights in Sangla and one in Rakchham or Chitkul."},
+        {"q": "How high is Rakchham?", "a": "Rakchham is at about 3,100 m, between Sangla at about 2,700 m and Chitkul at about 3,450 m. Some visitors feel mild altitude effects. Walk slowly, drink water and avoid alcohol on the first night."},
+        {"q": "What is Batseri known for?", "a": "Batseri is known for its carved wooden houses and temple, apple orchards and chilgoza pines. It is a quiet farming village, so visitors should keep to paths, dress modestly and ask before photographing people or homes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Sangla from Shimla?", "a": "By HRTC bus directly from Shimla, about 9–10 hours, or via Reckong Peo with a change. By car, take NH5 via Narkanda and Rampur to Karcham, then 18 km up the Baspa valley, about 225 km and 8–9 hours. Drive the last stretch in daylight."},
+    {"q": "What is the best time to visit Sangla and Chitkul?", "a": "May and June for green meadows and pleasant days, and September and October for clear skies and autumn colour. April and November are possible but cold, and many Chitkul guesthouses close in winter. July and August bring monsoon slides."},
+    {"q": "Do I need a permit for Chitkul?", "a": "No permit is needed for Indians or foreign nationals to visit Sangla and Chitkul. Travel beyond Chitkul into the border zone is restricted. Foreigners need an Inner Line Permit only to continue from Kinnaur towards Spiti. Check current status before you travel."},
+    {"q": "Will I get altitude sickness in Chitkul?", "a": "Possibly. Chitkul is about 3,450 m, and some people feel headaches, nausea or breathlessness, especially on arrival straight from Shimla. Sleep at Sangla first, drink water, walk slowly and avoid alcohol. Descend if symptoms worsen, and talk to your doctor before travelling."},
+    {"q": "How much does a Sangla trip cost?", "a": "On a saver budget, about ₹2,000–3,000 a day per person for a homestay with meals and HRTC buses, plus ₹900–1,400 for buses to and from Shimla. With a private car and the Banjara camp, expect ₹8,000–14,000 a day per person."},
+    {"q": "Is the Karcham–Sangla road dangerous?", "a": "It is narrow and cut into steep cliffs, with few barriers and occasional rockfall, but it is driven daily by buses and local taxis. Travel in daylight, avoid heavy rain and let an experienced local driver handle it. Check current status before you travel."},
+    {"q": "Are there ATMs in Sangla?", "a": "There are one or two ATMs in Sangla, but they often run out of cash or go offline. Withdraw enough in Reckong Peo or Rampur before you come. Chitkul has no ATM, and UPI works only when signal allows."},
+    {"q": "Is Sangla good for families?", "a": "Yes. Sangla's altitude of about 2,700 m is manageable for most healthy families, walks are gentle and villages are welcoming. Plan a two-day drive from Shimla with a stop, and take Chitkul as a day trip unless everyone is well acclimatised."},
+    {"q": "Is Chitkul safe for solo women?", "a": "Yes. Kinnaur is generally safe and villagers are protective of guests. Choose homestays with good reviews, avoid walking alone on the river meadows after dark, and keep someone informed of your plans, as mobile signal is unreliable."}
+  ]
+}

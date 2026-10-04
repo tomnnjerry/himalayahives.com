@@ -1,0 +1,146 @@
+{
+  "slug": "dirang",
+  "name": "Dirang",
+  "region": "arunachal",
+  "kind": "valley",
+  "wiki": "Dirang",
+  "image_query": "Dirang valley Arunachal Pradesh",
+  "lat": 27.362,
+  "lng": 92.241,
+  "altitude_m": 1620,
+  "tagline": "Orchards, hot springs and yaks on the road to Tawang",
+  "meta_description": "Dirang travel guide: old dzong village, hot springs, Sangti valley, the yak research centre, Monpa food, homestays, real costs and how to reach.",
+  "summary": "Dirang is a Monpa valley town at about 1,620 m on the Tawang road, 42 km beyond Bomdila. It is the best place to break the journey: warmer than Tawang, full of orchards, with an old stone dzong village, riverside hot springs and the Sangti valley 15 km away. Spend 2 nights, or 4–5 for a slow trip.",
+  "intro": [
+    "Dirang sits in a broad bend of the Dirang river, with the new town along the highway and the old settlement of Dirang Dzong on a rise a few kilometres away. The valley floor is planted with apple, kiwi and orange orchards, and pine and oak forests climb the slopes. At about 1,620 m it is noticeably milder than Tawang, which makes it the natural overnight before tackling Sela Pass.",
+    "The people are Dirang Monpa, one of the Monpa subgroups, with their own dialect and a strong Buddhist culture. Stone houses with wooden upper floors, prayer flags along the river and small gompas in every village set the tone. Menus lean towards khura buckwheat pancakes, thukpa and local cheese, and many homestays serve vegetables straight from their own fields.",
+    "Dirang is also a working science town. The national research centre on yak has its main campus here, with an experimental yak farm higher up at Nyukmadung. The area is being studied for geothermal power, and the hot springs by the river are the visible sign of that heat underground. Most travellers stay a night; those who stay longer find walks, monasteries and quiet villages in every direction."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Tezpur (≈ 200 km)"],
+    ["From Tezpur", "≈ 200 km · 6–7 h"],
+    ["Altitude", "1,620 m"],
+    ["Known for", "Dirang Dzong village, hot springs, Sangti valley, kiwi and apple orchards, yaks"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Dirang Dzong village", "text": "The old stone settlement of Dirang Dzong stands on a rise above the river, with thick walls, narrow lanes and multi-storey Monpa houses. Families still live inside, so walk respectfully and ask before photographing people or homes."},
+    {"title": "Riverside hot springs", "text": "Small hot springs near the river are used by local people for bathing and are said to ease aches. Facilities are basic; go in the late afternoon, carry a towel, and follow local custom on separate bathing times."},
+    {"title": "Sangti valley", "text": "Fifteen kilometres from Dirang, the Sangti river flows through a flat valley of fields, sheep pasture and small Monpa villages. Good for gentle walks, riverside picnics and photography, especially in October and November."},
+    {"title": "Kiwi and apple orchards", "text": "Dirang's orchards produce apples in late summer and kiwis in autumn. Homestays often serve fruit from their own trees, and roadside sellers offer bags at farm prices when the harvest is in."},
+    {"title": "Yak country above the town", "text": "On the road towards Sela, the slopes around Nyukmadung at about 2,700 m are yak grazing land, and the yak research centre runs its experimental farm there. Look for herds beside the road in the cooler months."},
+    {"title": "Monasteries of the valley", "text": "Several gompas stand on the hills around Dirang, from small village temples to a larger modern monastery above the town. Visit at prayer time, walk clockwise and leave shoes at the door when asked."}
+  ],
+  "field_notes": [
+    {"fact": "The Indian Council of Agricultural Research set up its national research centre on yak at Dirang in 1989. Its experimental yak farm is at Nyukmadung, about 31 km away at roughly 2,700 m.", "source": "Indian Council of Agricultural Research"},
+    {"fact": "The Sangti river flows through the Sangti valley and meets the Dirang river at Dirang Dzong village. The valley's main village lies about 15 km from Dirang and is mostly home to Monpa families who follow Mahayana Buddhism.", "source": "Sangti Valley"},
+    {"fact": "Dirang is the site of a geothermal power project and has been proposed as the first geothermal-powered town in India, drawing on the same underground heat that feeds the local hot springs.", "source": "Dirang"}
+  ],
+  "local_word": {"word": "Khura", "language": "Monpa", "meaning": "soft pancake of fermented buckwheat flour"},
+  "costs": [
+    ["Shared Sumo seat, Dirang–Tawang", "₹700–1,000"],
+    ["Shared Sumo seat, Dirang–Tezpur", "₹800–1,200"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,000 per person"],
+    ["Taxi to Sangti valley and back", "₹1,200–2,000 per vehicle"],
+    ["Plate of khura with tea, or thukpa", "₹80–180"],
+    ["Hot spring entry", "Free or a small local fee"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tezpur airport is about 200 km away, with limited flights; Guwahati airport is about 340 km away with far more connections. Hire a car or take a Sumo from either."},
+    {"mode": "Bus", "text": "Shared Sumos run from Tezpur and Guwahati towards Tawang and drop at Dirang. From Dirang, Sumos to Tawang leave in the morning. Book seats a day ahead in October and May."},
+    {"mode": "Road", "text": "Dirang is on NH-13, 42 km beyond Bomdila (1.5–2 hours) and about 135 km before Tawang (5–6 hours via Sela or the tunnel). From Tezpur the drive takes 6–7 hours via Bhalukpong and Bomdila."}
+  ],
+  "where_to_stay": "Saver: family homestays in Dirang town, Dirang Dzong and Sangti charge about ₹1,200–2,000 per person with meals, with simple rooms and shared or attached bathrooms. Comfort: Dirang Boutique Cottages, across a hanging bridge on the Dirang river, is built in the style of shepherds' huts and serves farm food; it is our usual choice. Signature: Rungkhung Village Resort, part of Summit Hotels' Signature Collection, sits among kiwi and orange orchards with valley-facing rooms and is the most polished stay in the valley.",
+  "stays": ["dirang-boutique-cottages", "summit-rungkhung-village-resort-dirang"],
+  "tips": [
+    "Sleep in Dirang before Tawang; at 1,620 m it is the gentlest step up to the 4,170 m pass.",
+    "Visit the hot springs in the late afternoon and keep valuables in your vehicle.",
+    "Buy kiwis and apples from roadside sellers in season; they cost far less than in Tawang.",
+    "Ask before photographing inside Dirang Dzong village, where families still live.",
+    "Start for Tawang by 7 am to cross Sela in the clearest hours."
+  ],
+  "themes": ["road-trips", "homestays-and-villages", "monasteries", "food-and-tea", "family-holidays"],
+  "nearby": ["bomdila", "sela-pass", "tawang"],
+  "experiences": [
+    {
+      "slug": "dirang-dzong-village-and-hot-springs",
+      "title": "Dirang Dzong village and the hot springs",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "Afternoon, Mar–May and Sep–Dec",
+      "cost": "Free; small donations at gompas; local taxi ₹300–600",
+      "image_query": "Dirang Dzong village Arunachal",
+      "wiki": "",
+      "summary": "Walk the lanes of an old stone Monpa settlement on a rise above the river, then go down to the hot springs where Dirang families bathe on cold evenings.",
+      "body": [
+        "Dirang Dzong is the old core of the valley, a cluster of stone houses within thick walls on a rise a few kilometres from the highway town. The houses rise two or three storeys, with stone ground floors once used for animals and stores, and timber upper floors where families live around a kitchen hearth. Lanes are narrow and uneven, and prayer flags string the rooftops.",
+        "This is a living village, not a museum. Walk slowly, greet people, and ask before taking photographs of homes or residents. If you are invited in, remove your shoes and accept tea with both hands. A local guide or your homestay host can explain the layout, the gompa and the role of the dzong in older times, when it served as an administrative and defensive centre for the valley.",
+        "In the late afternoon, head down to the hot springs near the river. They are simple pools and channels where warm water rises from the ground, used by local people for bathing and to ease joint pain. Facilities are basic and conditions change with river levels. Follow local custom on separate bathing for men and women, keep soap out of the water, and bring a towel and warm clothes for the walk back."
+      ],
+      "good_for": ["couples", "solo", "photographers", "students"],
+      "faqs": [
+        {"q": "Where is Dirang Dzong?", "a": "Dirang Dzong is the old village a few kilometres from Dirang's highway town, on a rise above the river where the Sangti river joins the Dirang. A local taxi takes 10–15 minutes. You can also walk from town in about an hour on the road."},
+        {"q": "Can tourists bathe in Dirang hot springs?", "a": "Yes, visitors can usually bathe alongside local people. The springs are basic, with no formal changing rooms. Respect separate bathing times if your host mentions them, avoid soap in the water, and check conditions after heavy rain, when river levels rise."},
+        {"q": "Is Dirang Dzong worth visiting?", "a": "Yes, if you like architecture and village life. It is one of the best-preserved old Monpa settlements on the Tawang road. Give it an hour or two, walk slowly, and remember that people live in every house you pass."}
+      ]
+    },
+    {
+      "slug": "dirang-sangti-valley-walk",
+      "title": "A day in the Sangti valley",
+      "kind": "village",
+      "duration": "Half or full day",
+      "best_time": "Oct–Nov and Mar–Apr",
+      "cost": "Taxi ₹1,200–2,000 per vehicle return; lunch ₹200–400",
+      "image_query": "Sangti Valley Dirang",
+      "wiki": "Sangti Valley",
+      "summary": "A flat, quiet valley 15 km from Dirang with a clear river, fields, sheep pasture and Monpa villages. Walk the riverbank, picnic by the water and visit a village gompa.",
+      "body": [
+        "The Sangti valley opens out about 15 km from Dirang, reached by a 10 km side road from the highway near Dirang Dzong. The Sangti river runs shallow and clear over stones, and the valley floor is a patchwork of fields, small orchards and grazing land, with pine slopes rising on both sides. Sangti village has a few hundred residents, mostly Monpa Buddhist families.",
+        "Ask your taxi to drop you at the head of the valley and walk back along the river for two or three hours. You pass fields of maize and vegetables, prayer flags strung over the water, and wooden houses with stacked firewood. Locals run a few simple campsites by the river in season, and a sheep farm lies about 7 km from Dirang on the way in. October and November bring golden fields and crisp light.",
+        "Carry water and snacks, as shops are few. Keep to paths along field edges and do not walk through planted crops. If you visit the village gompa, walk clockwise and leave a small offering if you wish. Winter is beautiful but cold in the shade. Sangti makes a fine slow day for anyone spending two or more nights in Dirang."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "How far is Sangti valley from Dirang?", "a": "Sangti village lies about 15 km from Dirang, reached by a side road of about 10 km from the highway near Dirang Dzong. It takes 30–40 minutes by taxi. A return taxi with waiting time costs about ₹1,200–2,000 per vehicle."},
+        {"q": "Can I stay overnight in Sangti valley?", "a": "There are a few family homestays and seasonal riverside campsites run by locals. Facilities are simple. Most visitors stay in Dirang and come for the day, but an overnight gives quiet evenings and starry skies. Book ahead through your Dirang host."},
+        {"q": "What is the best time to visit Sangti valley?", "a": "October and November offer clear skies and harvest colours, and March and April bring spring blossom. Winter is cold but bright. Monsoon months from June to August are wet and muddy, with less to see."}
+      ]
+    },
+    {
+      "slug": "dirang-yak-country-nyukmadung",
+      "title": "Yak country on the road to Sela",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–Apr",
+      "cost": "Taxi ₹2,000–3,500 per vehicle; or combine with the Tawang transfer",
+      "image_query": "yak Arunachal Pradesh Dirang",
+      "wiki": "",
+      "summary": "Drive up from Dirang into the cold forests around Nyukmadung, at about 2,700 m, where yaks graze and the national yak research centre keeps its experimental farm.",
+      "body": [
+        "Above Dirang, the Tawang road climbs steadily through oak, rhododendron and fir. Around Nyukmadung, about 31 km from Dirang at roughly 2,700 m, the forest opens into pasture where yaks and yak-cattle crosses graze, especially in the cooler months when herds come down from higher ground. Brokpa herders, the traditional yak-keepers of the Monpa world, still move animals between seasonal grazing grounds.",
+        "The Indian Council of Agricultural Research has run a national research centre on yak at Dirang since 1989, with its experimental farm at Nyukmadung. It studies yak breeding, health and products such as milk, cheese and fibre. Formal visits to the institute need prior permission, but the drive itself often brings close views of herds beside the road. Do not approach animals too closely; yaks are calm but large and protective of calves.",
+        "Many travellers fold this into the Dirang–Tawang transfer, leaving early to stop for yaks, tea and photographs before Sela. If you are not continuing to Tawang, hire a taxi for a half day and return to Dirang by lunch. Carry warm layers: the temperature drops sharply as you climb, and frost lingers in shaded bends through winter mornings."
+      ],
+      "good_for": ["families", "photographers", "students", "couples"],
+      "faqs": [
+        {"q": "Can I visit the yak research centre in Dirang?", "a": "The national research centre on yak is a working scientific institute, and formal visits need prior permission from the centre. Its experimental farm is at Nyukmadung, about 31 km from Dirang. Most travellers see yaks grazing beside the road on the drive towards Sela."},
+        {"q": "Where can I see yaks near Dirang?", "a": "Look on the slopes around Nyukmadung and higher towards Sela Pass, from about 2,700 m upwards. Herds are most visible from October to April. Your driver will know recent grazing spots; ask them to stop safely off the road."},
+        {"q": "Is yak cheese available in Dirang?", "a": "Local hard and soft cheeses made from yak or cow milk appear in markets and homestays, often as churpi or in stews. Availability depends on season. Ask your host; many families have relatives who keep animals and make cheese at home."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Dirang worth a stop on the way to Tawang?", "a": "Yes. Dirang is warmer and lower than Tawang at about 1,620 m, so it is the best place to sleep before crossing Sela Pass. It also has an old stone village, hot springs, orchards and the Sangti valley nearby. One night is the minimum; two nights let you see it properly."},
+    {"q": "How far is Dirang from Tawang?", "a": "Dirang to Tawang is about 135 km and takes 5–6 hours by road over Sela Pass or through the Sela Tunnel. Shared Sumos leave Dirang in the morning for about ₹700–1,000 a seat. Leave early to cross Sela in clear weather."},
+    {"q": "How do I reach Dirang from Guwahati?", "a": "Dirang is about 340 km from Guwahati via Tezpur, Bhalukpong and Bomdila, a long day of 9–11 hours. Shared Sumos for Tawang drop passengers at Dirang. Many travellers break the trip at Bhalukpong or Bomdila instead."},
+    {"q": "What is the weather like in Dirang?", "a": "Dirang is mild by Arunachal standards: spring and autumn days are 18–24 °C, summer is warm and wet, and winter nights drop near freezing with clear days. It rarely gets heavy snow in town, though the slopes above can turn white."},
+    {"q": "What should I eat in Dirang?", "a": "Try khura, the buckwheat pancake, with butter tea or chilli and cheese, and thukpa on cold evenings. Homestays often serve local greens, potatoes and yak or cow cheese. In season, buy kiwis and apples from the orchards."},
+    {"q": "Are there ATMs and mobile network in Dirang?", "a": "Dirang has 4G from major networks and a few ATMs, though cash can run out on holidays. Coverage weakens in the Sangti valley and on the climb to Sela. Carry cash for homestays and taxis."},
+    {"q": "Is Dirang good for families?", "a": "Yes. The lower altitude, easy walks, orchards and hot springs suit families, and homestays are welcoming to children. It is also a safer place than Tawang to rest if anyone feels the altitude. Keep children close near the river, which flows fast after rain."},
+    {"q": "Can I see black-necked cranes in Sangti valley?", "a": "Black-necked cranes have been reported from the Sangti valley in winter and are considered holy by Monpa communities, but sightings are not reliable. If birds are present, keep well back and do not use drones or call to them. Ask local hosts for current information."},
+    {"q": "How many days should I spend in Dirang?", "a": "Spend one night if you are only breaking the Tawang drive, two to see Dirang Dzong, the hot springs and Sangti, and four or five for a slow trip with walks, village visits and a day trip towards Sela. Dirang suits travellers who prefer one base to constant packing."}
+  ]
+}

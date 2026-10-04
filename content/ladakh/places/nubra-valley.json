@@ -1,0 +1,145 @@
+{
+  "slug": "nubra-valley",
+  "name": "Nubra Valley",
+  "region": "ladakh",
+  "kind": "valley",
+  "wiki": "Nubra",
+  "image_query": "Nubra valley Diskit Ladakh",
+  "lat": 34.552,
+  "lng": 77.563,
+  "altitude_m": 3144,
+  "tagline": "The old caravan valley over Khardung La, with dunes and orchards",
+  "meta_description": "Nubra Valley guide: Khardung La, Diskit Monastery, Hunder dunes and Bactrian camels, Sumur and Panamik. Costs, permits, buses and where to stay.",
+  "summary": "Nubra is the green valley of the Shyok and Nubra rivers, about 120 km north of Leh over Khardung La (5,359 m). Stay two nights around Diskit or Hunder at roughly 3,100 m. See Diskit Monastery, the dunes and Bactrian camels, and orchard villages. Indians need the online environment fee receipt.",
+  "intro": [
+    "Its old Tibetan name, Ldumra, means valley of flowers, and after the bare climb over Khardung La the contrast is real: willow and poplar groves, barley fields, apricot and walnut trees and thorny sea buckthorn along the river beds. Nubra is lower than Leh, around 3,100 m at Diskit, which makes it the gentlest overnight stop beyond the Ladakh Range.",
+    "For centuries this was the caravan road to Central Asia. Traders went up the Nubra river towards the Saser and Karakoram passes and on to Yarkand, and Nubra's villages made their living supplying them. The route to Yarkand has been closed since 1950, but the two-humped Bactrian camels that now carry tourists over the Hunder dunes are a reminder of that trade.",
+    "The valley has three arms. The western arm along the Shyok holds Diskit, the main town, and Hunder, once the capital of the old Nubra kingdom, then runs down to Turtuk. The northern arm along the Nubra river holds Sumur, Tegar and Panamik with its hot springs. A newer road from Agham along the Shyok links Nubra to Pangong, so you can make a loop without returning to Leh."
+  ],
+  "facts": [
+    ["Best months", "May – Oct"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Leh, ≈ 120 km"],
+    ["From Leh", "≈ 120 km · 4–5 h via Khardung La"],
+    ["Altitude", "3,144 m at Diskit; Khardung La 5,359 m"],
+    ["Known for", "Diskit Monastery, Hunder dunes, Bactrian camels, orchards"]
+  ],
+  "best_months": [0, 1, 0, 1, 2, 2, 2, 2, 2, 1, 0, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "Diskit Monastery and the Maitreya", "text": "Diskit's 14th-century Gelug monastery climbs a ridge above the Shyok. Below it, a 32 m Maitreya Buddha, consecrated by the Dalai Lama in 2010, looks down the valley. Visit the old prayer hall first, then walk down to the statue in late afternoon light."},
+    {"title": "Hunder dunes and Bactrian camels", "text": "Between Hunder and Diskit lie about 7 km of sand dunes, with Bactrian camels grazing in the sea buckthorn. Short rides start from Hunder in the early morning and before sunset. Pick an operator who rests the animals in the midday heat."},
+    {"title": "Crossing Khardung La", "text": "The road from Leh climbs to 5,359 m before dropping into Nubra. Stop for 10–15 minutes only, for photographs and the view of the Karakoram, then keep descending. It is a pass to cross, not a place to linger."},
+    {"title": "Sumur, Samstanling and Panamik", "text": "The Nubra river arm is quieter. Samstanling Monastery sits above Sumur and Tegar, and Panamik is known for its hot springs. Village lanes here are lined with irrigation channels and walled orchards, ideal for a slow afternoon walk."},
+    {"title": "Hunder's old palace ruins", "text": "Hunder was the capital of the old Nubra kingdom. Above the village are the ruins of the king's palace and a hilltop fort, with small white and red temples. Few visitors climb up; go early, carry water and stay on the path."}
+  ],
+  "field_notes": [
+    {"fact": "Nubra's Tibetan name, Ldumra or Dumra, means valley of flowers, a contrast with the high desert around it. The Nubra river itself was historically called the Yarma Tsangpo in Tibetan sources.", "source": "Nubra"},
+    {"fact": "In the 16th century the people of Nubra persuaded the Ladakhi king not to invade the lands beyond the Karakoram, because their trade with Yarkand was too important to risk.", "source": "Diskit Monastery"},
+    {"fact": "The 32 m Maitreya statue below Diskit Monastery was begun in April 2006 and consecrated by the Dalai Lama on 25 July 2010. Most of its funding came from local donations.", "source": "Diskit Monastery"}
+  ],
+  "local_word": {"word": "Ldumra", "language": "Ladakhi / Tibetan", "meaning": "valley of flowers, the old name for Nubra"},
+  "costs": [
+    ["Bus Leh–Diskit (a few days a week)", "≈ ₹200 one way"],
+    ["Union taxi Leh–Nubra 2 days, Innova or Xylo", "≈ ₹11,800 a car"],
+    ["Guesthouse or homestay with dinner and breakfast", "₹1,200–2,500 per person"],
+    ["Camp in Hunder or Sumur, double with meals", "₹3,500–7,000 a night"],
+    ["Bactrian camel ride on the dunes", "₹300–600 for 15–20 minutes"],
+    ["Diskit Monastery entry", "₹30–50"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh and spend at least two nights there before crossing Khardung La. There are no flights into Nubra itself."},
+    {"mode": "Bus", "text": "Buses leave Leh bus stand early on set days of the week for Diskit (about ₹200), Turtuk and Panamik. Shared taxis also run from Leh when enough passengers gather. Schedules change; check current status before you travel."},
+    {"mode": "Road", "text": "Leh to Diskit is ≈ 120 km · 4–5 h over Khardung La, which is kept open most of the year but can close after snow. A second route via Wari La and Agham, and the Shyok road to Pangong, allow a loop."}
+  ],
+  "where_to_stay": "Saver: Diskit and Hunder have family guesthouses and homestays at ₹1,200–2,500 per person with dinner and breakfast; Sumur and Tegar have more on the quieter Nubra arm. Comfort: Hunder and Sumur have many fixed tented camps with attached bathrooms, from about ₹3,500 a double with meals. Signature: Lchang Nang Retreat at Tegar, near Sumur, is a cottage retreat in poplar groves, open May to mid-October, and the most polished stay in the valley.",
+  "stays": ["lchang-nang-retreat-nubra"],
+  "tips": [
+    "Do not cross Khardung La until you have slept at least two nights in Leh.",
+    "Carry the printed environment fee receipt and photo ID; there is a checkpost at North Pullu.",
+    "Withdraw cash in Leh; the ATM in Diskit is the only reliable one and it runs out at weekends.",
+    "Ride the camels in the early morning, when the dunes are cool and the light is soft.",
+    "Leave Nubra by 8 am on your return day to cross Khardung La before afternoon traffic and melt water slow the road."
+  ],
+  "themes": ["road-trips", "monasteries", "homestays-and-villages", "photography", "family-holidays"],
+  "nearby": ["turtuk", "leh", "pangong-tso"],
+  "experiences": [
+    {
+      "slug": "nubra-diskit-monastery-and-maitreya",
+      "title": "Diskit Monastery and its giant Maitreya",
+      "kind": "spiritual",
+      "duration": "2.5 hours",
+      "best_time": "7 am or 4 pm, May–Oct",
+      "cost": "Entry ₹30–50; free at the statue",
+      "image_query": "Diskit Monastery Nubra",
+      "wiki": "Diskit Monastery",
+      "summary": "The oldest and largest monastery in Nubra, founded in the 14th century on a ridge above the Shyok, and the 32 m Maitreya statue below it. Visit the prayer hall first, then walk down to the statue as the light softens.",
+      "body": [
+        "Diskit Monastery was founded in the 14th century by Changzem Tserab Zangpo, a disciple of Tsongkhapa, and belongs to the Gelug school. Since the mid-18th century it has been a sub-monastery of Thiksey. A flight of stone steps climbs to the prayer hall, which holds a crowned Buddha, a huge drum and fierce guardian deities on the upper floor.",
+        "From the upper terraces you see the whole western arm of Nubra: the braided Shyok, the dunes towards Hunder and the Karakoram beyond. Monks run a school here, and in February the monastery hosts Dosmoche, the festival of the scapegoat, when people from across the valley gather because the pass to Leh is often snowbound.",
+        "Below the monastery, on its own hill, sits a 32 m seated Maitreya Buddha, begun in 2006 and consecrated by the Dalai Lama in 2010, largely paid for by local donations. It faces down the Shyok valley. Walk around it clockwise and stay for the late afternoon when the statue and the valley turn gold."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How far is Diskit Monastery from Hunder?", "a": "About 7–10 km, a 15–20 minute drive along the Shyok. Most visitors combine the monastery in the morning with the Hunder dunes in the late afternoon. Local taxis in Diskit charge roughly ₹600–1,000 for the short return trip, or you can walk part of the way on the flat road."},
+        {"q": "What is the entry fee at Diskit Monastery?", "a": "There is a small entry fee, usually ₹30–50, paid at the monastery. The Maitreya statue below is free to visit. Fees change from time to time, so carry small notes. Dress modestly, remove shoes where asked and do not use flash inside the halls."},
+        {"q": "When is the Dosmoche festival at Diskit?", "a": "Dosmoche is held on the 28th and 29th days of the 12th Tibetan month, usually in February. Monks perform masked cham dances in the monastery courtyard. Getting to Nubra in February depends on Khardung La being open, so check current status before you travel and keep spare days."}
+      ]
+    },
+    {
+      "slug": "nubra-hunder-dunes-camel-ride",
+      "title": "Hunder dunes and Bactrian camels at dawn",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "6.30 am or 5 pm, May–Sep",
+      "cost": "Camel ride ₹300–600; dunes free",
+      "image_query": "Bactrian camel Hunder Nubra",
+      "wiki": "Bactrian camel",
+      "summary": "Walk the cold-desert dunes between Hunder and Diskit and take a short ride on a two-humped Bactrian camel, descendants of the animals that once served the caravan trade. Early morning is quiet, cool and kinder to the camels.",
+      "body": [
+        "Between Hunder and Diskit lie about 7 km of sand dunes, an odd sight at 3,100 m with snow peaks behind them. Bactrian camels, the two-humped species of Central Asia, graze in the sea buckthorn thickets around them. Nubra's small herd is linked to the caravan trade that once ran through the valley towards Yarkand.",
+        "Rides start from the Hunder side and last 15–20 minutes. Camel owners usually post fixed rates, roughly ₹300–600 depending on season and length. In late afternoon the queue can be long; at 6.30 am you will often have the dunes to yourself, with cool sand and long shadows.",
+        "Walk a little away from the ride area to find unmarked dunes. Stay off the vegetation, which holds the sand in place, and carry out every wrapper. If you prefer not to ride, the camels are calm to watch and photograph from a respectful distance."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "How much does a camel ride at Hunder cost?", "a": "A short ride of 15–20 minutes usually costs about ₹300–600 per person, set by the local camel owners. Longer rides cost more. Rates are usually posted per ride, and you pay in cash. Rates change by season, so check current status before you travel."},
+        {"q": "What is the best time for the Hunder dunes?", "a": "Early morning, from about 6.30 am, and the hour before sunset are best. Midday sand is hot, the light is flat and the camels need rest. Evenings are busiest in July and August. Bring a warm layer in the morning; temperatures can be near freezing in May and late September."},
+        {"q": "Is the camel ride safe for children?", "a": "Generally yes. The camels are used to riders and handlers lead them on foot. Small children ride with a parent on the same camel. Hold on firmly as the camel stands up and kneels, which is the jerky part. Skip the ride if you have back problems."}
+      ]
+    },
+    {
+      "slug": "nubra-khardung-la-crossing",
+      "title": "Crossing Khardung La from Leh to Nubra",
+      "kind": "adventure",
+      "duration": "4–5 hours",
+      "best_time": "Leave Leh by 8 am, May–Oct",
+      "cost": "Union taxi Leh–Nubra 2 days ≈ ₹11,800 a car; bus ≈ ₹200",
+      "image_query": "Khardung La pass Ladakh",
+      "wiki": "Khardung La",
+      "summary": "The road from Leh climbs to 5,359 m at Khardung La before dropping 2,200 m into Nubra. Done after two nights in Leh, it is a spectacular half-day drive. Stop briefly at the top, then descend.",
+      "body": [
+        "From Leh the road climbs in tight bends past the army camp at South Pullu to Khardung La at 5,359 m. For years signboards called it the highest motorable road in the world; that claim is no longer accepted by most authorities, but it is still one of the highest roads most travellers will ever cross.",
+        "At the top, stop for 10–15 minutes: photographs at the sign, a look north to the Karakoram, a cup of tea if the canteen is open. Do not run or climb the slopes. The air holds roughly half the oxygen of sea level, and headaches can start quickly. Children and seniors should stay in the warm car.",
+        "The descent passes North Pullu, where permits are checked, and Khardung village before reaching Khalsar on the valley floor. From there one road goes left to Diskit and Hunder and another right to Sumur and Panamik. Plan for 4–5 hours from Leh to Diskit, more if snow or roadworks slow the pass."
+      ],
+      "good_for": ["first-timers", "students", "photographers", "couples"],
+      "faqs": [
+        {"q": "Is Khardung La open all year?", "a": "The road is kept open most of the year as the main access to Nubra, but it can close for hours or days after heavy snow, especially from November to April. Early mornings may be icy. Check current status before you travel with your driver or the traffic police in Leh."},
+        {"q": "How long can I stay at the top of Khardung La?", "a": "Keep it to 10–20 minutes. At 5,359 m even acclimatised visitors can develop headaches or dizziness. Take photographs, then keep descending. If anyone in your group feels unwell, go down immediately; height loss is the main remedy. Talk to your doctor before the trip about altitude."},
+        {"q": "Can I ride a motorbike over Khardung La?", "a": "Yes, many travellers do. Ride it only after two or three nights in Leh, carry warm gloves and rain gear, and expect broken tarmac and slush near the top. Fill fuel in Leh; Diskit has a pump, but supplies can run short. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days do I need for Nubra Valley?", "a": "Two nights is the minimum: one day to cross Khardung La and see Diskit and the dunes, one for Sumur, Panamik or a day trip to Turtuk. Three nights let you stay in Turtuk too. A single night is possible but means seven to nine hours on the road in two days, which is tiring at this altitude."},
+    {"q": "Do I need a permit for Nubra Valley?", "a": "Indian citizens pay the online Environment and Development Fee and carry the printed receipt and photo ID; there is no separate Inner Line Permit now. Foreign nationals need a Protected Area Permit arranged through a registered Leh travel agency. Permits are checked at North Pullu. Rules change, so check current status before you travel."},
+    {"q": "Is there mobile network in Nubra?", "a": "Postpaid Jio, Airtel and BSNL work in Diskit and Hunder, with weaker signal in Sumur and Panamik. Prepaid SIMs from outside Jammu and Kashmir and Ladakh do not work. Many camps have Wi-Fi that drops often. Download offline maps and tell your family your route before leaving Leh."},
+    {"q": "Should I stay in Diskit, Hunder or Sumur?", "a": "Hunder is closest to the dunes and has the most camps. Diskit has more guesthouses, shops and the only reliable ATM. Sumur and Tegar, on the Nubra river arm, are quieter and closer to Panamik. For a first visit, one night in Hunder or Diskit and one in Sumur or Turtuk works well."},
+    {"q": "Can I go from Nubra to Pangong directly?", "a": "Yes. A road along the Shyok via Agham and Shyok village links Nubra to Pangong without returning to Leh, about 6–7 hours from Hunder. The road crosses river beds and can be damaged by summer melt water, so leave early. Check current status before you travel with your driver or locals."},
+    {"q": "Is Nubra Valley suitable for families with children?", "a": "Yes. Nubra is lower than Leh, around 3,100 m, and the dunes and camels are popular with children. The hard part is Khardung La: cross it only after two nights in Leh, keep children warm in the car at the top and do not linger. Talk to your doctor before the trip for very young children."},
+    {"q": "How much does a Nubra trip cost?", "a": "On a saver budget, the bus or a shared taxi and a homestay cost roughly ₹4,000–6,000 per person for two nights. A union taxi for two days costs about ₹11,800 for the car, shared by up to four or five people, plus camps from about ₹3,500 a double with meals. Fares change each season."},
+    {"q": "What is the weather in Nubra in summer?", "a": "Days in June to August are warm, often 20–30 °C in the sun at Diskit, while nights drop to around 8–12 °C. Khardung La can be below freezing even in July. Pack a fleece and a windproof jacket for the pass and sun protection for the dunes."},
+    {"q": "Are there ATMs in Nubra Valley?", "a": "Diskit has an ATM, but it can run out of cash at weekends or when the network is down. Hunder, Sumur and Turtuk depend on cash and occasional UPI. Withdraw enough in Leh for your whole Nubra stay, including camel rides and monastery fees."}
+  ]
+}

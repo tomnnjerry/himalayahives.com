@@ -1,0 +1,145 @@
+{
+  "slug": "binsar",
+  "name": "Binsar",
+  "region": "kumaon",
+  "kind": "national park",
+  "wiki": "Binsar Wildlife Sanctuary",
+  "image_query": "Binsar Wildlife Sanctuary Zero Point view",
+  "lat": 29.7,
+  "lng": 79.75,
+  "altitude_m": 2400,
+  "tagline": "An oak sanctuary on the Chand kings' summer hill",
+  "meta_description": "Binsar Wildlife Sanctuary guide: Zero Point sunrise, oak forest birding, KMVN rest house and Mary Budden Estate, gate fees, costs and how to reach from Almora.",
+  "summary": "Binsar is a 45.6 sq km wildlife sanctuary of banj oak and rhododendron about 30 km north of Almora, rising to about 2,400 m at Zero Point. Come for the dawn view of the high Himalaya, birding in old oak forest and nights without traffic. Stay inside at the KMVN rest house or Mary Budden Estate for one to three nights.",
+  "intro": [
+    "Binsar is a forested hilltop that the Chand kings of Kumaon used as a summer retreat, and that British officials later dotted with estates. In 1988 it was declared a wildlife sanctuary to protect its broadleaf oak forest, increasingly rare across the central Himalaya. Today the sanctuary covers about 45.6 sq km, from about 900 m in its valleys to around 2,400 m on the main ridge.",
+    "The forest is mostly banj oak, with tilonj oak, rhododendron, and pine on the lower slopes. In March and April the buransh flowers turn the ridges red. More than 200 bird species have been recorded, including the koklass and kalij pheasants, and leopard, goral, barking deer and serow live here. Walks are on old bridle paths through the forest, quiet except for birds and wind.",
+    "The reason most people come is Zero Point, also called Jhandi Dhar, a watchtower at the top of the ridge. On a clear morning from October to February it shows a long line of the high Himalaya, from Kedarnath and Chaukhamba in the west through Trishul, Nanda Devi and Nanda Kot to Panchachuli in the east. Stay inside the sanctuary to be there at sunrise."
+  ],
+  "facts": [
+    ["Best months", "Oct – Jun"],
+    ["Nights we suggest", "1–3"],
+    ["Nearest airport", "Pantnagar (≈ 150 km · 4.5 h)"],
+    ["From Almora", "≈ 30 km · 1–1.25 h"],
+    ["Altitude", "about 2,400 m at Zero Point"],
+    ["Known for", "Zero Point view, oak forest, birds, forest stays"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1–3",
+  "highlights": [
+    {"title": "Sunrise at Zero Point", "text": "From the KMVN rest house it is a 2 km walk through oak forest to the watchtower at Zero Point. Leave 45 minutes before sunrise with a torch and a warm layer. On clear mornings the peaks run across the whole northern horizon."},
+    {"title": "Birding in old oak", "text": "Binsar's mature oak forest holds woodpeckers, laughingthrushes, nuthatches, tits, Eurasian jays and pheasants including kalij and koklass. Walk slowly on the forest paths at dawn, or hire a sanctuary-approved guide who knows the calls."},
+    {"title": "Buransh in spring", "text": "In March and April the tree rhododendron flowers across the ridges, and buransh squash is sold in Almora and the villages below. It is the most colourful season in the forest, though haze can soften the mountain views."},
+    {"title": "The sanctuary museum", "text": "A small forest department museum near the entry area describes Binsar's plants and animals. It is a useful short stop for children before a walk, and opening times vary by season."},
+    {"title": "Nights without traffic", "text": "Inside the sanctuary there are only a handful of stays and almost no through traffic. Power is limited, so evenings are quiet and dark, with clear skies for stars in autumn and winter."}
+  ],
+  "field_notes": [
+    {"fact": "Binsar was the summer capital of the Chand kings, who ruled Kumaon from about the 11th to the 18th century. It became a sanctuary in 1988, specifically to protect the shrinking broadleaf oak forest of the central Himalaya.", "source": "Binsar Wildlife Sanctuary"},
+    {"fact": "Sir Henry Ramsay, Commissioner of Kumaon from 1856 to 1884 and nicknamed King of Kumaun by British writers, built a bungalow at Binsar. The nearby Khali estate was later the home of Vijaya Lakshmi Pandit, Jawaharlal Nehru's sister.", "source": "Binsar Wildlife Sanctuary"},
+    {"fact": "In 1934 the Danish mystic Alfred Sorensen stayed with Nehru's sister and brother-in-law at their house at Khali in Binsar and worked in its garden, before settling on Crank's Ridge near Almora.", "source": "Cranks' Ridge"}
+  ],
+  "local_word": {"word": "Banj", "language": "Kumaoni", "meaning": "the grey oak, Quercus leucotrichophora, the main tree of Binsar's forest"},
+  "costs": [
+    ["Sanctuary entry, Indian nationals", "₹150–250 per person (foreigners higher)"],
+    ["Vehicle entry fee", "₹250–500 per car"],
+    ["KMVN rest house double", "₹2,500–5,000 a night"],
+    ["Sanctuary guide, half-day walk", "₹1,000–2,000"],
+    ["Private taxi, Almora–Binsar one way", "₹1,500–2,200"],
+    ["Simple meal at a gate-area dhaba", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 150 km away, 4.5 hours by taxi via Almora. A taxi costs roughly ₹5,000–6,500."},
+    {"mode": "Train", "text": "From Kathgodam railway station it is about 120 km, 4 hours via Almora. Take a shared taxi to Almora and a private taxi from there, as there is no regular public transport inside the sanctuary."},
+    {"mode": "Road", "text": "From Almora, drive north towards Bageshwar and turn off at the sanctuary gate; from the gate a narrow road climbs about 12 km to the KMVN rest house. Gate timings and fees apply. Check current status before you travel, especially after forest fires in summer or heavy rain."}
+  ],
+  "where_to_stay": "Saver: the KMVN tourist rest house is the classic Binsar stay, close to the Zero Point trail, with simple rooms and limited power; book on the KMVN site. Comfort: there are a few private lodges and homestays near the gate and in villages outside the sanctuary, useful if the rest house is full. Signature: Mary Budden Estate, a restored 19th-century cottage estate inside the sanctuary, offers a handful of rooms, meals and guided walks. Several other private estates exist inside; book well ahead.",
+  "stays": ["kmvn-trh-binsar", "mary-budden-estate"],
+  "tips": [
+    "Carry a torch and power bank; electricity inside the sanctuary is limited and may run only a few hours.",
+    "Pay the gate fee for every day you stay and keep the receipt for checks.",
+    "Do not walk forest trails after dark; leopards are present.",
+    "Forest fires are a risk from April to June: never drop cigarettes or light fires.",
+    "Mobile signal is weak inside; tell someone your plans before you go in."
+  ],
+  "themes": ["wildlife-and-birds", "treks-and-walks", "photography", "honeymoons"],
+  "nearby": ["almora", "jageshwar", "kausani"],
+  "experiences": [
+    {
+      "slug": "binsar-zero-point-sunrise-walk",
+      "title": "Sunrise walk to Zero Point",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Before sunrise, Oct–Feb",
+      "cost": "Included in sanctuary entry; guide optional ₹500–1,000",
+      "image_query": "Binsar Zero Point watchtower Himalaya",
+      "wiki": "Binsar Wildlife Sanctuary",
+      "summary": "Walk 2 km through dark oak forest to the watchtower at Zero Point, about 2,400 m, and watch the sun light the snow peaks from Chaukhamba to Panchachuli. It is the defining Binsar experience and best from October to February.",
+      "body": [
+        "The trail starts near the KMVN rest house and climbs gently through banj oak and rhododendron for about 2 km. Most people take 30–45 minutes. Leave at least 45 minutes before sunrise, carry a torch, and walk in a group if possible. In the half-light you may hear pheasants and see barking deer crossing the path.",
+        "At the top is a watchtower called Zero Point, or Jhandi Dhar, the highest point of the sanctuary. On a clear morning the view to the north takes in Kedarnath, Chaukhamba, Shivling, Trishul, Nanda Devi, Nanda Kot and the Panchachuli group. The first light reaches the highest summits several minutes before the ridges around you.",
+        "October to February gives the clearest skies. From March, haze from the plains often softens the view, and in the monsoon clouds usually hide it entirely. Bring a warm jacket, gloves and a hot drink; it is near freezing on winter mornings. Return slowly and stop to look for birds as the forest wakes."
+      ],
+      "good_for": ["photographers", "couples", "families", "solo", "students"],
+      "faqs": [
+        {"q": "How long is the walk to Zero Point in Binsar?", "a": "About 2 km each way from the KMVN rest house, on a gentle forest trail. Allow 30–45 minutes up and a little less down. It suits most fit walkers, including children and active seniors."},
+        {"q": "Which peaks can I see from Zero Point?", "a": "On a clear day the view runs from Kedarnath, Chaukhamba and Shivling in the west through Trishul, Nanda Devi and Nanda Kot to the Panchachuli group in the east."},
+        {"q": "Do I need a guide for the Zero Point walk?", "a": "The trail is clear and many walk it alone, but in the dark a guide or staff member is reassuring, and a guide adds bird and plant knowledge. Never walk it alone after dark."}
+      ]
+    },
+    {
+      "slug": "binsar-oak-forest-birding",
+      "title": "Birding in Binsar's oak forest",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "Dawn, Nov–May",
+      "cost": "Guide ₹1,000–2,000 per group",
+      "image_query": "kalij pheasant Binsar",
+      "wiki": "",
+      "summary": "Binsar's old oak forest is one of the best places in Kumaon to see Himalayan forest birds and pheasants. A slow dawn walk with a guide on the old bridle paths can produce woodpeckers, laughingthrushes, nuthatches and, with luck, kalij or koklass pheasant.",
+      "body": [
+        "More than 200 bird species have been recorded in Binsar, from small tits and warblers to the shy koklass pheasant. The mature oak and rhododendron forest is rich in insects and acorns, which keeps the canopy busy. Mixed flocks move through in the morning, and patience at a single spot often works better than covering ground.",
+        "Common birds include the black-headed jay, Eurasian jay, white-throated laughingthrush, chestnut-bellied nuthatch, greater yellownape, and several tits. Kalij pheasants feed on the trail edges at dawn and dusk. In winter, birds from higher up move into the sanctuary. Spring brings song and nesting.",
+        "Walk in dull clothes, keep voices low and stay on paths. Guides from the area know the forest and its calls; agree a fee before starting. Leopards live here, so start after first light and return before dark. Carry binoculars, water and a light layer, since temperatures change quickly under the canopy."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "students"],
+      "faqs": [
+        {"q": "What birds can I see in Binsar?", "a": "Over 200 species have been recorded, including kalij and koklass pheasants, laughingthrushes, nuthatches, tits, woodpeckers, jays, magpies and forktails. Monal are reported on the higher ridges in winter but are hard to see."},
+        {"q": "When is the best time for birding in Binsar?", "a": "November to May. Winter brings altitudinal migrants and clear mornings; March to May brings breeding calls. Avoid the monsoon, when paths are slippery and leeches appear."},
+        {"q": "Are there leopards in Binsar?", "a": "Yes, leopards live in the sanctuary, along with goral, barking deer and serow. They are rarely seen. Do not walk alone at dawn or dusk off the main paths, and never after dark."}
+      ]
+    },
+    {
+      "slug": "binsar-sanctuary-edge-village-walk",
+      "title": "Village trails on the edge of Binsar",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–May",
+      "cost": "Guide ₹1,000–2,000; tea and snacks extra",
+      "image_query": "Kumaon village terraces Binsar",
+      "wiki": "",
+      "summary": "Walk from the sanctuary edge down old paths to the terraced villages below, past naulas, stone houses with slate roofs and fields of mandua and wheat. It shows how people live with the forest that the sanctuary now protects.",
+      "body": [
+        "Villages around Binsar sit on the warmer, lower slopes where the forest gives way to terraces. Houses are built of stone with slate roofs and carved wooden doorframes, many painted with aipan patterns at festivals. Fields grow mandua, wheat, potatoes and pulses depending on the season. Most families also keep cattle and collect fodder and leaf litter from the forest.",
+        "Look for naulas, the stone tanks that collect spring water, often roofed and carved with small deities. They were the main water source before pipes, and many are still used. Women in these villages carry much of the work of fodder and water, and villages have long had rules on cutting from community forests.",
+        "Walk with a guide from the area, who will know which paths are open and which households welcome visitors. Ask before photographing people or homes, keep to field edges, and leave no litter. A cup of tea in a village home is common hospitality; offer to pay or buy local produce such as honey or pulses."
+      ],
+      "good_for": ["families", "students", "photographers", "couples"],
+      "faqs": [
+        {"q": "Can I visit villages near Binsar?", "a": "Yes, several villages lie on the slopes below the sanctuary and are linked by old paths. Go with a local guide, ask before photographing people, and respect fields and homes."},
+        {"q": "What is a naula?", "a": "A naula is a traditional stone tank built to collect water from a spring, often roofed and decorated with carvings. Naulas were the main water source in Kumaon villages and many are still used and maintained."},
+        {"q": "How difficult are the village walks near Binsar?", "a": "Most are moderate, with steep descents and climbs on stone paths. Allow half a day. Wear shoes with grip and carry water; arrange a pickup at the bottom if you do not want to climb back."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Binsar worth visiting?", "a": "Yes, if you like forests, birds and quiet. Binsar has one of the widest views of the high Himalaya in Kumaon from Zero Point, mature oak forest and few visitors. It is not a place for shopping or nightlife."},
+    {"q": "What is the entry fee for Binsar Wildlife Sanctuary?", "a": "Indian nationals pay roughly ₹150–250 per person and foreign nationals more, plus a vehicle fee of about ₹250–500. Fees are charged at the gate and may be per day. Check current status before you travel."},
+    {"q": "Where should I stay in Binsar?", "a": "Inside the sanctuary, choose the KMVN rest house for a simple, well-sited room near the Zero Point trail, or Mary Budden Estate for a restored heritage estate with meals and guided walks. Outside, villages near the gate have homestays and lodges."},
+    {"q": "Is there electricity in Binsar?", "a": "Power inside the sanctuary is limited. Stays may use solar power and run generators for a few hours in the evening. Carry a torch and power bank, and do not plan on working online here."},
+    {"q": "How do I reach Binsar from Almora?", "a": "Binsar is about 30 km from Almora, 1–1.25 hours by taxi via the gate on the Bageshwar road. A private taxi costs ₹1,500–2,200 one way. There is no regular public transport inside the sanctuary."},
+    {"q": "Is Binsar good for families?", "a": "Yes, for families who enjoy walks. The Zero Point trail is gentle and short, the museum is useful, and nights are quiet. There is little else to do, so one or two nights is enough for most children."},
+    {"q": "Is there mobile network in Binsar?", "a": "Signal is weak or absent in much of the sanctuary, though some spots near the ridge get a bar or two. Download maps and tell someone your plans before going in."},
+    {"q": "Is Binsar safe?", "a": "Yes, with care. Leopards live in the sanctuary, so do not walk alone at dawn, dusk or night, and follow staff advice. Forest fires are a risk in April to June; obey any closures and never light fires."},
+    {"q": "When is Binsar closed?", "a": "The sanctuary is generally open all year, but trails or the whole area may close during forest fires, heavy monsoon damage or official orders. Check current status before you travel."}
+  ]
+}

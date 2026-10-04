@@ -1,0 +1,145 @@
+{
+  "slug": "valley-of-flowers",
+  "name": "Valley of Flowers & Hemkund",
+  "region": "garhwal",
+  "kind": "national park",
+  "wiki": "Valley of Flowers National Park",
+  "image_query": "Valley of Flowers National Park Uttarakhand",
+  "lat": 30.728,
+  "lng": 79.605,
+  "altitude_m": 3350,
+  "tagline": "A UNESCO hanging valley that blooms in the monsoon",
+  "meta_description": "Valley of Flowers and Hemkund Sahib guide: Govindghat–Ghangaria trek, permits and fees, bloom calendar, Smythe and Joan Legge, costs and GMVN stays.",
+  "summary": "The Valley of Flowers is a national park at 3,350–3,650 m above Govindghat, open 1 June to 31 October and in full bloom from mid-July to late August. You trek about 10 km to Ghangaria, sleep there, and walk into the valley by day. Hemkund Sahib, at about 4,600 m, is a 6 km climb from the same base.",
+  "intro": [
+    "The Valley of Flowers is a glacial valley of the Pushpawati river, about 8 km long and 2 km wide, set high above the Badrinath road near Govindghat. It covers 87.5 km² of alpine meadow, scree and birch, ringed by peaks up to 6,719 m at Gauri Parbat. For most of the year it lies under snow. When the monsoon arrives, mist and rain feed an explosion of flowering plants, hundreds of species in all, many found only in this part of the Himalaya.",
+    "The valley was little known outside Garhwal until 1931, when the British mountaineers Frank Smythe, Eric Shipton and R. L. Holdsworth crossed into it on their way back from climbing Kamet. Smythe's book The Valley of Flowers made it famous. In 1939 the Kew botanist Lady Joan Margaret Legge died here while collecting plants; her grave lies in the valley. The area became a national park in 1982 and, with Nanda Devi National Park, a UNESCO World Heritage Site.",
+    "Every visit starts at Govindghat, where you take a shared taxi 4 km to Pulna and trek about 9–10 km up the Lakshman Ganga to Ghangaria at 3,049 m. The same trail carries Sikh pilgrims to Gurdwara Hemkund Sahib beside a glacial lake at about 4,600 m. No one may sleep in the park, so travellers stay three nights in Ghangaria: one for the valley, one for Hemkund and one spare for rain."
+  ],
+  "facts": [
+    ["Best months", "Mid-Jul – Aug for flowers; Sep for clear skies"],
+    ["Nights we suggest", "3 at Ghangaria"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 290 km to Govindghat · 10–11 h"],
+    ["From Joshimath", "≈ 22 km to Govindghat · 1 h, then ≈ 10 km trek"],
+    ["Altitude", "3,350–3,650 m (Ghangaria 3,049 m; Hemkund ≈ 4,600 m)"],
+    ["Known for", "Monsoon wildflowers, Hemkund Sahib, Smythe and Legge"]
+  ],
+  "best_months": [0, 0, 0, 0, 0, 1, 2, 2, 1, 1, 0, 0],
+  "nights": "3",
+  "highlights": [
+    {"title": "The valley in bloom", "text": "From mid-July to late August the meadows fill with flowers: balsam, potentilla, geraniums, primulas and, with luck, the blue poppy. June has early flowers and snow bridges; September turns golden. The park opens on 1 June and closes on 31 October; check current status before you travel."},
+    {"title": "Hemkund Sahib", "text": "A gurdwara and the Lokpal Lakshman temple beside a glacial lake ringed by seven peaks, at about 4,600 m. It is a 6 km climb of about 1,100 m from Ghangaria on a stone path. The shrine is usually open from late May to early October."},
+    {"title": "Joan Legge's grave", "text": "About 5 km into the valley, a small stone memorial marks where the English botanist Joan Margaret Legge died in 1939 while collecting plants for Kew. Her sister built the memorial. A walk to it and back takes most of the day."},
+    {"title": "Brahma kamal at Hemkund", "text": "Around the Hemkund lake in August grows brahma kamal, Saussurea obvallata, a pale, cupped flower that is the state flower of Uttarakhand. It is sacred to pilgrims; please do not pick it."},
+    {"title": "Langar at the gurdwaras", "text": "The gurdwaras at Govindghat and Ghangaria serve free langar to anyone who comes, and offer simple shelter to pilgrims. Sit, eat what is served and wash your own plate if asked. A donation is welcome but never asked for."}
+  ],
+  "field_notes": [
+    {"fact": "In 1931 Frank Smythe, Eric Shipton and R. L. Holdsworth lost their way while returning from their successful expedition to Kamet and came upon the valley in flower. Smythe named it the Valley of Flowers and later wrote a book with that title.", "source": "Valley of Flowers National Park"},
+    {"fact": "Lady Joan Margaret Legge, sent by the Royal Botanic Gardens, Kew, slipped and died in the valley in 1939 while collecting flowers. Her sister built the memorial, and in 2010 a balsam found nearby was named Impatiens leggei in her honour.", "source": "Lady Joan Legge"},
+    {"fact": "Nanda Devi National Park was inscribed as a World Heritage Site in 1988, and the listing was extended in 2005 to include the Valley of Flowers as Nanda Devi and Valley of Flowers National Parks.", "source": "UNESCO World Heritage Centre"}
+  ],
+  "local_word": {"word": "Brahma kamal", "language": "Garhwali / Hindi", "meaning": "the sacred high-altitude flower Saussurea obvallata, Uttarakhand's state flower"},
+  "costs": [
+    ["Valley of Flowers entry permit (3 days)", "≈ ₹150–200 Indians, ₹600–800 foreigners"],
+    ["Shared taxi, Govindghat to Pulna (4 km)", "₹50–100"],
+    ["Pony, Pulna to Ghangaria (one way)", "₹1,500–3,000"],
+    ["Helicopter seat, Govindghat to Ghangaria (one way)", "₹3,000–4,500 (indicative)"],
+    ["Room in Ghangaria lodge or GMVN rest house", "₹1,500–4,000 a night for a double"],
+    ["Porter for a day bag, Pulna to Ghangaria", "₹1,000–1,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and GMOU buses run from Rishikesh to Joshimath (about 265 km, 9–10 hours) and some continue to Govindghat and Badrinath. Shared jeeps link Joshimath and Govindghat (22 km)."},
+    {"mode": "Trek", "text": "From Govindghat, shared taxis cover the 4 km to Pulna. From there it is about 9–10 km on a stone-paved path to Ghangaria, climbing about 1,100 m; most walkers take 5–7 hours. Ponies and porters are available."},
+    {"mode": "Helicopter", "text": "A helicopter shuttle runs between Govindghat and Ghangaria in good weather in the pilgrim season, a flight of a few minutes. Seats are limited and weather-dependent; check current status before you travel. A Govindghat–Hemkund ropeway has been approved but is not yet running."}
+  ],
+  "where_to_stay": "Saver: the GMVN tourist rest house at Ghangaria has rooms and dorm beds, and the gurdwara offers free shelter to pilgrims; private lodges charge ₹1,500–4,000 for a double with shared or attached bath. Hot water is often by the bucket. Comfort: Ghangaria has no hotels above simple mid-range; the best lodges have attached bathrooms and geysers, which we book for comfort trips. There is no signature-level stay; we place comfort-trip nights before and after at Joshimath or Auli.",
+  "stays": ["gmvn-tourist-rest-house-ghangaria"],
+  "tips": [
+    "Register for the Hemkund Sahib yatra and carry ID; police check registrations on the road.",
+    "Enter the valley by 7–8 am to make the most of permitted hours; all visitors must be out by about 5 pm.",
+    "Pack a proper rain jacket, rain trousers and a waterproof bag cover; it rains most days in July and August.",
+    "Spend three nights at Ghangaria so a washed-out day does not cost you the valley or Hemkund.",
+    "Do not pick flowers or leave the marked trail; the meadows are a national park and rangers fine offenders."
+  ],
+  "themes": ["treks-and-walks", "pilgrimages", "photography", "wildlife-and-birds"],
+  "nearby": ["auli", "badrinath", "chopta-tungnath"],
+  "experiences": [
+    {
+      "slug": "valley-of-flowers-day-walk-ghangaria",
+      "title": "A day in the Valley of Flowers",
+      "kind": "nature",
+      "duration": "7–9 hours",
+      "best_time": "7 am start, mid-Jul to Aug",
+      "cost": "Permit ≈ ₹150–200 Indians, ₹600–800 foreigners",
+      "image_query": "Valley of Flowers meadow bloom",
+      "wiki": "Valley of Flowers National Park",
+      "summary": "From Ghangaria, walk past the forest checkpost, cross the Pushpawati and climb into a hanging valley of alpine flowers. Go as far as the stream crossings or Joan Legge's grave, and walk out before closing time.",
+      "body": [
+        "The walk starts at the forest checkpost just above Ghangaria, where you buy or show the three-day permit. The trail crosses the Pushpawati on a bridge and climbs through birch and rhododendron, with a few steep stony stretches, before easing into the valley floor about 3–4 km from Ghangaria. From there it runs gently up the valley between flower meadows, streams and scree.",
+        "In late July and August you walk through tall stands of balsam, geraniums, potentilla, campanula, primulas and anemones, with blue poppies on rocky slopes and fritillaries in damp corners. Flowering changes week by week, so no two visits are the same. About 5 km in, a small stone memorial marks the grave of Joan Margaret Legge, the Kew botanist who died here in 1939. Most visitors turn round there.",
+        "Entry is usually from 7 am to early afternoon, and everyone must leave by about 5 pm; camping is not allowed. Carry lunch, water and rain gear, as there are no stalls inside. Stay on the trail: the meadows are fragile, and picking plants is an offence. Rangers sometimes close the trail after heavy rain; check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "What is the best time to see flowers in the Valley of Flowers?", "a": "Mid-July to late August, when the monsoon brings the widest variety in bloom. June has early flowers with snow patches; September has fewer flowers but clearer skies and golden grass. The park is open from 1 June to 31 October."},
+        {"q": "Can I stay overnight in the Valley of Flowers?", "a": "No. Camping and overnight stays inside the national park are not allowed. Everyone sleeps at Ghangaria, about 3–4 km below the valley, and walks in for the day. Visitors must leave the park by about 5 pm."},
+        {"q": "How long is the Valley of Flowers permit valid?", "a": "The permit, bought at the forest checkpost near Ghangaria or online, is valid for three days, so you can enter more than once. Fees are roughly ₹150–200 for Indians and ₹600–800 for foreigners. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "hemkund-sahib-climb-from-ghangaria",
+      "title": "Climb to Hemkund Sahib and its glacial lake",
+      "kind": "spiritual",
+      "duration": "7–8 hours return",
+      "best_time": "5 am start, Jun–Sep",
+      "cost": "Free; pony ₹2,000–3,500 one way",
+      "image_query": "Hemkund Sahib gurdwara lake",
+      "wiki": "Gurdwara Hemkund Sahib",
+      "summary": "A steep 6 km climb of about 1,100 m from Ghangaria to the star-shaped Gurdwara Hemkund Sahib and Lokpal Lakshman temple, beside a cold lake at about 4,600 m. Pilgrims bathe in the lake and share hot tea and khichdi at the langar.",
+      "body": [
+        "Hemkund Sahib is dedicated to Guru Gobind Singh, the tenth Sikh Guru; the Dasam Granth says that in a former life he meditated beside a lake ringed by seven peaks. The gurdwara, a modern star-shaped building, stands at about 4,600 m beside Hemkund lake, with a Nishan Sahib on the cliffs above. A small Lokpal Lakshman temple stands nearby, revered by Hindu pilgrims.",
+        "The path from Ghangaria is stone-paved and relentless: about 6 km with roughly 1,100 m of ascent, most of it in zigzags. Fit walkers take 3–4 hours up and 2 hours down. Ponies and dandis are available. In late May, before opening, volunteers clear snow and repair the path as kar seva, selfless service. Overnight stay at the lake is not allowed, so pilgrims start early and leave by about 2 pm.",
+        "Altitude is the main risk. A study found that close to a third of pilgrims to Hemkund suffered acute mountain sickness. Spend at least one night at Ghangaria first, walk slowly, drink water and turn back if you develop a severe headache, vomiting or breathlessness at rest. Cover your head inside the gurdwara, remove shoes, and accept the hot tea and khichdi of the langar with thanks."
+      ],
+      "good_for": ["first-timers", "families", "solo"],
+      "faqs": [
+        {"q": "When does Hemkund Sahib open?", "a": "Usually in the last week of May, after volunteers clear the path of snow, and it closes in early October. The trustees announce exact dates each year. Registration on the Uttarakhand pilgrim portal is required; check current status before you travel."},
+        {"q": "How difficult is the Hemkund Sahib trek?", "a": "Hard for most people, because of the gradient and the altitude: 6 km and about 1,100 m of climb to roughly 4,600 m. The path is paved and wide. Ponies help, but riders still feel the altitude. Talk to your doctor before going if you have heart or lung conditions."},
+        {"q": "Can I do the Valley of Flowers and Hemkund on the same day?", "a": "It is possible for very fit, acclimatised walkers, but we do not recommend it. Each needs a full day, and together they mean 20 km and over 1,500 m of climbing. Plan one day for each, plus a spare day for rain."}
+      ]
+    },
+    {
+      "slug": "govindghat-to-ghangaria-trek",
+      "title": "The trek from Govindghat to Ghangaria",
+      "kind": "trek",
+      "duration": "5–7 hours",
+      "best_time": "6 am start, Jun–Sep",
+      "cost": "Shared taxi to Pulna ₹50–100; porter ₹1,000–1,500",
+      "image_query": "Govindghat Ghangaria trek path",
+      "wiki": "Ghangaria",
+      "summary": "A busy stone path of about 9–10 km up the Lakshman Ganga from Pulna to Ghangaria, shared with Sikh pilgrims, pony trains and porters. Waterfalls, dhabas every kilometre or two, and a steady climb of about 1,100 m.",
+      "body": [
+        "Govindghat, on the Badrinath highway 22 km beyond Joshimath, is the start: there is a gurdwara with langar, parking and a cloakroom. Shared taxis carry you 4 km up to Pulna village, where the walking begins. The path follows the Lakshman Ganga up a forested gorge on a wide stone-paved trail, crossing the river on bridges and passing a string of tea stalls and dhabas.",
+        "It is a steady climb rather than a steep one, rising about 1,100 m to Ghangaria at 3,049 m. Walkers take 5–7 hours; ponies take less. In July and August waterfalls pour off the cliffs and the path can be muddy where ponies pass, so step to the hill side when animals come by. Sikh pilgrims, many from Punjab, walk in groups singing shabads, and the mood is cheerful.",
+        "Leave Govindghat by 7 am to arrive with daylight to spare. Carry rain gear, water and snacks; food is available along the way. If you hire a pony or porter, use the official counters and agree the rate first. Ghangaria has lodges, the GMVN rest house, a gurdwara and a forest office, and electricity that may cut out at night. Bring a torch and a power bank."
+      ],
+      "good_for": ["students", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How long is the trek from Govindghat to Ghangaria?", "a": "About 13 km in all: 4 km by shared taxi from Govindghat to Pulna, then about 9–10 km on foot to Ghangaria. Walkers take 5–7 hours with breaks. The path is paved, busy and well supplied with tea stalls."},
+        {"q": "Is there a helicopter from Govindghat to Ghangaria?", "a": "Yes, a short helicopter shuttle operates in the pilgrim season in good weather, typically costing ₹3,000–4,500 one way (indicative). Seats are limited and flights stop in cloud or rain. Book through the authorised operator and check current status before you travel."},
+        {"q": "Can I leave luggage at Govindghat?", "a": "Yes. The gurdwara and some shops at Govindghat keep luggage for a small fee or donation. Take only what you need for three nights to Ghangaria: rain gear, warm layers, a torch, medicines and a change of clothes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I plan a Valley of Flowers trip from Delhi?", "a": "Reach Haridwar or Rishikesh overnight, take a bus or car to Joshimath (9–10 hours), then go to Govindghat next morning and trek to Ghangaria. Spend three nights at Ghangaria for the valley, Hemkund and a spare day, then return. A comfortable trip takes 7–8 nights from Rishikesh."},
+    {"q": "How much does a Valley of Flowers trip cost?", "a": "A saver trip of 6–7 nights from Rishikesh by bus, shared taxi and lodge rooms costs about ₹12,000–18,000 per person, including permits and simple meals. Ponies, porters or helicopter seats add more. A comfort trip by private car costs ₹35,000–50,000 per person for two sharing."},
+    {"q": "Is the Valley of Flowers safe in the monsoon?", "a": "The trail itself is well made, but the roads to Govindghat suffer landslides in July and August, and heavy rain can close paths for a day or two. Keep at least two buffer days, avoid driving after dark, take insurance and follow local alerts."},
+    {"q": "Do I need a guide for the Valley of Flowers?", "a": "No. The trail is clear and busy. A local guide, available at Ghangaria, helps you identify flowers and birds and knows where the best patches are that week. Guides are especially useful if you want to reach Joan Legge's grave and back in good time."},
+    {"q": "Is there mobile network at Ghangaria?", "a": "Network is limited. BSNL and sometimes Jio work patchily at Ghangaria; there is usually none in the valley itself. Tell family you will be out of contact for a few days, and carry cash, as there is no ATM above Joshimath on this route."},
+    {"q": "Will I get altitude sickness at Ghangaria or Hemkund?", "a": "Ghangaria at 3,049 m can bring headaches on the first night, and Hemkund at about 4,600 m carries a real risk of acute mountain sickness. Sleep at Joshimath before the trek, climb slowly, drink water and descend if symptoms worsen. Talk to your doctor before the trip."},
+    {"q": "Can children and seniors do the Valley of Flowers?", "a": "Many do, using ponies for the Ghangaria trek. The valley walk itself is moderate with some steep steps near the start. Hemkund is much harder because of altitude. Seniors should consult a doctor and plan extra rest days; children under 8 find the long days tiring."},
+    {"q": "What should I pack for the Valley of Flowers?", "a": "Waterproof jacket and trousers, waterproof trekking shoes, warm fleece, quick-dry clothes, a rain cover for your daypack, a torch, power bank, water bottle, sunscreen and basic medicines. Leave heavy luggage at Govindghat or Joshimath."},
+    {"q": "When does the Valley of Flowers open and close?", "a": "The national park usually opens on 1 June and closes on 31 October. The forest department announces dates each year and may close the trail on bad-weather days. Check current status before you travel."}
+  ]
+}

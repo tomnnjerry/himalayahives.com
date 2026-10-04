@@ -1,0 +1,145 @@
+{
+  "slug": "bhaktapur",
+  "name": "Bhaktapur",
+  "region": "nepal",
+  "kind": "city",
+  "wiki": "Bhaktapur",
+  "image_query": "Nyatapola temple Bhaktapur Taumadhi",
+  "lat": 27.671,
+  "lng": 85.4298,
+  "altitude_m": 1401,
+  "tagline": "Potters, pagodas and the king of curds",
+  "meta_description": "Bhaktapur guide: Nyatapola, Durbar Square, Pottery Square, juju dhau curd, Bisket Jatra, entry fees for SAARC and foreign visitors, where to stay and eat.",
+  "summary": "Bhaktapur is the best-preserved of the three royal cities of the Kathmandu valley, 13 km east of Kathmandu at 1,401 m. Its five-roofed Nyatapola temple, potters' square and thick juju dhau curd make it worth a night, not a rushed half-day. SAARC visitors pay NPR 500 entry, other foreigners NPR 1,800.",
+  "intro": [
+    "Newar residents call their city Khwopa; older maps say Bhadgaon. Bhaktapur was the capital of the Malla kingdom of the whole valley until the 15th century and then one of three rival city-states, and it still feels like a separate town. Brick lanes run between three main squares, Durbar Square, Taumadhi and Dattatreya, and most of the old town is closed to through traffic. The city collects an entry fee from visitors and spends part of it on conservation.",
+    "Bhaktapur is a working city of farmers, potters and woodcarvers. In Pottery Square you see clay pots drying in rows and wheels spun by hand; in the side lanes, families set buffalo-milk curd in clay bowls to make juju dhau, which the city is famous for across Nepal. Early mornings are the best time, when people line up at temple taps and the squares fill with puja trays and vegetable sellers.",
+    "The 2015 earthquake damaged many buildings here, including temples in Durbar Square, but Nyatapola, completed in 1702, stood as it had in the 1934 earthquake. Most monuments have been restored. Stay a night to see the squares empty after the day-trippers leave, and come in mid-April if you can, when Bisket Jatra fills Taumadhi with chariots for the Nepali new year."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Tribhuvan International Airport, ≈ 10 km"],
+    ["From Kathmandu (Thamel)", "≈ 15 km · 45 min–1 h"],
+    ["Altitude", "1,401 m"],
+    ["Known for", "Nyatapola, pottery, juju dhau, woodcarving, Bisket Jatra"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 1, 0, 1, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Nyatapola, five roofs high", "text": "The five-roofed pagoda in Taumadhi Square was completed in 1702 and is the tallest temple in Nepal. Pairs of stone guardians line its stairway: wrestlers, elephants, lions, griffins and goddesses, each said to be ten times stronger than the pair below."},
+    {"title": "Pottery Square", "text": "South of Durbar Square, potters shape cups, water jars and curd bowls on wheels and leave them to dry in rows across the square. You can try the wheel for a small fee, and buy small pots for NPR 50–300."},
+    {"title": "Juju dhau, king of curds", "text": "Bhaktapur's thick, sweet buffalo-milk curd is set in clay bowls that absorb moisture and give it a firm top. Small bowls cost NPR 60–150 in shops around Durbar Square and Taumadhi. Eat it fresh, the same day."},
+    {"title": "Dattatreya Square and the peacock window", "text": "The quietest of the three squares has the Dattatreya temple and the Pujari Math, a priests' house with a famous carved peacock window on a side lane. Woodcarving workshops nearby still turn out windows and struts in the old style."},
+    {"title": "Durbar Square and the Golden Gate", "text": "The palace square has the gilded Golden Gate leading to the Taleju temple courtyards and the Fifty-five Window Palace. Non-Hindus may not enter the inner Taleju shrine. Go late afternoon for low light on the brick and gilt."}
+  ],
+  "field_notes": [
+    {"fact": "Bhaktapur's local Newar name is Khwopa, and it was long known to outsiders as Bhadgaon. The city stands about 13 km east of Kathmandu at 1,401 m.", "source": "Bhaktapur"},
+    {"fact": "Nyatapola, the five-roofed pagoda in Taumadhi, was completed in 1702 and is the tallest temple in Nepal. It survived both the 1934 and 2015 earthquakes.", "source": "Nyatapola Temple"},
+    {"fact": "Bisket Jatra follows the solar new year rather than the lunar calendar used by most Nepali festivals. A wooden pole of about 25 m called the yosin is raised and then pulled down to mark the new year.", "source": "Bisket Jatra"}
+  ],
+  "local_word": {"word": "Juju dhau", "language": "Newar", "meaning": "king curd; Bhaktapur's thick buffalo-milk curd set in clay bowls"},
+  "costs": [
+    ["Bhaktapur city entry", "₹310 SAARC (NPR 500); ₹1,125 other foreigners (NPR 1,800)"],
+    ["Small clay bowl of juju dhau", "₹40–100"],
+    ["Taxi from Thamel", "₹750–1,100 one way"],
+    ["Local bus from Kathmandu (Ratna Park/Bagbazar)", "₹30–60"],
+    ["Guesthouse double in the old town", "₹1,500–3,500 a night"],
+    ["Newari set meal (samay baji)", "₹200–450"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tribhuvan International Airport is about 10 km away; a taxi takes 30–45 minutes."},
+    {"mode": "Bus", "text": "Local buses run from Ratna Park and Bagbazar in Kathmandu to Bhaktapur's bus park, a 10-minute walk from Durbar Square, in about an hour."},
+    {"mode": "Road", "text": "A taxi from Thamel takes 45 minutes to an hour on the Araniko Highway or via Thimi. Cars must stop outside the old town; walk in from the ticket gates."}
+  ],
+  "where_to_stay": "Saver: family-run guesthouses around Taumadhi and Durbar Square offer simple doubles with rooftop views for ₹1,500–2,500; book one inside the ticketed zone so you can come and go freely. Comfort: several small heritage hotels in restored Newar houses near Durbar Square have carved windows, courtyards and breakfast terraces. Signature: there is no luxury hotel inside the old town; stay at Dwarika's in Kathmandu and come by car, or stay a night here in the best heritage guesthouse for the empty evening squares.",
+  "stays": [],
+  "tips": [
+    "Keep your entry ticket; it is checked at gates and valid for repeat visits within the period printed on it.",
+    "Show a passport or voter ID for the SAARC rate of NPR 500.",
+    "Buy juju dhau from busy shops where bowls turn over fast, and eat it the same day.",
+    "Arrive by 7 am for the squares without tour groups.",
+    "In mid-April check Bisket Jatra dates and book rooms early; crowds in Taumadhi are dense during the chariot pull."
+  ],
+  "themes": ["photography", "food-and-tea", "festivals", "family-holidays"],
+  "nearby": ["kathmandu", "nagarkot", "patan"],
+  "experiences": [
+    {
+      "slug": "bhaktapur-juju-dhau-and-pottery-square",
+      "title": "Juju dhau tasting and Pottery Square",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "8–11 am, Oct–Apr",
+      "cost": "City entry NPR 500 SAARC; curd ₹40–100 a bowl; wheel try ₹150–300",
+      "image_query": "Bhaktapur pottery square clay pots",
+      "wiki": "",
+      "summary": "Watch Bhaktapur's potters at work, try the wheel, then taste the city's famous juju dhau curd set in the same clay bowls. A slow, delicious morning that shows how craft and food are tied together in this city.",
+      "body": [
+        "Start in Pottery Square, a short walk south-west of Durbar Square. Families here still shape pots on heavy wheels set spinning with a stick, then lay the wet clay out in rows to dry in the sun before firing them under straw and ash. You will see water jars, flowerpots, oil lamps for Tihar and the shallow clay bowls used for curd. Most potters let you try the wheel for a small fee, and children love it.",
+        "Then walk to the shops around Durbar Square and Taumadhi for juju dhau. The name means king curd in Newar. It is made from buffalo milk, boiled down, sweetened and set overnight in unglazed clay bowls, which draw moisture out through their walls and leave a thick, creamy curd with a firm top. A small bowl costs NPR 60–150. Locals eat it as a dessert and serve it at weddings and feasts.",
+        "Finish with a Newari snack, such as bara (lentil pancake) or chatamari, in one of the courtyard cafes. If you are here in winter, look for yomari, a steamed rice-flour dumpling filled with molasses and sesame, made for the Yomari Punhi full moon in December. Carry the empty clay bowl home as a souvenir; many people do."
+      ],
+      "good_for": ["families", "couples", "students", "first-timers"],
+      "faqs": [
+        {"q": "What is juju dhau made from?", "a": "Buffalo milk, boiled and sweetened, then set overnight in unglazed clay bowls. The clay absorbs moisture and gives the curd its thick texture."},
+        {"q": "Can I carry juju dhau back to Kathmandu or India?", "a": "It keeps for a day in cool weather. It is fine for a same-day trip back to Kathmandu, but we would not carry it on a long bus or flight."},
+        {"q": "Can children try the pottery wheel?", "a": "Yes, most potters in Pottery Square let visitors, including children, try the wheel for a small fee. Expect muddy hands."}
+      ]
+    },
+    {
+      "slug": "bhaktapur-nyatapola-taumadhi-morning",
+      "title": "Morning puja at Nyatapola and Taumadhi",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "6–8 am, all year",
+      "cost": "Included in city entry; guide ₹1,500–2,000",
+      "image_query": "Nyatapola temple Bhaktapur morning",
+      "wiki": "Nyatapola Temple",
+      "summary": "See Taumadhi Square wake up: puja trays at the Bhairab temple, vegetable sellers, tea stalls, and Nyatapola's five roofs catching first light. Climb the stairway past the stone guardians for a view over the old town's roofs.",
+      "body": [
+        "Taumadhi Square is a five-minute walk from Durbar Square and is dominated by Nyatapola, the five-roofed pagoda completed in 1702 under King Bhupatindra Malla. It is the tallest temple in Nepal and survived the great earthquakes of 1934 and 2015. Its stairway is flanked by pairs of stone guardians, each pair believed to be ten times stronger than the one below, from legendary wrestlers at the bottom to tiger and lion goddesses at the top.",
+        "Come at dawn. The squat three-roofed Bhairabnath temple across the square receives offerings through a small hatch, and women arrive with plates of rice, flowers and vermilion. Tea stalls open, porters carry vegetables in baskets, and pigeons fill the steps. This is also where Bisket Jatra's great chariot of Bhairab is pulled in April.",
+        "Climb Nyatapola's steps for a view over the brick rooftops. Visitors may not enter the sanctum, which is opened only to priests. Afterwards, walk east through the lanes to Dattatreya Square to see the carved peacock window of the Pujari Math, and stop for chiya and sel roti on the way."
+      ],
+      "good_for": ["photographers", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can visitors enter Nyatapola temple?", "a": "No. You can climb the stairway and walk around the plinth, but the sanctum is closed to visitors."},
+        {"q": "Is the city entry ticket needed early in the morning?", "a": "Ticket counters may be unstaffed at dawn, but you are expected to pay; keep your ticket from the day before if you are staying the night."},
+        {"q": "When is the best light for photos at Nyatapola?", "a": "Early morning, from sunrise to about 8 am, and late afternoon. Midday light is flat and the square is crowded with groups."}
+      ]
+    },
+    {
+      "slug": "bhaktapur-dattatreya-woodcarving-walk",
+      "title": "Dattatreya Square and the woodcarvers",
+      "kind": "craft",
+      "duration": "2–3 hours",
+      "best_time": "9 am–12 pm, all year",
+      "cost": "Included in city entry; small museum fees extra",
+      "image_query": "Peacock window Bhaktapur Pujari Math",
+      "wiki": "",
+      "summary": "Walk to Bhaktapur's oldest square, Dattatreya, to see the carved peacock window and the workshops where Newar carvers still make windows, doors and roof struts by hand. A quiet half-day for anyone interested in craft and architecture.",
+      "body": [
+        "Dattatreya Square lies at the eastern end of the old town and is the quietest of Bhaktapur's three squares. The Dattatreya temple, dedicated to a deity revered by both Hindus and Buddhists, faces a row of old priests' houses called maths. The Pujari Math houses a small woodcarving museum, and on the lane beside it is the famous peacock window, a lattice carved with a peacock fanning its tail.",
+        "Around the square, workshops carve windows, doors, masks and temple struts from sal and other hardwoods using chisels and mallets. Some pieces are souvenirs; others are made for temple restoration after the 2015 earthquake, which has kept the old skills in demand. Ask before photographing the carvers and expect to be offered things to buy; there is no obligation.",
+        "From Dattatreya, walk back west along the old trade street that runs through the middle of the town, past shrines, water taps and courtyard houses. It links all three squares in about 20 minutes. Stop at a courtyard cafe for a Newari snack before returning to Durbar Square."
+      ],
+      "good_for": ["couples", "solo", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Where is the peacock window in Bhaktapur?", "a": "On a narrow lane beside the Pujari Math in Dattatreya Square, at the eastern end of the old town. Look for the small crowd of photographers."},
+        {"q": "Can I buy a carved window to take home?", "a": "Workshops sell carved panels and small windows. Ask about export rules for older or antique pieces, which may need clearance; new pieces are generally fine."},
+        {"q": "How long does it take to walk between Bhaktapur's three squares?", "a": "About 15–20 minutes from Durbar Square to Dattatreya at an easy pace, through Taumadhi."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the Bhaktapur entry fee for Indians?", "a": "SAARC nationals, including Indians, pay NPR 500 (about ₹310); other foreigners pay NPR 1,800 (about ₹1,125). Show your passport or voter ID at the counter. The ticket covers the old town for the period printed on it. Fees change, so check current status before you travel."},
+    {"q": "Is Bhaktapur worth an overnight stay?", "a": "Yes. Day-trippers leave by 5 pm and the squares become quiet and local. Staying also gives you dawn at Nyatapola before the crowds. One night is enough for most people; two if you add Changu Narayan or Nagarkot."},
+    {"q": "How do I get from Kathmandu to Bhaktapur?", "a": "A taxi from Thamel takes 45 minutes to an hour and costs about NPR 1,200–1,800. Local buses from Ratna Park or Bagbazar cost NPR 50–100 and take about an hour to Bhaktapur bus park, ten minutes on foot from Durbar Square."},
+    {"q": "When is Bisket Jatra in Bhaktapur?", "a": "Bisket Jatra runs for nine days around the Nepali new year, usually 13–14 April, with the main chariot pulls and the yosin pole ceremony on the days before and after the new year. Dates follow the solar calendar. Check current status before you travel."},
+    {"q": "Was Bhaktapur badly damaged in the 2015 earthquake?", "a": "Many houses and some temples in Durbar Square were damaged or collapsed. Nyatapola survived. Most monuments have since been restored, and the old town is fully open to visitors."},
+    {"q": "What should I eat in Bhaktapur?", "a": "Juju dhau is the must. Also try bara (lentil pancakes), chatamari, samay baji and, in winter, yomari. Courtyard restaurants around Durbar Square serve full Newari sets."},
+    {"q": "Is Bhaktapur good for elderly travellers?", "a": "Yes. The old town is mostly flat and car-free, though paving is uneven. Taxis can drop you near the main gates, and there are plenty of places to sit in the squares."},
+    {"q": "Can I visit Bhaktapur and Nagarkot in one day?", "a": "Yes. Nagarkot is about 20 km uphill from Bhaktapur, 45 minutes to an hour by taxi. Many people spend the day in Bhaktapur and drive up for the sunset, staying the night in Nagarkot for sunrise."},
+    {"q": "Are there ATMs in Bhaktapur?", "a": "Yes, several banks have ATMs near the bus park and on the main road outside the old town. Inside the squares, carry cash, because small shops and juju dhau sellers rarely take cards."}
+  ]
+}

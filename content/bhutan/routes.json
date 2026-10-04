@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "phuentsholing-to-thimphu",
+    "from": "phuentsholing",
+    "to": "thimphu",
+    "distance_km": 150,
+    "summary": "The road from the plains to the capital climbs from about 300 m to 2,300 m in 5–6 hours, through the fog belt at Gedu, past Chhukha's hydropower country to the confluence at Chhuzom, then up the Wang Chhu to Thimphu.",
+    "options": [
+      {"mode": "Operator vehicle with guide", "time": "5–6 h", "cost": "₹6,000–9,000 for the vehicle, shared by the group", "text": "The standard way for tourists. Your licensed guide rides with you from the first checkpoint at Rinchending, and the driver stops for tea at Gedu or Chhukha and at Chhuzom. A group of four sharing the car pays about ₹1,500–2,250 each, plus the guide's daily fee."},
+      {"mode": "Public coach", "time": "6–7 h", "cost": "₹300–500 a seat", "text": "Several companies run coaches between Phuentsholing and Thimphu, booked in advance at the bus station or online. As a tourist you must still travel with your licensed guide, whose seat you pay for. It is cheaper than a car but slower, with fixed departure times. Ask your operator before planning on it; check current status before you travel."},
+      {"mode": "Shared taxi", "time": "5–6 h", "cost": "₹800–1,500 a seat", "text": "Shared taxis leave from Phuentsholing when full and are used mainly by locals. Tourists need their guide aboard, so in practice a small group books the whole taxi with their guide. Agree the fare and stops before you leave."}
+    ],
+    "stops_on_way": ["Rinchending checkpoint", "Gedu", "Chhukha", "Chhuzom confluence", "Simtokha Dzong"],
+    "road_status": "Open year round; fog around Gedu and landslides in the June–September monsoon can cause delays. Check current status before you travel.",
+    "tip": "Leave Phuentsholing by 8 am to cross the Gedu fog belt in good light.",
+    "faqs": [
+      {"q": "How long does Phuentsholing to Thimphu take?", "a": "About 5–6 hours by car for roughly 150 km, longer by coach or in heavy monsoon rain. Fog near Gedu and roadworks can add an hour. Check current status before you travel."},
+      {"q": "Can I take a public bus as a tourist?", "a": "Coaches run on this route, but tourists must be accompanied by a licensed guide beyond the first checkpoint, so you would need your guide on the bus with you. Most operators use a vehicle instead. Check current status before you travel."},
+      {"q": "Is the road safe?", "a": "It is a good two-lane national highway by Himalayan standards, with experienced drivers, but it is winding and can be foggy and slippery. Take travel-sickness tablets if you need them."},
+      {"q": "Where should I stop on the way?", "a": "Tea at Gedu or Chhukha, a photo stop at the Chhuzom confluence where the Paro and Thimphu rivers meet, and a short visit to Simtokha Dzong just before Thimphu if time allows."}
+    ]
+  },
+  {
+    "slug": "paro-to-haa-via-chele-la",
+    "from": "paro",
+    "to": "haa",
+    "distance_km": 65,
+    "summary": "Bhutan's highest road climbs from the Paro valley through blue pine and rhododendron to Chele La at 3,988 m, then drops into the quiet Haa valley. Allow 2.5–3 hours plus time on the pass.",
+    "options": [
+      {"mode": "Operator vehicle with guide", "time": "2.5–3 h", "cost": "₹4,000–6,000 for the vehicle, return day trip", "text": "Almost every visitor goes this way. Leave Paro by 7 am for the best chance of clear views from the pass, spend 30–60 minutes on Chele La, and reach Haa by late morning. The road is narrow and steep with sharp bends and drops."},
+      {"mode": "Via Chhuzom (winter alternative)", "time": "3.5–4 h", "cost": "₹5,000–7,000 for the vehicle", "text": "When Chele La is icy or snowbound, usually December to March, drivers go down the Paro valley to Chhuzom and up the Haa Chhu road instead. It is longer, about 115 km, but lower and safer in bad weather."},
+      {"mode": "Mountain bike with support vehicle", "time": "5–7 h", "cost": "₹3,000–6,000 per person with bike hire", "text": "Some operators run supported rides over Chele La for fit cyclists. The climb from Paro is about 1,700 m. Go only with a licensed operator, helmet and support vehicle, and acclimatise first."}
+    ],
+    "stops_on_way": ["Bondey", "Chele La viewpoint", "Kila Gonpa trail junction", "Haa town"],
+    "road_status": "Usually open year round; snow and ice can close Chele La for hours or days between December and March. Check current status before you travel.",
+    "tip": "Carry a windproof jacket for the pass even in summer.",
+    "faqs": [
+      {"q": "How high is the road from Paro to Haa?", "a": "It crosses Chele La at 3,988 m, the highest motorable point in Bhutan. Paro is about 2,250 m and Haa about 2,700 m. Stop briefly and walk slowly on the pass."},
+      {"q": "Is the Chele La road open in winter?", "a": "Usually, but snow and ice can close it. Drivers then use the longer road via Chhuzom. Check current status before you travel."},
+      {"q": "Can I do Paro to Haa and back in a day?", "a": "Yes. It is about 130 km return and 8–9 hours with stops. Leave by 7 am. An overnight in a Haa homestay is more relaxed."},
+      {"q": "Do I get mountain views from Chele La?", "a": "On clear mornings, mostly October to April, you can see Jomolhari and Jichu Drake. Cloud often builds after 10 am and in the monsoon months."}
+    ]
+  },
+  {
+    "slug": "thimphu-to-punakha-via-dochula",
+    "from": "thimphu",
+    "to": "punakha",
+    "distance_km": 72,
+    "summary": "The classic Bhutan drive: east from Thimphu up to Dochu La at about 3,100 m with its 108 chortens, then a long descent of about 1,900 m through forest to the warm rice valley of Punakha. About 2.5–3 hours plus stops.",
+    "options": [
+      {"mode": "Operator vehicle with guide", "time": "2.5–3 h", "cost": "₹4,000–6,000 for the vehicle", "text": "The usual way. Stop at Dochu La for 30–60 minutes, more on a clear winter morning, then descend to Lobesa, where the road splits for Punakha and Wangdue. Many trips stop at Chimi Lhakhang on the way in."},
+      {"mode": "Public bus", "time": "3–3.5 h", "cost": "₹150–300 a seat", "text": "Buses run between Thimphu and Punakha or Wangdue several times a day. Tourists need their licensed guide with them, whose fare you pay. It works for small budget groups who do not need a car in Punakha; check current status before you travel."},
+      {"mode": "Car plus Lumitsawa trail walk", "time": "4–5 h", "cost": "Vehicle cost only", "text": "Walk the 4.7 km Lumitsawa ancient trail from Dochu La down through rhododendron forest, then rejoin your vehicle at the road. It adds about 2 hours and is best in March–April and October–November."}
+    ],
+    "stops_on_way": ["Simtokha Dzong", "Hongtsho checkpoint", "Dochu La", "Lamperi botanical park", "Lobesa", "Chimi Lhakhang"],
+    "road_status": "Open year round; frost and snow can slow the pass between December and February, and roadworks cause short delays. Check current status before you travel.",
+    "tip": "Leave Thimphu by 7.30 am in winter to catch the peaks from Dochu La.",
+    "faqs": [
+      {"q": "How long is the drive from Thimphu to Punakha?", "a": "About 72 km and 2.5–3 hours without stops. With a Dochu La stop and Chimi Lhakhang, plan 4–5 hours."},
+      {"q": "Do I need a permit to go from Thimphu to Punakha?", "a": "Punakha must be on your entry permit, and your licensed guide must be with you. Your operator arranges both. Check current status before you travel."},
+      {"q": "Is the road steep?", "a": "Yes, winding up to about 3,100 m at Dochu La and then descending about 1,900 m to Punakha. Take travel-sickness tablets if needed."},
+      {"q": "Can I see the Himalaya on this drive?", "a": "From Dochu La on clear days, mainly October to February, you can see Bhutan's high northern peaks including Gangkar Puensum (7,570 m). Summer views are rare."}
+    ]
+  },
+  {
+    "slug": "punakha-to-phobjikha",
+    "from": "punakha",
+    "to": "phobjikha",
+    "distance_km": 80,
+    "summary": "From the rice valley at 1,200 m, the road follows the river to Wangdue Phodrang, climbs the Lateral Road east through oak and rhododendron, and turns off near Lawa La to drop into the glacial bowl of Phobjikha at about 3,000 m. About 3 hours.",
+    "options": [
+      {"mode": "Operator vehicle with guide", "time": "3 h", "cost": "₹5,000–7,000 for the vehicle", "text": "The only practical way for tourists. Stop at the rebuilt Wangdue Phodrang Dzong on its ridge above the confluence of the Puna Tsang Chhu and Dang Chhu, then climb steadily east. The last section drops into the valley with a view of Gangtey Goenpa."},
+      {"mode": "Public bus to the junction", "time": "4–5 h", "cost": "₹200–400 a seat", "text": "Buses on the Lateral Road towards Trongsa pass the Phobjikha turn-off, but local connections into the valley are limited. With the guide requirement, this rarely works for tourists. Check current status before you travel."},
+      {"mode": "Hike in from Lawa La (trek option)", "time": "Half day", "cost": "Vehicle plus guide", "text": "Some trips drive to the Lawa La area and walk the last section into the valley on the old trail, meeting the vehicle below. Ask your operator; it suits fit walkers in spring and autumn."}
+    ],
+    "stops_on_way": ["Wangdue Phodrang Dzong", "Nobding", "Lawa La turn-off", "Gangtey Goenpa viewpoint"],
+    "road_status": "Open year round; snow can affect the higher section from December to February and landslides occur in the monsoon. Check current status before you travel.",
+    "tip": "Arrive in Phobjikha by mid-afternoon to catch the cranes flying in to roost at dusk.",
+    "faqs": [
+      {"q": "How far is Phobjikha from Punakha?", "a": "About 80 km and 3 hours by road via Wangdue Phodrang. Add time for a dzong stop and tea."},
+      {"q": "What is the altitude change?", "a": "You climb from about 1,200 m at Punakha to about 3,000 m in Phobjikha. Walk slowly on arrival, drink water and limit alcohol the first evening."},
+      {"q": "Is the Wangdue Phodrang Dzong open?", "a": "It burned down in June 2012 and was rebuilt, with reconstruction funded by the king, the Government of India and Bhutanese donors. Ask your guide whether visitors can enter on your day."},
+      {"q": "Can I visit Phobjikha in winter?", "a": "Yes; winter is crane season. The road usually stays open, but snow can close it briefly. Pack warm clothes. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "trongsa-to-bumthang",
+    "from": "trongsa",
+    "to": "bumthang",
+    "distance_km": 68,
+    "summary": "A short, scenic drive east from Trongsa over Yotong La at about 3,400 m, through fir forest and the yathra-weaving villages of Chhume, into the broad Choekhor valley at Jakar. About 2.5–3 hours.",
+    "options": [
+      {"mode": "Operator vehicle with guide", "time": "2.5–3 h", "cost": "₹4,000–6,000 for the vehicle", "text": "The standard way. Climb from Trongsa's gorge to Yotong La, then descend into Chhume, where roadside workshops weave yathra. Continue past fields of buckwheat into Jakar. With weaving stops, allow 4 hours."},
+      {"mode": "Public bus", "time": "3–4 h", "cost": "₹150–300 a seat", "text": "Long-distance buses between Thimphu and Bumthang pass through Trongsa. Tourists need their guide aboard. It can work for a budget group with flexible times; check current status before you travel."},
+      {"mode": "Domestic flight alternative", "time": "Varies", "cost": "Varies by schedule", "text": "There is no flight between Trongsa and Bumthang, but Bathpalathang airport near Jakar has had Drukair flights to and from Paro, which some trips use to avoid driving back west. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Trongsa Ta Dzong", "Yotong La", "Chhume yathra workshops", "Chamkhar town"],
+    "road_status": "Open year round; Yotong La can see snow between December and February. Check current status before you travel.",
+    "tip": "Allow an extra hour to stop at the Chhume weavers.",
+    "faqs": [
+      {"q": "How long is the drive from Trongsa to Bumthang?", "a": "About 68 km and 2.5–3 hours over Yotong La. With stops to see weavers in Chhume, allow 3.5–4 hours."},
+      {"q": "How high is Yotong La?", "a": "About 3,400 m. The road climbs from Trongsa at about 2,200 m and descends to Jakar at about 2,600 m."},
+      {"q": "Can I buy yathra on the way?", "a": "Yes, in Chhume valley, where women weave at roadside workshops. Prices run from about ₹2,000 for small pieces to much more for blankets."},
+      {"q": "Is there a flight back from Bumthang?", "a": "Drukair has operated flights from Bathpalathang near Jakar to Paro, with limited and seasonal schedules. Check current status before you travel."}
+    ]
+  }
+]

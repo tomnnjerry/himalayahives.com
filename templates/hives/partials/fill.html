@@ -1,0 +1,6 @@
+{% load hives %}{% for i in "123" %}<a class="fill-card" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if fill_land %}&land={{ fill_land }}{% endif %}" data-fill-card hidden{% if fill_land %} data-land="{{ fill_land }}"{% endif %} data-cta="fill-card">{% topo "fill"|add:i %}
+  <span class="hbadge hbadge--foil">{% if forloop.counter == 1 %}{% icon "sparkle" %}{% elif forloop.counter == 2 %}{% icon "wallet" %}{% else %}{% icon "chat" %}{% endif %}</span>
+  <span class="d-3">{% if forloop.counter == 1 %}{{ fill_title|default:"Shape your own trip" }}{% elif forloop.counter == 2 %}Tell us your budget{% else %}Talk to a planner{% endif %}</span>
+  <span style="font-size:15.5px;opacity:.85">{% if forloop.counter == 1 %}{{ fill_text|default:"Your month, your budget, your pace. We draw the route around you." }}{% elif forloop.counter == 2 %}Saver, Comfort or Signature, or a mix. We price every line so you can choose.{% else %}A first route and an itemised price within one working day. No payment to start.{% endif %}</span>
+  <span class="link" style="color:var(--f1)">Start {% icon "arrow" %}</span>
+</a>{% endfor %}

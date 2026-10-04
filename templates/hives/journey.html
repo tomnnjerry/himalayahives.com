@@ -1,0 +1,112 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ j.title }} · {{ j.nights }} nights from {{ j.price_from_inr|inr }} · Himalaya Hives{% endblock %}
+{% block description %}{{ j.meta_description }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block alt_from %}0{% endblock %}{% block alt_to %}{{ j.max_sleep_alt|default:0 }}{% endblock %}{% block alt_label %}Highest night{% endblock %}
+{% block fab_label %}Ask about this trip{% endblock %}{% block fab_land %}&land={{ r.slug }}&journey={{ j.title|urlencode }}{% endblock %}
+{% block og_image %}{% with img=j|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Make this trip yours" %}{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo j.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow"><span class="tier tier--{{ j.tier }}" style="margin-right:6px">{{ j.tier_obj.name }}</span> {{ r.name }} · {{ j.pace }}</p>
+      <h1 class="d-1">{{ j.title }}</h1>
+      <p class="answer">{{ j.summary }}</p>
+      <dl class="phead__meta">
+        <div><dt>From, per person</dt><dd>{{ j.price_from_inr|inr }}</dd></div>
+        <div><dt>Length</dt><dd>{{ j.nights }} nights · {{ j.days_count }} days</dd></div>
+        {% if j.max_sleep_alt %}<div><dt>Highest night</dt><dd>{{ j.max_sleep_alt|alt }}</dd></div>{% endif %}
+        <div><dt>Best</dt><dd>{{ j.best_label }}</dd></div>
+      </dl>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px"><a class="btn btn--foil" href="{% url 'plan' %}?land={{ r.slug }}&journey={{ j.title|urlencode }}&from={{ request.path|urlencode }}" data-cta="trip-head-plan">Check dates and price</a><a class="btn btn--line" href="#days">See the days</a></div>
+    </div>
+    <div class="phead__photo">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline j.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <div class="prose">{% for para in j.intro %}<p>{{ para }}</p>{% endfor %}
+        <h2>Highlights</h2><ul>{% for h in j.highlights %}<li>{{ h }}</li>{% endfor %}</ul></div>
+      {% if j.profile|length > 1 %}<div style="margin-top:34px"><p class="eyebrow">Sleeping altitude, night by night</p><h2 class="d-2" style="margin-bottom:16px">The climb</h2>
+        <div class="prof">{% profile j %}</div>
+        <p class="small muted" style="margin-top:10px">Red points are nights above 3,000 m. We pace those climbs by the usual advice of no more than 300–500 m of sleeping height a day. This is not medical advice: talk to your doctor before a high trip. <a href="{% url 'tool_altitude' %}">Try the altitude planner</a>.</p></div>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>The trip in numbers</h2>
+        <div class="ledger ledger--mono">
+          <div class="ledger__row"><span>Tier</span><span class="ledger__dots"></span><b>{{ j.tier_obj.name }}</b></div>
+          <div class="ledger__row"><span>From</span><span class="ledger__dots"></span><b>{{ j.price_from_inr|inr }} pp</b></div>
+          <div class="ledger__row"><span>Per night, about</span><span class="ledger__dots"></span><b>{{ j.per_night|inr }}</b></div>
+          <div class="ledger__row"><span>Starts</span><span class="ledger__dots"></span><b>{{ j.start }}</b></div>
+          <div class="ledger__row"><span>Ends</span><span class="ledger__dots"></span><b>{{ j.end }}</b></div>
+          {% if j.transport %}<div class="ledger__row"><span>Transport</span><span class="ledger__dots"></span><b>{{ j.transport }}</b></div>{% endif %}
+          {% if j.group %}<div class="ledger__row"><span>Group</span><span class="ledger__dots"></span><b>{{ j.group }}</b></div>{% endif %}
+        </div>
+        {% if j.price_note %}<p class="small muted" style="margin:12px 0 0">{{ j.price_note }}</p>{% endif %}
+        <p class="eyebrow" style="margin:18px 0 10px">Best months</p>{% include "hives/partials/mbar.html" with bar=j.bar label=j.best_label %}
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="trip" qf_land=r.slug qf_title="Check dates and price" qf_message="Trip: "|add:j.title %}
+      {% if same_route %}<div class="panel panel--line"><h3>Same route, other tier</h3><div class="ledger">{% for x in same_route %}<a class="ledger__row" href="{{ x.url }}"><span>{{ x.tier_obj.name }}: {{ x.title }}</span><span class="ledger__dots"></span><b>{{ x.price_from_inr|inr }}</b></a>{% endfor %}</div></div>{% endif %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="days">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Day by day</p><h2 class="d-1" style="margin-bottom:20px">{{ j.days_count }} days in {{ r.name }}</h2>
+      <div class="days">{% for d in j.days %}<article class="day">
+        <div class="day__n"><b>{{ d.day }}</b><small>Day</small></div>
+        <div><h3>{{ d.title }}</h3>
+          <div class="day__meta">{% if d.overnight %}<span>Night: <b>{{ d.overnight }}</b></span>{% endif %}{% if d.place_obj.altitude_m %}<span class="{% if d.place_obj.altitude_m >= 3000 %}is-high{% endif %}">{{ d.place_obj.alt_label }}</span>{% endif %}{% if d.drive %}<span>{{ d.drive }}</span>{% endif %}{% if d.meals %}<span>Meals: {{ d.meals }}</span>{% endif %}</div>
+          <p>{{ d.text }}</p>{% if d.place_obj %}<a class="link" style="margin-top:10px" href="{{ d.place_obj.url }}">About {{ d.place_obj.name }} {% icon "arrow" %}</a>{% endif %}</div>
+      </article>{% endfor %}</div>
+    </div>
+    <aside class="split__aside">{% atlas map_points r.slug True %}</aside>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="incl">
+      <div class="panel"><h2>Included</h2><ul>{% for x in j.includes %}<li>{% icon "check" %}<span>{{ x }}</span></li>{% endfor %}</ul></div>
+      <div class="panel"><h2>Not included</h2><ul>{% for x in j.excludes %}<li class="is-out"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg><span>{{ x }}</span></li>{% endfor %}</ul></div>
+    </div>
+    {% if j.good_to_know %}<div class="panel panel--wax" style="margin-top:22px"><h2>Good to know</h2><div class="prose" style="font-size:16.5px"><ul>{% for x in j.good_to_know %}<li>{{ x }}</li>{% endfor %}</ul></div></div>{% endif %}
+  </div>
+</section>
+
+{% if j.stay_objs %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Where you sleep</p><h2 class="d-1">Stays on this trip</h2></div></div>
+    <div class="grid grid--3" data-fill>{% for s in j.stay_objs %}{% include "hives/partials/card_stay.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">About this trip</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=j.faqs open_first=True %}
+  </div>
+</section>
+
+{% if related %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">More from {{ r.name }}</p><h2 class="d-1">Other ways to see the hive</h2></div><a class="link" href="{{ r.url }}#trips">Every {{ r.name }} trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for j in related %}{% include "hives/partials/card_journey.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<div class="buybar" data-buybar hidden><div class="wrap buybar__in">
+  <span class="tier tier--{{ j.tier }}">{{ j.tier_obj.name }}</span>
+  <span class="buybar__t">{{ j.title }} · {{ j.nights }} nights</span>
+  <span class="price"><small>From, per person</small>{{ j.price_from_inr|inr }}</span>
+  <a class="btn btn--foil" href="{% url 'plan' %}?land={{ r.slug }}&journey={{ j.title|urlencode }}&from={{ request.path|urlencode }}" data-cta="buybar-plan">Check dates and price</a>
+</div></div>
+{% endblock %}

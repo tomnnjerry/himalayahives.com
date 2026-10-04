@@ -1,0 +1,147 @@
+{
+  "slug": "shimla",
+  "name": "Shimla",
+  "region": "himachal",
+  "kind": "hill station",
+  "wiki": "Shimla",
+  "image_query": "Shimla Ridge Christ Church",
+  "lat": 31.1048,
+  "lng": 77.1734,
+  "altitude_m": 2205,
+  "tagline": "The old summer capital, reached by a 1903 mountain railway",
+  "meta_description": "Shimla travel guide: toy train from Kalka, Viceregal Lodge, Kotgarh apple country, real INR costs, best months and where to stay from HPTDC to Wildflower Hall.",
+  "summary": "Shimla is Himachal's capital at about 2,200 m and the easiest hill town to reach from Delhi: 8–9 hours by HRTC Volvo, or by the Kalka–Shimla toy train. Spend two nights for the Ridge, Viceregal Lodge and a day out to the Kotgarh orchards. Avoid mid-May to June and New Year week.",
+  "intro": [
+    "Shimla sits along a curved ridge at roughly 2,200 m, with the town spilling down both sides in stacked lanes. From 1864 it was the summer capital of British India, which explains the Tudor-style buildings, the long pedestrian Mall and the Ridge, the open square in front of Christ Church. Today it is the capital of Himachal Pradesh, a working city of government offices, colleges and apple traders, and it can feel crowded. The trick is to treat the Mall as a short stroll and spend the rest of your time on the forest roads around it.",
+    "The approach is half the reason to come. The Kalka–Shimla Railway, opened in 1903 and listed by UNESCO in 2008, climbs 96 km from the plains through 102 tunnels and over hundreds of arched bridges. It takes five to six hours, against three to four by road, and the slow trains cost less than a bus ticket. Arrive by train once and you understand why the British built it: before 1903 everything came up by tonga and mule.",
+    "Shimla is also the doorway to the apple belt. Narkanda and Kotgarh, about 60–80 km further up the old Hindustan–Tibet road, are where Samuel Evans Stokes planted American apple varieties in the early 20th century, starting the orchard economy that now runs through Shimla district, Kullu and Kinnaur. In September the highways fill with boxed fruit. We pair Shimla with Kinnaur for an apple-country trip, or with Naggar and Manali on the classic Himachal circuit."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Shimla (Jubbarhatti), 22 km; Chandigarh, ≈ 115 km"],
+    ["From Delhi", "≈ 350 km · 8–9 h by road"],
+    ["Altitude", "2,205 m"],
+    ["Known for", "Toy train, colonial Ridge, apple country, winter snow"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "The Ridge and Christ Church", "text": "The open square at the top of town, with Christ Church at one end and the Mall dropping away below. Come at 7 am, before the crowds, to see the Shivalik ranges in clear light and hear the church bell."},
+    {"title": "Viceregal Lodge", "text": "Finished in 1888 for Lord Dufferin, this grey-stone mansion on Observatory Hill now houses the Indian Institute of Advanced Study. Guided tours show the wood-panelled halls; the lawns and the walk there through deodar are free."},
+    {"title": "Jakhu Hill", "text": "Shimla's highest point at about 2,450 m, with a Hanuman temple and a large statue visible across town. Walk up the steep 2 km path from the Ridge or take the ropeway; keep food hidden from the monkeys."},
+    {"title": "Toy train from Kalka", "text": "The 96 km narrow-gauge run through 102 tunnels and Barog's long tunnel. Ride up and take the bus down, or reverse it, to get the scenery without spending two full days in a carriage."},
+    {"title": "Kotgarh and Narkanda orchards", "text": "A day trip of about 80 km each way to the apple country Samuel Evans Stokes started, with a stop at Narkanda's ridge views. Best from August to October when orchards are being picked."},
+    {"title": "Mashobra and Naldehra forests", "text": "Quiet deodar and oak forest 12–25 km north of town, with walking trails, picnic meadows and the Oberoi's Wildflower Hall at Chharabra. A good escape when the Mall is packed."}
+  ],
+  "field_notes": [
+    {"fact": "Christ Church on the Ridge was consecrated in 1857 and is often described as the second-oldest church in north India. Its stained-glass windows depict faith, hope, charity, fortitude, patience and humility.", "source": "Christ Church, Shimla"},
+    {"fact": "The Viceregal Lodge was completed in 1888 for Lord Dufferin and was fitted with electric lighting at a time when that was rare in India. Since the 1960s it has housed the Indian Institute of Advanced Study.", "source": "Viceregal Lodge"},
+    {"fact": "The Gaiety Theatre on the Mall opened in 1887 as part of the Town Hall complex and staged amateur dramatics for colonial Shimla; it was restored and reopened in the 2000s and still hosts performances.", "source": "Gaiety Theatre, Shimla"}
+  ],
+  "local_word": {"word": "Chha", "language": "Pahari", "meaning": "buttermilk, served cold with a thali in the Shimla hills"},
+  "costs": [
+    ["HRTC Volvo, Delhi–Shimla", "₹900–1,300"],
+    ["Toy train, Kalka–Shimla, second class", "₹50–100"],
+    ["Toy train, chair car or Vistadome", "₹500–1,200 (check current fares)"],
+    ["Dhaba thali on the lower bazaar", "₹150–300"],
+    ["Taxi day trip to Narkanda and Kotgarh", "₹3,500–5,000 a car"],
+    ["HPTDC or mid-range hotel double, off season", "₹2,500–5,000 a night"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Shimla's Jubbarhatti airport is 22 km from town with a small number of flights from Delhi that are often weather-cancelled. Chandigarh airport, about 115 km and 3–4 hours away, has far more flights; HRTC buses and taxis run up from there."},
+    {"mode": "Rail", "text": "Take a train from Delhi to Kalka (the Kalka Shatabdi or Himalayan Queen are timed to connect), then the narrow-gauge toy train to Shimla, 5–6 hours. Book the connecting train and toy train on the same IRCTC booking in peak months."},
+    {"mode": "Bus", "text": "HRTC Volvo and ordinary buses run from Delhi's Kashmere Gate ISBT through the night to Shimla's ISBT Tutikandi, about 8–9 hours. From Chandigarh ISBT-43, buses take 3.5–4 hours. Local buses and the lift connect Tutikandi to the Mall."},
+    {"mode": "Road", "text": "Delhi to Shimla is about 350 km on NH44 and the Parwanoo–Shimla four-lane, 7–9 hours depending on Solan and Shoghi traffic. Private cars cannot drive on the Mall and Ridge; park at the Lift or Cart Road car parks."}
+  ],
+  "where_to_stay": "Saver: HPTDC runs several hotels around Shimla, and simple guesthouses in the lower bazaar and near the Lift charge ₹1,200–2,500 off season. Hostels come and go, so check recent listings. Comfort: stay on the quieter side of town around Chotta Shimla or in Mashobra rather than on the Mall itself, where parking and noise are problems. Signature: Shimla has two of the best hotels in the Himalaya, both Oberoi: The Oberoi Cecil on the Mall, a restored 1880s hotel, and Wildflower Hall at Chharabra, 13 km out, among deodar forest at about 2,500 m.",
+  "stays": ["oberoi-cecil-shimla", "oberoi-wildflower-hall-shimla"],
+  "tips": [
+    "Walk the Mall and Ridge before 9 am or after 8 pm; midday in May and June is shoulder to shoulder.",
+    "Use the public lift between Cart Road and the Mall to save a steep climb; it costs a few rupees.",
+    "Keep sunglasses, food and plastic bags out of sight on Jakhu Hill; the monkeys snatch them.",
+    "Book Kalka–Shimla toy train seats on IRCTC as soon as booking opens for May, June and October.",
+    "In snow, roads around Shimla ice up badly in the morning; let a local driver handle the car."
+  ],
+  "themes": ["road-trips", "family-holidays", "snow-and-winter", "photography", "honeymoons"],
+  "nearby": ["kalpa", "sangla-chitkul", "tirthan-valley", "naggar"],
+  "experiences": [
+    {
+      "slug": "shimla-kalka-toy-train-ride",
+      "title": "Ride the Kalka–Shimla toy train",
+      "kind": "culture",
+      "duration": "5–6 hours",
+      "best_time": "Morning departures, Mar–Jun and Sep–Dec",
+      "cost": "₹50–100 second class; ₹500–1,200 chair car or Vistadome (check current fares)",
+      "image_query": "Kalka Shimla Railway toy train bridge",
+      "wiki": "Kalka–Shimla Railway",
+      "summary": "A UNESCO-listed narrow-gauge line from Kalka at about 650 m to Shimla at 2,076 m, with 102 tunnels, arched stone bridges and small stations with tea stalls. The ride takes five to six hours and the ordinary trains cost less than a bus seat.",
+      "body": [
+        "The Kalka–Shimla Railway opened in 1903 to carry the summer government up to Shimla. It is 2 ft 6 in gauge and 96 km long, and it gains more than 1,400 m by looping around spurs rather than climbing straight up. UNESCO added it in 2008 to the Mountain Railways of India World Heritage Site, alongside the Darjeeling and Nilgiri lines. Several trains run each day in each direction, from the basic ordinary train to the Shivalik Deluxe Express and coaches with large Vistadome windows.",
+        "Sit on the right-hand side going up for the longer views over the Shivalik hills. Barog station, just after the longest tunnel of about 1.1 km, is the usual breakfast stop, and Solan, Kandaghat and Taradevi follow. The train moves at about 20 km an hour, which is slow enough to photograph the arched multi-tier bridges from the window and to watch the vegetation change from scrub to pine to deodar near Shimla.",
+        "Our advice is to ride one way only. Up from Kalka is the classic direction and connects with morning trains from Delhi. Coming down, the HRTC bus or a taxi takes about three hours to Chandigarh. In peak season book on IRCTC as soon as reservations open; unreserved second-class seats are available on the ordinary trains but fill quickly. Fares and timetables change, so check current status before you travel."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How long does the Kalka–Shimla toy train take?", "a": "Between five and six hours for 96 km, depending on the train. The faster Shivalik Deluxe and Vistadome trains are closer to five hours; ordinary trains stop more often. By road the same trip takes three to four hours, so the train is for the experience, not speed."},
+        {"q": "Which side should I sit on the toy train?", "a": "On the right side heading up from Kalka to Shimla, and the left side coming down. That side faces the valley on most of the bends. In the Vistadome coaches the large windows and glass roof give views from either side."},
+        {"q": "Can I buy toy train tickets at the station?", "a": "Yes for unreserved second class on ordinary trains, sold at Kalka and Shimla stations shortly before departure. Reserved chair-car and Vistadome seats must be booked on IRCTC, ideally weeks ahead for May, June, October and the December holidays."}
+      ]
+    },
+    {
+      "slug": "shimla-ridge-to-viceregal-lodge-walk",
+      "title": "Walk from the Ridge to Viceregal Lodge",
+      "kind": "culture",
+      "duration": "3–4 hours",
+      "best_time": "8 am, all year except heavy snow days",
+      "cost": "Walk free; Viceregal Lodge guided tour ₹50–150 (check current rate)",
+      "image_query": "Viceregal Lodge Shimla",
+      "wiki": "Viceregal Lodge",
+      "summary": "A 4 km walk along the Mall from Christ Church past the Gaiety Theatre, the old Town Hall and the Railway Board building to the Viceregal Lodge on Observatory Hill. Flat, shaded and full of Shimla's 19th-century history.",
+      "body": [
+        "Start at Christ Church on the Ridge, consecrated in 1857, and walk west down the Mall. The Gaiety Theatre, opened in 1887, is part of the Town Hall complex and still hosts plays. Scandal Point, where the Ridge meets the Mall, is the town's meeting place. Further on, the Railway Board building of 1896 is an early example of cast-iron frame construction in India, and the old post office stands where the Mall turns.",
+        "After the bazaar thins out, the road enters deodar forest around Boileauganj and climbs gently to Observatory Hill. The Viceregal Lodge, completed in 1888, is built of grey stone in a style the British called Elizabethan. Guided tours of the ground-floor halls, with their teak panelling and library, run through the day. The building now houses the Indian Institute of Advanced Study, so upper floors are closed to visitors.",
+        "Allow half a day with tea stops. Walk back the same way or take a taxi from Boileauganj to the Lift. The lawns are a good picnic spot and much quieter than the Ridge. Wear shoes with grip in winter; the Mall is paved but the side lanes are steep and slippery after rain or snow. Tour timings change and the Lodge may close on some public holidays, so check current status before you travel."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is the Viceregal Lodge open to tourists?", "a": "Yes, guided tours of the ground floor and grounds run most days for a small fee. The rest of the building is the Indian Institute of Advanced Study, a research institute, so offices and upper floors are not open. Check current timings, as they change seasonally."},
+        {"q": "How far is the Viceregal Lodge from the Mall?", "a": "About 4 km from Scandal Point along the Mall and the Boileauganj road. It is an easy, mostly level walk of an hour or so each way. Taxis can drop you near the gate if you prefer to save energy for the house and gardens."},
+        {"q": "Can seniors do this walk?", "a": "Yes. The Mall itself is closed to most traffic and fairly level, with benches along the way. The final stretch to the Lodge has a gentle climb. Seniors can take a taxi for the last section and still enjoy the lawns and halls."}
+      ]
+    },
+    {
+      "slug": "shimla-kotgarh-apple-country-day",
+      "title": "Day out to Kotgarh's apple orchards",
+      "kind": "village",
+      "duration": "Full day, 9–10 hours",
+      "best_time": "Aug–Oct for harvest; Apr for blossom",
+      "cost": "Taxi ₹3,500–5,000 a car; HRTC bus to Narkanda ₹120–200",
+      "image_query": "Kotgarh apple orchards Himachal",
+      "wiki": "Kotgarh",
+      "summary": "Drive 80 km up the old Hindustan–Tibet road past Narkanda to Kotgarh, where Samuel Evans Stokes planted American apple varieties in the early 20th century. Walk through orchards, see grading sheds at harvest and return via Narkanda's ridge views.",
+      "body": [
+        "Kotgarh sits on slopes above the Sutlej at roughly 1,800–2,000 m, about 80 km from Shimla by road, which takes 3 hours each way. It is where Samuel Evans Stokes, an American who came to the hills as a young man and later took the name Satyananda, planted improved apple varieties from the United States. Farmers who had grown grain and old local apples found they could sell this fruit in the plains, and orchards spread across Shimla district over the following decades.",
+        "In August, September and October the orchards are being picked, graded and packed into cardboard boxes stacked along the road for trucks to Delhi. Many families are happy to let visitors walk through and buy a few kilos at farm prices if you ask politely, and our drivers know who to ask. In April the same trees are in blossom. Stokes also built a small temple near his home in the Kotgarh area, which locals can point you to.",
+        "On the way, Narkanda at about 2,700 m has ridge views of the high Himalaya and, in winter, a small ski slope. Hatu Peak, a few kilometres above Narkanda, has a wooden temple and a 360-degree view on clear mornings. Leave Shimla by 8 am to avoid Dhalli traffic. The road is good but busy with trucks at harvest time, so build in an extra hour."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "When is apple season around Shimla?", "a": "Picking in the Kotgarh and Narkanda belt runs mainly from August to October, depending on altitude and variety. Lower orchards are picked first. April brings blossom. In winter the trees are bare, though the drive and Narkanda's snow are still worthwhile."},
+        {"q": "Can I buy apples directly from orchards?", "a": "Often yes, especially at harvest. Ask politely at orchards or packing sheds along the road; many families will sell a box or a few kilos. Never pick fruit yourself without permission, as orchards are private property and a family's main income."},
+        {"q": "Is Kotgarh worth an overnight stay?", "a": "If you have time, yes: a night at Narkanda or in an orchard homestay lets you see Hatu Peak at sunrise and the orchards in morning light. Otherwise it works well as a long day trip from Shimla, or as a stop on the way to Kinnaur."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Shimla?", "a": "Two nights is right for most travellers: one day for the Ridge, Mall, Christ Church and Viceregal Lodge, and one for Jakhu Hill, Mashobra or a day trip to Narkanda and Kotgarh. Add a third night if you arrive by toy train, since it takes most of a day."},
+    {"q": "What is the best time to visit Shimla?", "a": "March to June and September to December. April and October have the clearest views. January and February bring snow, which is beautiful but makes roads icy. July and August are monsoon months with landslides on the highway and low visibility, and we avoid them for first visits."},
+    {"q": "Does it snow in Shimla?", "a": "Usually yes, between late December and February, though not every year and rarely on a fixed date. Kufri and Narkanda, higher up, get snow more reliably than the Ridge. If snow matters, book a flexible itinerary and watch forecasts in the week before travel."},
+    {"q": "How much does a trip to Shimla cost?", "a": "From Delhi, a saver weekend with HRTC Volvo both ways, two nights in a simple hotel and dhaba meals costs roughly ₹6,000–9,000 per person. A comfort trip with a private car and a good hotel costs ₹15,000–25,000 per person for two nights. Prices double in peak weeks."},
+    {"q": "Can I drive my car on Shimla's Mall Road?", "a": "No. The Mall and Ridge are restricted to pedestrians and a few permitted vehicles. Park at the Lift car park or other multi-level parking on Cart Road and walk or take the public lift up. Hotels on the Mall arrange porters for luggage."},
+    {"q": "Is Shimla good for a honeymoon?", "a": "Yes, if you stay out of the centre. Wildflower Hall at Chharabra and hotels in Mashobra and Naldehra are quiet, forested and close enough for a day on the Mall. Avoid the Christmas–New Year week if you want calm, as the town fills up."},
+    {"q": "Is there an ATM and good network in Shimla?", "a": "Yes. Shimla is a state capital with ATMs on the Mall, Lakkar Bazaar and around the bus stands, and good 4G and 5G from all major networks. Cards and UPI are accepted in most hotels and restaurants. Carry some cash for porters and small dhabas."},
+    {"q": "Is Shimla safe for solo travellers?", "a": "Yes. Shimla is a busy, policed city with many students and office workers, and the Mall is lively into the evening. Usual care applies on forest roads after dark. Solo women generally find it relaxed; choose a hotel close to the Mall or Ridge for evening walks."},
+    {"q": "Which is better, Shimla or Manali?", "a": "Shimla is closer to Delhi, has the toy train and colonial history, and works for a short trip. Manali is higher, closer to snow and adventure sports, and better for longer trips into the Kullu valley. Many of our itineraries combine both with a night in Naggar between."}
+  ]
+}

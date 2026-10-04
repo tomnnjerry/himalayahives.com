@@ -1,0 +1,145 @@
+{
+  "slug": "alchi",
+  "name": "Alchi and the Sham Valley",
+  "region": "ladakh",
+  "kind": "village",
+  "wiki": "Alchi Monastery",
+  "image_query": "Alchi Monastery Ladakh",
+  "lat": 34.224,
+  "lng": 77.175,
+  "altitude_m": 3100,
+  "tagline": "Kashmiri-style murals and apricot orchards on the lower Indus",
+  "meta_description": "Alchi and Sham valley guide: Alchi's old murals, Likir and Basgo, apricot blossom, Indus–Zanskar confluence, homestays, Nimmu House and real costs.",
+  "summary": "Alchi is a village on the Indus about 67 km west of Leh, at roughly 3,100 m. Its temple complex holds some of the oldest surviving paintings in Ladakh, in a Kashmiri style. The surrounding Sham valley, with Likir, Basgo and apricot villages, is the gentlest part of Ladakh for a first trip.",
+  "intro": [
+    "Most monasteries in Ladakh sit on ridges. Alchi's temples sit low, on the flat bank of the Indus among willows and apricot trees, which tells you they come from an earlier age, before monasteries became fortresses. From the outside they are plain mud-walled rooms. Inside, by the light of the doorway, the walls are covered with paintings in a style you will not see anywhere else in Ladakh.",
+    "Local tradition credits the complex to the translator Rinchen Zangpo in the 10th or 11th century. Inscriptions inside suggest the main temples are later, around the 12th century, built by local patrons. Either way, the painters worked in a Kashmiri style: royal drinking scenes, textiles patterned like silk, slender figures with gilded crowns. They are among the oldest surviving paintings in Ladakh.",
+    "The Sham valley around Alchi is lower Ladakh, about 3,000–3,300 m, warmer and greener than Leh. Likir, Basgo, Saspol, Hemis Shukpachan and Khalatse are linked by short drives and village walks, and in April the orchards blossom. It is the region we recommend for gentle second and third days, and for travellers who want village life without long drives."
+  ],
+  "facts": [
+    ["Best months", "Apr – Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Leh, ≈ 67 km"],
+    ["From Leh", "≈ 67 km · 1.5–2 h"],
+    ["Altitude", "≈ 3,100 m"],
+    ["Known for", "Old murals, Likir and Basgo, apricot villages"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The Sumtsek and Dukhang at Alchi", "text": "Step into the three-storey Sumtsek and the assembly hall, the Dukhang, and wait for your eyes to adjust. Painted textiles, mandalas and crowned figures cover the walls. Photography is not allowed; buy the small guidebook at the gate instead."},
+    {"title": "Likir Monastery", "text": "A Gelug monastery on a hill above Likir village, with a large gilded Maitreya statue outside. Likir looks after Alchi, and its monks also host part of the Dosmoche festival in February."},
+    {"title": "Basgo's ruined royal fort", "text": "Basgo was a royal seat before Leh. Its mud-brick fort ruins stand on eroded ridges, with Maitreya temples still painted inside. Walk up in the late afternoon for long light over the Indus."},
+    {"title": "Apricot blossom in April", "text": "From mid-April, the orchards of Alchi, Saspol, Khalatse and Domkhar turn white and pink. It is the earliest sign of spring in Ladakh and a quiet time to visit before the summer crowds."},
+    {"title": "The Indus–Zanskar confluence", "text": "Near Nimmu, the grey-green Indus meets the muddier Zanskar River. In summer, rafting trips finish here; in winter the Zanskar freezes and the Chadar trek begins upstream."}
+  ],
+  "field_notes": [
+    {"fact": "Tradition credits Alchi to Rinchen Zangpo (958–1055), but recent translations of inscriptions in the Sumtsek and Dukhang suggest the complex was founded no earlier than about 1140 by a local patron's family.", "source": "Alchi Monastery"},
+    {"fact": "Alchi's temples are not run by their own abbot: the complex is administered by Likir Monastery, about 20 km away. Alchi is one of three villages forming the Alchi group of monuments, with Mangyu and Sumda Chun.", "source": "Alchi Monastery"},
+    {"fact": "In December 2022 the Raktsey Karpo apricot, grown widely in the Sham valley of lower Ladakh and known for its white seed, became Ladakh's first product to receive a Geographical Indication tag.", "source": "Geographical Indications Registry, Government of India"}
+  ],
+  "local_word": {"word": "Sumtsek", "language": "Ladakhi / Tibetan", "meaning": "three-tiered, the name of Alchi's three-storey temple"},
+  "costs": [
+    ["Bus Leh–Alchi or Saspol", "₹80–120 one way"],
+    ["Union taxi Leh–Likir–Alchi–Basgo day", "₹3,500–4,500 a car"],
+    ["Alchi temple entry", "₹50–100"],
+    ["Guesthouse double in Alchi", "₹1,500–3,000 a night"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,000 per person"],
+    ["Rafting on the Indus or Zanskar, half day", "₹1,500–3,000 per person"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh. Alchi is an easy drive west along the Indus and makes a good second or third day because it is lower than Leh."},
+    {"mode": "Bus", "text": "Buses towards Khalatse, Lamayuru and Kargil pass the Alchi turning at Saspol; a few buses run to Alchi itself. Fares are roughly ₹80–120. Check current status before you travel."},
+    {"mode": "Road", "text": "From Leh ≈ 67 km · 1.5–2 h on the Srinagar highway via Nimmu and Saspol, crossing the Indus to Alchi. Lamayuru is another ≈ 60 km west."}
+  ],
+  "where_to_stay": "Saver: Alchi, Saspol and Hemis Shukpachan have family guesthouses and homestays at ₹1,200–2,000 per person with meals, many set in apricot orchards. Comfort: Alchi has several mid-range guesthouses and small resorts with garden rooms at ₹3,000–6,000 a double. Signature: Nimmu House, a restored early 20th-century manor in Nimmoo village about 35 km towards Leh, combines heritage rooms and garden tents and makes the best base for the Sham valley.",
+  "stays": ["nimmu-house"],
+  "tips": [
+    "Photography is strictly forbidden inside Alchi's temples; the paintings are fragile and light damages them.",
+    "Visit Alchi in the morning, when the doorway light is strongest and groups are fewer.",
+    "Buy dried apricots and apricot oil from village stalls, not roadside shops near Leh.",
+    "Plan a night in the Sham valley on your second or third day to let your body settle at a lower altitude.",
+    "Respect village water channels: do not wash or throw anything in them, as they feed homes and fields."
+  ],
+  "themes": ["monasteries", "homestays-and-villages", "food-and-tea", "photography", "family-holidays"],
+  "nearby": ["leh", "lamayuru", "hemis"],
+  "experiences": [
+    {
+      "slug": "alchi-old-murals-temple-visit",
+      "title": "Alchi's painted temples with a local guide",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "9–11 am, Apr–Oct",
+      "cost": "Entry ₹50–100; local guide ₹500–1,000",
+      "image_query": "Alchi Sumtsek temple",
+      "wiki": "Alchi Monastery",
+      "summary": "Visit the Dukhang and Sumtsek at Alchi, whose paintings in a Kashmiri style are among the oldest surviving in Ladakh. With a guide, you learn to read the royal scenes, textiles and mandalas in the low light.",
+      "body": [
+        "Walk through the village lanes to the temple complex beside the Indus. The buildings look modest: mud walls, small doorways, wooden porches. Inside the Dukhang, the assembly hall, the walls are covered with mandalas and rows of seated figures, and near the entrance a royal drinking scene shows a king and queen of about 1200.",
+        "The Sumtsek, a three-storey temple, holds three giant standing figures whose lower bodies are painted with tiny scenes of palaces, pilgrims and patterned cloth. The detail of the textiles is the clearest sign of the Kashmiri painters who worked here. A third temple is dedicated to Manjushri.",
+        "Photography is not allowed, and the rooms are dark. Give your eyes two minutes to adjust, and let a local guide point out details you would miss. Afterwards, sit in one of the garden cafes in the village for apricot juice under the willows."
+      ],
+      "good_for": ["first-timers", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Why is photography banned in Alchi's temples?", "a": "The paintings are about 800 years old and fragile, and flash and constant light exposure damage the pigments. The temples are also active religious spaces. Staff enforce the rule firmly. Buy a printed guide or book at the gate if you want images of the murals."},
+        {"q": "How much time do I need at Alchi?", "a": "Allow about two hours for the temples and a walk through the village, more if you stay for lunch. Many travellers combine Alchi with Likir and Basgo in a day from Leh, or with Lamayuru on the way to Kargil. An overnight stay lets you see the temples in quiet morning light."},
+        {"q": "Is Alchi suitable for elderly visitors?", "a": "Yes. Alchi is lower than Leh, at about 3,100 m, and the temples are on flat ground with only a short walk from the car park. Doorways are low and floors uneven, so watch your step. It is one of the most comfortable monastery visits in Ladakh."}
+      ]
+    },
+    {
+      "slug": "alchi-sham-valley-apricot-blossom",
+      "title": "Apricot blossom walk in the Sham valley",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Mid-April to early May",
+      "cost": "Free; taxi from Leh ₹3,500–4,500 a car for the day",
+      "image_query": "Apricot blossom Ladakh",
+      "wiki": "Sham Valley",
+      "summary": "In spring, walk between Saspol, Alchi and nearby villages while apricot orchards bloom white and pink against brown cliffs. Ladakh is quiet at this time, so you share the lanes with farmers, not tour groups.",
+      "body": [
+        "Apricot blossom in Ladakh follows height. It begins in the lowest villages of the Indus and its side valleys, around Khalatse, Domkhar and the Kargil side, in mid-April, then moves upstream to Saspol, Alchi and Likir, reaching Leh in late April or early May.",
+        "Pick a village and walk. Orchards are walled with stones and fed by water channels; beneath the trees, farmers are ploughing and sowing barley. Ladakh has more than thirty apricot varieties, and families can often tell you which tree is which and whether its kernel is sweet or bitter.",
+        "Be gentle: do not break branches for photographs, stay on paths and ask before entering orchards. April is cold at night, near freezing, and some guesthouses are only just opening, so confirm your stay in advance. In return you get Ladakh at its least crowded."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "When does apricot blossom happen in Ladakh?", "a": "Usually from mid-April in the lower villages, such as Khalatse and Domkhar, moving upstream to Alchi, Saspol and Leh by late April or early May. Timing varies by a week or two each year with temperature. Ask guesthouses in the Sham valley for current status before you travel."},
+        {"q": "Is April a good time to visit Ladakh?", "a": "For blossom, quiet villages and low prices, yes. The Srinagar–Leh highway often reopens around this time, but the Manali road stays closed and the high lakes are frozen. Nights are near freezing and some hotels are only opening, so plan with flexibility."},
+        {"q": "Which apricot is the Raktsey Karpo?", "a": "Raktsey Karpo is a Ladakhi apricot variety known for its white seed. In December 2022 it became Ladakh's first product with a Geographical Indication tag. It is grown across lower Ladakh, including the Sham valley. Ask farmers or cooperatives selling dried fruit which variety they offer."}
+      ]
+    },
+    {
+      "slug": "alchi-likir-and-basgo-day",
+      "title": "Likir Monastery and Basgo's royal ruins",
+      "kind": "culture",
+      "duration": "5 hours",
+      "best_time": "Morning, Apr–Oct",
+      "cost": "Entries ₹30–50 each; taxi ₹3,500–4,500 a car for the day",
+      "image_query": "Basgo Monastery Ladakh",
+      "wiki": "Basgo Monastery",
+      "summary": "Two stops on the way between Leh and Alchi: Likir Monastery, which administers Alchi, with its large outdoor Maitreya, and Basgo, an old royal seat whose mud-brick fort and painted Maitreya temples rise from eroded ridges.",
+      "body": [
+        "Leave Leh after breakfast and drive west to Basgo, about 40 km away. Before Leh became the capital, Basgo was a royal seat, and its fort stood on eroded clay ridges above the village. Most of the fort is in ruins, but the Maitreya temples inside are still used and painted with old murals.",
+        "Continue to Likir, a Gelug monastery on a hill above its village. Outside stands a large gilded statue of Maitreya, and inside are assembly halls and a small museum. Likir's monks also look after Alchi, so you are following a real link between the two places.",
+        "Finish at Alchi for lunch and the painted temples, then either stay overnight or drive back to Leh. All three sites are lower than or similar to Leh's altitude, making this an excellent acclimatisation day."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How far are Likir and Basgo from Leh?", "a": "Basgo is about 40 km west of Leh and Likir about 55 km, both off the Srinagar highway. Alchi is about 67 km. A taxi for a full day covering all three costs roughly ₹3,500–4,500 for the car. Buses pass the turnings but do not suit a multi-stop day."},
+        {"q": "Is Basgo fort safe to climb?", "a": "The paths up to the Maitreya temples are maintained, but the clay ridges and ruins are fragile and crumbling. Stay on marked paths, do not climb walls and keep children close. The climb is short but steep, so go slowly at this altitude."},
+        {"q": "Can I stay overnight at Likir?", "a": "Yes. Likir village has guesthouses and homestays, and it is the start of the gentle Sham valley trek towards Yangthang and Hemis Shukpachan. Staying overnight lets you attend morning prayers and walk village paths in quiet light."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Alchi from Leh?", "a": "Alchi is about 67 km west of Leh, a drive of 1.5–2 hours on the Srinagar highway via Nimmu and Saspol. A taxi day covering Likir, Alchi and Basgo costs about ₹3,500–4,500 for the car. Buses towards Khalatse and Kargil stop near Saspol for ₹80–120."},
+    {"q": "Is photography allowed at Alchi Monastery?", "a": "Not inside the temples. Photography is strictly forbidden to protect the old paintings, and staff enforce it. You may photograph the exteriors, chortens and village. Buy a guidebook at the entrance if you want images of the murals for later."},
+    {"q": "What is the entry fee at Alchi?", "a": "Entry to the temple complex is usually about ₹50–100 per person. Local guides cost about ₹500–1,000 and are worth it given the low light and the detail of the paintings. Fees change, so check current status before you travel."},
+    {"q": "Should I stay overnight in Alchi?", "a": "One night is worthwhile: Alchi is lower than Leh, quiet at night and best seen in morning light before the day-trip groups arrive. It also breaks the drive to Lamayuru and Kargil. Family guesthouses here are set among orchards and serve home-cooked meals."},
+    {"q": "When is the best time to visit Alchi?", "a": "April to October. Mid-April to early May brings apricot blossom, July and August bring ripe fruit, and September and October bring clear skies and golden poplars. Many guesthouses close from November to March, though the temples can be visited."},
+    {"q": "Is Alchi good for families?", "a": "Yes. It is low, flat and close to Leh, with garden guesthouses and short walks. Children may find the dark temples less exciting, but the orchards, the river and the confluence at Nimmu add variety. It is one of the easiest overnight stops in Ladakh for families."},
+    {"q": "Can I go rafting near Alchi?", "a": "Yes. In summer, operators in Leh run rafting on the Indus and on the lower Zanskar, finishing near the confluence at Nimmu, roughly ₹1,500–3,000 per person for a half-day. Choose operators with proper safety kit and guides, and check current status before you travel."},
+    {"q": "Is there mobile network in Alchi?", "a": "Postpaid Jio, Airtel and BSNL usually work in Alchi and along the Srinagar highway, though signal can drop in the narrower stretches. Prepaid SIMs from outside Jammu and Kashmir and Ladakh do not work. Many guesthouses have Wi-Fi."},
+    {"q": "Is there an ATM in Alchi?", "a": "There is no reliable ATM in Alchi village. Carry cash from Leh for guesthouses, entry fees and village shops. Some guesthouses accept UPI when the network works, but do not rely on it."}
+  ]
+}

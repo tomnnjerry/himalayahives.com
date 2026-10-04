@@ -1,0 +1,146 @@
+{
+  "slug": "naggar",
+  "name": "Naggar",
+  "region": "himachal",
+  "kind": "village",
+  "wiki": "Naggar, Himachal Pradesh",
+  "image_query": "Naggar Castle Kullu valley",
+  "lat": 32.1163,
+  "lng": 77.1689,
+  "altitude_m": 1800,
+  "tagline": "The old Kullu capital, with a timber castle and Roerich's home",
+  "meta_description": "Naggar guide: stay in the HPTDC castle, visit Nicholas Roerich's estate, walk kath-kuni villages above the Beas. Costs, buses from Manali and best months.",
+  "summary": "Naggar is a quiet village at about 1,800 m on the left bank of the Beas, 20 km south of Manali. It was the capital of the Kullu rajas, and its 15th-century castle is now an HPTDC hotel. Spend one or two nights for the castle, the Roerich estate and village walks.",
+  "intro": [
+    "Before Kullu town became the capital, the rajas of Kullu ruled from Naggar, on a terrace above the Beas with views up the valley to the snow peaks around Rohtang. The castle they built, traditionally dated to about 1460 and credited to Raja Sidh Singh, is a textbook of kath-kuni building: alternate courses of deodar timber and dry stone, with wooden balconies on the upper floors. It stood through the 1905 Kangra earthquake that ruined much of Dharamshala. Today HPTDC runs it as a hotel and small museum.",
+    "Naggar's second story begins in 1928, when the Russian painter and explorer Nicholas Roerich bought the Hall estate above the castle and settled here with his family. He painted the Himalaya from his terrace for nearly twenty years, founded the Urusvati Himalayan research institute nearby, and died at Naggar in 1947. His house is now a museum of his paintings, run by the International Roerich Memorial Trust, and his memorial stone stands in the garden.",
+    "We like Naggar as a base for the middle Kullu valley. It is calmer than Manali but only 45 minutes away, and village paths climb from the castle through orchards to temples and to kath-kuni hamlets such as Rumsu. Kullu Dussehra's Dhalpur ground is 25 km south, so during the October festival this is where we put our travellers. Rooms are limited, so book early for May, June and October."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bhuntar (Kullu), ≈ 30 km"],
+    ["From Manali", "≈ 21 km · 45 min"],
+    ["Altitude", "1,800 m"],
+    ["Known for", "Naggar Castle, Roerich estate, kath-kuni villages"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 0, 2, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Naggar Castle", "text": "A kath-kuni fort of the Kullu rajas, now an HPTDC hotel with a small gallery. Walk the courtyard balconies, see the Jagatipatt shrine and take tea on the terrace looking up the Beas valley. Visitors pay a small entry fee."},
+    {"title": "Roerich estate", "text": "Nicholas Roerich's home from 1928 to 1947, with his paintings of the Himalaya on the ground floor, the family's cars in the garage and his memorial stone in the garden. About 1.5 km uphill from the castle."},
+    {"title": "Urusvati folk art gallery", "text": "Just above the Roerich house, the old Urusvati institute building has a small collection of Kullu folk art and textiles. A short visit that adds context to the shawls you will see in Kullu markets."},
+    {"title": "Village temples", "text": "Naggar has several old shrines within walking distance: the stone Gauri Shankar temple below the castle, the pagoda-roofed Tripura Sundari temple above it and Krishna's temple higher up. Each is still used by villagers daily."},
+    {"title": "Walk to Rumsu", "text": "A steady climb of about 4 km through orchards and forest to the kath-kuni village of Rumsu, the starting point of the Chandrakhani pass trek. Allow half a day and carry water."},
+    {"title": "Base for Kullu Dussehra", "text": "In October, stay at Naggar and drive 45 minutes to Kullu's Dhalpur ground for the festival of the devtas, avoiding Kullu's sold-out hotels and traffic."}
+  ],
+  "field_notes": [
+    {"fact": "Naggar Castle is traditionally dated to around 1460 and credited to Raja Sidh Singh of Kullu. It survived the 1905 Kangra earthquake and was converted into a hotel, now run by the state tourism corporation HPTDC.", "source": "Naggar Castle"},
+    {"fact": "Inside the castle courtyard, the small Jagatipatt shrine holds a large stone slab. Local tradition says it was cut from a peak across the valley and carried to Naggar by bees at the command of the gods.", "source": "Naggar Castle"},
+    {"fact": "Nicholas Roerich settled at Naggar in 1928, founded the Urusvati Himalayan Research Institute nearby and lived there until his death in December 1947. He was cremated on the estate, where a memorial stone marks the spot.", "source": "Nicholas Roerich"}
+  ],
+  "local_word": {"word": "Kothi", "language": "Kullvi", "meaning": "a large fortified house of stone and timber; also an old administrative unit of the Kullu kingdom"},
+  "costs": [
+    ["HRTC local bus, Manali–Naggar", "₹50–80"],
+    ["Taxi, Manali–Naggar one way", "₹1,200–1,800 a car"],
+    ["Naggar Castle entry for day visitors", "₹30–60"],
+    ["Roerich estate entry", "₹50–150 (check current rate)"],
+    ["Room at the HPTDC castle hotel", "₹2,500–6,000 a night for a double"],
+    ["Village homestay with meals", "₹1,200–2,500 per person"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport, near Kullu, is about 30 km and 1 hour away by taxi. Flights from Delhi are few and weather-sensitive, so keep a buffer day."},
+    {"mode": "Bus", "text": "HRTC Volvos from Delhi stop at Patlikuhl on the main highway, 5 km below Naggar; take a local bus or taxi up. Local buses also run between Manali and Kullu along the left bank road through Naggar several times a day."},
+    {"mode": "Road", "text": "From Manali, cross the Beas and follow the left bank road south through Jagatsukh, about 21 km and 45 minutes. From Kullu, cross at Patlikuhl, about 25 km and 50 minutes. Parking near the castle is limited."}
+  ],
+  "where_to_stay": "Saver: Naggar has many family homestays and small guesthouses on the road below the castle and in the villages around it, typically ₹1,200–2,500 a night with meals, and some backpacker hostels on the Manali road. Comfort: the HPTDC Hotel Castle is the obvious choice, with valley-view rooms in the old fort; a few boutique cottages in the orchards above the village also suit couples. Signature: there is no luxury hotel in Naggar itself; Span Resort near Manali is 30–40 minutes away, and many signature travellers spend one night in the castle for the experience.",
+  "stays": ["hptdc-hotel-castle-naggar"],
+  "tips": [
+    "Ask for a castle room with a valley-facing balcony when you book; they are the reason to stay.",
+    "Visit the Roerich estate in the morning; the light on the paintings and the view are best before noon.",
+    "Carry cash; Naggar has a small bazaar and only one or two ATMs that can run dry.",
+    "Walk to the temples in the evening when villagers come for prayers, and keep photography respectful.",
+    "In October, book Naggar months ahead for Kullu Dussehra week."
+  ],
+  "themes": ["homestays-and-villages", "festivals", "photography", "honeymoons", "treks-and-walks"],
+  "nearby": ["manali", "kasol", "tirthan-valley"],
+  "experiences": [
+    {
+      "slug": "naggar-castle-and-jagatipatt",
+      "title": "Naggar Castle and the Jagatipatt shrine",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Morning, all year",
+      "cost": "Entry ₹30–60",
+      "image_query": "Naggar Castle Himachal Pradesh",
+      "wiki": "Naggar Castle",
+      "summary": "Explore the timber-and-stone fort of the Kullu rajas, now an HPTDC hotel. See kath-kuni walls up close, the courtyard shrine of Jagatipatt with its legendary stone slab, and the terrace view up the Beas valley.",
+      "body": [
+        "Naggar Castle stands on a spur above the village with a clear view up the Beas valley. It is traditionally said to have been built around 1460 by Raja Sidh Singh, and for long periods it served as the seat of the Kullu rajas before the capital moved to Sultanpur, today's Kullu town. After the British took over the region in the 19th century it passed through official hands and was later turned into a hotel, now run by HPTDC.",
+        "The walls show kath-kuni construction clearly. Look for the horizontal deodar beams laid every metre or so, with dry stone packed between and the beams notched to lock at the corners. There is no cement. When an earthquake shakes the building, the timber flexes and the heavy stone settles back, which is why the castle came through the 1905 Kangra earthquake. Upper floors have carved wooden balconies that once let the household watch the valley road.",
+        "In the courtyard, the Jagatipatt shrine holds a large stone slab. Valley tradition says the gods ordered bees to cut it from a peak across the river and carry it here to make Naggar a seat of the devtas. Remove shoes before the shrine. A small gallery shows paintings and photographs of old Kullu. Day visitors pay a small fee and can take tea on the terrace."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can I visit Naggar Castle without staying there?", "a": "Yes. Day visitors pay a small entry fee to see the courtyard, Jagatipatt shrine, gallery and terrace. The restaurant serves tea and simple meals. Guest-room corridors are private. It is open most of the day; check timings locally."},
+        {"q": "How old is Naggar Castle?", "a": "It is traditionally dated to about 1460 and credited to Raja Sidh Singh of Kullu, which makes it more than 550 years old. It has been repaired many times since, but the kath-kuni structure and layout follow the old design."},
+        {"q": "Why did Naggar Castle survive the 1905 earthquake?", "a": "Its kath-kuni walls of interlocking deodar beams and dry stone flex during shaking instead of cracking like rigid masonry. The weight of stone keeps the timber frame in place. Many buildings of brick and lime mortar in Kangra collapsed in the same earthquake."}
+      ]
+    },
+    {
+      "slug": "naggar-roerich-estate-visit",
+      "title": "Nicholas Roerich's house and paintings",
+      "kind": "culture",
+      "duration": "1.5–2 hours",
+      "best_time": "10 am, Tue–Sun (check closing day)",
+      "cost": "Entry ₹50–150 (check current rate)",
+      "image_query": "Roerich estate Naggar museum",
+      "wiki": "Nicholas Roerich",
+      "summary": "Walk 1.5 km uphill from the castle to the hillside home where Nicholas Roerich lived from 1928 until 1947. See his Himalayan paintings, the family's old car and his memorial stone, then visit the Urusvati folk art collection above.",
+      "body": [
+        "Nicholas Roerich was a Russian painter, writer and explorer who led long expeditions through Central Asia and Tibet in the 1920s. In 1928 he bought the Hall estate at Naggar and made it his family home and base. He set up the Urusvati Himalayan Research Institute to study the botany, languages and medicine of the region, and kept painting the mountains in the strong blues and whites that you will recognise once you have seen a few of his canvases.",
+        "The ground floor of the house is a gallery of his and his son Svetoslav's paintings, and the rooms upstairs can be seen through the windows, kept much as the family left them. In the garden stands the stone that marks the place where Roerich was cremated in 1947. The estate is looked after by the International Roerich Memorial Trust. Photography inside the gallery is usually not allowed.",
+        "From the house, a path climbs a few minutes to the Urusvati building, which has a folk art gallery with Kullu textiles, masks and household objects. Walk up from the castle through the village, roughly 1.5 km, or take a taxi. Combine it with the Tripura Sundari temple on the way down. The museum usually closes one day a week, so check current status before you travel."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Who was Nicholas Roerich?", "a": "A Russian painter, writer and explorer, born in 1874, who led expeditions across Central Asia and settled at Naggar in 1928. He painted thousands of works, many of the Himalaya, and also campaigned for the protection of cultural monuments in wartime. He died at Naggar in 1947."},
+        {"q": "How far is the Roerich estate from Naggar Castle?", "a": "About 1.5 km uphill by road. Walking takes 25–35 minutes through the village and orchards. Taxis can take you to the gate. The Urusvati folk art gallery is a short climb further up from the house."},
+        {"q": "Is photography allowed in the Roerich museum?", "a": "Usually not inside the gallery rooms, to protect the paintings and respect the trust's rules. You can photograph the house exterior, garden and valley views. Ask the staff on the day, as rules can change."}
+      ]
+    },
+    {
+      "slug": "naggar-rumsu-village-walk",
+      "title": "Uphill walk to Rumsu village",
+      "kind": "village",
+      "duration": "4–5 hours return",
+      "best_time": "Early morning, Apr–Jun and Sep–Nov",
+      "cost": "Free; local guide ₹1,000–1,500 a day",
+      "image_query": "Rumsu village Naggar Kullu",
+      "wiki": "",
+      "summary": "A steady climb of about 4 km from Naggar through apple orchards and deodar forest to Rumsu, a kath-kuni village that marks the start of the Chandrakhani pass trail. Good exercise, village life and long views over the Beas.",
+      "body": [
+        "From the Roerich estate the road and then a footpath continue uphill through orchards to Rumsu, a village of timber-and-stone houses with slate roofs, wooden balconies and cattle sheds on the ground floor. The climb is roughly 4 km and gains several hundred metres, so take it slowly and carry water. Half-way, the forest of deodar and blue pine opens out with views back to Naggar Castle and up the valley.",
+        "Rumsu is a working farming village rather than a tourist spot. People grow apples, plums, maize and vegetables and keep cows and sheep, and the village temple is the centre of its life. Ask before photographing people or homes, keep to paths and do not enter temple compounds without permission. Some households offer tea or simple meals if you ask politely; pay what is fair.",
+        "Above Rumsu the trail continues to the Chandrakhani pass at around 3,600 m, a multi-day trek that needs a local guide, a tent and acclimatisation. For a day walk, turn back at Rumsu or continue a little higher into the forest for a picnic. Descend before mid-afternoon, when clouds often build over the ridge. Start early in May and June to avoid the midday heat."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "How hard is the walk from Naggar to Rumsu?", "a": "Moderate. It is roughly 4 km each way with a steady climb, taking 2–2.5 hours up and 1.5 hours down for most walkers. The path is clear but steep in places and slippery after rain. Good shoes, water and a snack are enough."},
+        {"q": "Do I need a guide for Rumsu?", "a": "Not for the day walk if you ask directions locally, but a village guide adds stories about the houses and temple and costs about ₹1,000–1,500 a day. For the Chandrakhani pass beyond Rumsu, a guide is strongly recommended."},
+        {"q": "Can I continue from Rumsu to Malana?", "a": "Yes, the Chandrakhani pass trek links Rumsu with Malana in two to three days, crossing about 3,600 m. It needs a guide, camping gear and some acclimatisation. In Malana, follow village rules: do not touch houses, the temple or residents."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Naggar worth visiting?", "a": "Yes, especially if you find Manali too busy. Naggar has the castle, the Roerich estate, old temples and village walks, all within 2 km, and it is only 45 minutes from Manali. One night lets you see the castle in the evening and the valley at dawn."},
+    {"q": "Can I stay inside Naggar Castle?", "a": "Yes. HPTDC runs the castle as a hotel with rooms in the old building, several with balconies over the valley. Rooms are simple rather than luxurious, and they sell out in May, June and October. Book on the HPTDC website."},
+    {"q": "How do I get from Manali to Naggar by bus?", "a": "Local buses run along the left bank road between Manali and Kullu via Naggar several times a day and take about an hour. Alternatively take any bus on the main highway to Patlikuhl and a shared or private taxi 5 km up to Naggar."},
+    {"q": "What is the best time to visit Naggar?", "a": "April to June and September to November. Orchards blossom in April and fruit hangs on the trees in September. October is festival month with Kullu Dussehra nearby. Winters are cold but clear, with occasional snow. Avoid July and August for landslides on the valley roads."},
+    {"q": "Is Naggar good for families with children?", "a": "Yes. Distances are short, the castle and the Roerich estate's old car interest children, and orchards are good for walks. At about 1,800 m, altitude is not a concern. Keep an eye on small children on the castle's balconies and steep village lanes."},
+    {"q": "Are there ATMs in Naggar?", "a": "There are one or two ATMs in the village, and more at Patlikuhl on the main highway 5 km away. They sometimes run out of cash on busy weekends. Carry enough for homestays and taxis, as UPI depends on mobile signal."},
+    {"q": "How many days should I spend in Naggar?", "a": "One night is enough for the castle and Roerich estate. Two nights let you walk to Rumsu or nearby villages, see the temples and use Naggar as a base for Manali or Kullu day trips. During Kullu Dussehra, stay three nights."},
+    {"q": "Where can I eat in Naggar?", "a": "The castle restaurant serves Himachali and north Indian dishes with a valley view. Small dhabas in the bazaar do thalis and parathas for ₹150–300, and cafés along the road have Western food. Ask homestays for siddu or trout with notice."},
+    {"q": "Is Naggar safe for solo travellers?", "a": "Yes. It is a small, calm village where most visitors are families, couples and painters. Solo women travel here comfortably. Avoid isolated forest paths after dark, when leopards are occasionally reported in the Kullu valley, and tell your host if you are walking far."}
+  ]
+}

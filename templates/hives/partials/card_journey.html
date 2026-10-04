@@ -1,0 +1,11 @@
+{% load hives %}<a class="cell" href="{{ j.url }}" data-land="{{ j.region }}" data-item data-region="{{ j.region }}" data-tier="{{ j.tier }}" data-length="{% if j.nights <= 5 %}short{% elif j.nights <= 9 %}mid{% else %}long{% endif %}" data-themes="{{ j.themes|join:' ' }}">
+  <div class="cell__ph">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% else %}{% topo j.slug %}{% endif %}{% endwith %}
+    <span class="cell__tier tier tier--{{ j.tier }}">{{ j.tier_obj.name }}</span>
+    <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon j.region %}</span></div>
+  <div class="cell__body">
+    <span class="readout">{{ j.region_obj.name }} · <b>{{ j.nights }} nights</b>{% if j.max_sleep_alt %} · sleeps to {{ j.max_sleep_alt|alt }}{% endif %}</span>
+    <h3 class="cell__title">{{ j.title }}</h3>
+    <p class="cell__text">{{ j.transport|default:j.summary|truncatechars:110 }}</p>
+    <div class="cell__foot"><span class="price"><small>From, per person</small>{{ j.price_from_inr|inr }}</span><span class="readout">{{ j.best_label }}</span></div>
+  </div>
+</a>

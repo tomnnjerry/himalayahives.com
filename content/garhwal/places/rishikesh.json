@@ -1,0 +1,146 @@
+{
+  "slug": "rishikesh",
+  "name": "Rishikesh",
+  "region": "garhwal",
+  "kind": "city",
+  "wiki": "Rishikesh",
+  "image_query": "Rishikesh Ram Jhula Ganges",
+  "lat": 30.087,
+  "lng": 78.268,
+  "altitude_m": 340,
+  "tagline": "Where the Ganga leaves the hills and the yatra begins",
+  "meta_description": "Rishikesh travel guide: Ganga aarti, yoga, rafting season and rates, Beatles Ashram, bus times to the Char Dham, and stays from Zostel to Ananda.",
+  "summary": "Rishikesh is the town at 340 m where the Ganga leaves the Himalaya, and the start of almost every Garhwal trip. Come for yoga, the evening aarti, rafting from mid-September to June, and the 5 am buses to the Char Dham. Stay two or three nights; October to April is most comfortable.",
+  "intro": [
+    "Rishikesh sits where the Ganga breaks out of the Shivalik hills, about 25 km upstream of Haridwar. The river here is fast, green and cold, and the town spreads along both banks: the bus stands, markets and Triveni Ghat on the west side, and the ashrams of Swarg Ashram and the cafes of Tapovan and Lakshman Jhula across the water. It is a vegetarian, alcohol-free city by law; the sale of meat, fish and eggs has been banned since 1956.",
+    "The town has been a halt for sadhus and pilgrims for centuries, the last flat ground before the walk to Badrinath and Kedarnath. Its fame abroad came later. In February 1968 the Beatles spent weeks at Maharishi Mahesh Yogi's ashram on the east bank, writing much of the White Album, and a stream of Western seekers followed. Since 1999 the International Yoga Festival has run here each March, and the town calls itself the yoga capital of the world.",
+    "For travellers, Rishikesh does three jobs. It is the base for rafting, with rapids up to grade IV between Shivpuri and the town. It is a place to slow down for yoga, ayurveda and the river. And it is the yatra hub: UTC and GMOU buses leave before dawn for Uttarkashi, Barkot, Sonprayag and Badrinath, and the official Char Dham registration counters are here. Most of our Garhwal journeys start or end on its ghats."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr; rafting mid-Sep – Jun"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 35 km · 1 h"],
+    ["From Delhi", "≈ 240 km · 6–7 h by road"],
+    ["Altitude", "340 m"],
+    ["Known for", "Ganga aarti, yoga schools, rafting, Char Dham buses"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Ganga aarti at dusk", "text": "Two aartis draw the crowds: the Maha Aarti at Triveni Ghat on the west bank, and the evening aarti at Parmarth Niketan in Swarg Ashram, with its riverside Shiva statue. Arrive 30–40 minutes early for a step on the ghat and leave shoes at the stands."},
+    {"title": "The Beatles Ashram", "text": "Chaurasi Kutia, Maharishi Mahesh Yogi's former academy, lies in forest on the east bank inside Rajaji Tiger Reserve. Abandoned in the 1990s and opened to visitors in December 2015, it has meditation domes, graffiti halls and the stone huts that gave it the name 84 huts."},
+    {"title": "Rafting from Shivpuri", "text": "The 16 km run from Shivpuri to the town is the classic half-day, with rapids such as Roller Coaster and Golf Course. Longer runs start at Marine Drive or Kaudiyala. Rafting is permitted from mid-September to 30 June; check current status before you travel."},
+    {"title": "Yoga and ayurveda", "text": "Dozens of ashrams and schools offer drop-in classes from 6 am, residential courses and ayurvedic treatments. Parmarth Niketan and Sivananda Ashram are the best-known names; smaller studios in Tapovan run teacher trainings. Ask for a teacher's training before you sign up for long courses."},
+    {"title": "Neer Garh waterfall", "text": "A short forest walk off the Badrinath highway, about 5–7 km from Lakshman Jhula, leads to a series of cold green pools. Go early on weekdays; the path is slippery after rain and the pools crowd up by noon in summer."},
+    {"title": "The Char Dham start line", "text": "Rishikesh has the main offline Char Dham registration counters, the UTC bus stand and the GMOU yard for private hill buses. If you plan a saver yatra, spend your first evening sorting registration, bus tickets and cash here."}
+  ],
+  "field_notes": [
+    {"fact": "Rishikesh is a vegetarian-only, alcohol-free city. The sale of meat, fish and eggs has been banned since 1956, and in 2004 the Supreme Court of India upheld the ban on eggs.", "source": "Rishikesh"},
+    {"fact": "Maharishi Mahesh Yogi leased the land for his ashram from the Uttar Pradesh forest department in 1961. After it was abandoned, the site reverted to the forest department in 2003 and was officially opened to the public in December 2015.", "source": "Beatles Ashram"},
+    {"fact": "Ram Jhula, the suspension bridge between Sivananda Nagar and Swarg Ashram, was built only in 1986. Before it, visitors to the east-bank ashrams crossed by Lakshman Jhula upstream or by a ferry near the present bridge.", "source": "Beatles Ashram"}
+  ],
+  "local_word": {"word": "Jhula", "language": "Hindi", "meaning": "swing; used for the suspension bridges over the Ganga, Ram Jhula and Lakshman Jhula"},
+  "costs": [
+    ["Rafting, Shivpuri to Rishikesh (16 km)", "₹800–1,200 per person"],
+    ["Drop-in yoga class", "₹300–700"],
+    ["Zostel or hostel dorm bed", "₹500–1,000 a night"],
+    ["Thali at a dhaba or ashram canteen", "₹150–300"],
+    ["Shared vikram or e-rickshaw ride in town", "₹20–50"],
+    ["UTC or GMOU bus, Rishikesh to Sonprayag", "₹500–800"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is about 35 km away, 50–60 minutes by taxi (₹1,000–1,500). There are direct flights from Delhi, Mumbai, Bengaluru and several other cities."},
+    {"mode": "Rail", "text": "Haridwar, 25 km south, has the most trains, including the Shatabdi and Vande Bharat from Delhi. Yog Nagari Rishikesh station, opened in 2020, takes a smaller number of through trains. Shared autos and buses link Haridwar and Rishikesh every few minutes."},
+    {"mode": "Bus", "text": "Uttarakhand Transport Corporation and private Volvo buses run overnight from Delhi ISBT Kashmere Gate in 6–7 hours. For the hills, UTC buses leave from the ISBT and the private GMOU buses from their yard near it, mostly between 4 am and 7 am."}
+  ],
+  "where_to_stay": "Saver: Zostel in Tapovan and other hostels between Lakshman Jhula and Ram Jhula charge ₹500–1,000 for a dorm bed; ashrams such as Parmarth Niketan rent simple rooms to guests who follow their routine, and GMVN runs tourist complexes at Muni-ki-Reti. Comfort: Aloha on the Ganges in Tapovan has river-facing rooms and a pool. Signature: Taj Rishikesh sits on the river at Singthali, about 30 km upstream, and Ananda in the Himalayas occupies the old Tehri royal estate at Narendra Nagar above the town.",
+  "stays": ["zostel-rishikesh-tapovan", "aloha-on-the-ganges-rishikesh", "taj-rishikesh-resort-and-spa", "ananda-in-the-himalayas"],
+  "tips": [
+    "Stay on the Tapovan or Swarg Ashram side for walks and cafes, and near the ISBT only if you have a 5 am bus.",
+    "Book rafting with operators licensed by the state tourism department and ask whether the price includes the jeep back from the take-out point.",
+    "Dress modestly at ghats and ashrams, and do not swim in the Ganga outside marked spots; the current kills swimmers every year.",
+    "Monkeys on the bridges snatch food and phones, so keep both in a closed bag.",
+    "If you start a yatra here, get your Char Dham registration checked at the counters the evening before you leave."
+  ],
+  "themes": ["wellness-and-yoga", "adventure-sports", "pilgrimages", "festivals"],
+  "nearby": ["mussoorie-landour", "chopta-tungnath", "kedarnath"],
+  "experiences": [
+    {
+      "slug": "rishikesh-triveni-ghat-ganga-aarti",
+      "title": "Evening Ganga aarti at Triveni Ghat",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Sunset, all year",
+      "cost": "Free; leaf-boat diya ₹20–50",
+      "image_query": "Triveni Ghat Rishikesh aarti",
+      "wiki": "Triveni Ghat",
+      "summary": "Every evening at sunset, priests at Triveni Ghat swing brass lamps over the Ganga while bells and chants fill the riverbank. It is free, open to all, and the most direct way into the life of the town.",
+      "body": [
+        "Triveni Ghat is Rishikesh's main bathing ghat, on the west bank near the old town and the bus stands. By day, families come for ritual dips and to scatter ashes; at dusk, the Maha Aarti draws hundreds of pilgrims and locals. Priests in saffron hold multi-tiered brass lamps and move them in circles toward the river while a bhajan plays, and people float small leaf boats carrying a flame and marigolds downstream.",
+        "We suggest walking down from the market about 40 minutes before sunset to find a step close to the water. Leave footwear at the paid stands, keep your bag in front of you, and expect donation requests; a small offering is customary but never compulsory. Photography is generally fine from the steps, but put the phone down for the main lamp ceremony and avoid flash in people's faces.",
+        "If you prefer a calmer setting, the aarti at Parmarth Niketan in Swarg Ashram on the east bank has a seated crowd, a riverside Shiva statue and singing led by the ashram's students. Many travellers do one on each evening. Both end within an hour, and the riverside lanes stay safe and lit for the walk back to Tapovan or Ram Jhula."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers", "couples"],
+      "faqs": [
+        {"q": "What time does the Ganga aarti start in Rishikesh?", "a": "Around sunset: roughly 6–6:30 pm in winter and 7–7:30 pm in summer. Timings shift with the season, so ask at your hotel. Arrive 30–40 minutes early to find space on the steps, especially on weekends and festival days."},
+        {"q": "Which is better, Triveni Ghat or Parmarth Niketan aarti?", "a": "Triveni Ghat is larger, louder and more local, with pilgrims bathing and floating lamps. Parmarth Niketan is seated and more orderly, with ashram students singing. If you have two evenings, see both; if one, choose Triveni for atmosphere and Parmarth for comfort."},
+        {"q": "Is there an entry fee for the aarti?", "a": "No. The aarti is free and open to everyone. You will pay ₹10–20 to leave shoes at the stands and may buy a leaf-boat diya for ₹20–50. Donations are optional; politely decline if you do not wish to give."}
+      ]
+    },
+    {
+      "slug": "rishikesh-beatles-ashram-walk",
+      "title": "Beatles Ashram walk in Rajaji forest",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "9 am–noon, Oct–Apr",
+      "cost": "Forest entry fee, higher for foreign visitors; check at the gate",
+      "image_query": "Beatles Ashram Rishikesh meditation domes",
+      "wiki": "Beatles Ashram",
+      "summary": "Walk through the overgrown academy where the Beatles studied meditation in 1968. Stone meditation domes, a graffiti-covered hall and the ruins of the old bungalows sit inside the forest of Rajaji Tiger Reserve, a short walk from Swarg Ashram.",
+      "body": [
+        "Maharishi Mahesh Yogi leased this forested clifftop above the Ganga in 1961 and called it the International Academy of Meditation. Locals knew it as Chaurasi Kutia, the 84 huts. Between February and April 1968 the Beatles stayed here with Donovan, Mia Farrow and Mike Love of the Beach Boys, and wrote most of the songs that became the White Album.",
+        "The ashram was abandoned in the 1990s, reverted to the forest department in 2003 and was officially opened to the public in December 2015, now inside Rajaji Tiger Reserve. You walk past rows of beehive-shaped stone meditation cells, the main lecture hall whose walls are now covered in murals by visiting artists, the kitchen block and the shell of the Maharishi's bungalow.",
+        "Go in the morning, when the light through the trees is soft and the site is quiet. Carry water, as there is little inside. Paths are uneven and some buildings have broken stairs, so watch children closely. It is a forest area: stay on paths, do not feed monkeys, and keep noise down. Combine it with a walk along the riverside path from Ram Jhula to Swarg Ashram."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Where is the Beatles Ashram in Rishikesh?", "a": "On the east bank of the Ganga, south of Swarg Ashram and Ram Jhula, inside Rajaji Tiger Reserve. It is about 15 minutes on foot from Ram Jhula along the riverside lane. Autos cannot go right to the gate, so expect to walk the last stretch."},
+        {"q": "Is the Beatles Ashram worth visiting if I am not a Beatles fan?", "a": "Yes, for the forest setting, the strange meditation domes and the murals. It is one of the quietest places in Rishikesh and a good morning walk. Allow two hours and carry water; there is little shade inside some sections."},
+        {"q": "What are the Beatles Ashram opening hours?", "a": "It is usually open from morning to late afternoon, roughly 9 am to 4 or 5 pm, run by the forest department. Hours and fees can change, especially during monsoon, so check current status before you travel or ask at your hotel."}
+      ]
+    },
+    {
+      "slug": "rishikesh-shivpuri-white-water-rafting",
+      "title": "Rafting the Ganga from Shivpuri",
+      "kind": "adventure",
+      "duration": "3–4 hours",
+      "best_time": "9 am or 1 pm, Oct–Jun",
+      "cost": "₹800–1,200 per person for 16 km",
+      "image_query": "Rafting Ganges Rishikesh rapids",
+      "wiki": "",
+      "summary": "The 16 km Shivpuri run is Rishikesh's classic half-day on the river: grade II–III rapids, a cold swim in a calm stretch, and a finish near the town. Licensed operators supply rafts, helmets, life jackets and a guide.",
+      "body": [
+        "The Ganga between Kaudiyala and Rishikesh is the busiest rafting river in India. Most first-timers take the 16 km stretch from Shivpuri, which passes named rapids such as Roller Coaster and Golf Course before ending near Rishikesh. Longer runs start at Marine Drive (about 25 km) or Kaudiyala (about 36 km) and add bigger water. Rafts carry six to eight people with a guide steering from the back.",
+        "Operators collect you from Tapovan or Lakshman Jhula and drive you to the put-in. You get a safety briefing, a helmet and a life jacket, and you are expected to paddle. In calmer stretches guides may let you float in the water with your jacket on. Cliff jumping is sometimes offered; skip it if you are unsure. Phones go in a dry bag or stay behind.",
+        "Commercial rafting is allowed from mid-September to 30 June and stops for the monsoon, when the river rises and turns brown. October, November, March and April have the most comfortable weather; the river is cold all year. Book only with operators licensed by the state, and ask what the price includes. Children usually need to be at least 14 for the Shivpuri stretch; check with the operator."
+      ],
+      "good_for": ["students", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "When is the rafting season in Rishikesh?", "a": "Commercial rafting runs from mid-September to 30 June. It closes for the monsoon in July and August because of high, silty water. The exact reopening date depends on river levels and state orders, so check current status before you travel."},
+        {"q": "Do I need to know swimming for rafting in Rishikesh?", "a": "No. Everyone wears a life jacket and helmet, and guides brief you on what to do if you fall in. Swimming ability helps you feel calmer. People with heart conditions, back problems or pregnancy should not raft; talk to your doctor if unsure."},
+        {"q": "How much does rafting cost in Rishikesh?", "a": "Indicative 2026 prices: about ₹600–800 for the short Brahmpuri stretch, ₹800–1,200 for Shivpuri (16 km), ₹1,200–1,800 for Marine Drive and ₹2,000–3,000 for Kaudiyala. Prices rise on long weekends. Check that transport back from the take-out is included."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Rishikesh?", "a": "Two full days cover the aarti, a rafting run, the Beatles Ashram, a yoga class and the riverside walk between Ram Jhula and Lakshman Jhula. Add more if you are doing a yoga course or using Rishikesh as the start of a Char Dham or Valley of Flowers trip."},
+    {"q": "What is the best time to visit Rishikesh?", "a": "October to April is most comfortable, with days of 20–30 °C. March has the International Yoga Festival. May and June are hot, up to 38–40 °C, and crowded with yatra traffic. July and August bring heavy rain, a brown river and no rafting."},
+    {"q": "Is alcohol and non-vegetarian food available in Rishikesh?", "a": "Not legally within the city. Rishikesh is a vegetarian-only, alcohol-free city, and the sale of meat, fish and eggs has been banned since 1956. Some riverside camps outside city limits serve both. Respect the rule in town and around ashrams."},
+    {"q": "Is Lakshman Jhula open in Rishikesh?", "a": "The old Lakshman Jhula suspension bridge was closed to traffic for safety reasons in 2019. A new bridge next to it, Bajrang Setu, with glass walkways, has been built to replace it, and a fee has been announced for the glass section. Check current status before you travel."},
+    {"q": "Is Rishikesh safe for solo women travellers?", "a": "Generally yes. Tapovan and Lakshman Jhula have many solo women on yoga courses. Use registered hostels and well-reviewed ashrams, avoid isolated riverbanks after dark, and be wary of anyone offering unofficial yoga certification or private sessions in remote places."},
+    {"q": "How do I get from Rishikesh to Kedarnath or Badrinath by bus?", "a": "UTC and GMOU buses leave Rishikesh between about 4 am and 7 am. Sonprayag (for Kedarnath) takes 8–10 hours and costs ₹500–800; Badrinath takes 10–11 hours at ₹600–900. Buy tickets the evening before at the counters in yatra season."},
+    {"q": "Where can I do Char Dham registration in Rishikesh?", "a": "Offline registration counters operate in Rishikesh during the yatra season, typically at the transit camp near the ISBT. Online registration on the Uttarakhand tourism portal is quicker. Carry your ID and the QR slip. Locations and dates change each year; check current status before you travel."},
+    {"q": "Can I see the Ganga aarti every evening?", "a": "Yes, at Triveni Ghat and Parmarth Niketan the aarti runs every evening, all year, around sunset. On festival days such as Ganga Dussehra and Kartik Purnima the crowds are much larger, so arrive at least an hour early and keep valuables close."},
+    {"q": "Is Rishikesh good for families with children?", "a": "Yes. The ghats, the aarti, short rafting on the Brahmpuri stretch for older children, Neer Garh waterfall and the nearby Rajaji forest work well. Watch children closely near the river, as currents are strong even where the water looks calm."}
+  ]
+}

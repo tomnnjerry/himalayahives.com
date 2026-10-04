@@ -1,0 +1,144 @@
+{
+  "slug": "langza",
+  "name": "Langza, Hikkim and Komic",
+  "region": "spiti",
+  "kind": "village",
+  "wiki": "Langza",
+  "image_query": "Langza Buddha statue Spiti",
+  "lat": 32.274,
+  "lng": 78.082,
+  "altitude_m": 4420,
+  "tagline": "Fossil slopes, a high post office and a 4,587 m village",
+  "meta_description": "Langza, Hikkim and Komic above Kaza: fossil village, Hikkim post office, Komic gompa, homestay prices, taxi costs and altitude advice at 4,400 m+.",
+  "summary": "Langza, Hikkim and Komic are three villages on a high plateau above Kaza, all above 4,400 m. Langza has the big Buddha statue and fossil slopes, Hikkim one of the highest post offices in the world, and Komic a 500-year-old gompa at 4,587 m. Visit on a half-day loop from Kaza, or sleep in Langza once acclimatised.",
+  "intro": [
+    "Drive 16 km up the switchbacks from Kaza and the land opens into a rolling plateau at 4,400 m, under the snow peak of Chau Chau Kang Nilda. Langza sits here: about 30 houses, a small old temple, and a large painted Buddha statue facing the valley. In summer the fields are green with peas and barley, and the hillsides around are scattered with marine fossils from the Tethys sea.",
+    "A few kilometres on, Hikkim has a single-room post office that has worked since 1983, PIN 172114, and calls itself one of the highest in the world. Travellers queue to send postcards home. Further along, Komic, at 4,587 m, is one of the highest villages in the world reachable by road, with the Tangyud and Lundup Tsemo gompas above its few houses.",
+    "Most people visit all three on a half-day loop from Kaza by taxi. If you have slept two nights in Kaza and feel well, stay a night in Langza: the stars are extraordinary, the homestays are warm, and the village is quiet once the day cars leave. If you have a headache or shortness of breath at rest, do not sleep here; go back down to Kaza."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep"],
+    ["Nights we suggest", "1 (after two in Kaza)"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 250 km"],
+    ["From Kaza", "≈ 16 km · 45 min to Langza; full loop ≈ 45 km · 4–5 h"],
+    ["Altitude", "about 4,420 m (Langza); 4,400 m (Hikkim); 4,587 m (Komic)"],
+    ["Known for", "Fossils, Buddha statue, Hikkim post office, Komic gompa"]
+  ],
+  "best_months": [0, 0, 0, 0, 1, 2, 2, 2, 2, 1, 0, 0],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The Buddha above Langza", "text": "A large, brightly painted Buddha statue sits on a rise above Langza, looking down the valley with Chau Chau Kang Nilda behind. Walk around it clockwise and visit early, before the tour cars, for the light and the quiet."},
+    {"title": "Fossil slopes", "text": "Ammonites and other marine fossils lie in the scree around Langza, relics of the Tethys sea. Look and photograph only. Village councils ask visitors not to collect or buy fossils, and removing them strips the slopes."},
+    {"title": "Hikkim post office", "text": "Hikkim's post office has run since 1983 and is often called the highest in the world. Buy a postcard, write it on the spot and post it. Mail goes down to Kaza on foot or by vehicle, so it arrives slowly."},
+    {"title": "Komic at 4,587 m", "text": "Komic is one of the highest villages in the world reachable by road. Visit the gompas above the houses, drink a cup of tea, and do not run: you will feel the altitude here more than anywhere else on the loop."},
+    {"title": "A night in Langza", "text": "Langza's homestays are simple and warm, with home-cooked dinners. After the day cars leave the village is silent, and on clear nights the sky is extraordinary. Sleep here only once acclimatised."}
+  ],
+  "field_notes": [
+    {"fact": "Hikkim's post office opened in 1983 with PIN 172114. It closes in winter because of heavy snow, and mail has traditionally been carried on foot between Hikkim and Kaza.", "source": "Hikkim"},
+    {"fact": "Langza sits at the base of Chau Chau Kang Nilda, a peak villagers also call the Princess Mountain, and is known as the fossil village of Spiti.", "source": "Langza"},
+    {"fact": "Komic, at about 4,587 m, is described as one of the world's highest motorable villages. Its main gompa, Lundup Tsemo, is about 500 years old.", "source": "Komic"}
+  ],
+  "local_word": {"word": "Lhakhang", "language": "Tibetan", "meaning": "temple; literally house of the gods"},
+  "costs": [
+    ["Taxi loop Kaza–Langza–Hikkim–Komic and back", "₹2,500–3,500 per car"],
+    ["Homestay in Langza with dinner and breakfast", "₹1,300–2,200 per person"],
+    ["Postcard and stamp at Hikkim", "₹20–50"],
+    ["Tea or thukpa at a village cafe", "₹50–200"],
+    ["Local guide for a fossil walk", "₹800–1,500 per group"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Bhuntar near Kullu, travel to Kaza via Manali and the Atal Tunnel, and spend two nights in Kaza before going up to Langza."},
+    {"mode": "Bus", "text": "There is no regular bus to Langza. Share a taxi from Kaza; your hostel or the taxi union board is the best place to find people."},
+    {"mode": "Road", "text": "Langza is about 16 km from Kaza on a paved, winding road. Hikkim and Komic are linked by a road across the plateau, and the full loop takes 4–5 hours with stops."}
+  ],
+  "where_to_stay": "Saver: Langza has a cluster of family homestays at ₹1,300–2,200 a person with dinner and breakfast; rooms are simple, some have attached bathrooms and hot water from solar heaters or buckets. A few homestays also operate in Komic and Hikkim. Comfort and signature: there are no hotels on the plateau, so our comfort and signature trips stay in Kaza or Rangrik and visit on a day loop. If you sleep in Langza, bring a warm sleeping layer: nights are below freezing even in August.",
+  "stays": ["langza-homestay-village"],
+  "tips": [
+    "Do not collect, buy or carry fossils; leave them on the slopes.",
+    "Sleep in Langza only after two nights in Kaza, and go down if a headache gets worse.",
+    "Go clockwise around the Buddha statue and chortens.",
+    "Carry cash in small notes; there are no ATMs and card payments rarely work.",
+    "Visit Hikkim in the morning: the post office keeps limited hours and closes for lunch."
+  ],
+  "themes": ["homestays-and-villages", "photography", "road-trips", "monasteries"],
+  "nearby": ["kaza", "key-and-kibber", "dhankar"],
+  "experiences": [
+    {
+      "slug": "langza-fossil-slopes-walk",
+      "title": "Fossil slopes walk above Langza",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "8–11 am, Jun–Sep",
+      "cost": "Free; local guide ₹800–1,500 per group",
+      "image_query": "Langza fossil ammonite Spiti",
+      "wiki": "Langza",
+      "summary": "Walk the slopes above Langza with a local guide to see ammonite fossils from the vanished Tethys sea. Look, photograph and leave them in place.",
+      "body": [
+        "The rocks around Langza were once the seabed of the Tethys Ocean, which lay between India and Asia before the two collided and pushed the Himalaya up. Coiled ammonite shells and other marine fossils are common in the scree here, and a village guide will show you where to look without trampling fields.",
+        "Walk slowly. You are at about 4,400 m, and the slopes are steeper than they look. Carry water, a hat and sunscreen; the sun is strong and there is no shade. A two-hour walk is plenty on your first visit.",
+        "The rule is simple: do not take fossils. Selling and collecting them has stripped some slopes in the past, and village councils now ask visitors to leave them. If someone offers you a fossil, decline politely. Photograph what you find, place it back where it was, and you leave the slope for the next walker."
+      ],
+      "good_for": ["families", "students", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can I take a fossil from Langza?", "a": "No. Village councils ask visitors not to collect or buy fossils. Photograph them and leave them where they are."},
+        {"q": "Do I need a guide for the fossil walk?", "a": "It is not compulsory, but a village guide knows where fossils are, keeps you off fields, and the fee supports the village."},
+        {"q": "Is the walk suitable for children?", "a": "Yes for a short walk, if they have spent two nights in Kaza. Keep it under two hours and watch for altitude symptoms."}
+      ]
+    },
+    {
+      "slug": "hikkim-post-office-postcard",
+      "title": "Post a card from Hikkim post office",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "10 am–1 pm on weekdays, Jun–Sep",
+      "cost": "Postcards and stamps ₹20–50",
+      "image_query": "Hikkim post office Spiti",
+      "wiki": "Hikkim",
+      "summary": "Write a postcard at one of the highest post offices in the world, a one-room office at about 4,400 m that has served Hikkim since 1983.",
+      "body": [
+        "Hikkim's post office opened in 1983 and serves a handful of high villages with PIN 172114. It handles savings accounts and letters for local families, and in summer also a steady line of travellers posting cards to themselves and their families.",
+        "Buy a postcard there or bring one from Kaza, write it at the small table, stamp it and drop it in the box. Mail travels down to Kaza and onwards, so expect it to take weeks. The office closes in winter, and hours can change, so arrive in the morning on a weekday.",
+        "Be patient. This is a working post office for villagers first. Let local people go ahead of you, do not crowd the room, and keep group photographs outside the door."
+      ],
+      "good_for": ["families", "couples", "students", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Is Hikkim post office the highest in the world?", "a": "It is widely described as one of the highest post offices in the world and India's highest. At about 4,400 m, it is high enough that you will feel the altitude."},
+        {"q": "When is Hikkim post office open?", "a": "On weekdays in daytime in summer. It closes in winter and hours vary, so go in the morning and check locally."},
+        {"q": "How long does a postcard from Hikkim take?", "a": "Usually weeks, sometimes longer. Mail travels down to Kaza first and then by road across the mountains."}
+      ]
+    },
+    {
+      "slug": "komic-gompa-high-village-visit",
+      "title": "Komic gompa at 4,587 m",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Late morning, Jun–Sep",
+      "cost": "Free; donation welcome",
+      "image_query": "Komic village monastery Spiti",
+      "wiki": "Komic",
+      "summary": "Visit Lundup Tsemo gompa in Komic, one of the highest villages in the world reachable by road. Slow steps, butter lamps and a view across the whole plateau.",
+      "body": [
+        "Komic sits at about 4,587 m, a few kilometres beyond Hikkim, with a handful of houses and fields that are some of the highest farmed land in India. The main monastery, Lundup Tsemo, is about 500 years old, and the older Tangyud Gompa associated with the Sakya tradition stands near the village.",
+        "Inside, the halls are dark and cold, lit by butter lamps. Take off your shoes, walk clockwise, and ask before photographing. A small donation in the box is customary.",
+        "This is the highest point of the plateau loop, so move slowly and do not linger if you feel unwell. Most visitors spend an hour here, drink tea at a homestay cafe, and head back to Kaza or down to Langza for the night."
+      ],
+      "good_for": ["solo", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "Is Komic the highest village in the world?", "a": "It is described as one of the highest motorable villages in the world, at about 4,587 m. Several Himalayan villages make similar claims."},
+        {"q": "Can I stay overnight in Komic?", "a": "A few homestays operate in summer, but sleeping at 4,587 m is hard on most people. We suggest Langza or Kaza instead."},
+        {"q": "Is photography allowed in Komic gompa?", "a": "Ask first. Inside the halls it is often not allowed. Never use flash on old paintings."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I visit Langza, Hikkim and Komic from Kaza?", "a": "Hire a taxi from the Kaza union for the loop, about ₹2,500–3,500 a car for 4–5 hours, or share with others from your hostel. There is no regular public bus. The road is paved most of the way. Combine it with Key and Kibber only if you are well acclimatised and leave early."},
+    {"q": "Can I stay in Langza?", "a": "Yes. Langza has family homestays charging about ₹1,300–2,200 a person with dinner and breakfast. Rooms are simple and warm, some with attached bathrooms. Sleep here only after two nights in Kaza, because Langza is at about 4,400 m."},
+    {"q": "Are fossils really found in Langza?", "a": "Yes. Marine fossils, especially ammonites, are found in the rocks around Langza, left from the Tethys sea that once covered this region. Look and photograph, but do not collect or buy them; village councils ask visitors to leave them in place."},
+    {"q": "Is Hikkim post office open all year?", "a": "No. It works in the warmer months and usually closes in winter because of heavy snow. In summer it opens on weekdays in daytime. Go in the morning and check locally, because hours change."},
+    {"q": "Is altitude sickness a risk at Langza and Komic?", "a": "Yes. Langza is at about 4,400 m and Komic at about 4,587 m, the highest points most travellers reach in Spiti. Visit after acclimatising in Kaza, drink water, walk slowly, and go down if headache, nausea or breathlessness get worse. Talk to your doctor before you go."},
+    {"q": "Does phone network work in Langza?", "a": "BSNL and Jio usually have signal in Langza and Komic, but it is weak and slow. Homestays rarely have Wi-Fi. Tell people at home you may be offline for a day."},
+    {"q": "Can children and seniors visit Langza?", "a": "Visiting on a day trip is fine for most healthy people after two nights in Kaza. Sleeping at 4,400 m is harder; for young children and seniors, we suggest returning to Kaza for the night. Ask your doctor before the trip."},
+    {"q": "When is the best time to visit Langza?", "a": "June to September, when the road is clear and fields are green. In September the barley turns gold. The road can have snow until May and after October, and winter visits are only for well-prepared travellers."},
+    {"q": "What is the Buddha statue at Langza?", "a": "It is a large painted statue of the Buddha on a rise above the village, facing the valley. It is a place of worship: walk around it clockwise, do not climb on it, and keep music and drones away."}
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "kumaon-saver-munsiyari-johar-7n",
+  "title": "Munsiyari and the Johar valley by shared jeep",
+  "region": "kumaon",
+  "tier": "saver",
+  "nights": 7,
+  "themes": ["homestays-and-villages", "treks-and-walks", "road-trips", "photography"],
+  "stops": [{"place": "almora", "nights": 1}, {"place": "chaukori", "nights": 1}, {"place": "munsiyari", "nights": 4}, {"place": "kausani", "nights": 1}],
+  "start": "Kathgodam railway station",
+  "end": "Kathgodam railway station",
+  "price_from_inr": 18500,
+  "price_note": "Per person, twin sharing: 7 nights in guesthouses, KMVN rooms and Munsiyari village homestays with meals, all shared jeeps, a Khaliya Top guide; trains extra.",
+  "transport": "Shared jeeps and buses via Almora, Chaukori, Thal and Bageshwar",
+  "group": "Private",
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "pace": "Active",
+  "meta_description": "Saver Munsiyari trip, 7 nights by shared jeep: Almora, Chaukori, four nights in Johari homestays with Khaliya Top, and Kausani, from ₹18,500 per person.",
+  "summary": "A seven-night saver loop to Munsiyari, the old winter home of the Johari traders, by shared jeep. We break the long road at Almora and Chaukori, spend four nights in Munsiyari village homestays with a Khaliya Top hike and the Tribal Heritage Museum, and return via Bageshwar and Kausani.",
+  "intro": [
+    "Munsiyari is far: about 280 km from Kathgodam on hill roads. Shared jeeps make it affordable, but going straight through means 10–12 hours in a crowded seat. We split the journey both ways, with a night in Almora and a night facing Panchachuli at Chaukori on the way in, and Kausani on the way out. That makes each day 3–7 hours and adds three good places to the trip.",
+    "In Munsiyari we stay in village homestays, where families serve home-cooked Kumaoni meals and know the paths. Four nights allow a full day for Khaliya Top, a day for the museum and villages, and a spare day for weather. Homestays are simple: shared or attached bathrooms depending on the house, bucket hot water in some, and very warm hospitality. The road is long; this is a trip for travellers who enjoy the journey."
+  ],
+  "highlights": [
+    "Panchachuli from both Chaukori and Munsiyari",
+    "Day hike to Khaliya Top at about 3,500 m",
+    "The story of the Johar salt and wool trade at the Tribal Heritage Museum",
+    "Birthi Falls and the Kalamuni ridge on the road in",
+    "Home-cooked Kumaoni meals in village homestays"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathgodam to Almora", "place": "almora", "overnight": "Almora or Kasar Devi", "drive": "≈ 90 km · 3 h", "text": "Arrive at Kathgodam on the overnight train and take a shared taxi to Almora for ₹350–500, via Bhowali, Kainchi Dham and the Kosi valley. Check into a guesthouse in Almora or at Kasar Devi. After lunch, walk Lal Bazaar for bal mithai and singori and look into the Nanda Devi temple. Sleep early: tomorrow's jeep leaves in the morning.", "meals": "Breakfast"},
+    {"day": 2, "title": "Almora to Chaukori", "place": "chaukori", "overnight": "Chaukori", "drive": "≈ 115 km · 4.5 h", "text": "Take a morning shared jeep east from Almora towards Berinag via Dhaulchhina and Seraghat, crossing the Saryu, then climbing to Berinag and on to Chaukori; you may need to change at Berinag. Check into the KMVN rest house or a homestay facing north. Walk the ridge in the late afternoon, and watch the light fade on Panchachuli, Nanda Kot and the Nanda Devi group.", "meals": "Breakfast, Dinner"},
+    {"day": 3, "title": "Chaukori to Munsiyari via Kalamuni", "place": "munsiyari", "overnight": "Munsiyari homestay", "drive": "≈ 95 km · 4 h", "text": "Watch sunrise on Panchachuli, then take a shared jeep to Thal and change for Munsiyari. The road follows the Ramganga, passes Birthi Falls and climbs in tight bends to the Kalamuni ridge at about 2,700 m before dropping into Munsiyari. Your homestay family will meet you in the village. Spend the evening settling in, with dinner at home and Panchachuli outside the window.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Villages and the Tribal Heritage Museum", "place": "munsiyari", "overnight": "Munsiyari homestay", "drive": "", "text": "A slow day to adjust and learn. Visit the Tribal Heritage Museum to see the tools, saddle bags and records of the Johari Shauka traders who took goods over the passes to Tibet. Walk through Sarmoli and neighbouring villages with a local guide, past fields, naulas and old stone houses. Ask about local weaving and the Nanda Devi temple. Dinner with your host family.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Khaliya Top day hike", "place": "munsiyari", "overnight": "Munsiyari homestay", "drive": "≈ 16 km round trip · 1 h", "text": "Leave at first light by jeep to Balati Bend and hike with a local guide through oak and rhododendron to the meadows of Khaliya Top, about 3,500 m. On clear mornings Panchachuli, Hardeol and Nanda Devi East stand across the valley. Go slowly, drink water and turn back if you feel unwell or cloud closes in. Return by mid-afternoon for a hot meal and rest.", "meals": "Breakfast, Packed lunch, Dinner"},
+    {"day": 6, "title": "Spare day: birding or rest", "place": "munsiyari", "overnight": "Munsiyari homestay", "drive": "", "text": "This day absorbs bad weather or road delays. If the sky is clear, walk the forest edge above the village at dawn for pheasants, finches and laughingthrushes; more than 300 bird species are recorded in the Gori basin. Or simply rest, read and watch the light change on Panchachuli. In the evening, ask your hosts about the old migration down from Milam each winter.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Munsiyari to Kausani via Bageshwar", "place": "kausani", "overnight": "Kausani", "drive": "≈ 185 km · 8 h", "text": "The longest day. Take the early shared jeep from Munsiyari to Bageshwar via Thal, then a jeep or bus up to Kausani, passing the Baijnath temples. Check into the KMVN rest house on the ridge and, if you arrive in time, walk to the Anasakti Ashram, where Gandhi stayed in 1929, for evening prayer.", "meals": "Breakfast"},
+    {"day": 8, "title": "Kausani sunrise and back to Kathgodam", "place": "kausani", "overnight": "", "drive": "≈ 145 km · 5 h", "text": "Wake for sunrise over Trishul and Nanda Devi from the ridge. After breakfast, take a shared jeep to Almora and a shared taxi on to Kathgodam, arriving in the afternoon for an evening train to Delhi. Allow time for traffic near Kainchi Dham on weekends.", "meals": "Breakfast"}
+  ],
+  "stays": ["kmvn-trh-kausani"],
+  "includes": ["7 nights in guesthouses, KMVN rooms and village homestays, twin sharing", "All meals in Munsiyari homestays; breakfast and some dinners elsewhere", "All shared jeep and bus fares from Kathgodam and back", "Local guide for Khaliya Top and the village walk", "Tribal Heritage Museum entry"],
+  "excludes": ["Trains to and from Kathgodam", "Meals not listed", "Private cars if shared jeeps are not running", "Inner Line Permit and guides for any Milam trek", "Tips for hosts and guides"],
+  "good_to_know": [
+    "Khaliya Top reaches about 3,500 m; you sleep at 2,200 m, which helps, but go slowly and turn back if you get a headache. Talk to your doctor if you have heart or lung conditions.",
+    "Shared jeeps leave early and fill fast; be at the stand by 7 am.",
+    "Homestays are simple: some have shared bathrooms and bucket hot water.",
+    "Landslides between Thal and Munsiyari are common in the monsoon; we do not run this trip in July and August.",
+    "ATMs in Munsiyari can run out; carry enough cash for the whole stay."
+  ],
+  "faqs": [
+    {"q": "How much does a budget trip to Munsiyari cost?", "a": "This seven-night saver trip starts at ₹18,500 per person on twin sharing, including rooms, homestay meals, shared jeeps and a guide. Add trains, some meals and tips. Going straight to Munsiyari and back saves money but costs two very long days."},
+    {"q": "How long is the shared jeep ride to Munsiyari?", "a": "From Haldwani straight through it takes 10–12 hours. This trip breaks it into Almora–Chaukori and Chaukori–Munsiyari legs of about 4–5 hours each."},
+    {"q": "Do I need a permit for this trip?", "a": "No permit is needed for Munsiyari or Khaliya Top. An Inner Line Permit is needed only if you go beyond into the upper Johar valley towards Milam. Check current status before you travel."},
+    {"q": "Is Khaliya Top hard?", "a": "It is a moderate day hike with about 900 m of climbing to roughly 3,500 m. Fit walkers manage it in 6–8 hours return with breaks. Snow in spring can make it harder."},
+    {"q": "What are homestays in Munsiyari like?", "a": "Family homes with simple, clean rooms, home-cooked Kumaoni meals and hosts who share local stories. Bathrooms may be shared, and hot water may come in buckets. They are warm and welcoming."},
+    {"q": "Can I extend this trip to Milam glacier?", "a": "Yes, with extra days, an Inner Line Permit, a guide and good fitness. The Milam trek needs about a week more and sleeps above 3,000 m, so plan proper acclimatisation."},
+    {"q": "Is this trip suitable for solo travellers?", "a": "Yes. Shared jeeps and homestays suit solo travellers. Single rooms cost a little more per person. Tell your hosts your plans for each day."},
+    {"q": "When is the best time for this trip?", "a": "April to June and late September to November. October and November give the clearest views. Winter brings snow and very cold nights; July and August bring landslides."},
+    {"q": "What should I pack for Munsiyari?", "a": "Warm layers including a down jacket, rain gear, trekking shoes, a torch, water bottle, sunscreen, motion-sickness tablets for the road, and cash."}
+  ]
+}

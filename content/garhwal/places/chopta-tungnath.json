@@ -1,0 +1,146 @@
+{
+  "slug": "chopta-tungnath",
+  "name": "Chopta & Tungnath",
+  "region": "garhwal",
+  "kind": "valley",
+  "wiki": "Chopta",
+  "image_query": "Tungnath temple Chopta snow",
+  "lat": 30.484,
+  "lng": 79.205,
+  "altitude_m": 2700,
+  "tagline": "Meadows, rhododendron forest and the highest Shiva temple",
+  "meta_description": "Chopta and Tungnath guide: the 3.5 km climb to Tungnath, Chandrashila sunrise, Deoria Tal, Himalayan monal, bus and jeep costs, seasons and stays.",
+  "summary": "Chopta is a meadow and forest halt at about 2,700 m on the Ukhimath–Gopeshwar road, inside Kedarnath Wildlife Sanctuary. From here a 3.5 km paved path climbs to Tungnath, at 3,680 m the highest Panch Kedar temple, and on to Chandrashila. Two or three nights; best April–June and October–December.",
+  "intro": [
+    "Chopta is less a village than a clearing on a mountain road: a line of dhabas, simple lodges and camps where the Ukhimath–Gopeshwar road crosses the ridge between the Mandakini and Alaknanda valleys. Around it, oak, deodar and rhododendron forests open into bugyals, high grazing meadows that are green in summer, gold in autumn and white from December to March. The whole area lies within Kedarnath Wildlife Sanctuary, which is why building is limited.",
+    "Above Chopta stands Tungnath, a stone temple at 3,680 m that is the highest of the Panch Kedar shrines and one of the highest Shiva temples in the world. Legend holds that Shiva, hiding from the Pandavas as a bull, reappeared in five parts across Garhwal; his arms surfaced here. The priests are local Brahmins from Makkumath village, and in winter the deity moves down to the Markandeya temple there.",
+    "The climb to Tungnath is 3.5 km on a paved path, and the summit of Chandrashila, above 4,000 m, is another 1.5 km of steep, rough trail. From the top, on a clear morning, you see Chaukhamba, Kedarnath, Nanda Devi and Trishul in one sweep. Add the short walk to Deoria Tal from Sari village, and Chopta makes an ideal three-night trip: high enough to feel like the big mountains, low enough for most fit families."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Oct – Dec; snow Jan – Mar"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 220 km · 8 h"],
+    ["From Rishikesh", "≈ 200 km · 7–8 h via Rudraprayag and Ukhimath"],
+    ["Altitude", "≈ 2,700 m (Tungnath 3,680 m; Chandrashila 4,000 m+)"],
+    ["Known for", "Tungnath temple, Chandrashila summit, Deoria Tal, monal pheasants"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Tungnath temple", "text": "A compact stone shrine at 3,680 m, reached by a 3.5 km paved path from Chopta in 2–3 hours. It is the third of the Panch Kedar and the highest. The temple opens in late April or May and closes around Diwali; check current status before you travel."},
+    {"title": "Chandrashila sunrise", "text": "Leave Chopta at 4 am with a torch, pass Tungnath at first light and reach Chandrashila, above 4,000 m, for sunrise. The last 1.5 km is steep and loose. On clear days the view runs from Bandarpunch in the west to Nanda Devi in the east."},
+    {"title": "Deoria Tal", "text": "A lake at 2,438 m, a 2.5–3 km climb from Sari village, that reflects the Chaukhamba massif on still mornings. Camping at the lake is no longer allowed, so walk up early from Sari and back down for the night."},
+    {"title": "Rhododendron in spring", "text": "From March to early May the forests round Chopta and Deoria Tal turn red and pink with buransh. Locals make the flowers into juice and chutney, sold in bottles at roadside stalls in Ukhimath and Chopta."},
+    {"title": "Birds of the sanctuary", "text": "Kedarnath Wildlife Sanctuary is home to the Himalayan monal, the state bird of Uttarakhand, along with koklass pheasants, laughingthrushes and finches. Early mornings on the Tungnath path and the forest road towards Mandal are the best times."},
+    {"title": "Winter snow walks", "text": "From December to March, snow often closes the road a few kilometres short of Chopta, and the climb to Tungnath becomes a winter trek. Go with a local guide, carry microspikes and check the road from Ukhimath before setting out."}
+  ],
+  "field_notes": [
+    {"fact": "Unlike the other Kedar temples, whose priests come from South India, Tungnath's priests are local Brahmins from Makkumath village. In winter the deity's symbolic image moves down to the Markandeya temple at Makkumath, about 29 km away.", "source": "Tungnath"},
+    {"fact": "In the Panch Kedar legend, Shiva in the form of a bull sank into the ground and reappeared in five places: the hump at Kedarnath, the arms at Tungnath, the face at Rudranath, the navel at Madhyamaheshwar and the hair at Kalpeshwar.", "source": "Panch Kedar"},
+    {"fact": "The Himalayan monal, the iridescent pheasant you may see on the Tungnath path, is the state bird of Uttarakhand and the national bird of Nepal.", "source": "Himalayan monal"}
+  ],
+  "local_word": {"word": "Buransh", "language": "Garhwali", "meaning": "rhododendron, the tree whose red spring flowers colour the Chopta forests"},
+  "costs": [
+    ["UTC or GMOU bus, Rishikesh to Ukhimath", "₹450–650"],
+    ["Taxi, Ukhimath to Chopta (one way)", "₹1,500–2,200"],
+    ["Lodge or camp at Chopta or Sari with meals", "₹1,200–3,000 per person"],
+    ["Local guide for Tungnath–Chandrashila", "₹1,200–2,000 a day"],
+    ["Tea, Maggi and paratha at a Chopta dhaba", "₹60–150"],
+    ["Forest entry fee, Deoria Tal", "₹100–200 (check at the gate)"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is about 220 km away, 8 hours by car via Rishikesh, Devprayag, Rudraprayag and Ukhimath."},
+    {"mode": "Bus", "text": "UTC and GMOU buses run from Rishikesh to Ukhimath, about 180 km and 7–8 hours, leaving early morning. From Ukhimath, shared jeeps run to Sari for Deoria Tal; for Chopta, a taxi is usually needed as shared jeeps are irregular."},
+    {"mode": "Road", "text": "Rishikesh to Chopta is about 200 km, 7–8 hours by car via Rudraprayag, Kund and Ukhimath. From Badrinath or Joshimath, come via Chamoli, Gopeshwar and Mandal, about 110 km and 4 hours from Joshimath."}
+  ],
+  "where_to_stay": "Saver: Chopta has a strip of simple lodges, dhabas with rooms and seasonal camps at ₹1,200–2,500 per person with meals; Sari village, the base for Deoria Tal, has family homestays at similar prices. Comfort: there are no large hotels at Chopta itself; the better options are small lodges and cottage camps around Duggalbitta and Baniyakund, a few kilometres below, and hotels in Ukhimath and Guptkashi. There is no signature-level stay in this area; we pair it with Rishikesh.",
+  "stays": [],
+  "tips": [
+    "Start the Chandrashila climb by 4 am in summer; clouds usually build by 10 am and hide the peaks.",
+    "Carry cash: Chopta has no ATM and card payments rarely work; the nearest ATMs are in Ukhimath and Gopeshwar.",
+    "Sleep a night at Sari or Ukhimath first if you have come straight from the plains, as Chandrashila is above 4,000 m.",
+    "Keep the meadows clean: carry your wrappers and bottles back down, as there is no waste collection on the path.",
+    "In winter, ask in Ukhimath how far vehicles can go before driving up; snow often stops cars short of Chopta."
+  ],
+  "themes": ["treks-and-walks", "pilgrimages", "wildlife-and-birds", "snow-and-winter", "photography"],
+  "nearby": ["kedarnath", "auli", "badrinath"],
+  "experiences": [
+    {
+      "slug": "tungnath-chandrashila-sunrise-climb",
+      "title": "Sunrise climb to Tungnath and Chandrashila",
+      "kind": "trek",
+      "duration": "6–7 hours return",
+      "best_time": "4 am start, Apr–Jun and Oct–Nov",
+      "cost": "Free; guide ₹1,200–2,000",
+      "image_query": "Chandrashila summit sunrise Himalaya",
+      "wiki": "Chandrashila",
+      "summary": "A pre-dawn climb on the paved path from Chopta to Tungnath temple, then the steep last 1.5 km to Chandrashila, above 4,000 m, for sunrise over Chaukhamba, Kedarnath and Nanda Devi. About 5 km each way and 1,300 m of ascent.",
+      "body": [
+        "The path from Chopta to Tungnath is 3.5 km of stone paving with steps, climbing through rhododendron forest and then open meadow. Most walkers take 2–2.5 hours up. Tungnath temple, at 3,680 m, is small and old, built in the same North Indian Himalayan style as Kedarnath. If you reach it before the doors open, there are tea stalls beside the temple where you can wait out of the wind.",
+        "Above the temple the path turns to a rough, steep trail for 1.5 km to the summit of Chandrashila, above 4,000 m, where a small shrine and prayer flags mark the top. The view on a clear morning is the reason we bring guests here: Chaukhamba, the Kedarnath peaks, Neelkanth, Nanda Devi and Trishul, and the long valleys of the Mandakini and Alaknanda below. Legend says Rama meditated on this summit.",
+        "Start by 4 am with a headlamp to reach the top around sunrise. Wear proper shoes and warm layers; even in May it is near freezing at dawn. In winter the path is under snow and you need microspikes and a guide. Altitude affects some walkers: go slowly, drink water and turn back if you have a strong headache or feel breathless at rest."
+      ],
+      "good_for": ["students", "couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Tungnath–Chandrashila trek?", "a": "Moderate. Tungnath is 3.5 km on a paved path with steady climbing; Chandrashila adds 1.5 km of steep, rough trail. Reasonably fit walkers manage the return trip in 6–7 hours. It is not technical in summer, but the altitude, above 4,000 m at the top, makes it feel harder."},
+        {"q": "Can I do Tungnath trek in winter?", "a": "Yes, from December to March it becomes a snow trek. The road may stop several kilometres short of Chopta, the path is icy and the temple is closed. Go with a local guide, wear microspikes and start early. Check road and weather status before you travel."},
+        {"q": "Are ponies available for Tungnath?", "a": "Ponies run on the Tungnath path in the yatra season, costing roughly ₹1,500–2,500 one way. They do not go to Chandrashila. Use registered handlers and do not overload the animals; walking slowly is often just as quick."}
+      ]
+    },
+    {
+      "slug": "chopta-deoria-tal-walk-from-sari",
+      "title": "Morning walk to Deoria Tal from Sari",
+      "kind": "nature",
+      "duration": "3–4 hours return",
+      "best_time": "6–9 am, Mar–Jun and Oct–Dec",
+      "cost": "Forest fee ₹100–200; shared jeep Ukhimath–Sari ₹50–100",
+      "image_query": "Deoria Tal lake Chaukhamba reflection",
+      "wiki": "Deoria Tal",
+      "summary": "A 2.5–3 km climb from Sari village to a forest-ringed lake at 2,438 m, where Chaukhamba reflects in still water early in the morning. Steady stone steps, tea stalls at the top, and a 300-degree view of the Garhwal peaks.",
+      "body": [
+        "Deoria Tal sits on a shoulder above Sari village, about 3 km by trail. The path is a stone-paved climb through oak and rhododendron, gaining roughly 400 m, and takes most walkers an hour to 90 minutes. At the top the forest opens onto a grassy bank round a small lake. On a still morning Chaukhamba, the four-pillared massif above Badrinath and Kedarnath, sits upside down in the water.",
+        "Local belief connects the lake with the devas, who are said to have bathed here, and with the Yaksha's questions to the Pandavas in the Mahabharata. Camping at the lake itself is no longer allowed, so everyone walks up and down the same day. A few tea and snack stalls open in season but close at sundown. A forest checkpost collects a fee near the start.",
+        "Go early, before day walkers arrive and before cloud covers the peaks. Sari has family homestays where you can sleep the night before. Experienced walkers sometimes continue on the forest trail from Deoria Tal towards Rohini Bugyal and Chopta, a full-day hike that needs a local guide. Most travellers simply walk back to Sari and drive on to Chopta for the Tungnath climb next day."
+      ],
+      "good_for": ["families", "couples", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How long is the Deoria Tal trek?", "a": "About 2.5–3 km one way from Sari village, climbing roughly 400 m on stone steps. Most walkers take 60–90 minutes up and 45 minutes down. Children of 7 and above who walk regularly usually manage it well."},
+        {"q": "Can I camp at Deoria Tal?", "a": "No. Camping at the lake is no longer permitted, so all visitors return the same day. Sleep in Sari, Ukhimath or Chopta. Rules on day entry and fees are set by the forest department; check current status before you travel."},
+        {"q": "When is the best time to see Chaukhamba from Deoria Tal?", "a": "Early morning from October to December gives the clearest reflections and least cloud. March to May is also good, with rhododendrons in flower, but haze is more common. In monsoon the peaks are usually hidden."}
+      ]
+    },
+    {
+      "slug": "chopta-monal-birding-morning",
+      "title": "Birding for monal in Kedarnath sanctuary",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "6–9 am, Mar–May and Oct–Nov",
+      "cost": "Guide ₹1,500–2,500 per morning",
+      "image_query": "Himalayan monal male Uttarakhand",
+      "wiki": "Himalayan monal",
+      "summary": "Walk the forest edges and meadows around Chopta at dawn with a local birding guide to look for Himalayan monal, Uttarakhand's state bird, and the koklass pheasants, laughingthrushes, rosefinches and woodpeckers of the Kedarnath Wildlife Sanctuary.",
+      "body": [
+        "Chopta lies inside Kedarnath Wildlife Sanctuary, a protected area of oak, rhododendron and alpine meadow between the Mandakini and Alaknanda valleys. Its middle elevations hold many Himalayan bird species within easy reach of the road, and Chopta has become one of the best-known birding stops in Uttarakhand. Local guides know where birds feed at dawn along the forest edge and on the open slopes above.",
+        "The bird most people hope for is the Himalayan monal: the male shines metallic green, blue and copper, and often feeds on open grassy slopes near the Tungnath path in the early morning. Spring, from March to May, is breeding season, when males call and display. Look also for koklass pheasants, streaked laughingthrushes, rosefinches and, with luck, Himalayan griffon vultures circling the ridge.",
+        "Bring binoculars, wear muted colours and walk slowly. Keep at a distance from nesting birds and never use call playback in the sanctuary. Musk deer and Himalayan tahr live here too, but are shy. A morning of birding pairs well with an afternoon rest before a pre-dawn Chandrashila climb the next day."
+      ],
+      "good_for": ["photographers", "seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "Where can I see the Himalayan monal near Chopta?", "a": "On open slopes and forest edges along the Tungnath path and the road towards Mandal, usually in the first two hours after sunrise. Sightings are common in spring and autumn but never guaranteed. A local guide improves your chances considerably."},
+        {"q": "What is the best season for birding at Chopta?", "a": "March to May, when many species breed and call, and October to November, when skies are clear and some altitudinal migrants move down. Monsoon makes birding difficult because of cloud and leeches on forest paths."},
+        {"q": "Do I need a permit for birding at Chopta?", "a": "No separate permit is usually needed for walking on public paths and roads around Chopta, though the forest department collects fees at some points such as Deoria Tal. Entering deeper sanctuary areas may need permission; check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Chopta from Rishikesh?", "a": "By car it is about 200 km and 7–8 hours via Devprayag, Rudraprayag, Kund and Ukhimath. By bus, take a UTC or GMOU bus to Ukhimath (₹450–650, 7–8 hours) and a taxi from there to Chopta (₹1,500–2,200). Shared jeeps to Chopta are irregular."},
+    {"q": "Is Chopta–Tungnath good for beginners?", "a": "Yes. The Tungnath path is paved and widely used by pilgrims, including older people. Chandrashila's last 1.5 km is steeper and rougher. Beginners should allow time, sleep a night at Sari or Ukhimath first and turn back if unwell."},
+    {"q": "When is Tungnath temple open?", "a": "Tungnath usually opens in late April or May and closes around Diwali in October or November, when the deity moves to the Markandeya temple at Makkumath. Dates are fixed by the temple each year; check current status before you travel. The path can be walked year round in good weather."},
+    {"q": "Does Chopta get snow?", "a": "Yes. From December to March Chopta, Tungnath and Chandrashila are usually under snow, and the road may close a few kilometres below. January and February bring the deepest snow. Late March and April often still have snow above Tungnath."},
+    {"q": "Is there mobile network and ATM in Chopta?", "a": "Network is weak; Jio and BSNL sometimes catch a signal near the road, but expect long gaps. There is no ATM at Chopta. Withdraw cash in Rudraprayag, Ukhimath or Gopeshwar and carry enough for your stay, guide and transport."},
+    {"q": "Can I do Chopta and Kedarnath on the same trip?", "a": "Yes. Chopta is about 2–3 hours by road from Guptkashi and Sonprayag, the bases for Kedarnath. Doing Chopta first helps you acclimatise before the 16–17 km Kedarnath walk. A 6–7 night trip from Rishikesh covers both comfortably."},
+    {"q": "How cold is Chopta?", "a": "In May and June days are 12–20 °C and nights 3–8 °C. October to November drops to −2 to 12 °C. December to February goes well below freezing at night. Carry a warm jacket in every season; Chandrashila at dawn is always cold."},
+    {"q": "Is Chopta safe for solo travellers?", "a": "Yes. Chopta is a small, friendly halt used by pilgrims and trekkers. Tell your lodge your plans, do not start Chandrashila alone in snow or fog, and carry a torch. In monsoon avoid the road at night because of landslides."},
+    {"q": "How much does a Chopta trip cost on a budget?", "a": "From Rishikesh, a 3–4 night saver trip by bus and taxi with lodge meals costs about ₹7,000–10,000 per person. Shared taxis and a homestay in Sari keep it at the low end. Guides, ponies and private cars add to that."}
+  ]
+}

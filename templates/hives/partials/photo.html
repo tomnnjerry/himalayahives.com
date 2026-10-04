@@ -1,0 +1,3 @@
+{% load hives %}<figure class="photo {{ cls }}" style="margin:0;position:relative">{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="{{ sizes }}" alt="{{ alt }}" {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"{% if img.width %} width="{{ img.width }}" height="{{ img.height }}"{% endif %} style="width:100%;height:100%;object-fit:cover">{% endif %}
+  {% if img and credit %}<a class="credit" href="{{ img.source }}" rel="noopener" target="_blank" title="Photo: {{ img|short_credit }}, Wikimedia Commons">Photo: {{ img|short_credit }}, Wikimedia Commons</a>{% endif %}
+</figure>

@@ -1,0 +1,142 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya Hives · Himalaya trips from Kashmir to Arunachal, from {{ saver_from|inr }}{% endblock %}
+{% block alt_label %}Sea level to Everest{% endblock %}
+{% block content %}
+<section class="hero ground">
+  {% topo "home-hero" "topo--honey" %}
+  <div class="wrap hero__in">
+    <div>
+      <p class="eyebrow">Himalaya only · eleven valleys, west to east</p>
+      <h1 class="d-hero">Every valley<br>is a <em class="foil-text">hive</em></h1>
+      <p class="lede">Villages packed onto the sunny side of a slope, joined by old salt, wool and pilgrim paths. We plan trips into eleven of them, from {{ saver_from|inr }} Saver trips by shared jeep and homestay to the best lodges in the range.</p>
+      <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
+        <label><span>Which hive</span><select name="land"><option value="">Not sure yet</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+        <label><span>When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+        <label><span>Budget</span><select name="tier"><option value="saver">Saver</option><option value="comfort" selected>Comfort</option><option value="signature">Signature</option></select></label>
+        <input type="hidden" name="from" value="/">
+        <button class="btn btn--foil" type="submit" data-cta="hero-finder">Plan it</button>
+      </form>
+    </div>
+    <div class="comb" aria-hidden="true">
+      {% for r in regions|slice:":3" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+      <div class="comb__c comb__c--honey"><div><small>Saver trips from</small><b>{{ saver_from|inr }}</b><small>per person</small></div></div>
+      {% for r in regions|slice:"6:7" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+      {% for r in regions|slice:"8:10" %}<a class="comb__c" href="{{ r.url }}" tabindex="-1">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="">{% endif %}{% endwith %}<span>{{ r.name }}</span></a>{% endfor %}
+    </div>
+  </div>
+  <div class="hero__ridges" data-parallax>{% ridgeline "home" 4 %}</div>
+  <p class="hero__alt">Everest 8,849 m · Nanga Parbat to Namcha Barwa ≈ 2,400 km</p>
+</section>
+
+<div class="wrap">{% include "hives/partials/trust.html" %}</div>
+
+<section class="sec arc" id="arc">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The arc</p><h2 class="d-1">Eleven hives on one mountain range</h2>
+      <p class="lede">From Kashmir in the west to Arunachal in the east, the Great Himalaya runs about 2,400 km. The dotted line follows its crest through twelve real summits. Hover a hive to see what it costs and when it is open.</p></div>
+      <a class="link" href="{% url 'lands' %}">Compare every hive {% icon "arrow" %}</a></div>
+    <div class="arc__frame" data-arc>
+      {{ arc|safe }}
+      {% for r in regions %}<div class="arc__card" data-arc-card="{{ r.slug }}" data-land="{{ r.slug }}">
+        <div class="cell"><div class="cell__ph" style="aspect-ratio:16/9">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span></div>
+          <div class="cell__body" style="padding-top:26px"><span class="readout">{{ r.min_alt|thousands }}–{{ r.max_alt|alt }} · best {{ r.best_label }}</span><b class="cell__title">{{ r.name }}</b>
+            <span class="cell__text">{{ r.tagline }}</span>
+            <div class="cell__foot"><span class="price"><small>Saver from</small>{{ r.saver_from|inr }}</span><span class="readout">{{ r.palette }}</span></div></div></div>
+      </div>{% endfor %}
+    </div>
+    <div class="arc__list">{% for r in regions %}<a href="{{ r.url }}" data-land="{{ r.slug }}" data-hive="{{ r.slug }}"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><span>{{ r.name }}<small>Saver from {{ r.saver_from|inr }}</small></span></a>{% endfor %}
+      <a href="{% url 'affordable' %}"><span class="hbadge hbadge--sm">{% icon "wallet" %}</span><span>On a budget<small>The affordable Himalaya</small></span></a></div>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="tiers">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Pick your price, keep the valley</p><h2 class="d-1">Every trip comes in three tiers</h2>
+      <p class="lede">Same valleys, same altitude rules, same planner. What changes is how you move, where you sleep and what you spend.</p></div></div>
+    <div class="tiers">
+      {% for t in tiers %}<div>
+        <span class="tier tier--{{ t.slug }}" style="align-self:start">{{ t.name }}</span>
+        <p class="tiers__from"><small>Trips from, per person</small>{{ t.from|inr }}</p>
+        <p class="muted" style="margin:0">{{ t.long }}</p>
+        <ul>{% for j in t.examples %}<li><a href="{{ j.url }}"><span>{{ j.title }}</span><span>{{ j.price_from_inr|inr }}</span></a></li>{% endfor %}</ul>
+        <a class="link" href="{% url 'tier' t.slug %}">All {{ t.name }} trips {% icon "arrow" %}</a>
+      </div>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="affordable">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The affordable Himalaya</p><h2 class="d-1">Real trips, small budgets</h2>
+      <p class="lede">State buses, shared jeeps, homestays and government rest houses. Prices are per person from the start point, indicative 2026, with the trade-offs written down.</p></div>
+      <a class="btn btn--ink" href="{% url 'affordable' %}">See the budget section</a></div>
+    <div class="bands">
+      {% for b in bands %}<div class="band">
+        <p class="eyebrow" style="color:#6B3F00">Saver trips</p>
+        <h3>{{ b.label }}</h3>
+        <ul>{% for j in b.trips %}<li><a href="{{ j.url }}"><b>{{ j.title }}</b><span>{{ j.price_from_inr|inr }}</span><small>{{ j.region_obj.name }} · {{ j.nights }} nights · {{ j.transport|truncatechars:48 }}</small></a></li>{% empty %}<li class="small">New trips at this price are being added. Ask us for one.</li>{% endfor %}</ul>
+        <a class="link" style="color:#6B3F00;margin-top:auto" href="{% url 'affordable_under' b.amount %}">Every trip {{ b.label|lower }} {% icon "arrow" %}</a>
+      </div>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Good in {{ month }}</p><h2 class="d-1">Where the weather works now</h2></div>
+      <a class="link" href="{% url 'tool_season' %}">Season finder {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for p in in_season %}{% include "hives/partials/card_place.html" %}{% endfor %}{% include "hives/partials/fill.html" %}</div>
+  </div>
+</section>
+
+{% if notes %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Field notes</p><h2 class="d-1">What the brochures leave out</h2>
+      <p class="lede">Small, true facts from inside each hive, with the source named so you can check. They change each day.</p></div>
+      <a class="link" href="{% url 'field_notes' %}">Every field note {% icon "arrow" %}</a></div>
+    <div class="notes">{% for n in notes %}{% include "hives/partials/note.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if words %}<section class="ground sec--tight" style="padding:28px 0" aria-label="Say it like a local">
+  <div class="words"><div class="words__track">{% for w in words %}<div class="word" data-land="{{ w.region.slug }}"><small>{{ w.language }} · {{ w.region.name }}</small><b class="foil-text">{{ w.word }}</b><span>{{ w.meaning }}</span></div>{% endfor %}{% for w in words %}<div class="word" aria-hidden="true" data-land="{{ w.region.slug }}"><small>{{ w.language }} · {{ w.region.name }}</small><b class="foil-text">{{ w.word }}</b><span>{{ w.meaning }}</span></div>{% endfor %}</div></div>
+</section>{% endif %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Planners' picks</p><h2 class="d-1">One trip from each hive</h2></div>
+      <a class="link" href="{% url 'journeys' %}">Every trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for j in featured %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" %}</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="almanac">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The almanac</p><h2 class="d-1">Which hive, which month</h2>
+      <p class="lede">Dark cells are the best months, pale cells are good, empty cells are closed or hard. A ₹ marks months when rooms and transport cost least.</p></div>
+      <a class="link" href="{% url 'seasons' %}">Open the almanac {% icon "arrow" %}</a></div>
+    <div class="alm"><table>
+      <thead><tr><th></th>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for row in almanac %}<tr data-land="{{ row.r.slug }}"><th scope="row"><a href="{{ row.r.url }}"><span class="hbadge hbadge--sm">{% icon row.r.slug %}</span>{{ row.r.name }}</a></th>
+        {% for c in row.cells %}<td><a href="{% url 'region_month' row.r.slug c.m|lower %}" class="alm__c" data-v="{{ c.v }}" data-p="{{ c.price }}" title="{{ row.r.name }} in {{ c.m }}: {% if c.v == 2 %}best{% elif c.v == 1 %}good{% else %}hard or closed{% endif %}{% if c.price %}, {{ c.price }} prices{% endif %}"><span class="sr-only">{{ row.r.name }} in {{ c.m }}</span></a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <div class="alm__key"><span><i style="background:#2B2012"></i>Best</span><span><i style="background:#E8C98A"></i>Good</span><span><i></i>Hard or closed</span><span>₹ lowest prices</span></div>
+  </div>
+</section>
+
+{% if festivals %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Coming up</p><h2 class="d-1">Festivals in the next two months</h2></div><a class="link" href="{% url 'festivals' %}">Festival calendar {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for f in festivals %}<a class="cell" href="{{ f.url }}" data-land="{{ f.region }}" data-item>
+      <div class="cell__ph">{% with img=f|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "festival" %}</span></div>
+      <div class="cell__body"><span class="readout">{{ f.region_obj.name }} · {{ f.when|truncatechars:42 }}</span><h3 class="cell__title">{{ f.name }}</h3><p class="cell__text">{{ f.summary|truncatechars:110 }}</p></div></a>{% endfor %}{% include "hives/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+{% if posts or guides %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Read before you go</p><h2 class="d-1">From the Field Desk</h2></div><a class="link" href="{% url 'journal' %}">The Journal {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for d in posts %}{% include "hives/partials/card_post.html" %}{% empty %}{% for g in guides %}{% include "hives/partials/card_guide.html" %}{% endfor %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

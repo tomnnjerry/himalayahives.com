@@ -1,0 +1,145 @@
+{
+  "slug": "chaukori",
+  "name": "Chaukori",
+  "region": "kumaon",
+  "kind": "village",
+  "wiki": "Chaukori",
+  "image_query": "Chaukori Panchachuli view Pithoragarh",
+  "lat": 29.83,
+  "lng": 80.07,
+  "altitude_m": 2010,
+  "tagline": "A quiet ridge facing Panchachuli, near the Patal Bhuvaneshwar cave",
+  "meta_description": "Chaukori guide: Panchachuli sunrise, Patal Bhuvaneshwar cave temple, Hat Kalika at Gangolihat, KMVN rest house, costs and how to reach from Almora.",
+  "summary": "Chaukori is a ridge village at about 2,010 m in Pithoragarh district, facing the Panchachuli, Nanda Kot and Nanda Devi peaks across the valleys. It is quiet, cheap and a natural halt between Almora and Munsiyari. Stay one or two nights to see sunrise and visit the Patal Bhuvaneshwar cave temple.",
+  "intro": [
+    "Chaukori lies in Berinag tehsil of Pithoragarh district, on a spur covered in oak, pine and orchards about 10 km from Berinag town. It is small: a few hundred households, a bazaar, a KMVN rest house and a scattering of guesthouses and homestays. What draws travellers is the view north, where the Panchachuli peaks, Nanda Kot and the Nanda Devi group fill the skyline at sunrise from October to March.",
+    "The village sits at a road junction called Udiyari Bend, where routes from Bageshwar and Kanda, from Almora via Seraghat, and from Thal and Munsiyari meet. That makes Chaukori the most sensible night's halt on the long drive to Munsiyari, breaking a 9–11 hour journey from Kathgodam into two easier days. Uttarakhand Roadways and shared jeeps pass through.",
+    "The country around is the old Gangoli region between the Saryu and Ramganga rivers, once ruled by its own Mankoti kings and later absorbed by the Chands. Its best-known sites are the Patal Bhuvaneshwar cave temple, a limestone cave 160 m long, and the Hat Kalika temple at Gangolihat in a deodar grove. Both are within 1.5 hours' drive of Chaukori."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Pantnagar (≈ 230 km · 8 h)"],
+    ["From Almora", "≈ 115 km · 4–4.5 h via Seraghat"],
+    ["Altitude", "about 2,010 m"],
+    ["Known for", "Panchachuli views, quiet stays, Patal Bhuvaneshwar"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Sunrise on Panchachuli", "text": "From the ridge near the KMVN rest house, the five Panchachuli summits catch the first light, with Nanda Kot and the Nanda Devi group to their west. October to February gives the clearest mornings; be outside 20 minutes before sunrise."},
+    {"title": "Patal Bhuvaneshwar cave", "text": "About 35–40 km away, a narrow passage leads down into a limestone cave about 160 m long and 90 feet deep, with rock formations worshipped as deities. Phones and cameras must usually be left outside."},
+    {"title": "Hat Kalika at Gangolihat", "text": "The temple of the goddess Kali at Gangolihat stands in a grove of deodar, with old temple remains and an inscribed stone well nearby. It is busy at Navratri and calm on weekday mornings."},
+    {"title": "Orchard and forest walks", "text": "Paths from Chaukori run through oak and pine forest, orchards and terraced villages. A morning walk with a local guide shows village life, naulas and birds such as barbets and laughingthrushes."},
+    {"title": "A cheap, quiet base", "text": "Chaukori is far from the crowds. KMVN rooms and homestays cost much less than the lake towns, meals are home-style, and evenings are silent apart from dogs and wind."}
+  ],
+  "field_notes": [
+    {"fact": "Chaukori's Udiyari Bend is a road knot: here routes from Kanda and Bageshwar, from Seraghat and Almora, and from Thal and Munsiyari meet, which is why it is the usual night halt on the way to Munsiyari.", "source": "Chaukori"},
+    {"fact": "Patal Bhuvaneshwar is a limestone cave about 160 m long and 90 feet deep from its entrance, reached by a narrow tunnel-like opening that leads to a series of caves within caves.", "source": "Patal Bhuvaneshwar"},
+    {"fact": "In 1821 Commissioner George William Traill reported that 373 people had been killed by tigers in the Gangoli area around Gangolihat in just three years; by the early 20th century the valleys had been cleared into farmland.", "source": "Gangolihat"}
+  ],
+  "local_word": {"word": "Buransh", "language": "Kumaoni", "meaning": "the red tree rhododendron that flowers on Chaukori's ridges in March and April"},
+  "costs": [
+    ["Shared jeep seat, Almora–Chaukori", "₹350–500"],
+    ["KMVN rest house double", "₹2,000–4,000 a night"],
+    ["Homestay double with meals", "₹1,500–3,000 per person"],
+    ["Taxi to Patal Bhuvaneshwar and back", "₹2,000–2,800"],
+    ["Patal Bhuvaneshwar entry and guide", "₹50–200 plus offerings"],
+    ["Home-style Kumaoni meal", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 230 km away, around 8 hours by road. Pithoragarh's small airport, about 85 km away, has had intermittent regional flights; check current status before you travel."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 200 km away, 7–8 hours via Almora and Seraghat or via Bageshwar. Most travellers break the journey in Almora. A private taxi from Kathgodam costs about ₹6,000–7,500."},
+    {"mode": "Road", "text": "Shared jeeps and Uttarakhand Roadways buses run from Almora, Bageshwar and Haldwani towards Berinag; change at Berinag for the last 10 km if needed. From Chaukori it is about 95 km and 4 hours to Munsiyari via Thal. Check current status before you travel in the monsoon."}
+  ],
+  "where_to_stay": "Saver: the KMVN tourist rest house is the best-known stay, set on the ridge with cottages that face Panchachuli; homestays in the village charge about ₹1,500–3,000 per person with meals. Comfort: a few private resorts and cottage stays with heating and larger rooms lie along the ridge road. There is no luxury hotel in Chaukori; comfort and signature trips use the best cottage available and keep it to one or two nights.",
+  "stays": [],
+  "tips": [
+    "Use Chaukori to split the Kathgodam–Munsiyari drive into two shorter days.",
+    "Book a room facing north; some rooms in the same property look at the road instead.",
+    "Phones and cameras are not allowed inside Patal Bhuvaneshwar; carry a small bag you can leave at the locker.",
+    "The cave passage is narrow and steep; people with knee problems or claustrophobia should think carefully.",
+    "Power cuts happen; carry a torch and charge devices when you can."
+  ],
+  "themes": ["photography", "homestays-and-villages", "pilgrimages", "road-trips"],
+  "nearby": ["munsiyari", "jageshwar", "kausani"],
+  "experiences": [
+    {
+      "slug": "chaukori-panchachuli-sunrise",
+      "title": "Panchachuli sunrise from the Chaukori ridge",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Sunrise, Oct–Mar",
+      "cost": "Free",
+      "image_query": "Panchachuli peaks sunrise Kumaon",
+      "wiki": "Panchachuli",
+      "summary": "Wake early and walk to the edge of the Chaukori ridge to watch first light hit Panchachuli's five summits and the long line of peaks to the west. It is the simplest reason to stop here, and on a clear winter morning one of the finest views in Kumaon.",
+      "body": [
+        "Panchachuli is a group of five peaks at the head of the Darma valley, the highest above 6,900 m. Local tradition links the name to the five chulhas, or cooking hearths, of the Pandavas on their last journey. From Chaukori they rise to the north-east, with Nanda Kot and the Nanda Devi group further west and the long Trishul ridge beyond.",
+        "Be outside 20 minutes before sunrise with a warm jacket. The highest summits catch pink light first and the colour moves down the faces over about 15 minutes. October to February gives the best chance of clear skies; from March haze builds, and in the monsoon the peaks are usually hidden.",
+        "The KMVN rest house grounds and the ridge road near it face the right way; ask your host for the best spot. A tripod helps in the half-light. After sunrise, walk the ridge for birds and morning village life before breakfast."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors", "solo"],
+      "faqs": [
+        {"q": "Which peaks can I see from Chaukori?", "a": "On a clear day you see the Panchachuli group, Nanda Kot, the Nanda Devi group and the Trishul ridge, spread across the northern horizon."},
+        {"q": "What is the best time for mountain views from Chaukori?", "a": "October to February, when the air is clear after the monsoon and winter western disturbances. Early mornings are best; clouds build by midday."},
+        {"q": "Why is it called Panchachuli?", "a": "The name means five cooking hearths. Local tradition says the Pandavas cooked their last meal here on their way to heaven, and the five peaks are their hearths."}
+      ]
+    },
+    {
+      "slug": "chaukori-patal-bhuvaneshwar-cave",
+      "title": "Down into the Patal Bhuvaneshwar cave",
+      "kind": "spiritual",
+      "duration": "Half day with the drive",
+      "best_time": "Morning, all year except heavy rain",
+      "cost": "Entry ₹50–200 plus offerings; taxi ₹2,000–2,800 return",
+      "image_query": "Patal Bhuvaneshwar cave temple",
+      "wiki": "Patal Bhuvaneshwar",
+      "summary": "A narrow, steep passage leads down into a limestone cave 160 m long and 90 feet deep, where priests guide pilgrims past rock formations identified with Shiva, Sheshnag and many deities. It is one of the most unusual shrines in the Himalaya.",
+      "body": [
+        "Patal Bhuvaneshwar lies in the village of Bhubneshwar, 14 km from Gangolihat. The entrance is a slit in the hillside. You climb down a steep, narrow passage with chains to hold, sometimes crouching, before the cave opens into a series of chambers. The cave is lit electrically, and priests lead groups in turns.",
+        "Inside, stalactites and stalagmites formed by flowing water are identified with gods and stories: the hood of Sheshnag, the matted hair of Shiva, and stones linked to the four ages. Tradition says King Rituparna of Ayodhya first found the cave, and that Adi Shankaracharya revived its worship. The Skanda Purana's Manaskhand describes the site.",
+        "Phones, cameras and leather items must usually be left outside in lockers. The air inside is humid and the floor wet, so wear shoes you can remove easily and clothes you do not mind marking. The descent is not suitable for people with severe claustrophobia, heart conditions or knee problems; talk to your doctor if unsure."
+      ],
+      "good_for": ["families", "students", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How far is Patal Bhuvaneshwar from Chaukori?", "a": "About 35–40 km, roughly 1.5 hours by road via Berinag and Gangolihat side roads. A taxi for the round trip costs about ₹2,000–2,800."},
+        {"q": "Can I take photos inside Patal Bhuvaneshwar?", "a": "No. Phones and cameras must usually be deposited outside before you enter. Follow the rules at the counter."},
+        {"q": "Is Patal Bhuvaneshwar safe for seniors?", "a": "The entrance is steep and narrow, with chains to hold and some crouching. Active seniors manage with help, but those with knee, heart or breathing problems should avoid it. Talk to your doctor if unsure."}
+      ]
+    },
+    {
+      "slug": "chaukori-ridge-village-walk",
+      "title": "Ridge and village walk from Chaukori",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "Morning, Oct–May",
+      "cost": "Guide ₹800–1,500",
+      "image_query": "Chaukori village terraces Kumaon",
+      "wiki": "",
+      "summary": "Walk from the Chaukori ridge through oak and pine forest and orchards to nearby hamlets, past terraced fields, naulas and stone houses, with the Panchachuli peaks behind you. It is an easy morning that shows how Gangoli villages live.",
+      "body": [
+        "The Gangoli region between the Saryu and Ramganga rivers was once forest notorious for tigers; by the early 20th century it had become a farming area known for grain, ghee, walnuts and oranges. Around Chaukori you still see terraced fields of wheat, mandua and potatoes, small orchards and cattle sheds below stone houses.",
+        "Walk with a guide from the village, who will choose a loop suited to your pace and the season. You will pass naulas, small shrines to local deities and families working in the fields. In March and April buransh flowers colour the forest; in winter the fields are bare and the views clear.",
+        "Keep to field edges, ask before photographing people and homes, and accept tea if offered with thanks. Birdlife is good in the forest edges: look for barbets, laughingthrushes and minivets. Wear shoes with grip, as paths are stony and steep in parts."
+      ],
+      "good_for": ["families", "photographers", "students", "couples"],
+      "faqs": [
+        {"q": "Are there walking trails around Chaukori?", "a": "Yes, footpaths link Chaukori with nearby villages through forest, orchards and fields. They are not marked, so a local guide is useful."},
+        {"q": "How hard is the Chaukori village walk?", "a": "Easy to moderate. Most loops take about 3 hours on stony paths with some climbs. Wear good shoes and carry water."},
+        {"q": "Can I visit a village home near Chaukori?", "a": "Guides often know families who welcome visitors for tea. Ask first, do not enter homes without invitation, and offer to pay or buy produce."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Chaukori worth visiting?", "a": "Yes, for quiet and views. Chaukori has a clear north-facing view of Panchachuli and Nanda Devi, cheap stays and few tourists. It is also the best halt between Almora and Munsiyari. There is little to do beyond walks and nearby temples."},
+    {"q": "How far is Chaukori from Munsiyari?", "a": "About 95 km, 4 hours by road via Thal and Birthi. Shared jeeps run from Berinag and Thal towards Munsiyari."},
+    {"q": "How do I reach Chaukori from Delhi?", "a": "Take a train to Kathgodam, then a taxi or shared transport to Almora, and on to Chaukori via Seraghat, about 4 more hours. Most travellers break the journey in Almora or Kausani."},
+    {"q": "What is the best time to visit Chaukori?", "a": "October to February for clear Panchachuli views, and March to June for pleasant weather and rhododendrons. Avoid July and August, when landslides affect the roads."},
+    {"q": "Where should I stay in Chaukori?", "a": "The KMVN rest house is the best-known stay, with ridge cottages facing the peaks. Homestays and small resorts are also available. Book north-facing rooms."},
+    {"q": "Is there network in Chaukori?", "a": "Jio and BSNL work in most of the village, and Airtel in parts. Speeds can be slow. Download what you need before leaving Almora."},
+    {"q": "How many days do I need in Chaukori?", "a": "One night is enough as a halt to Munsiyari; two nights lets you visit Patal Bhuvaneshwar and Gangolihat and see two sunrises."},
+    {"q": "Does it snow in Chaukori?", "a": "Light snow falls in some winters between late December and February. Nights are cold from November to March, often near freezing."},
+    {"q": "Is Chaukori good for families?", "a": "Yes, for families who like quiet. Children enjoy the cave at Patal Bhuvaneshwar if they are comfortable with narrow spaces. There are no amusements, so bring books and games."}
+  ]
+}

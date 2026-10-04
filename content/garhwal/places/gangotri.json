@@ -1,0 +1,145 @@
+{
+  "slug": "gangotri",
+  "name": "Gangotri",
+  "region": "garhwal",
+  "kind": "pilgrimage town",
+  "wiki": "Gangotri",
+  "image_query": "Gangotri temple Bhagirathi river",
+  "lat": 30.994,
+  "lng": 78.941,
+  "altitude_m": 3100,
+  "tagline": "The Ganga's temple town, and the trail to its glacier source",
+  "meta_description": "Gangotri guide: temple timings and season, Gaumukh trek permits and daily cap, Bhojbasa, Uttarkashi buses, costs, acclimatisation and where to stay.",
+  "summary": "Gangotri is the temple town of the goddess Ganga at about 3,100 m on the Bhagirathi, one of the four Char Dham, reachable by road and open from Akshaya Tritiya to the day after Diwali. From here a permit-only trail runs 18 km to Gaumukh, the snout of the Gangotri Glacier. One night for the temple, three or four for Gaumukh.",
+  "intro": [
+    "Gangotri is a small town of ashrams, dharamshalas and shops strung along the Bhagirathi where it pours through a granite gorge. At its heart stands the white temple of the goddess Ganga, first built by the Gorkha general Amar Singh Thapa during Nepal's occupation of Garhwal and restored in the nineteenth century. Near the river is the rock where King Bhagiratha is said to have meditated to bring the Ganga down to earth, which is why the river here bears his name.",
+    "The river does not technically become the Ganga until it meets the Alaknanda at Devprayag, but for pilgrims Gangotri is its source and its seat. Families come to bathe in the icy water, to perform rites for ancestors on the ghats and to carry home sealed cans of Gangajal. The temple is open from Akshaya Tritiya in late April or May until Govardhan Puja after Diwali, when the goddess is carried down to Mukhba near Harsil for the winter.",
+    "Gangotri is also the gate to Gangotri National Park. The trail to Gaumukh, the glacier snout at about 4,000 m, runs 18 km up the valley past Chirbasa and Bhojbasa, with Bhagirathi and Shivling peaks rising ahead. Entry is by permit with a daily cap, and a guide is required. Even if you do not trek, a night in Gangotri, with the evening aarti on the river and stars over the gorge, is one of the yatra's quiet rewards."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, Sep – Oct"],
+    ["Nights we suggest", "1 (temple); 3–4 with Gaumukh"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 245 km · 8–9 h"],
+    ["From Uttarkashi", "≈ 100 km · 4 h"],
+    ["Altitude", "≈ 3,100 m (Gaumukh ≈ 4,000 m)"],
+    ["Known for", "Gangotri temple, Bhagiratha's rock, Gaumukh trek, Gangotri National Park"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 0, 1, 2, 2, 1, 0],
+  "nights": "1–4",
+  "highlights": [
+    {"title": "Gangotri temple and aarti", "text": "The white temple of the goddess Ganga opens at dawn and holds an evening aarti on the riverbank as light leaves the gorge. Crowds are lighter than at Kedarnath and Badrinath, and darshan rarely takes more than an hour outside the opening weeks."},
+    {"title": "Bhagiratha's rock", "text": "Beside the temple, a flat rock by the river marks where King Bhagiratha is believed to have performed penance to bring the Ganga to earth for his ancestors. Pilgrims offer flowers here and perform rites on the ghats nearby."},
+    {"title": "The Gaumukh trail", "text": "An 18 km trail from Gangotri to the snout of the Gangotri Glacier, via Chirbasa and Bhojbasa, with views of the Bhagirathi peaks and Shivling. Permits, a daily cap of 150 trekkers and a mandatory guide apply; check current status before you travel."},
+    {"title": "Surya Kund falls", "text": "A few minutes from the temple, the Bhagirathi crashes into a narrow, polished granite chasm at Surya Kund. A footbridge gives a view straight down into the gorge. Hold children's hands; the rocks are smooth and wet."},
+    {"title": "Pandav Gufa walk", "text": "A gentle 1.5 km riverside path through deodar from Gangotri to Pandav Gufa, a cave where the Pandavas are said to have meditated. Good for a first acclimatisation walk on arrival."}
+  ],
+  "field_notes": [
+    {"fact": "The original Gangotri temple was built by the Nepalese general Amar Singh Thapa, during the Gorkha occupation of Garhwal, and restored later in the nineteenth century. Its rituals are supervised by the Semwal family of priests from Mukhba village.", "source": "Gangotri"},
+    {"fact": "The first recorded European visit to Gaumukh was made by John Hodgson and James Herbert on 31 May 1817. In 1937 the geologist J. B. Auden published the first scientific map of the Gangotri Glacier and its snout.", "source": "Gomukh"},
+    {"fact": "Gangotri National Park, created in 1989, covers about 1,553 km² of the upper Bhagirathi and links Govind National Park with Kedarnath Wildlife Sanctuary. Snow leopard, blue sheep, Himalayan tahr and musk deer live within it.", "source": "Gangotri National Park"}
+  ],
+  "local_word": {"word": "Gaumukh", "language": "Hindi / Sanskrit", "meaning": "cow's mouth; the name of the Gangotri Glacier's snout, after the shape of its ice cave"},
+  "costs": [
+    ["UTC or GMOU bus, Uttarkashi to Gangotri", "₹200–350"],
+    ["Gaumukh permit (Indians / foreigners)", "≈ ₹150 / ₹600 per person"],
+    ["Registered guide for Gaumukh, per day", "₹1,500–3,000"],
+    ["GMVN or ashram dorm bed in Gangotri", "₹300–800 a night"],
+    ["Double room in a Gangotri lodge, peak", "₹1,500–4,000"],
+    ["Thali at a Gangotri dhaba", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and GMOU buses run from Rishikesh and Dehradun to Uttarkashi, about 6 hours, and some go on to Gangotri, about 250 km and 9–10 hours in all. Shared jeeps link Uttarkashi and Gangotri in season."},
+    {"mode": "Road", "text": "By car from Rishikesh, take the route via Chamba, Dharasu, Uttarkashi and Harsil, about 250 km and 9–10 hours. The road beyond Gangnani has slide zones; drive in daylight and check current status before you travel."},
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is the nearest commercial airport. Helicopter Char Dham charters land at Harsil for Gangotri; seats are costly and weather-dependent."}
+  ],
+  "where_to_stay": "Saver: GMVN runs a tourist rest house in Gangotri, and ashrams and dharamshalas near the temple offer dorm beds and simple rooms at ₹300–1,500. Comfort: Gangotri's private lodges are basic; for warmer, quieter rooms we book Harsil, 25 km below, and drive up for darshan. On the Gaumukh trail, GMVN and ashram accommodation at Bhojbasa is simple and must be arranged in advance. There is no luxury hotel in this valley.",
+  "stays": [],
+  "tips": [
+    "Register for the Char Dham before setting out; checkposts on the Uttarkashi road verify registration.",
+    "Book Gaumukh permits early in peak months; the cap of 150 trekkers a day fills quickly.",
+    "Sleep at Harsil or Gangotri for a night before starting the Gaumukh trek to acclimatise.",
+    "Do not bathe in the main current; the Bhagirathi is fast and ice-cold, so use the ghats with chains.",
+    "Carry your plastic back down: Gangotri National Park checks and fines non-biodegradable waste on the Gaumukh trail."
+  ],
+  "themes": ["pilgrimages", "treks-and-walks", "road-trips"],
+  "nearby": ["harsil", "yamunotri", "kedarnath"],
+  "experiences": [
+    {
+      "slug": "gangotri-temple-evening-aarti",
+      "title": "Evening aarti on the Bhagirathi at Gangotri",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Sunset, May–Oct",
+      "cost": "Free",
+      "image_query": "Gangotri temple aarti evening",
+      "wiki": "Gangotri",
+      "summary": "Watch the evening aarti of the goddess Ganga at her temple and on the riverbank as the gorge falls into shadow, then walk to Bhagiratha's rock and Surya Kund in the last light.",
+      "body": [
+        "Gangotri's temple is a modest white stone building with a gilded top, set back from the river in a courtyard. The image of the goddess Ganga inside is attended by the Semwal priests from Mukhba. The evening aarti, with lamps, bells and chanting, is held at the temple and on the steps above the Bhagirathi; pilgrims float small leaf boats with flames on the water.",
+        "Arrive 30 minutes before sunset to find a place on the steps. Outside the opening and closing weeks, crowds are manageable and the mood is calm. After the aarti, walk a few metres to Bhagiratha's rock, where the king is said to have performed his penance, and on to Surya Kund, where the river plunges through a narrow granite chasm with a roar you feel in your chest.",
+        "Nights at 3,100 m are cold, even in June, so wear warm layers. Photography of the aarti from the steps is usually fine; keep it discreet, and do not photograph inside the sanctum. Many pilgrims buy sealed cans of Gangajal from shops near the temple to carry home. If you are heading to Gaumukh, this is a good evening to rest and drink plenty of water."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "What are Gangotri temple timings?", "a": "The temple usually opens around 6 am and closes around 9 pm, with a break in the early afternoon. The evening aarti is held around sunset. Timings vary by season; confirm locally on arrival."},
+        {"q": "When does Gangotri temple open and close?", "a": "It opens on Akshaya Tritiya, usually in late April or early May, and closes on Govardhan Puja, the day after Diwali. The goddess then moves to Mukhba near Harsil for winter. Check current status before you travel."},
+        {"q": "Can I bathe in the Ganga at Gangotri?", "a": "Yes, at the ghats near the temple, holding the chains provided. The water is close to freezing and very fast. Take a quick dip only, never enter the main current, and keep children back from the edge."}
+      ]
+    },
+    {
+      "slug": "gaumukh-trek-gangotri-glacier",
+      "title": "Trek to Gaumukh, the Gangotri Glacier snout",
+      "kind": "trek",
+      "duration": "3–4 days return",
+      "best_time": "May–Jun and Sep–Oct",
+      "cost": "Permit ≈ ₹150 Indians, ₹600 foreigners; guide ₹1,500–3,000 a day",
+      "image_query": "Gaumukh Gangotri Glacier snout",
+      "wiki": "Gomukh",
+      "summary": "An 18 km trail inside Gangotri National Park from Gangotri via Chirbasa and Bhojbasa to Gaumukh, the ice cliff where the Bhagirathi emerges at about 4,000 m. Permits, a mandatory guide and a cap of 150 trekkers a day keep it quiet.",
+      "body": [
+        "Gaumukh means cow's mouth, after the shape the ice cave once had. It is the snout of the Gangotri Glacier, one of the largest in the Himalaya, and the source of the Bhagirathi. The trail leaves Gangotri past the national park checkpost and climbs gently along the valley side through birch and pine to Chirbasa, about 9 km, then over open slopes to Bhojbasa, about 14 km, where most trekkers sleep.",
+        "From Bhojbasa it is about 4 km over moraine to the viewpoint below the snout. The ice face is grey with debris, and the river surges out from beneath it. The glacier has retreated over the past century, and parts of the snout can collapse without warning, so stay well back from the ice. On clear mornings, Shivling and the Bhagirathi peaks stand above the glacier.",
+        "Permits are issued by Gangotri National Park, online or at the Uttarkashi and Gangotri offices, with a daily cap of 150 trekkers. A registered guide, insurance and a medical fitness certificate have been required in recent seasons; check current status before you travel. Accommodation at Bhojbasa is limited to GMVN and ashram beds and must be planned. Altitude is serious here: acclimatise at Harsil and Gangotri first."
+      ],
+      "good_for": ["students", "solo", "photographers"],
+      "faqs": [
+        {"q": "How many people are allowed on the Gaumukh trek daily?", "a": "Gangotri National Park caps entry at 150 trekkers a day for Gaumukh and beyond. Permits are issued online and at forest offices in Uttarkashi and Gangotri. The cap and process can change; check current status before you travel."},
+        {"q": "Is a guide mandatory for Gaumukh?", "a": "In recent seasons the park has required a registered guide, insurance and a medical fitness certificate for the Gaumukh and Tapovan treks. Confirm current rules with the park office or a licensed operator in Uttarkashi before you plan."},
+        {"q": "How difficult is the Gaumukh trek?", "a": "Moderate. The distance is 18 km each way with a gentle gradient, but you reach about 4,000 m and the last section crosses rough moraine. Most people take 3–4 days return with nights at Bhojbasa. Talk to your doctor if you have heart or lung conditions."}
+      ]
+    },
+    {
+      "slug": "gangotri-pandav-gufa-riverside-walk",
+      "title": "Riverside walk to Pandav Gufa",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Morning, May–Oct",
+      "cost": "Free",
+      "image_query": "Gangotri Bhagirathi gorge deodar",
+      "wiki": "",
+      "summary": "A gentle 1.5 km walk downstream from Gangotri through deodar and boulders to Pandav Gufa, a rock cave linked with the Pandavas. Ideal for acclimatising on arrival or for a quiet morning away from the temple crowds.",
+      "body": [
+        "The path to Pandav Gufa leaves Gangotri and follows the Bhagirathi downstream through a forest of deodar and pine. It is mostly level, with a few rocky steps, and takes 30–40 minutes each way at an easy pace. The river is loud and milky-blue here, cutting between polished granite walls.",
+        "Pandav Gufa is a natural rock shelter where, in local tradition, the Pandavas meditated on their way to the high Himalaya. Sadhus sometimes live in and around the cave, and there may be a small fire or shrine; greet them politely and do not photograph them without asking. A donation is customary if you are offered tea.",
+        "The walk is a good first outing on arrival: gentle exercise at 3,000 m helps the body adjust. Carry water and a warm layer, as the forest is shaded and cool. Stay on the path and away from the river edge; the rocks are slippery and the current is lethal. Come back the same way, ideally in time for lunch and a rest before the evening aarti."
+      ],
+      "good_for": ["families", "seniors", "couples", "first-timers"],
+      "faqs": [
+        {"q": "How far is Pandav Gufa from Gangotri?", "a": "About 1.5 km downstream along a forest path, 30–40 minutes each way at an easy pace. It is mostly level with a few rocky steps, suitable for children and fit seniors."},
+        {"q": "Is the Pandav Gufa walk good for acclimatisation?", "a": "Yes. A gentle walk on your first afternoon in Gangotri, at about 3,000–3,100 m, helps your body adjust before the Gaumukh trek or the drive back down. Keep the pace easy and drink water."},
+        {"q": "Can I visit sadhus at Pandav Gufa?", "a": "Sadhus sometimes stay near the cave. Visitors may greet them respectfully, but do not photograph them without permission or expect them to perform. A small donation is customary if you are offered tea."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Gangotri from Rishikesh?", "a": "By bus, take a UTC or GMOU bus to Uttarkashi (6 hours, ₹300–450) and another bus or shared jeep to Gangotri (4 hours, ₹200–350). By car, it is about 250 km and 9–10 hours via Chamba, Uttarkashi and Harsil. Start early and avoid driving after dark."},
+    {"q": "Is Gangotri reachable by road?", "a": "Yes. Unlike Kedarnath and Yamunotri, Gangotri temple is a short walk from the road head, which makes it the easiest of the four dhams for seniors. The road can close after landslides in monsoon; check current status before you travel."},
+    {"q": "When is the best time to visit Gangotri?", "a": "May to June and mid-September to October. The temple opens around late April or May and closes after Diwali. July and August bring heavy rain and road blockages. October has the clearest skies and fewest crowds."},
+    {"q": "How many days do I need for Gangotri?", "a": "One night is enough for darshan, the aarti and Surya Kund. For the Gaumukh trek, add 3–4 nights, including a night at Harsil or Gangotri to acclimatise before starting."},
+    {"q": "Is there mobile network and ATM in Gangotri?", "a": "BSNL and Jio usually work in Gangotri town, though weakly. There is no reliable ATM; draw cash in Uttarkashi. On the Gaumukh trail there is no network beyond the first few kilometres."},
+    {"q": "Do I need a permit for Gangotri?", "a": "No separate permit is needed for Gangotri town and temple, but Char Dham registration is mandatory. Gaumukh and treks beyond need a Gangotri National Park permit. Check current status before you travel."},
+    {"q": "Can I combine Gangotri and Yamunotri?", "a": "Yes. Most Char Dham itineraries do Yamunotri first, then cross to Uttarkashi for Gangotri. Barkot to Uttarkashi is about 100 km and 4 hours. A two-dham trip of Yamunotri and Gangotri takes 5–6 nights from Rishikesh."},
+    {"q": "Is Gangotri safe for solo women?", "a": "Yes. It is a pilgrim town with families, ashrams and police presence in season. Stay in GMVN or ashram accommodation, walk in daylight and share plans with someone. On the Gaumukh trail, the required guide adds another layer of safety."},
+    {"q": "Will I feel the altitude at Gangotri?", "a": "At about 3,100 m, many people feel short of breath on steps and sleep poorly on the first night, especially after a long drive from the plains. Breaking the journey at Uttarkashi or Harsil helps. Drink water, avoid alcohol and talk to your doctor about precautions."}
+  ]
+}

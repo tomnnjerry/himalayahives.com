@@ -1,0 +1,145 @@
+{
+  "slug": "sittong",
+  "name": "Sittong",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "Sittong",
+  "image_query": "Sittong orange village Darjeeling",
+  "lat": 26.937,
+  "lng": 88.367,
+  "altitude_m": 1200,
+  "tagline": "Orange orchards and homestays in the Riyang valley",
+  "meta_description": "Sittong guide: Darjeeling's orange village in the Riyang valley, homestays, Mungpoo's Tagore museum and Latpanchar birding, with 2026 costs.",
+  "summary": "Sittong is a cluster of farming villages at about 1,200 m in the Riyang river valley, 24 km below Kurseong. It is the heart of Darjeeling's orange country; trees ripen from late November to January. Stay 2 nights in a family homestay, walk the orchards and visit Mungpoo's Tagore house.",
+  "intro": [
+    "Sittong is not a town but a spread of hamlets on the slopes of the Riyang river valley, east of Kurseong. Houses sit among terraces of maize, cardamom and ginger, and almost every courtyard has orange trees. From late November the trees turn gold with Darjeeling mandarin oranges, and the villages earn the name visitors give them: the orange village.",
+    "Many families here are Lepcha, and the valley has a long farming history. Nearby Mungpoo was chosen in 1862 for the government's cinchona plantations, grown to make quinine against malaria, and the Directorate of Cinchona still runs plantations across these slopes. The directorate has also organised an orange festival in Sittong in December in some years, with talks on cultivation and local performances; check current status before you travel.",
+    "Sittong suits travellers who want to slow down. Days start with a walk through the orchards, continue with a drive to Mungpoo's Rabindra Bhavan or to Latpanchar's forest for birds, and end around a homestay kitchen. Roads are narrow and steep, and some stretches are rough. Phone signal is patchy. Bring cash and patience."
+  ],
+  "facts": [
+    ["Best months", "Nov – Jan for oranges; Mar – Apr, Oct"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 70 km · 3 h"],
+    ["From Kurseong", "≈ 24 km · 1.5 h"],
+    ["Altitude", "≈ 1,200 m"],
+    ["Known for", "Orange orchards, Lepcha homestays, Mungpoo, Latpanchar birding"]
+  ],
+  "best_months": [2, 1, 1, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Orange harvest walks", "text": "From late November to January, walk between village houses and terraced orchards heavy with mandarin oranges. Families pick by hand into baskets. Your homestay host can arrange a walk through their own trees and those of neighbours, with fruit straight from the branch."},
+    {"title": "Rabindra Bhavan at Mungpoo", "text": "About 20 km from Sittong, Mungpoo's Rabindra Bhavan is the bungalow where Rabindranath Tagore stayed between 1938 and 1940 as the guest of the writer Maitreyi Devi. It now displays his photographs, writings and furniture."},
+    {"title": "Cinchona plantations", "text": "The slopes between Sittong, Mungpoo and Latpanchar are planted with cinchona, the tree whose bark yields quinine. The government began commercial cultivation at Mungpoo in 1862. Rows of trees and the old plantation buildings are visible from the road."},
+    {"title": "Latpanchar and Mahananda forest", "text": "Latpanchar, about 7 km from Sittong, sits on the edge of Mahananda Wildlife Sanctuary. Birders come for forest species including hornbills. Morning walks with a local guide give the best chance of sightings."},
+    {"title": "The Riyang river", "text": "Below the villages, the Riyang river runs over boulders between forested banks. A walk down to the water and back takes a couple of hours. In the dry months the pools are clear; avoid the riverbed in the monsoon."}
+  ],
+  "field_notes": [
+    {"fact": "Sittong lies in the Riyang river valley in the heart of Darjeeling's orange-growing area, about 20 km from Mungpoo and 13 km from Mahananda Wildlife Sanctuary.", "source": "Sittong"},
+    {"fact": "Dr Thomas Anderson of the Royal Botanical Garden, Calcutta, chose the Mungpoo hills in 1862 for commercial cinchona cultivation to produce quinine. Plantations later spread to Munsong, Rongo, Latpanchar and Ambotia.", "source": "Mangpu"},
+    {"fact": "Rabindranath Tagore visited Mungpoo often between 1938 and 1940, staying with Maitreyi Devi, whose husband ran the quinine factory. Their bungalow is now the Rabindra Bhavan museum.", "source": "Mangpu"}
+  ],
+  "local_word": {"word": "Suntala", "language": "Nepali", "meaning": "orange; the fruit that gives Sittong its fame"},
+  "costs": [
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Reserved car, NJP to Sittong", "₹3,000–4,000"],
+    ["Reserved car, Kurseong to Sittong", "₹1,800–2,500"],
+    ["Local guide for a birding walk, half day", "₹800–1,500"],
+    ["Oranges from an orchard family, per dozen", "₹100–250 in season"],
+    ["Rabindra Bhavan entry", "Free or small fee"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bagdogra Airport is about 70 km away, around 3 hours by car via Sevoke and Latpanchar or via Kurseong. A reserved car costs about ₹3,500–4,500."},
+    {"mode": "Rail", "text": "New Jalpaiguri (NJP) is the nearest railway station, roughly 60 km and 2.5–3 hours by road. Your homestay can arrange pickup."},
+    {"mode": "Road", "text": "Shared jeeps to Sittong are few and irregular, usually from Kurseong or Siliguri in the morning. Most travellers hire a car. From Kurseong the road runs about 24 km via Dilaram and Bagora, roughly 1.5 hours. Roads are narrow; check current status in the monsoon."}
+  ],
+  "where_to_stay": "Sittong is a homestay village. Saver and comfort travellers stay with families in Lepcha and Nepali homes, in simple rooms with shared or attached bathrooms, at about ₹1,500–2,500 per person including dinner and breakfast. A few newer homestays have larger rooms and orchard views at slightly higher rates. There is no luxury hotel; signature travellers usually stay in Kurseong at Taj Chia Kutir or Cochrane Place and visit on a day trip. Book through a known operator, since many homes have no website.",
+  "stays": [],
+  "tips": [
+    "Visit in December for the fullest orange trees; late November and January also work.",
+    "Hire a car rather than relying on shared jeeps, which are irregular on these roads.",
+    "Carry cash; there are no ATMs in Sittong and UPI depends on patchy signal.",
+    "Ask before picking fruit; every tree belongs to a family.",
+    "Bring a torch and warm layers; village evenings are dark and chilly in winter."
+  ],
+  "themes": ["homestays-and-villages", "food-and-tea", "wildlife-and-birds", "photography"],
+  "nearby": ["kurseong", "takdah", "darjeeling"],
+  "experiences": [
+    {
+      "slug": "sittong-orange-orchard-walk",
+      "title": "Orange orchard walk with a village family",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "Morning, late Nov–Jan",
+      "cost": "Usually included in homestay; fruit ₹100–250 a dozen",
+      "image_query": "Darjeeling mandarin orange orchard Sittong",
+      "wiki": "",
+      "summary": "Walk the terraces of Sittong with your homestay family in orange season, see how Darjeeling mandarins are grown and picked, taste fruit straight from the tree and learn what else the valley grows, from ginger to cardamom.",
+      "body": [
+        "Orange trees in Sittong grow around houses and on terraces between fields of maize and vegetables. From late November the fruit ripens, and families spend their days picking, sorting and packing it into baskets for traders who carry it down to Siliguri. Walk with your host in the morning, when the light is soft and the fruit is cold from the night.",
+        "Your host will show you how trees are pruned, how the family decides when fruit is ready, and how the harvest is divided between sale and home. Many families here also grow ginger, cardamom and seasonal vegetables. Ask questions; most hosts enjoy explaining their work, and the conversation is half the point.",
+        "Orange growing in the Darjeeling hills has faced disease and falling yields in recent decades, and farmers here talk openly about the challenges. Buying fruit directly from families helps. Pick only with permission, and do not wander into orchards without a host; every tree belongs to someone."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "When is the best time to see oranges in Sittong?", "a": "Late November to January, with December usually best. Before mid-November the fruit is still green, and after January most trees are picked. Weather varies year to year, so ask your homestay a week before you go."},
+        {"q": "Can I buy oranges to take home?", "a": "Yes. Families sell oranges by the dozen or in small crates, usually at lower prices than in Darjeeling or Siliguri. A dozen costs about ₹100–250 in season. Ripe fruit travels for a few days if kept cool and dry."},
+        {"q": "Is the orchard walk suitable for children and seniors?", "a": "Children enjoy it. Terraces are steep and paths can be slippery, so seniors should walk only the flatter stretches near the house, with a stick if needed. Wear shoes with grip and carry water."}
+      ]
+    },
+    {
+      "slug": "sittong-mungpoo-rabindra-bhavan",
+      "title": "Tagore's house and cinchona at Mungpoo",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "10 am–3 pm, Oct–May",
+      "cost": "Museum free or small fee; car ₹1,500–2,000 return",
+      "image_query": "Rabindra Bhavan Mungpoo",
+      "wiki": "Mangpu",
+      "summary": "Drive to Mungpoo, about 20 km from Sittong, to visit Rabindra Bhavan, the bungalow where Rabindranath Tagore stayed between 1938 and 1940, and see the cinchona plantations first set up here in 1862 to produce quinine.",
+      "body": [
+        "Mungpoo spreads across slopes between about 300 and 1,880 m. In 1862 Dr Thomas Anderson, superintendent of the Royal Botanical Garden in Calcutta, chose these hills for commercial cultivation of cinchona, a South American tree whose bark yields quinine, the drug that fought malaria across British India. The plantations still cover the slopes, and the quinine factory gave the settlement its shape.",
+        "Rabindranath Tagore came here several times between 1938 and 1940 to stay with the poet and novelist Maitreyi Devi, whose husband was the director of the quinine factory. She later wrote about those visits in a book translated as Tagore by the Fireside. Their bungalow is now Rabindra Bhavan, a museum with Tagore's photographs, paintings and writings, and furniture carved by his son Rathindranath.",
+        "The museum is small and quiet. Allow an hour, then drive back through the cinchona rows, stopping at roadside viewpoints. Bengali visitors come in numbers on Tagore's birth anniversary in May; other days are calm."
+      ],
+      "good_for": ["seniors", "families", "students", "couples"],
+      "faqs": [
+        {"q": "What are the visiting hours of Rabindra Bhavan, Mungpoo?", "a": "It usually opens in the daytime, roughly 10 am to 4 pm, and may close on some holidays. Hours change, so check current status before you travel. Allow about an hour inside."},
+        {"q": "How far is Mungpoo from Sittong and Darjeeling?", "a": "Mungpoo is about 20 km from Sittong, roughly 1 hour by road, and about 32 km from Darjeeling. It is about 52 km from Siliguri. Most visitors combine it with Sittong or a drive from Darjeeling towards Kalimpong."},
+        {"q": "Can I visit the cinchona factory?", "a": "The plantations and factory are run by the West Bengal government's Directorate of Cinchona and Other Medicinal Plants, and factory visits are not routinely open to tourists. You can see the plantations from the road. Ask locally if a visit is possible."}
+      ]
+    },
+    {
+      "slug": "sittong-latpanchar-birding-walk",
+      "title": "Birding walk at Latpanchar forest edge",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "6–10 am, Oct–Apr",
+      "cost": "Guide ₹800–1,500; car ₹800–1,200",
+      "image_query": "Latpanchar Mahananda Wildlife Sanctuary hornbill",
+      "wiki": "Mahananda Wildlife Sanctuary",
+      "summary": "Drive 7 km to Latpanchar, on the upper edge of Mahananda Wildlife Sanctuary, for a dawn birding walk with a local guide through forest and cinchona plantations, with a chance of hornbills and many hill species.",
+      "body": [
+        "Latpanchar is a small village and cinchona plantation on the ridge above the Mahananda Wildlife Sanctuary, which drops towards the plains near Sevoke. The mix of forest, plantation and open slopes draws a wide range of birds, and Latpanchar has become known among Indian birders, especially for hornbills that feed in fruiting trees in the cooler months.",
+        "Start at first light with a local guide who knows which trees are fruiting that week. Walks follow roads and forest edges rather than entering the sanctuary core, which needs separate permission. Expect barbets, bulbuls, sunbirds, drongos and laughingthrushes even on a quiet morning. Bring binoculars and keep voices low.",
+        "Sightings are never guaranteed. Mornings from October to April give the best chances, and mist can delay activity until the sun warms the slopes. Return to Sittong for a late breakfast. Do not use playback calls to attract birds, and keep to paths."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "Will I see hornbills at Latpanchar?", "a": "Possibly, but not certainly. Hornbills visit fruiting trees around Latpanchar mainly in the cooler months, and a local guide improves your chances. Go early and be patient. Many other species are easier to see on any morning."},
+        {"q": "Do I need a permit to birdwatch at Latpanchar?", "a": "Walking on public roads and village paths does not need a permit. Entering Mahananda Wildlife Sanctuary itself requires forest department permission and fees. Rules change, so check current status before you travel and follow your guide's advice."},
+        {"q": "What should I bring for birding?", "a": "Binoculars, a warm layer for dawn, water, and neutral-coloured clothes. A field guide or birding app helps. Leeches appear in the wet months, so wear long socks. Keep noise low and avoid playback calls."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Sittong and how do I get there?", "a": "Sittong is in the Riyang valley in the Kurseong subdivision of Darjeeling district, about 24 km from Kurseong and roughly 60 km from NJP. Most travellers hire a car from NJP, Siliguri or Kurseong, a 1.5 to 3 hour drive. Shared jeeps are few and irregular, so arrange transport through your homestay."},
+    {"q": "When is orange season in Sittong?", "a": "Oranges ripen from late November and are picked through January. December is usually the peak. Harvests vary with weather and tree health, so ask your homestay before you book. Outside orange season Sittong is still pleasant from October to April."},
+    {"q": "How much does a Sittong homestay cost?", "a": "Expect about ₹1,500–2,500 per person per night including dinner and breakfast, in simple rooms with home-cooked food. Rooms with attached bathrooms and views cost a little more. Book in advance for December. Prices are indicative 2026."},
+    {"q": "Is there mobile network in Sittong?", "a": "Coverage is patchy and depends on the network and your exact hamlet. Some homestays have Wi-Fi, which slows in bad weather. Tell family you may be offline, download maps in advance, and carry cash, since UPI may not work."},
+    {"q": "Is Sittong good for families with children?", "a": "Yes, if children are happy without malls and screens. Orchard walks, village animals and river trips keep them busy. Paths are steep and rooms simple. Carry basic medicines; the nearest hospital is in Kurseong or Siliguri."},
+    {"q": "Is the Sittong orange festival held every year?", "a": "The West Bengal Directorate of Cinchona and Other Medicinal Plants has organised an orange festival in Sittong in December, with seminars, demonstrations and cultural events. It is not held on fixed dates and may not run every year, so check current status before you travel."},
+    {"q": "Can I visit Sittong in the monsoon?", "a": "We do not recommend June to August. Heavy rain makes the narrow roads slippery and prone to small slides, leeches appear on paths, and there are no oranges. September can work towards the end, but October onwards is far better."},
+    {"q": "Is Sittong safe for solo travellers?", "a": "Yes. It is a quiet farming area, and homestay families look after guests. Solo women travellers should book homestays through known operators and share their plans. Avoid walking on forest roads after dark, mainly because of uneven ground and wildlife."},
+    {"q": "What else can I combine with Sittong?", "a": "Combine Sittong with Kurseong for tea gardens, Mungpoo for the Tagore house and Latpanchar for birding. With more time, continue to Takdah or Darjeeling. A 7-night village trip can link Sittong, Takdah and Lepchajagat by private car."}
+  ]
+}

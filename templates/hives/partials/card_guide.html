@@ -1,0 +1,9 @@
+{% load hives %}<a class="cell" href="{{ g.url }}" data-land="{{ g.region }}" data-item data-region="{{ g.region }}" data-cat="{{ g.category }}">
+  <div class="cell__ph">{% with img=g|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 33vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% else %}{% topo g.slug %}{% endif %}{% endwith %}
+    <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "book" %}</span></div>
+  <div class="cell__body">
+    <span class="readout">{{ g.region_obj.name }} · {{ g.category|capfirst }} · {{ g.read_min }} min read</span>
+    <h3 class="cell__title">{{ g.title }}</h3>
+    <p class="cell__text">{{ g.summary|truncatechars:125 }}</p>
+  </div>
+</a>

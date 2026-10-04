@@ -1,0 +1,145 @@
+{
+  "slug": "kaza",
+  "name": "Kaza",
+  "region": "spiti",
+  "kind": "town",
+  "wiki": "Kaza, Himachal Pradesh",
+  "image_query": "Kaza town Spiti valley",
+  "lat": 32.227,
+  "lng": 78.072,
+  "altitude_m": 3650,
+  "tagline": "Spiti's only town, base camp for every village loop",
+  "meta_description": "Kaza travel guide: altitude 3,650 m, HRTC buses from Manali and Shimla, homestay and hotel prices, taxi rates for Key, Kibber and Langza, and when to go.",
+  "summary": "Kaza is the subdivisional headquarters of Spiti at 3,650 m and the only real town in the valley. It has the bus stand, the taxi union, ATMs, the only petrol pump and most of the cafes. Use it as a three-night base for Key, Kibber, Langza, Hikkim and Komic, and as your first acclimatisation stop.",
+  "intro": [
+    "Kaza sits on a wide gravel plain beside the Spiti river, 3,650 m up. It has two halves: Kaza Khas, the old village of flat-roofed mud houses, and Kaza Soma across the stream, where the government offices, hospital and newer hotels stand. Between them run a market street, a few dozen cafes and the yellow and red Sakya Tangyud monastery built in 2009. About 3,200 people live here year-round, and for half the year it is the only place in Spiti where a shop is open after dark.",
+    "For travellers, Kaza is where Spiti works. HRTC buses arrive from Manali and Reckong Peo, the taxi union posts its fixed rates outside its office, and local buses run up to Key, Kibber and Mudh. You can change money at the ATMs if they have cash, buy a woollen cap, refill water at cafes, and arrange a Pin Valley or Chandratal transfer. Zostel, Hotel Deyzor, Sakya Abode and The Grand Dewachen at nearby Rangrik cover every budget.",
+    "Use your first day here to do very little. Kaza is high enough that headaches and poor sleep are common on night one, particularly if you came from Manali in a single day. Walk to the monastery, drink water, eat early and sleep. On day two the village loops begin: Key and Kibber to the north, Langza, Hikkim and Komic on the plateau above town. Come back to Kaza each night until your body has adjusted."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep; May and Oct from the Shimla side"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 230 km"],
+    ["From Manali", "≈ 180–200 km · 9–11 h via Atal Tunnel and Kunzum La"],
+    ["Altitude", "3,650 m"],
+    ["Known for", "Base for Key, Kibber and Langza; cafes; the only petrol pump in Spiti"]
+  ],
+  "best_months": [1, 1, 0, 0, 1, 2, 2, 1, 2, 1, 0, 0],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Sakya Tangyud monastery", "text": "The large Sakya monastery in Kaza was built in 2009 and its courtyard is the town's open space for prayers and ceremonies. Walk around it clockwise, look at the painted entrance hall, and ask before photographing monks."},
+    {"title": "Old Kaza Khas lanes", "text": "Behind the market, Kaza Khas still has whitewashed mud houses with firewood stacked on the roofs for winter. Walk it early in the morning when families are drying grain and the light is low and gold across the valley."},
+    {"title": "Taxi union board", "text": "The Kaza taxi union posts fixed rates for every route, from the Key and Kibber loop to Chandratal and Manali. Check the board before you bargain, and come at 6–7 pm to find people to share a car with the next day."},
+    {"title": "Cafes and sea buckthorn juice", "text": "Kaza's cafes are where travellers swap road news. Order the local sea buckthorn juice, sharp and orange, and a bowl of thukpa. Many places close by 9 pm and most shut from November to April."},
+    {"title": "Rangrik and the river plain", "text": "Across the Spiti river, Rangrik village has fields, a small gompa and the clearest night sky close to town. It is a short taxi ride or an hour's walk over the bridge, and home to Spiti's best-known boutique hotel."}
+  ],
+  "field_notes": [
+    {"fact": "Kaza has the only petrol station in the Spiti valley. Drivers heading for Chandratal, Pin Valley or the Kinnaur road fill up here, because the next pumps are far away in Reckong Peo, Tandi near Keylong, or Manali.", "source": "Kaza, Himachal Pradesh"},
+    {"fact": "Kaza is really two settlements. Kaza Khas is the old village, and Kaza Soma, across the stream, is the newer side where the government buildings of the Spiti subdivision were built.", "source": "Kaza, Himachal Pradesh"},
+    {"fact": "The Sakya Tangyud monastery in Kaza town is new, completed in 2009, but it takes its name from the much older Tangyud Gompa near Komic village, which dates to the early 14th century.", "source": "Kaza, Himachal Pradesh"}
+  ],
+  "local_word": {"word": "Thukpa", "language": "Tibetan", "meaning": "noodle soup with vegetables or meat, the everyday dinner in Spiti"},
+  "costs": [
+    ["HRTC bus, Manali–Kaza", "₹400–600"],
+    ["Shared taxi seat, Kaza–Manali", "₹1,200–1,800"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,500 per person"],
+    ["Hostel dorm bed", "₹600–1,200 a night"],
+    ["Taxi for the Key, Kibber, Langza, Hikkim and Komic loop", "₹3,500–5,500 per car"],
+    ["Plate of thukpa or momos in a cafe", "₹120–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is the closest, then Manali and the Atal Tunnel road: allow a full day from Bhuntar to Kaza. Shimla and Chandigarh airports serve the Kinnaur approach, which takes two days."},
+    {"mode": "Bus", "text": "HRTC runs a Manali–Kaza bus in season, leaving Manali around 5 am and reaching Kaza in the evening. From Shimla, take a bus to Reckong Peo and change for the Peo–Kaza bus next morning. Check current timings at the bus stand before you travel."},
+    {"mode": "Road", "text": "Shared taxis leave Manali for Kaza early each morning from June to October. Private cars take 9–11 hours from Manali or two days from Shimla via Kinnaur. Fill fuel in Kaza for onward trips."}
+  ],
+  "where_to_stay": "Kaza has the widest choice in Spiti. Saver: Zostel Spiti has dorms and private rooms, and family homestays in Kaza Khas charge ₹1,200–2,500 a person with meals. Comfort: Sakya Abode near the monastery and Hotel Deyzor behind the BSNL office are long-running, warm and well run. Signature: The Grand Dewachen at Rangrik, across the river, is the most comfortable hotel in the valley, built with rammed earth and local stone. Nothing here is a five-star resort; expect good rooms, hot water and simple restaurants.",
+  "stays": ["zostel-spiti-kaza", "sakya-abode-kaza", "hotel-deyzor-kaza", "the-grand-dewachen-rangrik"],
+  "tips": [
+    "Spend your first afternoon resting, even if you feel fine; headaches often start on the first night.",
+    "Withdraw cash as soon as you arrive, because ATMs can run dry by the weekend in July and August.",
+    "Fill your fuel tank in Kaza before Chandratal, Pin Valley or the Kinnaur road.",
+    "Find people to share taxis at the taxi union stand or your hostel in the evening.",
+    "Most cafes and hotels close from November to April, so book winter stays in advance."
+  ],
+  "themes": ["road-trips", "monasteries", "homestays-and-villages", "food-and-tea"],
+  "nearby": ["key-and-kibber", "langza", "dhankar", "pin-valley"],
+  "experiences": [
+    {
+      "slug": "kaza-old-town-and-sakya-gompa-walk",
+      "title": "Old Kaza and Sakya Tangyud morning walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "7–9 am, May–Oct",
+      "cost": "Free; small donation at the monastery",
+      "image_query": "Kaza monastery Spiti",
+      "wiki": "",
+      "summary": "An easy first-morning walk through the mud-walled lanes of Kaza Khas to the Sakya Tangyud monastery, perfect for acclimatising. Flat, slow, and full of the small details of daily life at 3,650 m.",
+      "body": [
+        "Start at the bus stand and walk up into Kaza Khas, the old village. The houses are built of sun-dried mud bricks on stone bases, with thick walls and small windows to hold heat. Firewood, dried shrubs and dung cakes are stacked on the flat roofs, a family's fuel for six months of winter. In the morning you will see women carrying water and men loading tractors for the fields.",
+        "Cross to the Sakya Tangyud monastery, completed in 2009 and named after the much older Tangyud Gompa near Komic. Walk around the main hall clockwise, turn the prayer wheels with your right hand, and step inside only if the doors are open. Photography inside the hall is often not allowed; ask a monk first.",
+        "Finish in the market for butter tea or sea buckthorn juice. The walk is under 3 km and almost flat, which makes it the right activity for day one, when your body is still adjusting. Go slowly, stop often, and do not add a climb to the walk until you have slept a night in Kaza."
+      ],
+      "good_for": ["first-timers", "seniors", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "Can I photograph inside the Kaza monastery?", "a": "Ask first. Photography inside prayer halls is often not allowed, and flash never is. The courtyard and exterior are fine to photograph, but ask before taking pictures of monks or local people."},
+        {"q": "Is the walk hard at Kaza's altitude?", "a": "No. It is under 3 km and almost flat. Walk slowly and stop often; it is meant as a gentle first-day acclimatisation walk."},
+        {"q": "What should I wear to visit the monastery?", "a": "Cover shoulders and knees, remove your hat and shoes where asked, and keep your voice low inside the hall."}
+      ]
+    },
+    {
+      "slug": "kaza-spitian-kitchen-and-sea-buckthorn",
+      "title": "Spitian kitchen supper with sea buckthorn",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "6–8 pm, Jun–Sep",
+      "cost": "Included with homestay dinner; café meals ₹300–600",
+      "image_query": "Hippophae rhamnoides berries",
+      "wiki": "Hippophae",
+      "summary": "Eat what Spitian families eat: thukpa, tsampa, barley bread, peas from the fields and sea buckthorn juice. Best done in a homestay kitchen where the stove is also the room's heater.",
+      "body": [
+        "Spiti's food comes from a short growing season and a long winter. Barley is roasted and ground into tsampa, eaten with butter tea or rolled into dough. Thukpa, a noodle soup, is the everyday dinner. Green peas, potatoes and cabbage come from the fields in summer, and dried cheese and meat get families through the cold months.",
+        "Sea buckthorn grows wild along the Spiti and Pin rivers. Its small orange berries ripen in September and are pressed into a sharp, bright juice that cafes and homestays sell by the glass or bottle. Locally it is called chharma, and collecting and processing it has become a source of cash income for village women.",
+        "Ask your homestay if you can sit in the kitchen while dinner is cooked. Most Spitian homes cook on a cast-iron stove that also heats the room, and evenings are spent around it. Offer to help, eat what is served, and avoid wasting food in a valley where every kilo of rice arrives by truck over a high pass."
+      ],
+      "good_for": ["families", "couples", "solo", "students", "first-timers"],
+      "faqs": [
+        {"q": "Is homestay food vegetarian?", "a": "Usually yes, with dal, rice, vegetables, thukpa and bread. Some families cook meat in winter. Tell your host about allergies or a strict diet when you book."},
+        {"q": "When is sea buckthorn juice available?", "a": "Fresh juice is best in September and October when the berries ripen. Bottled juice and jam are sold in Kaza through the season."},
+        {"q": "Should I drink chhang at altitude?", "a": "Avoid alcohol on your first two nights. It worsens dehydration and can mask altitude sickness symptoms."}
+      ]
+    },
+    {
+      "slug": "kaza-rangrik-night-sky",
+      "title": "Night sky over the Spiti river at Rangrik",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "9–11 pm on moonless nights, Jun–Oct",
+      "cost": "Taxi ₹500–800 return, or walk from Rangrik stays",
+      "image_query": "Spiti valley night sky Milky Way",
+      "wiki": "",
+      "summary": "Cross the river to Rangrik, away from Kaza's lights, and watch the Milky Way rise over dry mountains. Clear, thin air and almost no pollution make Spiti one of the darkest skies you can reach by road in India.",
+      "body": [
+        "Spiti's air is dry and thin, and there are few lights outside Kaza. On a moonless night the Milky Way is bright enough to cast faint shadows. Rangrik, a village across the Spiti river from Kaza, has open fields and a wide horizon that make it an easy stargazing spot without a long drive.",
+        "Check the moon calendar and plan for the week around the new moon. Dress for near-freezing temperatures even in August: down jacket, cap, gloves and a flask of tea. Let your eyes adjust for 20 minutes without looking at your phone, and use a red light if you need a torch.",
+        "Stay on paths and field edges, do not walk through crops, and keep voices low near houses. If you are staying at Rangrik, you can step outside the hotel; from Kaza, take a taxi and agree on a pickup time, because there are no taxis waiting at night."
+      ],
+      "good_for": ["couples", "photographers", "students", "solo"],
+      "faqs": [
+        {"q": "When is the best time for stargazing in Spiti?", "a": "Moonless nights from June to October, ideally in September when the monsoon has cleared from the approach roads and skies are cleanest."},
+        {"q": "How cold is it at night?", "a": "Near freezing even in summer, and well below zero from late September. Bring a down jacket, cap and gloves."},
+        {"q": "Do I need a guide to stargaze?", "a": "No. A taxi and warm clothes are enough. Some hotels and Kaza operators run sessions with telescopes in season."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days should I spend in Kaza?", "a": "Plan three nights in Kaza. The first night is for acclimatisation at 3,650 m, and the next two days cover the two big loops: Key Gompa and Kibber, and the Langza, Hikkim and Komic plateau. Add a night if you want Pin Valley or Dhankar as day trips rather than overnight stops."},
+    {"q": "How do I get from Manali to Kaza by bus?", "a": "HRTC runs a Manali–Kaza bus in season, usually from June to October, leaving Manali around 5 am and reaching Kaza in the evening, through the Atal Tunnel and over Kunzum La. The fare is about ₹400–600. Buy tickets at the Manali bus stand the day before and check current status before you travel."},
+    {"q": "Are there ATMs in Kaza?", "a": "Yes, Kaza has ATMs, but they can run out of cash in July and August or stop working when the network fails. Carry enough cash for your whole Spiti stay. UPI works in many Kaza shops and hotels when the signal is good, but homestays in villages often want cash."},
+    {"q": "Does mobile network work in Kaza?", "a": "BSNL and Jio work in Kaza and the main villages around it, and Airtel has improved. Data is slow in the evenings when everyone is online. Many cafes and hotels have Wi-Fi. There is no signal on the Kunzum La stretch towards Manali, so download maps before you leave Kaza."},
+    {"q": "Is Kaza too high for altitude sickness?", "a": "Kaza is at 3,650 m, high enough for headaches, breathlessness and poor sleep on the first night. Rest on arrival, drink water, skip alcohol, and do not go up to Langza or Komic until you have slept in Kaza. If symptoms get worse, go down. Talk to your doctor before you travel."},
+    {"q": "What does a taxi from Kaza cost?", "a": "The Kaza taxi union sets fixed rates. The full loop of Key, Kibber, Langza, Hikkim and Komic costs about ₹3,500–5,500 for a car, a Kaza–Chandratal drop around ₹6,000–8,000, and Kaza–Manali about ₹12,000–15,000. Rates are indicative for 2026; check the union board."},
+    {"q": "Is Kaza open in winter?", "a": "Kaza is inhabited all year, but most hotels and cafes close from November to April. Winter access is only from Shimla via Kinnaur. A few homestays and operators host winter travellers, mainly for snow leopard trips from Kibber. Water pipes freeze, so expect bucket baths."},
+    {"q": "Is Kaza safe for solo travellers?", "a": "Yes. Kaza is small, friendly and used to backpackers, and Zostel and homestays make it easy to meet others for shared taxis. The main risks are altitude and roads. Tell your host where you are going each day, especially if you walk to villages."},
+    {"q": "Where can I eat in Kaza?", "a": "Kaza has the largest choice of food in Spiti: Tibetan cafes serving thukpa and momos for ₹120–250, bakeries, and a few cafes with pasta and pizza. Most close by 9 pm and shut from November to April. Homestays with dinner included are cheaper and often better."}
+  ]
+}

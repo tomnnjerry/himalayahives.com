@@ -1,0 +1,11 @@
+{% load hives %}<a class="cell" href="{{ s.url }}" data-land="{{ s.region }}" data-item data-region="{{ s.region }}" data-tier="{{ s.tier }}">
+  <div class="cell__ph">{% with img=s|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% else %}{% topo s.slug %}{% endif %}{% endwith %}
+    <span class="cell__tier tier tier--{% if s.tier == 'budget' %}saver{% elif s.tier == 'mid' %}comfort{% else %}signature{% endif %}">{{ s.tier|capfirst }}</span>
+    <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "bed" %}</span></div>
+  <div class="cell__body">
+    <span class="readout">{{ s.kind|capfirst }} · {{ s.place_obj.name|default:s.region_obj.name }}</span>
+    <h3 class="cell__title">{{ s.name }}</h3>
+    <p class="cell__text">{{ s.summary|truncatechars:115 }}</p>
+    {% if s.price_band %}<div class="cell__foot"><span class="readout">{{ s.price_band|truncatechars:60 }}</span></div>{% endif %}
+  </div>
+</a>

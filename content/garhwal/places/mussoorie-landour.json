@@ -1,0 +1,146 @@
+{
+  "slug": "mussoorie-landour",
+  "name": "Mussoorie & Landour",
+  "region": "garhwal",
+  "kind": "hill station",
+  "wiki": "Landour",
+  "image_query": "Landour Mussoorie cantonment hill",
+  "lat": 30.455,
+  "lng": 78.08,
+  "altitude_m": 2005,
+  "tagline": "A Raj-era ridge town, and the quiet cantonment above it",
+  "meta_description": "Mussoorie and Landour guide: Char Dukan, Camel's Back cemetery, George Everest's house, the Tibetan quarter, Ruskin Bond's Landour, costs and stays.",
+  "summary": "Mussoorie is the hill station 35 km above Dehradun at about 2,005 m; Landour is the older, quieter cantonment on the ridge above it. Come for oak-and-deodar walks, Raj-era churches and cemeteries, George Everest's house and winter views of the Bandarpunch range. Two or three nights suit most trips; avoid holiday weekends.",
+  "intro": [
+    "Mussoorie and Landour share one long ridge above the Doon Valley. Mussoorie, founded as a resort by Captain Frederick Young of the East India Company in the 1820s, runs along the Mall Road from Library Chowk to Kulri Bazaar, with hotels, schools and viewpoints. Landour climbs above it to the east, rising to about 2,270 m. It began in 1827 as a sanatorium for British soldiers, and much of it is still a cantonment, which is why it has stayed small, wooded and slow.",
+    "The twin towns hold a dense layer of history for so small a place. George Everest, Surveyor-General of India, built his house and laboratory at Park Estate west of the town. The 14th Dalai Lama lived in Mussoorie from April 1959 to April 1960 before moving to Dharamsala, and the first Tibetan school opened here in 1960. Landour's churches, cemeteries and missionary language school, and the writer Ruskin Bond, who has lived in Landour for decades, give the upper ridge its character.",
+    "For travellers, Mussoorie is a weekend hill town and can be crowded and noisy on the Mall. Landour is the reason we bring guests here: a 5 km loop of quiet roads through deodar and oak, with views north to the snow peaks of the Bandarpunch and Gangotri groups on clear winter mornings. It is also a gentle first stop before the Yamunotri road, which drops north from Kempty Falls towards Barkot."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Oct – Dec"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 60 km · 2 h"],
+    ["From Dehradun", "≈ 35 km · 1–1.5 h"],
+    ["Altitude", "2,005 m (Landour ≈ 2,270 m)"],
+    ["Known for", "Landour walks, Raj-era churches, George Everest's house, winter views"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 1, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "The Landour loop", "text": "A 5 km circuit, known as the chakkar, round the top of the Landour ridge through deodar and oak, past Char Dukan, Sisters Bazaar and Lal Tibba. Walk it at 7 am for birds and snow views, or at sunset for colour over the Doon Valley."},
+    {"title": "Char Dukan and St Paul's", "text": "Char Dukan, the four shops, is Landour's tiny square of tea stalls serving pancakes, Maggi and bun-omelettes. Beside it stands St Paul's Church, built in 1840, where Jim Corbett's parents married in October 1859."},
+    {"title": "George Everest's house", "text": "The ruins of Sir George Everest's house and laboratory at Park Estate, about 6 km west of Library Chowk, sit on a grassy ridge with views over the Doon on one side and the Aglar valley on the other. Go for a sunrise walk."},
+    {"title": "Camel's Back Road", "text": "A level, mostly car-free 3 km road round the north side of the hill, named for a rock outcrop shaped like a camel's hump. It passes Camel's Back Cemetery, opened in 1828, and is the best walk in Mussoorie town itself."},
+    {"title": "Happy Valley and the Tibetan quarter", "text": "Tibetans settled in Happy Valley after 1959, when the Dalai Lama lived in Mussoorie for a year. The quarter has a temple, prayer flags, a Tibetan school and small momo and thukpa kitchens below the Library end of the Mall."},
+    {"title": "Snow-peak mornings", "text": "On clear days from October to March, Lal Tibba and the Landour ridge show a line of snow peaks to the north, including the Bandarpunch massif above Yamunotri. Mornings after rain are clearest; afternoons usually haze over."}
+  ],
+  "field_notes": [
+    {"fact": "Landour takes its name from Llanddowror, a village in Carmarthenshire in south-west Wales. It began in 1827 as a sanatorium for convalescing British soldiers, which is why much of it is still a cantonment today.", "source": "Landour"},
+    {"fact": "The 14th Dalai Lama took up residence in Mussoorie on 20 April 1959 and stayed until April 1960, when he moved to Dharamsala. The first Tibetan school was set up in Mussoorie in 1960, and Tibetans settled mainly in Happy Valley.", "source": "Mussoorie"},
+    {"fact": "Frederick Wilson, the English deserter known as the Raja of Harsil who brought apples to the Bhagirathi valley, died in 1883 and is buried in Mussoorie's Camel's Back Cemetery under a deodar.", "source": "Frederick Wilson (Raja)"}
+  ],
+  "local_word": {"word": "Mansur", "language": "Garhwali", "meaning": "a shrub common on these slopes; the name Mussoorie is often traced to it"},
+  "costs": [
+    ["UTC bus, Dehradun to Mussoorie", "₹80–130"],
+    ["Taxi, Dehradun to Mussoorie", "₹1,500–2,200"],
+    ["Mid-range hotel room on or near the Mall", "₹3,000–7,000 a night"],
+    ["Pancakes and tea at Char Dukan", "₹150–350"],
+    ["Momos or thukpa in Happy Valley", "₹100–200"],
+    ["Taxi, Mussoorie to Kempty Falls and back", "₹1,000–1,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Dehradun's Jolly Grant airport, then 60 km by taxi via Dehradun and the Mussoorie road, about 2 hours (₹2,500–3,500)."},
+    {"mode": "Rail", "text": "Dehradun station has overnight and day trains from Delhi, including the Shatabdi and Vande Bharat. From Dehradun, UTC buses leave for Mussoorie Library and Picture Palace stands roughly every 30–60 minutes."},
+    {"mode": "Road", "text": "Delhi to Mussoorie is about 290 km via Dehradun, 7–8 hours. From Rishikesh it is about 75 km and 2.5–3 hours via Dehradun. Traffic jams on the last 10 km are common on weekends; travel before 9 am."}
+  ],
+  "where_to_stay": "Saver: guesthouses and hostels around Kulri and Library charge ₹1,200–2,500 for a double out of peak weekends, and GMVN runs a tourist bungalow in town. Comfort: WelcomHeritage Kasmanda Palace, a former royal summer house off the Mall, and Rokeby Manor in Landour, a restored 1840s estate near Char Dukan, are our picks for character. Signature: JW Marriott Mussoorie Walnut Grove sits on the Kempty Falls road with a spa, indoor pool and wide valley views.",
+  "stays": ["rokeby-manor-landour", "welcomheritage-kasmanda-palace-mussoorie", "jw-marriott-mussoorie-walnut-grove"],
+  "tips": [
+    "Stay in Landour or at the Library end if you want quiet; Kulri and the middle Mall are loud until late.",
+    "Avoid Friday-evening arrivals from Dehradun in summer, when the last 10 km can take two hours.",
+    "Many Landour roads are cantonment roads with limited parking; leave the car at the hotel and walk.",
+    "Carry a warm layer even in May; evenings on the ridge drop to 12–15 °C.",
+    "Christmas and New Year week sell out and prices double, so book six weeks ahead or come in early December."
+  ],
+  "themes": ["family-holidays", "honeymoons", "treks-and-walks", "photography"],
+  "nearby": ["rishikesh", "yamunotri", "harsil"],
+  "experiences": [
+    {
+      "slug": "landour-char-dukan-heritage-walk",
+      "title": "Landour heritage walk from Char Dukan",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "7–10 am, Oct–Jun",
+      "cost": "Free; tea and pancakes ₹150–350",
+      "image_query": "Char Dukan Landour St Paul's Church",
+      "wiki": "Landour",
+      "summary": "A slow morning loop round the Landour ridge: St Paul's Church at Char Dukan, the old Sisters Bazaar, Kellogg Church and Lal Tibba viewpoint, ending with pancakes at the tea shops. Quiet roads, deodar shade and views to the snow peaks.",
+      "body": [
+        "Start at Char Dukan, the cluster of tea shops at the top of the Landour climb. St Paul's Church, built in 1840 and now non-denominational, stands beside it; Christopher and Mary Corbett, parents of the hunter and writer Jim Corbett, were married here on 13 October 1859. From there the chakkar, the ridge loop, runs east and west under deodar and oak.",
+        "Head to Sisters Bazaar, named after the nurses who lived here when the area served the military sanatorium, and on to Lal Tibba, the highest viewpoint, where a telescope deck looks north to the snow peaks on clear days. On the way you pass Kellogg Church, built in 1903, which houses the Landour Language School, founded in the late nineteenth century to teach Hindi to newly arrived missionaries.",
+        "Landour's residents value their quiet, and many houses are private, so keep to the road and do not walk into compounds for photos. Ruskin Bond lives at Ivy Cottage on the Landour road, but it is a private home; please do not knock. The full loop with stops takes about three hours. Finish back at Char Dukan for tea, or walk down past the clock tower into Landour Bazaar."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers", "families"],
+      "faqs": [
+        {"q": "How long is the Landour walk?", "a": "The ridge loop is about 5 km, mostly level after the steep climb from Mussoorie to Char Dukan. Allow three hours with stops at St Paul's Church, Sisters Bazaar, Lal Tibba and the tea shops. Taxis can drop you at Char Dukan if you want to skip the climb."},
+        {"q": "Can I visit Ruskin Bond's house in Landour?", "a": "Ivy Cottage is a private home, and we ask guests not to visit or knock. The author has in the past met readers at a Mussoorie bookshop on some Saturdays, but this is informal and not guaranteed. Enjoy the town he wrote about instead."},
+        {"q": "Is Landour good for seniors?", "a": "Yes, once you are at the top. The road from Mussoorie up to Char Dukan is steep, so take a taxi for that part. The ridge loop is gentle and paved, with benches and tea stops. Avoid icy mornings in January and February."}
+      ]
+    },
+    {
+      "slug": "mussoorie-george-everest-house-walk",
+      "title": "Sunrise walk to George Everest's house",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "6–9 am, Oct–Mar",
+      "cost": "Entry fee at the site; taxi ₹800–1,200 return",
+      "image_query": "George Everest House Mussoorie Park Estate",
+      "wiki": "George Everest",
+      "summary": "Drive or walk to Park Estate, west of Mussoorie, where the Surveyor-General who gave his name to the world's highest peak lived and worked. The stone house sits on an open ridge with the Doon Valley on one side and the Aglar valley and snow peaks on the other.",
+      "body": [
+        "George Everest was Surveyor-General of India from 1830 to 1843 and led the Great Trigonometric Survey through its later years. He wanted the survey's office in Mussoorie; Dehradun became the compromise, and the Survey of India is still headquartered there. At Park Estate, about 6 km west of Library Chowk near Hathipaon, he built the house and laboratory whose remains you walk to.",
+        "The site was restored by the state tourism authorities in recent years, with paths, signboards and a small entry fee; check current status before you travel. The last stretch is a gentle walk across grass to the house, a long, low stone building on the crest. From the ridge you look south over the Doon Valley and north across the Aglar valley to the snow peaks on clear mornings.",
+        "Sunrise is best, when the valley is full of cloud and the peaks turn pink. Carry a jacket: the ridge is exposed and windy, and winter mornings are below freezing. The road beyond Hathipaon is narrow; a small car or taxi is easier than a large SUV. There is little food at the site, so take tea and snacks."
+      ],
+      "good_for": ["photographers", "couples", "families", "students"],
+      "faqs": [
+        {"q": "How far is George Everest's house from Mussoorie?", "a": "About 6 km west of Library Chowk, past Hathipaon, roughly 20–30 minutes by taxi on a narrow road. Fit walkers can hike from Library in 1.5–2 hours. A return taxi with waiting time costs about ₹800–1,200."},
+        {"q": "Is there an entry fee at George Everest's house?", "a": "After restoration, the site charges an entry fee and sometimes a vehicle fee. Amounts change; check current status before you travel. Paragliding and other activities may be offered nearby by private operators."},
+        {"q": "Did George Everest climb Mount Everest?", "a": "No. Everest was a surveyor and never saw the peak. It was named after him in 1865 by the Royal Geographical Society on the suggestion of his successor, Andrew Waugh, reportedly against Everest's own wishes."}
+      ]
+    },
+    {
+      "slug": "mussoorie-happy-valley-tibetan-quarter",
+      "title": "Happy Valley's Tibetan quarter and kitchens",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Late morning, all year",
+      "cost": "Free; momos and thukpa ₹100–200",
+      "image_query": "Happy Valley Mussoorie Tibetan temple",
+      "wiki": "Mussoorie",
+      "summary": "Below the Library end of the Mall lies Happy Valley, where Tibetan refugees settled after 1959. Walk past prayer flags, a temple and the Tibetan school, then eat thukpa in a family kitchen.",
+      "body": [
+        "On 20 April 1959, after the uprising in Tibet, the 14th Dalai Lama took up residence in Mussoorie. He stayed until April 1960, when he moved to Dharamsala, now the seat of the Central Tibetan Administration. The first Tibetan school was set up in Mussoorie in 1960, and refugee families settled mainly in Happy Valley, on the slope west of Library Chowk.",
+        "Today the quarter has a Buddhist temple with prayer wheels, lines of prayer flags across the hillside, the Tibetan school and homes built up the slope. It is a residential area, so walk quietly, ask before photographing people, and walk round the temple and stupa clockwise. Visitors are usually welcome in the temple outside prayer times; remove shoes at the door.",
+        "Finish in one of the small Tibetan kitchens around Happy Valley and the Library end of the Mall for steamed momos, thukpa or thenthuk, a hand-pulled noodle soup. A meal costs ₹100–200. The walk combines easily with Company Garden nearby, or with the walk down to Kempty Falls road if you want a longer day."
+      ],
+      "good_for": ["families", "students", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Did the Dalai Lama live in Mussoorie?", "a": "Yes. The 14th Dalai Lama took up residence in Mussoorie on 20 April 1959 and stayed until April 1960, before moving to Dharamsala. The first Tibetan school opened in Mussoorie in 1960, and Tibetan families settled mainly in Happy Valley."},
+        {"q": "How do I reach Happy Valley from the Mall?", "a": "Walk west from Library Chowk for about 15–20 minutes, or take a taxi for the short drive. The road dips and climbs, so wear walking shoes. Most of the quarter is explored on foot along narrow lanes."},
+        {"q": "Is the Tibetan temple in Happy Valley open to visitors?", "a": "Visitors are generally welcome outside prayer times. Remove shoes, keep voices low, walk clockwise round the temple and stupa, and ask before photographing monks or residents. Small donations are welcome but not required."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the difference between Mussoorie and Landour?", "a": "Mussoorie is the main hill station along the Mall Road, with hotels, shops and crowds. Landour is the older cantonment on the ridge above, about 15 minutes by car, with churches, Char Dukan's tea shops and quiet forest roads. We suggest sleeping in Landour or the Library end and visiting the Mall."},
+    {"q": "What is the best time to visit Mussoorie?", "a": "March to June is pleasant at 15–28 °C but busy in May and June. October to December has the clearest snow-peak views. January and February can bring snow and icy roads. July and August are wet and misty, with occasional landslides on the Dehradun road."},
+    {"q": "Does it snow in Mussoorie?", "a": "Sometimes, usually a few light falls between late December and February, more often on the Landour ridge than on the Mall. Snow cannot be guaranteed; for reliable snow, go to Auli in January or February. Roads may close briefly after heavy falls."},
+    {"q": "How do I get from Dehradun to Mussoorie cheaply?", "a": "Take a UTC bus from the Dehradun ISBT or railway station area to Mussoorie Library or Picture Palace, about 1.5 hours for ₹80–130. Shared taxis cost a little more. A private taxi costs ₹1,500–2,200 one way."},
+    {"q": "Is Mussoorie good for a honeymoon?", "a": "Yes, if you choose your stay well. Avoid the noisy middle Mall; pick Landour, the Library end or a resort on the Kempty road. Walks on Camel's Back Road and the Landour loop, and a sunrise at George Everest's house, suit couples best."},
+    {"q": "How many days do I need in Mussoorie and Landour?", "a": "Two nights is enough for the Landour loop, Camel's Back Road, George Everest's house and Happy Valley. Add a third night for a day trip to Dhanaulti or a slow day of reading and walking. It also works as a first stop before the Yamunotri road."},
+    {"q": "Is Kempty Falls worth visiting?", "a": "It is about 15 km from Mussoorie on the Yamunotri road and very crowded in summer, with stalls and paddling pools. Visit early in the morning or on a weekday, or see it in passing on the way to Barkot rather than as a separate trip."},
+    {"q": "Are there ATMs and network in Mussoorie and Landour?", "a": "Yes. ATMs line the Mall in Kulri and Library, and Landour Bazaar has a few. Jio, Airtel and BSNL work well across the town, though some deep valleys on the Camel's Back side have weaker signal."},
+    {"q": "Is Mussoorie safe for families and solo travellers?", "a": "Yes. It is a well-policed tourist town. The main issues are traffic, steep roads and crowds on holiday weekends. On the Landour loop, keep to the road after dark, as streetlights are sparse, and carry a torch."}
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "pahalgam",
+  "name": "Pahalgam",
+  "region": "kashmir",
+  "kind": "town",
+  "wiki": "Pahalgam",
+  "image_query": "Pahalgam Lidder river valley",
+  "lat": 34.0161,
+  "lng": 75.315,
+  "altitude_m": 2200,
+  "tagline": "The shepherds' village where the two Lidder rivers meet",
+  "meta_description": "Pahalgam guide: Lidder river, Betaab Valley, Chandanwari and Aru, trout fishing, Amarnath route, union taxi and stay costs for 2026.",
+  "summary": "Pahalgam is a riverside town at 2,200 m where the East and West Lidder rivers meet, about 95 km east of Srinagar. Stay two or three nights to see Betaab Valley, Chandanwari and Aru by local taxi, walk the pine forests, fish for trout and, in July and August, watch the Amarnath Yatra begin.",
+  "intro": [
+    "Pahalgam means village of the shepherds in Kashmiri, and it still feels like one in spring and autumn, when Gujjar and Bakarwal families drive flocks through town to and from the high pastures. The town sits on a flat at 2,200 m where the East Lidder, flowing from Sheshnag, meets the West Lidder from the Kolahoi Glacier. Pine and fir forest climbs every slope, and the river runs fast and clear over granite boulders.",
+    "Pahalgam is a base rather than a sight. From here three roads fan out: north-west to Aru, 12 km up the West Lidder; east to Betaab Valley and Chandanwari, 16 km away, where the Amarnath Yatra trail begins; and across the bridge to the old Mamleshwar temple. Local union taxis serve these points at fixed rates, and Srinagar cabs usually cannot do local sightseeing here.",
+    "Expect a busy town from April to June and during the yatra in July and August, when security is tight and convoys run on the road from Anantnag. Some meadows, including Baisaran, have been closed to visitors at times; check current advisories before you travel. September and October are quieter, golden and cool, and the best months for walking."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Oct"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Srinagar, about 100 km"],
+    ["From Srinagar", "≈ 90–95 km · 2 h 30 min–3 h"],
+    ["Altitude", "2,200 m"],
+    ["Known for", "Lidder river, Betaab Valley, Aru, Amarnath Yatra base"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Betaab Valley", "text": "A broad green valley on the East Lidder on the Chandanwari road, once called Hagan, renamed after the 1983 Hindi film Betaab shot here. It is a fenced park with paths along the river, best early morning before tour groups arrive."},
+    {"title": "Chandanwari", "text": "At the end of the road, 16 km from Pahalgam, Chandanwari is the start of the Amarnath Yatra trail. Outside the yatra season you can walk a little way up the valley, and a snow bridge over the river often lasts into early summer."},
+    {"title": "Aru village", "text": "Twelve kilometres up the West Lidder, Aru is a farming village and meadow at 2,414 m, and the trailhead for Lidderwat, the Kolahoi Glacier and the Tarsar and Marsar lakes. Stay a night to walk it at dawn."},
+    {"title": "Lidder riverbank", "text": "Paths follow the Lidder on both banks of town through pine forest. Early morning walks from the main bridge towards the golf course are quiet and flat, good for families and seniors."},
+    {"title": "Trout fishing", "text": "The Lidder and its tributaries hold brown trout, and the Fisheries Department issues day licences for designated beats. The season and rules are strict, so book through the department or a licensed outfitter."}
+  ],
+  "field_notes": [
+    {"fact": "The name Pahalgam comes from the Kashmiri words for shepherd and village, and the town still marks the route herders take with their flocks to the summer pastures of the upper Lidder valley.", "source": "Pahalgam"},
+    {"fact": "Two streams, the East Lidder and the West Lidder, meet near Pahalgam. The West Lidder rises from the Kolahoi Glacier, a hanging glacier reached on a 35 km trail via Aru.", "source": "Pahalgam"},
+    {"fact": "The southern route of the Amarnath pilgrimage leaves from Chandanwari, 16 km from Pahalgam, and covers about 43 km to the cave at 3,888 m via Sheshnag and Panchtarni.", "source": "Amarnath Temple"}
+  ],
+  "local_word": {"word": "Pohul", "language": "Kashmiri", "meaning": "shepherd; the root of the name Pahalgam, village of the shepherds"},
+  "costs": [
+    ["Union taxi circuit: Aru, Betaab Valley, Chandanwari", "₹2,500–4,000 per car"],
+    ["Shared Sumo seat Srinagar–Anantnag, then Anantnag–Pahalgam", "₹150–250, then ₹100–150"],
+    ["JKTDC cottage per night", "from about ₹2,800 for the unit"],
+    ["Guesthouse double room", "₹1,500–3,000"],
+    ["Pony on a fixed circuit", "₹800–1,800"],
+    ["Rajma rice or Kashmiri thali at a local dhaba", "₹150–350"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar and drive about 95 km via Pampore, Awantipora and Anantnag, roughly 2 h 30 min to 3 h. A private taxi costs about ₹3,000–4,000 one way."},
+    {"mode": "Bus", "text": "Take a train or shared Sumo from Srinagar to Anantnag, then a shared Sumo or minibus up the Lidder valley to Pahalgam. JKSRTC has run seasonal tourist buses from Srinagar's Tourist Reception Centre; check current status."},
+    {"mode": "Road", "text": "The road via Anantnag is open all year, though snow can delay traffic in winter. During the Amarnath Yatra, convoys and timed movement apply; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC cottages and huts along the Lidder are the best government option, and simple guesthouses in the main bazaar and on the Aru road cost ₹1,500–3,000 for a double. Comfort: the Pahalgam Hotel, one of the oldest in town, has river-view rooms and lawns, and there are several decent three-star hotels on the Lidder. Signature: Welcomhotel by ITC Hotels, Pine N Peak, on the Aru road corridor, has the most polished rooms, spa and food.",
+  "stays": ["jktdc-pahalgam-huts", "pahalgam-hotel", "welcomhotel-pine-n-peak-pahalgam"],
+  "tips": [
+    "Use the Pahalgam taxi stand's printed rate list for Aru, Betaab and Chandanwari; one car can cover all three in a day.",
+    "Avoid the yatra weeks if you want a quiet stay, or book very early and expect security checks.",
+    "Do not swim in the Lidder; it is glacier-fed, fast and very cold even in July.",
+    "Carry a warm jacket for evenings, which drop to near freezing in April and October.",
+    "Check whether Baisaran and other meadows are open on the day you visit; access has been restricted at times."
+  ],
+  "themes": ["family-holidays", "treks-and-walks", "pilgrimages", "honeymoons"],
+  "nearby": ["aru-valley", "srinagar", "pampore", "sonamarg"],
+  "experiences": [
+    {
+      "slug": "pahalgam-betaab-valley-and-chandanwari",
+      "title": "Betaab Valley and Chandanwari by union taxi",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "8 am, Apr–Jun and Sep–Oct",
+      "cost": "Union taxi ₹1,500–2,500 for this leg; park entry fee at Betaab",
+      "image_query": "Betaab Valley Pahalgam",
+      "wiki": "Betaab Valley",
+      "summary": "Follow the East Lidder upstream from Pahalgam to Betaab Valley and the roadhead at Chandanwari, the start of the Amarnath trail. It is the easiest way to see the upper Lidder: meadows, river braids, birch and pine, and snow patches into early summer.",
+      "body": [
+        "The road leaves Pahalgam past the Mamleshwar bridge and climbs gently along the East Lidder. Partway to Chandanwari is Betaab Valley, a wide meadow enclosed by forest, known locally as Hagan until the 1983 Hindi film Betaab was shot here. It is now a managed park with a small entry fee, paths, footbridges and benches along the river. Arrive before 9 am to have it mostly to yourself.",
+        "Continue to Chandanwari at about 2,900 m, 16 km from Pahalgam. In the yatra weeks of July and August it is a busy base camp with tents, langars and security; at other times it is a quiet roadhead where the river runs under a lingering snow bridge into June in many years. You can walk a short way up the valley, but going further towards Sheshnag needs a permit in yatra season.",
+        "Local union taxis do this run; Srinagar cabs usually cannot. Many travellers combine it with Aru on the same day for a fixed package rate. Carry snacks and water, wear sturdy shoes for wet grass, and take a warm layer because Chandanwari is noticeably colder than town."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How far is Betaab Valley from Pahalgam?", "a": "Betaab Valley lies on the Chandanwari road, under 30 minutes by taxi from town, and Chandanwari is at the road's end, 16 km from Pahalgam. Union taxis from the Pahalgam stand do the round trip, often combined with Aru, at rates printed on the stand's list."},
+        {"q": "Can I visit Chandanwari during the Amarnath Yatra?", "a": "Access is controlled during the yatra, and non-pilgrims may face restrictions or long checks. Outside the yatra, from about May to June and September to October, Chandanwari is open to visitors by taxi. Check current status before you travel."},
+        {"q": "Is there snow at Chandanwari in summer?", "a": "Often yes in May and June, when a snow bridge over the river and snow patches on the slopes remain from winter. By late July most of it melts. For a reliable snow day, visit in March or April, when the road may still be partially snowbound."}
+      ]
+    },
+    {
+      "slug": "pahalgam-lidder-trout-fishing",
+      "title": "Trout fishing on the Lidder with a day licence",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Early morning, Apr–Sep",
+      "cost": "Licence ₹500–1,000 a day; guide and gear extra",
+      "image_query": "Lidder River Pahalgam",
+      "wiki": "Lidder River",
+      "summary": "The cold, clear Lidder holds brown trout, introduced to Kashmir in British times, and the Fisheries Department issues day licences for set beats near Pahalgam and Aru. A morning on the river with a local gillie is a quiet way to see the valley.",
+      "body": [
+        "Trout fishing in Kashmir is regulated by the Department of Fisheries, which divides rivers into beats and issues permits for each by the day. Beats on the Lidder near Pahalgam and up towards Aru are popular. Rules usually cover the number of fish you can keep, the type of bait allowed and a closed season. Ask at the department's office or a licensed outfitter in Pahalgam for current fees and rules.",
+        "A local gillie, or fishing guide, knows the pools and can lend rods and flies. Mornings are best, when the river is clearer and quieter. Wear warm layers and waterproof shoes, and stay off slippery boulders near fast water. The Lidder is cold and powerful enough to be dangerous even at its edges.",
+        "If you do not fish, you can still enjoy the riverbank: dippers bob on rocks, wagtails work the shallows, and the light through the pines is lovely early. Several restaurants in Pahalgam serve farmed trout fried with Kashmiri spices for lunch."
+      ],
+      "good_for": ["couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "Do I need a licence to fish in Pahalgam?", "a": "Yes. The Jammu and Kashmir Department of Fisheries issues day permits for specific beats, and fishing without one can lead to fines. Fees, catch limits and season dates change, so check current status at the department's office or with a licensed outfitter before you travel."},
+        {"q": "When is the trout season in Kashmir?", "a": "Broadly spring to early autumn, roughly April to September, with closures during spawning. Snowmelt can make rivers murky in May and June. Late summer and September often give the clearest water. Confirm current season dates with the Fisheries Department."},
+        {"q": "Can beginners try trout fishing on the Lidder?", "a": "Yes, with a gillie who can lend equipment and show basic casting. Expect patience rather than a big catch. Keep children well back from the water's edge, because the current is strong and the river is near freezing."}
+      ]
+    },
+    {
+      "slug": "pahalgam-mamleshwar-temple-walk",
+      "title": "Across the Lidder to the Mamleshwar temple",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Early morning, all year",
+      "cost": "Free",
+      "image_query": "Mamleshwar temple Pahalgam",
+      "wiki": "",
+      "summary": "A short walk over the Lidder bridge leads to Mamleshwar, a small old stone Shiva temple with a spring-fed tank, on the edge of Mamal village. It is a calm counterpoint to the busy bazaar and shows Pahalgam's long history as a sacred valley.",
+      "body": [
+        "From the main bazaar, cross the bridge over the East Lidder and follow the road about 1 km to Mamal village. The temple is a compact stone shrine to Shiva with a pyramidal roof, built in the early Kashmiri style, beside a small tank fed by a spring. It is one of the older surviving shrines in the Lidder valley and is still in worship.",
+        "Visit early in the morning when the village is waking and the light falls across the fields. Remove shoes before entering, keep your voice low, and ask before photographing worshippers. Local families may be drawing water from the spring; give them space.",
+        "Return along the river by a different path if the weather is dry. The walk is flat and suits seniors and children, and it shows the farming side of Pahalgam: walnut trees, maize and vegetable plots, and wooden village houses with grass roofs on stone bases."
+      ],
+      "good_for": ["seniors", "families", "solo", "couples"],
+      "faqs": [
+        {"q": "How far is the Mamleshwar temple from Pahalgam bazaar?", "a": "About 1 km across the Lidder bridge, a 15–20 minute flat walk. Taxis can also drop you at the village. The temple and spring are open from early morning; ask locally about timings for worship."},
+        {"q": "Can non-Hindus visit the Mamleshwar temple?", "a": "Visitors are generally welcome to see the temple respectfully. Remove shoes, dress modestly, and follow any instructions from the caretaker. Do not touch the deity or enter areas closed to visitors."},
+        {"q": "Is the Mamleshwar walk suitable in winter?", "a": "Yes, if the path is clear of ice. Pahalgam sees snow from December to February, so wear boots with good grip and walk in daylight. The temple is quiet and lovely under snow."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Pahalgam open to tourists now?", "a": "Pahalgam town has generally remained open to visitors, but individual meadows and trails, including Baisaran, have been closed at times, and security checks are frequent. Check current advisories before you travel, ask your hotel on arrival which sites are open, and keep a flexible plan with an alternative such as Aru or Betaab Valley."},
+    {"q": "How many days should I spend in Pahalgam?", "a": "Two nights is the minimum to see Aru, Betaab Valley and Chandanwari without rushing. Three nights lets you walk the riverbank, visit Mamleshwar and spend a night in Aru. Trekkers to Kolahoi or Tarsar Marsar will need four to six extra days."},
+    {"q": "Can my Srinagar taxi take me around Pahalgam?", "a": "Usually no. Local union rules reserve sightseeing to Aru, Betaab Valley and Chandanwari for Pahalgam-registered taxis at fixed rates. Your Srinagar driver will wait in town. Budget ₹2,500–4,000 per car for the full circuit."},
+    {"q": "What is the best time to visit Pahalgam?", "a": "April to June for green meadows and snow on the peaks, September and October for clear skies and fewer crowds. July and August are dominated by the Amarnath Yatra. Winter brings snow from December to February and very cold nights but quiet streets and low prices."},
+    {"q": "Is Pahalgam good for families with young children?", "a": "Yes. The riverbank paths, Betaab Valley park and Aru meadow are easy for children, and the altitude of 2,200 m suits most families. Keep children well away from the river, which is fast and freezing, and carry warm clothes for evenings."},
+    {"q": "How do I reach Pahalgam from Srinagar on a budget?", "a": "Take a local train or shared Sumo from Srinagar to Anantnag, then a shared Sumo or minibus to Pahalgam. Total cost is roughly ₹250–400 per person and 3–4 hours with changes. A private taxi costs about ₹3,000–4,000 one way."},
+    {"q": "Are there ATMs and mobile network in Pahalgam?", "a": "There are a few ATMs in the main bazaar and postpaid networks work in town. Coverage weakens at Aru and disappears beyond Chandanwari. Prepaid SIMs from outside J&K generally do not work. Carry cash for taxis, ponies and guesthouses."},
+    {"q": "Where does the Amarnath Yatra start from Pahalgam?", "a": "Pilgrims drive 16 km from Pahalgam to Chandanwari, then walk about 43 km via Sheshnag and Panchtarni to the cave at 3,888 m, usually over three to five days return. Registration with the Shrine Board and a health certificate are compulsory. Check current status before you travel."},
+    {"q": "Is Pahalgam better than Gulmarg?", "a": "They are different. Pahalgam is a river valley base for walks, villages and treks; Gulmarg is a single high meadow focused on the gondola and skiing. For families and slow travel in spring or autumn, we prefer Pahalgam. For snow in winter, choose Gulmarg."}
+  ]
+}

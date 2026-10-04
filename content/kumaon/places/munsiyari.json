@@ -1,0 +1,146 @@
+{
+  "slug": "munsiyari",
+  "name": "Munsiyari",
+  "region": "kumaon",
+  "kind": "town",
+  "wiki": "Munsiari",
+  "image_query": "Munsiyari Panchachuli peaks",
+  "lat": 30.07,
+  "lng": 80.24,
+  "altitude_m": 2200,
+  "tagline": "Panchachuli up close and the winter home of the Johar traders",
+  "meta_description": "Munsiyari guide: Panchachuli views, Khaliya Top hike, Tribal Heritage Museum, Johar valley and Milam permits, homestays, costs and the road via Thal.",
+  "summary": "Munsiyari is a cluster of villages at about 2,200 m in Pithoragarh district, facing the Panchachuli peaks across the Gori Ganga valley. It was the winter home of the Johari Shauka traders of Milam and is the gateway to the Johar valley. Come for Khaliya Top, the museum, birding and homestays; plan three to four nights.",
+  "intro": [
+    "Munsiyari is not one town but a group of villages and a market spread across a broad slope above the Gori Ganga. Across the valley the five Panchachuli summits rise to over 6,900 m, close enough that their glaciers are visible from the bazaar. The old core was a handful of villages including Surhing, Gorpata, Darati and Darkot; today the area includes Sarmoli, Jainti and others, and became a nagar panchayat in 2024.",
+    "For centuries this was the winter base of the Johari Shauka, Bhotiya traders whose summer villages lay up the Johar valley at Milam, Martoli and Laspa, above 3,000 m. Each autumn, when snow closed the high villages, families came down the Gori valley to Munsiyari with their animals. In summer the men took goods over the Untadhura pass to Tibet. That trade ended after 1962, but Munsiyari's families, houses and museum still carry its memory.",
+    "Munsiyari is a long way from anywhere: about 280 km and 9–11 hours from Kathgodam via Almora or Bageshwar and Thal. That distance keeps it quiet. Travellers come for the views, the day hike to Khaliya Top, birding in the Gori basin, homestays and the start of treks to Milam glacier, Ralam and Namik. Allow at least three nights here to make the journey worthwhile."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Nov"],
+    ["Nights we suggest", "3–4"],
+    ["Nearest airport", "Pantnagar (≈ 300 km · 10–11 h)"],
+    ["From Kathgodam", "≈ 280 km · 9–11 h via Bageshwar and Thal"],
+    ["Altitude", "about 2,200 m; Khaliya Top about 3,500 m"],
+    ["Known for", "Panchachuli, Johar valley, Khaliya Top, homestays, birding"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "3–4",
+  "highlights": [
+    {"title": "Panchachuli from the bazaar", "text": "Munsiyari faces the Panchachuli group directly across the Gori valley. Sunrise and sunset light the summits from any north-east-facing roof. October and November are clearest, and snow lies on the peaks all year."},
+    {"title": "Khaliya Top day hike", "text": "From Balati Bend, a few kilometres above town, a trail climbs through oak and rhododendron to the meadows of Khaliya Top at about 3,500 m. On clear mornings the view takes in Panchachuli, Nanda Devi East and Hardeol. Start at dawn."},
+    {"title": "Tribal Heritage Museum", "text": "A small private museum in Munsiyari collects the tools, clothes, documents and photographs of the Johari Shauka trading families: saddle bags for salt, trade records, household objects from Milam. It is the best way to understand the valley's history."},
+    {"title": "Birding in the Gori basin", "text": "More than 300 bird species have been recorded in the Gori river basin. Forest walks around Munsiyari and Sarmoli produce pheasants, laughingthrushes, finches and raptors, especially from March to May."},
+    {"title": "Birthi Falls and Kalamuni", "text": "On the drive in from Thal, the road passes Birthi Falls, a high waterfall beside the road, then climbs over the Kalamuni ridge with its small temple and first views of Panchachuli."},
+    {"title": "Homestay villages", "text": "Villages such as Sarmoli and Darkot host travellers in family homes, with Kumaoni meals, guided walks and local weaving. It is the best way to stay here and keeps your money in the valley."}
+  ],
+  "field_notes": [
+    {"fact": "Munsiyari's original villages, Surhing, Gorpata, Darati and Darkot, were the winter depot of the Bhotiya traders of Malla Johar, who left Milam and Laspa each winter when snow cut them off.", "source": "Munsiari"},
+    {"fact": "Nain Singh Rawat, born in Milam in 1830, became one of the British survey's pundit explorers; he fixed the position and altitude of Lhasa and counted his paces across Tibet, about 1,580 miles in all.", "source": "Nain Singh Rawat"},
+    {"fact": "By May 2014, 319 bird species had been recorded in the Gori river basin around Munsiyari, about a quarter of all bird species known from India.", "source": "Munsiari"}
+  ],
+  "local_word": {"word": "Shauka", "language": "Johari", "meaning": "the Bhotiya trading community of the Johar valley, also called Rangkas"},
+  "costs": [
+    ["Shared jeep seat, Haldwani–Munsiyari", "₹900–1,300"],
+    ["Shared jeep seat, Thal–Munsiyari", "₹200–350"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Guide for Khaliya Top day hike", "₹1,500–2,500 per group"],
+    ["Tribal Heritage Museum entry", "₹50–100"],
+    ["Private taxi, Kathgodam–Munsiyari", "₹8,000–10,000 one way"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 300 km away, 10–11 hours by road. Pithoragarh's small airport, about 130 km away, has had intermittent regional flights. Check current status before you travel."},
+    {"mode": "Road", "text": "From Kathgodam, the usual route runs via Almora or Bhowali to Bageshwar, then Thal, Birthi and Kalamuni to Munsiyari, about 280 km. Most travellers break the journey at Kausani, Chaukori or Bageshwar. A private taxi costs ₹8,000–10,000."},
+    {"mode": "Bus", "text": "Shared jeeps leave Haldwani early each morning for Munsiyari and take 10–12 hours; KMOU and Roadways buses run to Thal or Bageshwar, with jeeps on from there. Landslides between Thal and Munsiyari are common in the monsoon; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: the village homestays of Sarmoli and neighbouring villages are the best value and the most rooted stay, at about ₹1,500–2,500 per person with meals; small hotels in the bazaar start around ₹1,500 for a double. Comfort: a few mid-range hotels and cottage stays on the slopes offer heated rooms with Panchachuli views. There is no luxury hotel in Munsiyari; signature trips choose the best cottage stay and add a private guide and car.",
+  "stays": [],
+  "tips": [
+    "Spend at least three nights; the drive in takes a full day each way.",
+    "Leave Haldwani or Kathgodam by 6 am if you are going straight through, and carry snacks.",
+    "For Khaliya Top, start at first light and turn back if cloud closes in; there is no shelter.",
+    "Indian nationals need an Inner Line Permit from the SDM office in Munsiyari for Milam; check current status before you travel.",
+    "Carry enough cash; ATMs in Munsiyari can run out in peak weeks."
+  ],
+  "themes": ["treks-and-walks", "homestays-and-villages", "wildlife-and-birds", "photography"],
+  "nearby": ["chaukori", "kausani"],
+  "experiences": [
+    {
+      "slug": "munsiyari-khaliya-top-day-hike",
+      "title": "Day hike to Khaliya Top",
+      "kind": "trek",
+      "duration": "6–8 hours",
+      "best_time": "Dawn start, Apr–Jun and Sep–Nov",
+      "cost": "Guide ₹1,500–2,500 per group; forest fee may apply",
+      "image_query": "Khaliya Top Munsiyari meadow",
+      "wiki": "",
+      "summary": "Climb from Balati Bend through oak and rhododendron forest to the alpine meadows of Khaliya Top at about 3,500 m, for one of the widest views in Kumaon: Panchachuli, Nanda Devi East, Hardeol and the peaks of the Johar valley.",
+      "body": [
+        "The trail starts at Balati Bend, a few kilometres up the road from Munsiyari, where a forest gate marks the start. It climbs steadily through dense oak and rhododendron, then opens into meadows at the treeline. Most hikers take 3–4 hours up and 2–3 hours down, gaining roughly 900 m. Some old maps show a rest hut at Khaliya; check whether it is open if you want to stay.",
+        "At the top the view runs from Panchachuli in the east across the Johar valley peaks to Nanda Devi East and Hardeol. In May and June the meadows are green and flowers start; in October and November the sky is clearest. Snow can lie on the upper slopes from December to April, when the hike becomes harder.",
+        "Khaliya Top is about 3,500 m. Sleeping in Munsiyari at 2,200 m and going up for the day is usually fine for healthy adults, but go slowly, drink water and turn back if you get a headache or dizziness. Talk to your doctor before the hike if you have heart or lung problems. Carry warm layers, rain gear, food and water."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Khaliya Top trek?", "a": "It is a moderate day hike with a steady climb of about 900 m from Balati Bend to about 3,500 m. Fit walkers take 6–8 hours return. Snow in winter and spring makes it harder; a guide is advisable."},
+        {"q": "Do I need a guide for Khaliya Top?", "a": "The trail is used by many hikers, but fog can roll in fast and paths split in the meadows. A local guide costs about ₹1,500–2,500 per group and is recommended for first-timers."},
+        {"q": "Is altitude a problem on Khaliya Top?", "a": "Khaliya Top is about 3,500 m, but you sleep at 2,200 m in Munsiyari, which lowers the risk. Go slowly, drink water and descend if you feel unwell. Talk to your doctor if you have heart or lung conditions."}
+      ]
+    },
+    {
+      "slug": "munsiyari-tribal-heritage-museum",
+      "title": "Johar's story at the Tribal Heritage Museum",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "10 am–4 pm, all year",
+      "cost": "₹50–100",
+      "image_query": "Tribal Heritage Museum Munsiyari",
+      "wiki": "",
+      "summary": "This small private museum in Munsiyari gathers the objects and records of the Johari Shauka traders: salt and wool bags, trade ledgers, clothes, tools and photographs from Milam and the upper Johar valley. It explains why Munsiyari exists.",
+      "body": [
+        "The Johari Shauka, part of the wider Bhotiya community, lived in summer villages up the Johar valley and traded with western Tibet, crossing the Untadhura pass to markets such as Gyanima. They took grain and goods north and brought salt, wool and borax south, using sheep, goats and mules as pack animals. In winter they moved down to Munsiyari.",
+        "The museum was built up by a local historian from these families and shows the material of that life: pack saddles and bags, measures and scales, traditional dress and jewellery, household utensils, and photographs of the high villages and caravans. Labels are simple; ask the person on duty to explain, as they often know the stories behind objects.",
+        "The museum also tells of the Johari explorers, including Nain Singh Rawat of Milam, who surveyed Tibet for the British in the 19th century. Timings are informal, so check locally. Pair the visit with a walk through the older parts of Munsiyari's villages, where stone houses of trading families still stand."
+      ],
+      "good_for": ["students", "seniors", "families", "solo"],
+      "faqs": [
+        {"q": "What is the Tribal Heritage Museum in Munsiyari?", "a": "A small private museum that collects objects, documents and photographs from the Johari Shauka trading community of the Johar valley, including tools of the Tibet trade and household items from Milam."},
+        {"q": "Who are the Johari Shauka?", "a": "A Bhotiya community of the Johar valley who once traded with Tibet over the Untadhura pass, spending summers in high villages like Milam and winters in Munsiyari. The trade ended after 1962."},
+        {"q": "Is the museum open every day?", "a": "It is generally open in the daytime, but timings are informal and it may close without notice. Ask at your homestay or check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "munsiyari-birthi-falls-kalamuni",
+      "title": "Birthi Falls and the Kalamuni ridge",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Sep–Nov and Mar–Jun",
+      "cost": "Free; taxi from Munsiyari ₹1,500–2,500 return",
+      "image_query": "Birthi Falls Munsiyari road",
+      "wiki": "",
+      "summary": "On the road between Thal and Munsiyari, Birthi Falls drops from a high cliff close to the road, and the climb beyond to the Kalamuni ridge brings the first full view of Panchachuli. Stop on the way in, or drive back for a slow half day.",
+      "body": [
+        "Birthi is a small village on the Thal–Munsiyari road, about 35 km before Munsiyari. The waterfall here drops a long way down a rock face beside the road, fullest just after the monsoon in September and October. A short path leads close to the base; take care on wet rocks. KMVN keeps a rest house at Birthi.",
+        "Beyond Birthi the road climbs in tight bends through forest to Kalamuni, a ridge at about 2,700 m with a small temple to Kalamuni and Kali. It is the highest point on the road, and on clear days the Panchachuli group appears ahead. Snow can close this stretch for a day or two in winter.",
+        "Stop at Kalamuni to stretch and pay respects at the temple; drivers often do. The forest around is good for birds, including pheasants in winter. Drive slowly on this section, which is narrow with steep drops, and avoid it after dark or in heavy rain. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Where is Birthi Falls?", "a": "Birthi Falls is beside the Thal–Munsiyari road at Birthi village, about 35 km before Munsiyari. It is easy to see from the road and a short walk takes you closer."},
+        {"q": "What is Kalamuni?", "a": "Kalamuni is a ridge at about 2,700 m on the road to Munsiyari, with a small temple. It is the highest point on the road and gives the first full view of Panchachuli on clear days."},
+        {"q": "Is the road to Munsiyari safe?", "a": "It is narrow and winding with steep drops, especially near Kalamuni, but is driven daily by local jeeps. Travel in daylight, avoid heavy rain and snow, and check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Munsiyari from Delhi?", "a": "Take a train to Kathgodam, then a shared jeep or taxi via Bageshwar and Thal, about 280 km and 9–11 hours. Most travellers break the trip at Kausani or Chaukori. Shared jeeps from Haldwani leave early in the morning."},
+    {"q": "What is the best time to visit Munsiyari?", "a": "March to June and September to November. October and November have the clearest Panchachuli views. Winter brings snow and very cold nights, and July and August bring heavy rain and landslides on the Thal road."},
+    {"q": "How many days are needed for Munsiyari?", "a": "At least three nights in Munsiyari itself, plus the two travel days. That allows Khaliya Top, the museum, a village walk and a rest day for weather."},
+    {"q": "Do I need a permit for Munsiyari?", "a": "Not for Munsiyari town or Khaliya Top. Indian nationals need an Inner Line Permit from the SDM office in Munsiyari for the upper Johar valley towards Milam; rules for foreign nationals are stricter. Check current status before you travel."},
+    {"q": "Is there altitude sickness risk in Munsiyari?", "a": "Munsiyari is at about 2,200 m, where altitude problems are rare for healthy people. Day hikes to Khaliya Top reach about 3,500 m; go slowly and turn back if unwell. Treks towards Milam sleep above 3,000 m and need proper acclimatisation."},
+    {"q": "Does it snow in Munsiyari?", "a": "Yes, Munsiyari usually gets snow between December and February, and the road over Kalamuni can close for a day or two. Nights fall well below freezing."},
+    {"q": "Is there mobile network in Munsiyari?", "a": "Jio, Airtel and BSNL work in Munsiyari town, with weaker signal in outer villages and none on much of the Johar trek. Expect gaps on the Thal–Munsiyari road."},
+    {"q": "Are there homestays in Munsiyari?", "a": "Yes. Sarmoli and other villages have long-running homestays with Kumaoni meals and guided walks, at about ₹1,500–2,500 per person with meals. They are the best way to stay here."},
+    {"q": "Can I trek to Milam glacier from Munsiyari?", "a": "Yes, with an Inner Line Permit, a local guide and a good level of fitness. The route runs up the Gori Ganga past Bugdiyar, Rilkot and Martoli to Milam. A new road is being built up the valley, so roadheads change; check current status before you travel."}
+  ]
+}

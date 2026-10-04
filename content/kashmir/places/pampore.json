@@ -1,0 +1,145 @@
+{
+  "slug": "pampore",
+  "name": "Pampore",
+  "region": "kashmir",
+  "kind": "town",
+  "wiki": "Pampore",
+  "image_query": "Pampore saffron fields crocus",
+  "lat": 34.02,
+  "lng": 74.93,
+  "altitude_m": 1580,
+  "tagline": "Saffron town on the karewas, 15 km from Srinagar",
+  "meta_description": "Pampore guide: Kashmir saffron harvest from late October, GI tag rules, buying genuine saffron, Avantipora temple ruins, costs and timing for 2026.",
+  "summary": "Pampore is Kashmir's saffron town, on the Jhelum about 15 km south-east of Srinagar. Its karewa plateaus grow most of India's saffron, which carries a GI tag since 2020. Visit from late October to mid November to see the purple crocus picked at dawn, and add the 9th-century Avantipora temple ruins nearby.",
+  "intro": [
+    "Drive south from Srinagar on the Jammu highway and, after about 15 km, the road climbs onto the karewas of Pampore: flat, dry plateaus of old lake sediment above the Jhelum. For most of the year they look like bare brown fields. For about three weeks from late October, they turn purple, as saffron crocus flowers open across hundreds of hectares and families walk the rows at dawn with wicker baskets.",
+    "Pampore, known in antiquity as Padmapura, has long been the centre of the Kashmir saffron trade, and the region has produced the large majority of India's crop. Production has fallen in recent years with warmer, drier autumns and erratic rain, and the government has invested in irrigation and a trading centre at Dussu to support growers. Kashmir saffron received a Geographical Indication tag in May 2020.",
+    "The town is also a convenient stop on the way to Pahalgam or the south of the valley. A few kilometres on, at Awantipora, stand the ruins of two 9th-century stone temples built by King Avantivarman. Pampore is also linked with the poet Habba Khatoon, who was born in a village nearby."
+  ],
+  "facts": [
+    ["Best months", "Late Oct – mid Nov for saffron; Apr – Jun, Sep"],
+    ["Nights we suggest", "0 (half-day trip from Srinagar)"],
+    ["Nearest airport", "Srinagar, about 25 km"],
+    ["From Srinagar", "≈ 15 km · 30–40 min"],
+    ["Altitude", "about 1,580 m"],
+    ["Known for", "Saffron, karewa plateaus, Avantipora ruins nearby"]
+  ],
+  "best_months": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "Saffron in flower", "text": "From about the last week of October to mid November, the karewas bloom purple with crocus. Picking happens at dawn, and the fields are best seen between 7 and 10 am before the flowers are cleared."},
+    {"title": "Stigma separation", "text": "After picking, families separate the three red stigmas of each flower by hand at home, then dry them. Ask a grower or your guide whether you can watch respectfully; it is slow, careful work."},
+    {"title": "Avantipora temple ruins", "text": "The Avantiswami Temple, built by King Avantivarman around 853–855 CE, is a ruined stone complex protected by the Archaeological Survey of India, about 15 km beyond Pampore on the Jhelum."},
+    {"title": "Buying GI-tagged saffron", "text": "Buy from growers, government-approved sellers or the trading centre at Dussu, and look for GI labels. Genuine Kashmir saffron is dark red with thick stigmas and a strong aroma."},
+    {"title": "Kahwa on the highway", "text": "Roadside shops in Pampore sell saffron kahwa and Kashmiri bakery goods. It is a good breakfast stop on the way to Pahalgam."}
+  ],
+  "field_notes": [
+    {"fact": "Kashmir saffron received a Geographical Indication tag on 1 May 2020. It is grown on the karewa highlands at roughly 1,600–1,800 m, mainly in Pulwama, Budgam, Srinagar and Kishtwar districts, with Pampore as the hub.", "source": "Geographical Indications Registry, Government of India"},
+    {"fact": "Pampore was known in antiquity as Padmapura, and it remains so linked with the spice that it is commonly called the saffron town of Kashmir.", "source": "Pampore"},
+    {"fact": "The Avantiswami Temple at Awantipora was built by King Avantivarman around 853–855 CE and dedicated to Vishnu. Locals call the ruins Pandav Lari, the house of the Pandavas.", "source": "Avantiswami Temple"}
+  ],
+  "local_word": {"word": "Kong", "language": "Kashmiri", "meaning": "saffron; kong posh is the saffron flower"},
+  "costs": [
+    ["Genuine Kashmir saffron, retail", "₹250–500 a gram"],
+    ["Private taxi Srinagar–Pampore–Avantipora half day", "₹1,500–2,500"],
+    ["Local train Srinagar–Pampore", "₹10–30"],
+    ["Shared Sumo seat Srinagar–Pampore", "₹40–80"],
+    ["ASI entry at Avantipora ruins", "₹20–50 for Indians"],
+    ["Saffron kahwa at a roadside shop", "₹50–100"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Srinagar airport is about 25 km away, 40–50 minutes by taxi via the bypass."},
+    {"mode": "Train", "text": "Pampore has a station on the Banihal–Baramulla line. Local DEMU trains from Srinagar take about 15–20 minutes and cost a few rupees. Check current timetables before you travel."},
+    {"mode": "Road", "text": "Pampore lies on NH44, the Srinagar–Jammu highway, about 15 km from Srinagar. Shared Sumos and buses heading to Awantipora, Anantnag or Pulwama stop here."}
+  ],
+  "where_to_stay": "Most travellers visit Pampore as a half-day trip from Srinagar and stay there: houseboats and guesthouses for saver budgets, Boulevard hotels for comfort, and The LaLiT for signature trips. Pampore itself has very limited tourist accommodation. If you are heading south, combine Pampore with Avantipora on the way to Pahalgam.",
+  "stays": [],
+  "tips": [
+    "Go at 7–8 am during the harvest; flowers are picked early and fields are bare by midday.",
+    "Do not walk into saffron fields without permission; the plants are a family's annual income.",
+    "Buy saffron only with a GI label or from a known grower, and avoid cheap loose saffron.",
+    "Check harvest timing each year; warm autumns can delay flowering by a week or more.",
+    "Combine Pampore with Avantipora and a kahwa stop on the way to Pahalgam."
+  ],
+  "themes": ["food-and-tea", "photography", "road-trips", "homestays-and-villages"],
+  "nearby": ["srinagar", "pahalgam", "dachigam"],
+  "experiences": [
+    {
+      "slug": "pampore-saffron-harvest-at-dawn",
+      "title": "Saffron harvest at dawn on the karewas",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "7 am, late Oct–mid Nov",
+      "cost": "Free to view from roadsides; guide ₹1,000–2,000",
+      "image_query": "saffron harvest Pampore Kashmir",
+      "wiki": "Pampore",
+      "summary": "For about three weeks each autumn, Pampore's karewas turn purple with saffron crocus. Families pick the flowers at dawn into wicker baskets and separate the red stigmas by hand at home. Seeing it is the most local experience in Kashmir, and it lasts only a short window.",
+      "body": [
+        "Saffron crocus is planted as corms that stay in the ground for years. In late October, low purple flowers push up from the dry soil, and for three or four weeks, with a peak of about ten days, families go out at first light to pick them before the petals fully open and the sun dulls the colour. Each flower holds three red stigmas; it takes many thousands of flowers to produce a few hundred grams of dried saffron.",
+        "View the fields from the roads and paths that cross the karewas, or go with a local guide who can introduce you to a grower family. Do not step into the rows without permission; the plants are delicate, and the crop is a family's yearly income. Some growers welcome visitors to see the stigma separation at home and to buy directly.",
+        "Harvest dates vary with weather. Warm, dry autumns have delayed flowering in recent years, and yields have fallen. Check timing with a local contact a week before you travel. Mornings are cold, close to freezing, so dress warmly."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "When is the saffron harvest in Pampore?", "a": "Usually from the last week of October to mid November, peaking for about ten days. Exact timing depends on the year's weather and can shift by a week or more. Check current status with a local contact before you travel."},
+        {"q": "Can tourists pick saffron in Pampore?", "a": "Generally not; picking is careful family work and the crop is valuable. Some growers may invite you to try under supervision or to watch stigma separation at home. Always ask before entering fields, and buy from the family if you visit."},
+        {"q": "What time should I visit the saffron fields?", "a": "Between 7 and 10 am. Flowers are picked early, and by midday many fields are bare for the day. Morning light is also best for photographs. Leave Srinagar by 6.30 am to be in Pampore by 7."}
+      ]
+    },
+    {
+      "slug": "pampore-avantipora-temple-ruins",
+      "title": "Avantipora's 9th-century temple ruins",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Morning, all year",
+      "cost": "Small ASI entry fee",
+      "image_query": "Avantiswami Temple ruins Awantipora",
+      "wiki": "Avantiswami Temple",
+      "summary": "About 15 km beyond Pampore, at Awantipora on the Jhelum, lie the ruins of two stone temples built by King Avantivarman in the 9th century. The Avantiswami Temple, dedicated to Vishnu, keeps carved pillars, gateways and a colonnaded courtyard, and is protected by the Archaeological Survey of India.",
+      "body": [
+        "King Avantivarman, who ruled Kashmir in the 9th century, founded the town of Avantipura and built two temples here: the Avantiswami, to Vishnu, built around 853–855 CE, and the larger Avantishvara, to Shiva. Both are now ruins of grey stone, but the Avantiswami complex still shows its plan: a raised central shrine inside a courtyard enclosed by colonnaded cells, with a carved gateway.",
+        "Look closely at the gateway and pillars for carvings of river goddesses and figures, still crisp after more than a thousand years. The style is related to the Martand Sun Temple near Anantnag, built earlier, and is typical of early medieval Kashmiri stone architecture. Locals call the site Pandav Lari, the house of the Pandavas.",
+        "The site sits beside the main highway and is easy to combine with Pampore on the way to Pahalgam. Pay the ASI entry fee at the gate, keep to paths and do not climb on the stones. Morning light suits photography. Allow an hour, or two if you also visit the Avantishvara ruins nearby."
+      ],
+      "good_for": ["students", "photographers", "seniors", "families"],
+      "faqs": [
+        {"q": "How far is Avantipora from Srinagar?", "a": "About 30 km south-east of Srinagar on the Jammu highway, roughly 45 minutes to an hour by car, and about 15 km beyond Pampore. Local trains also stop at Awantipora station."},
+        {"q": "Is there an entry fee at the Avantipora ruins?", "a": "Yes, the Archaeological Survey of India charges a small fee, typically a few tens of rupees for Indian visitors and more for foreigners. Check current status at the gate."},
+        {"q": "How long should I spend at Avantipora?", "a": "One hour for the Avantiswami Temple, two if you add the Avantishvara ruins. Most visitors combine it with a saffron stop at Pampore on the way to Pahalgam, making a relaxed half day."}
+      ]
+    },
+    {
+      "slug": "pampore-buying-gi-saffron",
+      "title": "How to buy genuine Kashmir saffron in Pampore",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Any day, best Nov–Dec after harvest",
+      "cost": "₹250–500 a gram for genuine saffron",
+      "image_query": "Kashmir saffron stigmas",
+      "wiki": "",
+      "summary": "Pampore is the best place to buy Kashmir saffron, but fakes and blends are common across India. Knowing the grades, the GI label and a few simple checks helps you buy well, directly from growers or official channels.",
+      "body": [
+        "Kashmir saffron is sold in three traditional forms recognised under the GI: lachha, stigmas just separated from the flowers and dried loose with their lighter lower part; mongra, the red stigmas detached, sun-dried and processed in the traditional way; and guchhi, like lachha but bundled together and tied with cloth thread. Mongra is the most prized and most expensive. Genuine saffron in recent years has sold for roughly ₹250–500 a gram depending on grade and season.",
+        "Buy from growers you meet through a trusted contact, from government-approved outlets, or through the trading centre at Dussu, Pampore, set up to grade, test and auction growers' saffron. Look for a GI logo and batch details. Avoid very cheap saffron sold by touts on houseboats or roadside stalls.",
+        "Simple checks help. Genuine stigmas are dark red, slightly trumpet-shaped at one end, and release a golden-yellow colour slowly when placed in warm water, not instantly red. The smell should be strong, honeyed and slightly bitter. Store saffron in an airtight tin, away from light."
+      ],
+      "good_for": ["couples", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How much does Kashmir saffron cost?", "a": "Genuine Kashmir saffron has sold for roughly ₹250–500 a gram in recent years, with mongra at the top end. Prices change with the harvest and demand. Anything far cheaper is likely blended, low grade or fake."},
+        {"q": "How can I tell if saffron is real?", "a": "Real saffron threads are dark red, slightly flared at one end, and release a golden colour slowly in warm water. Fake saffron often bleeds red instantly or feels oily. Buy with a GI label from approved sellers or growers."},
+        {"q": "What is the difference between mongra and lachha saffron?", "a": "Mongra is only the deep red upper part of the stigma, dried and separated, giving the strongest colour and aroma. Lachha keeps the whole stigma with the lighter lower part attached. Mongra costs more; both are genuine Kashmir saffron under the GI."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When is the best time to visit Pampore?", "a": "From about the last week of October to mid November, when the saffron crocus flowers and families harvest at dawn. Outside this window, Pampore is a good stop for buying saffron and visiting the Avantipora ruins on the way to Pahalgam."},
+    {"q": "How far is Pampore from Srinagar?", "a": "About 15 km south-east on NH44, the Jammu highway, 30–40 minutes by car. Local trains on the Banihal–Baramulla line take about 15–20 minutes, and shared Sumos stop on the highway."},
+    {"q": "Can we visit saffron fields outside harvest season?", "a": "You can see the karewa fields, but they look like bare earth for most of the year. The crocus leaves are green in winter and spring. Plan for late October or early November if you want to see flowers."},
+    {"q": "Is Pampore saffron the best in the world?", "a": "Kashmir saffron is prized for its deep colour and aroma, partly due to high-altitude growing on the karewas, and has a GI tag. Quality depends on grade and handling. Buy mongra grade from trusted growers for the best of it."},
+    {"q": "How much time do I need in Pampore?", "a": "Two to three hours covers a dawn field visit and buying saffron. Add an hour or two for the Avantipora temple ruins. Most travellers combine Pampore with the drive to Pahalgam or a half-day trip from Srinagar."},
+    {"q": "Is it okay to photograph saffron pickers?", "a": "Ask first. Many families are happy to be photographed from the edge of a field, but some, especially women, prefer not. Do not walk into rows without permission. Buying a little saffron from a family you photograph is a good gesture."},
+    {"q": "Why has Kashmir saffron production fallen?", "a": "Warmer, drier autumns, erratic rainfall and the conversion of karewa land have cut yields in recent years. The government has invested in irrigation, a trading centre and quality testing to support growers. Prices have risen as a result."},
+    {"q": "Can I reach Pampore by train?", "a": "Yes. Pampore has a station on the Banihal–Baramulla line, and local DEMU trains from Srinagar stop here. It is cheap and quick. Check current timetables before you travel, as service frequency varies."},
+    {"q": "Is there anything else to see near Pampore?", "a": "The 9th-century Avantiswami and Avantishvara temple ruins at Awantipora, about 15 km on, are the main sight. Further south, the Martand Sun Temple near Anantnag is another ASI-protected ruin on the way to Pahalgam."}
+  ]
+}

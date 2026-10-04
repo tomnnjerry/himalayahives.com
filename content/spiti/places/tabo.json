@@ -1,0 +1,145 @@
+{
+  "slug": "tabo",
+  "name": "Tabo",
+  "region": "spiti",
+  "kind": "monastery",
+  "wiki": "Tabo Monastery",
+  "image_query": "Tabo Monastery Spiti",
+  "lat": 32.094,
+  "lng": 78.383,
+  "altitude_m": 3050,
+  "tagline": "A working monastery founded in 996 CE, painted inside",
+  "meta_description": "Tabo travel guide: the 996 CE monastery called the Ajanta of the Himalayas, meditation caves, the Gue mummy detour, stays, bus fares and best months.",
+  "summary": "Tabo, at about 3,050 m on the Spiti river, is home to a monastery founded in 996 CE by the translator Rinchen Zangpo. Its mud-walled halls hold some of the oldest Buddhist paintings and clay sculptures in the Himalaya. It is the lowest overnight stop in Spiti and the right first night on the Shimla route.",
+  "intro": [
+    "From the road, Tabo Monastery looks like a cluster of low mud buildings with flat roofs, and you might drive past. Inside is something else. The main assembly hall, built in 996 CE when Rinchen Zangpo founded the monastery for Yeshe-Ö, king of Guge, is lined with life-size clay figures of deities and walls of painted scenes. The Archaeological Survey of India protects it, and scholars call it the Ajanta of the Himalayas.",
+    "The complex has nine temples, several stupas and a newer monastery building where about 45 monks live and study. The Dalai Lama conducted Kalachakra initiations here in 1983 and 1996, when tens of thousands camped in the village. Above the monastery, small caves cut into the cliff were used for meditation and still have traces of paintings.",
+    "Tabo village is small and quiet, with apricot and apple trees, a few guesthouses and homestays, and the Tabo Monastery Guest House. At about 3,050 m it is the lowest overnight stop in Spiti, which makes it an excellent first night after Nako on the Shimla route, and a gentle last night for anyone who struggled with the altitude in Kaza."
+  ],
+  "facts": [
+    ["Best months", "May – Oct; reachable most of the year from Shimla"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Shimla (about 370 km) or Bhuntar (about 280 km via Kaza)"],
+    ["From Kaza", "≈ 47 km · 1.5–2 h"],
+    ["Altitude", "about 3,050 m"],
+    ["Known for", "996 CE monastery, murals, meditation caves, Gue mummy detour"]
+  ],
+  "best_months": [1, 1, 0, 1, 2, 2, 2, 1, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The old assembly hall", "text": "Inside the 996 CE hall, clay deities stand along the walls above painted scenes of the Buddha's life. The hall is dark; bring a small torch and use it only where allowed. Photography inside the old temples is not permitted."},
+    {"title": "Meditation caves above the village", "text": "A short, steep path leads from the village to caves cut into the cliff. Monks once meditated here, and faint paintings survive. Go in the late afternoon when the light is softer, and do not touch the walls."},
+    {"title": "The new monastery and morning prayers", "text": "Beside the old complex, the newer monastery is where today's monks pray and study. Morning prayers are open to quiet visitors who sit at the back."},
+    {"title": "Apricots and the lowest night in Spiti", "text": "At about 3,050 m, Tabo is warmer than Kaza, with apricot and apple orchards. It is the easiest place in Spiti to sleep well, and a good first night on the climb from Kinnaur."},
+    {"title": "The mummy of Gue", "text": "About 45–50 km from Tabo, off the road near Sumdo, the village of Gue keeps the seated mummy of a monk thought to date from the 1500s in a small shrine. It is a place of worship; ask before photographing."}
+  ],
+  "field_notes": [
+    {"fact": "Tabo was founded in 996 CE by the translator Rinchen Zangpo on behalf of Yeshe-Ö, king of the western Himalayan kingdom of Guge. It is the oldest continuously operating Buddhist monastery in India and the Himalaya.", "source": "Tabo Monastery"},
+    {"fact": "The original monastery was severely damaged in the 1975 Kinnaur earthquake and restored afterwards. The Dalai Lama held Kalachakra initiations at Tabo in 1983 and 1996.", "source": "Tabo Monastery"},
+    {"fact": "The mummy at Gue is believed to be the monk Sangha Tenzin, who died in the 1500s. Villagers knew of it after the 1975 earthquake damaged its tomb, and it was recovered during road work in 2004.", "source": "Sangha Tenzin"}
+  ],
+  "local_word": {"word": "Chos-khor", "language": "Tibetan", "meaning": "wheel or enclosure of the dharma; Tabo's full name is Tabo Chos-khor"},
+  "costs": [
+    ["HRTC bus, Reckong Peo–Tabo", "₹300–400"],
+    ["HRTC bus, Tabo–Kaza", "₹80–120"],
+    ["Homestay or guesthouse with dinner and breakfast", "₹1,200–2,500 per person"],
+    ["Monastery entry", "Free; donation welcome"],
+    ["Taxi Tabo–Gue mummy and back", "₹2,500–3,500 per car"],
+    ["Thali or thukpa at a village cafe", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Shimla airport serves the Kinnaur approach, about two days by road to Tabo. Bhuntar airport near Kullu serves the Manali side; Tabo is 47 km beyond Kaza."},
+    {"mode": "Bus", "text": "HRTC buses between Reckong Peo and Kaza stop at Tabo daily. From Shimla, take a bus to Reckong Peo the day before. Check current timings before you travel."},
+    {"mode": "Road", "text": "Tabo is on NH-505, about 47 km from Kaza (1.5–2 h) and about 63 km from Nako. The Shimla road is usually open year-round, apart from landslides and heavy snow."}
+  ],
+  "where_to_stay": "Saver: the Tabo Monastery Guest House beside the complex has simple rooms and a dorm, some with shared bathrooms; family homestays and guesthouses charge ₹1,200–2,500 a person with meals. Comfort: a handful of better guesthouses and mud-house stays in the village have attached bathrooms and hot water; we choose them each season. Signature: there is no luxury hotel in Tabo. Signature trips stay at the best available room for one night or base themselves in Kaza and visit Tabo on a day trip with Dhankar.",
+  "stays": ["tabo-monastery-guest-house"],
+  "tips": [
+    "Photography is not allowed inside the old temples; respect the guards and signs.",
+    "Bring a small torch for the dark assembly hall and use it only where permitted.",
+    "Make Tabo your first night in Spiti if you come from Shimla; it is the lowest stop.",
+    "Visit the Gue mummy on the way between Nako and Tabo to save a separate trip.",
+    "Carry cash: Tabo has limited ATMs and network can be unreliable."
+  ],
+  "themes": ["monasteries", "road-trips", "homestays-and-villages", "photography"],
+  "nearby": ["dhankar", "nako", "kaza", "pin-valley"],
+  "experiences": [
+    {
+      "slug": "tabo-monastery-murals-visit",
+      "title": "The thousand-year-old halls of Tabo",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "9 am–noon, May–Oct",
+      "cost": "Free; donation welcome",
+      "image_query": "Tabo Monastery murals",
+      "wiki": "Tabo Monastery",
+      "summary": "Walk through the mud-walled temples of Tabo, founded in 996 CE, to see painted walls and clay deities that have survived a thousand years and an earthquake.",
+      "body": [
+        "The old complex at Tabo is a walled enclosure of nine temples, built of mud brick in the late 10th and early 11th centuries. The main assembly hall is the one to see: clay figures of deities are fixed to the walls above head height, and below them painted panels tell stories from Buddhist texts.",
+        "Light is low and photography is not allowed inside the old temples. Let your eyes adjust and look slowly. A monk or caretaker usually opens the halls in the morning and may explain the main images. Leave a donation in the box.",
+        "The walls are fragile mud and the paintings are old. Do not touch them, do not lean on the walls, and keep bags close to your body. After the old halls, visit the new monastery next door, where monks pray and study today, and the stupas outside the enclosure."
+      ],
+      "good_for": ["first-timers", "seniors", "families", "couples", "solo"],
+      "faqs": [
+        {"q": "Can I take photos inside Tabo Monastery?", "a": "No, photography is not allowed inside the old temples. Photograph the exterior, stupas and courtyard instead."},
+        {"q": "When does Tabo Monastery open?", "a": "The halls are usually opened in the morning and afternoon by a monk or caretaker. Times vary; ask at the monastery office or your guesthouse."},
+        {"q": "Why is Tabo called the Ajanta of the Himalayas?", "a": "Because of its old wall paintings and clay sculptures, which survive inside the original mud-walled halls."}
+      ]
+    },
+    {
+      "slug": "tabo-meditation-caves-walk",
+      "title": "Climb to Tabo's meditation caves",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "4–6 pm, May–Oct",
+      "cost": "Free",
+      "image_query": "Tabo caves Spiti",
+      "wiki": "",
+      "summary": "A short, steep path from the village climbs to caves cut into the cliff above Tabo, once used by monks for meditation, with faint paintings and a wide view of the monastery below.",
+      "body": [
+        "Above the village, a cliff of soft rock is dotted with caves. Monks once used them for meditation and retreat, and one larger cave was used as an assembly hall. Traces of painting remain on some walls.",
+        "The path is short but steep and loose, about 20–30 minutes up from the village. Wear shoes with grip and go slowly, even though Tabo is the lowest stop in Spiti. Late afternoon is best: the cliff faces west and the light falls across the monastery roofs.",
+        "Treat the caves as sacred places. Do not write on walls, do not light fires or candles, and take any rubbish back down. From the top, you can see the old complex's layout clearly: the enclosure wall, the temples and the stupas along the river."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "How hard is the walk to Tabo caves?", "a": "Short but steep, about 20–30 minutes up on loose ground. Wear proper shoes and go slowly."},
+        {"q": "Is there an entry fee for the caves?", "a": "No. The caves are open and free; treat them as a sacred site."},
+        {"q": "When is the best time to visit the caves?", "a": "Late afternoon, when the light falls across the monastery and the day's heat has gone."}
+      ]
+    },
+    {
+      "slug": "tabo-gue-mummy-detour",
+      "title": "The mummy of Gue, a detour from Tabo",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "Morning, May–Oct",
+      "cost": "Taxi ₹2,500–3,500 return; donation welcome",
+      "image_query": "Gue mummy Spiti",
+      "wiki": "Sangha Tenzin",
+      "summary": "In the small village of Gue, a shrine holds the seated mummy of a monk thought to have died in the 1500s. A half-day side trip from Tabo, or a stop on the way from Nako.",
+      "body": [
+        "Gue lies up a side road from NH-505 near Sumdo, about 45–50 km from Tabo. In a small shrine on the edge of the village sits the mummified body of a monk in meditation posture, believed to be Sangha Tenzin, who died in the 1500s. Villagers knew of it after the 1975 earthquake broke open its tomb, and it was recovered during road work in 2004.",
+        "For the village, the mummy is an object of worship, not a curiosity. Remove your hat, speak quietly, and ask before taking photographs; some caretakers allow photos through the glass, others prefer not.",
+        "Combine Gue with your drive between Nako and Tabo to avoid doubling back. The side road climbs steeply; allow 1.5–2 hours for the detour including the visit. Carry water and snacks, as there are few shops."
+      ],
+      "good_for": ["first-timers", "photographers", "families", "students"],
+      "faqs": [
+        {"q": "How far is the Gue mummy from Tabo?", "a": "About 45–50 km, up a side road from NH-505 near Sumdo. Allow a half day from Tabo, or visit on the drive from Nako."},
+        {"q": "Can I photograph the Gue mummy?", "a": "Ask the caretaker. It is a sacred object for the village, and permission varies."},
+        {"q": "Do foreigners need a permit for Gue?", "a": "Gue is near the border belt where foreign nationals need a Protected Area Permit. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How old is Tabo Monastery?", "a": "Tabo Monastery was founded in 996 CE by the translator Rinchen Zangpo for the king of Guge. It is described as the oldest continuously operating Buddhist monastery in India and the Himalaya, and the old halls are protected by the Archaeological Survey of India."},
+    {"q": "Is photography allowed in Tabo Monastery?", "a": "Not inside the old temples, where the paintings and clay sculptures are fragile. You can photograph the exterior, the stupas and the new monastery courtyard. Always ask before photographing monks, and never use flash."},
+    {"q": "How do I reach Tabo by bus?", "a": "HRTC buses between Reckong Peo and Kaza stop at Tabo daily. From Shimla, ride to Reckong Peo the day before; the Peo–Tabo fare is about ₹300–400 and Tabo–Kaza about ₹80–120. Timings change, so check current status at the bus stand."},
+    {"q": "How many nights should I stay in Tabo?", "a": "One night is enough for the monastery and caves; two if you want the Gue mummy and Dhankar as day trips. On the Shimla route, Tabo is the best first night in Spiti because it is lower than Kaza and easier for acclimatisation."},
+    {"q": "Is Tabo good for acclimatisation?", "a": "Yes. At about 3,050 m it is the lowest overnight stop in Spiti, so it is a gentle step up from Nako and a good place to recover if Kaza left you short of breath. Drink water and rest on arrival; talk to your doctor before you travel."},
+    {"q": "Can I stay at Tabo Monastery?", "a": "The Tabo Monastery Guest House beside the complex takes travellers in simple rooms and a dorm, with basic facilities and sometimes shared bathrooms. Book ahead in July and August, or ask on arrival in quieter months."},
+    {"q": "Is there an ATM in Tabo?", "a": "Tabo has had an ATM, but it is unreliable. Carry enough cash from Reckong Peo or Kaza for guesthouses, taxis and donations."},
+    {"q": "Is Tabo open in winter?", "a": "Tabo is reachable most of the year from Shimla via Kinnaur, though snow and landslides can close the road. Most guesthouses close from November to March; the monastery remains active. Winter travel needs a local operator and warm gear."},
+    {"q": "What is the best time to visit Tabo?", "a": "May to October. May and October are quiet and cool, and September has clear skies and harvest colours. In July and August, rain in Kinnaur can trigger landslides on the approach road, so keep a spare day."}
+  ]
+}

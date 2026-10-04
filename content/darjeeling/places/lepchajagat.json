@@ -1,0 +1,144 @@
+{
+  "slug": "lepchajagat",
+  "name": "Lepchajagat",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Lepchajagat forest Darjeeling",
+  "lat": 26.997,
+  "lng": 88.208,
+  "altitude_m": 2100,
+  "tagline": "A forest hamlet on the Ghum–Mirik road",
+  "meta_description": "Lepchajagat guide: quiet forest village near Ghum with Kangchenjunga views, Jorepokhri newt lake and Ghum Monastery, 19 km from Darjeeling.",
+  "summary": "Lepchajagat is a small forest hamlet at about 2,100 m on the road from Ghum towards Sukhiapokhri and Mirik, roughly 19 km from Darjeeling. Pine and cryptomeria forest, a few homestays and views of Kangchenjunga make it a quiet alternative to Darjeeling town. Stay 1 night; October–April is best.",
+  "intro": [
+    "Lepchajagat is what Darjeeling must have felt like before the traffic. A few houses, homestays and a forest lodge sit in dense pine, oak and cryptomeria on the ridge west of Ghum, along the road to Sukhiapokhri and Mirik. On clear mornings, clearings in the forest look north to Kangchenjunga, and on cloudy days mist moves through the trees all afternoon.",
+    "The name suggests the place of the Lepcha, the hills' first people. Today the hamlet is small and mostly Nepali-speaking, and it has become popular with travellers from Kolkata who want a quiet night near Darjeeling. It works as an overnight stop on the way to Mirik, or as a calm base for an early Tiger Hill trip, which is a short drive away via Ghum.",
+    "Nearby, the lakes at Jorepokhri and Sukhiapokhri are breeding sites for the endangered Himalayan newt, protected as wildlife sanctuaries. Ghum Monastery and the Batasia Loop are about 10 km away. Lepchajagat itself has no sights to tick off: walk the forest, read in the sun, and go to bed early for sunrise."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 85 km · 3.5 h"],
+    ["From Darjeeling", "≈ 19 km · 45 min"],
+    ["Altitude", "≈ 2,100 m"],
+    ["Known for", "Forest stays, Kangchenjunga views, quiet nights near Ghum"]
+  ],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Forest walks in pine and cryptomeria", "text": "Forest tracks lead off the main road through tall pine and cryptomeria, the Japanese cedar locals call dhupi. Walk in the morning, when birds are active and mist is thin. Keep to clear paths and walk with your host if unsure."},
+    {"title": "Kangchenjunga at dawn", "text": "Viewpoints near the hamlet face north to Kangchenjunga. Sunrise here is quieter than at Tiger Hill, without queues of jeeps. Ask your homestay for the nearest clear spot that season."},
+    {"title": "Jorepokhri newt lake", "text": "Jorepokhri, a few kilometres towards Sukhiapokhri, is a small twin lake where the endangered Himalayan newt gathers to breed. It is a protected sanctuary, so look but do not disturb the water or banks."},
+    {"title": "Ghum Monastery and Batasia", "text": "About 10 km away, Ghum Monastery houses a 15 ft Maitreya statue, and the Batasia Loop curls the toy train around a Gorkha war memorial. Visit both on the way to or from Darjeeling."},
+    {"title": "Sukhiapokhri border market", "text": "Sukhiapokhri, a few kilometres west, is a market village near the Nepal border crossing to Pashupatinagar. Stop for tea, local cheese and a look at cross-border trade on the way to Mirik."}
+  ],
+  "field_notes": [
+    {"fact": "The endangered Himalayan newt gathers to breed around the lakes of Jore Pokhri and Sukhiapokhri, near Lepchajagat. Both lie within 20 km of Singalila National Park and are protected wildlife sanctuaries.", "source": "Singalila National Park"},
+    {"fact": "Sukhiapokhri, near Lepchajagat, has a crossing to Pashupatinagar in Nepal with a Nepal customs checkpoint. Indian and Nepalese nationals cross without restriction.", "source": "Sukhia Pokhri"},
+    {"fact": "Ghum Monastery, Yiga Choeling, was established in 1850 by the Mongolian astrologer and monk Sokpo Sherab Gyatso. His successor commissioned its 15 ft statue of Maitreya Buddha.", "source": "Ghum Monastery"}
+  ],
+  "local_word": {"word": "Dhupi", "language": "Nepali", "meaning": "Japanese cedar (Cryptomeria), the tall conifer of Darjeeling's forests"},
+  "costs": [
+    ["Shared jeep seat, Darjeeling to Lepchajagat (Mirik route)", "₹80–150"],
+    ["Reserved car, Darjeeling to Lepchajagat", "₹1,200–1,800"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Ghum Monastery entry", "Free or small donation"],
+    ["Tea and snacks at Sukhiapokhri", "₹50–150"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bagdogra Airport is about 85 km away, 3.5 hours by road via Siliguri and Mirik or via Darjeeling. A reserved car costs about ₹3,500–4,500."},
+    {"mode": "Rail", "text": "NJP is the nearest major station. The toy train stops at Ghum, about 10 km away, on through services when they run; check current status before you travel."},
+    {"mode": "Road", "text": "Lepchajagat is on the Ghum–Sukhiapokhri road, about 19 km and 45 minutes from Darjeeling. Shared jeeps between Darjeeling and Mirik or Sukhiapokhri pass through; ask to be dropped. A reserved car from Darjeeling costs about ₹1,200–1,800."}
+  ],
+  "where_to_stay": "Saver and comfort travellers stay in a handful of family homestays and small guesthouses along the road and in the forest, at about ₹1,500–2,500 per person with meals. A government forest eco-tourism lodge has operated here, with a few rooms in the trees; check current status and booking through the West Bengal forest authorities. There is no luxury hotel. Signature travellers usually stay in Darjeeling and visit Lepchajagat on the way to Mirik.",
+  "stays": [],
+  "tips": [
+    "Stay here instead of Darjeeling for a quiet night before a Mirik drive or a Tiger Hill sunrise.",
+    "Pack warm layers; at about 2,100 m in forest, nights are cold most of the year.",
+    "Buy supplies in Darjeeling or Ghum; Lepchajagat has very few shops.",
+    "Do not enter the water or banks at Jorepokhri or Sukhiapokhri; they are newt breeding sanctuaries.",
+    "Carry ID if visiting Sukhiapokhri, near the Nepal border."
+  ],
+  "themes": ["homestays-and-villages", "photography", "treks-and-walks", "wildlife-and-birds"],
+  "nearby": ["darjeeling", "mirik", "sandakphu"],
+  "experiences": [
+    {
+      "slug": "lepchajagat-forest-sunrise-walk",
+      "title": "Dawn forest walk and Kangchenjunga view",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Before sunrise, Oct–Apr",
+      "cost": "Free; host-guide ₹500–800",
+      "image_query": "Kangchenjunga sunrise from Darjeeling forest",
+      "wiki": "",
+      "summary": "Leave your Lepchajagat homestay before dawn and walk through pine and cryptomeria forest to a clearing facing Kangchenjunga, then wander back as the birds wake and mist lifts from the trees.",
+      "body": [
+        "Lepchajagat's forest is mostly planted cryptomeria and pine with patches of oak, tall and straight enough that the light comes through in shafts. Leave about 40 minutes before sunrise with a torch and warm layers. Your host can walk with you to the nearest viewpoint, usually a clearing or ridge a short walk from the road.",
+        "On a clear morning, Kangchenjunga appears to the north, turning pink and gold as the sun rises behind you. The view is the same massif you see from Tiger Hill, without the queues of jeeps and crowds. Sit quietly and you will hear the forest start up: laughingthrushes, tits, and the knock of woodpeckers.",
+        "Walk back slowly through the trees as mist lifts. In spring, rhododendrons flower in the mixed patches. Stay on clear paths; forest tracks branch and look alike in fog. Breakfast at your homestay, then continue to Mirik, Ghum or Darjeeling."
+      ],
+      "good_for": ["couples", "photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can I see Kangchenjunga from Lepchajagat?", "a": "Yes, on clear mornings, mostly October to April, from viewpoints and clearings near the hamlet. Cloud often covers it by mid-morning and through the monsoon. Ask your host which spot is clearest that season."},
+        {"q": "Is it safe to walk in the forest before dawn?", "a": "On known paths with a torch and your host, yes. Do not wander off unfamiliar tracks in fog or darkness, since paths look alike. Wildlife is shy; the main risks are uneven ground and cold."},
+        {"q": "Is Lepchajagat better than Tiger Hill for sunrise?", "a": "It is quieter, not higher. Tiger Hill at 2,590 m gives a wider view including Everest on clear days, but with crowds. Lepchajagat gives a calm forest sunrise on Kangchenjunga. If you stay here, you can still drive to Tiger Hill in about 30 minutes."}
+      ]
+    },
+    {
+      "slug": "lepchajagat-jorepokhri-newt-lake",
+      "title": "Jorepokhri lakes and the Himalayan newt",
+      "kind": "wildlife",
+      "duration": "1–2 hours",
+      "best_time": "Day time; newts most active in the monsoon breeding season",
+      "cost": "Small entry fee; car ₹600–1,000",
+      "image_query": "Himalayan newt Tylototriton Darjeeling",
+      "wiki": "",
+      "summary": "Visit Jorepokhri, a small twin lake in forest near Lepchajagat that is protected as a breeding site of the endangered Himalayan newt, and learn why these quiet ponds matter to one of the rarest amphibians in the eastern Himalaya.",
+      "body": [
+        "Jorepokhri means twin ponds in Nepali, and the name describes it well: two small lakes in forest on the road between Ghum and Sukhiapokhri. They are protected as a wildlife sanctuary because the endangered Himalayan newt, an orange and dark brown salamander, congregates here to breed, as it also does at Sukhiapokhri nearby.",
+        "The newts breed in the wet season, so they are most likely to be noticed from about May to August, but you should never handle them, net the water or walk along the soft banks. Most visitors see only the lake, the forest and perhaps a signboard. The point of the visit is to understand how fragile these small wetlands are.",
+        "Combine Jorepokhri with a stop at Sukhiapokhri's market and continue to Mirik, or return to Lepchajagat for lunch. Keep noise low, take litter with you, and follow any rules posted by the forest department."
+      ],
+      "good_for": ["students", "families", "photographers", "solo"],
+      "faqs": [
+        {"q": "Will I see a Himalayan newt at Jorepokhri?", "a": "Possibly, but not reliably. Newts are most active during the wet breeding season, roughly May to August, and hide under vegetation. Never handle them or disturb the water. Treat a sighting as a bonus."},
+        {"q": "Is there an entry fee at Jorepokhri?", "a": "A small entry fee is usually charged by the forest authorities. Fees and opening times change, so check current status before you travel. Visits take about an hour."},
+        {"q": "Why are the newts endangered?", "a": "The Himalayan newt depends on small ponds and wetlands in hill forest. Drainage, pollution, construction and collection have reduced its habitat. Protecting sites like Jorepokhri and Sukhiapokhri helps the species survive."}
+      ]
+    },
+    {
+      "slug": "lepchajagat-ghum-monastery-visit",
+      "title": "Ghum Monastery and its Maitreya Buddha",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning prayers, all year",
+      "cost": "Free or small donation",
+      "image_query": "Ghum Monastery Maitreya Buddha Darjeeling",
+      "wiki": "Ghum Monastery",
+      "summary": "Visit Yiga Choeling, the Gelug monastery at Ghum founded in 1850, about 10 km from Lepchajagat, to see its 15 ft statue of Maitreya, the future Buddha, and the old monastery quarter beside the highest station of the toy train.",
+      "body": [
+        "Ghum Monastery, properly Yiga Choeling, belongs to the Gelug school of Tibetan Buddhism. It was established in 1850 by Sokpo Sherab Gyatso, a Mongolian astrologer and monk who led it until 1905. His successor, Domo Geshe Rinpoche, commissioned the 15 ft statue of Maitreya, the future Buddha, that fills the main hall today.",
+        "After 1959, senior lamas fleeing Tibet found refuge here. The monastery has faced hard times since, with few monks and limited funds, and relies on donations from local devotees. Visitors are welcome in the hall. Remove shoes, walk clockwise, and leave a small offering if you can. Ask before photographing inside.",
+        "Ghum is also the summit of the Darjeeling Himalayan Railway at about 2,260 m. Combine the monastery with a look at the station's museum and, on the way to Darjeeling, the Batasia Loop. Ghum is often colder and foggier than Darjeeling, so bring a layer."
+      ],
+      "good_for": ["seniors", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Is Ghum Monastery the same as Yiga Choeling?", "a": "Yes. Old Ghoom Monastery is the popular name for Yiga Choeling, a Gelug monastery founded in 1850. A second monastery, Samten Choeling, lies below the road in Ghum and is a separate institution."},
+        {"q": "Can I photograph inside Ghum Monastery?", "a": "Ask the monk on duty. Photography of the Maitreya statue is sometimes allowed without flash and sometimes not. Never photograph monks at prayer without permission. A donation is appreciated."},
+        {"q": "How do I get from Lepchajagat to Ghum?", "a": "Ghum is about 10 km from Lepchajagat, 20–30 minutes by road. Shared jeeps to Darjeeling pass through, or hire a car for about ₹600–1,000. Combine Ghum with Batasia Loop on the way to Darjeeling."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Lepchajagat?", "a": "Lepchajagat is a forest hamlet on the road from Ghum towards Sukhiapokhri and Mirik, about 19 km and 45 minutes from Darjeeling. It sits at about 2,100 m in pine and cryptomeria forest. Most visitors combine it with Darjeeling and Mirik."},
+    {"q": "Is Lepchajagat worth staying in?", "a": "Yes, for one quiet night. There are no big sights, but the forest, views of Kangchenjunga and silence are the point. It suits couples, photographers and anyone tired of Darjeeling's traffic. Do not expect restaurants or shops."},
+    {"q": "How do I get to Lepchajagat from NJP?", "a": "Take a shared jeep to Darjeeling and then a local car, or hire a car from NJP via Mirik or via Ghum, about 3.5 hours and ₹3,500–4,500. Shared jeeps between Darjeeling and Mirik pass through Lepchajagat if you ask to be dropped."},
+    {"q": "What is the best time to visit Lepchajagat?", "a": "October to April. October to December gives the clearest views, January can be very cold, and March to April brings rhododendrons with some haze. The monsoon brings constant fog and rain."},
+    {"q": "How much does a Lepchajagat homestay cost?", "a": "Expect about ₹1,500–2,500 per person per night with dinner and breakfast. Rooms are simple and some lack heating. A government forest lodge has operated here at set rates; check current status and booking. Prices are indicative 2026."},
+    {"q": "Is there mobile network at Lepchajagat?", "a": "Major networks usually work along the road, though signal weakens in the forest. Wi-Fi is available at some homestays. Carry cash; there is no ATM in the hamlet, and the nearest are in Ghum and Darjeeling."},
+    {"q": "Is Lepchajagat safe for families?", "a": "Yes. It is a quiet forest hamlet with little traffic away from the main road. Children enjoy forest walks, but supervise them near the road, which carries jeeps to Mirik. Nights are cold; pack warm clothes."},
+    {"q": "Can I do Tiger Hill from Lepchajagat?", "a": "Yes. Tiger Hill is about 30 minutes away via Ghum. Arrange a car the evening before and leave by about 4 am in season. You avoid the early drive up from Darjeeling."},
+    {"q": "Can I visit Nepal from Lepchajagat?", "a": "Sukhiapokhri, a few kilometres west, has a crossing to Pashupatinagar in Nepal. Indian and Nepali citizens cross freely with ID; foreigners need a Nepal visa and should use authorised crossings. Rules change, so check current status before you travel."}
+  ]
+}

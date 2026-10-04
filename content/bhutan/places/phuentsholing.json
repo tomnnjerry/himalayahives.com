@@ -1,0 +1,145 @@
+{
+  "slug": "phuentsholing",
+  "name": "Phuentsholing",
+  "region": "bhutan",
+  "kind": "town",
+  "wiki": "Phuntsholing",
+  "image_query": "Phuentsholing Bhutan Gate Jaigaon",
+  "lat": 26.85,
+  "lng": 89.39,
+  "altitude_m": 300,
+  "tagline": "Bhutan's road door from India, a gate away from Jaigaon",
+  "meta_description": "Phuentsholing guide for Indians: entry permit, SDF, crossing from Jaigaon, buses from Siliguri, what to see, where to stay and honest costs.",
+  "summary": "Phuentsholing is Bhutan's main border town, at about 300 m in the foothills, joined to the Indian town of Jaigaon by the Bhutan Gate. Indians get their entry permit here, and most goods enter Bhutan through it. Stay one night: sort your permit, see Zangdopelri and the crocodile centre, and leave early for Thimphu or Paro.",
+  "intro": [
+    "Phuentsholing sits where the Torsa River leaves the hills, a short walk across the border from Jaigaon in West Bengal. A long wall separates the two towns, with one ornate Bhutanese gate at the main crossing. Jaigaon is crowded and loud like any busy North Bengal market town; Phuentsholing is quieter, more orderly and more urban than other Bhutanese towns, as Bhutan's trading and industrial hub. It had about 27,700 people in 2017.",
+    "For Indian travellers it is where the trip really begins. As we understand the rules, Indians show a passport or voter ID at the Regional Immigration Office to get a free entry permit, pay the ₹1,200 per night SDF and meet their licensed guide; applying online in advance saves time. You may stay in Phuentsholing town without a guide; beyond the first checkpoint above town, at Rinchending, a guide must be with you. Check current status before you travel.",
+    "The climate is hot and humid, with nearly 4,000 mm of rain a year; Bhutan's highest temperature, 40 °C, was recorded here in August 1997. Spend an evening walking from the gate to Zangdopelri Lhakhang in the town centre, which was the bus terminal and Saturday market in the town's early days, and watch the Torsa from the riverside. The climb to Thimphu starts in the morning: from 300 m to over 2,000 m in a few hours."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bagdogra (India), ≈ 160 km · 4–5 h"],
+    ["From Siliguri", "≈ 160 km · 4–5 h to Jaigaon"],
+    ["Altitude", "≈ 300 m"],
+    ["Known for", "Bhutan Gate, entry permits, Zangdopelri, Amo Chhu crocodile centre"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Bhutan Gate", "text": "The painted gate in the border wall is the symbolic entrance to Bhutan. Locals cross freely on foot; tourists need permits to go beyond town. Guards from India's Sashastra Seema Bal and the Royal Bhutan Army stand on either side."},
+    {"title": "Zangdopelri Lhakhang", "text": "A three-storey temple in the town centre representing Zangdok Palri, the copper-coloured mountain home of Guru Rinpoche. The area around it was the town's first bus terminal and market."},
+    {"title": "Amo Chhu crocodile breeding centre", "text": "A small centre on the edge of town breeds the endangered gharial and mugger crocodiles. It is a short visit, usually under an hour, and popular with families waiting for permits."},
+    {"title": "Karbandi monastery", "text": "A hillside temple above town, about 5 km by road, with gardens and views over the plains of North Bengal. It is quiet in the early morning and late afternoon."},
+    {"title": "The climb to the hills", "text": "Within 30 minutes of leaving town the road climbs past the Rinchending checkpoint into forest and cloud, rising from about 300 m to over 2,000 m. The change in air and vegetation is the start of Bhutan proper."}
+  ],
+  "field_notes": [
+    {"fact": "Bhutan's highest recorded temperature, 40 °C, was measured in Phuentsholing on 27 August 1997; the town averages about 3,950 mm of rain a year.", "source": "Phuntsholing"},
+    {"fact": "Phuentsholing's first single-storey cottage was built in 1958 to house a shop; Zangdopelri, now the town's central temple area, was then the bus terminal and Saturday market.", "source": "Phuntsholing"},
+    {"fact": "Hasimara, about 17 km from Jaigaon, is the nearest Indian railway station to Phuentsholing; a 20 km rail link from Hasimara to Phuentsholing has been planned.", "source": "Phuntsholing"}
+  ],
+  "local_word": {"word": "Dzongkhag", "language": "Dzongkha", "meaning": "district; Phuentsholing is the seat of Chukha Dzongkhag"},
+  "costs": [
+    ["Indian entry permit", "Free"],
+    ["SDF for Indian nationals", "₹1,200 per person per night"],
+    ["Shared jeep or bus, Siliguri–Jaigaon", "₹150–400 a seat"],
+    ["Simple certified hotel double", "₹2,000–4,000 a night"],
+    ["Thali or local set meal", "₹150–350"],
+    ["Local SIM with data", "₹300–700"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bagdogra airport near Siliguri is about 160 km and 4–5 hours away by road. Paro has no direct road shortcut to Phuentsholing other than the 5–6 hour highway."},
+    {"mode": "Bus", "text": "Buses and shared jeeps run from Siliguri (Tenzing Norgay bus terminus and nearby stands) to Jaigaon in 4–5 hours for ₹150–400. Hasimara railway station, about 17 km away, links to New Jalpaiguri and Kolkata."},
+    {"mode": "Road", "text": "Phuentsholing to Thimphu is about 150 km and 5–6 hours via Gedu and Chhuzom; to Paro is similar. Expect fog around Gedu and landslides in the monsoon; check current status before you travel."}
+  ],
+  "where_to_stay": "Phuentsholing has a good spread of simple and mid-range hotels within walking distance of the gate and the immigration office, many used by Indian families on their first night. Saver doubles run about ₹2,000–4,000 and comfort-level 3-star hotels a little more. There are no luxury properties. Stay on the Bhutan side so you are close to the immigration office when it opens; check current status before you travel.",
+  "stays": [],
+  "tips": [
+    "Apply for your entry permit online before you arrive, or reach the immigration office as it opens on a working day.",
+    "Carry a passport with six months' validity or your voter ID, plus photocopies and passport photos.",
+    "Change some money into ngultrum or carry ₹100–500 notes; both work at par.",
+    "Leave for Thimphu by 8 am to cross the Gedu fog belt in daylight.",
+    "In summer, carry an umbrella and expect humid 30 °C plus days."
+  ],
+  "themes": ["road-trips", "family-holidays", "monasteries"],
+  "nearby": ["thimphu", "paro"],
+  "experiences": [
+    {
+      "slug": "phuentsholing-permit-morning-and-gate",
+      "title": "Permit morning and a walk through the Bhutan Gate",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "9 am – 12 pm on working days",
+      "cost": "Permit free; SDF ₹1,200 per night",
+      "image_query": "Bhutan Gate Phuentsholing border",
+      "wiki": "Phuntsholing",
+      "summary": "For Indians entering by road, the first Bhutan experience is practical: meeting your guide, collecting the entry permit and paying the SDF, then walking through the Bhutan Gate into a different pace of life.",
+      "body": [
+        "The Regional Immigration Office in Phuentsholing handles entry permits for Indian nationals and other regional tourists. As we understand it, you show a valid Indian passport (six months' validity) or voter ID, a hotel booking and your itinerary, and pay the SDF of ₹1,200 per night. Many travellers now apply online through the Department of Immigration before arriving, and their licensed operator handles the paperwork. Check current status before you travel.",
+        "Your guide usually meets you at the gate or hotel. Queues at the office can be long on Mondays and in festival seasons, and the office does not process permits on government holidays. Keep photocopies of your ID, passport-size photos and printouts of hotel confirmations.",
+        "Once done, walk back through the gate to see the contrast between Jaigaon and Phuentsholing: horns and hawkers on one side, quieter pavements on the other. Have lunch in a local restaurant, then rest before the long drive uphill next morning. Your guide will explain where you may and may not go without them."
+      ],
+      "good_for": ["families", "students", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Where do Indians get the Bhutan permit at Phuentsholing?", "a": "At the Regional Immigration Office near the gate, on working days. Applying online through Bhutan's Department of Immigration a few days in advance is faster. Bring your passport or voter ID. Check current status before you travel."},
+        {"q": "Can I enter Phuentsholing without a permit?", "a": "Day visitors often walk across the gate into town, but you need a permit and guide to go beyond the first checkpoint, and you should not stay overnight without proper entry formalities. Check current status before you travel."},
+        {"q": "How long does the permit take?", "a": "If your documents are complete, usually a few hours; online applications approved in advance mean only a quick check at the office. Queues are longest on Monday mornings and before festivals."}
+      ]
+    },
+    {
+      "slug": "phuentsholing-zangdopelri-evening",
+      "title": "Zangdopelri temple and the evening town walk",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "5–7 pm, Oct – Apr",
+      "cost": "Free; donations welcome",
+      "image_query": "Zangdopelri Lhakhang Phuentsholing",
+      "wiki": "",
+      "summary": "Walk from the gate to the three-storey Zangdopelri Lhakhang at the centre of town as Bhutanese families circle it with prayer wheels in the cool of the evening.",
+      "body": [
+        "Zangdopelri Lhakhang stands in a garden in the centre of Phuentsholing. Its three storeys represent Zangdok Palri, the copper-coloured mountain where Guru Rinpoche is believed to dwell, with statues of his manifestations inside. In the town's early days in the late 1950s and 1960s, this area was the bus terminal and Saturday market around which the first shops were built.",
+        "At dusk, families, shopkeepers and older residents walk clockwise around the temple, spinning the large prayer wheels. Join them at their pace. Remove shoes and hats if you go inside, do not photograph the altars and leave a small note in the offering box if you wish.",
+        "Afterwards, walk to the riverside to watch the Torsa in the evening light, or find a momo stall on the main streets. Phuentsholing's restaurants serve Bhutanese, Indian, Nepali and Chinese food; it is a good place to try your first ema datshi before the hills."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "couples"],
+      "faqs": [
+        {"q": "What does Zangdopelri mean?", "a": "Zangdok Palri is the copper-coloured mountain realm of Guru Rinpoche in Buddhist belief. Many Bhutanese temples called Zangdopelri are built in three storeys to represent it."},
+        {"q": "Is there an entry fee at Zangdopelri in Phuentsholing?", "a": "Usually not; donations are welcome. Some temples in Phuentsholing, such as the Palden Tashi Choling shedra, appear on the Department of Tourism fee list. Check current status before you travel."},
+        {"q": "Is Phuentsholing safe in the evening?", "a": "Yes, the Bhutan side is generally calm and well lit in the centre. Take normal care with bags in crowded Jaigaon markets across the gate."}
+      ]
+    },
+    {
+      "slug": "phuentsholing-crocodile-centre-and-karbandi",
+      "title": "Crocodile centre and Karbandi monastery",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "8–11 am, Oct – Apr",
+      "cost": "Small entry fee; car ₹500–1,000",
+      "image_query": "Karbandi monastery Phuentsholing",
+      "wiki": "",
+      "summary": "Fill a permit-waiting morning with two short stops: the Amo Chhu crocodile breeding centre on the edge of town and the hillside Karbandi monastery with gardens and views over the North Bengal plains.",
+      "body": [
+        "The crocodile breeding centre on the Amo Chhu (Torsa) side of town keeps gharial and mugger crocodiles, both threatened in the wild. It is small, with pools behind railings and information boards, and takes 30–45 minutes. Children usually enjoy it, and it is a gentle introduction to Bhutan's conservation focus.",
+        "Karbandi monastery sits on a hill above Phuentsholing, about 5 km up a winding road. It has a temple with statues of Guru Rinpoche and the Buddha, landscaped gardens and a viewpoint over Jaigaon, the Torsa and the plains stretching south into India. It is quiet in the morning and well loved by local families.",
+        "Both sites are within town or just above it, so your guide is usually not required, but confirm with your operator. Mornings are cooler; from April to September the town is humid and hot. Carry water and sunscreen."
+      ],
+      "good_for": ["families", "seniors", "students", "first-timers"],
+      "faqs": [
+        {"q": "What can I see at the Phuentsholing crocodile centre?", "a": "Gharial and mugger crocodiles in breeding pools, with information boards on their conservation. It takes 30–45 minutes and suits families waiting for permits."},
+        {"q": "How far is Karbandi monastery from town?", "a": "About 5 km uphill by road, 15–20 minutes by car. Taxis in Phuentsholing can take you there and back for about ₹500–1,000."},
+        {"q": "Do I need a guide to visit sites in Phuentsholing?", "a": "As we understand it, guides are required beyond the first checkpoint, so Phuentsholing town itself can be explored without one. Rules are being enforced more strictly, so check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Phuentsholing from Siliguri?", "a": "By bus or shared jeep from Siliguri to Jaigaon, about 160 km and 4–5 hours, for ₹150–400 a seat; private taxis cost ₹3,500–5,000. From Jaigaon you walk through the Bhutan Gate into Phuentsholing. Bagdogra airport and New Jalpaiguri station are both near Siliguri."},
+    {"q": "What documents do Indians need at Phuentsholing?", "a": "A valid Indian passport (six months' validity) or a voter ID card, plus copies, passport photos, hotel bookings and itinerary. Aadhaar is not accepted. Minors may use a birth certificate with a parent. Check current status before you travel."},
+    {"q": "Do I need to pay SDF if I only stay in Phuentsholing?", "a": "Rules for border towns have changed over time and some short stays have been treated differently. As we understand it, anyone travelling beyond the border town pays ₹1,200 a night. Ask your operator or the immigration office. Check current status before you travel."},
+    {"q": "Is the immigration office open on weekends?", "a": "It works on government working days and is closed on Bhutanese public holidays. Online applications can be submitted any time. Plan to arrive on a weekday morning. Check current status before you travel."},
+    {"q": "How long is the drive from Phuentsholing to Thimphu?", "a": "About 150 km and 5–6 hours via Gedu and Chhuzom. Fog near Gedu and monsoon landslides can slow it. Leave by 8 am."},
+    {"q": "Is Phuentsholing very hot?", "a": "Yes, from April to September: humid, often above 30 °C, with heavy rain. Bhutan's record 40 °C was set here. October to March is pleasant."},
+    {"q": "Can I use Indian SIM cards in Phuentsholing?", "a": "Near the border, Indian networks often still work, but they fade quickly as you climb. Buy a B-Mobile or TashiCell SIM here with your ID for use across Bhutan."},
+    {"q": "Can I bring my own car into Bhutan from India?", "a": "Indian-registered private vehicles have been allowed with a vehicle permit and fees, but rules on routes, fees and the guide requirement change. Ask your operator well in advance and check current status before you travel."},
+    {"q": "Where should I stay in Phuentsholing?", "a": "On the Bhutan side, close to the immigration office, so you can be first in the queue. Simple hotels cost ₹2,000–4,000 for a double. Book ahead in October and during Indian school holidays."}
+  ]
+}

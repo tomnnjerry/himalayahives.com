@@ -1,0 +1,144 @@
+{
+  "slug": "dochula",
+  "name": "Dochu La",
+  "region": "bhutan",
+  "kind": "pass",
+  "wiki": "Dochula Pass",
+  "image_query": "Dochula pass 108 chortens Bhutan",
+  "lat": 27.49,
+  "lng": 89.75,
+  "altitude_m": 3100,
+  "tagline": "108 chortens on the pass between Thimphu and Punakha",
+  "meta_description": "Dochu La guide: the 108 Druk Wangyal chortens, Himalayan views, the botanical park, the December festival, best times and what it costs.",
+  "summary": "Dochu La is a pass at about 3,100 m on the road from Thimphu to Punakha, crowned by 108 memorial chortens built by the eldest Queen Mother. Between October and February it gives one of Bhutan's widest views of the high Himalaya, including Gangkar Puensum. Allow one to two hours on the drive.",
+  "intro": [
+    "Thirty minutes' drive east of Thimphu, the road climbs through hemlock and cypress to Dochu La. On a clear winter morning the whole northern horizon opens: Masang Gang at 7,194 m and Gangkar Puensum, Bhutan's highest peak at 7,570 m, which has never been climbed. Most days in summer the pass sits in cloud, and the view is of prayer flags in the fog.",
+    "The 108 chortens on the central hillock, the Druk Wangyal Khang Zhang Chortens, were built by Ashi Dorji Wangmo Wangchuck, the eldest Queen Mother, in memory of Bhutanese soldiers who died in the 2003 military operation in the south. Beside them stands the Druk Wangyal Lhakhang, built in honour of the fourth king. Its open ground is the stage for the Dochula Druk Wangyel Festival each December.",
+    "Next to the pass is the Royal Botanical Park at Lamperi, Bhutan's first, about 47 sq km of rhododendron, magnolia and primula forest. After Losar in February, primulas flower as the snow melts; rhododendrons and Magnolia campbellii follow in March and April. Two old trails survive here: a short nature trail from the Dochu La cafe and the Lumitsawa ancient trail down towards the Punakha side."
+  ],
+  "facts": [
+    ["Best months", "Oct – Feb for views; Mar – Apr for flowers"],
+    ["Nights we suggest", "0 (stop on the drive)"],
+    ["Nearest airport", "Paro International Airport, ≈ 75 km"],
+    ["From Thimphu", "≈ 23 km · 45 min"],
+    ["Altitude", "≈ 3,100 m"],
+    ["Known for", "108 chortens, Himalayan panorama, rhododendrons, December festival"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "108 Druk Wangyal chortens", "text": "Red-banded khangzang chortens arranged in rings on a central hillock, built by the eldest Queen Mother in memory of soldiers who died in 2003. Walk around them clockwise; the effect is strongest early in the morning."},
+    {"title": "Himalayan panorama", "text": "Between October and February, clear mornings show the high peaks of northern Bhutan, including Masang Gang (7,194 m) and Gangkar Puensum (7,570 m), the country's highest mountain. A viewing board names them."},
+    {"title": "Druk Wangyal Lhakhang", "text": "A temple built to honour the fourth king, with murals that mix old themes and modern Bhutanese history. The open ground in front hosts the Druk Wangyel Tshechu in December."},
+    {"title": "Royal Botanical Park, Lamperi", "text": "Bhutan's first botanical park covers about 47 sq km beside the pass, with rhododendron trails and a small lake. The Rhododendron Festival is held here in spring in some years."},
+    {"title": "Lumitsawa ancient trail", "text": "A 4.7 km section of the old Thimphu–Punakha trail drops from the pass through forest to rejoin the road at Lumitsawa. Your vehicle can meet you at the bottom."}
+  ],
+  "field_notes": [
+    {"fact": "The bark of Daphne, a small shrub that flowers white on the slopes around Dochu La, is used to make traditional Bhutanese paper for religious texts because it resists termites.", "source": "Dochula Pass"},
+    {"fact": "The 108 chortens at Dochu La were built by Ashi Dorji Wangmo Wangchuck, the eldest Queen Mother, in memory of Bhutanese soldiers who died in 2003.", "source": "Dochula Pass"},
+    {"fact": "Gangkar Puensum, at 7,570 m the highest mountain in Bhutan and visible from Dochu La on clear days, has a topographic prominence of about 2,995 m.", "source": "Dochula Pass"}
+  ],
+  "local_word": {"word": "Chorten", "language": "Dzongkha", "meaning": "stupa; a reliquary monument walked around clockwise"},
+  "costs": [
+    ["Entry to the chortens and pass", "Free"],
+    ["Royal Botanical Park entry", "Nu 300 (check current status)"],
+    ["Tea and snacks at the pass cafe", "₹150–400"],
+    ["Druk Wangyel Tshechu entry", "Free"],
+    ["Thimphu–Punakha public bus seat", "₹150–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Paro, drive to Thimphu (about 1 h 15 min), then continue about 45 minutes east to the pass."},
+    {"mode": "Bus", "text": "Thimphu–Punakha and Thimphu–Wangdue buses cross the pass. Tourists travel with their licensed guide, usually in the operator's vehicle."},
+    {"mode": "Road", "text": "Thimphu to Dochu La is about 23 km and 45 minutes. Dochu La to Punakha is about 50 km and 1.5–2 hours down to the valley floor at 1,200 m."}
+  ],
+  "where_to_stay": "Most travellers do not stay at Dochu La; they stop for an hour on the drive between Thimphu and Punakha. There is a small cafe and a simple resort near the pass. For saver and comfort travellers, sleep in Thimphu or Punakha. If you want sunrise at the pass, a Thimphu hotel with an early start gets you there by 6.30 am.",
+  "stays": [],
+  "tips": [
+    "Leave Thimphu by 7 am in winter for the best chance of clear peaks.",
+    "Walk clockwise around the 108 chortens.",
+    "Carry a warm jacket; the pass is 800 m higher than Thimphu and windy.",
+    "In March and April, walk the short nature trail for rhododendrons.",
+    "Time a Thimphu–Punakha transfer for 13 December to see the Druk Wangyel Tshechu."
+  ],
+  "themes": ["photography", "road-trips", "festivals", "snow-and-winter"],
+  "nearby": ["thimphu", "punakha", "phobjikha"],
+  "experiences": [
+    {
+      "slug": "dochula-sunrise-chortens-and-peaks",
+      "title": "Sunrise over the chortens and high peaks",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "6.30–8.30 am, Oct – Feb",
+      "cost": "Free",
+      "image_query": "Dochula chortens Himalaya view",
+      "wiki": "Dochula Pass",
+      "summary": "Reach the pass early on a clear winter morning to see sunlight move across Bhutan's highest peaks, then walk among the 108 chortens and take tea at the cafe before the drive down to Punakha.",
+      "body": [
+        "In October to February the air at Dochu La is clearest in the first hours after dawn. From the viewing area above the chortens, the northern skyline runs from Masang Gang at 7,194 m to Gangkar Puensum at 7,570 m. Gangkar Puensum is the highest mountain in Bhutan, and since the government stopped mountaineering above 6,000 m in the 1990s, it is likely to stay unclimbed.",
+        "The 108 chortens stand in three tiers around a central hillock. They are red-banded khangzang chortens, built by Ashi Dorji Wangmo Wangchuck after the 2003 operation in which Bhutanese soldiers died. Walk around clockwise, keeping them on your right. Prayer flags in five colours, for sky, cloud, fire, water and earth, cover the slopes.",
+        "Bring a down jacket, hat and gloves: it can be below freezing at dawn in December. The cafe opens early for tea and biscuits and has a telescope for the peaks on clear days. Talk to your doctor if you have heart or lung conditions, since you are at about 3,100 m."
+      ],
+      "good_for": ["photographers", "couples", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "When are the mountain views best at Dochu La?", "a": "October to February, early in the morning. Cloud often builds by 10 am. From June to September the pass is usually in cloud and views are rare."},
+        {"q": "Why are there 108 chortens at Dochu La?", "a": "108 is a sacred number in Buddhism. The eldest Queen Mother, Ashi Dorji Wangmo Wangchuck, built them in memory of Bhutanese soldiers who died in 2003. They are known as the Druk Wangyal Khang Zhang Chortens."},
+        {"q": "Has Gangkar Puensum been climbed?", "a": "No. Attempts in the 1980s failed, and since the 1990s Bhutan has banned mountaineering on peaks above 6,000 m out of respect for local beliefs. It is often called the highest unclimbed mountain in the world."}
+      ]
+    },
+    {
+      "slug": "dochula-druk-wangyel-tshechu",
+      "title": "Druk Wangyel Tshechu on 13 December",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "13 December, 9 am – 2 pm",
+      "cost": "Free",
+      "image_query": "Druk Wangyel festival Dochula dance",
+      "wiki": "",
+      "summary": "A modern festival held each 13 December on the ground in front of the Druk Wangyal Lhakhang, with dances performed by the Royal Bhutan Army rather than monks, against the backdrop of the 108 chortens and, on clear days, the high peaks.",
+      "body": [
+        "The Dochula Druk Wangyel Tshechu began in 2011 to honour the fourth king and the armed forces. Unlike most tshechus, which are danced by monks or village laymen, its dances are performed by members of the Royal Bhutan Army, and some tell the story of the 2003 operation. It is held each year on 13 December, and the 2026 tentative calendar confirms that date.",
+        "Arrive by 9 am to get a place on the slope in front of the lhakhang. Bhutanese families come in their best gho and kira with packed lunches. The setting is the draw: the dance ground sits between the temple, the chortens and, on a good day, a white line of mountains. Bring a cushion or mat to sit on.",
+        "Dress modestly and keep to the edges of the dance ground. Photography is allowed outdoors, but do not walk into the performance area or use flash in dancers' faces. Afterwards, continue to Punakha, which at 1,200 m is much warmer for the night."
+      ],
+      "good_for": ["photographers", "families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "When is the Druk Wangyel festival?", "a": "Every 13 December at Dochu La. The 2026 tentative calendar lists 13 December. It is a single-day festival. Check current status before you travel."},
+        {"q": "Who performs at the Druk Wangyel festival?", "a": "Members of the Royal Bhutan Army perform the dances, which is unusual; most tshechus are danced by monks or village men. Some dances recall the 2003 military operation in southern Bhutan."},
+        {"q": "Is it very cold at the festival?", "a": "Yes. Mornings at 3,100 m in December are often below freezing, warming to about 8–10 °C by midday if sunny. Wear thermals, a down jacket, hat and gloves."}
+      ]
+    },
+    {
+      "slug": "dochula-lumitsawa-ancient-trail",
+      "title": "Walk down the Lumitsawa ancient trail",
+      "kind": "trek",
+      "duration": "2–2.5 hours",
+      "best_time": "9 am – 1 pm, Mar – May and Oct – Nov",
+      "cost": "Free",
+      "image_query": "Royal Botanical Park Lamperi rhododendron",
+      "wiki": "",
+      "summary": "Follow a 4.7 km stretch of the old Thimphu–Punakha footpath from Dochu La down through rhododendron, hemlock and oak forest to rejoin the road at Lumitsawa, with your vehicle waiting at the end.",
+      "body": [
+        "Before the road, people walked between Thimphu and Punakha over Dochu La. Two pieces of the old route have been restored. The Dochu La nature trail runs 1.2 km from the cafe to Lamperi. The Lumitsawa ancient trail runs 4.7 km down the Punakha side through the forests of the Royal Botanical Park and meets the main road at Lumitsawa.",
+        "The path is mostly downhill on stone steps and earth, with views back to the chortens in places. In March and April rhododendrons in red, pink and white line the way, and Magnolia campbellii flowers pale pink. Look for Daphne, a small shrub whose bark makes Bhutan's traditional termite-resistant paper. Birders can see laughingthrushes and sunbirds.",
+        "Wear walking shoes with grip; stones are slippery after rain. Carry water and a snack. Your guide walks with you, as is required, and the vehicle meets you at the road. The walk replaces part of the drive, so it adds little time to a Thimphu–Punakha transfer."
+      ],
+      "good_for": ["couples", "students", "photographers", "solo"],
+      "faqs": [
+        {"q": "How hard is the Lumitsawa trail?", "a": "Easy to moderate: 4.7 km mostly downhill on steps and forest path, about 2–2.5 hours. Knees take the strain. Walking poles help. Not suitable in heavy rain."},
+        {"q": "When do rhododendrons flower at Dochu La?", "a": "Mostly March to April, with primulas starting after Losar in February as the snow melts. Magnolia campbellii flowers in the same period. Exact timing depends on the winter."},
+        {"q": "Do I need a guide for the trail?", "a": "Yes. Under Bhutan's tourism rules a licensed guide accompanies tourists outside the first checkpoint, and your guide will walk with you. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is it worth stopping at Dochu La?", "a": "Yes. Even in cloud, the 108 chortens and prayer flags are worth 30–60 minutes. On a clear winter morning it is one of the best mountain views in Bhutan."},
+    {"q": "How high is Dochu La?", "a": "About 3,100 m; sources give 3,100–3,150 m. It is 800 m above Thimphu, so walk slowly and carry a warm layer. Most people feel fine for a short stop."},
+    {"q": "Can I stay overnight at Dochu La?", "a": "There is a small resort near the pass, but most travellers sleep in Thimphu or Punakha. An early start from Thimphu reaches the pass for sunrise in 45 minutes."},
+    {"q": "Is Dochu La open in winter?", "a": "Yes, as it is on the main highway. Snow or ice can slow traffic for a few hours after storms between December and February. Check current status before you travel."},
+    {"q": "Is there an entry fee at Dochu La?", "a": "No fee for the pass and chortens. The Royal Botanical Park at Lamperi charges a small entry, about Nu 300 on the Department of Tourism list. Check current status before you travel."},
+    {"q": "Are there toilets and food at Dochu La?", "a": "Yes. The cafe has toilets and serves tea, coffee, snacks and set lunches. Expect ₹150–400 for tea and a snack."},
+    {"q": "Which peaks can I see from Dochu La?", "a": "On clear days, a line of northern Bhutan's high peaks, including Masang Gang (7,194 m) and Gangkar Puensum (7,570 m). A board at the viewpoint identifies them."},
+    {"q": "Is Dochu La suitable for seniors and children?", "a": "Yes. The chortens are a short, gentle walk from the car park. The altitude is about 3,100 m, so take it slowly. Talk to your doctor if you have heart or lung conditions."},
+    {"q": "How long does Thimphu to Punakha take via Dochu La?", "a": "About 2.5–3 hours in total, plus your stop at the pass. The road is good but winding, with a long descent of about 1,900 m to Punakha."}
+  ]
+}

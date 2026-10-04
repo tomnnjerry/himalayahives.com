@@ -1,0 +1,145 @@
+{
+  "slug": "sandakphu",
+  "name": "Sandakphu and Singalila",
+  "region": "darjeeling",
+  "kind": "national park",
+  "wiki": "Sandakphu",
+  "image_query": "Sandakphu Kangchenjunga Sleeping Buddha view",
+  "lat": 27.106,
+  "lng": 88.003,
+  "altitude_m": 3636,
+  "tagline": "West Bengal's highest point, with Everest on the skyline",
+  "meta_description": "Sandakphu guide: Singalila Ridge trek or Land Rover ride, Everest and Kangchenjunga views, permits, guide rules, altitude and 2026 costs.",
+  "summary": "Sandakphu, at 3,636 m on the Singalila Ridge, is the highest point in West Bengal. From the summit village you see Everest, Lhotse, Makalu and the Kangchenjunga range. Walk up from Manebhanjan in 3–4 days with a compulsory guide, or ride a vintage Land Rover. October–November and March–May are best.",
+  "intro": [
+    "The Singalila Ridge runs north from the Darjeeling hills along the India–Nepal border towards Sikkim. Its highest point, Sandakphu, rises to 3,636 m, with a small summit village of lodges, trekkers' huts and a few houses. From there the skyline holds four of the five highest mountains on Earth: Everest, Lhotse and Makalu to the west, and the long wall of Kangchenjunga to the north, which locals call the Sleeping Buddha for its outline.",
+    "Most of the ridge lies inside Singalila National Park, declared a sanctuary in 1986 and a national park in 1992. Its forests of oak, magnolia, bamboo and rhododendron shelter red pandas, which have been reintroduced here, as well as black bears and more than 120 bird species. The name Sandakphu comes from Lepcha and is usually translated as the height of the poisonous plant, after the aconite that once grew thickly here.",
+    "You can walk or ride. The classic trek starts at Manebhanjan, 28 km from Darjeeling, and climbs through Tumling and Kalipokhri over three or four days, often continuing to Phalut, 21 km further. Or ride one of the old Land Rovers that still carry passengers up the ridge road. Either way, nights above 3,000 m need care: acclimatise, keep warm and talk to your doctor if you have heart or lung conditions."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov, Mar – May"],
+    ["Nights we suggest", "3–5 on the ridge"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 100 km · 4 h to Manebhanjan"],
+    ["From Darjeeling to Manebhanjan", "≈ 28 km · 1–1.5 h"],
+    ["Altitude", "3,636 m"],
+    ["Known for", "Everest and Kangchenjunga views, Singalila trek, Land Rovers, red pandas"]
+  ],
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "3–5",
+  "highlights": [
+    {"title": "The Sleeping Buddha at sunrise", "text": "From Sandakphu the Kangchenjunga range lies across the northern horizon in a shape locals call the Sleeping Buddha. At sunrise its summits turn pink one by one. Everest, Lhotse and Makalu stand to the west on clear mornings, mostly October to December."},
+    {"title": "Walking the Singalila Ridge", "text": "The trail from Manebhanjan to Sandakphu runs through forest and along open ridge, crossing between India and Nepal several times. Stages are short, 4–6 hours a day, but the climb is steady. Trekkers' huts and lodges provide beds and simple food."},
+    {"title": "Land Rovers from Manebhanjan", "text": "A community fleet of old Land Rovers carries passengers from Manebhanjan to Tumling, Sandakphu and Phalut. The ride is rough, slow and memorable. It suits travellers who want the views without walking."},
+    {"title": "Rhododendron season", "text": "From March to May, rhododendrons flower across the ridge between about 2,000 and 3,600 m. A second bloom of primulas, geraniums and orchids follows the monsoon in October. Spring haze can hide the peaks; autumn is clearer."},
+    {"title": "Phalut and the northern ridge", "text": "Phalut, at about 3,600 m, is West Bengal's second-highest peak, 21 km north of Sandakphu. The walk there along the open ridge is quieter and gives a closer view of the Kangchenjunga range. Descend via Gorkhey and Srikhola to Rimbik."}
+  ],
+  "field_notes": [
+    {"fact": "Sandakphu's Lepcha name is usually translated as the height of the poisonous plant, after Aconitum ferox and toxic rhododendrons. Drovers once had to muzzle sheep and cattle passing through to stop them grazing.", "source": "Sandakphu"},
+    {"fact": "Singalila was declared a wildlife sanctuary in 1986 and a national park in 1992. In 2004 two captive-bred red pandas from the Darjeeling zoo were released here; one, Sweety, adapted and gave birth in the wild.", "source": "Singalila National Park"},
+    {"fact": "The first documented attempt to climb Kangchenjunga, in 1905, led by Jules Jacot-Guillarmod with Aleister Crowley, approached along the Singalila Ridge.", "source": "Singalila National Park"}
+  ],
+  "local_word": {"word": "Sandakphu", "language": "Lepcha", "meaning": "height of the poisonous plant, after the aconite of its slopes"},
+  "costs": [
+    ["Singalila National Park entry, Indian, per day", "₹100–200 (indicative)"],
+    ["Registered guide, per day for a small group", "₹1,000–1,500"],
+    ["Porter, per day (max about 20 kg)", "₹800–1,000"],
+    ["Trekkers' hut or lodge bed", "₹300–1,500 per person"],
+    ["Land Rover, Manebhanjan–Sandakphu return", "₹5,500–7,500 per vehicle"],
+    ["Meals on the trail, per day", "₹500–800"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Bagdogra, then drive about 100 km via Darjeeling or Mirik to Manebhanjan, the trailhead, in about 4 hours."},
+    {"mode": "Rail", "text": "Take a train to NJP, then a shared jeep to Darjeeling and on to Manebhanjan. Most trekkers spend the first night in Darjeeling."},
+    {"mode": "Road", "text": "Shared jeeps run from Darjeeling to Manebhanjan, 28 km and 1–1.5 hours, for about ₹80–150. From Manebhanjan, Land Rovers drive the ridge road to Tumling, Sandakphu and Phalut. Snow can close the road briefly in winter; check current status before you travel."}
+  ],
+  "where_to_stay": "Everyone on the ridge stays simply. Saver and comfort trekkers sleep in government trekkers' huts and private lodges at Tumling, Kalipokhri, Sandakphu and Phalut, in dormitories at about ₹300–600 a bed or basic private rooms at ₹800–1,500 per person, often with shared toilets and no heating. Book ahead in October–November. Signature travellers get the best room available, a private guide and porter, and a heritage hotel in Darjeeling before and after; there is no luxury lodge on the ridge.",
+  "stays": [],
+  "tips": [
+    "Hire a registered guide at Manebhanjan; guides are compulsory inside Singalila National Park.",
+    "Spend a night at Tumling or Tonglu (around 2,900–3,070 m) before sleeping at Sandakphu to help acclimatisation.",
+    "Carry cash for the whole trip; there are no ATMs beyond Manebhanjan and card payments are rare.",
+    "Pack for −5 °C nights in autumn and winter: down jacket, thermals, gloves, cap and a warm sleeping bag liner.",
+    "Carry passport or ID; the trail crosses into Nepal at Tumling and Kalipokhri and checkposts register trekkers."
+  ],
+  "themes": ["treks-and-walks", "photography", "adventure-sports", "wildlife-and-birds", "snow-and-winter"],
+  "nearby": ["darjeeling", "lepchajagat"],
+  "experiences": [
+    {
+      "slug": "sandakphu-sleeping-buddha-sunrise",
+      "title": "Sunrise on Everest and the Sleeping Buddha",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Sunrise, Oct–Dec and Mar–Apr",
+      "cost": "Included in stay; park fees apply",
+      "image_query": "Sandakphu sunrise Kangchenjunga range",
+      "wiki": "Singalila Ridge",
+      "summary": "Wake before dawn on Sandakphu, the highest point in West Bengal, and watch first light reach Kangchenjunga's Sleeping Buddha outline to the north and Everest, Lhotse and Makalu to the west, all from a single summit.",
+      "body": [
+        "Sandakphu's summit is a short walk from the lodges. Get there 30 minutes before sunrise in every warm layer you have; on autumn mornings it is often well below freezing and windy. As the sky lightens, the Kangchenjunga range appears across the north, its outline of peaks resembling a reclining figure that locals call the Sleeping Buddha.",
+        "To the west, Everest, Lhotse and Makalu rise above the Nepal ranges, with Chamlang and Baruntse nearby. They catch the light within minutes of Kangchenjunga. Very few places in the world show four of the five highest mountains from one spot, and on a clear morning the view lasts for hours rather than minutes.",
+        "Clear mornings are most likely from October to December. Spring brings haze and afternoon cloud but also rhododendrons. In the monsoon, views are rare. If the first morning is cloudy, consider an extra night; many trekkers build one in for this reason."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "Can I really see Everest from Sandakphu?", "a": "Yes, on clear mornings. Everest, Lhotse and Makalu are visible to the west and Kangchenjunga to the north. Everest is much farther away and looks smaller than Kangchenjunga, which is closer. October to December gives the best odds."},
+        {"q": "How cold is it at Sandakphu at sunrise?", "a": "In October and November, expect around −5 to 5 °C at sunrise, colder with wind; in December to February it can drop below −10 °C. Wear a down jacket, thermals, gloves, a cap and warm socks. Lodges have little or no heating."},
+        {"q": "What if it is cloudy on my Sandakphu morning?", "a": "Wait, since cloud sometimes clears after sunrise. If not, consider staying another night if your plan allows. Many trekkers add a buffer day. Phalut, further north, gives another chance for views."}
+      ]
+    },
+    {
+      "slug": "sandakphu-land-rover-ridge-ride",
+      "title": "Land Rover ride up the Singalila Ridge",
+      "kind": "adventure",
+      "duration": "Full day each way",
+      "best_time": "Oct–May; road may close briefly in snow",
+      "cost": "≈ ₹5,500–7,500 per vehicle return, plus night halts (indicative)",
+      "image_query": "Land Rover Manebhanjan Sandakphu road",
+      "wiki": "",
+      "summary": "Ride from Manebhanjan to Sandakphu in one of the vintage Land Rovers that still serve the ridge road, crossing between India and Nepal, with stops at Tumling and Kalipokhri, then stay the night for sunrise.",
+      "body": [
+        "Manebhanjan, 28 km from Darjeeling, is the base of a community fleet of old Land Rovers, some decades old and kept running by local mechanics. Owners operate on fixed rates for routes to Tumling, Sandakphu and Phalut, including night halts. The road is narrow, partly paved and partly stone, and climbs steeply in places.",
+        "The drive to Sandakphu takes most of a day with stops. You pass Chitre, Meghma, Tumling and Kalipokhri, crossing between India and Nepal where the border runs along the ridge. Checkposts note your details. Views open on the higher stretches, and in spring rhododendrons line the road.",
+        "Riding up does not remove altitude risk. You climb from about 2,100 m to 3,636 m in one day, which is fast. Spend a night at Tumling on the way up if you can, drink plenty of water, and descend if you develop a severe headache, vomiting or confusion. Talk to your doctor before going if you have heart or lung conditions."
+      ],
+      "good_for": ["families", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "How much does the Land Rover to Sandakphu cost?", "a": "Reported rates are around ₹5,500–7,500 per vehicle for a Manebhanjan–Sandakphu return, plus about ₹1,500 per extra night halt. A vehicle seats about 6–7 people. Rates are set locally and change; check current status at the Manebhanjan stand before you travel."},
+        {"q": "Is the Land Rover ride safe?", "a": "Drivers know the road well, and the vehicles are maintained for it, but the road is narrow and rough with steep drops. Avoid travelling in heavy rain or fresh snow. Wear your seat belt where fitted and keep hands inside the vehicle."},
+        {"q": "Can seniors go to Sandakphu by Land Rover?", "a": "Healthy seniors do, but the rapid gain to 3,636 m can cause altitude sickness, and lodges are cold and basic. Break the trip with a night at Tumling, carry warm clothes and medicines, and talk to your doctor first."}
+      ]
+    },
+    {
+      "slug": "sandakphu-to-phalut-ridge-trek",
+      "title": "Ridge trek from Sandakphu to Phalut",
+      "kind": "trek",
+      "duration": "1 day, 21 km",
+      "best_time": "Oct–Nov and Mar–May",
+      "cost": "Guide ₹1,000–1,500 a day; porter ₹800–1,000; park fees",
+      "image_query": "Phalut Singalila Ridge trek",
+      "wiki": "Phalut",
+      "summary": "Walk 21 km north along the open Singalila Ridge from Sandakphu to Phalut, at about 3,600 m the second-highest peak in West Bengal, for close views of the Kangchenjunga range, then descend via Gorkhey and Srikhola.",
+      "body": [
+        "Beyond Sandakphu, the trail to Phalut runs along the crest of the Singalila Ridge for about 21 km via Sabarkum, mostly between 3,400 and 3,600 m. It is a long day, 7–9 hours, but the gradient is moderate and the views are open: Kangchenjunga ahead, the Nepal ranges to the west, and the forested valleys of Sikkim to the east.",
+        "Phalut, at about 3,600 m, sits at the meeting point of West Bengal, Sikkim and Nepal. Fewer people come this far, and the ridge feels wilder. Water sources are few, so carry enough for the day. Weather changes quickly; fog can roll in by noon, and in winter snow can cover the trail.",
+        "From Phalut, most groups descend through forest to Gorkhey, a small village on a river, and on via Rammam or Samanden to Srikhola and Rimbik, where jeeps return to Darjeeling. Your guide, compulsory inside the park, will plan stages and lodges. Only attempt Phalut if you have acclimatised well at Sandakphu."
+      ],
+      "good_for": ["students", "solo", "photographers", "couples"],
+      "faqs": [
+        {"q": "How difficult is the Sandakphu to Phalut stretch?", "a": "It is a long but not steep day of about 21 km at 3,400–3,600 m, taking 7–9 hours. Fit trekkers who have acclimatised at Sandakphu manage it. Carry water, snacks and rain gear. Do not attempt it if you have any altitude symptoms."},
+        {"q": "Where do I stay at Phalut?", "a": "Simple trekkers' huts and lodges operate near Phalut and below at Gorkhey. Facilities are basic, often with shared toilets and no heating. Your guide will book beds; in peak months they fill fast. Check current status before you travel."},
+        {"q": "How do I return from Phalut to Darjeeling?", "a": "Most groups descend via Gorkhey and Srikhola to Rimbik over one or two days, then take a jeep to Darjeeling, about 4–5 hours. Some return by Land Rover along the ridge to Manebhanjan. Plan the exit with your guide."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days do I need for the Sandakphu trek?", "a": "Plan 5 to 7 days from Darjeeling. The walk from Manebhanjan to Sandakphu takes 3–4 days via Tumling and Kalipokhri. Adding Phalut and the descent via Gorkhey and Srikhola to Rimbik takes 2–3 more. By Land Rover, Sandakphu can be done in 2 days, but a night at Tumling first is wiser."},
+    {"q": "Is a guide compulsory for Sandakphu?", "a": "Yes. Singalila National Park requires trekkers to hire a registered guide at Manebhanjan. Guide fees are about ₹1,000–1,500 a day for a small group, and guides arrange lodges. Rules change, so check current status before you travel."},
+    {"q": "How much does the Sandakphu trek cost?", "a": "A saver trek for 4–5 days costs about ₹12,000–18,000 per person, sharing a guide, staying in trekkers' huts and eating local meals. Adding a porter, private rooms or Land Rover legs raises costs. Figures are indicative 2026 and exclude travel to Darjeeling."},
+    {"q": "Will I get altitude sickness on Sandakphu?", "a": "You might. Sandakphu is 3,636 m and you sleep above 3,000 m. Climb gradually, spend a night around 2,900–3,000 m first, drink water, avoid alcohol, and tell your guide about headaches or nausea. Descend if symptoms worsen. Talk to your doctor before trekking if you have health conditions."},
+    {"q": "What is the best time for Sandakphu?", "a": "October and November give the clearest views and dry trails. March to May brings rhododendrons but more haze. December to February is very cold with possible snow, and the road can close briefly. The park and trail are effectively off-season from June to September."},
+    {"q": "Do I need a passport for Sandakphu?", "a": "The trail crosses into Nepal at points such as Tumling and Kalipokhri. Indian citizens should carry a government photo ID; foreigners must carry passport and Indian visa for checkposts. Entering Nepal beyond the ridge needs normal immigration. Check current status before you travel."},
+    {"q": "Is there mobile network on the Sandakphu trek?", "a": "Signal is patchy. Some spots pick up Indian networks, others only Nepali ones, and Sandakphu has limited coverage. Do not rely on mobile payments or maps; carry cash and a downloaded map, and tell family you may be offline."},
+    {"q": "Can beginners do the Sandakphu trek?", "a": "Yes, fit beginners often do it. Daily stages are 4–6 hours, trails are clear, and lodges remove the need for tents. Prepare by walking hills for a few weeks, carry a light pack, and hire a porter if needed. The challenge is altitude and cold, not technical difficulty."},
+    {"q": "Is the Sandakphu trek safe for solo women?", "a": "Many women trek it alone or in small groups. A registered guide is compulsory anyway, and lodges are shared and sociable. Choose a guide through the official association at Manebhanjan or a known operator, share your itinerary, and keep emergency contacts handy."}
+  ]
+}

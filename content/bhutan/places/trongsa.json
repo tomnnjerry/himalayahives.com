@@ -1,0 +1,145 @@
+{
+  "slug": "trongsa",
+  "name": "Trongsa",
+  "region": "bhutan",
+  "kind": "town",
+  "wiki": "Trongsa",
+  "image_query": "Trongsa Dzong Mangde river gorge",
+  "lat": 27.5,
+  "lng": 90.5,
+  "altitude_m": 2200,
+  "tagline": "The dzong that could shut its gates and split the country",
+  "meta_description": "Trongsa guide: Trongsa Dzong above the Mangde Chhu, the Ta Dzong museum, Chendebji Chorten, the drive over Pele La, stays and honest costs.",
+  "summary": "Trongsa is a small town at about 2,200 m on a spur above the Mangde Chhu gorge, at the geographic centre of Bhutan. Its dzong, Bhutan's largest by some counts, once controlled all east–west traffic and was the seat of the Wangchuck penlops before they became kings. One night is enough.",
+  "intro": [
+    "Trongsa means 'new village'. A Drukpa lama, Ngagi Wangchuk, built a meditation room here in 1543 after seeing a light on the tip of the spur; his great-grandson, the Zhabdrung, raised the first dzong in 1647. It was enlarged through the 18th century and is now one of the largest dzongs in Bhutan, with around 200 monks and the district offices. The drop below it to the Mangde Chhu often disappears into cloud.",
+    "Location was everything. Until the Lateral Road arrived around 1970, the only track between western and eastern Bhutan passed through the dzong's courtyard, and its gates could be shut on the penlop's command. From here the Wangchuck penlops grew powerful enough to unify the country; since 1907 every crown prince has first held the title of Trongsa Penlop. The third king, Jigme Dorji Wangchuck, was born in a small palace near the town in 1928.",
+    "Above the dzong, the round Ta Dzong watchtower now houses a museum of the monarchy and Buddhist art. The town itself is one street of shops and simple hotels, with a vegetable market and views across the gorge. Most travellers stop here for one night between Phobjikha and Bumthang, visiting Chendebji Chorten on the way in from Pele La."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bathpalathang (domestic, ≈ 70 km); Paro (≈ 320 km)"],
+    ["From Phobjikha", "≈ 120 km · 4–4.5 h via Pele La"],
+    ["Altitude", "≈ 2,200 m"],
+    ["Known for", "Trongsa Dzong, Ta Dzong museum, Chendebji Chorten"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Trongsa Dzong", "text": "Chökhor Rabtentse Dzong rises in tiers down a rocky spur above the Mangde Chhu. It holds around 200 monks and a printing house for religious texts. Its tshechu, in December, ends with a thongdrel at dawn."},
+    {"title": "Ta Dzong museum", "text": "The watchtower above the dzong was built to guard it and now houses a museum with a chapel dedicated to Jigme Namgyal, Trongsa Penlop from 1853 to 1870, and exhibits on the Wangchuck kings. Entry is about Nu 300."},
+    {"title": "Chendebji Chorten", "text": "A white stupa in Nepali style, modelled on Boudhanath in Kathmandu, 41 km west of Trongsa at 2,430 m. It was built in the 18th century to subdue a demon. A smaller Bhutanese-style chorten stands beside it."},
+    {"title": "Pele La", "text": "The pass at 3,420 m between Wangdue and Trongsa marks the line between western and central Bhutan. Yak herders' huts, dwarf bamboo and, on clear days, Jomolhari and Jichu Drake are visible. Craft stalls sell textiles at the top."},
+    {"title": "Gorge viewpoint", "text": "From a bend on the road about 14 km before town, the dzong appears across the gorge, long and white on its spur. It is the classic photo of Trongsa; ask your driver to stop."}
+  ],
+  "field_notes": [
+    {"fact": "Before the Lateral Road was built, the only route between eastern and western Bhutan passed through the courtyard of Trongsa Dzong, and on the penlop's command its gates could be shut to divide the country in two.", "source": "Trongsa"},
+    {"fact": "Trongsa District contains the geographic centre of Bhutan, located at Trongsa Dzong itself.", "source": "Trongsa District"},
+    {"fact": "During the summer months Trongsa's monastic community often moves to Kurjey Lhakhang in Bumthang, and the dzong runs a printing house that has produced many of Bhutan's religious texts.", "source": "Trongsa Dzong"}
+  ],
+  "local_word": {"word": "Penlop", "language": "Dzongkha", "meaning": "governor; the Trongsa Penlop title is held by the crown prince"},
+  "costs": [
+    ["Trongsa Dzong entry", "Nu 500–1,000 (check current status)"],
+    ["Ta Dzong museum entry", "Nu 300"],
+    ["Simple hotel double", "₹2,500–4,500 a night"],
+    ["Local lunch set", "₹250–450"],
+    ["Licensed guide, per day", "₹2,500–3,500"],
+    ["Butter lamp offering", "₹50–100"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "There is no airport in Trongsa. Bathpalathang near Jakar is about 70 km east; Paro is about 320 km and two days' drive west."},
+    {"mode": "Bus", "text": "Public buses on the Thimphu–Bumthang and Thimphu–eastern Bhutan routes stop in Trongsa. Tourists need their licensed guide, so most use the operator's vehicle."},
+    {"mode": "Road", "text": "Phobjikha to Trongsa is about 120 km and 4–4.5 hours via Pele La. Trongsa to Jakar in Bumthang is about 68 km and 2.5–3 hours over Yotong La."}
+  ],
+  "where_to_stay": "Trongsa has a handful of simple and mid-range hotels in and around town, several with balconies facing the dzong across the gorge. Saver doubles run about ₹2,500–4,500; comfort hotels with heating and better bathrooms cost more. There is no luxury lodge here, so signature trips usually drive through from Phobjikha to Bumthang with a long lunch stop and a dzong visit.",
+  "stays": [],
+  "tips": [
+    "Stop at the gorge viewpoint before town for the classic photo of the dzong.",
+    "Visit the Ta Dzong museum first; it explains the dzong and the monarchy.",
+    "Break the long drive at Chendebji Chorten for tea.",
+    "Pele La can see snow from December to February; check current status before you travel.",
+    "Trongsa Tshechu falls in December; book rooms early if your dates match."
+  ],
+  "themes": ["monasteries", "road-trips", "festivals", "photography"],
+  "nearby": ["bumthang", "phobjikha"],
+  "experiences": [
+    {
+      "slug": "trongsa-dzong-and-ta-dzong-museum",
+      "title": "Trongsa Dzong and the Ta Dzong museum",
+      "kind": "culture",
+      "duration": "2.5 hours",
+      "best_time": "9 am – 4 pm, all year",
+      "cost": "Dzong Nu 500–1,000; museum Nu 300",
+      "image_query": "Trongsa Dzong courtyard",
+      "wiki": "Trongsa Dzong",
+      "summary": "Start in the round watchtower museum above town for the story of the Wangchuck penlops, then walk down to the dzong's tiered courtyards and temples on the spur above the gorge.",
+      "body": [
+        "The Ta Dzong was built higher up the hill to guard the main dzong against attack. Today it is a museum with a chapel dedicated to Jigme Namgyal, the Trongsa Penlop who ruled from 1853 to 1870 and was father of the first king. Displays cover the monarchy, religious art, ritual objects and royal belongings. Allow an hour; photography is limited inside.",
+        "Then drive or walk down to Trongsa Dzong, Chökhor Rabtentse. A temple was first built here in 1543 and the Zhabdrung built the first dzong in 1647. The Chenrezig temple was added in 1715 and the Maitreya temple complex in 1771. It was damaged in the 1897 Assam earthquake and restored in 1927 and 1999. The dzong is built down a narrow spur in several levels connected by passages and stairs.",
+        "Look for the printing house where woodblocks have been used to print religious texts, and the courtyard where the Trongsa Tshechu is danced each December. Your guide wears a ceremonial scarf; you need long sleeves and long trousers or a skirt. From the lower courtyard, the Mangde Chhu roars far below."
+      ],
+      "good_for": ["first-timers", "seniors", "families", "photographers"],
+      "faqs": [
+        {"q": "Why is Trongsa Dzong so important?", "a": "It controlled the only east–west route for centuries, and its penlops, the Wangchucks, became Bhutan's kings in 1907. Every crown prince still first takes the title of Trongsa Penlop. It is on Bhutan's tentative list for UNESCO World Heritage status."},
+        {"q": "How long should I spend at Trongsa Dzong?", "a": "About 1–1.5 hours for the dzong and an hour for the Ta Dzong museum. If you have one night in Trongsa, visit in the afternoon on arrival or early the next morning before driving to Bumthang."},
+        {"q": "When is the Trongsa Tshechu?", "a": "In December, over five days with a thongdrel on the last morning. The 2026 tentative calendar listed 17–21 December. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "trongsa-chendebji-chorten-stop",
+      "title": "Tea stop at Chendebji Chorten",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Midday, on the Pele La drive",
+      "cost": "Free",
+      "image_query": "Chendebji Chorten Bhutan",
+      "wiki": "Chendebji Chorten",
+      "summary": "Break the drive between Pele La and Trongsa at an 18th-century white stupa built in the style of Kathmandu's Boudhanath, set on a riverside meadow with a mani wall and a small Bhutanese-style chorten beside it.",
+      "body": [
+        "Chendebji Chorten stands 41 km west of Trongsa at 2,430 m, beside the Nikka Chhu. It was built in the 18th century by Lam Oensey Tshering Wangchuk, reportedly to subdue the demon Ngala; legend says it covers the body of an evil spirit. Unlike the square Bhutanese chortens, it has a round dome with painted eyes, in the Nepali style of Boudhanath.",
+        "A smaller chorten in Bhutanese style was built beside it in 1982. A mani wall carved with prayers runs along the meadow. Walk around both clockwise and spin the prayer wheels. The chorten is on the old Chorten Lam, a path linking religious sites along this valley, and a small festival is held here in the 9th lunar month.",
+        "Many drivers stop at the cafe nearby for tea and a simple lunch. It is a good place to stretch your legs after the long climb to Pele La at 3,420 m and the descent through dwarf bamboo and fir forest. From here it is about 1.5 hours to Trongsa."
+      ],
+      "good_for": ["families", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Why does Chendebji Chorten look like Boudhanath?", "a": "It was built in the 18th century in the Nepali style of Boudhanath, with a round dome and painted eyes, unlike most Bhutanese chortens. Bhutan has a few such stupas, including Chorten Kora in Trashiyangtse."},
+        {"q": "How far is Chendebji from Trongsa?", "a": "About 41 km, or 1–1.5 hours by road. It is a natural break on the drive from Phobjikha or Punakha via Pele La."},
+        {"q": "Is there food at Chendebji?", "a": "Yes, a simple cafe near the chorten serves tea and set lunches of rice, vegetables and datshi. Many drivers plan the lunch stop here."}
+      ]
+    },
+    {
+      "slug": "trongsa-pele-la-pass-drive",
+      "title": "Over Pele La, west to central Bhutan",
+      "kind": "nature",
+      "duration": "4–4.5 hours (drive)",
+      "best_time": "Morning, Mar – May and Oct – Dec",
+      "cost": "Part of your transfer",
+      "image_query": "Pele La pass Bhutan prayer flags",
+      "wiki": "Pele La",
+      "summary": "The drive from Phobjikha to Trongsa crosses Pele La at 3,420 m, the boundary between western and central Bhutan, through dwarf bamboo, yak pastures and fir forest, with Jomolhari on clear mornings.",
+      "body": [
+        "From the Phobjikha turn-off the Lateral Road climbs east to Pele La at 3,420 m. The pass is traditionally the line between western and central Bhutan. On clear days you can see Jomolhari (7,326 m), Jichu Drake (6,662 m) and Kang Bum (6,526 m). Prayer flags snap in the wind, and local artisans sell textiles and handicrafts at the top.",
+        "The country here is high and wild: dwarf bamboo, fir, rhododendron and herders' camps where yaks graze in summer. Below the pass on the east side, look for small villages such as Rukubji, with its square of fields, and Chendebji with its white chorten. Bhutan's Trans Bhutan Trail, a restored old walking route, crosses this area.",
+        "The road is narrow in places, with roadworks and occasional landslides in the monsoon and snow from December to February. Your driver will know the day's conditions; check current status before you travel. Take travel-sickness tablets if you need them, and carry a warm layer for the pass."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "How high is Pele La?", "a": "About 3,420 m. Most people pass through without trouble after nights in Phobjikha at 3,000 m. Stop for 10–15 minutes, walk slowly and drink water."},
+        {"q": "Is the road over Pele La safe?", "a": "It is a narrow mountain road with steep drops, roadworks and occasional landslides, but drivers in Bhutan are experienced on it. Snow can close it briefly in winter. Check current status before you travel."},
+        {"q": "Can I see yaks on Pele La?", "a": "Sometimes, mostly in the cooler months when herders bring animals lower. In summer they graze higher up. Ask before photographing herders or their camps."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Trongsa worth an overnight stop?", "a": "Yes, if you are driving to Bumthang. It breaks a long journey, and the dzong and Ta Dzong museum are among the most impressive in Bhutan. One night is enough for most travellers."},
+    {"q": "How far is Trongsa from Bumthang?", "a": "About 68 km, 2.5–3 hours over Yotong La at about 3,400 m. The road passes through forest and small villages. Snow can affect the pass in winter; check current status before you travel."},
+    {"q": "What is the altitude of Trongsa?", "a": "About 2,200 m for the town and dzong. It is lower than Phobjikha and Bumthang, so nights are milder. The passes either side are higher."},
+    {"q": "Are there good hotels in Trongsa?", "a": "There are simple and mid-range options, many with views of the dzong. There is no luxury lodge. Book ahead in October and December, especially for the tshechu."},
+    {"q": "Do I need a permit for Trongsa?", "a": "Trongsa must be listed on your entry permit, which your licensed operator arranges with your route. Check current status before you travel."},
+    {"q": "Is there an ATM in Trongsa?", "a": "There is a bank in town, but card acceptance is unreliable. Carry enough cash from Thimphu or Punakha for meals, fees and small purchases."},
+    {"q": "What is the weather like in Trongsa?", "a": "Milder than Bumthang: roughly 0–12 °C in winter, 15–25 °C in summer with heavy monsoon rain. The gorge often fills with cloud in the morning and clears by midday."},
+    {"q": "Who was born in Trongsa?", "a": "The third king, Jigme Dorji Wangchuck, was born in 1928 in a small palace near the dzong, above the road. The Wangchuck dynasty itself rose from the Trongsa penlops."},
+    {"q": "Can I visit Trongsa on a budget trip?", "a": "Yes, as part of a Bumthang loop. It adds one night of SDF, hotel and guide costs. Simple hotels cost ₹2,500–4,500 a double, and local meals are cheap."}
+  ]
+}

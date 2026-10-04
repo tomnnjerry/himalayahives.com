@@ -1,0 +1,145 @@
+{
+  "slug": "harsil",
+  "name": "Harsil",
+  "region": "garhwal",
+  "kind": "village",
+  "wiki": "Harsil",
+  "image_query": "Harsil valley Bhagirathi deodar",
+  "lat": 31.04,
+  "lng": 78.743,
+  "altitude_m": 2745,
+  "tagline": "Apples, deodar and the Raja of Harsil on the Gangotri road",
+  "meta_description": "Harsil guide: apple orchards, the story of Frederick Pahari Wilson, Mukhba, Gartang Gali, Bagori, homestays, bus costs and the post-2025 road situation.",
+  "summary": "Harsil is a valley of deodar forest and apple orchards at about 2,745 m on the Bhagirathi, 25 km below Gangotri. Come for the orchards in September and October, the winter seat of the goddess Ganga at Mukhba, the cliff walkway of Gartang Gali, and quiet nights before or after Gangotri. Two nights is ideal.",
+  "intro": [
+    "Harsil is where the Bhagirathi valley opens out after the long gorge from Uttarkashi. The river spreads into braided channels across a flat, grassy floor ringed by deodar, and a cluster of villages, Harsil, Bagori, Mukhba, Dharali, Jhala and Sukhi, sits in orchards around it. Local legend says the name comes from Hari-shila, the stone into which Vishnu turned himself to calm a quarrel between the Bhagirathi and the Jalandhari rivers.",
+    "The valley's modern history begins with a stranger. Frederick Wilson, a Yorkshireman who deserted the East India Company's army after the First Anglo-Afghan War, settled here in the 1840s. He hunted musk deer and monal, then won timber rights from the Raja of Tehri in 1859 and felled deodar for railway sleepers. He grew rich enough to mint his own coins and was called the Raja of Harsil. He also planted the apples, and the rajma, that the valley still sells.",
+    "Today Harsil is an army and ITBP station, an orchard village and a quiet overnight on the Gangotri road. In August 2025 a flash flood on the Kheer Ganga swept away much of Dharali, a few kilometres upstream, and damaged the highway; road links were restored in the weeks that followed. If you travel, check current status before you travel, stay in local homestays and spend your money in the valley: that is how it recovers."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 220 km · 7–8 h"],
+    ["From Uttarkashi", "≈ 75 km · 3 h"],
+    ["Altitude", "≈ 2,745 m"],
+    ["Known for", "Apple orchards, rajma, Frederick Wilson, Mukhba, Gartang Gali"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 2, 2, 1, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "Apple season", "text": "From late August to October the orchards of Harsil, Dharali and Jhala hang heavy with red apples. Farmers sell boxes at the roadside and some invite visitors to pick. The varieties trace back to the trees Frederick Wilson introduced in the nineteenth century."},
+    {"title": "Mukhba, the goddess's winter home", "text": "Across the river from Harsil, Mukhba village keeps the image of the goddess Ganga from Diwali until the spring opening of Gangotri. The Semwal priests of Gangotri come from here. A walk up to the village gives wide views of the valley."},
+    {"title": "Gartang Gali", "text": "A wooden walkway about 150 m long, pinned to a sheer cliff above the Jadh Ganga gorge near Bhaironghati, once part of the India–Tibet trade route. Closed after 1962, it was restored and reopened in 2021 with a forest entry fee. Check current status before you travel."},
+    {"title": "Bagori and the Jadh community", "text": "Bagori, a short walk from Harsil, is a village of carved wooden houses where Jadh families, a Bhotiya community originally from the Nelang valley, live in summer. A small Buddhist stupa and prayer flags mark the village, and woollens are woven here."},
+    {"title": "The meadows by the Bhagirathi", "text": "The flat river meadows below Harsil, edged with deodar and willow, are ideal for slow walks and picnics. Early mornings bring mist off the river; autumn turns the willows gold. Keep off fenced army land and private orchards."}
+  ],
+  "field_notes": [
+    {"fact": "Frederick Wilson obtained timber rights around Harsil from Raja Sudarshan Shah of Tehri in 1859 and cut deodar to supply sleepers for India's new railways. He grew wealthy enough to mint his own coins, and Rudyard Kipling's The Man Who Would Be King is often said to draw on his story.", "source": "Frederick Wilson (Raja)"},
+    {"fact": "Apples and rajma were introduced to the Harsil valley by Frederick Wilson in the mid-nineteenth century, and the apple variety he brought is still cultivated. His large wooden house in Harsil, Wilson Cottage, burned down in 1997.", "source": "Harsil"},
+    {"fact": "When Gangotri temple closes after Diwali, the idol of the goddess Ganga is carried down to Mukhba village near Harsil and stays there through winter. The Semwal family of pujaris who supervise the Gangotri rituals come from Mukhba.", "source": "Gangotri"}
+  ],
+  "local_word": {"word": "Hari-shila", "language": "Sanskrit / Garhwali", "meaning": "Vishnu's stone; local legend says Harsil takes its name from it"},
+  "costs": [
+    ["UTC or GMOU bus, Rishikesh to Uttarkashi", "₹300–450"],
+    ["Shared jeep seat, Uttarkashi to Harsil", "₹200–350"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Apples from the orchard, in season", "₹80–150 a kg"],
+    ["Gartang Gali entry (Indians / foreigners)", "≈ ₹150–200 / ₹600–800"],
+    ["Taxi, Harsil to Gangotri and back", "₹1,500–2,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and GMOU buses run from Rishikesh and Dehradun to Uttarkashi, about 145 km and 6 hours, with some continuing to Gangotri via Harsil in season. From Uttarkashi, shared jeeps cover the 75 km to Harsil in about 3 hours."},
+    {"mode": "Road", "text": "By car from Rishikesh it is about 220 km and 8–9 hours via Chamba, Dharasu and Uttarkashi. The road after Gangnani climbs through a narrow gorge with slide zones; drive in daylight. Check current status before you travel, especially in monsoon."},
+    {"mode": "Air", "text": "Dehradun's Jolly Grant airport is about 220 km away. The small Chinyalisaur airstrip near Uttarkashi handles occasional regional and helicopter flights; schedules change, so check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: family homestays in Harsil, Bagori, Mukhba and Jhala charge ₹1,500–2,500 per person with home-cooked meals, and GMVN runs a tourist rest house in Harsil. Comfort: a few small hotels and cottage resorts sit along the river between Harsil and Jhala, with heating and attached baths at ₹3,000–7,000 a double. There is no luxury hotel; signature trips stay here for character and pair the valley with Mussoorie or Rishikesh.",
+  "stays": [],
+  "tips": [
+    "Visit in September or October for apples and clear skies; in spring the orchards flower white in April.",
+    "Harsil is an army area: do not photograph military installations, and keep to public roads.",
+    "Buy apples and rajma directly from orchard owners; it supports families still recovering from the 2025 flood.",
+    "Carry cash; ATMs are in Uttarkashi, and digital payments depend on patchy signal.",
+    "Use Harsil as your acclimatisation night before Gangotri, Gaumukh or Gartang Gali."
+  ],
+  "themes": ["homestays-and-villages", "food-and-tea", "road-trips", "photography"],
+  "nearby": ["gangotri", "yamunotri", "mussoorie-landour"],
+  "experiences": [
+    {
+      "slug": "harsil-orchards-and-wilson-story-walk",
+      "title": "Orchard walk and the story of Pahari Wilson",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "9 am, Sep–Oct",
+      "cost": "Free; apples ₹80–150 a kg",
+      "image_query": "Harsil apple orchard Uttarakhand",
+      "wiki": "Frederick Wilson (Raja)",
+      "summary": "Walk through the apple orchards of Harsil and Dharali with a local host, hear the story of Frederick Wilson, the deserter who became the Raja of Harsil, and see where his famous wooden house stood before it burned in 1997.",
+      "body": [
+        "Frederick Wilson came from Wakefield in Yorkshire, joined the East India Company's army as a private in 1836 and deserted after the First Anglo-Afghan War. He made his way into the Bhagirathi valley with almost nothing, lived by hunting musk deer and monal for the plume and musk trades, and in 1859 won the right to fell the valley's deodar from Raja Sudarshan Shah of Tehri. The logs went downriver as railway sleepers.",
+        "Wilson married into the valley, first Raimata and then Gulabi of Mukhba, and grew rich enough to mint his own rupee coins. Locals called him the Raja of Harsil. He later moved to Mussoorie and is buried in Camel's Back Cemetery there. His legacy is mixed: the conservationist Sunderlal Bahuguna blamed him for the first great deforestation of the valley, while the apples and rajma he introduced still support its farmers.",
+        "On the walk, a local host takes you through orchards, past the site of Wilson Cottage, which burned down in 1997, and to viewpoints over the braided river. In September and October you can buy apples from the trees and see the boxes being packed for trucks to Dehradun and Delhi. Ask before entering any orchard, and do not pick fruit without permission."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Who was Pahari Wilson of Harsil?", "a": "Frederick Wilson was an English soldier who deserted after the First Anglo-Afghan War and settled in Harsil in the 1840s. He made a fortune from musk, monal plumes and deodar timber, minted his own coins and introduced apples and rajma to the valley. He died in 1883."},
+        {"q": "When is apple season in Harsil?", "a": "Apples ripen from late August to October, with September the busiest month for picking and packing. Spring, around April, brings white blossom. Early harvest timing varies with the year's weather."},
+        {"q": "Can I visit Wilson Cottage in Harsil?", "a": "The original wooden Wilson Cottage burned down in 1997, and the site now has a newer building. Local hosts can point out where it stood. Respect any private or restricted land around it, as parts of Harsil are under army or government use."}
+      ]
+    },
+    {
+      "slug": "mukhba-ganga-winter-seat-walk",
+      "title": "Walk to Mukhba, Ganga's winter home",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Nov; Diwali for the doli",
+      "cost": "Free",
+      "image_query": "Mukhba village temple Harsil",
+      "wiki": "Mukhba",
+      "summary": "Cross the Bhagirathi from Harsil and climb to Mukhba, the village where the goddess Ganga spends winter after Gangotri closes. See the temple, the carved wooden houses and the view across the valley.",
+      "body": [
+        "Mukhba sits on the slope across the river from Harsil, a cluster of stone and wooden houses around the temple where the image of the goddess Ganga is kept from Diwali until Akshaya Tritiya in spring. The priests who perform the Gangotri rituals, the Semwal family, come from this village, and the temple's relationship with Gangotri shapes the village calendar.",
+        "Every autumn, after Gangotri closes, the doli carrying the goddess is brought down the valley with drums and singing and installed at Mukhba; in spring it is carried back up. If your dates match, the procession is one of the most local events on the yatra road. The rest of the year the village is quiet, and the walk up from the bridge takes about 30–45 minutes.",
+        "Dress modestly and ask the priest before photographing the temple interior. The village is a working farming community, so stay on paths and avoid walking through fields. From the upper lanes you see Harsil's meadows, the Bhagirathi channels and the deodar slopes towards Dharali. Frederick Wilson's second wife, Gulabi, came from Mukhba, a reminder of how small and interlinked this valley is."
+      ],
+      "good_for": ["seniors", "families", "first-timers"],
+      "faqs": [
+        {"q": "When is the Ganga doli procession to Mukhba?", "a": "The doli comes down from Gangotri to Mukhba when the temple closes, usually the day after Diwali on Govardhan Puja, and returns for the spring opening on Akshaya Tritiya. Dates are set each year; check current status before you travel."},
+        {"q": "How do I reach Mukhba from Harsil?", "a": "Cross the Bhagirathi on the bridge near Harsil and walk up for 30–45 minutes, or drive round by the road. The path is steep in places but short. Local hosts in Harsil can guide you."},
+        {"q": "Can I stay in Mukhba?", "a": "A few homestays operate in Mukhba and neighbouring villages. Facilities are simple. Most travellers stay in Harsil and walk over for the morning."}
+      ]
+    },
+    {
+      "slug": "harsil-gartang-gali-cliff-walkway",
+      "title": "Gartang Gali, the old Tibet trade walkway",
+      "kind": "adventure",
+      "duration": "4–5 hours with drive",
+      "best_time": "Morning, May–Oct",
+      "cost": "Entry ≈ ₹150–200 Indians, ₹600–800 foreigners; taxi extra",
+      "image_query": "Gartang Gali wooden walkway Nelang",
+      "wiki": "Nelang",
+      "summary": "Walk a restored wooden gallery of about 150 m bolted to a sheer cliff above the Jadh Ganga gorge, part of the old trade route between the Bhagirathi valley and Tibet. A short, dramatic outing from Harsil with Gangotri National Park entry.",
+      "body": [
+        "For centuries traders from the Jadh Ganga valley, including the Jadh people of Nelang, carried wool, salt and borax between Tibet and the Bhagirathi valley. Where the gorge narrowed near Bhaironghati, they built a wooden walkway along the cliff face, known as Gartang Gali. After the 1962 war the route closed, and the gallery fell into ruin.",
+        "The state restored the walkway, and it reopened to visitors in 2021 within Gangotri National Park. You drive from Harsil towards Bhaironghati, register and pay at the forest checkpost, then walk a short trail to the gallery and along it. The planks run along a vertical cliff with the river far below; railings make it safe for anyone comfortable with heights.",
+        "Go in the morning, when the gorge is calm and light is good. Entry fees are about ₹150–200 for Indians and ₹600–800 for foreigners, and the area is open from about May to October, depending on the park's season. Do not climb over railings or jump on the planks. The Nelang valley beyond is an inner-line area with separate permits; check current status before you travel."
+      ],
+      "good_for": ["students", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "Where is Gartang Gali?", "a": "In the Jadh Ganga gorge just off the road at Bhaironghati, between Harsil and Gangotri, inside Gangotri National Park. You drive to the trailhead and walk a short path to the walkway. Taxis from Harsil or Gangotri make the trip."},
+        {"q": "Is Gartang Gali safe?", "a": "The restored walkway has railings and is checked by park staff. It is very exposed, with a long drop to the river, so it can feel frightening. People with a fear of heights should think twice. Do not lean on or climb the railings."},
+        {"q": "Do I need a permit for Gartang Gali?", "a": "You need a Gangotri National Park entry ticket, bought at the checkpost or online. Fees are about ₹150–200 for Indians and ₹600–800 for foreigners. Going further into the Nelang valley needs a separate inner-line permit. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Harsil open for tourists after the 2025 flood?", "a": "Road links to Harsil were restored within weeks of the August 2025 flash flood at Dharali, and the valley's homestays and orchards continue to welcome visitors. Some stretches of road and riverside remain under repair. Check current status before you travel and confirm with your homestay."},
+    {"q": "What is the best time to visit Harsil?", "a": "September and October for apples, clear skies and golden willows; April to June for blossom, green meadows and pleasant days of 15–25 °C. Winters are snowy and very cold, and some homestays close. Avoid July and August because of landslides on the road."},
+    {"q": "How do I reach Harsil from Rishikesh by bus?", "a": "Take a UTC or GMOU bus from Rishikesh to Uttarkashi (about 6 hours, ₹300–450), then a shared jeep to Harsil (about 3 hours, ₹200–350). In the yatra season some buses run direct to Gangotri via Harsil; ask at the counter the day before."},
+    {"q": "How many days do I need in Harsil?", "a": "Two nights lets you walk the orchards, visit Mukhba and Bagori and see Gartang Gali. Add a day trip to Gangotri, 25 km away. Harsil also makes a good acclimatisation stop before the Gaumukh trek."},
+    {"q": "Is Harsil good for families?", "a": "Yes. Short walks, river meadows, orchards and homestay meals suit families with children. Keep children away from the river banks, which are steep and fast-flowing, and carry warm clothes for evenings."},
+    {"q": "Is there mobile network and ATM in Harsil?", "a": "BSNL and Jio work in parts of Harsil, but signal is patchy and drops off around Mukhba and the meadows. There is no reliable ATM; carry cash from Uttarkashi for homestays, taxis and shopping."},
+    {"q": "What is Harsil rajma?", "a": "Harsil and the upper Bhagirathi valley grow small, flavourful kidney beans, introduced to the valley in the nineteenth century, according to local history, by Frederick Wilson. Buy them from farmers or village shops in autumn after the harvest."},
+    {"q": "Can foreigners visit Harsil?", "a": "Yes. Harsil is on the open Gangotri road. Foreigners can visit Harsil, Mukhba, Gartang Gali with a park ticket, and Gangotri. The Nelang valley beyond Bhaironghati is restricted, with permits that are usually limited to Indian citizens. Check current status before you travel."},
+    {"q": "How cold is Harsil?", "a": "May and June days reach 20–25 °C with nights around 8–10 °C. October nights fall to 0–5 °C. December to February brings snow and nights well below freezing. Carry a warm jacket in every season."}
+  ]
+}

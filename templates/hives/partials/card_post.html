@@ -1,0 +1,9 @@
+{% load hives %}<a class="cell" href="{{ d.url }}"{% if d.land %} data-land="{{ d.land }}"{% endif %} data-item data-cat="{{ d.cat_slug }}">
+  <div class="cell__ph">{% with img=d|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 33vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% else %}{% topo d.slug %}{% endif %}{% endwith %}
+    <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "note" %}</span></div>
+  <div class="cell__body">
+    <span class="readout">{{ d.category }} · {{ d.read_min }} min{% if d.date_obj %} · {{ d.date_obj|date:"j M Y" }}{% endif %}</span>
+    <h3 class="cell__title">{{ d.title }}</h3>
+    <p class="cell__text">{{ d.summary|truncatechars:125 }}</p>
+  </div>
+</a>

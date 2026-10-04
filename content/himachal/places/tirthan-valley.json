@@ -1,0 +1,146 @@
+{
+  "slug": "tirthan-valley",
+  "name": "Tirthan Valley and GHNP",
+  "region": "himachal",
+  "kind": "valley",
+  "wiki": "Great Himalayan National Park",
+  "image_query": "Tirthan valley Great Himalayan National Park",
+  "lat": 31.645,
+  "lng": 77.445,
+  "altitude_m": 1600,
+  "tagline": "Trout river, timber villages and a UNESCO national park",
+  "meta_description": "Tirthan Valley guide: Great Himalayan National Park treks and permits, Jalori Pass and Serolsar lake, Chehni Kothi, homestays, bus from Delhi to Aut, real costs.",
+  "summary": "The Tirthan Valley runs from the Aut tunnel up to Gushaini at about 1,600 m and into the Great Himalayan National Park, a UNESCO World Heritage Site since 2014. Stay three nights in a riverside homestay for village walks, Jalori Pass and a first day inside GHNP.",
+  "intro": [
+    "The Tirthan is a clear, cold river that drops through a narrow side valley of the Beas south of Kullu. The road turns off the highway at Aut, passes the small market town of Banjar and follows the river to Gushaini and Nagini, where the asphalt thins out. Above, the forest climbs to the Great Himalayan National Park, a protected area of about 1,171 square kilometres stretching from around 1,500 m to over 6,000 m. UNESCO listed it in 2014 for its biodiversity.",
+    "This is a valley of homestays rather than hotels. Families along the river have built guesthouses beside their kath-kuni homes and orchards, and most serve home-cooked meals, often with trout from local farms. Days are for walking: along irrigation channels to villages like Sharchi and Pekhri, up to the tower temple at Chehni Kothi above Jibhi, or over Jalori Pass at 3,120 m to the forest lake of Serolsar.",
+    "For deeper wildlife country you need a permit and a registered guide to enter the park's core zone, where treks to Rolla, Shilt and the alpine meadows take two to eight days. Most visitors never see the park's shy animals, but birdwatchers come for the western tragopan, monals and dozens of other species. Come April to June or October and November. The monsoon brings slides on the valley road and flash floods, so we avoid July and August."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Oct – Nov"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Bhuntar (Kullu), ≈ 50 km"],
+    ["From Delhi", "≈ 490 km · 11–12 h to Gushaini"],
+    ["Altitude", "1,600 m at Gushaini"],
+    ["Known for", "GHNP treks, trout, homestays, Jalori Pass"]
+  ],
+  "best_months": [0, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "3",
+  "highlights": [
+    {"title": "Great Himalayan National Park", "text": "A UNESCO World Heritage Site since 2014, entered on foot from Gushaini with a permit and a registered local guide. Even a one-day walk to the park boundary shows forest that has seen little grazing for decades."},
+    {"title": "Riverside homestays", "text": "Family homestays along the Tirthan at Gushaini, Nagini and nearby villages, many in kath-kuni style, with home-cooked dinners and breakfast. Typically ₹1,500–2,500 per person with meals."},
+    {"title": "Jalori Pass and Serolsar lake", "text": "A road pass at 3,120 m, 25 km from Gushaini, with a 5 km forest walk to Serolsar, a small lake with a temple to the goddess Budhi Nagin. Often snowbound from December to March."},
+    {"title": "Chehni Kothi", "text": "A tall kath-kuni tower temple of the 17th century in Chehni village above Jibhi, reached by a 2 km walk. Seen from outside only, it is the clearest example of the style in the valley."},
+    {"title": "Trout on the Tirthan", "text": "The Tirthan is a well-known trout river. Licensed catch-and-release fishing is allowed in parts with a permit from the fisheries department; local trout farms supply homestay kitchens."},
+    {"title": "Village walks", "text": "Paths follow irrigation channels from Gushaini up to villages such as Bathad, Pekhri and Sharchi, through apple orchards and fields of maize and wheat. Ask your homestay host for routes."}
+  ],
+  "field_notes": [
+    {"fact": "The Great Himalayan National Park was established in 1984 and inscribed as a UNESCO World Heritage Site in 2014. It spans altitudes from about 1,500 m to 6,000 m and protects snow leopard, Himalayan tahr and musk deer.", "source": "Great Himalayan National Park"},
+    {"fact": "Chehni Kothi, above Jibhi, is a kath-kuni tower about 45 m tall, generally dated to the 17th century and built without mortar or metal fasteners. It was partly damaged in the 1905 earthquake and repaired by villagers.", "source": "Chehni Kothi"},
+    {"fact": "The western tragopan, a pheasant known locally as jujurana, is the state bird of Himachal Pradesh and is listed as vulnerable. The Great Himalayan National Park holds one of its most important populations.", "source": "Western tragopan"}
+  ],
+  "local_word": {"word": "Jujurana", "language": "Pahari", "meaning": "the western tragopan pheasant; often translated as king of birds"},
+  "costs": [
+    ["HRTC Volvo, Delhi to Aut", "₹1,200–1,700"],
+    ["Local bus, Aut–Banjar–Gushaini", "₹40–90"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Registered GHNP guide", "₹1,500–2,500 a day"],
+    ["Taxi, Gushaini to Jalori Pass return", "₹2,500–3,500 a car"],
+    ["Trout meal at a homestay", "₹400–700"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is about 50 km and 1.5 hours from Gushaini via Aut. Taxis cost about ₹2,500–3,500."},
+    {"mode": "Bus", "text": "HRTC Volvos from Delhi to Manali stop at Aut, before the tunnel, about 10–11 hours. From Aut, local buses run to Banjar (≈ 30 min) and on to Gushaini; homestays can arrange a pickup for about ₹1,200–1,800."},
+    {"mode": "Road", "text": "Turn off the Kiratpur–Manali highway at Aut, then 30 km to Gushaini through Banjar, about 1 hour. From Shimla, the road over Jalori Pass via Narkanda and Ani is shorter on the map but narrow; it often closes in winter. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: the valley is full of family homestays and small guesthouses, especially around Gushaini, Nagini and Banjar, with rooms from ₹1,500–2,500 per person including meals. Comfort: some riverside cottages and homestays have larger rooms with river views and good food for ₹4,000–8,000 a night for two. Signature: there is no luxury hotel in the valley; for signature trips we choose the best riverside cottage and add a private naturalist guide.",
+  "stays": [],
+  "tips": [
+    "Book a homestay that includes meals; there are few restaurants beyond Banjar.",
+    "Get GHNP permits through a registered guide or the park office at Sai Ropa near Gushaini.",
+    "Fish only with a valid fisheries permit and follow catch-and-release rules on protected stretches.",
+    "Do not walk on the riverbank during rain; the Tirthan rises quickly in storms.",
+    "Carry cash from Aut or Banjar; there are no ATMs beyond Banjar and UPI depends on weak signal."
+  ],
+  "themes": ["wildlife-and-birds", "treks-and-walks", "homestays-and-villages", "photography", "family-holidays"],
+  "nearby": ["naggar", "kasol", "manali", "shimla"],
+  "experiences": [
+    {
+      "slug": "tirthan-ghnp-rolla-trek",
+      "title": "Into GHNP: the two-day walk to Rolla",
+      "kind": "trek",
+      "duration": "2 days",
+      "best_time": "Apr–Jun and Oct–Nov",
+      "cost": "Guide ₹1,500–2,500 a day; park fees and porters extra",
+      "image_query": "Great Himalayan National Park trek forest",
+      "wiki": "Great Himalayan National Park",
+      "summary": "Walk from Gushaini past the last villages into the Great Himalayan National Park to the Rolla campsite on the Tirthan, about 10 km in, with a registered guide. Dense forest, waterfalls, birds and the quiet of a protected UNESCO site.",
+      "body": [
+        "The trail from Gushaini follows the Tirthan upstream through orchards and the small villages of the park's eco-zone, then enters the protected forest. Permits are issued at the park office at Sai Ropa, and the park requires a registered guide for overnight treks; your guide arranges this and any porters. The walk to Rolla is roughly 10 km with steady climbing, taking 5–6 hours. Expect wooden bridges, stony stretches and lush mixed forest of oak, maple and horse chestnut.",
+        "Rolla is a campsite beside the river, with the forest closing in on both sides. From here longer routes continue to Shilt and the high meadows, or towards the Tirthan's source. With a guide and luck you may see Himalayan langur and goral; the park also protects snow leopard, tahr, musk deer and brown bear, though these live high and are rarely seen. Birdwatchers look for the western tragopan, monals and koklass pheasants in spring.",
+        "Treks in the park need good boots, layers, rain gear and a sleeping bag, and campsites have no facilities. The park is managed for conservation, so carry all rubbish out and follow your guide's rules on fires and water. Treks close in the monsoon and after heavy snow, and permit rules change. Check current status before you travel."
+      ],
+      "good_for": ["students", "solo", "photographers", "couples"],
+      "faqs": [
+        {"q": "Do I need a permit to trek in the Great Himalayan National Park?", "a": "Yes, for treks inside the park. Permits are issued at the park office at Sai Ropa near Gushaini, usually through a registered local guide, with a fee per person and per day. Day walks in the eco-zone villages do not need a permit. Check current status before you travel."},
+        {"q": "What wildlife can I see in GHNP?", "a": "Most visitors see birds, langurs and goral; the park records more than 180 bird species. Snow leopard, tahr, musk deer and brown bear live in the park but at higher altitudes and are rarely seen on short treks. Spring is best for pheasants."},
+        {"q": "How fit do I need to be for the Rolla trek?", "a": "Moderately fit. Expect 5–6 hours of walking each day on uneven, sometimes steep trails, carrying a day pack. No technical skills are needed. If you have knee or heart issues, choose a shorter eco-zone walk and talk to your doctor."}
+      ]
+    },
+    {
+      "slug": "tirthan-jalori-pass-serolsar-lake",
+      "title": "Jalori Pass and the walk to Serolsar lake",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "Apr–Jun and Oct–Nov, start 8 am",
+      "cost": "Taxi ₹2,500–3,500 return; walk free",
+      "image_query": "Serolsar Lake Jalori Pass",
+      "wiki": "",
+      "summary": "Drive 25 km from Gushaini through Jibhi and Shoja to Jalori Pass at 3,120 m, then walk 5 km through oak and rhododendron forest to Serolsar, a small lake with a temple to the goddess Budhi Nagin. Easy walking with big views.",
+      "body": [
+        "From Gushaini the road climbs past Banjar and Jibhi to Shoja, a hamlet with long views over the Seraj valleys, and on to Jalori Pass at 3,120 m. The pass links the Kullu side with Ani and the Sutlej valley, and it has a small temple and tea stalls. On clear days you can see snow peaks to the north. The road is narrow and steep near the top, and it is often closed by snow from December to March.",
+        "From the pass, a broad trail runs east along the ridge through forest of oak, rhododendron and fir to Serolsar lake, about 5 km away and mostly level. The lake is small and dark, surrounded by trees, and the temple on its bank is dedicated to Budhi Nagin, a serpent goddess revered across the area. Locals believe birds keep the lake surface clear of leaves. Please do not swim, throw coins or leave offerings of plastic.",
+        "The walk takes about 2 hours each way. Start early to enjoy it before clouds build, and carry warm layers, as the pass is often 10 °C colder than Gushaini. At 3,120 m, people coming straight from the plains may feel the altitude; walk slowly. A shorter walk from the pass climbs west to the ruins of Raghupur fort for wide views."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "Is Jalori Pass open in winter?", "a": "Jalori Pass usually closes to traffic after heavy snowfall between December and March, sometimes for weeks. In spring it can open with snow walls beside the road. Even when open, ice makes the road risky in the morning. Check current status before you travel."},
+        {"q": "How long is the walk to Serolsar lake?", "a": "About 5 km each way from Jalori Pass, on a mostly level forest trail, taking about 2 hours each way at a relaxed pace. It is suitable for families with children who walk regularly. Snow can cover the trail in winter and early spring."},
+        {"q": "Can I stay near Jalori Pass?", "a": "Jibhi and Shoja, below the pass, have homestays and guesthouses that make good bases for an early start. Basic huts and tea stalls are on the pass itself. We prefer staying in Jibhi or Gushaini, which are lower and warmer."}
+      ]
+    },
+    {
+      "slug": "tirthan-chehni-kothi-and-jibhi",
+      "title": "Chehni Kothi tower and Jibhi village",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Morning, Mar–Jun and Sep–Nov",
+      "cost": "Free; taxi from Gushaini ₹1,500–2,000 return",
+      "image_query": "Chehni Kothi tower Banjar",
+      "wiki": "Chehni Kothi",
+      "summary": "Walk 2 km up from the Jibhi road to Chehni village to see Chehni Kothi, a 17th-century kath-kuni tower temple about 45 m tall, then explore Jibhi's riverside timber houses and small waterfall.",
+      "body": [
+        "Chehni Kothi stands above the Jibhi road in Chehni village, and you reach it on a well-used footpath of about 2 km through fields and forest. The tower is built entirely of alternating courses of deodar timber and stone, without mortar or metal, and rises much higher than any house around it. It is generally dated to the 17th century. It was partly damaged in the 1905 earthquake, and villagers repaired it.",
+        "The building is a temple of the goddess Bhagwati and is still used by the village. The interior is not open to visitors, so admire it from outside, and do not climb walls or enter temple areas without permission. Local rules may require you to remove leather items near the shrine. In good light, the long horizontal bands of timber and stone make it one of the most photographed buildings in the region.",
+        "Back on the road, Jibhi is a small village on a stream with wooden houses and homestays, a small waterfall a few minutes' walk away and cafés. It has become busier in recent years, but early mornings are still quiet. Combine Chehni Kothi with Jalori Pass on the same day if you start early, or make it a gentle half-day from Gushaini."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors"],
+      "faqs": [
+        {"q": "Can I go inside Chehni Kothi?", "a": "No. It is an active temple and the interior is not open to visitors. You can walk around the outside and photograph the tower from the village paths. Ask villagers before photographing the shrine area, and follow any posted rules."},
+        {"q": "How old is Chehni Kothi?", "a": "It is generally dated to the 17th century, though its exact origins are not recorded. It is built in kath-kuni style without mortar, and it was repaired after partial damage in the 1905 Kangra earthquake."},
+        {"q": "How hard is the walk to Chehni Kothi?", "a": "Easy to moderate. The path from the Jibhi road climbs about 2 km to the village, taking 45 minutes to an hour. It is uneven in places but suits most walkers. Sturdy shoes help after rain."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is the Tirthan Valley?", "a": "In Kullu district, in a side valley of the Beas south of Kullu town. The turn-off is at Aut on the Kiratpur–Manali highway; the valley road runs 30 km through Banjar to Gushaini. It is about 490 km from Delhi and 50 km from Bhuntar airport."},
+    {"q": "What is the best time to visit the Tirthan Valley?", "a": "April to June and October to November. Spring has rhododendrons and active birds; autumn has clear weather and harvest in the orchards. Winter brings snow to Jalori Pass and cold nights. Avoid July and August, when the valley road and riverbanks suffer slides and floods."},
+    {"q": "How much does a Tirthan Valley trip cost?", "a": "A saver trip from Delhi costs about ₹10,000–14,000 per person for three nights: Volvo to Aut and back, a homestay with meals and local buses or shared pickups. Adding a guided two-day GHNP trek costs ₹5,000–8,000 more per person."},
+    {"q": "Do I need a permit for the Tirthan Valley?", "a": "No permit is needed to visit the villages, Jalori Pass or Serolsar lake. Treks inside the Great Himalayan National Park need a permit from the park office, normally arranged with a registered guide. Fishing needs a fisheries department licence."},
+    {"q": "Is there mobile network in the Tirthan Valley?", "a": "Jio and Airtel work in Banjar and much of the valley road, though speeds are slow. Signal weakens in Gushaini's side villages and disappears inside the national park. Many homestays offer Wi-Fi, but do not rely on it for work."},
+    {"q": "Is the Tirthan Valley good for families?", "a": "Yes. Homestays are safe and welcoming, walks are short and the altitude is low at about 1,600 m. Children enjoy the river, trout farms and forest. Keep them away from the water's edge, as the river is fast and cold even in summer."},
+    {"q": "Is the Tirthan Valley safe for solo women?", "a": "Yes. It is a quiet valley of family homestays where hosts usually look after guests closely. Use normal care on forest trails, tell your host your plans, and hire a registered guide for walks beyond the villages or into the national park."},
+    {"q": "What is the difference between Tirthan and Jibhi?", "a": "Both are in the same Banjar area. Tirthan usually means the river valley around Gushaini and Nagini, closer to the national park. Jibhi is in a side valley towards Jalori Pass, with more cafés and homestays. Many visitors split their nights between the two."},
+    {"q": "Can I see snow in the Tirthan Valley?", "a": "Snow falls on Jalori Pass and the higher villages most winters, usually from December to February. Gushaini itself gets light snow in some years. For reliable snow, plan a winter day trip towards Jalori, subject to road closures."}
+  ]
+}

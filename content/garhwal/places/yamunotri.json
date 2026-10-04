@@ -1,0 +1,145 @@
+{
+  "slug": "yamunotri",
+  "name": "Yamunotri",
+  "region": "garhwal",
+  "kind": "pilgrimage town",
+  "wiki": "Yamunotri",
+  "image_query": "Yamunotri Temple Uttarakhand",
+  "lat": 31.014,
+  "lng": 78.459,
+  "altitude_m": 3293,
+  "tagline": "The Yamuna's shrine, where rice cooks in a hot spring",
+  "meta_description": "Yamunotri guide: the 6 km trek from Janki Chatti, Surya Kund and Divya Shila, Kharsali, pony and palki costs, Barkot buses, season dates and stays.",
+  "summary": "Yamunotri is the shrine of the goddess Yamuna at about 3,293 m below Bandarpunch, the westernmost of the Char Dham and usually the first on the circuit. It is a walk of about 6 km from the road head at Janki Chatti, with hot springs at the temple. Most pilgrims base at Barkot or Janki Chatti for 1–2 nights.",
+  "intro": [
+    "Yamunotri sits in a tight gorge at the head of the Yamuna valley, on the flank of the Bandarpunch massif. The river's true source lies higher, at the Champasar and Yamunotri glaciers below Kalind Parvat, which are too steep and dangerous for pilgrims; the temple marks the point where worship has long been offered instead. Destroyed by snow and floods and rebuilt more than once, the temple holds a black stone image of Yamuna, sister of Yama, the god of death.",
+    "Beside the temple, hot springs burst from the rock. The hottest, Surya Kund, is hot enough to cook rice and potatoes, and pilgrims lower small cloth bundles into it and carry the cooked grain home as prasad. Before darshan, pilgrims touch Divya Shila, a rock pillar beside the spring, and bathe in Jamuna Bai Kund, a warm pool fed by the springs. In winter the goddess moves down to Kharsali, the village of her priests, across the river from Janki Chatti.",
+    "Yamunotri is usually the first stop on a Char Dham circuit, reached by road from Dehradun via Mussoorie or from Rishikesh via Chamba to Barkot, then 45 km more to Janki Chatti. From there a paved path of about 6 km climbs steeply up the gorge. It is the shortest of the walking dhams but steep, and in May and June the path is crowded with ponies and palkis. Start early and allow a full day."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, Sep – Oct"],
+    ["Nights we suggest", "1–2 (Barkot or Janki Chatti)"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 210 km to Janki Chatti · 7–8 h"],
+    ["From Barkot", "≈ 45 km to Janki Chatti · 1.5–2 h, then ≈ 6 km walk"],
+    ["Altitude", "≈ 3,293 m"],
+    ["Known for", "Yamuna temple, Surya Kund hot spring, Kharsali, Bandarpunch"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 0, 1, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The Janki Chatti climb", "text": "A paved path of about 6 km, rising some 650 m up the narrow Yamuna gorge past waterfalls and tea stalls. Fit walkers take 2.5–3 hours up. Ponies, palkis and porters carrying pilgrims in baskets crowd the path in peak weeks."},
+    {"title": "Rice cooked in Surya Kund", "text": "Pilgrims tie rice or potatoes in a cloth, lower it into the near-boiling Surya Kund spring beside the temple and wait a few minutes. The cooked grain is offered to the goddess and taken home as prasad. Shops sell ready-made bundles."},
+    {"title": "Divya Shila and the temple", "text": "Before entering the temple, pilgrims worship at Divya Shila, a rock pillar near Surya Kund. Inside, the goddess Yamuna is a black stone image. Darshan is usually quicker than at Kedarnath or Badrinath, but queues build by mid-morning."},
+    {"title": "Kharsali, the winter seat", "text": "A stone-and-timber village across the river from Janki Chatti, where the goddess spends winter and the temple's priests live. Its lanes, terraces and old temples make a quiet walk on the day after your climb."},
+    {"title": "Bandarpunch views", "text": "On clear mornings in May and October the snowy Bandarpunch massif, at over 6,300 m, closes the head of the valley above Janki Chatti and Kharsali. Early light before cloud builds is best for photographs."}
+  ],
+  "field_notes": [
+    {"fact": "The springs beside Yamunotri temple are hot enough to cook rice and potatoes. The temple opens on Akshaya Tritiya and closes on Yama Dwitiya, the second day after Diwali, and has been destroyed by snow and floods and rebuilt more than once.", "source": "Yamunotri Temple"},
+    {"fact": "The Yamuna's actual source is a glacier at about 6,387 m near the Bandarpunch peaks. It is so hard to reach that the shrine was placed at the foot of the hill, and pilgrims offer worship at the temple instead.", "source": "Yamunotri"},
+    {"fact": "Kharsali, home of Yamunotri's priests, hosts the goddess in winter. Around 1830 the village was painted by Charles Bentley, and an engraving of it, The Village of Kursalee, illustrated a poem by Letitia Elizabeth Landon published in 1838.", "source": "Kharsali"}
+  ],
+  "local_word": {"word": "Chatti", "language": "Garhwali / Hindi", "meaning": "pilgrim halt on the old walking route; Janki Chatti and Hanuman Chatti below Yamunotri keep the name"},
+  "costs": [
+    ["UTC or private bus, Rishikesh or Dehradun to Barkot", "₹350–550"],
+    ["Shared jeep seat, Barkot to Janki Chatti", "₹100–200"],
+    ["Pony, Janki Chatti to Yamunotri (one way)", "₹1,500–2,500 at notified rates"],
+    ["Palki, Janki Chatti to Yamunotri and back", "₹6,000–10,000 at notified rates"],
+    ["Double room in Barkot or Janki Chatti, peak", "₹1,500–4,000"],
+    ["Rice bundle for Surya Kund prasad", "₹20–50"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and private buses run from Rishikesh and Dehradun to Barkot, about 6–8 hours, leaving early morning. Shared jeeps and a few buses cover the 45 km from Barkot to Janki Chatti, the road head."},
+    {"mode": "Road", "text": "From Dehradun, the shortest drive is via Mussoorie and Kempty Falls to Barkot, about 140 km and 5 hours. From Rishikesh, go via Chamba and Brahmkhal, about 6–7 hours. The last stretch past Syanachatti and Hanuman Chatti is narrow and slide-prone."},
+    {"mode": "Trek", "text": "From Janki Chatti, a paved path of about 6 km climbs to the temple. Ponies, palkis and porters run at district-notified rates; book at the official counters and keep the receipt. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: GMVN runs rest houses on this road, and Barkot, Syanachatti and Janki Chatti have many simple lodges and dharamshalas at ₹500–2,000 a room. Comfort: Barkot has the most comfortable hotels on the route, at ₹2,500–6,000 a double, and most comfort itineraries sleep two nights there, doing Yamunotri as a long day. There is no luxury stay in the Yamuna valley; signature trips begin from Mussoorie the night before.",
+  "stays": [],
+  "tips": [
+    "Leave Barkot by 5 am to start walking from Janki Chatti before the ponies and crowds.",
+    "Carry a cloth and a little rice if you want to make Surya Kund prasad yourself, or buy a bundle at the temple.",
+    "The path is steep and narrow in places: step to the hill side when ponies pass.",
+    "Hot springs are very hot: test with a hand before entering Jamuna Bai Kund, and keep children back from Surya Kund.",
+    "Take cash; there is no reliable ATM above Barkot."
+  ],
+  "themes": ["pilgrimages", "treks-and-walks", "homestays-and-villages"],
+  "nearby": ["gangotri", "mussoorie-landour", "harsil"],
+  "experiences": [
+    {
+      "slug": "yamunotri-trek-from-janki-chatti",
+      "title": "The climb from Janki Chatti to Yamunotri",
+      "kind": "trek",
+      "duration": "6–7 hours return",
+      "best_time": "6 am start, May–Jun and Sep–Oct",
+      "cost": "Free on foot; pony ₹1,500–2,500 one way",
+      "image_query": "Yamunotri trek path Janki Chatti",
+      "wiki": "Yamunotri Temple",
+      "summary": "A steep paved path of about 6 km up the Yamuna gorge from Janki Chatti to the temple, climbing about 650 m past waterfalls and tea stalls. Shorter than Kedarnath, but steeper, and crowded with ponies in May and June.",
+      "body": [
+        "Janki Chatti, at about 2,650 m, is the road head: a strip of lodges, parking, pony stands and shops. The path leaves the village and climbs into the gorge of the Yamuna, a narrow green cleft with waterfalls spilling down the cliffs. It is paved and railed on the exposed sections, with tea stalls and resting points every kilometre or so.",
+        "The climb is short but stiff, gaining about 650 m in roughly 6 km, and the last stretch to the temple is the steepest. Most walkers take 2.5–3 hours up and 2 hours down. Ponies, palkis and porters with back-baskets share the path; on busy days there can be jams on narrow bends. Step to the inside, away from the drop, when animals pass.",
+        "Start at first light: you avoid crowds and heat, and you have time for darshan, the hot springs and a meal before afternoon rain. Carry water, a rain jacket and a warm layer for the temple. If you feel unwell with altitude, rest, drink water and descend. Elderly pilgrims should consider a pony or palki for the climb and walk down slowly with support."
+      ],
+      "good_for": ["families", "students", "first-timers", "solo"],
+      "faqs": [
+        {"q": "How long is the Yamunotri trek?", "a": "About 6 km one way from Janki Chatti, climbing roughly 650 m. Fit walkers take 2.5–3 hours up and 2 hours down. The path is paved, steep in places and busy with ponies in peak season."},
+        {"q": "How much does a pony or palki cost for Yamunotri?", "a": "Rates are notified by the district each season. Indicatively, a pony costs about ₹1,500–2,500 one way and a palki ₹6,000–10,000 for the round trip, depending on weight and season. Book at official counters and keep your receipt."},
+        {"q": "Is the Yamunotri trek difficult for seniors?", "a": "It is steep, so many seniors use a pony, palki or porter basket for the climb. Walking down with a stick is usually manageable. Have a medical check before the yatra and talk to your doctor if you have heart or knee problems."}
+      ]
+    },
+    {
+      "slug": "yamunotri-surya-kund-prasad",
+      "title": "Cooking prasad in the Surya Kund spring",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning, May–Oct",
+      "cost": "Rice bundle ₹20–50",
+      "image_query": "Surya Kund Yamunotri hot spring",
+      "wiki": "Yamunotri",
+      "summary": "At the temple, join pilgrims lowering cloth bundles of rice and potatoes into Surya Kund, a hot spring near boiling point. Worship at Divya Shila, bathe in the warm Jamuna Bai Kund and take darshan of the goddess.",
+      "body": [
+        "Surya Kund is the hottest of several springs that rise beside the Yamunotri temple, its water hot enough to cook food. Pilgrims tie raw rice, and sometimes potatoes, in a cloth or muslin bag, lower it into the spring on a string, and pull it out cooked a few minutes later. The rice is offered at the temple and carried home as prasad.",
+        "The ritual order is local tradition: first worship at Divya Shila, the rock pillar near the spring, then cook the prasad, bathe in Jamuna Bai Kund, a warm pool used for bathing, and finally take darshan of the goddess Yamuna's black stone image inside the temple. Priests from Kharsali guide pilgrims through the rites for a small dakshina.",
+        "Take care around the springs: Surya Kund can scald, and steps are wet and slippery. Use separate bathing areas for men and women and keep valuables with a companion. Photograph the steam and the river, but not people bathing, and not inside the sanctum. In peak weeks the temple area is packed by 10 am, so arriving early makes everything calmer."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Why do pilgrims cook rice at Yamunotri?", "a": "The Surya Kund spring beside the temple is hot enough to cook rice and potatoes. Pilgrims cook rice in a cloth bundle in the spring, offer it to the goddess and carry it home as prasad. It is one of the best-known customs of the Char Dham."},
+        {"q": "Can I bathe in the hot springs at Yamunotri?", "a": "Yes, in Jamuna Bai Kund, the warm bathing pool near the temple, with separate areas for men and women. Do not touch or enter Surya Kund, which is near boiling. Test water with your hand first."},
+        {"q": "What are the darshan timings at Yamunotri?", "a": "The temple generally opens around 6 am and closes around 8 pm, with a midday break. Since you must walk back down to Janki Chatti, aim to finish darshan by early afternoon. Check timings locally."}
+      ]
+    },
+    {
+      "slug": "kharsali-village-walk",
+      "title": "Kharsali, where the Yamuna spends winter",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Morning, all year",
+      "cost": "Free",
+      "image_query": "Kharsali village Uttarakhand temple",
+      "wiki": "Kharsali",
+      "summary": "Cross the river from Janki Chatti to Kharsali, the village of Yamunotri's priests, where the goddess is kept from Diwali to spring. Old timber-and-stone houses, temples and terraced fields below Bandarpunch.",
+      "body": [
+        "Kharsali stands on a slope across the Yamuna from Janki Chatti, a cluster of stone-and-timber houses with slate roofs above terraced fields. The priests of Yamunotri come from this village, and when the temple closes on Yama Dwitiya after Diwali, the goddess is carried down in procession and kept here through the winter until the spring opening.",
+        "The village has a long recorded past. Around 1830 the British artist Charles Bentley painted it, and an engraving made from his work illustrated a poem titled The Village of Kursalee by Letitia Elizabeth Landon, published in 1838, showing a temple with the snows behind. Today the village has a winter temple of Yamuna and an old multi-storey temple of Shani, the Yamuna's brother in Hindu tradition.",
+        "Walk across the bridge from Janki Chatti and up through the lanes; it is a short, steep climb. Greet people, ask before taking photographs and keep out of courtyards unless invited. The village is quiet and lived-in, quite unlike the bustle of the yatra path. In winter, when Yamunotri is snowbound, Kharsali is where pilgrims come for darshan."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "Where is the goddess Yamuna worshipped in winter?", "a": "At Kharsali village, across the river from Janki Chatti. The image is carried down in a doli procession when Yamunotri closes after Diwali and returns on Akshaya Tritiya. Pilgrims can take darshan at Kharsali in winter."},
+        {"q": "How do I reach Kharsali from Janki Chatti?", "a": "Cross the Yamuna on the bridge from Janki Chatti and walk up for 20–30 minutes, or drive round by the road. The village lanes are steep and stony; wear good shoes."},
+        {"q": "Can I stay in Kharsali?", "a": "A few guesthouses and homestays operate in and around Kharsali, with simple rooms and home-cooked food. It makes a quieter base than Janki Chatti for the Yamunotri climb. Book ahead in May and June."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When does Yamunotri temple open and close?", "a": "Yamunotri opens on Akshaya Tritiya, usually in late April or early May, and closes on Yama Dwitiya (Bhai Dooj), two days after Diwali. The goddess then moves to Kharsali. Exact dates are announced each year; check current status before you travel."},
+    {"q": "How far is Yamunotri from Janki Chatti?", "a": "About 6 km by paved path, climbing roughly 650 m. Most walkers take 2.5–3 hours up. Ponies, palkis and porters are available at notified rates. There is no road or helicopter shuttle to the temple itself."},
+    {"q": "Where should I stay for Yamunotri?", "a": "Barkot, 45 km below, has the best range of hotels and suits most travellers. Janki Chatti and Kharsali, at the trailhead, let you start walking earliest but have simpler rooms. Book ahead in May and June."},
+    {"q": "How do I reach Yamunotri from Dehradun?", "a": "Drive or take a bus via Mussoorie and Kempty Falls to Barkot, about 140 km and 5 hours, then 45 km to Janki Chatti. Buses also run from Rishikesh via Chamba. Start early to avoid traffic on the Mussoorie road."},
+    {"q": "Is Yamunotri the first dham of the Char Dham Yatra?", "a": "By tradition the circuit runs west to east: Yamunotri, Gangotri, Kedarnath and Badrinath. Yamunotri is first because it is the westernmost. You can visit in any order, but following the tradition also makes geographic sense from Dehradun or Rishikesh."},
+    {"q": "Is registration needed for Yamunotri?", "a": "Yes. Char Dham registration is mandatory and is checked on the road, often at Barkot or Janki Chatti. Register online or at counters in Rishikesh or Haridwar, and carry the slip or QR code. Check current status before you travel."},
+    {"q": "Is there mobile network at Yamunotri?", "a": "Jio and BSNL usually work at Barkot and Janki Chatti, with patchy coverage on the trek and at the temple. Barkot has ATMs; above it, carry cash for ponies, prasad and food."},
+    {"q": "Can I visit Yamunotri in a day from Barkot?", "a": "Yes, it is a long day: 1.5–2 hours to Janki Chatti, 6–7 hours for the walk and darshan, and the drive back. Leave Barkot by 5 am. Many comfort itineraries do exactly this and sleep two nights in Barkot."},
+    {"q": "Is Yamunotri safe in the monsoon?", "a": "The road to Janki Chatti and the path suffer landslides and rockfall in July and August, and the administration sometimes halts the yatra on heavy-rain alerts. We avoid these months. If you must go, keep buffer days and follow official alerts."}
+  ]
+}

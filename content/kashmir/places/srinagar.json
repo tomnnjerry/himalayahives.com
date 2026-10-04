@@ -1,0 +1,146 @@
+{
+  "slug": "srinagar",
+  "name": "Srinagar",
+  "region": "kashmir",
+  "kind": "city",
+  "wiki": "Srinagar",
+  "image_query": "Dal Lake shikara Srinagar",
+  "lat": 34.0837,
+  "lng": 74.7973,
+  "altitude_m": 1585,
+  "tagline": "Houseboats, Mughal gardens and an old city of craftsmen",
+  "meta_description": "Srinagar travel guide: Dal Lake houseboats, dawn vegetable market, Mughal gardens, old-city crafts, real shikara and food prices for 2026.",
+  "summary": "Srinagar is Kashmir's summer capital, spread around Dal Lake at 1,585 m. Spend two to three nights: one on a houseboat, a dawn shikara to the floating vegetable market, the Mughal gardens on the Zabarwan foothills, and a walk through the wooden mosques and craft lanes of the old city on the Jhelum.",
+  "intro": [
+    "Srinagar is two cities. The lake city wraps around Dal and Nigeen, with houseboats moored along the Boulevard, floating gardens called raad growing tomatoes and lotus root, and shikaras carrying everything from tourists to vegetables. The old city, Shehr-e-Khaas, runs along the Jhelum with seven historic bridges, wooden shrines and dense lanes of craftsmen. Most visitors see only the first. We suggest giving the second at least a morning.",
+    "The setting explains the city. Dal Lake covers about 18 sq km at 1,583 m, divided by causeways into four basins: Gagribal, Lokut Dal, Bod Dal and Nigeen. Behind it the Zabarwan range shelters a string of Mughal gardens, laid out from 1619 onwards to catch spring water and shade. On the other side, the Hari Parbat hill and its fort watch over the old city, while the Shankaracharya hill rises above the Boulevard.",
+    "Srinagar is also the practical hub of the valley. Flights, the train from Katra, JKSRTC buses and shared Sumos all start here, and almost every day trip, to Gulmarg, Sonamarg, Doodhpathri, Yusmarg, Pampore or Dachigam, is under three hours away. Base yourself here for three or four nights and you can see much of Kashmir without changing rooms often."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Nov"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Srinagar airport, about 12 km"],
+    ["From Jammu", "≈ 250 km · 7–9 h by road; about 3 h by train from Katra"],
+    ["Altitude", "1,585 m"],
+    ["Known for", "Houseboats, Mughal gardens, papier-mache, wazwan"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "2–4",
+  "highlights": [
+    {"title": "A night on a houseboat", "text": "Houseboats on the Dal and Nigeen are carved cedar and walnut rooms on the water, reached by shikara. Budget boats on the inner lake are simple and friendly; deluxe boats near the Boulevard have heaters and full meals. Nigeen is quieter than the Dal Gate stretch."},
+    {"title": "The dawn vegetable market", "text": "Between about 5 and 7 am, farmers from the floating gardens paddle boats loaded with lotus stem, turnips, greens and tomatoes to a gathering point near Rainawari to trade. It is a working market, not a show, and it is over by breakfast."},
+    {"title": "Shalimar and Nishat", "text": "Jahangir built Shalimar Bagh in 1619, and Asif Khan built Nishat Bagh in 1633 with twelve terraces down to the lake. Walk uphill along the central channels to see how water was moved purely by gravity, and look back across Dal from the top terrace."},
+    {"title": "Old city shrines", "text": "The Jamia Masjid's 378 deodar columns and the Khanqah-e-Moula's papier-mache walls are two of the finest wooden buildings in the Himalaya. Dress modestly, remove shoes, and ask before photographing inside. Women may be restricted to certain areas."},
+    {"title": "Tulips and chinars", "text": "In April the Indira Gandhi Memorial Tulip Garden, about 30 ha below the Zabarwan, holds over a million bulbs. In October the chinar avenues of Naseem Bagh, now a heritage park with over 700 trees, turn red and gold."},
+    {"title": "Wazwan and harissa", "text": "Srinagar is the place to eat Kashmiri food properly: rogan josh, yakhni and gushtaba at a wazwan restaurant, and in winter harissa, a slow-cooked mutton and rice paste, sold at dawn from old-city shops."}
+  ],
+  "field_notes": [
+    {"fact": "The floating gardens on Dal Lake are called raad in Kashmiri. Farmers build them from mats of reeds and lake weed and grow tomatoes, cucumbers and melons on them, and lotus flowers bloom across the lake in July and August.", "source": "Dal Lake"},
+    {"fact": "Srinagar joined the UNESCO Creative Cities Network in November 2021 as a City of Crafts and Folk Art, recognising papier-mache, walnut wood carving, carpets, sozni embroidery and shawl weaving.", "source": "UNESCO Creative Cities Network"},
+    {"fact": "The Jamia Masjid at Nowhatta was commissioned by Sultan Sikandar in 1394 and completed in 1402. Its roof rests on 378 wooden columns of deodar, and it has been rebuilt after fires more than once.", "source": "Jamia Masjid, Srinagar"}
+  ],
+  "local_word": {"word": "Raad", "language": "Kashmiri", "meaning": "a floating garden on Dal Lake, built from reeds and weed and used to grow vegetables"},
+  "costs": [
+    ["Shikara, per boat per hour (government rates displayed at ghats)", "₹600–1,200"],
+    ["Houseboat budget room with breakfast", "₹1,500–3,000 a room"],
+    ["Mughal garden entry (Shalimar, Nishat, Chashme Shahi)", "₹25–50 per adult"],
+    ["Tulip garden entry in season", "₹75–100 per adult"],
+    ["Rogan josh with rice at a local restaurant", "₹300–500"],
+    ["Airport prepaid taxi to Dal Gate", "₹800–1,200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Srinagar airport is about 12 km from Dal Gate, 30–45 minutes by taxi. Non-stop flights run from Delhi, Mumbai, Bengaluru, Kolkata, Chandigarh and Jammu. Security checks at the airport are thorough, so arrive two hours early for departures."},
+    {"mode": "Train", "text": "Vande Bharat trains from Shri Mata Vaishno Devi Katra reach Srinagar station at Nowgam in about 3 hours. Local DEMU trains run along the valley to Anantnag, Pampore and Baramulla for small fares. Check current timetables before you travel."},
+    {"mode": "Road", "text": "NH44 from Jammu is about 250 km, 7–9 hours through Banihal. Shared Sumos leave Jammu's bus stand area through the morning, and JKSRTC runs buses. Landslides can close the highway for a day or more; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: houseboats on Nigeen and the inner Dal have simple rooms from about ₹1,500 a night, and Zostel Srinagar near Nishat has dorm beds and private rooms. Old-city and Lal Chowk guesthouses are cheap but busy. Comfort: deluxe houseboats near the Boulevard, Ahdoos on Residency Road, and the many three and four star hotels in Rajbagh and on the Boulevard. Signature: The LaLiT Grand Palace, the Maharaja's former Gulab Bhavan above Dal, with large lawns and chinar trees; Vivanta Dal View on the Kralsangri hill is another top option.",
+  "stays": ["zostel-srinagar", "ahdoos-hotel-srinagar", "lalit-grand-palace-srinagar"],
+  "tips": [
+    "Agree shikara rates per hour before you board; government rate boards are posted at the main ghats.",
+    "Visit the Mughal gardens before 10 am on weekdays, when the light is soft and the lawns are empty.",
+    "Carry a scarf for shrines; women should cover their heads at Hazratbal, Jamia Masjid and the Khanqah.",
+    "Friday afternoon prayers close the old-city mosques to visitors, so plan the crafts walk for another day.",
+    "Avoid buying pashmina or saffron from houseboat touts; buy from government emporia or growers with GI labels."
+  ],
+  "themes": ["food-and-tea", "photography", "honeymoons", "family-holidays"],
+  "nearby": ["pampore", "dachigam", "gulmarg", "doodhpathri"],
+  "experiences": [
+    {
+      "slug": "srinagar-dal-lake-dawn-vegetable-market",
+      "title": "Dawn shikara to Dal's vegetable market",
+      "kind": "food",
+      "duration": "2–2.5 hours",
+      "best_time": "5 am, Apr–Oct",
+      "cost": "Shikara ₹1,000–1,800 per boat for the trip",
+      "image_query": "Dal Lake floating vegetable market",
+      "wiki": "Dal Lake",
+      "summary": "Before sunrise, farmers from Dal's floating gardens paddle their produce to a gathering point near Rainawari and trade from boat to boat. A shikara ride there and back is the best two hours you can spend in Srinagar, and you are back in time for breakfast.",
+      "body": [
+        "The market is a gathering of farmers who grow vegetables on raad, the floating gardens of the Dal. From about 4.30 or 5 am, boats loaded with lotus stem (nadru), turnips, spinach, kohlrabi and tomatoes drift together in a channel near Karapora and Rainawari. Wholesale buyers move between them, deals are made quietly, and by 7 am the boats are gone. It is not staged for visitors, so keep a respectful distance and ask before close-up photographs.",
+        "Book a shikara the night before through your houseboat or at Dal Gate ghat and agree the price for the round trip. The ride from the Boulevard takes 30–45 minutes each way through the inner lake, past houseboats, willow-lined channels, lotus beds in summer and the backs of lake villages. On the way back, ask the boatman to pause at a floating garden so you can see how the reed mats hold soil.",
+        "Wear a warm layer even in June, because the lake is cold before sunrise, and carry cash in small notes if you want to buy fruit. Vendors selling saffron, jewellery and kahwa will paddle up on the return; a polite no works. In October and November the market starts a little later and the mist is thicker."
+      ],
+      "good_for": ["photographers", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "What time does the Dal Lake floating market start?", "a": "Farmers begin gathering at about 4.30–5 am and trading is mostly over by 7 am. Leave the Boulevard or Nigeen by 5 am in summer and about 5.30 am in autumn. Your houseboat or a Dal Gate boatman can arrange a shikara the night before."},
+        {"q": "How much does a shikara to the vegetable market cost?", "a": "Expect ₹1,000–1,800 for the boat for a 2–2.5 hour round trip, shared by up to four people. Rates rise in peak season. Agree the price and the route before you leave, and check the government rate board at the ghat for hourly charges."},
+        {"q": "Is the floating market suitable for children and seniors?", "a": "Yes, if they are comfortable getting in and out of a low boat. Shikaras have cushioned seats and a canopy, and the water is calm. Bring blankets for the early chill and keep small children in life jackets, which you should request from the boatman."}
+      ]
+    },
+    {
+      "slug": "srinagar-mughal-gardens-on-foot",
+      "title": "Mughal gardens of the Zabarwan, terrace by terrace",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "8 am, Apr–May and Oct",
+      "cost": "Entry ₹25–50 per garden; taxi ₹1,200–1,800 for the circuit",
+      "image_query": "Nishat Bagh terraces Srinagar",
+      "wiki": "Shalimar Bagh, Srinagar",
+      "summary": "Four gardens line the foothills above Dal Lake: Shalimar, Nishat, Chashme Shahi and Pari Mahal. Visiting in a morning shows how Mughal engineers moved spring water down stone channels and terraces using gravity alone, with chinar shade and views across the lake.",
+      "body": [
+        "Start at Shalimar Bagh, which Jahangir laid out in 1619 and called Farah Baksh, the delightful. The central channel, the Shah Nahar, runs through three terraces, and the black marble pavilion added by Shah Jahan sits in the upper garden once reserved for the royal women. In spring the fountains run and the beds are planted with tulips, pansies and roses.",
+        "Drive ten minutes south to Nishat Bagh, built in 1633 by Asif Khan, brother of the empress Nur Jahan. It is the largest garden on the lakeshore after Shalimar, with twelve terraces said to represent the signs of the zodiac. The 4 m wide water channel cascades over carved stone chutes called chadars, and the top terrace gives the best view of Dal and the Pir Panjal beyond.",
+        "Finish with Chashme Shahi, a small garden built around a spring whose water many Srinagar families still bottle to drink, and Pari Mahal above it, a terraced ruin linked to Dara Shikoh that is lovely at sunset. Gardens open around 9 am and close at dusk; check current hours. Picnics are allowed on lawns but not in water channels."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Which Mughal garden in Srinagar is best if we only have time for one?", "a": "Nishat Bagh. It has the most dramatic terraces, the best view of Dal Lake and the Pir Panjal, and is close to the Boulevard. If you have two hours more, add Shalimar for its pavilions and history. Go before 10 am to avoid school groups."},
+        {"q": "Are the Mughal gardens open in winter?", "a": "Yes, the gardens stay open through winter, but fountains are switched off and beds are bare. Late October and early November are a lovely compromise, with chinar trees turning red. Spring from late March to May is when the planting and water are at their best."},
+        {"q": "Can seniors manage the garden terraces?", "a": "Mostly. Each terrace is linked by stone steps, some steep and without rails. Shalimar is the gentlest. At Nishat, seniors can enjoy the lower terraces and the lake view without climbing to the top. Benches are available, and the lawns are flat."}
+      ]
+    },
+    {
+      "slug": "srinagar-old-city-crafts-walk",
+      "title": "Old city walk: wooden shrines and craft lanes",
+      "kind": "craft",
+      "duration": "3–4 hours",
+      "best_time": "9 am, all year except Friday",
+      "cost": "Free entry; guide ₹1,500–2,500 for a small group",
+      "image_query": "Khanqah-e-Moula Srinagar",
+      "wiki": "Khanqah-e-Moula",
+      "summary": "Walk from the Khanqah-e-Moula on the Jhelum to the Jamia Masjid at Nowhatta through lanes where papier-mache painters, walnut carvers and copper smiths still work. It is the side of Srinagar that explains why UNESCO named it a craft city.",
+      "body": [
+        "Begin at the Khanqah-e-Moula, also called the Khanqah of Shah Hamadan, on the right bank of the Jhelum between two old bridges. First built in 1395 to honour the Persian preacher Mir Sayyid Ali Hamadani, it is a wooden building with a pyramidal roof and an interior covered in painted papier-mache. Non-Muslim visitors are generally welcome outside prayer times; women may not enter the main hall.",
+        "From there, lanes lead through the old quarters where workshops are still at street level. Look for papier-mache artists painting boxes layer by layer, walnut carvers working with hand chisels on tables and screens, and copper engravers at work on samovars. Many workshops welcome a short visit if you ask politely, and buying directly here costs far less than at lakeside showrooms.",
+        "End at the Jamia Masjid at Nowhatta, begun in 1394, with its courtyard garden and 378 deodar pillars. Avoid Fridays, when the mosque fills for prayers and the area is busy. Stop at a kandur bakery for girda bread or a kahwa stall on the way. A local guide adds a lot, both for context and for opening workshop doors."
+      ],
+      "good_for": ["solo", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "Is the Srinagar old city safe to walk?", "a": "On normal days the old city is busy with local life and visitors walk it regularly, especially with a local guide. Situations can change, and the area sometimes sees closures on particular days. Check current advisories before you travel, ask your hotel that morning, and avoid crowds after Friday prayers."},
+        {"q": "Where can I buy genuine papier-mache and walnut wood in Srinagar?", "a": "Buy from workshops in the old city, from the government's Kashmir Government Arts Emporium, or from shops that show GI labels. Walnut wood should be heavy with a fine grain. Papier-mache made from paper pulp is lighter than cheaper card versions. Ask for a bill."},
+        {"q": "What should women wear in Srinagar's old city shrines?", "a": "Loose clothes covering arms and legs, and a scarf to cover the head inside shrines and mosques. Remove shoes at the door. Some shrines, such as the Khanqah-e-Moula, restrict women from the main hall, so look for the women's section or view from the entrance."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Srinagar?", "a": "Two full days covers the essentials: one for Dal Lake, the dawn market and the Mughal gardens, one for the old city, Hazratbal and Shankaracharya hill. Add a third if you want day trips to Pampore, Dachigam or Doodhpathri without changing hotels. Most visitors use Srinagar as a base for three or four nights."},
+    {"q": "Is a houseboat in Srinagar worth it?", "a": "Yes, for at least one night. You wake on the water, see the lake at dawn and dusk, and get a shikara at the door. Choose Nigeen for quiet or the Boulevard side of Dal for convenience. Confirm heating, hot water and whether meals are included before paying."},
+    {"q": "How much does a shikara ride cost in Srinagar?", "a": "The tourism department posts hourly rates at the main ghats, typically ₹600–1,200 per boat per hour depending on season and route. A sunset ride of 1–2 hours is the usual choice. Agree the route and the time before you board, and pay at the end."},
+    {"q": "What is the best time to visit Srinagar?", "a": "April for tulips and spring gardens, May and June for warm long days, and October to early November for chinar colours and the saffron harvest nearby. Winter from December to February is cold and foggy but quiet and cheap, with snow on the hills and harissa in the old city."},
+    {"q": "Is Srinagar safe for solo women travellers?", "a": "Many solo women travel here without problems. Dress conservatively, use registered houseboats and hotels, book shikaras through your stay, and avoid deserted ghats after dark. Persistent vendors are the most common nuisance. Check current advisories before you travel and share your plans with your hotel."},
+    {"q": "Where should I eat wazwan in Srinagar?", "a": "Long-running restaurants such as Ahdoos on Residency Road serve wazwan dishes à la carte, so you can try rista, rogan josh, gushtaba and yakhni without ordering a full feast. A shared trami for four is the traditional way. Expect ₹800–1,500 per person for a generous wazwan meal."},
+    {"q": "Do I need cash in Srinagar?", "a": "ATMs are common in Lal Chowk, Residency Road and the Boulevard, and most hotels take cards and UPI. Carry cash for shikaras, small eateries, garden entries and tips. Network problems sometimes affect UPI, so keep ₹2,000–3,000 in small notes."},
+    {"q": "How do I get from Srinagar airport to Dal Lake?", "a": "Take the prepaid taxi from the counter outside arrivals, about ₹800–1,200 to Dal Gate or the Boulevard, 30–45 minutes. Houseboat owners will meet you at the ghat with a shikara. App cabs operate only patchily. JKSRTC airport buses have run at times; check current status."},
+    {"q": "What should I not miss in Srinagar in winter?", "a": "A kangri-warmed evening on a houseboat, harissa for breakfast in the old city, the frozen edges of Dal in Chillai Kalan, and a day trip to Gulmarg for snow. Ask for a room with a heater or bukhari stove, and expect occasional power cuts."}
+  ]
+}

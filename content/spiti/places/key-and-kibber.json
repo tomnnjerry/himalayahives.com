@@ -1,0 +1,145 @@
+{
+  "slug": "key-and-kibber",
+  "name": "Key Gompa and Kibber",
+  "region": "spiti",
+  "kind": "monastery",
+  "wiki": "Key Monastery",
+  "image_query": "Key Monastery Spiti valley",
+  "lat": 32.3,
+  "lng": 78.01,
+  "altitude_m": 4270,
+  "tagline": "Spiti's largest gompa and the village where snow leopards winter",
+  "meta_description": "Key Gompa (4,166 m) and Kibber (4,270 m): morning prayers, Chicham bridge, snow leopard winters, homestay prices and taxi costs from Kaza.",
+  "summary": "Key Gompa, 12 km from Kaza at 4,166 m, is the largest monastery in Spiti and the valley's postcard. Kibber, 7 km further at 4,270 m, is one of the highest villages inhabited year-round and the base for snow leopard trips in winter. Most visit on a day trip from Kaza; sleep in Kibber only once acclimatised.",
+  "intro": [
+    "Key Gompa looks built on top of itself: rooms, prayer halls and monks' quarters stacked up a cone of rock above the Spiti river. It belongs to the Gelug school, was founded in the 11th century, and has been rebuilt again and again after Mongol raids in the 17th century, the wars of the 19th, and the 1975 earthquake. Today it is a working school for young monks from across Spiti, and the morning prayers are open to quiet visitors.",
+    "Beyond Key the road climbs to Kibber, a village of about 75 families at 4,270 m. Kibber was the last settlement on the old trade route to Ladakh and Tibet over Parang La, and its fields of barley and green peas end where the high pastures begin. It is also the gateway to the Kibber Wildlife Sanctuary, home to snow leopards, blue sheep and ibex, and in winter villagers work as spotters for wildlife trips.",
+    "Past Kibber, the Chicham bridge spans a gorge to the village of Chicham, cutting what used to be a long detour. Most travellers combine Key, Kibber and Chicham into one half-day loop from Kaza. If you want to stay, Kibber has family homestays, but sleep here only after two nights in Kaza: 4,270 m is a big step up, and a bad night at this height is no fun for anyone."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep; Jan – Feb for snow leopard trips"],
+    ["Nights we suggest", "1 (in Kibber, after Kaza)"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 250 km"],
+    ["From Kaza", "≈ 12 km · 30 min to Key; ≈ 19 km · 50 min to Kibber"],
+    ["Altitude", "4,166 m (Key); 4,270 m (Kibber)"],
+    ["Known for", "Key Gompa, Kibber village, Chicham bridge, snow leopards"]
+  ],
+  "best_months": [2, 2, 0, 0, 1, 2, 2, 1, 2, 1, 0, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Morning prayers at Key Gompa", "text": "Arrive around 7 am, sit at the back of the assembly hall and listen to the young monks chant. Remove your shoes, keep your phone away, and accept butter tea if offered. A small donation is customary but never demanded."},
+    {"title": "The rooftop view from Key", "text": "From the upper terraces of Key you look straight down the Spiti river towards Kaza, with Kibber's plateau behind. Climb slowly: it is only a few flights of steps, but they are at 4,166 m."},
+    {"title": "Kibber village lanes", "text": "Kibber's stone and mud houses sit on a plateau above a deep gorge, with fields of barley and peas in summer. Walk through the village in the late afternoon when people bring livestock home."},
+    {"title": "Chicham bridge over the gorge", "text": "A short drive past Kibber, the Chicham bridge crosses a sheer gorge to Chicham village. Walk across for the view down into the canyon, but keep away from the edges and do not stop vehicles on the bridge."},
+    {"title": "Snow leopard country in winter", "text": "From January to March, snow leopards follow blue sheep onto the lower slopes around Kibber and Chicham. Local spotters scan the cliffs with telescopes, and sightings are good but never guaranteed."}
+  ],
+  "field_notes": [
+    {"fact": "Key Gompa has survived a long list of attacks: Mongol raids in the mid-17th century, fighting during the Ladakh–Kulu wars around 1821, and damage by Dogra and Sikh forces in 1841, followed by the 1975 earthquake.", "source": "Key Monastery"},
+    {"fact": "In August 2000 the Fourteenth Dalai Lama inaugurated a new prayer hall at Key, to mark the monastery's thousand years of history.", "source": "Key Monastery"},
+    {"fact": "Kibber was the last village on the old trade route from Spiti to Ladakh and Tibet, which crossed Parang La at about 5,578 m. Traders and their animals rested here before and after the pass.", "source": "Kibber"}
+  ],
+  "local_word": {"word": "La", "language": "Tibetan", "meaning": "mountain pass, as in Parang La, the trade pass above Kibber"},
+  "costs": [
+    ["Taxi Kaza–Key–Kibber–Chicham and back", "₹2,000–3,000 per car"],
+    ["Local bus Kaza–Kibber", "₹40–80"],
+    ["Homestay in Kibber with dinner and breakfast", "₹1,200–2,000 per person"],
+    ["Key Gompa entry", "Free; donation welcome"],
+    ["Winter snow leopard spotter, per day", "₹2,000–4,000 per group"],
+    ["Butter tea or thukpa at a village cafe", "₹50–200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "The nearest airport is Bhuntar near Kullu, then Manali and Kaza. Allow two days from the airport, with a night in Kaza before going up to Key and Kibber."},
+    {"mode": "Bus", "text": "A local HRTC bus runs from Kaza to Kibber via Key in season, usually once or twice a day; check current timings at Kaza bus stand. It is cheap but leaves little time at Key."},
+    {"mode": "Road", "text": "Key is 12 km and Kibber 19 km from Kaza on a paved road. A taxi from the Kaza union covers both plus Chicham in a half day."}
+  ],
+  "where_to_stay": "Most travellers sleep in Kaza and visit Key and Kibber on a day trip. Saver: Kibber has several family homestays at ₹1,200–2,000 a person with meals, with shared or simple attached bathrooms; in winter they heat one room with a stove. Comfort and signature: there are no hotels of that standard in Kibber, so we base comfort and signature trips in Kaza or at The Grand Dewachen in Rangrik and come up for the day. Key Gompa does not run a general guest house for tourists; do not expect to stay there.",
+  "stays": [],
+  "tips": [
+    "Visit Key early in the morning for prayers, before the tour cars arrive around 10 am.",
+    "Sleep in Kibber only after at least two nights in Kaza.",
+    "Carry cash in small notes for donations and tea; there are no ATMs beyond Kaza.",
+    "In winter, wear proper insulated boots: the Kibber cliffs are icy and temperatures fall below −20 °C.",
+    "Do not drone over the monastery or fly near wildlife; ask locally about current rules."
+  ],
+  "themes": ["monasteries", "homestays-and-villages", "wildlife-and-birds", "snow-and-winter", "photography"],
+  "nearby": ["kaza", "langza"],
+  "experiences": [
+    {
+      "slug": "key-gompa-morning-prayers",
+      "title": "Morning prayers at Key Gompa",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "7 am, May–Oct",
+      "cost": "Free entry, donation welcome; taxi from Kaza ₹1,200–1,800 return",
+      "image_query": "Key Monastery prayer hall monks",
+      "wiki": "Key Monastery",
+      "summary": "Sit quietly at the back of the assembly hall as young monks chant at Spiti's largest monastery. Go early, before the day-trip cars, and leave your phone in your pocket.",
+      "body": [
+        "Key Gompa is a Gelug monastery and a school: many of the monks are boys from Spitian families, and prayers start early. Leave Kaza by 6.30 am to be at the hall around 7. The chanting, horns and drums last about an hour, sometimes longer on special days.",
+        "Enter only if the doors are open, take off your shoes, and sit along the back wall. Do not walk in front of monks or between them and the altar, and never point your feet towards the images. Photography inside is usually not allowed during prayers. Afterwards, monks may show visitors the old rooms with their thangkas and the small library.",
+        "Leave a donation in the box, not in a monk's hand. Then climb to the roof for the view down the Spiti river. Remember that 4,166 m is high, so move slowly on the steps. Combine the visit with Kibber and Chicham if you have the morning free."
+      ],
+      "good_for": ["first-timers", "solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What time are prayers at Key Gompa?", "a": "Morning prayers usually begin around 7 am. Times can change for festivals or teachings, so ask your homestay or a monk the day before."},
+        {"q": "Can I take photos at Key Monastery?", "a": "Outside, yes. Inside the prayer halls, usually not during prayers, and never with flash. Ask before photographing monks."},
+        {"q": "Can I stay at Key Monastery?", "a": "Key does not run a general tourist guest house. Stay in Kaza or in a Kibber homestay and visit for the morning."}
+      ]
+    },
+    {
+      "slug": "kibber-chicham-bridge-village-walk",
+      "title": "Kibber lanes and the Chicham bridge",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "3–6 pm, Jun–Sep",
+      "cost": "Free; taxi from Kaza ₹2,000–3,000 per car",
+      "image_query": "Kibber village Spiti",
+      "wiki": "Kibber",
+      "summary": "A slow afternoon in one of the highest villages in the world inhabited all year, then across the Chicham bridge for the view into the gorge. Best after two nights in Kaza.",
+      "body": [
+        "Kibber spreads across a plateau at 4,270 m, with stone houses, a small gompa and fields watered by a stream from the snow above. In summer, peas and barley are green and families work the fields until dusk. The village was the last stop on the trade route north over Parang La, and older villagers still remember caravans of horses and yaks.",
+        "Walk through the lanes without entering courtyards uninvited. Greet people with julley, ask before photographing anyone, and buy tea at a homestay cafe if one is open. Livestock comes home in the late afternoon: give dzo and yaks the path.",
+        "From Kibber, drive a few minutes to the Chicham bridge, which spans a deep gorge to Chicham village. Walk across, look down, and come back. Keep away from the cliff edges, and do not stop cars on the bridge. Back in Kibber, sunset light falls across the Spiti valley below."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "How high is Kibber?", "a": "Kibber is at about 4,270 m, higher than Kaza by more than 600 m. Visit after two nights in Kaza and walk slowly."},
+        {"q": "Can I walk from Key to Kibber?", "a": "Yes, a road and older footpaths link them, about 7 km. It is a good acclimatisation walk once you have spent two nights in Kaza; take water and sun protection."},
+        {"q": "Is there a homestay in Kibber?", "a": "Yes, several family homestays operate in season and a few in winter. Book through your Kaza host or operator."}
+      ]
+    },
+    {
+      "slug": "kibber-snow-leopard-winter-tracking",
+      "title": "Winter snow leopard spotting from Kibber",
+      "kind": "wildlife",
+      "duration": "4–7 days",
+      "best_time": "Jan–Mar, sunrise to noon",
+      "cost": "Spotters ₹2,000–4,000 a day per group; full trips from ₹45,000 per person",
+      "image_query": "Snow leopard Spiti Kibber",
+      "wiki": "Snow leopard",
+      "summary": "In deep winter, local spotters scan the cliffs around Kibber and Chicham for snow leopards following blue sheep. Long cold days, heated homestays and real chances of a sighting, never guaranteed.",
+      "body": [
+        "Snow leopards range across the Kibber Wildlife Sanctuary all year, but in winter they follow their prey, bharal or blue sheep and ibex, down to slopes close to the villages. From January to March, villagers who know the ridges work as spotters, scanning with telescopes from roadside points and calling each other when a cat is seen.",
+        "A typical day starts at sunrise at −20 °C or colder, with hours of patient scanning, often from the roadside, and short walks on icy slopes. Sightings can be far away, sometimes hundreds of metres, which is why spotters carry scopes. Most groups spend five to seven days to give themselves a fair chance.",
+        "This is a serious winter trip. Access is only via Shimla and Kinnaur, homestays heat one room with a stove, and water pipes freeze. Book through a Kaza operator who pays village spotters fairly, keeps a respectful distance from animals and does not use baits. Talk to your doctor about winter altitude before you go."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Are snow leopard sightings guaranteed in Spiti?", "a": "No. Sightings around Kibber are common in a good winter, but they depend on weather and luck. Plan five to seven days to improve your chances."},
+        {"q": "How cold is Kibber in winter?", "a": "Daytime temperatures are often well below zero and nights can drop below −25 °C. You need expedition-grade down, insulated boots and layered gloves."},
+        {"q": "How do I reach Kibber in winter?", "a": "Only via Shimla and Kinnaur, as Kunzum La is closed. The road can shut for days after snow; keep spare days."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Key Monastery from Kaza?", "a": "Key Gompa is about 12 km from Kaza on a paved road, about 30 minutes by taxi. Kibber is 7 km further. A Kaza taxi for Key, Kibber and Chicham costs about ₹2,000–3,000 a car, and a local bus runs to Kibber via Key in season. Check current timings at the bus stand."},
+    {"q": "Is there an entry fee at Key Gompa?", "a": "There is no fixed entry fee for the monastery itself; visitors leave a donation in the box. Some rooms or a small museum may have a modest charge. Carry small notes, and put donations in the box rather than handing them to monks."},
+    {"q": "Can I see a snow leopard in summer at Kibber?", "a": "Summer sightings are rare because snow leopards move high above the villages. Winter, from January to March, is the season, when they follow blue sheep down to lower slopes. In summer you may still see blue sheep and ibex on the slopes around Kibber."},
+    {"q": "Is it safe to sleep at Kibber's altitude?", "a": "Kibber is at about 4,270 m. It is safe for most healthy travellers after two nights in Kaza, but not as a first stop. Watch for headaches, nausea and breathlessness at rest; if they get worse, go down to Kaza. Talk to your doctor before you travel."},
+    {"q": "What is the best time to visit Key Gompa?", "a": "June to September for easy roads, and early morning for prayers and soft light. The Chham masked dance at Key is usually in late June or July, with dates set by the monastery. In winter the road from Kaza is usually kept open."},
+    {"q": "Does mobile network work in Kibber?", "a": "BSNL and Jio usually work in Key and Kibber, but signals can be weak. Do not rely on mobile data for bookings; confirm homestays and taxis while you are in Kaza."},
+    {"q": "What is the Chicham bridge?", "a": "The Chicham bridge spans a deep gorge between Kibber and Chicham village, saving a long detour. It is widely described as one of the highest bridges in Asia. Walk across for the view, keep off the edges, and do not stop vehicles on it."},
+    {"q": "Can seniors visit Key Monastery?", "a": "Yes, many do, but the steps inside are steep and at 4,166 m. Go slowly, after at least one night in Kaza, and skip the upper terraces if breathless. Do not plan to sleep in Kibber with elderly travellers unless they are well acclimatised and cleared by their doctor."},
+    {"q": "What should I wear at Key Gompa?", "a": "Cover shoulders and knees, take off your hat inside, and remove shoes where asked. Bring a warm layer even in summer: the prayer halls are cold and mornings at 4,166 m are near freezing outside July."}
+  ]
+}

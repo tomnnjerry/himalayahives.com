@@ -1,0 +1,145 @@
+{
+  "slug": "marpha",
+  "name": "Marpha and Jomsom",
+  "region": "nepal",
+  "kind": "village",
+  "wiki": "Marpha",
+  "image_query": "Marpha village Mustang whitewashed houses",
+  "lat": 28.7537,
+  "lng": 83.6831,
+  "altitude_m": 2670,
+  "tagline": "Apple orchards, Thakali houses and the windy Kali Gandaki",
+  "meta_description": "Marpha and Jomsom guide: Thakali apple village, Marpha brandy, Muktinath by jeep, Kagbeni, flights and buses from Pokhara, permits, altitude and costs.",
+  "summary": "Marpha is a whitewashed Thakali village at about 2,670 m in the Kali Gandaki valley, a 20-minute drive south of Jomsom. Nepal's apple capital, it makes brandy, cider and dried apples. Use it as a base for Muktinath (≈ 3,760 m) and Kagbeni. Fly to Jomsom from Pokhara in 20 minutes or take a 7–9 hour bus.",
+  "intro": [
+    "Marpha sits in the rain shadow of the Annapurna and Dhaulagiri massifs, where the Kali Gandaki river flows through one of the deepest gorges on earth. Thakali people built it as a compact village of flat-roofed stone houses painted white, packed along a single flagstone lane with drains running under it, and stacked firewood on the roofs as a sign of a household's wealth. Above the village, a Nyingma monastery looks down over the roofs.",
+    "The name, locals say, means hard-working people. When the old salt trade with Tibet faded, Marpha's farmers turned to fruit. A government horticulture farm here helped introduce apple varieties, and today the village calls itself the apple capital of Nepal, selling fresh apples in autumn, and dried apples, jam, juice and apple brandy all year. Chhairo gompa across the river is said to be the first Nyingma monastery in Mustang District.",
+    "Jomsom, the district headquarters and airport town, is about 6 km north and less pleasant to stay in, so we base trips in Marpha. From here a jeep road climbs to Muktinath, a temple sacred to both Hindus and Buddhists, and the medieval village of Kagbeni marks the gate to restricted Upper Mustang. Sleeping altitude is around 2,700 m, so take the first day easy."
+  ],
+  "facts": [
+    ["Best months", "Mar – Nov"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Jomsom Airport, ≈ 6 km"],
+    ["From Pokhara", "≈ 160 km · 7–9 h by bus or jeep; 20 min by air"],
+    ["Altitude", "≈ 2,670 m (Jomsom ≈ 2,720 m)"],
+    ["Known for", "Apples and brandy, Thakali food, Muktinath, Kagbeni, Kali Gandaki wind"]
+  ],
+  "best_months": [0, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Marpha's white lane", "text": "One flagstone street runs through the village between whitewashed stone houses with wooden windows and firewood stacked on the roofs. Walk it in the morning before the afternoon wind rises, and climb to the monastery above."},
+    {"title": "Apples, brandy and dried fruit", "text": "Marpha's orchards ripen from August to October. Shops sell fresh apples, dried apple rings, jam, juice and local apple brandy year round. Apple pie in a lodge kitchen is the trekkers' ritual here."},
+    {"title": "Muktinath by jeep", "text": "Shared jeeps run from Jomsom to Muktinath in about 1.5 hours. The temple, at about 3,760 m, has 108 water spouts and a flame fed by natural gas, and is sacred to Hindus and Buddhists alike."},
+    {"title": "Kagbeni, gate to Upper Mustang", "text": "A mud-brick village of narrow alleys and a red gompa where the Jhong river meets the Kali Gandaki. North of Kagbeni, you need a restricted-area permit. It is about 1.5 hours by jeep from Marpha."},
+    {"title": "Thakali dal bhat", "text": "The Thakali people are famous for their dal bhat sets: black lentils, rice or buckwheat, greens, pickles and ghee. The cooking style has spread across Nepal, but here it is at home."}
+  ],
+  "field_notes": [
+    {"fact": "Marpha's people are Thakali, and the village name is said to mean hard-working people. It is known as Nepal's apple capital and produces Marpha brandy and fruit jams.", "source": "Marpha"},
+    {"fact": "Chhairo gompa, across the Kali Gandaki from Marpha, is described as the first Nyingma monastery established in Mustang District.", "source": "Marpha"},
+    {"fact": "At Muktinath, Hindus revere 108 water spouts called mukti dharas, while Tibetan Buddhists know the site as Chumig Gyatsa, the Hundred Waters. A nearby shrine holds a flame fed by natural gas.", "source": "Muktinath"}
+  ],
+  "local_word": {"word": "Syau", "language": "Nepali", "meaning": "apple"},
+  "costs": [
+    ["Flight, Pokhara–Jomsom one way", "₹8,000–11,000 at foreigner fares"],
+    ["Bus or shared jeep, Pokhara–Jomsom", "₹1,100–1,900 a seat"],
+    ["Shared jeep, Jomsom–Muktinath one way", "₹500–700"],
+    ["Lodge double in Marpha", "₹600–2,500 a night"],
+    ["Thakali dal bhat set", "₹450–750"],
+    ["Bottle of Marpha apple brandy", "₹500–1,000"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Small planes fly Pokhara–Jomsom in about 20 minutes, only in the morning because the Kali Gandaki wind makes afternoon landings unsafe. Flights are often delayed by weather; keep a buffer day."},
+    {"mode": "Bus", "text": "Buses and shared jeeps run from Pokhara via Beni along the Kali Gandaki road to Jomsom in 7–9 hours, longer after rain. The road is rough and landslide-prone in the monsoon. Check current status before you travel."},
+    {"mode": "Road", "text": "A private jeep from Pokhara takes 6–8 hours. Ordinary cars struggle beyond Beni. Marpha is about 20 minutes south of Jomsom by road."}
+  ],
+  "where_to_stay": "Saver: Marpha's lane is lined with family lodges offering simple rooms with shared or attached bathrooms from ₹600 and good Thakali food; Jomsom has more choice but less charm. Comfort: several lodges in Marpha and Jomsom have attached bathrooms, solar hot water and heated dining rooms; book the best available with mountain views. Signature: there is no luxury hotel in Marpha; signature trips use the best lodges here and pair them with Tiger Mountain Pokhara Lodge before and after.",
+  "stays": [],
+  "tips": [
+    "Fly in, not out, if you can: the morning flight up gives you the gorge views and an easy first day.",
+    "Do the Muktinath trip in the morning; the valley wind can be fierce after midday.",
+    "Carry sunglasses, sunscreen and a buff; the valley is dusty and the sun strong at this altitude.",
+    "If coming by road, keep the Beni–Jomsom stretch to daylight hours.",
+    "Spend the first night at Marpha's altitude before going to Muktinath or higher."
+  ],
+  "themes": ["pilgrimages", "food-and-tea", "road-trips", "treks-and-walks", "monasteries"],
+  "nearby": ["lo-manthang", "pokhara", "ghandruk"],
+  "experiences": [
+    {
+      "slug": "marpha-apple-orchards-and-brandy",
+      "title": "Marpha apple orchards and brandy tasting",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Aug–Oct for harvest",
+      "cost": "Free walk; apples ₹60–150 a kg; brandy ₹500–1,000 a bottle",
+      "image_query": "Marpha apple orchard Mustang",
+      "wiki": "Marpha",
+      "summary": "Walk through Marpha's orchards, learn how the Thakali village turned from the salt trade to apples, then taste dried apples, juice and the local brandy in a village shop. Best during the August–October harvest.",
+      "body": [
+        "Marpha's orchards lie on terraces above and below the village, irrigated by channels from the side valleys. Trees are low and stony walls protect them from the wind. In autumn you see families picking, sorting and drying apples on rooftops. The government horticulture farm near the village helped bring in apple varieties and still works with fruit and vegetable research.",
+        "Back in the lane, small shops sell dried apple rings, apricot and apple jam, apple juice and cider, and bottles of Marpha apple brandy. Some sell walnut and buckwheat products too. Ask to taste before buying; most shopkeepers are happy to pour a sip. Drink in moderation at this altitude, especially on your first day.",
+        "Finish with apple pie or apple crumble in a lodge kitchen; Marpha's lodges have made them for trekkers for decades. Carry a bag of dried apples for the trail; they are light and keep for weeks."
+      ],
+      "good_for": ["couples", "families", "students", "first-timers"],
+      "faqs": [
+        {"q": "When is apple season in Marpha?", "a": "Harvest runs from about August to October. Dried apples, jam and brandy are sold all year."},
+        {"q": "Can I carry Marpha brandy back to India?", "a": "Indian customs allows a limited quantity of alcohol in your baggage. Check the current duty-free allowance, and pack bottles well."},
+        {"q": "Is drinking alcohol at altitude safe?", "a": "Alcohol can worsen dehydration and mask altitude symptoms. Avoid it on your first night above 2,500 m and on days you go higher."}
+      ]
+    },
+    {
+      "slug": "marpha-muktinath-jeep-pilgrimage",
+      "title": "Muktinath: 108 spouts and an eternal flame",
+      "kind": "spiritual",
+      "duration": "Full day from Marpha",
+      "best_time": "7 am–1 pm, Mar–Nov",
+      "cost": "Shared jeep ₹500–700 each way from Jomsom; private jeep ₹6,000–9,000 return",
+      "image_query": "Muktinath temple water spouts",
+      "wiki": "Muktinath",
+      "summary": "Drive up from Jomsom to Muktinath, at about 3,760 m, where Hindus bathe under 108 water spouts and Buddhists honour Chumig Gyatsa, the Hundred Waters. One of the most important pilgrimages in Nepal for Indian travellers.",
+      "body": [
+        "Start early. Shared jeeps leave Jomsom for Muktinath in the morning and take about 1.5 hours along a road that climbs above Kagbeni with views of Dhaulagiri and Nilgiri. The road ends at Ranipauwa village, from where it is a 15–20 minute climb up steps to the temple compound; ponies and porters are available for those who need them.",
+        "The main pagoda temple is dedicated to Vishnu as Muktinath, and Sri Vaishnavas count it among the 108 Divya Desams. Behind it are 108 water spouts shaped like cow heads, where pilgrims bathe or sprinkle themselves with the icy water, and two small ponds. Nearby, the Jwala Mai shrine holds a small flame fed by natural gas burning beside a spring. Tibetan Buddhists know the place as Chumig Gyatsa and revere it as a seat of Avalokiteshvara.",
+        "Muktinath is at about 3,760 m. Walk slowly, drink water, and do not go up the same day you fly into Jomsom if you can avoid it. The Kali Gandaki valley also yields shaligram stones, black ammonite fossils that Hindus worship as forms of Vishnu; buy only from licensed shops, and never take them from the riverbed in protected areas."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How do I reach Muktinath from Jomsom?", "a": "Shared jeeps run in about 1.5 hours to Ranipauwa, then a 15–20 minute uphill walk to the temple. Private jeeps cost more and give you flexibility."},
+        {"q": "Is Muktinath safe for elderly pilgrims?", "a": "Many seniors visit, but the altitude of about 3,760 m is serious. Spend a night at Jomsom or Marpha first, walk slowly, and talk to your doctor before travelling."},
+        {"q": "Do Indians need a permit for Muktinath?", "a": "Muktinath lies in the Annapurna Conservation Area, so an ACAP permit is needed: NPR 1,000 for SAARC nationals. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "marpha-kagbeni-village-walk",
+      "title": "Kagbeni, the old gate to Mustang",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "8 am–12 pm, Mar–Nov",
+      "cost": "Jeep ₹400–600 each way from Jomsom; gompa donation",
+      "image_query": "Kagbeni village Kali Gandaki",
+      "wiki": "Kagbeni",
+      "summary": "Visit Kagbeni, a mud-brick village of tunnels and alleys at the meeting of the Kali Gandaki and Jhong rivers, with a red gompa and a checkpost marking the start of restricted Upper Mustang.",
+      "body": [
+        "Kagbeni lies about 10 km north of Jomsom, where the Jhong Khola comes down from Muktinath to meet the Kali Gandaki. Its houses are built close together of mud-brick and stone, with passageways running under them that shelter people from the wind. Barley and buckwheat fields surround the village, and apple orchards have spread here too.",
+        "The red Kag Chode monastery, a Sakya gompa, stands at the edge of the village above the river. Ask the caretaker to let you in; leave a small donation. Look for the clay guardian figures at the village entrances, said to protect Kagbeni from harm, and the prayer wheels along the lanes.",
+        "North of Kagbeni the valley narrows into Upper Mustang, and a checkpost stops anyone without a restricted-area permit. Walk to the edge of the village for a look up the valley towards Lo. Return to Jomsom or Marpha before the afternoon wind."
+      ],
+      "good_for": ["photographers", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "Can I go beyond Kagbeni without a permit?", "a": "No. North of Kagbeni is Upper Mustang, which requires a restricted-area permit and a licensed guide arranged by a registered agency. Check current status before you travel."},
+        {"q": "How do I get to Kagbeni?", "a": "By shared or private jeep from Jomsom in about 40 minutes, or on foot in about 3 hours along the riverbed and road."},
+        {"q": "What altitude is Kagbeni?", "a": "About 2,800 m, slightly higher than Jomsom and Marpha."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Jomsom and Marpha from Pokhara?", "a": "Fly in about 20 minutes on a morning flight, or take a bus or shared jeep via Beni along the Kali Gandaki road in 7–9 hours. Flights are often delayed by wind and cloud; the road can be blocked by landslides in the monsoon. Keep a spare day either way."},
+    {"q": "Is Marpha better than Jomsom for staying?", "a": "We prefer Marpha. It is a traditional whitewashed Thakali village with good lodges and food, and is only 20 minutes from Jomsom's airport and jeep stand. Jomsom is more convenient for early flights."},
+    {"q": "Can I visit Muktinath in one day from Pokhara?", "a": "Only by helicopter or a very tight flight-and-jeep combination, which is risky because of altitude and weather. Plan at least two nights in Jomsom or Marpha."},
+    {"q": "What altitude is Muktinath and will I get altitude sickness?", "a": "About 3,760 m. Many visitors feel headaches or breathlessness. Spend a night at Marpha or Jomsom first, walk slowly, drink water, and descend if symptoms worsen. Talk to your doctor about altitude medicine."},
+    {"q": "Do I need a permit for Jomsom and Marpha?", "a": "Yes, the ACAP permit. In 2026 it costs NPR 1,000 for SAARC nationals and NPR 3,000 for others. Upper Mustang beyond Kagbeni needs an additional restricted-area permit. Check current status before you travel."},
+    {"q": "Why is the Kali Gandaki valley so windy?", "a": "Strong winds blow up the valley from late morning as air heats up, funnelled through the gorge between Dhaulagiri and the Annapurnas. Flights land only in the morning, and walking north in the afternoon is hard work."},
+    {"q": "When is the best time to visit Marpha?", "a": "March to May and September to November are pleasant. As it sits in the rain shadow, it also stays fairly dry in the monsoon, though the road from Pokhara is often disrupted. Winters are cold and some lodges close."},
+    {"q": "Are there ATMs in Jomsom?", "a": "Jomsom has a few bank ATMs, but they can run out of cash. Carry enough NPR or INR ₹100 notes from Pokhara."},
+    {"q": "Is the Jomsom flight safe?", "a": "Mountain flights in Nepal operate in difficult terrain and weather, and there have been accidents on this route. Fly early, with an established airline, and accept delays when weather is poor."}
+  ]
+}

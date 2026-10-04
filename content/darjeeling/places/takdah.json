@@ -1,0 +1,145 @@
+{
+  "slug": "takdah",
+  "name": "Takdah and Tinchuley",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "Takdah",
+  "image_query": "Takdah cantonment heritage bungalow Darjeeling",
+  "lat": 27.035,
+  "lng": 88.365,
+  "altitude_m": 1500,
+  "tagline": "An old British cantonment in mist and cedar forest",
+  "meta_description": "Takdah and Tinchuley guide: colonial cantonment bungalows, orchid centre, Tinchuley sunrise and tea-garden walks 30 km from Darjeeling, 2026 costs.",
+  "summary": "Takdah is a former British cantonment at about 1,500 m, 30 km east of Darjeeling, with old bungalows, cedar forest and an orchid centre. Tinchuley, a homestay village about 3 km away, looks out over the Teesta valley. Stay 2 nights for heritage walks, sunrise and tea gardens; October–May is best.",
+  "intro": [
+    "Takdah sits on a forested spur east of Darjeeling, above the tea gardens that run down to the Teesta. Its name is said in local folklore to mean always covered, for the mist that settles here most afternoons. The British built a cantonment on the spur, and their bungalows, a club house and the straight lines of planted cedar and pine still shape the place.",
+    "After independence the cantonment was abandoned and the forest closed in. In recent decades families have settled again and several old bungalows have been turned into heritage homestays, with fireplaces, verandas and long gardens. Takdah is also the headquarters of the Rangli Rangliot block, so it has a market, schools and a small hospital, and a weekly market brings villagers in from around the hills.",
+    "Tinchuley, a short drive or walk away, is a small village known for homestays and sunrise views across the Teesta and Rangeet valleys. Between them are tea gardens such as Rungli, Giele and Teesta Valley, and a government orchid centre. Two nights here is the antidote to a crowded Darjeeling weekend."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 90 km · 3.5–4 h"],
+    ["From Darjeeling", "≈ 30 km · 1.5 h"],
+    ["Altitude", "≈ 1,500 m"],
+    ["Known for", "Cantonment bungalows, orchid centre, Tinchuley sunrise, tea gardens"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Heritage bungalow stays", "text": "Several British-era bungalows in Takdah now take guests as heritage homestays, with fireplaces, wooden floors and long verandas facing the forest. Rooms vary widely; ask for photos and confirm hot water and heating before booking."},
+    {"title": "Takdah Orchid Centre", "text": "The government orchid centre at Takdah grows rare Himalayan orchids in greenhouses. Spring, roughly February to April, is when most are in flower. A forest trail from Tinchuley leads to it through pine and cryptomeria."},
+    {"title": "Tinchuley sunrise", "text": "Tinchuley's viewpoints look east over the Teesta and Rangeet valleys and north to the snow peaks on clear mornings. Walk up before dawn from your homestay with a torch; the light on the valleys is the reward even when peaks hide."},
+    {"title": "The old club house", "text": "About a kilometre from the market, the abandoned club house of the cantonment stands among cedar trees. It is a reminder of the British officers who once spent summers here. View it from outside and respect any private property."},
+    {"title": "Tea gardens to the Teesta", "text": "Rungli, Giele and Teesta Valley tea gardens spread down the slopes below Takdah. Walk the estate roads with a local guide to see pluckers in season and views down to the river confluence country."}
+  ],
+  "field_notes": [
+    {"fact": "Takdah was a British cantonment before independence and a summer destination for senior officers. After 1947 it was largely abandoned; old structures, including a club house about a kilometre from the town, still stand.", "source": "Takdah"},
+    {"fact": "Takdah is the headquarters of the Rangli Rangliot community development block. Takdah Rural Hospital, with 30 beds, is the block's main government medical facility.", "source": "Takdah"},
+    {"fact": "Glenburn Tea Estate, also in the Rangli Rangliot block, was established in 1859 by a Scottish tea company. Locals call it Kimble, after an early manager, and it includes about 350 ha of reserve forest.", "source": "Glenburn Tea Estate"}
+  ],
+  "local_word": {"word": "Takdah", "language": "Local folklore", "meaning": "always covered, for the mist that settles over the spur"},
+  "costs": [
+    ["Shared jeep seat, Darjeeling to Takdah", "₹100–150"],
+    ["Reserved car, Darjeeling to Takdah", "₹2,000–2,800"],
+    ["Heritage bungalow homestay with meals", "₹2,500–4,500 per person"],
+    ["Village homestay at Tinchuley with meals", "₹1,500–2,500 per person"],
+    ["Orchid centre entry", "Free or small fee"],
+    ["Local guide for tea garden walk", "₹800–1,200 half day"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bagdogra Airport is about 90 km away, 3.5–4 hours by road via Darjeeling or via the Teesta valley and Peshok. A reserved car costs about ₹4,000–5,000."},
+    {"mode": "Rail", "text": "NJP is the nearest major station, about 3.5 hours by road. Homestays arrange pickups."},
+    {"mode": "Road", "text": "Buses and shared jeeps run between Darjeeling and Takdah through the day, about 30 km and 1.5 hours, for ₹100–150 a seat. Roads beyond the main route are narrow and sometimes rough; check current status in the monsoon."}
+  ],
+  "where_to_stay": "Saver: village homestays in Tinchuley and around Takdah charge about ₹1,500–2,500 per person with dinner and breakfast, in simple rooms. Comfort: heritage bungalow homestays in the old cantonment offer fireplaces and large rooms at about ₹2,500–4,500 per person with meals. Signature: Glenburn Tea Estate's planter's bungalows lie in the same block, reached via the Darjeeling side, and make a natural luxury pairing with a Takdah village night.",
+  "stays": [],
+  "tips": [
+    "Ask heritage homestays for recent photos and confirm heating; old bungalows are atmospheric but can be cold.",
+    "Visit the orchid centre between February and April for the most flowers.",
+    "Bring a torch; village lanes and forest trails have little lighting.",
+    "Carry cash; ATMs are limited and village homestays often prefer cash.",
+    "Expect afternoon mist most of the year; plan walks and views for the morning."
+  ],
+  "themes": ["homestays-and-villages", "food-and-tea", "photography", "honeymoons"],
+  "nearby": ["darjeeling", "sittong", "kalimpong"],
+  "experiences": [
+    {
+      "slug": "takdah-orchid-centre-visit",
+      "title": "Takdah Orchid Centre and forest trail",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Feb–Apr for flowers, morning",
+      "cost": "Free or small fee",
+      "image_query": "Himalayan orchid greenhouse Takdah",
+      "wiki": "",
+      "summary": "Walk a forest trail of pine and cryptomeria from Tinchuley to the government orchid centre at Takdah, where rare Himalayan orchids are grown under shade, then return through the old cantonment lanes.",
+      "body": [
+        "The orchid centre at Takdah cultivates a range of Himalayan orchids, including species that are rare in the wild. It is one of the main reasons visitors stop here. Greenhouses and shade houses hold plants on benches and mounted on bark, and staff can sometimes tell you which species is which.",
+        "The best time to visit is February to April, when most orchids flower. At other times you see leaves and pseudobulbs rather than blooms, though a few species flower in autumn. From Tinchuley, a trail through pine and cryptomeria forest leads to the centre in about 45 minutes; your homestay can point you to the start.",
+        "Never touch or remove plants, and remember that collecting wild orchids in India is illegal. Opening hours vary; go in the morning and ask locally first. Combine the visit with a walk past the old cantonment buildings on the way back."
+      ],
+      "good_for": ["photographers", "seniors", "couples", "families"],
+      "faqs": [
+        {"q": "When is the Takdah Orchid Centre open?", "a": "It usually opens in the daytime, with flowering at its best from February to April. Hours and access change, and it may close on holidays. Ask your homestay and check current status before you travel."},
+        {"q": "Can I buy orchids at Takdah?", "a": "Sales depend on the centre's rules at the time and are not guaranteed. Never buy orchids collected from the wild, which is illegal. Kalimpong's nurseries are a better place to buy legally propagated plants."},
+        {"q": "How long is the trail from Tinchuley to the orchid centre?", "a": "About 45 minutes each way on a forest trail through pine and cryptomeria. It is mostly gentle with some uneven sections. Wear shoes with grip, especially after rain."}
+      ]
+    },
+    {
+      "slug": "takdah-tinchuley-sunrise-walk",
+      "title": "Sunrise walk above Tinchuley",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Before dawn, Oct–Apr",
+      "cost": "Free; host-guide ₹300–500",
+      "image_query": "Tinchuley sunrise Teesta valley",
+      "wiki": "",
+      "summary": "Walk with a torch before dawn from your Tinchuley homestay to a viewpoint above the village, watch the sun rise over the Teesta and Rangeet valleys and the snow peaks to the north, and return through the waking village for breakfast.",
+      "body": [
+        "Tinchuley is a small village of farming families and homestays a few kilometres from Takdah. Its high points face east and north. Leave about 40 minutes before sunrise; your host will show you the path, which climbs through fields and patches of forest to a clearing or rock outcrop.",
+        "On clear mornings the sun rises over the Teesta valley, lighting the river mist far below, while the snow peaks to the north catch the first pink light. Even on hazy days the layers of ridges are beautiful. You may share the viewpoint with a few other guests but rarely a crowd.",
+        "Walk back slowly through the village as households start the day: fires lit, cows milked, children heading to school. Ask before photographing people. Breakfast at your homestay is usually puri, eggs or roti with vegetables and tea."
+      ],
+      "good_for": ["couples", "photographers", "families", "students"],
+      "faqs": [
+        {"q": "How far is the Tinchuley viewpoint from the village?", "a": "Most viewpoints are a 20–30 minute walk from homestays, on paths through fields and forest. Your host will guide you or point the way. Carry a torch and warm layers."},
+        {"q": "Can I see Kangchenjunga from Tinchuley?", "a": "On clear mornings, mostly October to March, snow peaks are visible to the north, though the view is narrower than from Darjeeling or Rishyap. The main reward is sunrise over the Teesta and Rangeet valleys."},
+        {"q": "How far is Tinchuley from Takdah?", "a": "About 3 km, 10–15 minutes by car or 45 minutes on foot through forest. Many visitors stay in one and walk to the other. Darjeeling is about 32 km away."}
+      ]
+    },
+    {
+      "slug": "takdah-cantonment-heritage-walk",
+      "title": "Takdah cantonment heritage walk",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–May",
+      "cost": "Free; local guide ₹800–1,200",
+      "image_query": "Takdah British cantonment bungalow",
+      "wiki": "Takdah",
+      "summary": "Walk the lanes of the old British cantonment at Takdah, past colonial-era bungalows, the abandoned club house among cedars and the weekly market at the junction, with a local guide to tell the story of the spur.",
+      "body": [
+        "Takdah was a British cantonment before 1947, a summer posting for senior officers from across India. The British laid out roads along the spur, planted cedar and pine, and built bungalows, barracks and a club. After independence the cantonment was abandoned, and for years the forest crept over it. Families have resettled the area more recently.",
+        "A heritage walk takes in the bungalows, several now restored as homestays, and the old club house about a kilometre from the town, standing empty among tall cedars. Look at the stone foundations, chimneys and drains; much of the engineering still works. Respect private property and do not enter buildings without permission.",
+        "End at the main junction, where a weekly market draws people from surrounding villages to buy and sell vegetables, clothes and household goods. Market day is usually Thursday; check locally. A guide from the village brings the stories to life and supports the local economy."
+      ],
+      "good_for": ["students", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Can I go inside the old club house at Takdah?", "a": "The club house is old and not maintained as a museum. View it from outside and do not enter if it is closed or unsafe. Some land around it may be private; ask locally."},
+        {"q": "Which day is the Takdah market?", "a": "The weekly market has traditionally been held on Thursdays, drawing villagers from around the area. Days can change; ask your homestay and check current status before you travel."},
+        {"q": "Do I need a guide for the heritage walk?", "a": "Not essential, but a local guide explains buildings and history you would otherwise miss and knows which properties welcome visitors. Half-day guides cost about ₹800–1,200."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Takdah from Darjeeling?", "a": "Takdah is about 30 km from Darjeeling, roughly 1.5 hours by road. Buses and shared jeeps run through the day for about ₹100–150, or hire a car for about ₹2,000–2,800. Tinchuley is a further 3 km or so."},
+    {"q": "Is Takdah worth visiting?", "a": "Yes, for travellers who want quiet, heritage and forest rather than sights. The old cantonment bungalows, orchid centre, tea gardens and Tinchuley sunrise make a good two-night break from Darjeeling's crowds."},
+    {"q": "What is the difference between Takdah and Tinchuley?", "a": "Takdah is the old cantonment and block headquarters, with heritage bungalows, the orchid centre and a market. Tinchuley is a smaller farming village nearby with homestays and sunrise viewpoints. Stay in one and walk to the other."},
+    {"q": "How much does a heritage homestay in Takdah cost?", "a": "Restored bungalow homestays cost about ₹2,500–4,500 per person per night with meals; village homestays in Tinchuley about ₹1,500–2,500. Prices are indicative 2026. Confirm heating, hot water and photos before booking."},
+    {"q": "What is the best time to visit Takdah?", "a": "October to May. October to December is clearest, February to April brings orchids and rhododendrons, and winter nights are cold. Mist is common most afternoons, and the monsoon months are wet and foggy."},
+    {"q": "Is there mobile network in Takdah?", "a": "Network works in Takdah market on major operators but weakens in Tinchuley and the forest. Some homestays have Wi-Fi. Carry cash; ATMs are limited."},
+    {"q": "Is Takdah good for families?", "a": "Yes. Children enjoy forest walks, the orchid centre and big bungalow gardens. Roads are quiet. Medical help is limited to Takdah Rural Hospital; carry basic medicines and know that Darjeeling is 1.5 hours away."},
+    {"q": "Can I visit Glenburn Tea Estate from Takdah?", "a": "Glenburn is in the same block but reached by a separate estate road, and it is a private luxury stay rather than a drop-in tea garden. Visits are normally for staying guests; book a stay if you want to see it."},
+    {"q": "Can I combine Takdah with Kalimpong?", "a": "Yes. Takdah lies between Darjeeling and the Teesta valley. Drive down via Peshok to Teesta Bazaar and up to Kalimpong in about 2.5–3 hours. This makes a good loop: Darjeeling, Takdah, Kalimpong."}
+  ]
+}

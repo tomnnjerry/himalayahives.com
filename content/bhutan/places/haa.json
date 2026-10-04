@@ -1,0 +1,145 @@
+{
+  "slug": "haa",
+  "name": "Haa",
+  "region": "bhutan",
+  "kind": "valley",
+  "wiki": "Haa District",
+  "image_query": "Haa valley Bhutan Lhakhang Karpo",
+  "lat": 27.37,
+  "lng": 89.28,
+  "altitude_m": 2700,
+  "tagline": "Over Chele La to a quiet valley of white and black temples",
+  "meta_description": "Haa valley guide: Chele La at 3,988 m, Lhakhang Karpo and Nagpo, farm homestays, hoentoe dumplings, the Haa festivals and honest costs from Paro.",
+  "summary": "Haa is a narrow north–south valley in western Bhutan at about 2,700 m, reached from Paro over Chele La at 3,988 m, the highest motorable point in the country. It is one of the least populated districts, with farm homestays, the White and Black temples and few tourists. Spend one or two nights.",
+  "intro": [
+    "Haa lies just west of Paro, sharing a border with Tibet to the north and close to Sikkim. The name, pronounced 'hah', and the older form Has are said to carry a sense of hiddenness. The Haa Chhu, rising near Jomolhari, runs down the steep valley past rice and buckwheat fields, yak pastures higher up and villages of whitewashed farmhouses. With about 13,700 people in the 2017 census, it is Bhutan's second least-populated district after Gasa.",
+    "Most visitors arrive over Chele La from Paro, a narrow road built in the 1990s that climbs through blue pine and rhododendron to prayer flags at 3,988 m. On clear mornings, mostly October to March, you can see Jomolhari and Jichu Drake to the north. The descent into Haa takes about an hour. Haa town has a small bazaar, a dzong and the Indian Military Training Team base, IMTRAT, which trains Bhutan's army.",
+    "Haa's sacred core is Miri Punsum, the 'three brother hills' named Jampelyang, Chana Dorji and Chenrezig, above two old temples, Lhakhang Karpo (white) and Lhakhang Nagpo (black), which local historians date to the 7th century. Haa is also known for hoentoe, buckwheat dumplings filled with turnip greens and cheese, and for the Haa Summer Festival, a showcase of nomad life and food. A night in a farmhouse is the best way to see the valley."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Paro International Airport, ≈ 65 km"],
+    ["From Paro", "≈ 65 km · 2.5–3 h via Chele La"],
+    ["Altitude", "≈ 2,700 m (Chele La 3,988 m)"],
+    ["Known for", "Chele La, White and Black temples, homestays, hoentoe"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 1, 2, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Chele La", "text": "At 3,988 m, Chele La is the highest motorable point in Bhutan, 35 km from Paro and 26 km from Haa. Prayer flags cover the ridge. Short walks along it give views of Jomolhari on clear mornings. Snow and ice can close it in winter."},
+    {"title": "Lhakhang Karpo and Nagpo", "text": "The White and Black temples, below the three brother hills of Miri Punsum, are believed by local historians to have been built in the same era as Kyichu Lhakhang in Paro. The Haa Tshechu is held at Lhakhang Karpo in October."},
+    {"title": "Farmhouse homestays", "text": "Families in villages around Haa host guests in traditional farmhouses with wood stoves, hot stone baths and home cooking. It is one of the few places in western Bhutan where a homestay feels routine rather than staged."},
+    {"title": "Haa Summer Festival", "text": "Held in summer in some years, the festival shows the life of Haa's herders: yak products, local food such as hoentoe, songs, dances and sports. Dates change; check with your operator."},
+    {"title": "Hike to Katsho or Juneydrak", "text": "Short walks lead to small village temples and to Juneydrak hermitage on a cliff above the valley, about 1.5–2 hours round trip. They are quiet, with views across the valley."}
+  ],
+  "field_notes": [
+    {"fact": "Chele La, at 3,988 m on the road between Paro and Haa, is the highest motorable point in Bhutan; the asphalt road was built in the 1990s and is narrow and steep.", "source": "Chelela Pass"},
+    {"fact": "An area just below Chele La was used as the location for Agay's Hut in Khyentse Norbu's film Travellers and Magicians; the crew rebuilt an abandoned Bhutan Logging Corporation camp as their base.", "source": "Chelela Pass"},
+    {"fact": "Haa town hosts the Indian Military Training Team (IMTRAT), which trains the Royal Bhutan Army and Royal Bodyguard and is the oldest training team India has sent abroad.", "source": "Ha, Bhutan"}
+  ],
+  "local_word": {"word": "Hoentoe", "language": "Dzongkha", "meaning": "buckwheat dumplings stuffed with turnip greens and cheese, a Haa speciality"},
+  "costs": [
+    ["Farmhouse homestay with dinner and breakfast", "₹2,000–3,500 per person"],
+    ["Hot stone bath", "₹800–1,500"],
+    ["Plate of hoentoe", "₹200–400"],
+    ["Paro–Haa day trip, car share for four", "₹1,500–2,500 per person"],
+    ["Licensed guide, per day", "₹2,500–3,500"],
+    ["Temple donation", "₹50–200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Paro, then drive about 65 km and 2.5–3 hours over Chele La. In winter your operator may route via Chhuzom instead if the pass is icy."},
+    {"mode": "Bus", "text": "Haa has limited public bus links to Thimphu and Paro. Tourists need their licensed guide with them, so almost everyone travels in the operator's vehicle."},
+    {"mode": "Road", "text": "Paro to Haa over Chele La is about 65 km and 2.5–3 hours. Haa to Thimphu via the valley road to Chhuzom is about 115 km and 3.5–4 hours."}
+  ],
+  "where_to_stay": "Haa is best for saver travellers who want a farm night: registered homestays in villages around the valley cost about ₹2,000–3,500 per person with meals, usually with shared or simple attached bathrooms and a wood stove. Comfort travellers have a few small hotels and farm lodges near Haa town. There is no luxury lodge in Haa itself; signature trips visit as a day trip from COMO Uma Paro or Amankora Paro.",
+  "stays": ["haa-farmhouse-homestays"],
+  "tips": [
+    "Leave Paro by 7 am for the best chance of clear peaks from Chele La.",
+    "Carry a warm jacket even in summer; the pass is often windy and below 10 °C.",
+    "Haa must be listed on your permit; your operator arranges it.",
+    "Try hoentoe at a farmhouse rather than in a hotel.",
+    "Expect patchy network outside Haa town and on the pass."
+  ],
+  "themes": ["homestays-and-villages", "road-trips", "monasteries", "photography"],
+  "nearby": ["paro", "thimphu"],
+  "experiences": [
+    {
+      "slug": "haa-chele-la-ridge-walk",
+      "title": "Chele La ridge walk at sunrise",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "7–10 am, Oct – Apr",
+      "cost": "Free; car share ₹1,500–2,500 per person",
+      "image_query": "Chele La pass prayer flags Bhutan",
+      "wiki": "Chelela Pass",
+      "summary": "Stop at Bhutan's highest road pass, 3,988 m, and walk along the prayer-flag ridge for views of Jomolhari and the Paro and Haa valleys. Go slowly: this is the highest point on most Bhutan trips.",
+      "body": [
+        "The road from Paro climbs about 35 km and 1,700 m to Chele La through blue pine, then hemlock and rhododendron. At the top, thousands of prayer flags and tall white manidar flags line the ridge. On a clear morning Jomolhari (7,326 m) and Jichu Drake stand to the north. Most of the views are gone by late morning when cloud builds, so leave early.",
+        "From the pass, a trail follows the ridge south-east for 1–2 km, climbing gently to viewpoints over both valleys. In April and May rhododendrons and primulas flower along it; in winter there may be snow. Some walkers continue to Kila Gonpa, a nunnery on the cliffs above Paro, a longer descent that needs a vehicle pickup.",
+        "Chele La is nearly 4,000 m. If you flew into Paro the day before, keep the walk short and slow, drink water and descend if you get a headache or feel dizzy. Talk to your doctor before the trip if you have heart or lung conditions. Wear a windproof jacket, hat and gloves."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "How high is Chele La?", "a": "3,988 m, the highest motorable point in Bhutan. It sits 35 km from Paro and 26 km from Haa. Some people feel the altitude at the top, so move slowly and keep the walk short on your first days in the country."},
+        {"q": "Is Chele La open in winter?", "a": "Usually, but snow and ice can close it for hours or days between December and March. Your operator may go round via Chhuzom instead. Check current status before you travel."},
+        {"q": "Can I see Jomolhari from Chele La?", "a": "On clear mornings, mostly October to April, yes. Cloud often builds after 10 am, and summer monsoon months rarely give views. Leaving Paro by 7 am gives the best chance."}
+      ]
+    },
+    {
+      "slug": "haa-white-and-black-temples",
+      "title": "Lhakhang Karpo, Nagpo and the three brother hills",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "9 am – 4 pm, all year",
+      "cost": "Donation ₹50–200",
+      "image_query": "Lhakhang Karpo White Temple Haa",
+      "wiki": "Ha, Bhutan",
+      "summary": "Visit the White and Black temples at the foot of Miri Punsum, the three brother hills that guard Haa, and hear how a local deity, a sacred oak and a feud shaped the valley's rituals.",
+      "body": [
+        "Local historians hold that Lhakhang Karpo, the White Temple, and Lhakhang Nagpo, the Black Temple, were built in the 7th century, in the same era as Kyichu Lhakhang in Paro. They stand near each other at Miri Punsum, below three hills named for the bodhisattvas Jampelyang, Chana Dorji and Chenrezig, collectively called the three brothers.",
+        "Near the Black Temple, a sacred oak marks where a local deity once appeared as a winged creature. The story told in Haa is of two houses that made offerings to it; the deity favoured the upper house, a feud followed, and every 11th lunar month special rites are still held in the upper house for a week. Valley deities from before Buddhism remain important here.",
+        "Lhakhang Karpo is now a monastic school and hosts the Haa Tshechu in October; the 2026 tentative calendar listed 19–21 October. Walk clockwise round both temples, ask before photographing and leave a small donation. A chorten nearby marks a rock said to carry an imprint of Guru Rinpoche's body and hat."
+      ],
+      "good_for": ["seniors", "families", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How old are Haa's White and Black temples?", "a": "Local historians date them to the 7th century, the same era as Kyichu Lhakhang in Paro, though both have been rebuilt over time. Lhakhang Karpo is now a monastic school and the venue of the Haa Tshechu."},
+        {"q": "When is the Haa Tshechu?", "a": "In autumn, usually October. The 2026 tentative calendar listed 19–21 October at Lhakhang Karpo. Haa's festival is small and local, with few foreign visitors. Check current status before you travel."},
+        {"q": "Can I go inside the temples?", "a": "Usually yes, with your guide, when a caretaker is present. Remove shoes and hats, do not photograph inside and walk clockwise. Some inner shrines are closed to visitors."}
+      ]
+    },
+    {
+      "slug": "haa-farmhouse-hoentoe-evening",
+      "title": "Make hoentoe in a Haa farmhouse",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "5–8 pm, all year",
+      "cost": "₹500–1,500 per person",
+      "image_query": "Bhutanese farmhouse kitchen Haa",
+      "wiki": "Bhutanese cuisine",
+      "summary": "Spend an evening in a Haa farmhouse kitchen learning to fold hoentoe, buckwheat dumplings stuffed with turnip leaves, cheese and chilli, then eat them with ezay, red rice and butter tea by the wood stove.",
+      "body": [
+        "Haa sits high enough that buckwheat does better than rice in many fields, and hoentoe is the valley's signature dish. The dough is buckwheat flour and water, rolled into thin rounds. The filling is dried turnip greens, datshi or soft cheese, spring onion, chilli and a little butter. The dumplings are steamed or fried and are made in quantity for Losar and festivals.",
+        "Your host will show you how to pleat each round into a half-moon. Expect your first few to burst. While they steam, the family may make ezay, a fresh chilli and tomato relish, and suja, salted butter tea. Dinner often includes red rice, a datshi stew and greens from the kitchen garden.",
+        "Farmhouses in Haa are two or three storeys of rammed earth and timber, with a prayer room at the top. Leave shoes at the door and accept tea with both hands. You can stay the night if your operator has booked the house as your homestay. Bring a small gift, such as fruit, tea or sweets, for the family."
+      ],
+      "good_for": ["families", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "What is hoentoe?", "a": "Hoentoe are buckwheat dumplings from Haa, filled with dried turnip greens, cheese, chilli and spring onion, then steamed or fried. They are a festival and Losar food, and the dish Haa is best known for."},
+        {"q": "Is the food in Haa very spicy?", "a": "Many dishes use chilli, but you can ask for less. Hoentoe filling is usually mild; ezay relish is hot. Tell your host early if you need a mild or vegetarian meal."},
+        {"q": "Is butter tea safe for vegetarians?", "a": "Yes. Suja is tea, butter, salt and sometimes milk. It contains no meat. It is salty rather than sweet; sip slowly and leave some in the cup if you do not want a refill."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Haa worth visiting?", "a": "Yes, for a quieter side of western Bhutan. You get Bhutan's highest road pass, two old temples, farm homestays and very few tourists, all within 2.5–3 hours of Paro. One night is enough; two let you hike and slow down."},
+    {"q": "Can I visit Haa as a day trip from Paro?", "a": "Yes. Leave by 7 am, spend an hour on Chele La, visit the White and Black temples and have lunch in Haa town, then return by evening. It is a full 8–9 hour day with about 130 km of mountain driving."},
+    {"q": "Do Indians need a special permit for Haa?", "a": "As we understand it, Haa must be listed on your entry permit as a district beyond Paro and Thimphu, and you must travel with a licensed guide. Your operator arranges both. Check current status before you travel."},
+    {"q": "What is the altitude in Haa?", "a": "Haa town is about 2,700 m and Chele La is 3,988 m. Most people manage fine after a couple of nights in Paro or Thimphu. Drink water, go slowly on the pass and talk to your doctor if you have heart or lung conditions."},
+    {"q": "When is the best time to visit Haa?", "a": "April to June for flowers on Chele La and green fields, and September to November for clear views and the Haa Tshechu. Winter is cold with possible snow on the pass. July and August bring rain and cloud."},
+    {"q": "Is there mobile network in Haa?", "a": "Haa town has B-Mobile and TashiCell coverage, but signal is weak on parts of Chele La and in outer villages. Homestays rarely have reliable Wi-Fi."},
+    {"q": "Is Haa good for families?", "a": "Yes, with care on the pass. Children enjoy farmhouses, animals and short walks. Watch for altitude symptoms on Chele La, pack warm layers and travel-sickness tablets for the winding road."},
+    {"q": "Can I drive from Haa to Thimphu?", "a": "Yes. The road follows the Haa Chhu south to meet the Paro–Phuentsholing highway near Chhuzom, about 115 km and 3.5–4 hours to Thimphu. It avoids recrossing Chele La."},
+    {"q": "What does a budget night in Haa cost?", "a": "A registered farmhouse homestay costs about ₹2,000–3,500 per person with dinner and breakfast, plus the ₹1,200 SDF for Indians and your share of guide and vehicle. A hot stone bath is extra."}
+  ]
+}

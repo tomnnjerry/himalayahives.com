@@ -1,0 +1,145 @@
+{
+  "slug": "pangong-tso",
+  "name": "Pangong Tso",
+  "region": "ladakh",
+  "kind": "lake",
+  "wiki": "Pangong Tso",
+  "image_query": "Pangong Tso lake Ladakh",
+  "lat": 33.925,
+  "lng": 78.61,
+  "altitude_m": 4250,
+  "tagline": "A 134 km brackish lake at about 4,250 m, best at first light",
+  "meta_description": "Pangong Tso guide: Chang La drive, Spangmik and Merak homestays, camps, real costs, permits, acclimatisation and the best time to see the lake.",
+  "summary": "Pangong Tso is a 134 km brackish lake at about 4,250 m, roughly 160 km and 5–6 hours from Leh over Chang La. About a third lies in India. Sleep one night at Spangmik or Merak only after three nights in Ladakh, and see it at sunrise. Indians need the online environment fee receipt.",
+  "intro": [
+    "Pangong is long and narrow, 134 km end to end and about 5 km at its widest, set in a closed basin between the Pangong and Chang Chenmo ranges. Around two thirds of it lies in Tibet, with the Line of Actual Control running across the water. The Indian shore is a strip of gravel beaches, a few villages and army posts, with the far bank rising in bare ridges.",
+    "The water is brackish, saltier at the western end than the eastern, yet the lake still freezes solid in winter. The colour changes by the hour: steel grey at dawn, turquoise and deep blue by mid-morning, darker under afternoon cloud. That shifting colour, and a 2009 Hindi film shot on its shore, made Pangong the most visited place in Ladakh after Leh.",
+    "It is also one of the highest places most visitors sleep. At around 4,250 m nights are cold even in August, and the air is thin. Treat Pangong as a stop for one night, after at least three nights in Ladakh, and choose a village homestay at Spangmik or Merak over the crowded camps at Lukung."
+  ],
+  "facts": [
+    ["Best months", "Jun – Sep"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Leh, ≈ 160 km"],
+    ["From Leh", "≈ 160 km · 5–6 h via Chang La"],
+    ["Altitude", "≈ 4,250 m"],
+    ["Known for", "Shifting lake colours, Chang La, village homestays"]
+  ],
+  "best_months": [0, 0, 0, 0, 1, 2, 2, 2, 2, 1, 0, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise on the shore at Spangmik", "text": "Set an alarm for 5.30 am in summer. The far ridges light up first, then the water turns from grey to blue as the sun clears the mountains. Wrap up: dawn temperatures are often near freezing even in July."},
+    {"title": "Merak, the quieter village", "text": "About 40 km beyond Spangmik, Merak is a small farming and herding village with homestays and far fewer visitors. The road gets rougher, but the shore is wide and empty. Check whether your permit receipt covers the route."},
+    {"title": "Over Chang La", "text": "The road from Leh crosses Chang La at about 5,360 m, often snowy even in June. A tea stop at the top is enough; continue down past Durbuk and Tangtse, where the valley opens towards the lake."},
+    {"title": "Marmots on the Tangtse road", "text": "Himalayan marmots live in burrows on the grassy slopes near the lake road. Watch them from the car or a distance, and never feed them; human food harms them and teaches them to beg on the road."},
+    {"title": "Night skies", "text": "With little light pollution and dry air, Pangong's night sky is extraordinary on moonless nights. Step outside for ten minutes around 11 pm, fully dressed in down. Camps switch off generators late in the evening, which helps."}
+  ],
+  "field_notes": [
+    {"fact": "Despite its high salinity, Pangong Tso freezes in winter. Its western part is far saltier than its eastern part, which is low in salt but highly alkaline.", "source": "Pangong Tso"},
+    {"fact": "The lake once drained to the Shyok River, a tributary of the Indus, but its outlet was closed off by natural damming. Old shorelines above today's level show the lake has shrunk on a geological scale.", "source": "Pangong Tso"},
+    {"fact": "Historically the name Pangong Tso applied only to the westernmost of five linked sub-lakes, the part in Ladakh. According to the Government of Ladakh, the name means high grassland lake.", "source": "Pangong Tso"}
+  ],
+  "local_word": {"word": "Tso", "language": "Ladakhi / Tibetan", "meaning": "lake, as in Pangong Tso, Tso Moriri and Tso Kar"},
+  "costs": [
+    ["Bus Leh–Spangmik (weekends)", "≈ ₹270 one way"],
+    ["Shared taxi seat, Leh–Pangong round trip", "₹2,500–4,500"],
+    ["Union taxi Leh–Pangong 2 days, Innova or Xylo", "≈ ₹12,500 a car"],
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Camp with attached bathroom, double with meals", "₹4,000–8,000 a night"],
+    ["Tea and instant noodles at a lakeside stall", "₹100–200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh and spend at least three nights in Ladakh, ideally including Nubra, before sleeping at Pangong. Leh airport is about 160 km away."},
+    {"mode": "Bus", "text": "A bus runs from Leh to Spangmik on some weekend days, early in the morning, for about ₹270. Shared taxis run daily in season from Leh. Schedules change; check current status before you travel."},
+    {"mode": "Road", "text": "From Leh ≈ 160 km · 5–6 h via Karu, Chang La and Tangtse. From Nubra ≈ 6–7 h via Agham and Shyok village. A road south via Chushul links to Hanle and Tso Moriri."}
+  ],
+  "where_to_stay": "Saver: Spangmik, Man and Merak have family homestays with dinner and breakfast at ₹1,500–2,500 per person, often with shared bathrooms and limited hot water. Comfort: dozens of fixed tented camps line the shore around Lukung and Spangmik, with attached bathrooms, electric blankets in better ones and buffet meals, at ₹4,000–8,000 a double. Signature: there is no luxury hotel at Pangong; we use the best available camp for one night or plan Pangong as a long day trip from a comfortable stay.",
+  "stays": ["pangong-spangmik-homestays"],
+  "tips": [
+    "Do not sleep at Pangong until you have spent at least three nights in Ladakh; four is better.",
+    "Bring a down jacket, warm hat and gloves for the night, whatever the month.",
+    "Carry the printed environment fee receipt and photo ID for the Tangtse checkpost.",
+    "Do not drive or ride onto the beaches or wetlands; vehicle tracks scar the shore for years.",
+    "Leave Leh by 7 am to cross Chang La before afternoon melt water floods the road near the top."
+  ],
+  "themes": ["road-trips", "photography", "homestays-and-villages", "honeymoons"],
+  "nearby": ["leh", "nubra-valley", "tso-moriri"],
+  "experiences": [
+    {
+      "slug": "pangong-spangmik-sunrise",
+      "title": "Sunrise on the shore at Spangmik",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "5.30 am, Jun–Sep",
+      "cost": "Free",
+      "image_query": "Pangong Tso sunrise",
+      "wiki": "Pangong Tso",
+      "summary": "Watch first light move across Pangong from the gravel shore below Spangmik, as the lake turns from grey to deep blue. It is the reason to sleep here instead of visiting on a day trip, and it costs nothing.",
+      "body": [
+        "In June and July the sky starts to brighten around 5 am. Walk down from your homestay to the shore in the dark with a head torch, sit on a dry rock and wait. The ridges on the far side catch the light first, pink then gold, while the water stays slate grey.",
+        "As the sun clears the mountains behind you, the colour arrives in bands: turquoise in the shallows, deeper blue further out. Birds feed along the edge, often brown-headed gulls and ruddy shelducks in summer. The wind usually picks up by 9 am and the surface roughens, so the calmest reflections come early.",
+        "It is cold. Even in August dawn can be close to 0 °C, so wear everything you brought. Do not walk into the marshy edges where birds nest, keep to gravel, and carry back any rubbish you find. Then go back for hot tea and breakfast before the drive to Leh or onward."
+      ],
+      "good_for": ["photographers", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "What time is sunrise at Pangong?", "a": "In June and July sunrise is around 5.30 am, with first light from about 5 am. In September it is nearer 6.15 am. The sun takes a while to clear the mountains, so the best colour comes in the hour after first light. Check the time with your homestay the evening before."},
+        {"q": "Is a day trip to Pangong worth it?", "a": "A day trip from Leh is possible but means 10–12 hours of driving with only a short time at the lake in harsh midday light. Staying one night gives you evening and sunrise, the best times. If altitude worries you, the day trip does mean you do not sleep at 4,250 m."},
+        {"q": "How cold is Pangong at night?", "a": "Even in July and August, nights often fall to around 0–5 °C, and in June or September below freezing. Wind makes it feel colder. Bring a down jacket, thermal inners, a warm hat and gloves. Most camps and homestays provide heavy quilts; better camps offer electric blankets."}
+      ]
+    },
+    {
+      "slug": "pangong-chang-la-drive",
+      "title": "Over Chang La to the lake",
+      "kind": "adventure",
+      "duration": "5–6 hours",
+      "best_time": "Leave Leh by 7 am, Jun–Sep",
+      "cost": "Union taxi 2 days ≈ ₹12,500 a car; shared seat ₹2,500–4,500 return",
+      "image_query": "Chang La pass Ladakh",
+      "wiki": "Chang La",
+      "summary": "The drive from Leh climbs past Karu and Sakti to Chang La at about 5,360 m, then drops through Durbuk and Tangtse to the lake. Stop briefly at the pass, then keep moving down.",
+      "body": [
+        "Leave Leh early and follow the Indus to Karu, then turn up the side valley past Sakti and its small monastery at Takthok. The road climbs in long switchbacks to Chang La, at about 5,360 m one of the highest passes on a regular tourist route. Snow banks line the road even in June.",
+        "At the top there is a small temple, an army tea point and very little air. Ten minutes is plenty. Drink water, take a photograph and go down. Melt water can flood the road below the pass by afternoon, which is the main reason to start early.",
+        "The descent passes Durbuk and Tangtse, where permits are checked, and follows a valley of marmot burrows and grazing yaks before the lake appears suddenly beyond a bend. Most drivers stop first at Lukung, the busiest point; continue to Spangmik or Merak for a quieter stay."
+      ],
+      "good_for": ["first-timers", "students", "photographers"],
+      "faqs": [
+        {"q": "How high is Chang La?", "a": "Chang La is at about 5,360 m. It is often snowy until June and icy in early mornings, and the air is thin. Stay only 10–15 minutes at the top. If anyone has a severe headache, dizziness or breathlessness, descend at once. Talk to your doctor before the trip about altitude."},
+        {"q": "Is the road to Pangong open all year?", "a": "The road is kept open most of the year, but snow on Chang La can close it for hours or days, especially from November to April. In winter the lake freezes and homestays mostly close. Summer melt water can also damage the road. Check current status before you travel."},
+        {"q": "Can I ride a motorbike to Pangong?", "a": "Yes, the Chang La road is a popular ride after a few days in Leh. Carry warm riding gear, rain cover and spare fuel, since there is no reliable pump beyond Karu. Water crossings near the pass can be deep by afternoon, so ride early and in company."}
+      ]
+    },
+    {
+      "slug": "pangong-merak-village-homestay",
+      "title": "A night in Merak, Pangong's quiet shore",
+      "kind": "village",
+      "duration": "Overnight",
+      "best_time": "Jun–Sep",
+      "cost": "Homestay ₹1,500–2,500 per person with meals",
+      "image_query": "Merak village Pangong",
+      "wiki": "",
+      "summary": "Merak is a small village about 40 km beyond Spangmik along the Pangong shore, with family homestays, barley fields and yak herds. Fewer visitors make it the best place for a slow evening and a quiet sunrise.",
+      "body": [
+        "Most visitors stop at Lukung or Spangmik. Keep going along the shore road, past Man, and the camps disappear. Merak is a cluster of houses, small fields and animal pens on a gentle slope above the lake, with families who farm barley and peas in the short summer and herd yaks, sheep and goats.",
+        "Homestays here are simple: a clean room, heavy quilts, a shared bathroom and dinner in the family kitchen around a stove. Meals are often thukpa, rice and vegetables, butter tea and home-made bread. In the evening the village returns its animals from pasture and the light on the water turns violet.",
+        "The road beyond Spangmik is rougher and the drive back to Leh is longer, so plan for about seven hours. Check that your permit receipt covers Merak, carry cash and expect limited mobile signal. In return you get a Pangong that feels like a lake, not a car park."
+      ],
+      "good_for": ["couples", "solo", "photographers", "students"],
+      "faqs": [
+        {"q": "How far is Merak from Spangmik?", "a": "About 40 km, roughly 1.5 hours on a rough road along the shore. From Leh it is about 200 km, a full day's drive. Many travellers stay at Spangmik on the way out and Merak only if they have an extra day."},
+        {"q": "Do I need a permit for Merak?", "a": "Indian travellers carry the online environment fee receipt that covers the Pangong area; foreign nationals need a Protected Area Permit that lists the route. Rules on how far along the shore visitors may go have changed over the years, so check current status before you travel."},
+        {"q": "Are there proper toilets in Merak homestays?", "a": "Expect simple facilities: usually a shared bathroom with a flush or a traditional dry compost toilet, and hot water in buckets. A few homes have attached bathrooms. Ask when booking if this matters to you. Dry toilets are a sensible tradition in a place where water freezes for half the year."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Pangong Lake from Leh?", "a": "Pangong is about 160 km from Leh via Chang La, a 5–6 hour drive. Options are a Ladakh Taxi Union car (about ₹12,500 for two days), a shared taxi seat (₹2,500–4,500 return), a weekend bus to Spangmik (about ₹270) or your own bike. Leave by 7 am to cross Chang La before melt water rises."},
+    {"q": "Is it safe to sleep at Pangong Lake?", "a": "For most healthy travellers, yes, if you have acclimatised: at least three nights in Ladakh first. At about 4,250 m some people sleep poorly and wake with a headache. If symptoms are severe, such as vomiting, confusion or breathlessness at rest, descend at once. Talk to your doctor before the trip."},
+    {"q": "Do I need a permit for Pangong?", "a": "Indian citizens pay the online Environment and Development Fee and carry the printed receipt and photo ID; there is no separate Inner Line Permit now. Foreign nationals need a Protected Area Permit through a registered Leh agency. The checkpost is near Tangtse. Check current status before you travel."},
+    {"q": "When does Pangong freeze?", "a": "The lake starts freezing in December and is usually frozen solid from January to March, despite its salt. The ice breaks up in April and May. Homestays and camps mostly close from October or November to May, so winter visits are day trips or special arrangements."},
+    {"q": "Is there mobile network at Pangong?", "a": "Coverage is patchy. Postpaid Jio and BSNL often work at Spangmik and Lukung; Airtel is weaker, and Merak can have no signal. Prepaid SIMs from outside Jammu and Kashmir and Ladakh do not work. Some camps have Wi-Fi that works when power and network allow."},
+    {"q": "Which is better, a camp or a homestay at Pangong?", "a": "Camps offer attached bathrooms, buffet meals and sometimes electric blankets at ₹4,000–8,000 a double. Homestays in Spangmik and Merak are cheaper at ₹1,500–2,500 per person with meals, warmer in the family kitchen and give more back to villagers, but bathrooms are often shared."},
+    {"q": "Can children and seniors visit Pangong?", "a": "Yes, but plan carefully. Many families visit as a day trip from Leh to avoid sleeping at 4,250 m, though that means 10–12 hours in the car. If you stay, do it only after three or four nights in Ladakh and keep the evening quiet. Talk to your doctor first, especially for infants and anyone with heart or lung conditions."},
+    {"q": "What is the best time to visit Pangong?", "a": "June to September is best, with open roads, a thawed lake and open homestays and camps. June has the most snow on Chang La; September has clear skies and fewer people but colder nights. Avoid the 15 August long weekend, when every camp is full."},
+    {"q": "Can I drive from Pangong to Tso Moriri?", "a": "Yes. A road runs south from Pangong via Man, Merak, Chushul and the Indus to Nyoma and on to Tso Moriri, a long day of 8–9 hours on mixed roads. It needs the right permits for the route and a sturdy vehicle. Check current status before you travel."}
+  ]
+}

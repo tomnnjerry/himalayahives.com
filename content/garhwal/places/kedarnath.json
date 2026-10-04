@@ -1,0 +1,146 @@
+{
+  "slug": "kedarnath",
+  "name": "Kedarnath",
+  "region": "garhwal",
+  "kind": "pilgrimage town",
+  "wiki": "Kedarnath",
+  "image_query": "Kedarnath Temple snow mountains",
+  "lat": 30.735,
+  "lng": 79.067,
+  "altitude_m": 3583,
+  "tagline": "The highest Jyotirlinga, a 16 km walk above Gaurikund",
+  "meta_description": "Kedarnath guide: Gaurikund trek, helicopter booking via IRCTC, registration, pony and palki rates, 2013 flood history, altitude advice, costs and where to stay.",
+  "summary": "Kedarnath is the Shiva shrine at 3,583 m at the head of the Mandakini valley, the highest of the twelve Jyotirlingas and one of the Char Dham. There is no road: you walk about 16–17 km from Gaurikund, ride a pony, or fly by helicopter from Sersi, Phata or Guptkashi. Open roughly late April to early November.",
+  "intro": [
+    "The temple of Kedarnath stands alone on a glacial plain beneath the Kedarnath peaks, a squat grey stone building of unknown age with the Mandakini rising behind it. Pilgrims have walked here for well over a thousand years: it is mentioned as a pilgrimage centre in twelfth-century texts, and tradition credits Adi Shankara with reviving the shrine and ending his life nearby. Behind the temple stands his samadhi memorial, rebuilt after 2013.",
+    "On 16 and 17 June 2013, a cloudburst and the collapse of Chorabari Tal above the town sent water and boulders down the valley. The town, the old path and Rambara were destroyed, and thousands of pilgrims and residents died along the Mandakini. The temple survived: a large rock lodged behind it and split the flood around its walls. Pilgrims now worship that rock as Bhim Shila. The Nehru Institute of Mountaineering led the rebuilding, and the yatra resumed the next year.",
+    "Today the path from Gaurikund is a wide, paved and railed trail of about 16–17 km, with shelters, medical posts and drinking water. Vehicles stop at Sonprayag, and a shuttle runs the last 5 km to Gaurikund. Helicopter shuttles from the Sersi, Phata and Guptkashi helipads are booked only through the IRCTC HeliYatra portal. However you go, register for the Char Dham first, sleep a night at Guptkashi or Sitapur, and take the altitude seriously."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, mid-Sep – Oct"],
+    ["Nights we suggest", "1 at Kedarnath, 2 at Guptkashi or Sitapur"],
+    ["Nearest airport", "Dehradun (Jolly Grant), ≈ 240 km to Sonprayag · 8–9 h"],
+    ["From Rishikesh", "≈ 210 km to Sonprayag · 7–9 h, then ≈ 16–17 km walk"],
+    ["Altitude", "3,583 m"],
+    ["Known for", "Jyotirlinga temple, the Gaurikund trek, helicopter shuttles"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 0, 1, 2, 2, 1, 0],
+  "nights": "1–3",
+  "highlights": [
+    {"title": "Darshan at the Jyotirlinga", "text": "The lingam at Kedarnath is an irregular, three-sided rock rather than a carved pillar, and pilgrims touch it and anoint it with ghee. Queues can run for hours in peak weeks; a token system has been used at times. The evening aarti is the most atmospheric time."},
+    {"title": "The Gaurikund trail", "text": "About 16–17 km of paved, railed path climbing roughly 1,600 m from Gaurikund through Jungle Chatti, Bhimbali and Linchauli. Most walkers take 6–8 hours up and 4–6 hours down, with tea stalls, shelters and medical posts along the way."},
+    {"title": "Bhim Shila", "text": "The large boulder that lodged behind the temple during the June 2013 flood and diverted the water and debris around it. Pilgrims now worship it. It is a quiet, moving place to reflect on the lives lost in the valley that year."},
+    {"title": "Bhairavnath temple", "text": "The open-air shrine of Bhairavnath, the guardian deity of Kedarnath, stands on the ridge south-east of the temple, a short steep climb of about 1 km. Locals believe he guards the valley while the temple is closed in winter. The view back over the temple is the best in town."},
+    {"title": "Shankaracharya samadhi", "text": "Behind the temple lies the memorial to Adi Shankara, who, according to one tradition, ended his life here. It was destroyed in 2013 and rebuilt, with a 12-foot statue of the philosopher unveiled in 2021."},
+    {"title": "Helicopter shuttle", "text": "Shuttles fly in 8–10 minutes from Sersi, Phata and Guptkashi, booked only on the IRCTC HeliYatra portal after Char Dham registration. 2026 return fares ran from about ₹6,000 to ₹13,000 plus GST by helipad. Flights stop in bad weather; check current status before you travel."}
+  ],
+  "field_notes": [
+    {"fact": "During the June 2013 floods a huge rock was carried down and stuck behind Kedarnath Temple, diverting water and debris to either side. The temple suffered no major structural damage, and the rock is now worshipped as Bhim Shila.", "source": "Kedarnath Temple"},
+    {"fact": "Kedarnath's head priest, the Raval, belongs to the Veerashaiva community of Karnataka, but unlike at Badrinath he does not perform the daily pujas himself; his assistants do, on his instructions. In winter the Raval moves with the deity to Ukhimath.", "source": "Kedarnath Temple"},
+    {"fact": "After the 2013 disaster, the rebuilding of Kedarnath was handed to the Nehru Institute of Mountaineering, which worked through a year of high-altitude construction so that the pilgrimage could resume the following season.", "source": "Kedarnath Temple"}
+  ],
+  "local_word": {"word": "Kedar", "language": "Sanskrit", "meaning": "field or marshy ground; Kedarnath is the lord of the field"},
+  "costs": [
+    ["UTC or GMOU bus, Rishikesh to Sonprayag", "₹500–800"],
+    ["Shuttle jeep, Sonprayag to Gaurikund (5 km)", "₹50–100"],
+    ["Pony, Gaurikund to Kedarnath (one way)", "₹2,500–4,500 at notified rates"],
+    ["Helicopter return seat, by helipad (2026)", "≈ ₹6,000–13,000 plus GST"],
+    ["Bed in a GMVN or private tent camp at Kedarnath", "₹500–2,000 a night"],
+    ["Double room in Guptkashi or Sitapur, peak", "₹1,500–4,000"]
+  ],
+  "how_to_reach": [
+    {"mode": "Bus", "text": "UTC and GMOU buses run from Rishikesh to Sonprayag or Guptkashi, about 210 km and 7–9 hours, leaving early morning. From Sonprayag, shuttle jeeps carry pilgrims the last 5 km to Gaurikund, where the walk begins."},
+    {"mode": "Trek", "text": "The walking path from Gaurikund to Kedarnath is about 16–17 km, paved and railed, climbing roughly 1,600 m. Ponies, palkis and porters with back-baskets operate at government-notified rates; book at official counters in Sonprayag or Gaurikund."},
+    {"mode": "Helicopter", "text": "Shuttle flights from Sersi, Phata and Guptkashi are sold only on the IRCTC HeliYatra portal, after Char Dham registration. Seats open in batches and sell fast; ignore any other website or agent. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: GMVN and private operators run tent camps, huts and dorms at Kedarnath for ₹500–2,000 a bed, and Gaurikund, Sonprayag and Sitapur have basic lodges. Comfort: Guptkashi and Sitapur have the best hotels in the valley at ₹2,500–6,000 a double, with hot water and heating; we book two nights there, one before and one after Kedarnath. Signature: there are no luxury hotels in the Kedar valley; we pair a helicopter day trip with Taj Rishikesh or Ananda before and after.",
+  "stays": [],
+  "tips": [
+    "Register for the Char Dham online before you book anything; police and helipad staff check it.",
+    "Start walking from Gaurikund by 5 am so you reach Kedarnath before afternoon rain and cold.",
+    "Book a bed at Kedarnath in advance; sleeping up top lets you see the evening aarti and an empty dawn.",
+    "Use only notified rates for ponies and palkis, pay at the counters and keep your receipt.",
+    "Carry a rain jacket, warm layers and a torch in every month; Kedarnath is near freezing at night even in June."
+  ],
+  "themes": ["pilgrimages", "treks-and-walks", "snow-and-winter"],
+  "nearby": ["chopta-tungnath", "badrinath", "rishikesh"],
+  "experiences": [
+    {
+      "slug": "kedarnath-trek-from-gaurikund",
+      "title": "Walking to Kedarnath from Gaurikund",
+      "kind": "trek",
+      "duration": "6–8 hours up",
+      "best_time": "5 am start, May–Jun and Sep–Oct",
+      "cost": "Free on foot; pony ₹2,500–4,500 one way",
+      "image_query": "Kedarnath trek route Gaurikund",
+      "wiki": "Gauri Kund",
+      "summary": "The classic way to Kedarnath: about 16–17 km on a paved, railed trail from Gaurikund at about 1,980 m to the temple at 3,583 m, alongside thousands of pilgrims, ponies and porters, with tea stalls and medical posts all the way.",
+      "body": [
+        "Gaurikund is the road head, a narrow town of lodges and hot springs where, by tradition, Parvati performed penance to win Shiva. The trail leaves the town and climbs steadily up the Mandakini gorge on the new route built after 2013, crossing the river and passing Jungle Chatti, Bhimbali and Linchauli before opening onto the broad valley below the temple. The final 3–4 km are the steepest and highest.",
+        "The path is paved and railed, with shelters, drinking water, toilets and medical aid posts at intervals. Ponies and pithus share the trail, so walk on the hill side when they pass. Most walkers take 6–8 hours up and 4–6 hours down. Start at 5 am or earlier: afternoon cloud and rain are common, and temperatures fall quickly after 3 pm.",
+        "Altitude is the main hazard; you climb about 1,600 m in a day. Sleep at Guptkashi or Sitapur the night before, drink water, eat light and walk at a pace where you can talk. Severe headache, vomiting, confusion or breathlessness at rest are warning signs: go down and see the medical post. Talk to your doctor before the trip, especially if you are over 55 or have heart or lung problems."
+      ],
+      "good_for": ["students", "solo", "families", "first-timers"],
+      "faqs": [
+        {"q": "How long is the Kedarnath trek?", "a": "About 16–17 km one way from Gaurikund on the post-2013 route, climbing roughly 1,600 m. Fit walkers take 6–8 hours up and 4–6 hours down. The path is paved and railed, with shelters and medical posts along the way."},
+        {"q": "How much does a pony or palki cost to Kedarnath?", "a": "Rates are fixed by the district administration each season. Indicatively, a pony one way costs about ₹2,500–4,500, and a palki several times that. Book at the official counters in Sonprayag or Gaurikund and keep your receipt. Check current status before you travel."},
+        {"q": "Can I do the Kedarnath trek and return on the same day?", "a": "Very fit, acclimatised walkers sometimes do, but it means 32–34 km and 1,600 m of climbing in one day at altitude. We strongly suggest sleeping at Kedarnath for one night, which also lets you see the evening aarti and the temple at dawn."}
+      ]
+    },
+    {
+      "slug": "kedarnath-evening-aarti-bhairavnath",
+      "title": "Evening aarti and the Bhairavnath ridge",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "5–8 pm, May–Oct",
+      "cost": "Free",
+      "image_query": "Kedarnath Temple evening aarti",
+      "wiki": "Kedarnath Temple",
+      "summary": "Climb to the open-air shrine of Bhairavnath on the ridge above town in the late afternoon, look down on the temple and the flood plain, then join the evening aarti at Kedarnath as the light leaves the peaks.",
+      "body": [
+        "Kedarnath's temple is built of large grey stone slabs on a raised platform, in the North Indian Himalayan style also seen at Tungnath and Madhyamaheshwar. Its hall holds images of the five Pandavas, Krishna, Nandi and Virabhadra; the sanctum contains the three-sided natural lingam, which pilgrims anoint with ghee. Legend says this recalls Bhima massaging the bull-formed Shiva after their struggle.",
+        "In the late afternoon, walk up the stepped path behind the town to the shrine of Bhukund Bhairavnath, the kul-devta and guardian of Kedarnath, about 1 km and a short steep climb. From the ridge you see the whole valley: the temple, Bhim Shila behind it, the new protective walls and the moraine of the Chorabari glacier. Come back down before dark.",
+        "The evening aarti, with lamps, conch and chanting, is held inside and in front of the temple; the time shifts with the season, so ask at your camp. Pilgrims crowd the courtyard, so keep your belongings close and be patient. Photography is not allowed inside the sanctum. Wear every warm layer you have: at 3,583 m the temperature drops below freezing soon after sunset, even in June."
+      ],
+      "good_for": ["seniors", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "What time is the evening aarti at Kedarnath?", "a": "Usually around 6–7 pm, varying with the season and the temple's schedule. Ask at your camp or the temple committee office on arrival, and reach the courtyard 30 minutes early in peak season."},
+        {"q": "How far is Bhairavnath temple from Kedarnath?", "a": "About 1 km from the main temple, up a steep stepped path on the ridge to the south-east. It takes 30–45 minutes up at an easy pace. Go in daylight and come down before dark, as the path is unlit."},
+        {"q": "Is photography allowed at Kedarnath temple?", "a": "Photography inside the sanctum is not allowed, and the temple committee has at times restricted phone use and reels in the temple premises. Photograph from outside, respectfully, and follow staff instructions. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "triyuginarayan-eternal-flame-temple",
+      "title": "Triyuginarayan and its eternal flame",
+      "kind": "spiritual",
+      "duration": "2–3 hours with drive",
+      "best_time": "Morning, Apr–Nov",
+      "cost": "Free; taxi from Sonprayag ₹800–1,500 return",
+      "image_query": "Triyuginarayan Temple Uttarakhand",
+      "wiki": "Triyuginarayan Temple",
+      "summary": "A stone Vishnu temple in a village above Sonprayag, where Shiva and Parvati are believed to have married. A fire in front of the temple has been kept burning, by tradition, since that wedding. A peaceful side trip before or after Kedarnath.",
+      "body": [
+        "Triyuginarayan sits in a village on a spur above the confluence of the Mandakini and Son Ganga, a short drive up a side road from Sonprayag. The temple, built in the same stone style as Kedarnath, is dedicated to Vishnu, who by tradition witnessed the marriage of Shiva and Parvati on this spot. In front of it burns a fire pit, the Akhand Dhuni, said to have burned since the wedding.",
+        "The fire is tended by the Jamloki Brahmins of the Kedar valley, who are also the temple's chief priests. Pilgrims add sticks of wood and take a pinch of ash home. A stream rising in the courtyard feeds four small bathing kunds. In recent years couples have begun to hold weddings here, inspired by the legend, so you may find a ceremony in progress.",
+        "It is a quieter, slower visit than Kedarnath and suits the day before the climb, when you should stay low and rest, or the day after, when legs are tired. Dress modestly and ask before photographing the fire or any ceremony. Combine it with a visit to the Gauri temple and hot spring at Gaurikund, about 5 km away."
+      ],
+      "good_for": ["couples", "seniors", "families"],
+      "faqs": [
+        {"q": "Where is Triyuginarayan temple?", "a": "In Triyuginarayan village in Rudraprayag district, on a side road above Sonprayag, the vehicle base for Kedarnath. It takes 30–45 minutes by taxi from Sonprayag. The road is narrow but paved; avoid it after heavy rain."},
+        {"q": "Why is Triyuginarayan famous?", "a": "It is believed to be where Shiva married Parvati, with Vishnu as witness. A fire in front of the temple, the Akhand Dhuni, is said to have burned since the wedding, and pilgrims offer wood to it. Couples sometimes marry here today."},
+        {"q": "Can I visit Triyuginarayan in winter?", "a": "Yes, the village is lived in year round and the temple remains open, though snow may block the road for short periods in January and February. Kedarnath is closed then, so it makes a quiet winter outing from Guptkashi."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I book a helicopter to Kedarnath?", "a": "Only through the IRCTC HeliYatra portal, after completing Char Dham registration. Choose the helipad (Sersi, Phata or Guptkashi), date and operator. Indicative 2026 return fares were about ₹6,000–13,000 plus GST. Seats open in batches and sell fast; avoid other sites and agents. Check current status before you travel."},
+    {"q": "When is Kedarnath temple open?", "a": "Kedarnath usually opens in late April or early May, on a date announced on Mahashivratri, and closes on Bhai Dooj after Diwali, in late October or November. The deity then moves to the Omkareshwar temple in Ukhimath for winter. Check current status before you travel."},
+    {"q": "How much does a Kedarnath trip cost from Rishikesh?", "a": "A saver trip of 3–4 nights by bus, on foot, with tent or dorm beds costs about ₹6,000–10,000 per person. Using ponies adds ₹5,000–9,000 return; helicopter seats ₹6,000–13,000. A comfort trip with a private car and Guptkashi hotels costs ₹20,000–30,000 per person."},
+    {"q": "Is registration mandatory for Kedarnath?", "a": "Yes. All pilgrims must register for the Char Dham on the official Uttarakhand portal, app or offline counters, and carry the slip or QR code. It is checked at Sonprayag and at helipads. Registration is free. Check current status before you travel."},
+    {"q": "What is the best time to visit Kedarnath?", "a": "May and June have the most stable weather but the biggest crowds. Mid-September to October has clear skies, fewer people and cold nights. July and August bring heavy rain, landslides and frequent closures, and we do not plan trips then."},
+    {"q": "Can senior citizens visit Kedarnath?", "a": "Many do, using helicopters, ponies or palkis. Seniors should have a medical check, carry prescriptions, sleep at Guptkashi or Sitapur first and avoid the opening week. The altitude of 3,583 m is the main risk; talk to your doctor before booking."},
+    {"q": "Is there mobile network at Kedarnath?", "a": "Yes, Jio, Airtel and BSNL usually work at Kedarnath and much of the trail, though very crowded days slow data. Electricity is available at camps but charging points are limited; carry a power bank."},
+    {"q": "What should I pack for Kedarnath?", "a": "Warm down jacket, thermal layers, cap, gloves, rain jacket and trousers, good walking shoes with grip, a torch, water bottle, sunscreen, personal medicines and your ID. Keep luggage light; you or a porter must carry it 16 km."},
+    {"q": "Is Kedarnath safe after the 2013 flood?", "a": "The town and path were rebuilt with protective walls and a new route, and there are medical posts, police and disaster response teams in season. The main risks today are weather, landslides on the road and altitude. Follow official alerts and keep spare days in your plan."}
+  ]
+}

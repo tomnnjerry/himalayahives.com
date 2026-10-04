@@ -1,0 +1,146 @@
+{
+  "slug": "tawang",
+  "name": "Tawang",
+  "region": "arunachal",
+  "kind": "town",
+  "wiki": "Tawang",
+  "image_query": "Tawang Monastery Arunachal Pradesh",
+  "lat": 27.586,
+  "lng": 91.859,
+  "altitude_m": 2669,
+  "tagline": "India's largest monastery above a Monpa valley town",
+  "meta_description": "Tawang travel guide: the 1680–81 monastery, the 6th Dalai Lama's birthplace, high lakes, Mon shugu paper, real costs, permits and where to stay.",
+  "summary": "Tawang is a Monpa town at about 2,670 m in far western Arunachal, built below India's largest Buddhist monastery. Give it three nights: one for the monastery and Urgelling, one for the high lakes, and one spare for weather. It is 320–500 km from Tezpur or Guwahati over Sela Pass or the new tunnel.",
+  "intro": [
+    "Tawang town spreads along a ridge above the Tawang Chu river, a mix of concrete market lanes, old Monpa houses with carved wooden windows, and army cantonments. Above it all stands Tawang Monastery, founded in 1680–81 and still home to several hundred monks. Most visitors arrive tired after a long day over Sela, sleep off the drive, and wake to a cold, clear morning with prayer flags snapping in the wind.",
+    "The Monpa are Buddhists of the Gelug and Nyingma traditions, and daily life follows the monastery calendar. You will see older women in maroon tunics and the felt caps of yak hair with tassels that drain rain, men spinning prayer wheels at the market chorten, and butter lamps in almost every home. Khura buckwheat pancakes, thukpa and momos dominate menus, and local shops sell Monpa carpets, wooden bowls and handmade paper.",
+    "Tawang is the base for a day circuit to the high lakes and towards the frontier, with roads that climb above 4,000 m. Some of these areas need an extra local permit that your taxi driver or hotel arranges from the Deputy Commissioner's office. Weather decides everything here: a snowfall can close roads for a day, so keep one buffer night and plan the lakes for your clearest morning."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov; Dec – Feb for snow"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Tezpur (≈ 320 km), Guwahati (≈ 450–500 km)"],
+    ["From Guwahati", "≈ 450–500 km · 2 days by road"],
+    ["Altitude", "2,669 m (town); about 3,000 m at the monastery"],
+    ["Known for", "Tawang Monastery, Torgya festival, high lakes, Monpa crafts"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "3",
+  "highlights": [
+    {"title": "Tawang Monastery", "text": "Founded in 1680–81 by Merak Lama Lodre Gyatso at the wish of the 5th Dalai Lama, it is the largest Buddhist monastery in India. The three-storey assembly hall holds a tall gilded Buddha, and the museum keeps old manuscripts, thangkas and masks."},
+    {"title": "Urgelling, birthplace of a Dalai Lama", "text": "A small temple a few kilometres below the town marks where Tsangyang Gyatso, the 6th Dalai Lama, was born in 1683. It is quiet, often locked until a caretaker arrives, and one of the most meaningful short visits in Tawang."},
+    {"title": "High lakes day circuit", "text": "Pankang Teng Tso and Sangetsar lake lie at roughly 3,700–4,000 m on the road towards the frontier, ringed by rock and rhododendron. Roads are rough and some areas need a local permit. Leave at 7 am and carry warm layers even in May."},
+    {"title": "Mon shugu paper making", "text": "The Monpa once made all monastery paper from the bark of a local shrub. A handmade paper unit in Tawang, set up with support from the Khadi and Village Industries Commission in 2021, revived the craft. Ask locally whether visitors can watch the work that day."},
+    {"title": "Ani Gompa and the nunneries", "text": "Several small nunneries sit on the hills around Tawang, the best known a short drive above the town. Visits are low-key: walk quietly, ask before photographing nuns, and leave a small donation for butter lamps if you wish."},
+    {"title": "Old market and Monpa crafts", "text": "The old market around the central chorten sells Monpa carpets, carved wooden bowls, felt caps and prayer flags. Prices are fixed in most shops; ask whether an item was made locally or brought from elsewhere before you buy."}
+  ],
+  "field_notes": [
+    {"fact": "Tawang Monastery was founded in 1680–81 by Merak Lama Lodre Gyatso at the behest of the 5th Dalai Lama. Its compound wall runs about 925 feet, and the library holds handwritten Kangyur volumes lettered in gold.", "source": "Tawang Monastery"},
+    {"fact": "Tsangyang Gyatso, the 6th Dalai Lama, was born on 1 March 1683 at Urgelling, a temple near Tawang founded in 1489. An inscription at the site marks it as his birthplace.", "source": "Urgelling Monastery"},
+    {"fact": "Mon shugu, the handmade paper of the Monpa, is made from the bark of the shugu sheng shrub. It was used for Buddhist scriptures for centuries, nearly died out, and was revived with a production unit in Tawang in 2021.", "source": "Khadi and Village Industries Commission"}
+  ],
+  "local_word": {"word": "Mon shugu", "language": "Monpa", "meaning": "the handmade paper of the Monpa, made from shrub bark"},
+  "costs": [
+    ["Shared Sumo seat, Tawang–Tezpur", "₹1,100–1,500"],
+    ["Shared Sumo seat, Tawang–Guwahati", "₹1,500–2,000"],
+    ["Reserved taxi, high lakes day circuit", "₹5,500–8,000 per vehicle"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,200 per person"],
+    ["Plate of momos or bowl of thukpa", "₹80–180"],
+    ["Tawang Monastery museum entry", "₹20–50; camera fee may apply"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "The nearest commercial airports are Tezpur (≈ 320 km, limited flights) and Guwahati (≈ 450–500 km). A state-supported helicopter service has linked Guwahati and Tawang on set days; seats are few and weather cancels flights often, so check current status before you travel."},
+    {"mode": "Bus", "text": "Shared Sumos leave Tawang's Sumo stand for Tezpur and Guwahati around 5–6 am, and run the other way from Tezpur and Guwahati at similar hours. State buses have run on the route on some days. Book seats a day ahead; the trip takes 10–12 hours from Tezpur."},
+    {"mode": "Road", "text": "Guwahati to Tawang is about 450–500 km via Tezpur, Bhalukpong, Bomdila, Dirang and Sela Pass or the Sela Tunnel. Most people break the trip at Dirang or Bomdila, which also helps acclimatisation. A private SUV with driver is the comfortable option."}
+  ],
+  "where_to_stay": "Saver: family homestays and simple guesthouses around the old market and the monastery road, usually ₹1,200–2,200 per person with meals; rooms are basic but most have blankets heavy enough for freezing nights. Comfort: established town hotels such as Hotel Gakyi Khang Zhang, with heaters and views of the monastery, are the usual choice. Signature: Vivanta Tawang, a Taj-group hotel that opened in December 2023 a short drive from the monastery, is the most comfortable stay in Arunachal. Book everything early for October and May.",
+  "stays": ["hotel-gakyi-khang-zhang-tawang", "vivanta-tawang"],
+  "tips": [
+    "Spend a night in Dirang or Bomdila on the way up so your body adjusts before sleeping at 2,670 m.",
+    "Arrive at the monastery by 6 am for morning prayers, and sit at the back of the hall without photographing the monks.",
+    "Keep one buffer night, since snow or landslides can close the Sela road for a day.",
+    "Carry your Inner Line Permit printout and ID on every day trip; there are checkpoints on the lakes road.",
+    "Shops and restaurants close early, often by 8 pm, so eat dinner at your homestay on cold nights."
+  ],
+  "themes": ["monasteries", "road-trips", "snow-and-winter", "festivals", "photography"],
+  "nearby": ["sela-pass", "dirang", "bomdila"],
+  "experiences": [
+    {
+      "slug": "tawang-monastery-morning-prayers",
+      "title": "Morning prayers at Tawang Monastery",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "6 am, Mar–May and Oct–Dec",
+      "cost": "Free entry to the monastery; museum ₹20–50; taxi from town ₹150–300",
+      "image_query": "Tawang Monastery prayer hall",
+      "wiki": "Tawang Monastery",
+      "summary": "Join the early assembly at India's largest Buddhist monastery, when young monks chant in the prayer hall and butter tea is poured along the rows. Then walk the quarters, see the giant Buddha and visit the museum of manuscripts and masks.",
+      "body": [
+        "Tawang Monastery sits on a spur at about 3,000 m, a steep 2 km above the town. It was founded in 1680–81 at the wish of the 5th Dalai Lama, and its Tibetan name, Gaden Namgyal Lhatse, speaks of complete victory. Inside the walls is a small town of its own: some 65 residential buildings, a school for young monks, kitchens, and the three-storey Dukhang assembly hall facing a stone courtyard.",
+        "Morning prayers usually begin soon after dawn. Visitors may stand or sit quietly at the back of the hall while the monks chant, sometimes with drums and long horns. Novices carry kettles of butter tea down the rows. Do not photograph the assembly without permission, keep your shoes where the monks leave theirs if asked, and walk clockwise around the hall and the chortens.",
+        "After prayers, step into the assembly hall to see the tall gilded Buddha and the murals, then visit the museum. It holds old thangkas, ritual objects, masks used in the Torgya dances, and parts of a library that includes handwritten Kangyur volumes with gold lettering. Allow time to sit in the courtyard as the sun reaches the valley; the view down to Tawang and across to the far ridges is best before clouds form."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "What time do morning prayers start at Tawang Monastery?", "a": "Prayers usually begin around dawn, which is 5:30–6:30 am depending on season. Timings shift with festival days and the monastery's schedule, so ask your hotel the evening before. Arriving at 6 am gives you the best chance to sit in on chanting and watch butter tea being served."},
+        {"q": "Can I take photos inside Tawang Monastery?", "a": "Photography in the courtyard and of the buildings is usually fine. Inside the prayer hall and the museum, rules vary and are often posted; when in doubt, ask a monk first. Never photograph monks during prayers without permission, and avoid flash near murals."},
+        {"q": "Is there an entry fee for Tawang Monastery?", "a": "Entry to the monastery grounds is free. The museum charges a small fee, typically ₹20–50 per person, and a camera fee may apply. Fees are indicative for 2026 and can change; carry small cash notes, since card payment is rarely available."}
+      ]
+    },
+    {
+      "slug": "tawang-urgelling-sixth-dalai-lama-birthplace",
+      "title": "Urgelling, birthplace of the 6th Dalai Lama",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Morning, all year except heavy snow days",
+      "cost": "Free; small donation welcome; taxi ₹300–500 return from town",
+      "image_query": "Urgelling Monastery Tawang",
+      "wiki": "Urgelling Monastery",
+      "summary": "A small, old temple a few kilometres below Tawang where Tsangyang Gyatso, the 6th Dalai Lama, was born in 1683. Quiet, rarely crowded and full of meaning for Monpa and Tibetan Buddhists alike.",
+      "body": [
+        "Urgelling is a modest temple surrounded by fields and prayer flags on the slope below Tawang town. It was founded in 1489 by Urgen Sangpo, nearly two centuries before the great monastery above. Its fame rests on one birth: Tsangyang Gyatso, recognised as the 6th Dalai Lama, was born here on 1 March 1683. An inscription at the site records it as his birthplace.",
+        "The 6th Dalai Lama is remembered in Tibetan culture less as a ruler than as a poet. His short love songs are still recited and sung across the Himalaya, and Monpa families speak of him with affection as a son of Mon. Inside the temple, a caretaker may show the old images and point out objects associated with his family. If the door is locked, ask in the neighbouring houses; someone usually comes with the key.",
+        "Combine Urgelling with the walk or drive back up to the market, or with a visit to one of the nunneries on the hills around town. The temple is small, so plan an hour. Dress modestly, walk clockwise around the building, and leave a small offering if you wish. It is one of the few sights in Tawang where you may be the only visitor."
+      ],
+      "good_for": ["solo", "couples", "seniors", "students"],
+      "faqs": [
+        {"q": "How far is Urgelling from Tawang town?", "a": "Urgelling lies a few kilometres below the town centre, about 15–20 minutes by taxi on a narrow road. Some visitors walk down and take a taxi back up, since the return climb is steep at this altitude. Local taxis charge roughly ₹300–500 for the return trip with waiting time."},
+        {"q": "Is Urgelling open every day?", "a": "It is usually open in daylight, but the door may be locked if the caretaker is away. Neighbours often fetch the key. Go in the morning, be patient, and ask your hotel or driver to call ahead if you have limited time."},
+        {"q": "Why is Urgelling important?", "a": "It is the birthplace of Tsangyang Gyatso, the 6th Dalai Lama, born here in 1683. He is loved across the Tibetan Buddhist world for his poetry. For Monpa families, the site ties Tawang directly to the history of the Dalai Lamas."}
+      ]
+    },
+    {
+      "slug": "tawang-mon-shugu-handmade-paper",
+      "title": "Watch Mon shugu paper being made",
+      "kind": "craft",
+      "duration": "1–2 hours",
+      "best_time": "Weekday mornings, Mar–Nov",
+      "cost": "Usually free to watch; sheets and notebooks ₹50–500 to buy",
+      "image_query": "Monpa handmade paper Tawang",
+      "wiki": "",
+      "summary": "See how the Monpa made paper for monastery scriptures: bark of the shugu sheng shrub soaked, pounded into pulp and set on frames to dry in the sun. A revived craft with a working unit in Tawang town.",
+      "body": [
+        "For centuries the Monpa of the Tawang valley made their own paper, called Mon shugu, from the inner bark of a shrub they call shugu sheng, literally the paper plant. The paper was strong, resisted insects and was used for Buddhist scriptures and records in monasteries across the region. By the late twentieth century only a handful of artisans in Mukto village still knew the process, and the craft was close to disappearing.",
+        "In 2021 the Khadi and Village Industries Commission set up a Monpa handmade paper unit in Tawang, with specialists from its national handmade paper institute training local people. The process is still largely by hand: the bark is soaked and boiled, beaten with wooden mallets into a fibrous pulp, mixed with water, and spread onto cloth frames that dry in the sun. Each sheet has a slight texture and natural flecks.",
+        "Opening hours are informal and depend on the season and staff, so ask your hotel to check before you go. If work is under way, staff usually let visitors watch and photograph. You can buy plain sheets, notebooks and small cards, which make light, meaningful souvenirs. Buying directly supports the families who keep this skill alive."
+      ],
+      "good_for": ["students", "families", "photographers", "couples"],
+      "faqs": [
+        {"q": "Where can I see Monpa paper being made in Tawang?", "a": "A Monpa handmade paper unit operates in Tawang town, and the craft also has roots in Mukto village in the district. Hours are informal, so ask your hotel or taxi driver to confirm that work is happening on the day. Weekday mornings in the dry season are the best bet."},
+        {"q": "What is Mon shugu paper made from?", "a": "It is made from the inner bark of the shugu sheng shrub. The bark is soaked, boiled and pounded into pulp, then spread on frames and dried in the sun. The finished paper is tough, slightly textured and traditionally used for Buddhist texts."},
+        {"q": "Can I buy Mon shugu paper as a souvenir?", "a": "Yes. Sheets, notebooks and cards are usually on sale at the unit and in a few Tawang craft shops, at roughly ₹50–500 depending on size. Buying at the source means more of the money reaches the artisans."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Tawang?", "a": "Plan three nights in Tawang itself: one day for the monastery, Urgelling and the market, one for the high lakes circuit, and one spare for weather or rest. Add two days each way for the road from Guwahati, with a night at Dirang or Bomdila. A full trip from Guwahati is usually 6–8 nights."},
+    {"q": "Do I need a permit for Tawang?", "a": "Indian visitors need an Inner Line Permit that lists Tawang district, and foreigners need a Protected Area Permit. The lakes road towards the frontier and Bum La need an extra local permit, usually arranged by your driver through the Deputy Commissioner's office in Tawang a day ahead. Check current status before you travel."},
+    {"q": "Is Tawang open in winter?", "a": "Yes. Tawang is reachable through winter, and January brings the Torgya festival. Snow can close the Sela road for hours or a day, though the Sela Tunnel has made the route more reliable since 2024. Nights drop below freezing, some small lodges close, and high lakes freeze over."},
+    {"q": "Will I get altitude sickness in Tawang?", "a": "Tawang town is about 2,670 m, which most healthy people manage well with a gradual approach. The real jump is crossing Sela at about 4,170 m and visiting lakes near 4,000 m. Sleep at Dirang first, drink water, and rest if you get a headache. Talk to your doctor if you have heart or lung conditions."},
+    {"q": "How do I get from Guwahati to Tawang cheaply?", "a": "Take a shared Sumo from Guwahati for about ₹1,500–2,000 a seat, leaving early morning, or go to Tezpur by bus and take a Sumo from there. Breaking the trip in Bomdila or Dirang adds a cheap night but makes the drive safer and less tiring. Book seats a day ahead in October and May."},
+    {"q": "What is the weather like in Tawang?", "a": "Summer days from May to August are 15–20 °C with rain from June. October and November are clear, with nights near freezing. December to February bring daytime highs of about 5–10 °C, sub-zero nights and occasional snow. Carry a warm jacket at any time of year."},
+    {"q": "Is there mobile network and ATM in Tawang?", "a": "Tawang town has 4G from major networks and several ATMs, though cash can run short on holidays. Coverage drops on the high lakes road and around Sela. Carry enough cash for taxis, homestays and the extra permit, since UPI does not always work."},
+    {"q": "Is Tawang suitable for kids and senior travellers?", "a": "Yes, with care. The town altitude is manageable for most families, and hotels have heaters. The long road days are the hard part, so break the journey in Dirang. For children under five and older travellers with health conditions, avoid the high lakes and talk to your doctor before the trip."},
+    {"q": "When is the Torgya festival in Tawang?", "a": "Torgya is held at Tawang Monastery over three days in the 11th month of the Tibetan calendar, which usually falls in January. Monks perform masked dances in the courtyard and a ritual offering is burned on the final day. Dates shift each year, so check current status before you travel."}
+  ]
+}

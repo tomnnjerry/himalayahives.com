@@ -1,0 +1,146 @@
+{
+  "slug": "nainital",
+  "name": "Nainital",
+  "region": "kumaon",
+  "kind": "hill station",
+  "wiki": "Nainital",
+  "image_query": "Nainital lake Mall Road boats",
+  "lat": 29.38,
+  "lng": 79.45,
+  "altitude_m": 2084,
+  "tagline": "An eye-shaped lake, a Raj summer capital and the gateway to Kumaon",
+  "meta_description": "Nainital travel guide: the lake and Naina Devi temple, Snow View, Kainchi Dham, Corbett's Kaladhungi house, real costs, where to stay and when to go.",
+  "summary": "Nainital is Kumaon's busiest hill station, built around an eye-shaped lake at about 1,938 m, 35 km above Kathgodam railway station. Come for a dawn row to the Naina Devi temple, the ridge walks to Tiffin Top and Snow View, and day trips to Kainchi Dham and Kaladhungi. Two nights is right; avoid May weekends.",
+  "intro": [
+    "Nainital fills a bowl in the hills. The lake, about 1,433 m long and 463 m wide, lies at roughly 1,938 m, and the town climbs from its shore up seven named hills: Ayarpata, Deopata, Handi Bandi, Cheena (Naina Peak), Alma, Laria Kanta and Sher ka Danda. Mallital sits at the northern end with the Flats and the Naina Devi temple; Tallital sits at the southern outlet with the bus stand. The Mall Road links the two along the eastern shore in about 1.5 km.",
+    "The town is young by Kumaon standards. The sugar trader P. Barron built the first European house here in 1841, and within decades Naini Tal was the summer capital of the United Provinces, with a church, clubs, schools and the Governor's residence. The Kumaoni name for someone from here is Naintalwal. Hindu tradition holds the lake to be one of the Shakti Peeths, where the eye of the goddess Sati fell, which gives the town its name.",
+    "Nainital is also the easiest base for a first trip. It is about 1.5 hours from Kathgodam, 2.5 hours from Almora and close to Bhimtal, Sattal, Mukteshwar and Kainchi Dham. The trade-off is crowds: in May, June and on long weekends traffic can back up for kilometres. Come midweek, walk rather than drive inside town, and use early mornings, when the lake is still and the ridges are empty."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Pantnagar (≈ 70 km · 2 h)"],
+    ["From Kathgodam", "≈ 35 km · 1.25–1.5 h"],
+    ["Altitude", "1,938 m (lake) to about 2,100 m"],
+    ["Known for", "Naini lake, Naina Devi temple, ridge walks, Raj-era buildings"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Row to Naina Devi at first light", "text": "Hand-rowed boats leave from the Mallital and Tallital jetties. At 6 or 7 am the water is still and the Naina Devi temple on the north shore is quiet. Boat rates are fixed and posted on boards; agree the route before you start."},
+    {"title": "Tiffin Top on Ayarpata", "text": "A 4 km walk or pony ride from the Mall climbs through oak and deodar to Tiffin Top, also called Dorothy's Seat, at about 2,290 m. On clear mornings you see the snow peaks to the north and the plains to the south."},
+    {"title": "Snow View by ropeway", "text": "An aerial ropeway runs from Mallital to Snow View ridge at about 2,270 m in a few minutes. Ride up early before queues build, and walk down through the forest in about 45 minutes. In October the Nanda Devi group is visible from the top."},
+    {"title": "Naina Peak hike", "text": "Naina Peak, also called Cheena Peak, is the highest point around the town at about 2,615 m. The trail from Snow View or from the Mallital side takes 2–3 hours return and gives the widest view of the range in town."},
+    {"title": "St John in the Wilderness", "text": "Built in 1846, this stone church in the forest above Mallital is one of Nainital's oldest buildings. The churchyard holds graves of early residents, and a memorial lists victims of the 1880 landslip. Visit quietly outside service times."},
+    {"title": "Day trip to Kainchi Dham", "text": "Neem Karoli Baba's ashram, 17 km away on the Almora road, has a Hanuman temple consecrated in 1964. Go early on a weekday; on busy days police run shuttles from parking areas. Check current status before you travel."}
+  ],
+  "field_notes": [
+    {"fact": "Nainital as a European town began only in 1841, when the sugar trader P. Barron built Pilgrim Lodge on the lake shore after finding the lake on a trek through the hills.", "source": "Nainital"},
+    {"fact": "On 18 September 1880 a landslip on the Alma hillside buried 151 people, the Victoria Hotel and the old Naina Devi temple. The open ground called the Flats was laid out on the debris, and the temple was rebuilt.", "source": "Nainital"},
+    {"fact": "Naini lake is tectonic in origin. Its main feeder stream, the Balia Nala, runs along a fault line, and the lake was once nearly round until landslides gave it its crescent, eye-like shape.", "source": "Nainital Lake"}
+  ],
+  "local_word": {"word": "Tal", "language": "Kumaoni", "meaning": "lake; Naini Tal is the lake of the goddess Naina"},
+  "costs": [
+    ["Shared taxi seat, Kathgodam–Nainital", "₹200–300"],
+    ["Rowing boat on the lake (per boat, posted rate)", "₹300–600"],
+    ["Snow View ropeway, return", "₹250–400 per person"],
+    ["Guesthouse double, off-peak to peak", "₹2,000–4,500 a night"],
+    ["Kumaoni or North Indian thali at a dhaba", "₹180–300"],
+    ["Private taxi to Kainchi Dham and back", "₹1,200–1,800"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 70 km away, 2 hours by taxi via Haldwani. Flights from Delhi are few, so most travellers come by train. A taxi from Pantnagar costs about ₹2,500–3,500."},
+    {"mode": "Train", "text": "Kathgodam railway station is 35 km below Nainital. The Shatabdi from New Delhi arrives around midday; the Ranikhet Express arrives early morning. Shared taxis and Uttarakhand Roadways buses wait outside the station; the drive takes 1.25–1.5 hours."},
+    {"mode": "Road", "text": "Uttarakhand Roadways runs buses from Delhi's Anand Vihar to Nainital in about 8–9 hours, including overnight Volvo services. By car, Delhi to Nainital is about 320 km via Moradabad and Rampur. In peak season private cars are often stopped at outer parking lots; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: guesthouses in Mallital lanes and the KMVN rest houses at Sukhatal and Tallital start around ₹2,000 for a double off-peak; dorm beds exist in a few hostels. Comfort: The Naini Retreat on the Ayarpata slope, a former residence of the Maharaja of Pilibhit now run by Leisure Hotels as an IHCL SeleQtions property, has lake views and a quieter setting above the Mall. Many good mid-range hotels line the Mall, but rooms facing the road can be noisy. Signature-tier travellers usually prefer the hotels outside town at Mukteshwar or Kasar Devi.",
+  "stays": ["the-naini-retreat"],
+  "tips": [
+    "Arrive by train and walk; driving inside Nainital at peak hours can take longer than the Kathgodam climb.",
+    "Do the ropeway, boats and Naina Devi before 9 am, when queues are shortest.",
+    "Leopards live on the ridges around town, so do not walk forest trails alone after dark.",
+    "Carry a layer even in May; evenings on the lake drop to about 12–14 °C.",
+    "For Kainchi Dham, go on a weekday morning and follow the temple's current rules on phones and bags."
+  ],
+  "themes": ["family-holidays", "honeymoons", "photography", "pilgrimages"],
+  "nearby": ["bhimtal-sattal", "mukteshwar", "ranikhet", "almora"],
+  "experiences": [
+    {
+      "slug": "nainital-dawn-row-naina-devi",
+      "title": "A dawn row to the Naina Devi temple",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "6–8 am, Sep–Jun",
+      "cost": "Rowing boat ₹300–600 per boat at posted rates; temple free",
+      "image_query": "Naina Devi temple Nainital lake",
+      "wiki": "Nainital Lake",
+      "summary": "Start before the town wakes: a hand-rowed boat from Tallital across the still lake, the ridges lit from the east, then the Naina Devi temple on the north shore at Mallital as the first bells ring. It is the simplest way to understand how Nainital fits its bowl.",
+      "body": [
+        "Boats leave from jetties at both ends of the lake. Rowing boats are run by licensed boatmen, and rates are fixed by the local authority and painted on boards at each stand. Pedal boats are cheaper but slower. At dawn there is almost no wind, so the crossing from Tallital to Mallital, about 1.4 km, takes 25–30 minutes and the water reflects Ayarpata and Naina Peak.",
+        "The Naina Devi temple stands at the north-west corner of the lake beside the Flats. The goddess is worshipped here in the form of a pair of eyes, linked to the tradition that Sati's eye fell into the lake. The present temple replaced the one destroyed in the 1880 landslip. Morning aarti times vary by season, so ask at the gate. Leave shoes at the stand and keep cameras away inside the sanctum.",
+        "After the temple, walk across the Flats to see where the landslip debris was levelled, and then take tea at a Mallital stall. If you have energy, the ropeway to Snow View opens soon after and is quiet at this hour. Wear a warm layer: even in May the lake is cool at dawn, and from November to February it is close to freezing."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "What does a boat ride on Naini lake cost?", "a": "Rowing boats cost roughly ₹300–600 per boat for a set route, and pedal boats a little less, at rates fixed by the authority and posted at each jetty. Rates change, so read the board and agree the route before you start. Life jackets are provided and should be worn."},
+        {"q": "What time does the Naina Devi temple open?", "a": "The temple opens early in the morning and closes late evening, with a midday break on some days. Aarti times shift with the season. Arrive by 7 am for the quietest visit and check timings at the gate. Entry is free; leave shoes outside."},
+        {"q": "Is the dawn boat ride safe for children?", "a": "Yes, with life jackets, which boatmen provide. The lake is calm at dawn. Keep children seated and avoid boating during storms or strong afternoon wind. Mornings are cold, so dress children warmly from October to March."}
+      ]
+    },
+    {
+      "slug": "nainital-kainchi-dham-morning-visit",
+      "title": "An early visit to Kainchi Dham",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "7–10 am on weekdays, Sep–Apr",
+      "cost": "Free entry; shared taxi ₹100–200 a seat, private taxi ₹1,200–1,800 return",
+      "image_query": "Kainchi Dham ashram Nainital",
+      "wiki": "Kainchi Dham",
+      "summary": "Kainchi Dham is the ashram of Neem Karoli Baba on the Shipra stream, 17 km from Nainital. Its Hanuman temple was consecrated on 15 June 1964. Going early on a weekday lets you see the temples and riverside calmly, before the crowds and traffic that now fill weekends.",
+      "body": [
+        "The ashram takes its name from the two sharp hairpin bends on the road, which locals say look like scissors, kainchi in Hindi. It lies on the Nainital–Almora road beyond Bhowali, about 45 minutes from Nainital. Neem Karoli Baba chose the site in the early 1960s, and the Hanuman idol was installed on 15 June 1964, the date now marked by a large mela every year.",
+        "Western followers made it known abroad in the 1960s and 1970s, and in recent years visitor numbers have risen sharply; the state government reported about 2.4 million visitors in 2024. On weekends and holidays, police often stop private cars at parking areas and run shuttles. On a weekday morning outside June, you can still walk the temple courtyards and sit by the river without a queue.",
+        "Dress modestly, follow instructions on phones and photography, and do not bring food offerings from outside unless allowed. Prasad is distributed inside. The road continues to Almora, so many travellers visit on the way rather than as a separate trip. Avoid 15 June unless you are coming for the mela, and check current status before you travel."
+      ],
+      "good_for": ["seniors", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How far is Kainchi Dham from Nainital?", "a": "About 17 km, roughly 45 minutes by road via Bhowali on the Nainital–Almora route. Shared taxis run from Nainital and Bhowali. On busy days police may make you park outside and use shuttles, which adds time."},
+        {"q": "When is the Kainchi Dham mela?", "a": "The foundation-day mela is held every year on 15 June, marking the consecration of the Hanuman temple in 1964. It draws very large crowds, with road diversions on the Bhowali–Almora road for days around it. Check current status before you travel."},
+        {"q": "Can I take photos at Kainchi Dham?", "a": "Photography rules have tightened as visitor numbers have grown, and phones may be restricted in parts of the ashram. Follow the notices and volunteers at the gate. In any case, avoid photographing people at prayer."}
+      ]
+    },
+    {
+      "slug": "nainital-kaladhungi-corbett-house",
+      "title": "Jim Corbett's house at Kaladhungi",
+      "kind": "culture",
+      "duration": "4–5 hours with the drive",
+      "best_time": "Oct–Apr, morning",
+      "cost": "Museum entry ₹50–100; private taxi from Nainital ₹2,000–2,800 return",
+      "image_query": "Jim Corbett Museum Kaladhungi",
+      "wiki": "Kaladhungi",
+      "summary": "Jim Corbett, hunter of man-eaters and later a conservationist, spent his winters at Chhoti Haldwani near Kaladhungi, 35 km below Nainital. His house is now the Jim Corbett Museum, with his furniture, letters and the graves of his two dogs in the garden.",
+      "body": [
+        "Corbett grew up in Nainital, where his family spent summers, and wintered in the foothills at Kaladhungi. Kaladhungi means black stone, after the iron-rich rock once smelted here with forest charcoal. The road from Nainital drops about 1,500 m in 35 km through oak, then pine, then sal forest, which is itself a lesson in how altitude shapes the Kumaon forest.",
+        "The house at Chhoti Haldwani, about 2 km west of Kaladhungi on the Ramnagar road, is run as a museum by the forest department. Rooms hold Corbett's belongings, photographs, maps of the man-eater hunts he later described in his books, and in the garden the graves of his dogs. Allow an hour; there is a small shop selling his books.",
+        "Corbett helped the villagers of Chhoti Haldwani with land and farming, and the village still values that link. Combine the visit with a stop at the Corbett waterfall a few kilometres away, or continue to Ramnagar for Jim Corbett National Park, about 30 km further. Closing days and fees change, so check current status before you travel."
+      ],
+      "good_for": ["families", "students", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How do I get from Nainital to Kaladhungi?", "a": "Kaladhungi is about 35 km and 1.25 hours from Nainital by the Kaladhungi road. A private taxi round trip costs ₹2,000–2,800. Buses run between Haldwani, Kaladhungi and Ramnagar if you are heading on to Corbett National Park."},
+        {"q": "What is in the Jim Corbett Museum?", "a": "The museum occupies Corbett's winter house and keeps his furniture, photographs, letters and maps, with displays on the man-eater hunts and his later conservation work. The graves of his two dogs are in the garden. Allow about an hour."},
+        {"q": "Is the Corbett Museum open every day?", "a": "It is generally open daily except on some holidays, with a small fee. Timings change by season and the museum may close on certain days, so check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the best time to visit Nainital?", "a": "March to mid-June and mid-September to December are best. October and November give clear views from Snow View and Naina Peak with fewer people. May and early June are pleasant but crowded, with traffic jams on weekends. July and August are rainy with landslide risk on the access roads. January can bring frost and occasional snow."},
+    {"q": "How many days are enough for Nainital?", "a": "Two nights cover the lake, Naina Devi, Snow View, Tiffin Top and a day trip to Kainchi Dham or Bhimtal. Add a third night if you want Naina Peak or Kaladhungi. Many travellers use Nainital as the first stop before Almora, Mukteshwar or Ranikhet."},
+    {"q": "How do I reach Nainital from Kathgodam?", "a": "Shared taxis leave from outside Kathgodam station for ₹200–300 a seat and take 1.25–1.5 hours for 35 km. Uttarakhand Roadways buses are cheaper but less frequent. A private taxi costs about ₹1,500–2,200. Book ahead in peak season if arriving by the Shatabdi."},
+    {"q": "Is Nainital too crowded?", "a": "On long weekends and from mid-May to mid-June the Mall and lake can be very crowded, and cars queue for hours. Midweek, and in October, November and February, it is calm. Staying at Bhimtal or Sattal and visiting Nainital for a day is a good alternative in peak season."},
+    {"q": "Does it snow in Nainital?", "a": "Light snow falls in some winters, usually between late December and February, often after a western disturbance. It does not happen every year and usually melts within a day or two. The ridges such as Naina Peak and Snow View are more likely to get snow than the lake shore."},
+    {"q": "Can I bring my own car into Nainital?", "a": "Yes, but in peak season police may stop private cars at outer parking lots at Rusi Bypass or Narayan Nagar and run shuttles into town, and parking in town is limited. Check current status before you travel and confirm parking with your hotel."},
+    {"q": "Is Nainital good for a honeymoon?", "a": "It works for a short honeymoon if you avoid peak weekends and choose a stay above the Mall with a lake view. A quiet morning row, Tiffin Top walk and dinner overlooking the lights suit couples. Pair it with two nights in Mukteshwar or Kasar Devi for more calm."},
+    {"q": "What does a Nainital trip cost on a budget?", "a": "Expect ₹1,500–2,500 per person a day on a saver trip: a shared double in a Mallital guesthouse at ₹2,000–3,000, dhaba meals for ₹400–600, and boat or ropeway tickets. Costs rise sharply on long weekends and in May–June."},
+    {"q": "Is Nainital safe for solo travellers?", "a": "Yes, Nainital is busy and well policed, and solo travellers are common. Stay in the Mallital or Tallital areas, use registered taxis, and avoid forest trails after dark because of leopards and poor lighting. Tell your stay where you are going if you hike Naina Peak alone."}
+  ]
+}

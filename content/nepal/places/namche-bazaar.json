@@ -1,0 +1,145 @@
+{
+  "slug": "namche-bazaar",
+  "name": "Namche Bazaar",
+  "region": "nepal",
+  "kind": "town",
+  "wiki": "Namche Bazaar",
+  "image_query": "Namche Bazaar Khumbu horseshoe town",
+  "lat": 27.8048,
+  "lng": 86.714,
+  "altitude_m": 3440,
+  "tagline": "The Sherpa capital and the Everest trail's acclimatisation stop",
+  "meta_description": "Namche Bazaar guide: Sherpa capital at 3,440 m, Saturday market, acclimatisation hikes to Khumjung and Everest View, Lukla flights, permits, costs and stays.",
+  "summary": "Namche Bazaar is the main Sherpa town of the Khumbu at 3,440 m, two days' walk from Lukla on the Everest Base Camp trail. Trekkers spend two nights here to acclimatise, with a hike to Khumjung or the Everest View ridge. It has a Saturday market, gear shops, bakeries and lodges at every budget.",
+  "intro": [
+    "Namche is built in a horseshoe of terraces on a steep hillside above the Dudh Koshi and Bhote Koshi rivers, facing the peaks of Kongde Ri and Thamserku. It has long been a trading town: Sherpa traders exchanged goods from Tibet, which they brought over the Nangpa La pass, for grain and goods carried up from the lowlands, and the weekly market on Saturday mornings in the town centre still draws porters and traders from far down the valley.",
+    "It is often called the Sherpa capital, and many of the Sherpa families who work in trekking and mountaineering come from Namche and the villages around it, such as Khumjung, Khunde and Thame. Electricity comes from a small hydropower plant between Thame and Namche, opened in 1995, and the town has wifi, bakeries, banks and gear shops, which surprises many first-time visitors.",
+    "At 3,440 m, Namche is where altitude starts to matter. Every sensible Everest itinerary spends two nights here, using the middle day to climb higher and sleep low. The Sagarmatha National Park, a UNESCO World Heritage Site since 1979, runs a visitor centre on the ridge above town, with views of Everest on clear mornings."
+  ],
+  "facts": [
+    ["Best months", "Oct – Nov, Mar – May"],
+    ["Nights we suggest", "2 (acclimatisation)"],
+    ["Nearest airport", "Tenzing-Hillary Airport, Lukla (≈ 13 km)"],
+    ["From Lukla", "≈ 13 km · 2 days on foot via Phakding"],
+    ["Altitude", "3,440 m"],
+    ["Known for", "Sherpa culture, Saturday market, acclimatisation, Everest views"]
+  ],
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "The Saturday market", "text": "Every Saturday morning the town centre fills with traders selling grain, vegetables, eggs, cloth and household goods carried up from lower valleys. It is the Khumbu's weekly shop and a good place to see how the region is supplied."},
+    {"title": "Sagarmatha National Park visitor centre", "text": "On the ridge above town, the park's visitor centre explains the Khumbu's wildlife, Sherpa culture and mountaineering history. On clear mornings you see Everest, Lhotse and Ama Dablam from the hill nearby."},
+    {"title": "Khumjung and the Hillary school", "text": "A two-hour climb over the Syangboche ridge brings you to Khumjung at about 3,790 m, where Edmund Hillary's Himalayan Trust built a school in 1961. The village gompa keeps a purported yeti scalp."},
+    {"title": "Thamserku and Kongde across the gorge", "text": "Namche's lodges face Kongde Ri and Thamserku across the valley. At dawn and dusk the light on their ice faces is reason enough to sit on a terrace with a pot of tea."},
+    {"title": "Bakeries, gear and the last real shops", "text": "Namche is the last place on the trail with a wide choice of gear, snacks and medicine at reasonable prices. Buy what you forgot here; prices rise further up."}
+  ],
+  "field_notes": [
+    {"fact": "Namche Bazaar holds a weekly market on Saturday mornings in the town centre, and many of the Sherpa people working in trekking and mountaineering come from the Namche area.", "source": "Namche Bazaar"},
+    {"fact": "Namche's electricity comes from the 600 kW Thame–Namche hydropower plant, which opened in October 1995.", "source": "Namche Bazaar"},
+    {"fact": "Khumjung school, above Namche, was built by Edmund Hillary's Himalayan Trust in 1961. It began with two classrooms and now serves over 350 students.", "source": "Khumjung"}
+  ],
+  "local_word": {"word": "Tashi delek", "language": "Sherpa", "meaning": "greetings and good luck"},
+  "costs": [
+    ["Lukla flight one way (foreigner fare)", "₹16,000–19,000 (≈ USD 190–220)"],
+    ["Teahouse room", "₹300–1,500 a night (often cheap if you eat in)"],
+    ["Dal bhat in Namche", "₹550–800"],
+    ["Sagarmatha National Park entry", "₹940 SAARC (NPR 1,500); ₹1,875 others (NPR 3,000)"],
+    ["Khumbu Pasang Lhamu municipality fee", "₹1,250 SAARC (NPR 2,000); ₹1,875 others (NPR 3,000)"],
+    ["Hot shower / device charging", "₹200–500 each"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Lukla's Tenzing-Hillary Airport from Kathmandu (about 35 minutes) or, in peak spring and autumn seasons, from Ramechhap (Manthali), about 4 hours' drive from Kathmandu. Flights often wait for weather."},
+    {"mode": "Bus", "text": "Budget trekkers sometimes take a jeep from Kathmandu to Salleri or further towards Kharikhola and walk up to Lukla over 2–3 days, avoiding the flight. Check current status for road conditions before you travel."},
+    {"mode": "Road", "text": "No road reaches Namche. From Lukla it is about 13 km on foot: one day to Phakding (2,610 m) and a steep second day up to Namche, crossing the Hillary suspension bridge."}
+  ],
+  "where_to_stay": "Saver: Namche has dozens of family-run teahouse lodges with twin rooms, shared or attached bathrooms and heated dining rooms; rooms are cheap if you eat in, and dal bhat refills keep costs down. Comfort: better lodges have attached bathrooms, hot showers, electric blankets and bakeries. Signature: Mountain Lodges of Nepal (formerly Yeti Mountain Home) runs a lodge in Namche with heated rooms, en-suite bathrooms and good linens, part of a chain along the trail from Lukla.",
+  "stays": ["namche-bazaar-teahouse-lodges", "mountain-lodges-of-nepal-namche"],
+  "tips": [
+    "Spend two nights in Namche; climb high on the middle day and sleep low.",
+    "Buy forgotten gear here, not further up; prices rise with every day's walk.",
+    "Carry a water filter or tablets; bottled water is expensive and adds plastic.",
+    "Keep cash in NPR; the few ATMs can run dry in peak season.",
+    "Walk on the mountain side of yaks and porters on the trail, never the drop side."
+  ],
+  "themes": ["treks-and-walks", "monasteries", "photography", "adventure-sports"],
+  "nearby": ["kathmandu", "patan"],
+  "experiences": [
+    {
+      "slug": "namche-saturday-haat-market",
+      "title": "Namche's Saturday market",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "7–10 am, Saturdays",
+      "cost": "Free",
+      "image_query": "Namche Bazaar Saturday market",
+      "wiki": "Namche Bazaar",
+      "summary": "See how the Khumbu shops for the week: porters and traders from lower valleys lay out rice, vegetables, eggs, cloth and goods on the town square every Saturday morning. Time your acclimatisation day to fall on a Saturday.",
+      "body": [
+        "Namche has been a market town for generations. Sherpa traders once brought salt, wool and goods from Tibet over the Nangpa La, and exchanged them for grain from the lowlands. Today the Saturday market, held in the centre of town, is mostly lowland produce carried up for days by porters from places like Solu and the Dudh Koshi valley.",
+        "Arrive early. You will see sacks of rice, flour and lentils, piles of cabbages and potatoes, trays of eggs, dried meat, cooking oil, clothing, shoes and plastic goods. Buyers come from Khumjung, Thame and higher villages. Prices are higher than in Kathmandu because everything is carried on someone's back or a yak.",
+        "Ask before photographing people, and do not haggle hard over food prices; porters carry these loads for long days. A daily Tibetan market selling clothing and Chinese goods also runs near the town's entrance."
+      ],
+      "good_for": ["photographers", "students", "solo", "couples"],
+      "faqs": [
+        {"q": "What day is the Namche market?", "a": "Saturday mornings. Plan your acclimatisation day in Namche for a Saturday if you want to see it."},
+        {"q": "Can I buy trekking gear at the Namche market?", "a": "The weekly market is mostly food and household goods. Gear shops in town sell jackets, poles and sleeping bags every day."},
+        {"q": "Why are prices higher in Namche?", "a": "Almost everything is carried up by porters or yaks for several days, so transport costs are built into prices."}
+      ]
+    },
+    {
+      "slug": "namche-khumjung-acclimatisation-hike",
+      "title": "Acclimatisation hike to Khumjung",
+      "kind": "trek",
+      "duration": "4–6 hours",
+      "best_time": "7 am–1 pm, Oct–May",
+      "cost": "Free; monastery donation; guide included in trek",
+      "image_query": "Khumjung village Ama Dablam",
+      "wiki": "Khumjung",
+      "summary": "The classic climb-high, sleep-low day: up from Namche over the Syangboche ridge to Khumjung at about 3,790 m, with Everest, Lhotse and Ama Dablam in view, Hillary's school and the gompa's yeti scalp, then back down to sleep in Namche.",
+      "body": [
+        "Leave Namche after breakfast and climb steeply above town past the national park visitor centre to the Syangboche ridge, with its unused airstrip. Go slowly; this is the point of the day. On clear mornings you will see Everest's summit above the Nuptse–Lhotse wall, and Ama Dablam's pointed peak ahead.",
+        "Drop into Khumjung, a broad village of stone houses and potato fields at about 3,790 m, beside Khunde. The Khumjung school was built by Edmund Hillary's Himalayan Trust in 1961 and has grown from two classrooms to over 350 students. The village gompa keeps a purported yeti scalp, shown for a small donation.",
+        "Have tea or lunch in Khumjung, then return to Namche by a lower trail. Sleeping back at 3,440 m after climbing to nearly 3,800 m helps your body adapt. Drink 3–4 litres of water during the day and tell your guide if you get a headache that will not go away."
+      ],
+      "good_for": ["students", "couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "Why is an acclimatisation day needed in Namche?", "a": "Climbing higher in the day and sleeping lower helps your body adjust to thinner air before you go above 4,000 m. It reduces the risk of altitude sickness."},
+        {"q": "Can I see Everest from Khumjung?", "a": "Yes, on clear days from the ridge between Namche and Khumjung, Everest's summit shows above the Nuptse–Lhotse wall."},
+        {"q": "Is the yeti scalp real?", "a": "It is a purported relic kept by the monastery. Scientists have studied similar relics and found them to be animal skin. Treat it as part of local tradition."}
+      ]
+    },
+    {
+      "slug": "namche-tengboche-monastery-visit",
+      "title": "Afternoon prayers at Tengboche monastery",
+      "kind": "spiritual",
+      "duration": "Day 5 of most EBC treks; 1–2 hours at the gompa",
+      "best_time": "3 pm prayers, Oct–Nov, Mar–May",
+      "cost": "Donation; small museum fee",
+      "image_query": "Tengboche monastery Ama Dablam",
+      "wiki": "Tengboche Monastery",
+      "summary": "Tengboche, at 3,867 m on a ridge a day's walk from Namche, is the largest gompa in the Khumbu. Arrive for afternoon prayers, with Ama Dablam and Everest framing the courtyard, and learn how the monastery survived an earthquake and a fire.",
+      "body": [
+        "From Namche, the trail contours high above the Dudh Koshi with views of Everest, Lhotse and Ama Dablam, drops to the river at Phunki Tenga and then climbs steeply for about two hours through rhododendron and fir forest to Tengboche, on a saddle at 3,867 m. Most trekkers walk it in 5–6 hours.",
+        "The monastery was founded in 1916 by Lama Gulu. It was destroyed by an earthquake in 1934 and rebuilt, then burned in 1989 when an electrical fault started a fire that destroyed old scriptures, statues and murals. It was rebuilt again with help from donors around the world. Monks hold prayers in the afternoon; visitors may sit quietly at the back, shoes off and phones away.",
+        "Tengboche hosts Mani Rimdu, a festival of prayers, sand mandalas and masked dances held in October or November by the Tibetan calendar. Many trekkers sleep at Tengboche or at Deboche, 20 minutes below, rather than Namche on this night. Photography inside the prayer hall is usually not allowed."
+      ],
+      "good_for": ["couples", "solo", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Can visitors attend prayers at Tengboche?", "a": "Yes, usually in the afternoon. Sit at the back, remove shoes, keep silent and do not photograph inside unless permitted."},
+        {"q": "When is Mani Rimdu at Tengboche?", "a": "In October or November, depending on the Tibetan calendar. Check current status before you travel and book lodges early."},
+        {"q": "What altitude is Tengboche?", "a": "About 3,867 m. It is a common overnight stop after Namche on the Everest Base Camp trek."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days does it take to reach Namche Bazaar?", "a": "Two days from Lukla: a short first day to Phakding (2,610 m) and a steep second day to Namche (3,440 m). Add a day to fly or drive from Kathmandu or Ramechhap to Lukla, and plan two nights in Namche."},
+    {"q": "Do I need a guide to trek to Namche Bazaar?", "a": "The Khumbu Pasang Lhamu municipality has not applied Nepal's 2023 mandatory guide rule, so independent trekking has continued. We still recommend a licensed guide for first-timers, especially for altitude. Check current status before you travel."},
+    {"q": "What permits are needed for Namche Bazaar?", "a": "The Sagarmatha National Park entry permit (NPR 1,500 SAARC, NPR 3,000 others) and the Khumbu Pasang Lhamu municipality fee (NPR 2,000 SAARC and China, NPR 3,000 others), paid at Monjo and Lukla. Check current status before you travel."},
+    {"q": "Is altitude sickness common in Namche?", "a": "Mild headache and breathlessness are common at 3,440 m. Serious illness is less common if you ascend slowly and spend two nights here. Descend if symptoms worsen. Talk to your doctor about acetazolamide before you travel."},
+    {"q": "Is there wifi and mobile network in Namche?", "a": "Yes. Most lodges sell wifi, and Nepal Telecom and Ncell 4G work in town. Prepaid wifi cards for the trail are sold in Namche."},
+    {"q": "Are there ATMs in Namche Bazaar?", "a": "There are a few, but they can be out of cash or service. Carry enough NPR from Kathmandu for the whole trek."},
+    {"q": "When is the best time to visit Namche?", "a": "October–November for the clearest skies and March–May for warmer days and rhododendrons. December–February is cold but quiet. The monsoon brings cloud, leeches lower down and frequent flight cancellations."},
+    {"q": "Can I see Everest from Namche?", "a": "Not from the town itself. Climb 20–30 minutes to the national park visitor centre or the Everest View ridge above town for the view."},
+    {"q": "How much money do I need per day in Namche?", "a": "On a saver budget, ₹2,500–3,500 a day for room, three meals and tea, more for hot showers, charging and wifi. Prices rise further up the trail."}
+  ]
+}

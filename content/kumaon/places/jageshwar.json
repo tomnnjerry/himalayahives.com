@@ -1,0 +1,145 @@
+{
+  "slug": "jageshwar",
+  "name": "Jageshwar",
+  "region": "kumaon",
+  "kind": "pilgrimage town",
+  "wiki": "Jageshwar",
+  "image_query": "Jageshwar temples deodar Almora",
+  "lat": 29.64,
+  "lng": 79.85,
+  "altitude_m": 1870,
+  "tagline": "Over a hundred stone temples in a deodar valley",
+  "meta_description": "Jageshwar guide: the 125-temple ASI site, Dandeshwar, the site museum, Vriddh Jageshwar hike, Shravan festival, costs and how to reach from Almora.",
+  "summary": "Jageshwar is a temple town 36 km north-east of Almora at about 1,870 m, where a group of about 125 cut-stone temples, built between roughly the 7th and 14th centuries, stands among deodar trees beside the Jataganga stream. It is protected by the ASI. Come for a dawn walk, the museum and a hike to Vriddh Jageshwar; one or two nights is ideal.",
+  "intro": [
+    "The road to Jageshwar leaves the Almora–Pithoragarh highway at Artola, where two streams called Nandini and Surabhi meet, and follows the Jataganga up a narrow valley of deodar, oak and rhododendron. Within 3 km the first temples appear on the left bank at Dandeshwar, and then the main Jageshwar group, a walled compound of stone towers of every size around a central courtyard.",
+    "The main site holds around 125 temples, most dedicated to Shiva, with others to Vishnu, the goddess and Surya. They are mostly in the North Indian Nagara style, with curved towers, though a few show designs from further south. Across the whole valley, counting the Dandeshwar group and smaller clusters, there are well over 200 structural temples. Hindu texts from before the 10th century already name Jageshwar as a pilgrimage site.",
+    "The Archaeological Survey of India manages the site and runs a small museum with sculptures moved from the temples for protection. Jageshwar is a living shrine: priests perform daily puja, and the Shravan month in July and August and Maha Shivratri in early spring draw large crowds. The rest of the year it is quiet, and early mornings among the towers and deodars are memorable."
+  ],
+  "facts": [
+    ["Best months", "Sep – Jun"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Pantnagar (≈ 150 km · 4.5–5 h)"],
+    ["From Almora", "≈ 36 km · 1.25–1.5 h"],
+    ["Altitude", "about 1,870 m"],
+    ["Known for", "ASI temple group, deodar forest, Shravan festival"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The main temple compound at dawn", "text": "Enter the main Jageshwar group soon after it opens, when priests are cleaning lamps and the light is low across the stone towers. Walk the courtyard slowly; the shrines range from small single cells to tall curved towers."},
+    {"title": "Dandeshwar temple group", "text": "About 1 km before the main site, Dandeshwar has its own large temple and a cluster of smaller shrines by the stream. It is often quieter than Jageshwar and worth a separate stop on foot."},
+    {"title": "ASI site museum", "text": "The Archaeological Survey of India's museum near the main temples holds carved stone images moved from the shrines for safekeeping, from deities to temple fragments. Allow 45 minutes; it is closed on some days."},
+    {"title": "Deodar grove by the Jataganga", "text": "Huge deodar trees line the stream around the temples, some treated as sacred. A short walk along the water between the two temple groups is shaded and cool even in May."},
+    {"title": "Hike to Vriddh Jageshwar", "text": "A trail climbs from Jageshwar to Vriddh Jageshwar, an older shrine on the ridge above, with views of the snow peaks on clear days. Allow 3–4 hours return, or drive part of the way by the road."}
+  ],
+  "field_notes": [
+    {"fact": "Jageshwar's main valley holds about 125 temples dated between roughly the 7th and 14th centuries, and the wider valley's clusters together contain over 200 structural temples built of cut stone.", "source": "Jageshwar"},
+    {"fact": "Most Jageshwar temples follow the North Indian Nagara style with curved towers, but a few show South and Central Indian design features, a sign of the many builders who worked here over centuries.", "source": "Jageshwar"},
+    {"fact": "Jageshwar is managed and protected by the Archaeological Survey of India, which also keeps a site museum holding sculptures taken from the temples for their protection.", "source": "Archaeological Survey of India"}
+  ],
+  "local_word": {"word": "Kauthig", "language": "Kumaoni", "meaning": "a fair or mela, such as the gatherings at Jageshwar in Shravan"},
+  "costs": [
+    ["Shared jeep seat, Almora–Jageshwar", "₹80–150"],
+    ["Private taxi, Almora–Jageshwar one way", "₹1,500–2,200"],
+    ["ASI museum entry", "Small fee, usually under ₹50"],
+    ["Guesthouse double near the temples", "₹1,200–2,500 a night"],
+    ["Puja with a temple priest", "₹300–1,000 by offering"],
+    ["Simple thali at a local dhaba", "₹120–200"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 150 km away, 4.5–5 hours by taxi via Almora. A taxi costs roughly ₹5,000–6,500."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 125 km away. Take a shared taxi to Almora, about 3 hours, and then a shared jeep or taxi on to Jageshwar."},
+    {"mode": "Road", "text": "From Almora, take the Pithoragarh road east to Artola, about 33 km, then turn into the Jataganga valley for the last 3 km. Shared jeeps and some buses run from Almora; Jageshwar also has road links to Pithoragarh, about 88 km. Check current status before you travel in the monsoon."}
+  ],
+  "where_to_stay": "Saver: Jageshwar has a handful of simple guesthouses and lodges near the temples from about ₹1,200 a night, plus pilgrim rest houses that fill in Shravan. Comfort: a few small resorts and homestays lie in the deodar forest and nearby villages within 2–5 km, some with heated rooms. There is no luxury hotel here; signature trips usually visit from The Kumaon at Kasar Devi or Mary Budden Estate in Binsar, both about 1.5–2 hours away.",
+  "stays": [],
+  "tips": [
+    "Visit the main temples at opening time for quiet and soft light, before tour groups arrive at midday.",
+    "Photography is usually allowed in the courtyard but not inside the sanctum; follow posted ASI rules.",
+    "Wear socks; stone courtyards are freezing barefoot in winter mornings.",
+    "Book ahead for Shravan Mondays and Maha Shivratri, when rooms and parking run short.",
+    "Check the ASI museum's weekly closing day before you plan your visit."
+  ],
+  "themes": ["pilgrimages", "photography", "festivals", "treks-and-walks"],
+  "nearby": ["almora", "binsar", "chaukori"],
+  "experiences": [
+    {
+      "slug": "jageshwar-temple-group-dawn-walk",
+      "title": "Dawn walk through the Jageshwar temples",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Opening time, Sep–Jun",
+      "cost": "Free entry; puja by offering",
+      "image_query": "Jageshwar temple complex Uttarakhand",
+      "wiki": "Jageshwar",
+      "summary": "Walk among about 125 stone temples in the main Jageshwar compound at opening time, as priests begin the day's puja and mist lifts off the deodars. It is the best way to feel the scale of a site that pilgrims have visited for more than a thousand years.",
+      "body": [
+        "The main compound sits on the south side of the road beside the Jataganga stream. Inside, temples of many sizes stand close together around paved courtyards, with the largest towers dedicated to Shiva as Jageshwar and Mrityunjaya. Many have the curved Nagara-style shikhara, topped with a ribbed stone disc and finial, and some have small wooden canopies added later.",
+        "Arrive soon after opening. In the early hours the temple priests wash the lingams and light lamps, devotees ring bells and the courtyard smells of ghee and incense. You can watch quietly or arrange a puja through a priest; offerings are voluntary. Keep to the paths, do not climb on structures, and ask before photographing any ritual.",
+        "Allow time to look at the details: carved doorframes with river goddesses, small niches with deities, and inscriptions on some pillars. The ASI museum just outside holds the finest loose sculptures. In winter the stone is icy underfoot, so wear socks. In Shravan, from July to August, the compound is crowded all day."
+      ],
+      "good_for": ["seniors", "photographers", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How many temples are there at Jageshwar?", "a": "The main Jageshwar group has about 125 temples, built between roughly the 7th and 14th centuries. Including Dandeshwar and other clusters in the valley, there are well over 200 structural stone temples."},
+        {"q": "Is Jageshwar a Jyotirlinga?", "a": "Jageshwar is regarded by many devotees as one of the twelve Jyotirlingas, as Nageshvara, though this identification is disputed with a temple in Gujarat. Either way, it is one of Kumaon's most important Shiva shrines."},
+        {"q": "Can I take photos inside Jageshwar temples?", "a": "Photography is usually allowed in the open courtyard but not inside the sanctum or during certain rituals. Follow posted ASI rules and ask priests before photographing puja."}
+      ]
+    },
+    {
+      "slug": "jageshwar-museum-and-dandeshwar",
+      "title": "The ASI museum and Dandeshwar temples",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "10 am–4 pm, all year",
+      "cost": "Museum fee usually under ₹50; Dandeshwar free",
+      "image_query": "Dandeshwar temple Jageshwar",
+      "wiki": "",
+      "summary": "See the carved stone figures that the Archaeological Survey of India has moved from the temples into its site museum, then walk 1 km downstream to the Dandeshwar group, often quieter than the main compound.",
+      "body": [
+        "The ASI's site museum near the main temples displays sculptures from Jageshwar and nearby shrines, protected here from theft and weather. Look for images of Shiva, Vishnu, Uma-Maheshwar, and the river goddesses Ganga and Yamuna, and for carved architectural pieces from fallen shrines. Labels are brief, so take a guide or read up beforehand. Museums of the ASI usually close one day a week.",
+        "From the museum, walk along the road and stream towards Almora for about 1 km to Dandeshwar. The largest temple here, also to Shiva, has a tall tower, and smaller shrines cluster around it near the water. Fewer visitors come here, and the setting under deodars is calm.",
+        "Seeing both groups and the museum explains how the valley grew as a pilgrimage centre over centuries, with royal patrons adding temples in different styles. It is an easy, mostly flat walk. In Shravan or on Shivratri, the road between the groups is busy, so go early."
+      ],
+      "good_for": ["students", "seniors", "photographers", "families"],
+      "faqs": [
+        {"q": "What is in the Jageshwar museum?", "a": "The ASI site museum displays stone and metal sculptures from the Jageshwar temples and nearby sites, moved there for protection, including images of Shiva, Vishnu and the river goddesses. Allow about 45 minutes."},
+        {"q": "How far is Dandeshwar from Jageshwar?", "a": "About 1 km down the valley towards Artola, an easy walk along the road beside the Jataganga stream."},
+        {"q": "When is the Jageshwar museum closed?", "a": "Like many ASI museums it closes one day a week and on some holidays. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "jageshwar-vriddh-jageshwar-hike",
+      "title": "Hike to Vriddh Jageshwar on the ridge",
+      "kind": "trek",
+      "duration": "3–4 hours return",
+      "best_time": "Morning, Oct–May",
+      "cost": "Free; local guide ₹800–1,500",
+      "image_query": "Vriddh Jageshwar temple ridge",
+      "wiki": "",
+      "summary": "Climb through oak and pine from the Jageshwar valley to Vriddh Jageshwar, the old Jageshwar shrine on the ridge above, for a quieter temple and, on clear days, snow peaks to the north. It is a good half-day walk for fit travellers.",
+      "body": [
+        "Vriddh Jageshwar, old Jageshwar, is a temple on the ridge above the valley, regarded locally as an older seat of the deity. A footpath climbs from near the main temples through forest and fields; it is steep in places and gains a few hundred metres. A road also reaches it from the other side, so you can walk one way and drive back if you arrange a car.",
+        "The walk passes terraced fields and small hamlets where people may offer tea. Near the top the forest opens and on clear mornings from October to February the snow peaks show to the north. The shrine itself is small and quiet, with a priest present at certain times.",
+        "Start early and carry water and snacks. Paths can be confusing where they fork; a local guide from Jageshwar avoids wrong turns and adds stories. Avoid the walk in the monsoon, when it is slippery and leech-prone, and do not start late in the afternoon."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How hard is the Vriddh Jageshwar hike?", "a": "It is a moderate half-day walk with a steady climb of a few hundred metres on footpaths. Fit walkers manage it in 3–4 hours return. Use good shoes and carry water."},
+        {"q": "Can I drive to Vriddh Jageshwar?", "a": "Yes, a road reaches the ridge from the other side. Many visitors walk up from Jageshwar and arrange a taxi to bring them back, or drive both ways."},
+        {"q": "Do I need a guide for Vriddh Jageshwar?", "a": "Not strictly, but the paths fork and are not well marked. A guide from Jageshwar costs about ₹800–1,500 and saves time."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Jageshwar from Almora?", "a": "About 36 km, 1.25–1.5 hours by road via Artola on the Almora–Pithoragarh highway. Shared jeeps cost ₹80–150 a seat and taxis ₹1,500–2,200 one way."},
+    {"q": "What is the best time to visit Jageshwar?", "a": "September to June. October and November are clear and calm; February and March are cold but quiet. Shravan, in July and August, is the main festival month but brings rain and crowds. Maha Shivratri, in February or March, is also very busy."},
+    {"q": "Can I visit Jageshwar as a day trip from Almora?", "a": "Yes, easily. Leave early, see both temple groups and the museum, and return by evening. Staying a night lets you see the temples at dawn, which we recommend."},
+    {"q": "Is Jageshwar crowded?", "a": "It is quiet most of the year, but very busy on Shravan Mondays, Maha Shivratri and some holiday weekends. Visit early in the day for a calm experience."},
+    {"q": "What is the dress code at Jageshwar?", "a": "There is no strict dress code, but modest clothing is expected. Shoes are removed before entering the temple courtyard and shrines. Socks help on cold stone in winter."},
+    {"q": "Are there hotels in Jageshwar?", "a": "There are simple guesthouses and lodges near the temples and a few small resorts and homestays within a few kilometres. Rooms are basic but clean; book ahead for festival days."},
+    {"q": "Is there an ATM in Jageshwar?", "a": "Do not rely on finding one. Withdraw cash in Almora before you come. UPI works in most shops where there is signal."},
+    {"q": "Who built the Jageshwar temples?", "a": "The temples were built over many centuries, from roughly the 7th to the 14th, under different patrons including Katyuri and later Chand rulers. Their exact origins are unclear and dates vary widely between scholars."},
+    {"q": "Can I combine Jageshwar with other places?", "a": "Yes. Jageshwar pairs well with Almora and Binsar on a four- or five-night trip, and lies on the road towards Pithoragarh and Chaukori if you are heading east."}
+  ]
+}

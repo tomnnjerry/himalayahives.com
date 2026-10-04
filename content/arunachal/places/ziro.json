@@ -1,0 +1,146 @@
+{
+  "slug": "ziro",
+  "name": "Ziro",
+  "region": "arunachal",
+  "kind": "valley",
+  "wiki": "Ziro",
+  "image_query": "Ziro valley paddy fields Apatani",
+  "lat": 27.588,
+  "lng": 93.828,
+  "altitude_m": 1688,
+  "tagline": "The Apatani valley of rice, fish and pine",
+  "meta_description": "Ziro travel guide: Apatani villages, paddy-cum-fish farming, the music festival, homestays, Talle valley, real costs and how to reach from Itanagar.",
+  "summary": "Ziro is a broad valley at about 1,500–1,700 m in Lower Subansiri district, home of the Apatani people and 115 km from Itanagar. Its permanent rice terraces, where fish grow among the paddy, are on UNESCO's tentative World Heritage list. Stay 3–4 nights in an Apatani homestay; come in April, late September or October.",
+  "intro": [
+    "Ziro is unusual in the Himalaya: a flat, oval valley ringed by pine and bamboo hills, with rice fields filling the floor and large villages packed along its edges. The district town, Hapoli, has the market, offices and Sumo stand; the older Apatani villages such as Hong, Hari, Hija and Bulla lie a few kilometres away, their wooden houses on stilts built close together in long rows.",
+    "The Apatani have farmed this valley for generations without shifting cultivation. They level terraces, channel water from forested streams, and grow rice with fish in the same flooded fields, while finger millet grows on the bunds. Pine and bamboo groves on the hills are owned and managed by clans and families. The whole system is listed on UNESCO's tentative World Heritage list as the Apatani Cultural Landscape.",
+    "Life follows the farming calendar and the indigenous faith. Myoko in spring and Dree on 5 July are the big community festivals, and the Ziro Festival of Music brings musicians and campers in late September. Some older women still wear the wooden nose plugs and facial tattoos of an earlier generation; ask before photographing anyone. The best way to understand Ziro is to stay with an Apatani family and walk the fields with them."
+  ],
+  "facts": [
+    ["Best months", "Mar – Apr, Sep – Nov"],
+    ["Nights we suggest", "3–4"],
+    ["Nearest airport", "Donyi Polo Airport, Hollongi (≈ 140 km)"],
+    ["From Itanagar", "≈ 115 km · 4–5 h"],
+    ["Altitude", "1,688 m (sources give 1,500–1,700 m across the valley)"],
+    ["Known for", "Apatani villages, paddy-cum-fish fields, Ziro Festival of Music, Dree, Myoko"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 1, 0, 2, 2, 2, 1],
+  "nights": "3–4",
+  "highlights": [
+    {"title": "Apatani villages", "text": "Hong, Hari, Hija and Bulla are large, tightly built villages of wooden stilt houses, granaries and clan platforms. Walk with a local guide or homestay host, who can explain clan layouts, household shrines and the rules about where visitors may go."},
+    {"title": "Rice and fish in the same field", "text": "In April the terraces are flooded and planted, and fish fingerlings are released among the rice; millet grows on the bunds. By September and October the fields turn gold and the fish are harvested with the grain."},
+    {"title": "Ziro Festival of Music", "text": "Since 2012 this outdoor festival has brought independent musicians, many from northeast India, to a hillside stage among the paddies for four days in late September. Campers fill the valley, and homestays book out months ahead."},
+    {"title": "Pine and bamboo groves", "text": "The hills around the valley are planted and managed by Apatani clans for pine and bamboo, used for building, fuel and food. Short walks into the groves show how the forest and the fields depend on each other."},
+    {"title": "Talle Valley Wildlife Sanctuary", "text": "About 30 km from Hapoli, Talle Valley protects high forest, streams and bamboo at around 2,000–2,400 m. Visits need forest permission and a local guide, and the day hike suits fit walkers."},
+    {"title": "Apatani food and rice beer", "text": "Try pike pila, a sharp bamboo-shoot and pork-fat pickle, smoked meats, sticky rice and home-brewed rice beer. Ask your host about tapyo, the traditional salt made from plant ash."}
+  ],
+  "field_notes": [
+    {"fact": "India submitted the Apatani Cultural Landscape in Ziro valley to UNESCO's tentative World Heritage list in 2014. The listing highlights rice paddies where fish are reared and millet is grown on the bunds between plots.", "source": "UNESCO World Heritage Centre"},
+    {"fact": "Dree, the Apatani agricultural festival, is celebrated every year on 5 July to keep pests, disease and famine from the crops. It was unified from scattered village rituals into one central celebration in 1967.", "source": "Dree Festival"},
+    {"fact": "Hapoli, Ziro's administrative and market centre, takes its name from the Apatani 'Hao-Polyang'. The Apatani practise permanent wet paddy cultivation, unlike neighbouring communities that traditionally practised shifting cultivation.", "source": "Ziro"}
+  ],
+  "local_word": {"word": "Pike pila", "language": "Apatani", "meaning": "pickle of bamboo shoot, pork fat and chilli"},
+  "costs": [
+    ["Shared Sumo seat, Itanagar or Naharlagun–Ziro", "₹500–800"],
+    ["Apatani homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Local guide for a village walk", "₹1,000–2,000 a day"],
+    ["Taxi for a day around the valley", "₹2,000–3,000 per vehicle"],
+    ["Ziro Festival of Music pass, 4 days", "From about ₹3,700 for 2026; camping extra"],
+    ["Plate of rice with smoked pork and pickle", "₹150–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Donyi Polo Airport at Hollongi, near Itanagar, has flights from Delhi, Kolkata and Guwahati; Ziro is about 4–5 hours away by road. Ziro's own airstrip has had limited regional flights; check current status before you travel."},
+    {"mode": "Bus", "text": "Shared Sumos run from Itanagar and Naharlagun to Ziro, mostly leaving early morning, for about ₹500–800 a seat. Naharlagun railway station is served by trains from Guwahati and a few long-distance trains."},
+    {"mode": "Road", "text": "From Itanagar the drive is about 115 km and 4–5 hours through Yazali. From Guwahati it is a long day of about 10–12 hours via the Assam plains. Roads can be broken in the monsoon."}
+  ],
+  "where_to_stay": "Saver: Apatani family homestays in Hong, Hari, Hija and Siiro villages charge about ₹1,500–2,500 per person with dinner and breakfast; rooms are wooden and simple, often with shared bathrooms, and hosts cook home food. Hapoli also has budget hotels such as Hotel Blue Pine. Comfort: the better homestays with attached bathrooms are our usual comfort choice. Signature: Ziro has no luxury hotel; Siiro Resort, a pine-wood boutique property in Siiro village, is the most comfortable stay we know, and it books out early for the festival.",
+  "stays": ["ziro-apatani-homestays", "siiro-resort-ziro"],
+  "tips": [
+    "Stay in a homestay inside an Apatani village rather than a Hapoli hotel; the evenings with your host are the point of coming.",
+    "Ask before photographing older women with facial tattoos and nose plugs, and accept a no gracefully.",
+    "Walk on the bunds only where your host shows you; the fields are working farms with fish in the water.",
+    "Book everything by June if you plan to come for the Ziro Festival of Music.",
+    "Carry cash; card and UPI acceptance is patchy outside Hapoli."
+  ],
+  "themes": ["homestays-and-villages", "festivals", "food-and-tea", "photography", "treks-and-walks"],
+  "nearby": ["pasighat", "mechuka", "bhalukpong"],
+  "experiences": [
+    {
+      "slug": "ziro-apatani-village-walk-hong-hari",
+      "title": "Apatani village walk in Hong and Hari",
+      "kind": "village",
+      "duration": "Half day",
+      "best_time": "Morning, Mar–Apr and Sep–Nov",
+      "cost": "Guide ₹1,000–2,000; small gift or contribution if invited into a home",
+      "image_query": "Apatani village Hong Ziro",
+      "wiki": "Apatani people",
+      "summary": "Walk through two large Apatani villages with a local guide: stilt houses, granaries, clan platforms, shrines and the rice fields beyond, with stops for tea in a family kitchen.",
+      "body": [
+        "Hong is one of the largest Apatani villages, a dense grid of wooden houses raised on posts, their bamboo floors and smoky kitchens arranged around a central hearth. Granaries stand a little apart, a precaution against fire. Lanes open into small squares with raised wooden platforms where clans meet, and tall ritual poles and shrines mark sacred spaces. Hari, a short drive away, is smaller and quieter, with fields running right up to its edges.",
+        "A guide from the village is essential. They can explain how clans divide land and forest, how village councils settle disputes, and which spaces are off-limits to visitors during rituals. If a family invites you in, remove your shoes, sit where you are shown, and accept tea or rice beer politely; it is fine to sip and set it down. Some older residents wear traditional nose plugs and facial tattoos. Ask before taking any photograph.",
+        "Finish by walking out onto the bunds between the fields with your guide. In spring you see flooded terraces and young rice; in autumn, golden crops and fish being collected. The paths are narrow and slippery after rain, so wear shoes with grip. A half day is enough for two villages, and many travellers return to their favourite for a quiet evening walk."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Do I need a guide to visit Apatani villages?", "a": "It is strongly recommended. A guide from the village helps you understand what you see, introduces you to families and keeps you away from ritual spaces at sensitive times. Expect to pay about ₹1,000–2,000 for a half or full day. Homestay hosts can usually arrange one."},
+        {"q": "Can I photograph Apatani women with nose plugs?", "a": "Only with clear permission. The nose plugs and facial tattoos were common among older generations and are not practised by younger Apatani. Many people dislike being treated as photo subjects. Ask first, accept a refusal, and never photograph secretly."},
+        {"q": "Which Apatani village is best to visit?", "a": "Hong is the largest and most striking, while Hari, Hija and Bulla are smaller and quieter. Staying in one of them gives the most natural experience. Your homestay host can suggest which village has events or ceremonies during your stay."}
+      ]
+    },
+    {
+      "slug": "ziro-apatani-kitchen-pike-pila-rice-beer",
+      "title": "An Apatani kitchen: pike pila and rice beer",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Evening, all year",
+      "cost": "Usually included with homestay dinner; cooking session ₹500–1,000 extra",
+      "image_query": "Apatani food Ziro",
+      "wiki": "",
+      "summary": "Cook and eat with an Apatani family around the hearth: smoked pork, bamboo shoot, sticky rice, pike pila pickle and home-brewed rice beer, with talk of tapyo, the valley's old plant-ash salt.",
+      "body": [
+        "Dinner in an Apatani house happens around the fire in the middle of the main room, with meat and bamboo shoots hanging to smoke on racks above. Your host may cook rice, a pork or chicken dish, wild greens from the hills and fish from the paddies. The star condiment is pike pila, a sharp pickle made with bamboo shoot, pork fat and chillies. It is strong, so taste a little first.",
+        "Rice beer is brewed at home and offered as hospitality. You may decline politely or take a few sips; no one expects you to drink a lot. Ask your host about tapyo, the traditional Apatani salt. With no salt deposits in the valley, people once made it from the ash of burnt plants, filtered and dried into a grey cake, and some families still prepare it for special dishes and rituals.",
+        "If you would like to help cook, ask in advance; many homestays are happy to show how they prepare bamboo shoot or smoke meat. Vegetarians should say so early, since many dishes include pork or fish. Eat what you are offered with thanks, leave a little on your plate if you are full, and help clear up only if your host agrees."
+      ],
+      "good_for": ["couples", "solo", "students", "families"],
+      "faqs": [
+        {"q": "What is pike pila?", "a": "Pike pila is an Apatani pickle made from bamboo shoot, pork fat and chillies. It is pungent and spicy and is eaten in small amounts with rice. Most homestays serve it at dinner; some sell jars to guests."},
+        {"q": "Is vegetarian food available in Ziro homestays?", "a": "Yes, if you ask ahead. Hosts can cook rice, local greens, potatoes, dal and bamboo shoot dishes without meat. Apatani cooking uses pork, chicken and fish often, so tell your host your diet when you book."},
+        {"q": "Do I have to drink rice beer in an Apatani home?", "a": "No. Rice beer is offered as hospitality, but you can decline politely or take a symbolic sip. Your host will not be offended if you explain you do not drink. Tea is always available."}
+      ]
+    },
+    {
+      "slug": "ziro-talle-valley-forest-hike",
+      "title": "Day hike in Talle Valley sanctuary",
+      "kind": "trek",
+      "duration": "Full day",
+      "best_time": "Oct–Apr, early start",
+      "cost": "Vehicle ₹3,000–4,500; guide ₹1,500–2,500; forest permit fee extra",
+      "image_query": "Talle Valley Wildlife Sanctuary",
+      "wiki": "Talle Valley Wildlife Sanctuary",
+      "summary": "Drive out of the Ziro valley to Talle, a protected high forest of fir, bamboo and streams, and walk forest trails with a local guide. Quiet, cold and very green.",
+      "body": [
+        "Talle Valley Wildlife Sanctuary lies about 30 km from Hapoli on a rough road that climbs out of the Ziro valley. It protects montane forest with fir, rhododendron and dense bamboo, crossed by clear streams. The Apatani have long used the area for hunting and gathering, and community knowledge of its trails is deep. Entry requires permission from the forest department in Hapoli, which your guide or host can help arrange.",
+        "Leave Ziro around 6 am. The drive takes 1.5–2 hours depending on road conditions, and the forest walk can be anything from two to six hours. Expect muddy, rooty trails, cold air even in spring, and the chance of birds such as laughingthrushes and woodpeckers. Larger mammals are present but rarely seen. Leeches appear after rain, so wear long socks and carry salt.",
+        "Carry a packed lunch, water, rain gear and warm layers. There are no facilities in the sanctuary, and mobile signal disappears quickly. Stay with your guide on marked or known trails, and take all rubbish back. The day suits reasonably fit walkers; families with young children may prefer shorter walks in the pine groves closer to the villages."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Do I need permission to visit Talle Valley?", "a": "Yes. Talle Valley is a wildlife sanctuary, and visits need permission from the forest department office in Hapoli. Rules and fees can change, so check current status before you travel. Your homestay host or guide can usually help with the paperwork a day ahead."},
+        {"q": "How far is Talle Valley from Ziro?", "a": "It is about 30 km from Hapoli, but the road is rough and the drive takes 1.5–2 hours each way. Hire a high-clearance vehicle with a driver who knows the route, and start early to have enough walking time."},
+        {"q": "Is the Talle Valley hike difficult?", "a": "It is a moderate day walk on muddy forest trails with some climbs, at around 2,000 m or more. It suits fit walkers who are comfortable on uneven ground. Wear boots with grip and carry rain gear and warm layers."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the best time to visit Ziro?", "a": "March–April for planting and spring flowers, late September for the music festival, and October–November for golden harvests and clear skies. July has the Dree festival but heavy rain. Winter from December to February is cold, dry and quiet, with brown fields."},
+    {"q": "How do I reach Ziro from Guwahati?", "a": "Take a train or bus to Naharlagun or Itanagar, then a shared Sumo for about 4–5 hours and ₹500–800 a seat. You can also fly to Donyi Polo Airport near Itanagar and hire a car. Driving directly from Guwahati takes 10–12 hours."},
+    {"q": "Do I need a permit for Ziro?", "a": "Yes. Indian visitors need an Inner Line Permit listing Lower Subansiri district, and foreigners need a Protected Area Permit. Permits are checked at the state entry gates near Itanagar. Talle Valley sanctuary needs separate forest permission. Check current status before you travel."},
+    {"q": "How many days are enough for Ziro?", "a": "Three or four nights is ideal: one day for villages, one for fields and pine groves, one for Talle Valley or a longer walk, and a spare day. For the music festival, plan five nights including travel days."},
+    {"q": "What is the Apatani paddy-cum-fish system?", "a": "The Apatani grow wet rice in permanent terraces and raise fish in the same flooded fields, with millet on the bunds between plots. Water comes from forested streams through channels. The system gives grain and protein from the same land and is on UNESCO's tentative World Heritage list."},
+    {"q": "Is Ziro safe for solo women travellers?", "a": "Ziro is generally considered safe and welcoming, and many solo women stay in Apatani homestays. Reach your homestay before dark, since village lanes are unlit. During the music festival, keep your group close at night and use registered transport."},
+    {"q": "What is the weather in Ziro?", "a": "Spring and autumn days are 18–25 °C with cool nights. Summers are warm and very wet. Winters are cold, with frost on clear nights and daytime highs around 15 °C. Pack layers and a rain jacket in every season."},
+    {"q": "Are there ATMs and mobile network in Ziro?", "a": "Hapoli has ATMs and 4G from major networks. Coverage is weaker in some villages and disappears in Talle Valley. ATMs can run dry during the festival, so carry enough cash from Itanagar or Guwahati."},
+    {"q": "Is Ziro good for families with children?", "a": "Yes. Homestays welcome children, the fields and villages are safe to walk with care, and the altitude is moderate. Bring warm clothes for evenings and rain gear. Skip the music festival with very young children unless you plan a short daytime visit."}
+  ]
+}

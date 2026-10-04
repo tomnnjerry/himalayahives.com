@@ -1,0 +1,144 @@
+{
+  "slug": "rishyap",
+  "name": "Rishyap",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "Rishyap",
+  "image_query": "Rishyap Kalimpong Kangchenjunga view",
+  "lat": 27.107,
+  "lng": 88.625,
+  "altitude_m": 2590,
+  "tagline": "Sunrise village facing the Kangchenjunga range",
+  "meta_description": "Rishyap guide: Tiffindara sunrise, forest walks to Lava, Lepcha and Sherpa homestays at 2,590 m, 10 km from Lava, with 2026 costs.",
+  "summary": "Rishyap is a small village at about 2,590 m, 10 km from Lava and 28 km from Kalimpong, with a wide view of the Kangchenjunga range. Lepcha and Sherpa families run simple homestays. Stay 1–2 nights for the Tiffindara sunrise, forest walks and quiet; October–April gives the clearest skies.",
+  "intro": [
+    "Rishyap, also spelt Rishop, is one of the highest villages in the Kalimpong hills. A handful of houses and homestays sit on a ridge above the Lava road, facing north-west across the valleys to the whole Kangchenjunga range. On a clear October or November morning the snow peaks stretch across the horizon from your window.",
+    "The village opened to visitors in 1998. Local Sherpa and Lepcha families built small cottages for guests, and that is still the model: simple rooms, home cooking, and a family that knows the forest. One explanation of the name links the Tibetan ri, a mountain peak, with shop, old trees, which fits the oak and rhododendron forest around it.",
+    "There is little to do in Rishyap, and that is the reason to go. Wake for sunrise at Tiffindara, about 1 km away, walk forest paths, sit in the sun with a book, and eat by a wood stove in the evening. Nights are cold, around 3 °C on average in winter, so bring warm clothes. Pair it with Lava for two or three nights in the forest."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 115 km · 4.5 h"],
+    ["From Lava", "≈ 10 km · 40 min"],
+    ["Altitude", "2,590 m"],
+    ["Known for", "Kangchenjunga views, Tiffindara sunrise, homestays, forest walks"]
+  ],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Sunrise at Tiffindara", "text": "Tiffindara, a viewpoint about 1 km from the village, looks across to the Kangchenjunga range. Walk up in the dark with a torch and watch the first light hit the snow peaks. Clear mornings are most likely from October to April."},
+    {"title": "Kangchenjunga from your window", "text": "Many Rishyap homestays face the mountains directly. On a clear day the range fills the north-western horizon. Ask for a room on the view side when you book; it costs little or nothing more."},
+    {"title": "Forest walks towards Lava", "text": "Oak, rhododendron and bamboo forest surrounds Rishyap. Paths link the village with the Lava side; walk with a local guide or your host, who knows which trails are open and safe that season."},
+    {"title": "Homestay kitchens", "text": "Evenings centre on the kitchen stove. Hosts cook rice, dal, seasonal greens, gundruk soup, local cheese and sometimes Lepcha or Sherpa dishes. Ask to watch or help; most families enjoy sharing recipes."},
+    {"title": "Spring rhododendrons", "text": "From March to May, rhododendrons flower in the forests around Rishyap and Lava. Haze reduces mountain views in spring, but the forest colour makes up for it."}
+  ],
+  "field_notes": [
+    {"fact": "Rishyap was developed as a tourist destination in 1998. Local Sherpa and Lepcha families built small cottage-style accommodation for visitors.", "source": "Rishyap"},
+    {"fact": "One local explanation of the name Rishyap combines the Tibetan ri, a mountain peak, with shop, meaning age-old trees.", "source": "Rishyap"},
+    {"fact": "Rishyap lies at an average elevation of about 2,591 m, around 10 km from Lava and 28 km from Kalimpong. Winter temperatures average about 3 °C.", "source": "Rishyap"}
+  ],
+  "local_word": {"word": "Ri", "language": "Tibetan", "meaning": "mountain or peak; one root of the name Rishyap"},
+  "costs": [
+    ["Homestay with dinner and breakfast", "₹1,500–2,500 per person"],
+    ["Reserved car, Lava to Rishyap", "₹800–1,200"],
+    ["Reserved car, Kalimpong to Rishyap", "₹2,000–3,000"],
+    ["Local guide for a forest walk, half day", "₹800–1,200"],
+    ["Packed lunch from homestay", "₹150–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bagdogra Airport is about 115 km away, 4.5 hours or more by road via Kalimpong and Lava. A reserved car costs about ₹5,000–6,000."},
+    {"mode": "Rail", "text": "Malbazar Junction is the nearest station; NJP has more trains and is about 4.5 hours by road. Homestays can arrange pickup."},
+    {"mode": "Road", "text": "Take a shared jeep from Kalimpong to Lava, about ₹120–200, then a reserved car for the last 10 km, about ₹800–1,200. Shared jeeps direct to Rishyap are rare. Roads are narrow; check current status in the monsoon."}
+  ],
+  "where_to_stay": "Rishyap is a homestay village. Saver and comfort travellers stay in family-run cottages and homestays at about ₹1,500–2,500 per person with dinner and breakfast; some have attached bathrooms with hot water, others share. A few larger guesthouses offer heated rooms and bigger windows on the view side. There is no luxury hotel. Signature travellers usually stay in Kalimpong and visit Rishyap for a sunrise and a forest walk, or book the best homestay with a private guide.",
+  "stays": [],
+  "tips": [
+    "Ask for a room facing Kangchenjunga when you book; the view is the reason to come.",
+    "Carry a torch for the walk to Tiffindara before sunrise; paths are dark and uneven.",
+    "Bring thermals and a down jacket from November to February; rooms may not be heated.",
+    "Carry cash from Kalimpong; there is no ATM in Rishyap.",
+    "Plan a car for the last stretch from Lava; shared transport to Rishyap is rare."
+  ],
+  "themes": ["homestays-and-villages", "photography", "treks-and-walks", "honeymoons"],
+  "nearby": ["lava", "kalimpong"],
+  "experiences": [
+    {
+      "slug": "rishyap-tiffindara-sunrise",
+      "title": "Tiffindara sunrise over the Kangchenjunga range",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Before dawn, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Kangchenjunga range sunrise from Rishyap",
+      "wiki": "",
+      "summary": "Walk about 1 km from Rishyap in the dark to Tiffindara viewpoint and watch the first light reach the Kangchenjunga range, then walk back for tea and breakfast at your homestay.",
+      "body": [
+        "Tiffindara is a clearing on the ridge about 1 km from Rishyap, a 20–30 minute walk on a narrow path. Leave about 45 minutes before sunrise with a torch, warm layers and a hot drink. Your host will point you in the right direction or walk with you the first time.",
+        "From the viewpoint the Kangchenjunga range spreads across the north-western horizon. As the sun rises behind you, the highest summits catch the light first, turning pink and then white, while the valleys stay blue with shadow. On very clear days the range runs far to either side. There are no crowds; often you will be alone or with a few other guests.",
+        "Clear sunrises are most likely from October to December and again in some February to April mornings. In the monsoon the view is almost always hidden. If cloud covers the range, stay a little longer; gaps sometimes open after sunrise. Walk back carefully, as the path can be frosty."
+      ],
+      "good_for": ["photographers", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "How far is Tiffindara from Rishyap?", "a": "Tiffindara is about 1 km from the village, a 20–30 minute walk on a narrow forest path. It is a gentle climb but uneven, so carry a torch and wear shoes with grip. Ask your homestay to guide you the first time."},
+        {"q": "Which months give the best sunrise view at Rishyap?", "a": "October to December gives the clearest mornings, with good chances again from January to April. Spring haze sometimes softens the view. From June to September cloud hides the mountains most days."},
+        {"q": "How cold is it at Tiffindara before sunrise?", "a": "In winter it can be near or below freezing before sunrise, with wind on the ridge. Wear thermals, a down jacket, gloves and a cap. Even in October and April, early mornings are around 5 to 10 °C."}
+      ]
+    },
+    {
+      "slug": "rishyap-forest-trail-walk",
+      "title": "Guided forest walk around Rishyap",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–May",
+      "cost": "Guide ₹800–1,200; packed lunch ₹150–300",
+      "image_query": "rhododendron forest Rishyap Lava",
+      "wiki": "",
+      "summary": "A half-day walk with a local guide through the oak, rhododendron and bamboo forest around Rishyap, on paths used by villagers towards the Lava side, with birds, mosses and mountain glimpses.",
+      "body": [
+        "Rishyap sits in old forest on the ridge above the Lava road. Villagers use footpaths through it to reach fields, water sources and neighbouring settlements, and local guides lead visitors on these trails. A typical half-day walk covers 6–8 km with a few hundred metres of up and down, returning to the village for a late lunch.",
+        "The forest is mostly oak, rhododendron, magnolia and bamboo, heavy with moss and ferns. In spring the rhododendrons flower red and pink. Birds are common if you walk quietly: laughingthrushes in the undergrowth, minivets in the canopy, woodpeckers on dead trunks. Barking deer may bark from the slope below.",
+        "Walk only with a guide; trails are unmarked, and some cross into protected forest where rules apply. Carry water, a rain shell and snacks. In the wet months leeches are common, and paths are slippery. Respect the forest: no fires, no litter, and no picking of orchids or plants."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "Do I need a guide for walks around Rishyap?", "a": "Yes, we recommend one. Paths are unmarked, branch often and can be confusing in mist. Some routes enter protected forest where permission is needed. Local guides cost about ₹800–1,200 for a half day and know which trails are open."},
+        {"q": "How difficult is the forest walk?", "a": "Easy to moderate. Expect 6–8 km over 3–4 hours with some steep, uneven stretches. Anyone used to walking a few hours can manage it. Carry a stick if your knees are weak, and avoid the wet season."},
+        {"q": "Will I see wildlife on the walk?", "a": "Birds are almost certain on a quiet morning. Mammals such as barking deer, squirrels and, rarely, red panda or black bear live in these forests but are seldom seen. Follow your guide's advice if you see signs of bears."}
+      ]
+    },
+    {
+      "slug": "rishyap-homestay-kitchen-evening",
+      "title": "Cook and eat in a Rishyap homestay kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, all year except monsoon",
+      "cost": "Usually included in homestay rate",
+      "image_query": "gundruk soup Nepali home cooking",
+      "wiki": "Gundruk",
+      "summary": "Spend an evening by the wood stove with your host family, help prepare a hill meal of rice, dal, seasonal greens, gundruk soup and local cheese, and learn how families in these villages cook and preserve food.",
+      "body": [
+        "In Rishyap, the kitchen is the warmest room in the house and the centre of evening life. Most homestay families cook on a wood or gas stove, and guests are welcome to watch or help. Ask a day ahead if you would like to cook, so your host can plan the meal and the shopping from Lava.",
+        "A typical dinner is rice, dal, a vegetable curry made with what the garden offers, pickles and soup. Gundruk, leafy greens fermented and sun-dried, gives soups a sour, earthy depth; it is a winter staple across Nepali-speaking hills. Soft chhurpi, a fresh cheese made from buttermilk, may be cooked with greens or ground into a chutney with tomato and chilli.",
+        "Families of Sherpa or Lepcha background may add their own dishes, such as noodle soups or fermented preparations. Ask questions and be open to what is served. Vegetarians should say so in advance. Help clear up, and remember that water and firewood are hard work to bring to a ridge village."
+      ],
+      "good_for": ["families", "couples", "students", "solo"],
+      "faqs": [
+        {"q": "Is food included in Rishyap homestays?", "a": "Most homestays include dinner and breakfast in the rate, typically ₹1,500–2,500 per person. Lunch and packed meals cost extra. Food is simple home cooking; tell your host in advance about dietary needs."},
+        {"q": "What is gundruk?", "a": "Gundruk is leafy greens, often mustard or radish leaves, wilted, packed tightly to ferment for about a week, then sun-dried. It is cooked into soups and pickles, especially in winter, and is common across Nepal, Sikkim and the Darjeeling hills."},
+        {"q": "Can vegetarians eat well in Rishyap?", "a": "Yes. Daily meals are often vegetarian anyway: rice, dal, greens, potatoes, pickles and soups. Meat dishes are usually chicken or pork on request. Tell your homestay when booking so they plan meals."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Rishyap from Kalimpong?", "a": "Rishyap is about 28 km from Kalimpong. Take a shared jeep to Lava, about 1.5 hours and ₹120–200, then a reserved car for the last 10 km, about ₹800–1,200. A reserved car from Kalimpong direct costs about ₹2,000–3,000. Shared jeeps straight to Rishyap are rare."},
+    {"q": "What is the best time to visit Rishyap?", "a": "October to April. October to December gives the clearest views of the Kangchenjunga range, and March to April brings rhododendrons with some haze. Avoid June to August, when rain, leeches and cloud dominate."},
+    {"q": "Is there network in Rishyap?", "a": "Mobile signal is patchy and depends on your network and the house. Some homestays have Wi-Fi, which is slow in bad weather. Expect to be partly offline and carry cash, since UPI may fail."},
+    {"q": "How cold does Rishyap get?", "a": "Rishyap at about 2,590 m averages around 3 °C in winter, with frost and occasional snow. Summer days are mild, around 8 to 22 °C. Rooms may not be heated, so bring thermals and ask for extra blankets."},
+    {"q": "Will I get altitude sickness at Rishyap?", "a": "Unlikely for most people. Rishyap is at about 2,590 m, below the level where altitude sickness is common. You may feel slightly breathless climbing paths. Drink water and rest on arrival. If you have heart or lung conditions, talk to your doctor before travelling."},
+    {"q": "Is Rishyap good for a honeymoon?", "a": "Yes, if you want quiet rather than nightlife. Mountain views from the room, sunrise walks and evenings by the stove suit couples. Facilities are simple, so book the best room on the view side and confirm hot water."},
+    {"q": "How much does a Rishyap homestay cost?", "a": "Expect about ₹1,500–2,500 per person per night including dinner and breakfast. Better rooms with attached bathrooms and views cost a little more. Prices are indicative 2026; book ahead for October, November and the year-end holidays."},
+    {"q": "Can I combine Rishyap with Lava and Kalimpong?", "a": "Yes. A common plan is 2 nights in Kalimpong, 1 night in Lava and 1 night in Rishyap. Lava and Rishyap are 10 km apart, and both are about 30 km from Kalimpong. Arrange a car between them."},
+    {"q": "Is Rishyap suitable for seniors?", "a": "Seniors in good health enjoy Rishyap for its quiet and views, but paths are steep and rooms basic. Choose a homestay near the road with an attached bathroom, avoid the coldest months, and carry any medicines; the nearest hospital is in Kalimpong."}
+  ]
+}

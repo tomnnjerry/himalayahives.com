@@ -1,0 +1,145 @@
+{
+  "slug": "doodhpathri",
+  "name": "Doodhpathri",
+  "region": "kashmir",
+  "kind": "valley",
+  "wiki": "Doodhpathri",
+  "image_query": "Doodhpathri meadow Budgam Kashmir",
+  "lat": 33.88,
+  "lng": 74.57,
+  "altitude_m": 2730,
+  "tagline": "The valley of milk, 42 km from Srinagar",
+  "meta_description": "Doodhpathri guide: meadows and the Shaliganga river 42 km from Srinagar, the milk legend of Sheikh Noor-ud-din, pony rates and day-trip costs for 2026.",
+  "summary": "Doodhpathri is a bowl of meadows at about 2,730 m in Budgam district, 42 km south-west of Srinagar. The Shaliganga river runs white over stones through pine forest, and Budgam herders graze cattle here all summer. Visit April to October as a day trip, best on weekdays.",
+  "intro": [
+    "Doodhpathri translates as valley of milk. Locals explain it two ways: the Shaliganga stream foams white as it tumbles over rocks, and a legend says the Kashmiri saint Sheikh Noor-ud-din Noorani, known as Nund Rishi, struck the ground with his staff looking for water and milk flowed out. Either way, the name fits a place of pale green meadows, white water and herds of cattle.",
+    "The meadows lie at about 2,730 m in the Pir Panjal foothills of Budgam district, reached through Budgam town, Ichgam and Khansahib, and the last stretch climbs through pine forest. Shepherds from the plains of Budgam bring their cattle and sheep here for summer grazing, and their timber huts dot the edges of the meadows.",
+    "Doodhpathri has stayed simpler than Gulmarg or Pahalgam. There are a few government huts and stalls, pony owners and picnic spots, and on weekdays it can be very quiet. Sundays and holidays bring Srinagar families in large numbers. The road and meadows are snowbound in winter, so come from about April to October."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Oct"],
+    ["Nights we suggest", "0 (day trip) or 1"],
+    ["Nearest airport", "Srinagar, about 40 km"],
+    ["From Srinagar", "≈ 42 km · 1 h 30 min–2 h"],
+    ["Altitude", "about 2,730 m"],
+    ["Known for", "Meadows, the Shaliganga river, herders"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 0, 0],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Shaliganga riverbank", "text": "The Shaliganga runs fast and white over boulders between pine forest and meadow. Paths along both banks make easy walks, and the sound of water is constant. Do not wade in; the stream is cold and stronger than it looks."},
+    {"title": "Open meadows", "text": "Rolling meadows spread above the river, ringed by fir and pine with snow peaks of the Pir Panjal beyond. On weekdays you can walk for an hour and see only herders and their cattle."},
+    {"title": "Herders' summer huts", "text": "Budgam shepherds and Gujjar families bring animals up for summer grazing and live in low timber huts at the forest edge. Visit with respect and ask before photographing."},
+    {"title": "Mujpathri hamlet", "text": "A short pony ride or walk leads to Mujpathri, a hamlet on the Shaliganga with more meadows and fewer visitors. Pony owners at the main meadow work to fixed rates."},
+    {"title": "Picnic day from Srinagar", "text": "Doodhpathri is one of the easiest full-day escapes from Srinagar. Pack a lunch or eat at the stalls, and leave by 4 pm to drive the forest road in daylight."}
+  ],
+  "field_notes": [
+    {"fact": "Local tradition says the Kashmiri saint Sheikh Noor-ud-din Noorani prayed at Doodhpathri and, searching for water, pricked the ground with his stick so that milk came out, giving the valley its name.", "source": "Doodhpathri"},
+    {"fact": "Shepherds from the plains of Budgam district send their cattle to Doodhpathri every summer for grazing, and the meadows are inaccessible in winter because of heavy snowfall.", "source": "Doodhpathri"},
+    {"fact": "Sheikh Noor-ud-din Noorani, also called Nund Rishi or Sheikh ul-Alam, was a 14th and 15th century Kashmiri Sufi saint and poet, and Srinagar's airport is named after him.", "source": "Nund Rishi"}
+  ],
+  "local_word": {"word": "Dodh", "language": "Kashmiri", "meaning": "milk; Doodhpathri is the valley or meadow of milk"},
+  "costs": [
+    ["Private taxi day trip from Srinagar", "₹2,500–3,500"],
+    ["Shared Sumo seat Srinagar–Khansahib, then local cab", "₹80–150, then ₹100–200"],
+    ["Pony ride on a fixed meadow circuit", "₹600–1,500"],
+    ["Tea and snacks at a stall", "₹50–150"],
+    ["Government hut per night", "₹2,000–4,000 a unit"],
+    ["Packed Kashmiri lunch from Srinagar", "₹200–400"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Srinagar airport is about 40 km away. From the airport, drive via Budgam and Khansahib in about 1 h 30 min."},
+    {"mode": "Bus", "text": "Shared Sumos and minibuses run from Srinagar to Budgam and Khansahib; from there, local cabs climb to Doodhpathri. It works but takes three hours or more each way."},
+    {"mode": "Road", "text": "The road via Budgam, Ichgam, Khansahib and Raiyar is paved to the meadow. It closes with snow from about December to March; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver and comfort: there are JKTDC and tourism department huts near the meadow, bookable through official channels in season, plus very basic stalls; most visitors stay in Srinagar and come for the day. Comfort: base yourself in Srinagar at a houseboat or hotel and take a private taxi. Signature: no luxury options; stay at The LaLiT in Srinagar and drive out early with a picnic.",
+  "stays": [],
+  "tips": [
+    "Go on a weekday; Sundays bring heavy crowds and traffic from Srinagar.",
+    "Pack lunch and water; food options are limited to simple stalls.",
+    "Agree pony rates against the official rate card before setting off.",
+    "Carry a warm layer; the meadow is over 1,100 m higher than Srinagar.",
+    "Take your rubbish back to Srinagar; bins at the meadow overflow on busy days."
+  ],
+  "themes": ["family-holidays", "treks-and-walks", "photography", "homestays-and-villages"],
+  "nearby": ["srinagar", "yusmarg", "gulmarg"],
+  "experiences": [
+    {
+      "slug": "doodhpathri-shaliganga-meadow-walk",
+      "title": "Riverbank and meadow walk on the Shaliganga",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "10 am, Apr–Jun and Sep–Oct",
+      "cost": "Free; taxi from Srinagar ₹2,500–3,500",
+      "image_query": "Shaliganga river Doodhpathri",
+      "wiki": "Doodhpathri",
+      "summary": "Walk along the Shaliganga from the main meadow, cross on log bridges, and climb gently to open grassland with views of the Pir Panjal. It is the best way to enjoy Doodhpathri away from the pony and picnic zone, and suits most ages.",
+      "body": [
+        "From the parking area, follow the river upstream. The Shaliganga runs fast over smooth grey boulders, and the water looks milky white in the rapids, the most common explanation of the valley's name. Log footbridges cross at several points, and the banks open into small meadows edged with pine and fir.",
+        "After about an hour, climb away from the river onto the higher meadows. The grass here is short and dotted with herders' huts, cattle and, in June, wildflowers. On clear days the snow peaks of the Pir Panjal line the south-west. Sit for lunch and you may hear herders calling their animals in from the forest edge.",
+        "The walk is gentle, but the altitude of about 2,730 m makes it tiring for anyone coming straight from the plains, so take it slowly. Wear shoes with grip, because grass is slippery after rain. Keep children well away from the river, which is cold and powerful."
+      ],
+      "good_for": ["families", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "Is Doodhpathri good for a family picnic?", "a": "Yes. The meadows are open and safe for children to run, with stalls for tea and snacks. Keep children away from the river, carry lunch and warm layers, and go on a weekday if you want space. Toilets are basic."},
+        {"q": "Can seniors walk in Doodhpathri?", "a": "Yes, the riverbank and lower meadows are gentle. The altitude is about 2,730 m, so walk slowly, rest often and drink water. Ponies are available if longer walks are tiring."},
+        {"q": "Is swimming allowed in the Shaliganga?", "a": "We strongly advise against it. The water is glacier and snow fed, very cold and fast, with slippery boulders. Paddling at the edges in calm spots is the most anyone should do, and only with adult supervision."}
+      ]
+    },
+    {
+      "slug": "doodhpathri-pony-ride-to-mujpathri",
+      "title": "Pony ride from Doodhpathri to Mujpathri",
+      "kind": "adventure",
+      "duration": "2–3 hours",
+      "best_time": "Morning, May–Oct",
+      "cost": "Pony ₹800–1,500 on the fixed rate card",
+      "image_query": "Doodhpathri pony ride meadow",
+      "wiki": "",
+      "summary": "Mujpathri is a small hamlet on the bank of the Shaliganga beyond the main Doodhpathri meadow. A pony ride there and back crosses quieter grassland and forest edges, and is a good option for families or anyone who cannot walk far at altitude.",
+      "body": [
+        "Pony owners gather at the main meadow with a board of official rates for set destinations, including Mujpathri and other viewpoints. Agree the route, the waiting time and the price before mounting. Most ponies are led by a handler on foot, so even nervous riders can manage.",
+        "The ride crosses rolling meadow, dips into pine forest and follows the river to Mujpathri, where a few herders' houses and grazing grounds sit beside the water. There is little infrastructure; the point is the quiet and the views. Climb down and walk a little to stretch your legs.",
+        "Wear long trousers and closed shoes. Children should ride with a handler holding the bridle and an adult close by. Tip the handler a little if the service was good. In wet weather, the paths turn muddy and slippery; consider walking the lower meadow instead."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How much does a pony ride in Doodhpathri cost?", "a": "Rates are fixed by the tourism authorities and posted at the pony stand, usually ₹600–1,500 depending on distance. Mujpathri return sits in the upper part of that range. Always confirm the route and total before starting."},
+        {"q": "Is the pony ride safe for children?", "a": "Generally yes on led ponies, with the handler holding the bridle and an adult walking alongside. Avoid letting children ride alone on steep or wet paths. Ask for a calm pony and a short circuit for very young children."},
+        {"q": "Can I walk to Mujpathri instead?", "a": "Yes. It is a pleasant walk of a couple of hours return from the main meadow for fit walkers. Ask locals for the path along the river, wear good shoes, and return before late afternoon."}
+      ]
+    },
+    {
+      "slug": "doodhpathri-milk-legend-and-herders",
+      "title": "The milk legend and Budgam's herders",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Morning, Jun–Sep",
+      "cost": "Free; local guide ₹800–1,500",
+      "image_query": "Doodhpathri shepherd huts",
+      "wiki": "Nund Rishi",
+      "summary": "Doodhpathri's name ties it to Sheikh Noor-ud-din Noorani, the Kashmiri saint known as Nund Rishi. A slow morning among the herders' summer huts, with a local who can tell the story, shows how faith, grazing and seasons shape these meadows.",
+      "body": [
+        "Nund Rishi, also called Sheikh ul-Alam, is one of the most revered figures in Kashmir, a Sufi saint and poet of the 14th and 15th centuries whose shrine is at Charar-e-Sharief in the same district. Local tradition holds that he prayed at Doodhpathri and, searching for water, struck the ground with his stick so that milk flowed out instead.",
+        "In summer, families from the plains of Budgam move up with cattle and sheep and live in timber huts on the meadow edges. With a local guide, you can visit respectfully, see butter and cheese being made, and hear how the summer camp works. If invited for tea, it is likely to be salty nun chai.",
+        "Ask before photographing, especially women and children, and keep the visit short. Do not bring sweets for children or walk into enclosures. If you have time, combine this with a stop at the Charar-e-Sharief shrine on the way back, dressing modestly and covering your head."
+      ],
+      "good_for": ["students", "photographers", "solo", "families"],
+      "faqs": [
+        {"q": "Who was Nund Rishi?", "a": "Sheikh Noor-ud-din Noorani, known as Nund Rishi or Sheikh ul-Alam, was a Kashmiri Sufi saint and poet of the 14th and 15th centuries, revered by Kashmiris of different faiths. His shrine is at Charar-e-Sharief in Budgam district, and Srinagar's airport is named after him."},
+        {"q": "Can visitors enter herders' huts at Doodhpathri?", "a": "Only if invited. Go with a local guide who can introduce you, greet the family first and keep it brief. These are working homes. A small gift of tea or sugar is more appropriate than cash."},
+        {"q": "Can I combine Doodhpathri and Charar-e-Sharief?", "a": "Yes. Charar-e-Sharief is in the same district and can be visited on the way to or from Doodhpathri with a private taxi. Dress modestly, cover your head, and avoid Friday prayer times for a calmer visit."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Doodhpathri from Srinagar?", "a": "About 42 km via Budgam, Ichgam and Khansahib, usually 1 h 30 min to 2 h by car. Alternative routes make it 45–50 km. A private taxi day trip costs about ₹2,500–3,500 from Srinagar."},
+    {"q": "Is Doodhpathri worth visiting?", "a": "Yes, if you want meadows and a river without the crowds of Gulmarg or Pahalgam. There are no big attractions; the appeal is walking, picnics and herders' camps. On weekdays it is calm; on Sundays it is busy."},
+    {"q": "What is the best time to visit Doodhpathri?", "a": "April to June for green meadows and snow on the peaks, and September to October for clear weather and autumn colour. July and August bring some rain. From about December to March the road and meadows are under snow."},
+    {"q": "Can we stay overnight in Doodhpathri?", "a": "A few government huts operate near the meadow in season, bookable through official tourism channels. Facilities are basic. Most visitors stay in Srinagar and visit as a day trip. Check current availability before you travel."},
+    {"q": "Is there food available at Doodhpathri?", "a": "Simple stalls sell tea, maggi, omelettes and snacks. There are no proper restaurants. Pack a lunch from Srinagar, carry water, and bring your rubbish back."},
+    {"q": "Is there mobile network at Doodhpathri?", "a": "Postpaid networks work patchily near the parking area and fade on the meadows. Prepaid SIMs from outside J&K generally do not work. Download offline maps before you leave Srinagar."},
+    {"q": "Is Doodhpathri safe for solo travellers?", "a": "It is a family picnic spot and generally relaxed in daylight. Travel with a registered taxi, return before dusk, and tell your hotel where you are going. Check current advisories before you travel."},
+    {"q": "Can I visit Doodhpathri and Yusmarg in one day?", "a": "It is possible with a private car, as both are in Budgam district, but it makes a long day of about 8–9 hours with little time at each. We suggest one per day, or combining Yusmarg with Charar-e-Sharief."},
+    {"q": "Does it snow in Doodhpathri?", "a": "Yes, heavily from about December to March, and the road usually closes. Snow patches remain on the upper meadows into April. For snow play in winter, Gulmarg is easier to reach."}
+  ]
+}

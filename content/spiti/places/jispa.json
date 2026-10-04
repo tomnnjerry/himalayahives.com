@@ -1,0 +1,144 @@
+{
+  "slug": "jispa",
+  "name": "Jispa",
+  "region": "spiti",
+  "kind": "village",
+  "wiki": "Jispa",
+  "image_query": "Jispa Bhaga river Lahaul",
+  "lat": 32.64,
+  "lng": 77.18,
+  "altitude_m": 3200,
+  "tagline": "A riverside stop on the Manali–Leh road at 3,200 m",
+  "meta_description": "Jispa guide: Bhaga riverside village at 3,200 m, 22 km from Keylong, Padma Lodge and Hotel Ibex, Darcha road, acclimatisation stop and best months.",
+  "summary": "Jispa is a small Lahaul village at 3,200 m on the Bhaga river, 22 km beyond Keylong on the Manali–Leh road. It has the best hotels in Lahaul, riverside walks, a small gompa and willow-lined fields. Use it as a calm first night above 3,000 m, a slow-travel base, or a stop on the way to Ladakh.",
+  "intro": [
+    "Jispa is a strip of fields and houses along the Bhaga river, where the valley widens between steep slopes. About 200 people live here year-round, farming potatoes, peas and barley, and in summer the riverbank fills with camps and travellers stopping on the long road between Manali and Leh. Heavy snow cuts the village off from about November to April, though the Atal Tunnel has made winter access easier than it was.",
+    "For travellers, Jispa is the most comfortable overnight in Lahaul. Hotel Ibex and Padma Lodge have long served Leh-bound road trips, and newer stays have followed. At 3,200 m it is only a little higher than Keylong, which makes it a sensible first or second night above 3,000 m before Chandratal, Kaza or the high passes to Ladakh.",
+    "There is not much to do, and that is the point. Walk the riverbank, visit the small Jispa gompa, watch the evening light on the peaks above Darcha, 7 km up the road, and eat well. Families with children and older travellers who find Spiti's high villages hard often find Jispa just right."
+  ],
+  "facts": [
+    ["Best months", "May – Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 145 km"],
+    ["From Manali", "≈ 95 km · 3–4 h via Atal Tunnel and Keylong"],
+    ["Altitude", "3,200 m"],
+    ["Known for", "Riverside stays, Manali–Leh road stop, acclimatisation"]
+  ],
+  "best_months": [0, 0, 0, 0, 1, 2, 2, 1, 2, 2, 0, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The Bhaga riverbank", "text": "Walk along the Bhaga's gravel banks below the village in the morning, when the water is clear and the light is low. Keep away from the current: the river is cold, fast and stronger than it looks."},
+    {"title": "Jispa gompa", "text": "A small monastery above the road serves the village. Visit quietly, walk around clockwise, and ask before entering if no one is about."},
+    {"title": "Darcha and the road north", "text": "Darcha, 7 km on, is the last village before the Manali–Leh road climbs towards Baralacha La and the start of the road towards Zanskar. A short drive gives a sense of the emptiness ahead."},
+    {"title": "A gentle night above 3,000 m", "text": "At 3,200 m, Jispa is high enough to start acclimatising but low enough to sleep well for most people. It suits families, seniors and anyone heading to Chandratal or Ladakh."},
+    {"title": "Lahaul's best hotels", "text": "Hotel Ibex and Padma Lodge are among the most comfortable stays in Lahaul. Neither is a luxury resort, but both offer warm rooms, hot water and good food beside the river."}
+  ],
+  "field_notes": [
+    {"fact": "At the 2011 census Jispa had 202 residents in 51 households, a small farming village that swells with travellers every summer.", "source": "Jispa"},
+    {"fact": "Heavy snowfall used to isolate Jispa from about November to April. The Atal Tunnel, completed in 2020, cut travel time from Manali and brought new hotels to the village.", "source": "Jispa"},
+    {"fact": "Jispa lies about 22 km north of Keylong and 7 km south of Darcha on the Manali–Leh road, at about 3,200 m.", "source": "Jispa"}
+  ],
+  "local_word": {"word": "Dzo", "language": "Tibetan", "meaning": "a cross between a yak and a cow, used for ploughing Lahaul's fields"},
+  "costs": [
+    ["HRTC bus, Keylong–Jispa", "₹40–80"],
+    ["Taxi Manali–Jispa one way", "₹4,500–6,500 per car"],
+    ["Camp or guesthouse with meals", "₹1,500–3,000 per person"],
+    ["Mid-range hotel double room", "₹4,000–8,000 a night"],
+    ["Dhaba meal", "₹150–300"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Bhuntar near Kullu, then drive via Manali and the Atal Tunnel to Keylong and Jispa: about 145 km and 5–6 hours."},
+    {"mode": "Bus", "text": "HRTC buses run from Manali and Keylong towards Darcha and, in season, Leh, stopping at Jispa. Check current timings at Manali or Keylong bus stands."},
+    {"mode": "Road", "text": "From Manali, drive through the Atal Tunnel to Keylong (71 km) and on 22 km to Jispa: 3–4 hours. The road is paved; snow closes it at times in winter."}
+  ],
+  "where_to_stay": "Saver: riverside camps and simple guesthouses in Jispa charge about ₹1,500–3,000 a person with meals; facilities are basic but adequate. Comfort: Padma Lodge has wood-finished rooms and riverside tents, and is one of the most popular comfort stays in Lahaul. Signature: Hotel Ibex Jispa is the most established hotel in the village, with heated rooms and a restaurant; it is the top of what Lahaul offers, comfortable rather than luxurious. Book July and August early, when Leh road trips fill both.",
+  "stays": ["padma-lodge-jispa", "hotel-ibex-jispa"],
+  "tips": [
+    "Use Jispa as a first or second night above 3,000 m before Chandratal or Ladakh.",
+    "Do not wade into the Bhaga; it is fast and cold even when it looks calm.",
+    "Fill fuel at Tandi near Keylong; there is no petrol pump in Jispa.",
+    "Book Padma Lodge or Hotel Ibex ahead for July and August.",
+    "Bring warm layers: evenings by the river are cold even in summer."
+  ],
+  "themes": ["road-trips", "family-holidays", "honeymoons", "photography"],
+  "nearby": ["keylong", "chandratal"],
+  "experiences": [
+    {
+      "slug": "jispa-bhaga-riverside-morning",
+      "title": "Morning walk on the Bhaga riverbank",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "7–9 am, Jun–Sep",
+      "cost": "Free",
+      "image_query": "Bhaga river Jispa",
+      "wiki": "",
+      "summary": "Walk the gravel flats and willow groves along the Bhaga below Jispa at first light, with snow peaks above and the Leh road waking up behind you.",
+      "body": [
+        "The Bhaga river spreads into braided channels at Jispa, with gravel flats, small willow groves and fields along its banks. In the early morning, mist often lifts off the water, and the peaks up towards Darcha catch the first sun.",
+        "Walk downstream from the hotels along the bank and return through the village fields. Stay on paths and field edges, and close any gates behind you. Village dogs are usually friendly but let them be.",
+        "Keep away from the main current. The Bhaga carries snowmelt and is cold and fast; people have been swept away crossing such rivers. Enjoy it from the bank."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Is the Jispa river walk safe for children?", "a": "Yes on the banks, with an adult. Keep children away from the water's edge; the current is strong."},
+        {"q": "Can I swim in the Bhaga?", "a": "No. The water is near freezing and fast. Stay on the bank."},
+        {"q": "When is the best light?", "a": "Early morning, when mist lifts off the river and the peaks catch the sun."}
+      ]
+    },
+    {
+      "slug": "jispa-village-and-gompa-visit",
+      "title": "Jispa village lanes and gompa",
+      "kind": "village",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, May–Oct",
+      "cost": "Free; donation welcome",
+      "image_query": "Jispa monastery Lahaul",
+      "wiki": "Jispa",
+      "summary": "Walk up from the highway into the village, past potato and pea fields, to the small gompa that serves Jispa's families. Quiet, short and a good antidote to the Leh road traffic.",
+      "body": [
+        "Most travellers only see Jispa's riverside hotels. Walk up from the road and the village is a cluster of houses with fields of potatoes, peas and barley, worked by families who stay here all year.",
+        "The small gompa above the village is used for daily worship and community events. If the doors are open, step in quietly, walk clockwise, and leave a small donation. If closed, walk around the outside.",
+        "Greet people with julley, ask before photographing anyone, and stay out of fields and courtyards. In late afternoon you will see families returning from the fields with livestock."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Is Jispa gompa open to visitors?", "a": "Usually in daytime, though it may be locked. Visit quietly and walk around the outside if closed."},
+        {"q": "Can I visit a local home in Jispa?", "a": "Only if invited. Homestays and some guesthouses can arrange a meal with a family."},
+        {"q": "What do Jispa farmers grow?", "a": "Mainly potatoes, peas and barley in the short summer season."}
+      ]
+    },
+    {
+      "slug": "jispa-darcha-road-north-drive",
+      "title": "Drive to Darcha and the start of the high road",
+      "kind": "adventure",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Jun–Sep",
+      "cost": "Taxi ₹1,500–2,500 return",
+      "image_query": "Darcha Lahaul Manali Leh road",
+      "wiki": "",
+      "summary": "A short drive from Jispa to Darcha, the last village before the Manali–Leh road climbs into empty high country, for a taste of the road north without committing to it.",
+      "body": [
+        "Darcha is 7 km north of Jispa, where the Bhaga valley branches and the roads to Ladakh and Zanskar begin. In summer it is busy with trucks, bikers and checkposts; beyond it the land empties quickly.",
+        "Drive up for the morning, look around Darcha's dhabas and river bridges, and go a little further only if your driver is happy with the road and your group is acclimatised. The road soon climbs towards Baralacha La, over 4,800 m, which is not a casual detour.",
+        "Register at any checkpost if asked, carry identification, and turn back in time for lunch in Jispa. Check current road status before you travel."
+      ],
+      "good_for": ["students", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "How far is Darcha from Jispa?", "a": "About 7 km, 15–20 minutes by car."},
+        {"q": "Can I go to Baralacha La as a day trip from Jispa?", "a": "It is possible in season, but the pass is above 4,800 m. Only go if well acclimatised, with an experienced driver."},
+        {"q": "Do I need ID at Darcha?", "a": "Carry photo ID; checkposts on the Leh road may record travellers."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Jispa worth a stay?", "a": "Yes, as a calm, comfortable night above 3,000 m. It has the best hotels in Lahaul, riverside walks and easy access from Manali. It is ideal before Chandratal or Ladakh, and for families or seniors who find Spiti's high villages hard."},
+    {"q": "How far is Jispa from Manali?", "a": "About 95 km through the Atal Tunnel and Keylong, around 3–4 hours by car. HRTC buses also run via Keylong. Check current status of the tunnel and road in winter or after heavy rain."},
+    {"q": "What is the altitude of Jispa?", "a": "About 3,200 m, slightly higher than Keylong. Most healthy people sleep well here, which makes it a good acclimatisation stop. Drink water, rest on arrival, and talk to your doctor about altitude before you travel."},
+    {"q": "Which are the best hotels in Jispa?", "a": "Hotel Ibex and Padma Lodge are the best-known stays, both comfortable and long established. Neither is a luxury resort. Simple camps and guesthouses along the river cover the budget end."},
+    {"q": "Is Jispa open in winter?", "a": "The village is inhabited all year, but heavy snow often cuts it off and most hotels close from about November to April. The Atal Tunnel has made winter access easier. Check current status before you travel."},
+    {"q": "Does mobile network work in Jispa?", "a": "Usually yes, with BSNL and Jio, and sometimes Airtel. Signal fades beyond Darcha on the Leh road. Hotels often have Wi-Fi, though slow."},
+    {"q": "Can I visit Chandratal from Jispa?", "a": "Yes, but it is a long day: back through Keylong and Tandi to Gramphu, then the rough road via Chhatru and Batal, about 130 km and 6–7 hours each way. Better to stay a night at the Chandratal camps."},
+    {"q": "Is Jispa good for families?", "a": "Yes. It is low enough for most children to sleep well, the riverside is pleasant, and the hotels have good food and warm rooms. Keep children away from the river's edge."},
+    {"q": "What is there to do in Jispa?", "a": "Walk the riverbank, visit the gompa, drive to Darcha, and rest. Jispa is for slowing down, not sightseeing. Keylong's monasteries are 22 km away for a half day."}
+  ]
+}

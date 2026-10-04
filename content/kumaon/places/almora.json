@@ -1,0 +1,145 @@
+{
+  "slug": "almora",
+  "name": "Almora and Kasar Devi",
+  "region": "kumaon",
+  "kind": "town",
+  "wiki": "Almora",
+  "image_query": "Almora town Kumaon hills",
+  "lat": 29.6,
+  "lng": 79.66,
+  "altitude_m": 1604,
+  "tagline": "The Chand kings' capital, bal mithai and the pine ridge of Kasar Devi",
+  "meta_description": "Almora and Kasar Devi guide: Lal Bazaar and bal mithai, Nanda Devi temple, Crank's Ridge, Chitai Golu and Katarmal, costs, stays and transport.",
+  "summary": "Almora, at about 1,604 m, was the Chand kings' capital from the 1560s and is still Kumaon's cultural centre. Walk the stone-paved Lal Bazaar for bal mithai, visit the Nanda Devi temple, then stay 8 km up at Kasar Devi on the pine ridge once called Crank's Ridge. Plan two to four nights.",
+  "intro": [
+    "Almora sits along a horseshoe-shaped ridge above the Kosi and Suyal rivers. Unlike Nainital or Ranikhet, it was not built by the British: the Chand kings moved their capital here in the 1560s, and the sites of their upper and lower palaces now hold the district collectorate and hospital. The old town runs along the ridge as the Lal Bazaar, paved with stone slabs, lined with wooden-fronted shops, temples and the houses of trading families.",
+    "The town is the home of bal mithai, the brown khoya fudge rolled in sugar balls, invented in Lal Bazaar in the early 20th century, and of singori, khoya wrapped in a leaf cone. Kumaoni copperware is still made in the Tamta workshops of the town, and aipan patterns are painted on doorsteps at festivals. In autumn the Nanda Devi Mela fills the bazaar with processions.",
+    "Eight kilometres north, the road climbs through deodar and pine to Kasar Devi, a hilltop temple where Swami Vivekananda meditated in the 1890s. The ridge beyond it drew Western Buddhists and writers from the 1930s and Beat poets in the 1960s, and still draws long-stay travellers, writers and remote workers. Most visitors now sleep at Kasar Devi and go down to Almora for the bazaar."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "2–4"],
+    ["Nearest airport", "Pantnagar (≈ 120 km · 3.5–4 h)"],
+    ["From Kathgodam", "≈ 90 km · 3 h via Bhowali and Kainchi"],
+    ["Altitude", "1,604 m (Almora); Kasar Devi ridge a little higher"],
+    ["Known for", "Lal Bazaar, bal mithai, Nanda Devi temple, Kasar Devi"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "2–4",
+  "highlights": [
+    {"title": "Lal Bazaar on foot", "text": "The old bazaar runs for over a kilometre along the ridge on stone slabs. Look up at carved wooden windows on old houses, stop at the sweet shops for bal mithai and singori, and turn into side lanes for small temples and naulas."},
+    {"title": "Nanda Devi temple", "text": "In the heart of the old town, this temple complex to the patron goddess of Kumaon began as a Chand royal temple in 1688. It is the centre of the Nanda Devi Mela each autumn. Visit at evening aarti and remove shoes at the gate."},
+    {"title": "Kasar Devi and Crank's Ridge", "text": "Climb the steps to the Kasar Devi temple for views over the Hawalbagh valley, then walk the pine ridge beyond it where Lama Anagarika Govinda lived and Beat poets visited. Cafés, bookshops and guesthouses line the road."},
+    {"title": "Chitai Golu Devta temple", "text": "About 8 km from Almora, this temple to Golu Devta, the Kumaoni god of justice, is hung with thousands of brass bells and written petitions tied by devotees whose wishes were granted. It is busy and moving in equal measure."},
+    {"title": "Katarmal Sun Temple", "text": "A Katyuri-era temple to Surya, dated variously from the 9th to 13th century, about 17 km from Almora, with a cluster of smaller shrines around the main tower. It is protected by the Archaeological Survey of India. The last 2 km are a walk up from the road."}
+  ],
+  "field_notes": [
+    {"fact": "Almora's Nanda Devi temple began as the Parbateshwar temple, one of several that Chand king Udyot Chand built in 1688 to mark victories over Garhwal and Doti; it was renamed twice before becoming the Nanda Devi temple.", "source": "Almora"},
+    {"fact": "The town's name is traced to bhilmora or kilmora, a sorrel-like plant brought from here to clean the vessels of the sun temple at Katarmal; the people who supplied it were called Almori.", "source": "Almora"},
+    {"fact": "Bal mithai was developed by sweet makers in Almora's Lal Bazaar in the early 20th century. A local legend says Kumaoni soldiers carried it to Burma in the Second World War, and one shop advertised branches in Burma.", "source": "Bal mithai"}
+  ],
+  "local_word": {"word": "Bal mithai", "language": "Kumaoni", "meaning": "Almora's brown fudge of roasted khoya, coated in tiny white sugar balls"},
+  "costs": [
+    ["Shared taxi seat, Haldwani–Almora", "₹350–500"],
+    ["Shared jeep seat, Almora–Kasar Devi", "₹30–60"],
+    ["Bal mithai at a Lal Bazaar shop", "₹500–700 a kg"],
+    ["Hostel dorm at Kasar Devi", "₹600–1,000 a night"],
+    ["Guesthouse double at Kasar Devi", "₹1,500–3,500 a night"],
+    ["Kumaoni thali in Almora", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 120 km away, 3.5–4 hours by taxi. A taxi costs roughly ₹4,000–5,500."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 90 km away, 3 hours via Bhowali, Kainchi and Khairna along the Kosi. Shared taxis leave from Kathgodam and Haldwani for ₹350–500 a seat; a private taxi costs ₹3,000–4,000."},
+    {"mode": "Bus", "text": "Uttarakhand Roadways runs direct buses from Delhi's Anand Vihar to Almora in about 10–12 hours, and KMOU and Roadways buses run from Haldwani several times a day. Almora's bus stands are at the lower end of the Mall road. Check current status before you travel in the monsoon."}
+  ],
+  "where_to_stay": "Saver: Kasar Devi has hostels, including The Hosteller, and many simple guesthouses with dorms or doubles from about ₹1,500; Almora town has budget hotels near the bus stand and KMVN's rest house. Comfort: family-run guesthouses on the Kasar Devi road with mountain-view rooms suit long stays at ₹3,000–6,000 a night. Signature: The Kumaon, a small modern hotel of stone and timber chalets on a terraced slope at Kasar Devi, is one of the best hotels in the hive.",
+  "stays": ["the-kumaon"],
+  "tips": [
+    "Stay at Kasar Devi for quiet and views, and visit Almora's Lal Bazaar in the late morning when shops are open.",
+    "Buy bal mithai fresh and eat it within a week; it travels well but dries out.",
+    "Walk Lal Bazaar rather than drive; cars are not allowed in most of the old bazaar.",
+    "Water can be short in Kasar Devi guesthouses in May and June; use it sparingly.",
+    "Book Holi week and the Nanda Devi Mela early, when Almora fills with returning families."
+  ],
+  "themes": ["food-and-tea", "festivals", "wellness-and-yoga", "homestays-and-villages"],
+  "nearby": ["binsar", "jageshwar", "kausani", "ranikhet"],
+  "experiences": [
+    {
+      "slug": "almora-kasar-devi-cranks-ridge-walk",
+      "title": "Kasar Devi and the Crank's Ridge walk",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Morning or late afternoon, Sep–Jun",
+      "cost": "Free; shared jeep from Almora ₹30–60",
+      "image_query": "Kasar Devi temple Almora",
+      "wiki": "Cranks' Ridge",
+      "summary": "Climb to the Kasar Devi temple, where Swami Vivekananda meditated in the 1890s, then walk the pine ridge beyond it that drew Buddhist scholars in the 1930s and Beat poets in the 1960s. Today it is a quiet road of guesthouses, cafés and long views.",
+      "body": [
+        "The Kasar Devi temple is reached by a stepped path from the main road at the start of the village. The temple to the goddess, a form of Durga, is said to be very old, and the present building dates from 1948. Swami Vivekananda came here in the 1890s and wrote of meditating in the area. From the top you see Almora, the Hawalbagh valley and on clear days a long line of snow peaks.",
+        "The ridge beyond the temple became a haunt of artists and spiritual seekers in the 1930s. The scholar W. Y. Evans-Wentz, the Danish mystic Alfred Sorensen, known as Sunyata, and the Buddhist teacher Lama Anagarika Govinda all lived here. In 1962 Allen Ginsberg, Peter Orlovsky, Gary Snyder and Joanne Kyger came to visit Govinda, and later in the decade Timothy Leary and Ralph Metzner spent time on the ridge.",
+        "The name Crank's Ridge, sometimes Hippie Hill, comes from that period. Walk the road slowly, look for the gate of the old Govinda estate and the small Buddhist meditation centre, and stop at a café that looks over the valley. The Kasar Devi fair is held on Kartik Purnima, in November. Respect private homes; many long-stay residents value quiet."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "Why is it called Crank's Ridge?", "a": "The pine ridge beyond Kasar Devi drew Western Buddhists, writers and artists from the 1930s, and Beat poets and counter-culture figures in the 1960s. The nickname Crank's Ridge, or Hippie Hill, came from that era of eccentric visitors."},
+        {"q": "How far is Kasar Devi from Almora?", "a": "About 8 km, 20–25 minutes by road on the Binsar road. Shared jeeps run from Almora for ₹30–60 a seat, and taxis charge ₹300–500 one way."},
+        {"q": "Who visited Kasar Devi?", "a": "Swami Vivekananda in the 1890s; W. Y. Evans-Wentz, Lama Anagarika Govinda and Alfred Sorensen from the 1930s; Allen Ginsberg, Gary Snyder and Peter Orlovsky in 1962; and Timothy Leary and Ralph Metzner in the mid-1960s."}
+      ]
+    },
+    {
+      "slug": "almora-lal-bazaar-bal-mithai-walk",
+      "title": "Lal Bazaar food walk: bal mithai and singori",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "11 am–6 pm, all year",
+      "cost": "₹300–800 for tastings and sweets",
+      "image_query": "Bal mithai Almora sweet",
+      "wiki": "Bal mithai",
+      "summary": "Walk Almora's stone-paved Lal Bazaar from end to end, tasting bal mithai, singori in its leaf cone and Kumaoni snacks, and looking into copper workshops and old houses. It is the best way to see the town the Chand kings built.",
+      "body": [
+        "Start at the lower end of the bazaar near the main bus stand, where the best-known bal mithai shops stand. Bal mithai is khoya cooked with cane sugar until dark brown, set, cut into fingers and rolled in sugar-coated poppy-seed balls. It was invented in Lal Bazaar in the early 20th century, and shops still sell it fresh by weight. Buy a little from two or three and compare.",
+        "Singori is the other Almora sweet: sweetened khoya shaped into a small cone and wrapped in a maalu leaf, which gives it its flavour. Look also for khechuwa and the Kumaoni snack shops selling bhang ki chutney, made from roasted hemp seeds, which contains no intoxicant. Small eateries serve aloo ke gutke, spiced hill potatoes, with tea.",
+        "As you walk up the bazaar, look for the carved wooden doorways and windows on older houses, the Nanda Devi temple, and the copper workshops where Tamta craftsmen hammer pots and water vessels. Shops are closed on some afternoons and festival days. Cars are not allowed on most of the bazaar, which keeps it a walking street."
+      ],
+      "good_for": ["families", "couples", "students", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Where is the best bal mithai in Almora?", "a": "The most famous shops are at the lower end of Lal Bazaar near the bus stand, and several old family shops along the bazaar make their own. Taste from two or three; each has a slightly different roast and sweetness."},
+        {"q": "How long does bal mithai last?", "a": "Bal mithai keeps for about a week at room temperature in cool weather and longer in a fridge. It is a good gift to carry home but tastes best within a few days."},
+        {"q": "What is singori?", "a": "Singori is sweetened khoya shaped into a cone and wrapped in a maalu leaf, which gives it a distinct aroma. It is associated with Almora and Kumaon, and also with old Tehri in Garhwal. Eat it fresh, within a day or two."}
+      ]
+    },
+    {
+      "slug": "almora-chitai-golu-and-katarmal",
+      "title": "Chitai Golu Devta and the Katarmal sun temple",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Morning, Sep–Jun",
+      "cost": "Free entry; taxi ₹1,500–2,200 for both",
+      "image_query": "Chitai Golu Devta temple bells",
+      "wiki": "Golu Devata",
+      "summary": "Two very different temples within 20 km of Almora: Chitai, hung with thousands of bells and petition letters to Golu Devta, the Kumaoni god of justice, and Katarmal, a quiet stone temple to the sun god from the Katyuri period.",
+      "body": [
+        "Golu Devta is a folk god of Kumaon, worshipped as a just king who hears cases. At Chitai, about 8 km from Almora on the Pithoragarh road, devotees write their petitions on paper or stamp paper and tie them in the temple, and offer brass bells when a wish is fulfilled. The bells now hang in thick rows along every path. Visit in the morning, move slowly and do not take bells or letters.",
+        "Katarmal lies on the other side of Almora, about 17 km away near Kosi, reached by a short climb from the road. The main temple, dedicated to Surya, the sun, dates from the Katyuri period, placed by different scholars between the 9th and 13th centuries, and is surrounded by over forty smaller shrines. Some of its original carved wooden doors were moved to the National Museum in Delhi after a theft.",
+        "The temple is protected by the Archaeological Survey of India, and the village around it is small and quiet. Wear shoes you can walk uphill in, carry water, and respect any restrictions on photography inside the sanctum. The two temples together give a sense of Kumaon's faith: royal and ancient at Katarmal, local and living at Chitai."
+      ],
+      "good_for": ["seniors", "families", "photographers", "solo"],
+      "faqs": [
+        {"q": "Why are there so many bells at Chitai temple?", "a": "Devotees of Golu Devta offer a brass bell when a petition is answered, and many also tie written petitions in the temple. Over decades the bells have filled every rail and roof. Do not remove or ring them unnecessarily."},
+        {"q": "How old is the Katarmal sun temple?", "a": "Katarmal belongs to the Katyuri period; dates given range from the 9th to the 13th century. It is one of the few sun temples in the Himalaya and is protected by the Archaeological Survey of India."},
+        {"q": "How do I visit both temples from Almora?", "a": "Hire a taxi for a half day, about ₹1,500–2,200. Chitai is 8 km east on the Pithoragarh road and Katarmal about 17 km west near Kosi, with a short uphill walk to the temple."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Almora worth visiting?", "a": "Yes, especially for culture. Almora was the Chand capital and keeps its stone-paved Lal Bazaar, old temples, sweets and copperwork. With Kasar Devi above it and Binsar and Jageshwar nearby, it is the best base for central Kumaon."},
+    {"q": "Should I stay in Almora or Kasar Devi?", "a": "Kasar Devi is quieter, cooler and has better views, cafés and hostels; Almora town is busier but close to the bazaar and buses. Most travellers stay at Kasar Devi and take a shared jeep down to Almora for half a day."},
+    {"q": "How do I reach Almora from Delhi?", "a": "Take a train to Kathgodam and a shared taxi or bus from there, about 3 hours, or an Uttarakhand Roadways bus from Anand Vihar direct to Almora in 10–12 hours. By car it is about 370 km via Haldwani."},
+    {"q": "What is Almora famous for?", "a": "Bal mithai and singori sweets, the Lal Bazaar, the Nanda Devi temple and Mela, copperware, Kumaoni holi singing, Kasar Devi and Crank's Ridge, and its role as the old capital of the Chand kings."},
+    {"q": "How many days do I need in Almora?", "a": "Two nights covers Lal Bazaar, Kasar Devi and either Chitai or Katarmal. Four nights lets you add day trips to Binsar and Jageshwar. Writers and remote workers often stay weeks at Kasar Devi."},
+    {"q": "What does a budget stay in Kasar Devi cost?", "a": "Hostel dorm beds cost ₹600–1,000 a night and simple guesthouse doubles ₹1,500–3,500. Monthly rates for long stays are lower; ask directly. Meals at cafés cost ₹200–500."},
+    {"q": "Is Kasar Devi safe for solo women?", "a": "Kasar Devi has a long history of solo travellers and is generally considered safe. Choose a stay with good reviews, avoid walking the forest stretches after dark, and use registered taxis. Hostels here often have women-only dorms."},
+    {"q": "What is the best time to visit Almora?", "a": "March to June and September to December. October and November give the clearest views from Kasar Devi. Holi in March and the Nanda Devi Mela in late August or September are special times. July and August are wet."},
+    {"q": "Is there an ATM in Kasar Devi?", "a": "Kasar Devi itself has few or no ATMs; Almora town has several banks and ATMs on the Mall road. Carry cash for small guesthouses and cafés, though UPI is widely accepted."}
+  ]
+}

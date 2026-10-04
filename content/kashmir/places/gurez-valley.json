@@ -1,0 +1,145 @@
+{
+  "slug": "gurez-valley",
+  "name": "Gurez Valley",
+  "region": "kashmir",
+  "kind": "valley",
+  "wiki": "Gurez",
+  "image_query": "Gurez valley Habba Khatoon peak",
+  "lat": 34.633,
+  "lng": 74.833,
+  "altitude_m": 2400,
+  "tagline": "Log villages on the Kishanganga below Habba Khatoon peak",
+  "meta_description": "Gurez Valley guide: Razdan Pass road, Dawar's log villages, Habba Khatoon peak, Tulail, registration rules, Sumo and stay costs for 2026.",
+  "summary": "Gurez is a high valley on the Kishanganga river at about 2,400 m, 123 km north of Srinagar over the 3,300 m Razdan Pass. Its Shina-speaking villages of log houses sit below the pyramid-shaped Habba Khatoon peak. The pass closes for about six months, so visit June to October and stay at least three nights.",
+  "intro": [
+    "Gurez feels like a different country from the Kashmir Valley. The road from Bandipora climbs through forest to the Razdan Pass, about 3,300 m, then drops into a narrow valley where the Kishanganga, known as the Neelum further downstream, runs green between steep slopes. The main township, Dawar, is a cluster of log houses, a market and a government school on a flat beside the river, with the pyramid-shaped Habba Khatoon peak rising directly above it.",
+    "Most people in Gurez are Shins who speak Shina, a Dardic language, rather than Kashmiri. Houses are built of thick logs with small windows and earth or tin roofs, designed for winters when snow can cover the ground floor. About 40,000 people live in fifteen villages scattered along the river and up the Tulail valley to the east.",
+    "Gurez is close to the Line of Control, and that shapes travel. Indian visitors register with photo ID at army and police checkposts on the way in; foreign nationals have needed prior permission from the Deputy Commissioner in Bandipora since the valley opened to them in 2025. The Razdan Pass is usually open from about late May to November. Check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Jun – Oct"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Srinagar, about 130 km"],
+    ["From Srinagar", "≈ 123–130 km · 5–6 h via Bandipora and Razdan Pass"],
+    ["Altitude", "about 2,400 m (Razdan Pass about 3,300 m)"],
+    ["Known for", "Habba Khatoon peak, Shina log villages, Kishanganga, Tulail"]
+  ],
+  "best_months": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 1, 0],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Habba Khatoon peak", "text": "The pyramid-shaped peak above Dawar is named after the 16th-century Kashmiri poet Habba Khatoon. Watch it turn gold at sunset from the riverbank, and ask locals about the spring at its foot linked to her in folklore."},
+    {"title": "Dawar's log houses", "text": "Walk the lanes of Dawar and nearby villages to see traditional houses of stacked logs with small windows and stores of firewood and hay for the winter. Ask before photographing homes or people."},
+    {"title": "The Razdan Pass drive", "text": "The road from Bandipora climbs through fir forest to the Razdan Pass at about 3,300 m, with views back over Wular Lake on clear mornings. Snow lines the pass into June."},
+    {"title": "Tulail valley", "text": "East of Dawar, the Tulail valley runs up past villages, fields and meadows towards Badwan. It is a full day by local cab on a rough road, with some of the most remote villages in Kashmir."},
+    {"title": "Kishanganga riverside", "text": "Riverside camps and walking paths follow the Kishanganga near Dawar. Evenings by the river, with the peak lit above, are the reason many people come back."}
+  ],
+  "field_notes": [
+    {"fact": "The pyramid-shaped Habba Khatoon peak above Gurez is named after the poet Zoon, later Habba Khatoon, the wife of Sultan Yousuf Shah Chak, whose songs of longing were composed in Kashmiri rather than the court's Persian.", "source": "Gurez"},
+    {"fact": "Because heavy snow closes the Razdan Pass, Gurez is cut off by road for about six months of the year, and its roughly 40,000 people, mostly Shina-speaking Shins, live in fifteen villages.", "source": "Gurez"},
+    {"fact": "The Kishanganga hydroelectric project at Gurez diverts water from the Kishanganga through a tunnel of about 20 km towards the Wular Lake basin to generate power.", "source": "Gurez"}
+  ],
+  "local_word": {"word": "Lol", "language": "Kashmiri", "meaning": "love and longing, the mood at the heart of Habba Khatoon's songs"},
+  "costs": [
+    ["Shared Sumo seat Bandipora–Dawar", "₹400–700"],
+    ["Private car Srinagar–Gurez, 3 days with driver", "₹13,000–18,000"],
+    ["JKTDC or guesthouse room in Dawar", "₹1,500–3,500 a room"],
+    ["Homestay with dinner and breakfast", "₹1,200–2,500 per person"],
+    ["Local cab day trip to Tulail", "₹3,000–5,000"],
+    ["Riverside tent in season", "₹1,500–3,000 per tent"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar, then drive about 123–130 km via Bandipora and the Razdan Pass, 5–6 hours. Leave Srinagar by 7 am to cross the pass in good light."},
+    {"mode": "Bus", "text": "Take a shared Sumo or bus from Srinagar to Bandipora, then a shared Sumo from Bandipora to Dawar, which leaves in the morning. Carry Aadhaar or passport for checkposts."},
+    {"mode": "Road", "text": "The road is paved but narrow on the pass, open from about late May to November and closed by snow the rest of the year. Registration at checkposts is mandatory. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC runs a tourist bungalow and huts at Dawar, and several family guesthouses and homestays in Dawar and nearby villages offer simple rooms with home-cooked meals, often with shared bathrooms. Riverside camps open in summer. Comfort: a few better guesthouses and seasonal camps with attached baths; expect basic comfort, not hotels. Signature: there are no luxury stays in Gurez; signature travellers can do it with a private car, guide and the best available guesthouse.",
+  "stays": ["jktdc-dawar-gurez"],
+  "tips": [
+    "Carry Aadhaar or passport and several photocopies; you will register more than once.",
+    "Leave Srinagar early to cross the Razdan Pass before afternoon cloud and traffic.",
+    "Bring cash for the whole stay; ATMs in Dawar are few and often empty.",
+    "Do not photograph army posts, bridges or installations anywhere in the valley.",
+    "Pack warm layers even in July; nights in Dawar drop close to freezing."
+  ],
+  "themes": ["road-trips", "homestays-and-villages", "photography", "treks-and-walks"],
+  "nearby": ["srinagar", "sonamarg"],
+  "experiences": [
+    {
+      "slug": "gurez-dawar-village-walk",
+      "title": "Walk Dawar's log-house villages",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "Late afternoon, Jun–Oct",
+      "cost": "Free; local guide ₹1,000–1,500",
+      "image_query": "Dawar Gurez log houses",
+      "wiki": "Gurez",
+      "summary": "A slow walk through Dawar and the villages along the Kishanganga shows how Gurez lives: log houses built for long winters, fields of potato and pulses, firewood and hay stored before the pass closes, and Shina spoken in every lane.",
+      "body": [
+        "Start at the Dawar market and walk out along the river. Traditional houses are built of thick stacked logs with small windows, raised on stone bases, often with a lower floor for animals and stores. Everything a family needs for winter, firewood, hay, dried vegetables, flour, must be in place before snow closes the Razdan Pass for about six months.",
+        "People here are mostly Shins who speak Shina, a Dardic language different from Kashmiri. A local guide can introduce you and translate, and may arrange tea in a home. Greet first, accept tea if offered, and ask before photographing anyone, especially women. Children will be curious and friendly.",
+        "Late afternoon is best: light is warm, the peak above glows, and people are back from the fields. Avoid photographing army camps, bridges and checkposts, which are common in the valley. Return before dark; streets are not lit and the evening drops cold quickly."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "What language do people speak in Gurez?", "a": "Most people speak Shina, a Dardic language, and many also speak Kashmiri, Urdu and some Hindi. A few words of Urdu or Hindi go a long way. A local guide helps with deeper conversations and introductions."},
+        {"q": "Can I photograph homes and people in Gurez?", "a": "Ask first, always. Many people are happy to be photographed when asked politely, but some, especially women, will say no. Never photograph army posts, bridges or installations, which is prohibited in this border area."},
+        {"q": "Are there homestays in Dawar?", "a": "Yes, several families run homestays and guesthouses in and around Dawar, with simple rooms and home-cooked meals. Standards vary; shared bathrooms are common. Book ahead in July and August, or ask your Srinagar operator to arrange one."}
+      ]
+    },
+    {
+      "slug": "gurez-tulail-valley-drive",
+      "title": "Day drive into the Tulail valley",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "8 am, Jun–Sep",
+      "cost": "Local cab ₹3,000–5,000",
+      "image_query": "Tulail valley Gurez",
+      "wiki": "",
+      "summary": "East of Dawar, the Tulail valley climbs past small villages, fields and broad meadows on a rough road. It is the most remote part of Gurez, with log villages, herders and views of high ridges, and needs a full day in a local vehicle.",
+      "body": [
+        "The road leaves Dawar heading upstream and turns into Tulail, following a river through narrow sections that open into wide meadows. Villages of log houses sit on alluvial fans above the river, with fields of potato and pulses and herds on the slopes. The farther you go, the fewer vehicles you meet.",
+        "Hire a local cab in Dawar; drivers know the road, the checkposts and the villages. Carry ID, as there are checkposts on the way. Packed lunch and water are essential; there are few shops. Stop where your driver suggests to walk among fields or along the river.",
+        "The road is rough and sometimes affected by landslides, so start early and return by dusk. Road status can change with weather and security rules; check current status locally the evening before. Pack warm clothes, as the upper valley is colder than Dawar."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Do I need a permit to visit Tulail?", "a": "Indian citizens generally need only to register with ID at checkposts, as for the rest of Gurez. Foreigners need prior permission from the Bandipora administration for Gurez and may face extra limits. Rules change; check current status before you travel."},
+        {"q": "Can I drive my Srinagar taxi to Tulail?", "a": "Usually it is easier to hire a local cab in Dawar, whose drivers know the road and checkposts. Some Srinagar drivers go, but the road is rough. Ask your driver in advance whether he is comfortable on it."},
+        {"q": "Is there food and network in Tulail?", "a": "Very little of either. Carry a packed lunch, snacks and water from Dawar. Mobile coverage is weak or absent in most of the valley, so tell your guesthouse your plans."}
+      ]
+    },
+    {
+      "slug": "gurez-habba-khatoon-peak-evening",
+      "title": "Evening below Habba Khatoon peak",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Sunset, Jun–Oct",
+      "cost": "Free",
+      "image_query": "Habba Khatoon peak Gurez",
+      "wiki": "Habba Khatoon",
+      "summary": "The pyramid peak above Dawar carries the name of Habba Khatoon, the 16th-century poet-queen of Kashmir. An evening on the Kishanganga's bank, watching the peak catch the last light, is the moment that defines Gurez for most visitors.",
+      "body": [
+        "Habba Khatoon was born Zoon, meaning moon, in a village near Pampore in 1554. According to tradition, Sultan Yousuf Shah Chak heard her singing and brought her to court. When the Mughals took Kashmir in 1586 and Yousuf was exiled, she was left to wander, composing songs of separation in Kashmiri rather than the Persian of the court. Her songs are still sung at Kashmiri weddings.",
+        "The peak that carries her name rises steeply above Dawar, a near-perfect pyramid. Local lore links a spring at its foot to her. Walk out of Dawar along the river in the late afternoon and find a bank with a clear view; as the valley falls into shade, the peak stays lit for a few minutes longer.",
+        "Bring a flask of kahwa and a warm layer, because the temperature drops fast after sunset. Do not climb towards the peak or wander near military areas, which are common on the slopes. Return to your guesthouse before dark."
+      ],
+      "good_for": ["couples", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Who was Habba Khatoon?", "a": "Habba Khatoon, born Zoon in 1554 near Pampore, was a Kashmiri poet and the wife of Sultan Yousuf Shah Chak. After he lost Kashmir to the Mughals and was exiled, she composed songs of longing in Kashmiri. Her lyrics are still sung across the valley."},
+        {"q": "Can we climb Habba Khatoon peak?", "a": "It is not a tourist climb, and the slopes are close to military areas. Enjoy it from Dawar and the riverbank. Ask locally about walks to the spring at its base and follow any restrictions."},
+        {"q": "When is the best light on Habba Khatoon peak?", "a": "In the last half hour before sunset, when the valley is in shade and the peak glows. Clear evenings in September and October are especially good. Early morning light also catches the summit."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do Indians need a permit for Gurez?", "a": "Indian citizens do not need a formal permit but must register with photo ID, ideally Aadhaar, at army and police checkposts between Bandipora and Dawar. Carry the original and photocopies. Rules can change in border areas; check current status before you travel."},
+    {"q": "Can foreigners visit Gurez?", "a": "Gurez opened to foreign nationals in 2025 with prior permission from the Deputy Commissioner's office in Bandipora, requested several days ahead. Carry your passport and visa at all times. Check current status before you travel, as access to border areas can change."},
+    {"q": "When is the Gurez road open?", "a": "The Razdan Pass is usually open from about late May or June to November, depending on snow. In winter Gurez is cut off by road for months. Early and late season can bring sudden snowfall, so check current status before you travel."},
+    {"q": "How many days are needed for Gurez?", "a": "Three nights is ideal: one day to drive in, a day for Dawar and the riverside, a day for Tulail, and the drive out. Two nights is the minimum. The drive from Srinagar is 5–6 hours each way."},
+    {"q": "Is Gurez safe for tourists?", "a": "Gurez receives growing numbers of domestic tourists, and the valley is heavily guarded. Follow all checkpost instructions, avoid photographing military areas and stay on main routes. Check current advisories before you travel, since border areas can see sudden restrictions."},
+    {"q": "Is there mobile network in Gurez?", "a": "Coverage is limited. Some postpaid networks work around Dawar; prepaid SIMs from outside J&K generally do not. Many guesthouses have no Wi-Fi. Tell family your plans before you cross the Razdan Pass."},
+    {"q": "Where should we stay in Gurez?", "a": "Dawar has a JKTDC tourist bungalow and huts, family homestays and seasonal riverside camps. Facilities are simple. Book ahead in July and August. Homestays with meals give the best sense of local life."},
+    {"q": "How much does a Gurez trip cost?", "a": "From Srinagar, a three-night saver trip by shared Sumo with homestays costs about ₹8,000–12,000 per person. With a private car for three days, add ₹13,000–18,000 for the vehicle. Prices rise in July and August."},
+    {"q": "Is Gurez suitable for families and seniors?", "a": "Yes, for families comfortable with long drives and simple rooms. The valley sits at about 2,400 m, while the Razdan Pass reaches about 3,300 m, so stop briefly at the top. Seniors with heart or lung conditions should talk to their doctor first."}
+  ]
+}

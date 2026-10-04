@@ -1,0 +1,145 @@
+{
+  "slug": "patan",
+  "name": "Patan (Lalitpur)",
+  "region": "nepal",
+  "kind": "city",
+  "wiki": "Lalitpur, Nepal",
+  "image_query": "Patan Durbar Square Krishna Mandir",
+  "lat": 27.6727,
+  "lng": 85.3253,
+  "altitude_m": 1350,
+  "tagline": "The city of bronze casters and Buddhist courtyards",
+  "meta_description": "Patan (Lalitpur) guide: Durbar Square, Krishna Mandir, Patan Museum, Golden Temple, lost-wax bronze workshops, Newari food, fees and how to get there.",
+  "summary": "Patan, officially Lalitpur and called Yala in Newar, sits across the Bagmati from Kathmandu at 1,350 m. Its Durbar Square has the stone Krishna Mandir of 1637 and the Patan Museum, and its lanes hide Buddhist courtyards and the bronze workshops that cast Nepal's finest statues. A full day is ideal, a night is better.",
+  "intro": [
+    "Patan is the city of craftspeople. During the Malla period, from the 12th to the 18th centuries, its metalworkers, woodcarvers and stone sculptors made images for temples across the Himalaya and Tibet, and the families of Newar Shakya and Bajracharya casters in the lanes north of Durbar Square still use the lost-wax method today. Locally the city is Yala; Lalitpur is its official name and Patan the name most visitors use.",
+    "Buddhism runs deep here. Tradition says Emperor Ashoka visited around 249 BCE and raised four stupas at the city's cardinal points, which still stand. Patan has dozens of bahals, Buddhist monastery courtyards now surrounded by family homes, the best known being the Golden Temple, Hiranya Varna Mahavihar. Rato Machhindranath, the long chariot festival of the valley, belongs to Patan.",
+    "Patan Durbar Square is compact and beautiful: a line of temples facing the old palace, now partly the Patan Museum, with a fine collection of Himalayan bronze and ritual art. Combine the square with a walk through the bahals, a visit to a metal workshop and a Newari lunch, and you have Patan's best day."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Tribhuvan International Airport, ≈ 8 km"],
+    ["From Kathmandu (Thamel)", "≈ 7 km · 25–40 min"],
+    ["Altitude", "1,350 m"],
+    ["Known for", "Krishna Mandir, Patan Museum, Golden Temple, bronze casting"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 1, 0, 1, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Krishna Mandir", "text": "Built in 1637 under King Siddhi Narasimha Malla, this stone temple in the shikhara style has friezes from the Mahabharata and Ramayana along its upper floors. Only Hindus may enter. It fills with devotees at Krishna Janmashtami in August or September."},
+    {"title": "Patan Museum", "text": "Set in Keshav Narayan Chowk of the old palace, the museum displays bronze and stone images with clear English labels explaining how they were made and used. Allow two hours, and eat in the courtyard cafe behind it."},
+    {"title": "The Golden Temple", "text": "Hiranya Varna Mahavihar is a Buddhist monastery courtyard a few minutes north of Durbar Square, with a gilded facade, prayer wheels and a resident tortoise. Remove leather items before entering the inner courtyard and walk clockwise."},
+    {"title": "Bronze workshops", "text": "In the lanes north of the square, Newar families model statues in wax, coat them in clay, melt the wax out and pour in molten metal. Several workshops welcome respectful visitors. A finished statue can take weeks or months."},
+    {"title": "Kumbheshwar and the five-roofed Shiva", "text": "Kumbheshwar is one of only two five-roofed temples in the valley, the other being Nyatapola in Bhaktapur. Its tank is said to be fed from Gosainkunda lake, and it draws crowds during Janai Purnima."}
+  ],
+  "field_notes": [
+    {"fact": "Patan is locally known as Yala. Tradition holds that Emperor Ashoka visited around 249 BCE and erected four stupas at the city's cardinal points, which still stand.", "source": "Lalitpur, Nepal"},
+    {"fact": "In the lost-wax method a model is made in wax, covered in clay, and heated so the wax melts out; molten metal then fills the mould. Patan's Newar casters still make statues this way.", "source": "Lost-wax casting"},
+    {"fact": "Krishna Mandir in Patan Durbar Square was built in 1637 by King Siddhi Narsingh Malla and is one of the few stone shikhara temples in a valley of brick and timber pagodas.", "source": "Krishna Mandir, Patan"}
+  ],
+  "local_word": {"word": "Bahal", "language": "Newar", "meaning": "a Buddhist monastery courtyard, often now lived in by families"},
+  "costs": [
+    ["Patan Durbar Square entry (includes museum)", "₹155 SAARC (NPR 250); ₹625 other foreigners (NPR 1,000)"],
+    ["Taxi from Thamel", "₹400–600 one way"],
+    ["Newari lunch set", "₹250–500"],
+    ["Small cast-bronze statue in a workshop", "₹3,000–25,000+"],
+    ["Guesthouse double near the square", "₹1,800–4,000 a night"],
+    ["Licensed guide, half day", "₹1,500–2,500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tribhuvan International Airport is about 8 km away, 25–40 minutes by taxi through the ring road."},
+    {"mode": "Bus", "text": "Microbuses and Sajha buses run from Ratna Park in Kathmandu to Lagankhel and Patan Dhoka in 30–45 minutes for NPR 25–40."},
+    {"mode": "Road", "text": "A taxi from Thamel crosses the Bagmati at Thapathali and takes 25–40 minutes. Ask for Patan Durbar Square or Mangal Bazaar."}
+  ],
+  "where_to_stay": "Saver: a handful of simple guesthouses around Durbar Square and Mangal Bazaar offer doubles from ₹1,800, and Kathmandu's hostels are only 30 minutes away. Comfort: several restored Newar houses near the square have been turned into small heritage hotels with courtyards and rooftop breakfasts. Signature: there is no luxury hotel in old Patan; stay at Dwarika's in Kathmandu, about 30 minutes away by car, and spend a long day here with a private guide.",
+  "stays": [],
+  "tips": [
+    "Buy your Durbar Square ticket at the booth and keep it for the museum, which is included.",
+    "Remove leather belts and shoes before entering the Golden Temple's inner courtyard.",
+    "Visit bronze workshops in the morning, when casters are working and kilns are lit.",
+    "Ask for a certificate and receipt when buying a bronze, for customs.",
+    "Combine Patan with Bungamati, a Newar woodcarving village 10 km south, for a full day."
+  ],
+  "themes": ["photography", "monasteries", "food-and-tea", "festivals"],
+  "nearby": ["kathmandu", "bhaktapur", "nagarkot"],
+  "experiences": [
+    {
+      "slug": "patan-bronze-casting-workshop-visit",
+      "title": "Inside a Patan lost-wax bronze workshop",
+      "kind": "craft",
+      "duration": "2–3 hours",
+      "best_time": "9 am–1 pm, all year",
+      "cost": "Free to watch in most workshops; guided craft walk ₹2,000–3,500",
+      "image_query": "Patan bronze statue lost wax casting",
+      "wiki": "Lost-wax casting",
+      "summary": "Walk the lanes north of Patan Durbar Square with a guide to see the stages of lost-wax casting: wax models, clay moulds, firing, pouring and the long work of chasing and gilding. The craft has been practised here for centuries.",
+      "body": [
+        "Patan's metalwork tradition goes back to the Malla period, when its casters supplied temples and monasteries across the valley and into Tibet. Today the workshops are mostly small family operations in the lanes and bahals north of Durbar Square, many run by Shakya and Bajracharya families. With a guide who knows the area you can visit two or three at different stages of the work.",
+        "Lost-wax casting starts with a model in beeswax and resin, carved with fine tools. The model is coated in layers of fine clay, then heated so the wax runs out through channels, leaving a hollow mould. Molten copper alloy is poured in; when it cools, the clay is broken away. The rough casting then goes to finishers, who chase details with chisels, polish it and often gild it with fire-gilding or paint the face.",
+        "A small statue can take weeks; a large one, months. Watch quietly, ask before photographing, and do not touch work in progress. If you buy, ask about metal content and get a receipt. Many workshops sell directly at lower prices than shops on Durbar Square, but there is no pressure to buy."
+      ],
+      "good_for": ["couples", "solo", "photographers", "students"],
+      "faqs": [
+        {"q": "Can I buy a statue directly from a Patan workshop?", "a": "Yes, many workshops sell directly. Ask for a receipt that describes the piece as new work; this helps at customs."},
+        {"q": "What metal are Patan statues made of?", "a": "Usually a copper alloy, sometimes gilded with gold or painted. Ask the workshop what alloy and finish a piece has."},
+        {"q": "Do I need a guide to find the workshops?", "a": "It helps. Workshops are in small courtyards and are not signposted. A local guide can also explain each stage of the process."}
+      ]
+    },
+    {
+      "slug": "patan-museum-and-durbar-square",
+      "title": "Patan Museum and the Durbar Square line",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "10:30 am–1:30 pm, Oct–Apr",
+      "cost": "NPR 250 SAARC, NPR 1,000 others (square and museum)",
+      "image_query": "Patan Museum Keshav Narayan Chowk",
+      "wiki": "Patan Museum",
+      "summary": "Start in the Patan Museum for the background, then walk the row of temples in Durbar Square with new eyes: Krishna Mandir, the Bhimsen temple and the palace courtyards of the Malla kings.",
+      "body": [
+        "The Patan Museum occupies Keshav Narayan Chowk, one of the courtyards of the old Malla palace. Its galleries explain Hindu and Buddhist iconography, show how bronzes are cast and gilded, and display some of the valley's finest metal sculpture. Labels are in clear English, and the building itself, with its carved windows and courtyard, is part of the exhibit. Allow at least 90 minutes.",
+        "Step out into Durbar Square. Krishna Mandir, built in 1637, is the stone temple with friezes from the epics; non-Hindus admire it from outside. Further along are the bell, the Vishwanath and Bhimsen temples, and the Mul Chowk and Sundari Chowk courtyards of the palace, the latter with a carved royal bath. Sit on a temple plinth with locals in the afternoon and watch the square.",
+        "Lunch at the museum's courtyard cafe or a Newari restaurant on the square. If you stay until dusk, the temples glow in low light and the square fills with families. The ticket covers both square and museum, so you can come back the same day."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "students"],
+      "faqs": [
+        {"q": "Is the Patan Museum included in the Durbar Square ticket?", "a": "Yes, the standard Patan Durbar Square ticket includes the museum. Check current status before you travel, as fees change."},
+        {"q": "What are the Patan Museum opening hours?", "a": "It usually opens around 10:30 am and closes in the late afternoon, with shorter hours in winter. Check locally before you go."},
+        {"q": "Can non-Hindus enter Krishna Mandir?", "a": "No, entry is for Hindus only. Everyone can see the carved friezes and the temple from the square."}
+      ]
+    },
+    {
+      "slug": "patan-golden-temple-and-courtyards",
+      "title": "Golden Temple and Patan's hidden bahals",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "7–10 am, all year",
+      "cost": "Small entry fee at the Golden Temple; walk free",
+      "image_query": "Golden Temple Patan Hiranya Varna Mahavihar",
+      "wiki": "Hiranya Varna Mahavihar",
+      "summary": "A morning walk through Patan's Buddhist courtyards, starting at the gilded Golden Temple and ending at Kumbheshwar's five-roofed temple. You see how monasteries became neighbourhoods without losing their shrines.",
+      "body": [
+        "Hiranya Varna Mahavihar, the Golden Temple, is a short walk north of Durbar Square through a low doorway. Inside the courtyard a gilded three-roofed shrine faces a small central temple, with prayer wheels, bells and brass images all around. Tortoises are kept here as sacred animals. Remove shoes and leather items before entering the inner courtyard and walk clockwise. Morning puja is the best time to come.",
+        "From here, wind through the lanes to other bahals, courtyards founded as Buddhist monasteries and now home to the families descended from their monks. Each has a central shrine, stupas called chaityas, and water taps where people fill pots. Ask locals or your guide the way; many entrances are just doorways in a brick wall.",
+        "End at Kumbheshwar, one of only two five-roofed temples in the valley. The bathing tank beside it is believed to be fed from the high lake of Gosainkunda, and it fills with bathers during Janai Purnima in August. Walk back to Durbar Square in ten minutes for breakfast."
+      ],
+      "good_for": ["solo", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Why are there tortoises at the Golden Temple?", "a": "Tortoises are kept as sacred animals in the courtyard, and visitors often see them moving around the shrine."},
+        {"q": "What should I wear to the Golden Temple?", "a": "Modest clothing covering shoulders and knees. Shoes and leather items such as belts must be removed before entering the inner courtyard."},
+        {"q": "Is Kumbheshwar open to non-Hindus?", "a": "The courtyard and tank area can be visited; the inner sanctum is for Hindus. Follow signs and local guidance."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Patan worth visiting if I have seen Kathmandu Durbar Square?", "a": "Yes. Patan's square is smaller and more complete, the Patan Museum gives a clear introduction to Himalayan art, and the bronze workshops and Buddhist courtyards around it are Patan's own. We would not skip it."},
+    {"q": "What is the entry fee for Patan Durbar Square?", "a": "In 2026 SAARC visitors, including Indians, pay NPR 250 and other foreigners NPR 1,000, with the Patan Museum included. Show your passport or voter ID for the SAARC rate. Check current status before you travel."},
+    {"q": "How far is Patan from Thamel?", "a": "About 7 km, 25–40 minutes by taxi depending on traffic, for NPR 600–900. Microbuses from Ratna Park are cheaper but slower."},
+    {"q": "Where can I eat Newari food in Patan?", "a": "Restaurants around Durbar Square and Mangal Bazaar serve samay baji, bara, chatamari, choila and yomari in season. Try a full Newari set for NPR 400–800."},
+    {"q": "When is the Rato Machhindranath festival?", "a": "The chariot festival of Rato Machhindranath begins in spring, usually April or May, and the tall chariot is pulled through Patan over several weeks. Dates follow the lunar calendar. Check current status before you travel."},
+    {"q": "Is it safe to buy bronze statues in Patan?", "a": "Buying new work is fine. Avoid anything claimed to be antique, which may need clearance from the Department of Archaeology and may be illegal to export. Keep receipts for customs."},
+    {"q": "Should I stay overnight in Patan?", "a": "If you want quiet evenings and early courtyards, yes. Otherwise it is an easy day trip from Thamel. A night here also places you close to the ring road for an early Bhaktapur or Nagarkot start."},
+    {"q": "Is Patan good for kids?", "a": "Yes. Children usually enjoy the tortoises at the Golden Temple and watching casters at work. The square is pedestrian, but watch for motorbikes in the lanes."},
+    {"q": "Can I visit Bungamati from Patan?", "a": "Yes. Bungamati, a Newar village known for woodcarving and its Machhindranath temple, is about 10 km south. A taxi takes 30–40 minutes."}
+  ]
+}

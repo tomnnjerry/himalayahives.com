@@ -1,0 +1,144 @@
+{
+  "slug": "dachigam",
+  "name": "Dachigam National Park",
+  "region": "kashmir",
+  "kind": "national park",
+  "wiki": "Dachigam National Park",
+  "image_query": "Dachigam National Park hangul",
+  "lat": 34.14,
+  "lng": 74.95,
+  "altitude_m": 1700,
+  "tagline": "Home of the hangul, 22 km from Srinagar",
+  "meta_description": "Dachigam National Park guide: hangul stags, Himalayan black bears, birding on the Dagwan, permits, rut-season closures and day-trip costs for 2026.",
+  "summary": "Dachigam National Park covers about 141 sq km of forest and alpine meadow just 22 km from Srinagar, rising from about 1,676 m to 4,267 m. It is the last stronghold of the hangul, the Kashmir stag. Visit lower Dachigam on a half day with a permit; autumn is best for stags, spring and summer for bears and birds.",
+  "intro": [
+    "Few capital cities have a national park this close. Leave Srinagar past Shalimar Bagh and Harwan, and within half an hour you are at the gate of Dachigam, a steep valley of oak, willow, walnut and conifer forest cut by the Dagwan river. The name means ten villages, remembering settlements moved out when the area became a protected reserve in the early 20th century.",
+    "Dachigam was a hunting reserve of the Maharajas of Jammu and Kashmir, protected from 1910, partly to safeguard Srinagar's water supply, and declared a national park in 1981. It is now the main refuge of the hangul, a red deer subspecies that once roamed much of Kashmir and today survives in small numbers. Himalayan black bears, leopards, musk deer and many birds share the park.",
+    "Visitors are allowed in lower Dachigam, a gentle valley floor with forest roads and paths, with a permit from the Wildlife Department in Srinagar. Upper Dachigam, with Marsar lake and the high meadows, is restricted. Entry has been suspended at times during the hangul rutting season, so check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Sep – Dec for hangul; Apr – Jun for bears and birds"],
+    ["Nights we suggest", "0 (half-day trip from Srinagar)"],
+    ["Nearest airport", "Srinagar, about 35 km"],
+    ["From Srinagar", "≈ 22 km · 40–50 min"],
+    ["Altitude", "about 1,676 m to 4,267 m"],
+    ["Known for", "Hangul, Himalayan black bear, birdlife"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "The hangul", "text": "The Kashmir stag, or hangul, is the park's signature animal. In autumn, stags call loudly during the rut, and winter brings herds down to lower slopes, giving the best chance of a sighting."},
+    {"title": "Himalayan black bears", "text": "Dachigam has one of the densest populations of Asiatic black bears in the Himalaya. In spring and summer they feed on fruit and nuts in lower forests. Keep a safe distance and follow your guide."},
+    {"title": "Birds of the Dagwan", "text": "The river and mixed forest support many species. Himalayan monal and koklass pheasant live higher up; lower down, look for wagtails, flycatchers, woodpeckers and raptors over the ridges."},
+    {"title": "A water reserve", "text": "The Dagwan flows from Marsar lake in upper Dachigam to the Sarband reservoir, a source of Srinagar's drinking water. The park was first protected partly for this reason."},
+    {"title": "Combine with Shalimar", "text": "The park gate is close to Shalimar Bagh and Harwan. Go to Dachigam early, when animals are active, and visit the Mughal gardens on the way back."}
+  ],
+  "field_notes": [
+    {"fact": "Dachigam means ten villages, remembering the settlements relocated to create the reserve. The area has been protected since 1910 and became a national park in 1981.", "source": "Dachigam National Park"},
+    {"fact": "The Dagwan river flows from Marsar lake inside the park and feeds the Sarband reservoir, a source of Srinagar's drinking water, which was one reason the catchment was protected.", "source": "Dachigam National Park"},
+    {"fact": "Dachigam covers about 141 sq km and spans altitudes from about 1,676 m to 4,267 m, with forests, alpine pastures and steep gullies called nars.", "source": "Dachigam National Park"}
+  ],
+  "local_word": {"word": "Hangul", "language": "Kashmiri", "meaning": "the Kashmir stag, a red deer subspecies and the state animal of the former Jammu and Kashmir"},
+  "costs": [
+    ["Entry permit, Wildlife Department", "nil or nominal; check current fee"],
+    ["Private taxi Srinagar–Dachigam half day", "₹1,200–2,000"],
+    ["Naturalist or wildlife guide", "₹1,000–2,500"],
+    ["Shared auto or bus Srinagar–Harwan", "₹30–60"],
+    ["Binocular hire (where available)", "₹200–500"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Srinagar airport is about 35 km away. Drive via the city and Shalimar to the park gate near Harwan, about an hour."},
+    {"mode": "Bus", "text": "Local buses and shared autos run from Srinagar to Harwan. From there it is a short taxi ride or walk to the gate. Arrange your permit before you set off."},
+    {"mode": "Road", "text": "The road from Srinagar via the Boulevard, Nishat and Shalimar to Harwan is open all year. Inside the park, vehicles and walking routes are controlled by the Wildlife Department."}
+  ],
+  "where_to_stay": "There are no tourist stays inside Dachigam. Stay in Srinagar: a houseboat on Nigeen or the inner Dal for saver budgets, a Boulevard hotel for comfort, or The LaLiT Grand Palace for signature trips. Shalimar and Harwan are the closest neighbourhoods to the gate, but most visitors simply leave the city at dawn.",
+  "stays": [],
+  "tips": [
+    "Get your permit from the Wildlife Department in Srinagar a day ahead; carry ID.",
+    "Arrive at opening time; animals are most active in the early morning.",
+    "Wear muted colours, walk quietly and keep phones on silent.",
+    "Never approach bears; follow your guide's instructions at all times.",
+    "Check whether the park is open during the hangul rut, when entry has been suspended."
+  ],
+  "themes": ["wildlife-and-birds", "photography", "treks-and-walks", "family-holidays"],
+  "nearby": ["srinagar", "pampore", "aru-valley"],
+  "experiences": [
+    {
+      "slug": "dachigam-lower-valley-wildlife-walk",
+      "title": "Morning wildlife walk in lower Dachigam",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "Opening time, Apr–Jun and Sep–Dec",
+      "cost": "Permit (nil or nominal); guide ₹1,000–2,500",
+      "image_query": "Dachigam National Park forest Dagwan",
+      "wiki": "Dachigam National Park",
+      "summary": "Lower Dachigam is a broad, gentle valley floor of forest, orchards and meadow along the Dagwan. A guided morning walk or drive with a permit gives a good chance of seeing deer, bears in season, and plenty of birds, only an hour from Srinagar.",
+      "body": [
+        "Apply for a permit at the Wildlife Department office in Srinagar, ideally the day before, and bring photo ID. At the gate your permit is checked, and a staff member or guide may accompany you. Routes are fixed, and visitors are limited to the lower valley; upper Dachigam and Marsar are restricted.",
+        "The lower valley is gentle, following the Dagwan through mixed forest of willow, poplar, walnut and conifer, with grassy clearings where hangul and other animals graze. In spring and summer, Himalayan black bears feed on fruit trees and nuts and are often seen at a distance. In autumn and winter, hangul move to lower slopes.",
+        "Walk quietly, keep together, and let your guide lead. Bears can be dangerous if surprised, especially mothers with cubs; never approach them or leave food. Binoculars make a big difference. Allow three to four hours, and combine the visit with Shalimar Bagh on the way back to Srinagar."
+      ],
+      "good_for": ["photographers", "families", "students", "seniors"],
+      "faqs": [
+        {"q": "How do I get a permit for Dachigam National Park?", "a": "Apply at the office of the Chief Wildlife Warden or the Wildlife Department in Srinagar with photo ID, ideally a day before. Fees have been nil or nominal, but rules and procedures change. Check current status before you travel."},
+        {"q": "Can I see a hangul in Dachigam?", "a": "Sightings are possible but not guaranteed, as numbers are small. The best chances are from autumn into winter, when herds move to lower slopes. Early mornings and a knowledgeable guide help a lot. Bears are seen more often in spring and summer."},
+        {"q": "Is Dachigam suitable for children and seniors?", "a": "Yes, lower Dachigam is gentle and mostly flat. Children must stay close to adults because bears live here. Seniors can manage short walks, and some sections may be covered by vehicle where allowed."}
+      ]
+    },
+    {
+      "slug": "dachigam-hangul-rut-autumn",
+      "title": "Listening for the hangul rut in autumn",
+      "kind": "wildlife",
+      "duration": "Half day",
+      "best_time": "Dawn, Sep–Nov",
+      "cost": "Permit (nil or nominal); guide ₹1,500–2,500",
+      "image_query": "hangul Kashmir stag",
+      "wiki": "Kashmir stag",
+      "summary": "In autumn, hangul stags bugle across the forested slopes of Dachigam during the rut. Hearing their calls at dawn, and with luck seeing a stag with full antlers, is one of the rarest wildlife experiences in the Himalaya, when the park is open to visitors.",
+      "body": [
+        "The hangul is a subspecies of red deer found in Kashmir, and Dachigam holds its main surviving population. From about September to November, stags call to rivals and gather hinds, and their loud bugling carries through the cold dawn air. Antlers are at their finest in this season.",
+        "Because the rut is a sensitive time, the Wildlife Department has suspended visitor entry to Dachigam during parts of the rutting season in some years. Check current status before you travel. When open, go with an experienced guide, keep strictly to permitted routes and avoid any noise or movement that disturbs the animals.",
+        "Dress warmly: autumn dawns in the park are near freezing. Use binoculars or a long lens rather than trying to get close. Even if you do not see a stag, the calls, the autumn colours of the forest and the quiet of the valley make the morning worthwhile."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "When is the hangul rutting season?", "a": "Broadly September to November, peaking in October. Stags call most at dawn and dusk. The Wildlife Department has suspended visitor entry during parts of the rut in some years to protect the animals. Check current status before you travel."},
+        {"q": "How many hangul are left?", "a": "Only a few hundred hangul are estimated to survive, mostly in Dachigam and nearby forests, based on periodic surveys by the Wildlife Department. The population has been the focus of conservation and breeding efforts."},
+        {"q": "Can I photograph hangul in Dachigam?", "a": "Yes, from permitted routes and at a respectful distance. Use a long lens and binoculars, avoid flash, and never follow or approach animals. Drones are not allowed in the park."}
+      ]
+    },
+    {
+      "slug": "dachigam-dagwan-birding",
+      "title": "Birding along the Dagwan river",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "7 am, Apr–Jun",
+      "cost": "Permit (nil or nominal); guide ₹1,000–2,000",
+      "image_query": "Dagwan river Dachigam",
+      "wiki": "",
+      "summary": "The Dagwan river and the mixed forest of lower Dachigam are good for birds, especially in spring when summer visitors arrive. A slow morning walk with binoculars can turn up flycatchers, woodpeckers, wagtails and birds of prey, with pheasants higher up the slopes.",
+      "body": [
+        "Spring, from April to June, is the best season, when breeding birds sing and summer migrants arrive from the plains. Walk slowly along the riverbank and the forest edge, stopping often to listen. Mornings from 7 to 10 am are most productive.",
+        "Along the water, look for wagtails, dippers and kingfishers. In the forest, woodpeckers, tits, flycatchers and thrushes are common, and raptors soar over the ridges on warm mornings. Himalayan monal and koklass pheasant live higher in the park, beyond the usual visitor zone, but are sometimes heard.",
+        "Carry binoculars and a field guide or app. Keep to permitted paths and stay close to your guide, since bears share the same forest. A local birder from Srinagar can help with identification; ask the Wildlife Department or your hotel for contacts."
+      ],
+      "good_for": ["photographers", "seniors", "students", "solo"],
+      "faqs": [
+        {"q": "What birds can I see in Dachigam?", "a": "The park records many species, including Himalayan monal and koklass pheasant at higher levels. In lower Dachigam, expect wagtails, dippers, woodpeckers, flycatchers, tits, thrushes and raptors. Spring brings the most activity and song."},
+        {"q": "Is a guide necessary for birding in Dachigam?", "a": "Yes, both for safety, since bears live in the park, and for identification. Park rules may require staff to accompany visitors. A local birder improves your sightings significantly."},
+        {"q": "What should I bring for birding in Dachigam?", "a": "Binoculars, a field guide or app, muted clothing, water, a warm layer and your permit with photo ID. A camera with a long lens is useful. Leave no food or litter behind."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Dachigam National Park open to tourists?", "a": "Lower Dachigam is generally open to visitors with a permit from the Wildlife Department in Srinagar. Upper Dachigam is restricted. Entry has been suspended at times, for example during the hangul rut. Check current status before you travel."},
+    {"q": "How far is Dachigam from Srinagar?", "a": "About 22 km, 40–50 minutes by car via Nishat, Shalimar and Harwan. A private taxi half day costs ₹1,200–2,000. Local buses and shared autos run to Harwan, close to the gate."},
+    {"q": "What animals can I see in Dachigam?", "a": "The hangul or Kashmir stag is the star. Himalayan black bears are often seen in spring and summer. Leopards, musk deer and many birds live here too, though leopards are rarely seen. Sightings are never guaranteed."},
+    {"q": "What is the best time to visit Dachigam?", "a": "September to December for hangul, with October the rut, though entry may be limited. April to June for bears, birds and spring green. Winter brings hangul to lower slopes but the cold is harsh. Avoid the midday heat in summer."},
+    {"q": "Can I do a safari in Dachigam?", "a": "Dachigam is not run like a jeep-safari park. Visits are walks or limited drives in the lower valley, controlled by the Wildlife Department. Ask when applying for your permit what is currently allowed."},
+    {"q": "Is Dachigam safe because of bears?", "a": "It is safe with sensible behaviour. Stay with your guide, keep to permitted routes, never approach bears or carry open food, and move away calmly if one is close. Most bear encounters in the park are at a distance."},
+    {"q": "Can I combine Dachigam with the Mughal gardens?", "a": "Yes. The park gate is close to Shalimar Bagh and Harwan. Go to Dachigam at opening time, then visit Shalimar and Nishat on the way back to Srinagar for an excellent half day."},
+    {"q": "Are drones and pets allowed in Dachigam?", "a": "No. Drones, pets, music and littering are not allowed in the national park. Photography for personal use is fine on permitted routes. Commercial filming needs separate permission."},
+    {"q": "Is there food at Dachigam?", "a": "No restaurants operate inside the park. Carry water and a snack, and eat in Srinagar or at small eateries near Shalimar afterwards. Do not carry open food on walks because of bears."}
+  ]
+}

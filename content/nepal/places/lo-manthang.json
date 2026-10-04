@@ -1,0 +1,145 @@
+{
+  "slug": "lo-manthang",
+  "name": "Lo Manthang",
+  "region": "nepal",
+  "kind": "town",
+  "wiki": "Lomanthang Rural Municipality",
+  "image_query": "Lo Manthang walled city Upper Mustang",
+  "lat": 29.1833,
+  "lng": 83.9578,
+  "altitude_m": 3840,
+  "tagline": "The walled capital of the old Kingdom of Lo",
+  "meta_description": "Lo Manthang guide: walled town of Upper Mustang at 3,840 m, gompas, sky caves, Tiji festival, the USD 50-a-day permit, guide rule, jeep and trek routes, altitude.",
+  "summary": "Lo Manthang is the walled capital of Upper Mustang, the former Kingdom of Lo, at about 3,840 m north of the main Himalaya. Founded in 1380, closed to outsiders until 1992, it keeps its palace, painted gompas and Tibetan way of life. Foreigners need a restricted-area permit (USD 50 a day since late 2025) and a licensed guide.",
+  "intro": [
+    "Lo Manthang was founded in 1380 by Ame Pal, a Buddhist ruler who built much of the walled town that still stands. Inside its mud-brick wall are the four-storey royal palace, whitewashed houses with firewood on their roofs, and gompas whose murals are among the finest in the Tibetan world. The people of Lo speak a Tibetan dialect and follow Tibetan Buddhism, mostly of the Sakya school, and many still farm barley and herd goats and yaks.",
+    "Upper Mustang was closed to outsiders until 1992, which helped protect its culture and art. The kings of Lo kept their title inside Nepal until the government ended the local monarchy on 7 October 2008; the last king, Jigme Dorje Palbar Bista, died in 2016. In 2007 a shepherd found a cave with 55 paintings of the life of the Buddha, one of many discoveries in the region's sky caves.",
+    "Lo Manthang lies in the rain shadow of the Himalaya, so it is dry and good to visit even in the monsoon, from about April to October. A jeep road now runs up the Kali Gandaki from Jomsom, cutting a two-week trek to a few days' drive, but walking parts of it is still the best way to see the canyons. At 3,840 m, plan acclimatisation and talk to your doctor."
+  ],
+  "facts": [
+    ["Best months", "Apr – Oct"],
+    ["Nights we suggest", "3–4 (with nights at Kagbeni/Chele and Ghami/Tsarang)"],
+    ["Nearest airport", "Jomsom Airport, ≈ 80 km"],
+    ["From Jomsom", "≈ 80 km · 7–9 h by jeep, or 4–5 days on foot"],
+    ["Altitude", "≈ 3,840 m"],
+    ["Known for", "Walled town, Tibetan gompas, sky caves, Tiji festival, restricted-area permit"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 1, 0],
+  "nights": "3–4",
+  "highlights": [
+    {"title": "Inside the wall", "text": "The town's wall encloses a maze of lanes, courtyards and stupas around the royal palace. Walk it with your guide early in the morning, when herders take animals out through the single main gate."},
+    {"title": "Painted gompas", "text": "Jampa Lhakhang and Thubchen, both centuries old, hold large Buddha images and wall paintings restored in recent decades. Lamps are dim; ask your guide to arrange entry and carry a small torch."},
+    {"title": "Sky caves of Chhoser", "text": "North of the town, cliffs at Chhoser are honeycombed with man-made caves once used as homes, shrines and tombs. One multi-storey cave complex can be climbed inside with ladders."},
+    {"title": "Tiji in spring", "text": "Each year, usually in May, Lo Manthang holds Tiji, three days of masked dances in the palace square telling how the deity Dorje Jono defeated a demon. In 2026 it fell on 14–16 May. Check current status before you travel."},
+    {"title": "The canyon road north", "text": "From Kagbeni the route climbs past Chele, Ghami and Tsarang through red and ochre canyons, long mani walls and chortens. Ghami has one of the longest mani walls in Mustang."}
+  ],
+  "field_notes": [
+    {"fact": "Lo Manthang was founded in 1380 by Ame Pal, and the walled city has changed little in appearance since. The last king, Jigme Dorje Palbar Bista, traced his lineage to Ame Pal.", "source": "Upper Mustang"},
+    {"fact": "Upper Mustang was a closed territory, off limits to outsiders, until 1992. The monarchy of Lo ceased to exist on 7 October 2008 by order of the Government of Nepal.", "source": "Upper Mustang"},
+    {"fact": "In 2007 a shepherd in Mustang discovered a cave containing 55 paintings depicting the life of the Buddha.", "source": "Upper Mustang"}
+  ],
+  "local_word": {"word": "Gompa", "language": "Loba (Tibetan dialect)", "meaning": "monastery or temple"},
+  "costs": [
+    ["Restricted-area permit (foreigners, incl. Indians)", "USD 50 a day (≈ ₹4,300) from Nov 2025; check current status"],
+    ["ACAP permit", "₹625 SAARC; ₹1,875 others"],
+    ["Private jeep, Jomsom–Lo Manthang one way", "₹16,000–25,000 per vehicle"],
+    ["Lodge room in Lo Manthang", "₹600–2,500 a night"],
+    ["Dal bhat or Tibetan meal", "₹550–900"],
+    ["Licensed guide (required)", "₹2,500–3,500 a day"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly from Pokhara to Jomsom (about 20 minutes, morning only), then continue by jeep. There are no scheduled flights into Upper Mustang."},
+    {"mode": "Bus", "text": "No public buses run into Upper Mustang for foreigners' itineraries in practice; local jeeps run from Jomsom but your registered agency arranges transport with your permit."},
+    {"mode": "Road", "text": "A jeep road runs from Jomsom via Kagbeni, Chele, Ghami and Tsarang to Lo Manthang, about 80 km, 7–9 hours in one push or better split over two days for acclimatisation. Landslides and river crossings can close it. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: Lo Manthang's family lodges offer simple twin rooms, usually with shared bathrooms, from ₹600, and dining rooms heated by stoves; food is mostly dal bhat, noodles and Tibetan bread. Comfort: a few newer lodges inside and just outside the wall have attached bathrooms and solar hot water; book through your agency. Signature: there is no luxury hotel in Upper Mustang. Our signature Mustang trip uses the best available lodge rooms with a private jeep and guide, and pairs them with Tiger Mountain Pokhara Lodge and Dwarika's.",
+  "stays": [],
+  "tips": [
+    "Do not drive from Jomsom to Lo Manthang in one day if you can split it; sleep at Ghami or Tsarang to acclimatise.",
+    "Carry a headtorch for gompa murals, which are lit only by small windows and lamps.",
+    "Pack sunscreen, lip balm, a buff and sunglasses for the dust and strong sun.",
+    "Many lodges close in winter, from about December to February, when residents move south.",
+    "Ask before photographing people and inside gompas; some charge a fee, some forbid it."
+  ],
+  "themes": ["monasteries", "festivals", "road-trips", "treks-and-walks", "photography"],
+  "nearby": ["marpha", "pokhara"],
+  "experiences": [
+    {
+      "slug": "lo-manthang-gompa-murals-tour",
+      "title": "Murals of Jampa Lhakhang and Thubchen",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "9 am–12 pm, Apr–Oct",
+      "cost": "Gompa entry fees and donations ₹300–1,000",
+      "image_query": "Lo Manthang monastery murals Mustang",
+      "wiki": "",
+      "summary": "With your guide and a caretaker monk, visit the two great gompas inside Lo Manthang's walls, whose centuries-old wall paintings and Buddha images were restored in recent decades. Bring a torch and time.",
+      "body": [
+        "Jampa Lhakhang, dedicated to Maitreya, the future Buddha, is one of the oldest buildings in Lo Manthang. Its main hall holds a large clay image of Maitreya and walls covered with mandala paintings. Thubchen, a large assembly hall nearby, has tall wooden pillars and murals of Buddhas and protector deities. Both were damaged by time, smoke and leaking roofs, and conservation teams have worked on them since the late 1990s.",
+        "Entry is through a caretaker, so your guide will arrange a time. Inside, light is dim; a headtorch with a low red or warm setting helps you see without damaging the paint. Walk clockwise, do not touch the walls, and ask before taking any photographs. A small entry fee and a donation go towards upkeep.",
+        "After the gompas, walk to Chode, the town's active monastery, where young monks study and you may hear chanting in the late afternoon. Allow a full morning; the murals reward slow looking."
+      ],
+      "good_for": ["couples", "solo", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Can I take photos inside Lo Manthang's gompas?", "a": "Rules vary; some gompas forbid photography and some charge a fee. Always ask the caretaker first, and never use flash on murals."},
+        {"q": "How old are the gompas in Lo Manthang?", "a": "Jampa Lhakhang and Thubchen date back several centuries, to the early centuries of the Kingdom of Lo. Ask your guide for each building's story."},
+        {"q": "Do I need a guide to enter the gompas?", "a": "You will have a licensed guide anyway under permit rules, and the guide arranges entry with the caretaker."}
+      ]
+    },
+    {
+      "slug": "lo-manthang-chhoser-sky-caves",
+      "title": "Ride or hike to the Chhoser sky caves",
+      "kind": "adventure",
+      "duration": "Full day",
+      "best_time": "8 am–3 pm, Apr–Oct",
+      "cost": "Jeep share ₹2,000–4,000 or horse hire ₹2,500–4,000; cave fee",
+      "image_query": "Chhoser caves Mustang cliff",
+      "wiki": "Chhoser",
+      "summary": "Head north from Lo Manthang by horse, jeep or on foot to Chhoser, where ochre cliffs are cut with hundreds of man-made caves. Climb inside a multi-storey cave complex by ladders and visit the cliff-side monastery.",
+      "body": [
+        "Mustang's sky caves were dug into soft cliffs centuries ago and used as dwellings, meditation cells, shrines and burial chambers. Many are now unreachable, and archaeologists have found manuscripts, paintings and human remains in some. Chhoser, a valley about 2 hours north of Lo Manthang, has some of the most accessible.",
+        "The best known is a cave complex several storeys high, with rooms joined by narrow passages and wooden ladders. A caretaker collects a small fee. Nearby, small gompas are built into the cliff face. Walk carefully; ceilings are low, floors uneven, and ladders steep.",
+        "Many visitors ride local horses from Lo Manthang, which is a good way to cover the distance at altitude; others share a jeep. Carry water, sun protection and a warm layer, as the afternoon wind is cold. Return to Lo Manthang for the night."
+      ],
+      "good_for": ["students", "couples", "photographers"],
+      "faqs": [
+        {"q": "Are the Mustang sky caves safe to climb?", "a": "The open complex at Chhoser is visited regularly but has steep ladders and low ceilings. Go slowly with your guide. It is not for people with mobility problems."},
+        {"q": "Can I ride a horse to Chhoser?", "a": "Yes, horses can be hired in Lo Manthang through your lodge or guide. Ride at a walk on rough ground."},
+        {"q": "Is Chhoser inside the restricted area?", "a": "Yes. It is covered by your Upper Mustang permit; your guide must accompany you."}
+      ]
+    },
+    {
+      "slug": "lo-manthang-walled-town-walk",
+      "title": "A morning inside the walls of Lo",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "7–10 am, Apr–Oct",
+      "cost": "Free walk; palace or museum fee where open",
+      "image_query": "Lo Manthang royal palace wall",
+      "wiki": "Upper Mustang",
+      "summary": "Walk the lanes of Lo Manthang as the town wakes: herders driving goats out through the gate, women at the water point, the royal palace, prayer wheels and stupas, and the view from the walls across barley fields to the brown hills of Lo.",
+      "body": [
+        "Lo Manthang's wall encloses a compact town of about 150 houses, a palace and several gompas. Traditionally, the single main gate in the north wall was closed at night. Start there at about 7 am, when herders take goats, sheep and horses out to graze and villagers turn the prayer wheels by the gate.",
+        "Walk past the royal palace, a tall four-storey building of mud brick with carved windows, home of the kings of Lo until the monarchy ended in 2008. Some years parts of it are open; ask your guide. Then wander the lanes past whitewashed houses with juniper and firewood stacked on their roofs and courtyards where barley is threshed after harvest.",
+        "Climb to a rooftop cafe or a point above the town for the view of the wall, the fields outside it and the bare hills beyond. In spring, this square fills for Tiji. Keep your voice down near houses and do not enter courtyards uninvited."
+      ],
+      "good_for": ["photographers", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can I visit the royal palace in Lo Manthang?", "a": "Access varies by year and with the family's wishes. Ask your guide on arrival. Respect any closures."},
+        {"q": "Is Lo Manthang still ruled by a king?", "a": "No. The local monarchy was ended by the Government of Nepal on 7 October 2008. The royal family remains respected locally."},
+        {"q": "How big is Lo Manthang?", "a": "Small enough to walk around inside the walls in under an hour, with a few hundred residents in the old town and more in the newer houses outside."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How much is the Upper Mustang permit in 2026?", "a": "Under a November 2025 decision, foreigners pay USD 50 per person per day in the restricted area, replacing the old USD 500 for 10 days. The permit is issued through a registered trekking agency, needs a licensed guide, and normally at least two trekkers. You also need an ACAP permit. Check current status before you travel."},
+    {"q": "Do Indian citizens need the Upper Mustang permit?", "a": "Yes. Restricted-area permits apply to all foreign nationals, including Indians, even though Indians need no visa for Nepal. Apply through a registered Nepali trekking agency. Check current status before you travel."},
+    {"q": "How do I reach Lo Manthang?", "a": "Fly or drive to Jomsom from Pokhara, then go by jeep via Kagbeni, Chele, Ghami and Tsarang, about 80 km. Split the drive over two days to acclimatise. Trekking takes 4–5 days each way."},
+    {"q": "Is altitude sickness a risk in Lo Manthang?", "a": "Yes. At about 3,840 m, with passes near 4,000 m on the way, headaches and breathlessness are common. Ascend over two days from Jomsom, drink plenty of water, avoid alcohol at first, and descend if symptoms worsen. Talk to your doctor before you travel."},
+    {"q": "When is the best time to visit Upper Mustang?", "a": "April to October. Mustang lies in the rain shadow, so the monsoon months are drier here than elsewhere in Nepal. May brings the Tiji festival. Winter is very cold and many residents and lodges move south."},
+    {"q": "When is Tiji festival in Lo Manthang?", "a": "Tiji is held each spring by the Tibetan calendar, usually in May. In 2026 it fell on 14–16 May. Book permits and lodges early. Check current status before you travel."},
+    {"q": "Is there mobile network in Lo Manthang?", "a": "Coverage has improved and Nepal Telecom works in Lo Manthang, though it may be patchy along the route. Many lodges have wifi when power allows. Do not rely on it."},
+    {"q": "Can families do the Upper Mustang trip?", "a": "Older children with experience of altitude can, by jeep with gradual stops. It is not ideal for young children or anyone with heart or lung problems; talk to your doctor first."},
+    {"q": "What should I pack for Lo Manthang?", "a": "A warm down jacket, layers, a windproof shell, sunglasses, high-SPF sunscreen, lip balm, a buff for dust, a headtorch, a sleeping bag liner and enough cash for the whole trip."}
+  ]
+}

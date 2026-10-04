@@ -1,0 +1,144 @@
+{
+  "slug": "sela-pass",
+  "name": "Sela Pass",
+  "region": "arunachal",
+  "kind": "pass",
+  "wiki": "Sela Pass",
+  "image_query": "Sela Pass lake Arunachal",
+  "lat": 27.505,
+  "lng": 92.104,
+  "altitude_m": 4170,
+  "tagline": "A 4,170 m pass, a sacred lake and the new tunnel below",
+  "meta_description": "Sela Pass at 4,170 m on the Tawang road: the lake, Nuranang Falls, the 2024 Sela Tunnel, snow months, altitude advice and real taxi costs.",
+  "summary": "Sela Pass is the 4,170 m gateway to Tawang, with a sacred lake beside the road and snow for much of winter. Since March 2024 the Sela Tunnel offers an all-weather route below it. Most travellers stop for 30–60 minutes on the way to Tawang, or make a half-day trip from Tawang, 78 km away.",
+  "intro": [
+    "Sela Pass is the highest point most travellers reach in Arunachal. The road from Dirang climbs through fir and rhododendron forest, past yak herders' huts and army camps, to a bare saddle at about 4,170 m marked by a large gateway and strings of prayer flags. Just below it lies Sela lake, at about 4,160 m, which freezes white in winter and shines dark blue in spring and autumn.",
+    "Local Buddhist tradition holds that there are about 101 sacred lakes in and around the pass. Monpa families travelling between Dirang and Tawang often stop to add a prayer flag or light incense. The air is thin, the wind is cold even in May, and the weather turns fast: a clear morning can give way to cloud and sleet by noon, so the best visits are early.",
+    "In March 2024 the Sela Tunnel was opened below the pass, built by the Border Roads Organisation to keep Tawang connected through winter snow. It saves about 10 km and an hour on the Dirang–Tawang drive. The old road over the top remains the scenic choice in good weather, and many drivers take the tunnel one way and the pass the other. Check current status before you travel."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov; Dec – Feb for snow"],
+    ["Nights we suggest", "0 (stop en route or half-day from Tawang)"],
+    ["Nearest airport", "Tezpur (≈ 240 km)"],
+    ["From Tawang", "≈ 78 km · 2.5–3 h"],
+    ["Altitude", "4,170 m"],
+    ["Known for", "Sela lake, snow, prayer flags, the Sela Tunnel"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "Sela lake", "text": "The lake lies just below the pass at about 4,160 m. In winter it freezes solid and is ringed by snow; from April to November it is open water reflecting the ridges. Walk a short way along the shore, but do not throw anything into the water."},
+    {"title": "The pass gateway and prayer flags", "text": "A painted gateway marks the top of the pass. Monpa travellers tie prayer flags here and burn juniper. It is a good place to stop for ten minutes, take photos and feel the altitude before driving on."},
+    {"title": "Nuranang Falls at Jang", "text": "On the Tawang side, about 40 km before Tawang town, the Nuranang river drops about 100 m in a white curtain near Jang. A short walk leads to the viewpoint, and a small hydroelectric plant sits at the base."},
+    {"title": "The Sela Tunnel", "text": "Opened in March 2024, the twin-tube tunnel lets traffic bypass the pass when snow or ice closes the top. It is not a sightseeing stop, but it makes winter trips to Tawang far more reliable."},
+    {"title": "Snow from December to March", "text": "Sela usually holds snow through the coldest months, and travellers from the plains often see their first snowfall here. Roads can close briefly after heavy falls, and drivers fit chains when needed."}
+  ],
+  "field_notes": [
+    {"fact": "Sela Pass stands at about 4,170 m, and local Buddhist tradition says there are about 101 sacred lakes in and around the pass. The main lake beside the road sits at roughly 4,160 m.", "source": "Sela Pass"},
+    {"fact": "The Sela Tunnel project has two tunnels, one 980 m single-tube and one 1,555 m twin-tube, linked by a 1,200 m road. It was built by the Border Roads Organisation under Project Vartak and dedicated in March 2024.", "source": "Sela Tunnel"},
+    {"fact": "Nuranang Falls near Jang, on the Tawang side of the pass, is a curtain waterfall about 100 m high fed by a river that rises on Sela's northern slopes. A small hydroelectric plant at its base supplies local power.", "source": "Nuranang Falls"}
+  ],
+  "local_word": {"word": "Tso", "language": "Tibetan and Monpa", "meaning": "lake"},
+  "costs": [
+    ["Reserved taxi, Tawang–Sela–Tawang half day", "₹3,500–5,000 per vehicle"],
+    ["Shared Sumo seat, Dirang–Tawang (passes Sela)", "₹700–1,000"],
+    ["Tea and Maggi at the pass café", "₹50–150"],
+    ["Snow boots and coat hire at Sela, winter", "₹150–300 per item"],
+    ["Nuranang Falls entry", "Free or a small local fee"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "The nearest airport is Tezpur, about 240 km south. Most visitors reach Sela on the road from Guwahati or Tezpur to Tawang, not as a separate trip."},
+    {"mode": "Bus", "text": "Every shared Sumo between Dirang and Tawang crosses Sela or uses the tunnel. Sumos usually pause briefly at the top in good weather; ask the driver, and do not expect a long stop."},
+    {"mode": "Road", "text": "From Tawang it is about 78 km and 2.5–3 hours; from Dirang about 60 km and 2–2.5 hours. A reserved taxi lets you stop at the lake, the pass and Nuranang Falls at your own pace."}
+  ],
+  "where_to_stay": "There is nowhere for travellers to sleep at Sela Pass itself, and sleeping at 4,000 m without acclimatisation is not advisable. Saver: stay in homestays in Dirang or Tawang and visit as part of the transit day. Comfort: Dirang's riverside cottages or a good Tawang hotel make the best bases. Signature: Vivanta Tawang or Rungkhung Village Resort near Dirang, with a private car to time the crossing for the clearest morning.",
+  "stays": [],
+  "tips": [
+    "Cross Sela before 11 am, when visibility is usually best and ice has softened.",
+    "Do not run or climb at the pass; walk slowly and limit your stop to 30–60 minutes.",
+    "Carry a warm jacket, gloves and sunglasses even in May and October.",
+    "In winter, ask your driver whether the top is open or whether you will use the tunnel.",
+    "Take all wrappers and bottles back with you; there is little waste collection at the pass."
+  ],
+  "themes": ["road-trips", "snow-and-winter", "photography"],
+  "nearby": ["tawang", "dirang", "bomdila"],
+  "experiences": [
+    {
+      "slug": "sela-pass-lake-morning-stop",
+      "title": "Morning at Sela lake and the pass",
+      "kind": "nature",
+      "duration": "1 hour at the top; half day from Tawang",
+      "best_time": "8–10 am, Oct–Nov and Mar–May",
+      "cost": "Free; taxi ₹3,500–5,000 per vehicle from Tawang",
+      "image_query": "Sela Lake Arunachal Pradesh",
+      "wiki": "Sela Pass",
+      "summary": "Stand at 4,170 m beside a sacred lake, with prayer flags snapping and ridges all around. A short, cold, beautiful stop that most people remember longest from the Tawang road.",
+      "body": [
+        "Leave Tawang or Dirang early. The road climbs steadily through fir forest and then open slopes with grazing yaks before reaching the pass. In clear weather the lake appears suddenly on the right, flat and dark, with snow patches on the slopes above. The pass gateway stands just beyond, and a café run by local operators serves tea and noodles to warm cold hands.",
+        "Walk slowly. At this height, even a few steps uphill leave you breathless. A short path leads along the lake shore; follow it for ten or fifteen minutes and you will see small cairns and prayer flags left by Monpa travellers. Many local people consider the lakes here sacred, so keep voices low, do not wash or throw anything into the water, and walk clockwise around any chorten.",
+        "If you have a reserved taxi, continue to Nuranang Falls on the Tawang side and return through the tunnel, or drive back over the top if the weather holds. In winter the lake is frozen and the landscape white; sun on snow is harsh, so wear dark glasses. Children and older travellers should limit time at the top and descend if they feel unwell."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers", "students"],
+      "faqs": [
+        {"q": "How long should I stay at Sela Pass?", "a": "Thirty to sixty minutes is enough for most people. The altitude of about 4,170 m means you should not linger for hours, especially if you came from the plains within the last two days. Walk slowly, drink water and leave if you develop a headache."},
+        {"q": "Is Sela lake frozen in winter?", "a": "Yes, usually from about December to March, depending on the year. The frozen lake and snow-covered slopes draw many winter visitors. From April to November the water is open. Check current status before you travel, since snowfall can close the road over the pass."},
+        {"q": "Can I visit Sela Pass by shared Sumo?", "a": "Shared Sumos between Dirang and Tawang pass through, and drivers sometimes stop briefly at the top. For a proper visit with time at the lake, hire a reserved taxi from Tawang for about ₹3,500–5,000 per vehicle for a half day."}
+      ]
+    },
+    {
+      "slug": "sela-nuranang-falls-jang",
+      "title": "Nuranang Falls near Jang",
+      "kind": "nature",
+      "duration": "1–1.5 hours",
+      "best_time": "Late morning, Apr–Nov",
+      "cost": "Free or small local fee; on the Tawang taxi route",
+      "image_query": "Nuranang Falls Jang Tawang",
+      "wiki": "Nuranang Falls",
+      "summary": "A curtain waterfall about 100 m high on the Tawang side of Sela, fed by snowmelt from the pass. An easy walk from the road, and fullest after the monsoon in September and October.",
+      "body": [
+        "Nuranang Falls lies about 2 km from Jang, roughly 40 km before Tawang on the main road. A short side road and a walk of a few minutes bring you to the viewpoint. The Nuranang river, which rises on the northern slopes of Sela, falls about 100 m in two drops into a rocky pool, throwing spray across the path on days of high flow.",
+        "The falls are also known locally as Jang or Bong Bong Falls. A small hydroelectric plant at the base supplies power to the surrounding villages, a reminder that many Monpa settlements here still rely on tiny local power projects. The falls appeared in a 1997 Hindi film, which made them famous with visitors from across India.",
+        "Visit late morning when the sun reaches the gorge. The path can be wet and slippery, especially in October when the flow is strong, so wear shoes with grip and keep children close. In deep winter the flow drops and parts of the falls may ice over. There are tea stalls near the parking area, and the visit fits easily into a Tawang–Sela day."
+      ],
+      "good_for": ["families", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How far is Nuranang Falls from Tawang?", "a": "About 40 km, or 1.5 hours by road, near the village of Jang on the main Tawang–Sela road. Most visitors stop on the way in or out of Tawang, or include it in a half-day taxi trip to Sela Pass."},
+        {"q": "Is the walk to Nuranang Falls difficult?", "a": "No. It is a short walk of a few minutes from the parking area. The path can be wet and slippery with spray, so wear shoes with good grip. It is suitable for children and older travellers with care."},
+        {"q": "When is Nuranang Falls at its best?", "a": "September and October, after the monsoon, bring the strongest flow and clear skies. In spring, snowmelt keeps the falls lively. In midwinter the volume drops and some edges may freeze, which has its own appeal."}
+      ]
+    },
+    {
+      "slug": "sela-winter-snow-day",
+      "title": "First snow day at Sela in winter",
+      "kind": "adventure",
+      "duration": "Half day from Tawang or Dirang",
+      "best_time": "Late Dec–early Mar, mornings",
+      "cost": "Taxi ₹3,500–5,000 per vehicle; boot and coat hire ₹150–300 per item",
+      "image_query": "Sela Pass snow winter",
+      "wiki": "",
+      "summary": "For many travellers from the plains, Sela is where they touch snow for the first time. Expect deep drifts, a frozen lake and a cold wind, with the tunnel as a backup route if the top closes.",
+      "body": [
+        "From late December to early March, Sela usually holds snow. On a clear morning the frozen lake, white slopes and coloured prayer flags make a strong contrast. Families stop to build snowmen, students throw snowballs, and roadside stalls rent boots and padded coats for those who arrived in trainers. The cold is real: temperatures at the top can drop to around −10 °C in winter.",
+        "Snow also closes the road over the pass from time to time. Since 2024 the Sela Tunnel has kept the Dirang–Tawang route open on most days, but the top itself may be shut or slick with ice. Drivers in winter carry chains, start early and turn back if conditions worsen. Leave planning to an experienced local driver and accept that the plan can change on the morning.",
+        "Dress in layers, cover your hands and ears, and wear dark glasses to protect your eyes from glare. Do not walk onto the frozen lake; the ice can be thin in places. Children and older travellers should stay close to the vehicle and keep the stop short. Hot tea at the stalls helps, but avoid alcohol at this altitude and cold."
+      ],
+      "good_for": ["families", "students", "couples", "first-timers"],
+      "faqs": [
+        {"q": "When does Sela Pass get snow?", "a": "Snow usually falls from December to March, with the heaviest cover in January and February. Late snowfalls can come in April, and early dustings in November. Exact conditions vary each year, so check current status before you travel."},
+        {"q": "Is Sela Pass closed in winter?", "a": "The road over the pass can close for hours or days after heavy snow. The Sela Tunnel, opened in March 2024, keeps the Dirang–Tawang route open on most winter days. Your driver will know the morning's situation from local checkpoints."},
+        {"q": "Can I walk on the frozen Sela lake?", "a": "We advise against it. The ice is not monitored and can be thin, especially near the edges and late in the season. The lake is also considered sacred by many Monpa. Enjoy it from the shore."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Sela Pass?", "a": "Sela Pass is at about 4,170 m (13,700 ft) on the road between Dirang and Tawang. Sela lake beside it is at roughly 4,160 m. This is high enough for headaches and breathlessness, so walk slowly and keep stops short if you have not acclimatised."},
+    {"q": "Is Sela Pass open all year?", "a": "The pass road is usually open year-round, but snow and ice can close it temporarily, mostly between December and March. The Sela Tunnel offers an all-weather route below it since March 2024. Check current status before you travel."},
+    {"q": "How far is Sela Pass from Tawang and Dirang?", "a": "Sela is about 78 km and 2.5–3 hours from Tawang, and about 60 km and 2–2.5 hours from Dirang. Most travellers pass it on the Dirang–Tawang day, which takes 5–6 hours in total with stops."},
+    {"q": "Do I need a permit for Sela Pass?", "a": "Your Inner Line Permit for Indians, or Protected Area Permit for foreigners, must cover West Kameng and Tawang districts, since the pass lies on their boundary. No separate permit is needed for the pass itself. Carry your printout and ID for checkpoints."},
+    {"q": "Is Sela Pass safe for children and senior citizens?", "a": "A short stop is generally fine for healthy children and older travellers, but the altitude and cold are real. Keep the visit under an hour, dress everyone warmly, and descend if anyone feels dizzy or short of breath. Talk to your doctor before the trip if there are heart or lung conditions."},
+    {"q": "What is the Sela Tunnel?", "a": "It is a road tunnel system below Sela Pass, built by the Border Roads Organisation and dedicated in March 2024. It includes a 980 m single-tube tunnel and a 1,555 m twin-tube tunnel. It shortens the Dirang–Tawang drive by about 10 km and keeps the route open in snow."},
+    {"q": "Should I take the tunnel or the pass?", "a": "On a clear day, take the old road over the pass at least one way for the lake and views. Use the tunnel when snow, ice or cloud make the top unpleasant or closed. Many drivers go over the pass on the way to Tawang and through the tunnel on the way back."},
+    {"q": "Is there food and a toilet at Sela Pass?", "a": "A café at the pass usually serves tea, noodles and snacks, and basic toilets are available nearby. Facilities are simple and can close in bad weather. Carry water and some snacks, and take all waste back with you."},
+    {"q": "What should I wear at Sela Pass?", "a": "Wear a warm jacket, fleece, hat, gloves and sturdy shoes in every season, plus sunglasses and sunscreen. In winter add thermal layers and waterproof boots, or hire boots at the roadside stalls. Wind makes the pass feel much colder than the thermometer suggests."}
+  ]
+}

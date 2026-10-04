@@ -1,0 +1,146 @@
+{
+  "slug": "leh",
+  "name": "Leh",
+  "region": "ladakh",
+  "kind": "town",
+  "wiki": "Leh",
+  "image_query": "Leh Palace town view",
+  "lat": 34.164,
+  "lng": 77.584,
+  "altitude_m": 3500,
+  "tagline": "Old caravan town at 3,500 m, and where every Ladakh trip begins",
+  "meta_description": "Leh travel guide: acclimatisation, Leh Palace, Shanti Stupa, Thiksey, real costs for guesthouses, taxis and food, and where to stay on every budget.",
+  "summary": "Leh is Ladakh's capital and airport town at 3,500 m on the Indus. Spend your first two nights here resting before going higher. The old town, Leh Palace, Shanti Stupa and the Indus monasteries fill three easy days. Guesthouses start around ₹1,200 a night.",
+  "intro": [
+    "Leh grew where caravan routes from Tibet, Kashmir and the Tarim Basin met. Salt, pashm wool, indigo, silk yarn and Banaras brocade changed hands in its bazaar, and traders bound for Yarkand loaded their animals here before the Karakoram Pass. The town's shape still follows that trade: a wide main bazaar built for pack animals, the mosque and the polo ground below, and the old town of mud-brick houses climbing towards the palace.",
+    "Leh Palace was built around 1600 by King Sengge Namgyal, nine storeys high, with the royal family at the top and stables at the bottom. The family left in the mid-19th century when Dogra forces took control of Ladakh, moving across the Indus to Stok. The Archaeological Survey of India is restoring the palace, and its roof gives the best view over the town's flat roofs, poplar groves and the Stok range.",
+    "The most important thing to do in Leh is very little. At 3,500 m the air holds roughly a third less oxygen than at sea level, and most visitors fly straight in from the plains. Treat the first 48 hours as rest: walk slowly, drink water, skip alcohol and long drives. Then use Leh as a base for the Indus valley monasteries before you add height."
+  ],
+  "facts": [
+    ["Best months", "May – Oct"],
+    ["Nights we suggest", "3 at the start, 1–2 at the end"],
+    ["Nearest airport", "Leh (Kushok Bakula Rimpochee), 4 km"],
+    ["From Srinagar", "≈ 434 km · 2 days via Kargil"],
+    ["Altitude", "3,500 m"],
+    ["Known for", "Leh Palace, old town, Shanti Stupa, Indus monasteries"]
+  ],
+  "best_months": [1, 1, 0, 1, 2, 2, 2, 2, 2, 2, 1, 0],
+  "nights": "3–4",
+  "highlights": [
+    {"title": "Leh Palace and the old town", "text": "Climb through the lanes of the old town to the nine-storey palace built around 1600. Inside are small rooms, a prayer hall and a museum of thangkas and ceremonial dress. The roof looks straight over Main Bazaar to the Stok range. Go before 10 am, while the lanes are cool."},
+    {"title": "Namgyal Tsemo above the palace", "text": "A steep track leads above the palace to the red Namgyal Tsemo temples and the old fort on the ridge, hung with prayer flags. It is a stiff 30–40 minute climb, so leave it until your third day, after your body has started to adjust."},
+    {"title": "Shanti Stupa at sunset", "text": "The white stupa at Chanspa was completed in 1991 by a Japanese Buddhist monk with Ladakhi support, to mark 2,500 years of Buddhism. 555 steps lead up, or a road reaches the top. Evening light turns the Leh valley gold below it."},
+    {"title": "Thiksey Monastery morning prayers", "text": "Nineteen kilometres up the Indus, Thiksey's 12 storeys climb a rock in a shape often compared to the Potala in Lhasa. Morning prayers start around 7 am with horns and drums on the roof, and the 15 m Maitreya statue sits in its own temple."},
+    {"title": "Main Bazaar and the apricot stalls", "text": "Women from nearby villages sell dried apricots, apricot kernels, dried cheese and fresh vegetables along the bazaar pavement. Buy here, not from the souvenir shops, and ask which village the apricots come from: Sham valley fruit is prized."},
+    {"title": "Stok and the royal museum", "text": "Across the Indus, Stok Palace has been home to the royal family since the 19th century. Part of it is a museum with royal jewellery, costume and old thangkas. Combine it with Spituk and Phyang monasteries for an easy half day."}
+  ],
+  "field_notes": [
+    {"fact": "Leh Palace was abandoned in the mid-19th century when Dogra forces took control of Ladakh, and the royal family moved across the Indus to Stok Palace, where their descendants still live.", "source": "Leh Palace"},
+    {"fact": "Leh sits high enough that its fields give only one crop a year, mostly naked barley for tsampa. Down the Indus at Khalatse two crops are possible, and Leh's late-May sowing finds Khalatse's barley already half grown.", "source": "Leh"},
+    {"fact": "Moravian missionaries from Germany opened a mission in Leh in 1885 and stayed until 1947. The town's small Christian community descends from the few Ladakhi Buddhists they converted.", "source": "Leh"}
+  ],
+  "local_word": {"word": "Juley", "language": "Ladakhi", "meaning": "hello, goodbye and thank you; you will hear it fifty times a day"},
+  "costs": [
+    ["Guesthouse double room with breakfast", "₹1,200–3,000 a night"],
+    ["Hostel dorm bed", "₹600–1,200 a night"],
+    ["Thukpa or a plate of momos", "₹120–250"],
+    ["Monastery or palace entry", "₹25–100 for Indians; higher for foreign nationals at some sites"],
+    ["Union taxi Leh–Thiksey–Hemis–Shey day", "₹3,000–4,000 a car"],
+    ["Royal Enfield rental", "₹1,500–2,500 a day plus fuel"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Leh airport is 4 km from town, with daily flights from Delhi (about 1 h 20 min) and services from Mumbai, Srinagar, Jammu and Chandigarh. Flights land in the morning. Pre-paid union taxis wait outside; ₹400–600 to most guesthouses."},
+    {"mode": "Bus", "text": "HRTC runs Delhi–Leh and Manali–Leh buses in season, with a night halt at Keylong; Manali–Leh is roughly ₹900–1,000. From Srinagar, state buses run via Kargil. Timings and fares change, so check current status before you travel."},
+    {"mode": "Road", "text": "From Srinagar ≈ 434 km over Zoji La, two days with a night in Kargil. From Manali ≈ 428 km via the Atal Tunnel and Tanglang La, usually two days with a night at Keylong or Jispa. Both roads close in winter."}
+  ],
+  "where_to_stay": "Saver: the lanes of Changspa and Karzoo are full of family guesthouses at ₹1,200–2,500 a double, often with a garden and home-cooked dinner on request; Zostel Leh has dorms and private rooms near Karzoo. Comfort: Stok Palace Heritage Hotel, across the Indus, puts you in restored royal rooms or orchard villas, with a quieter village around you. Signature: The Grand Dragon Ladakh is the town's largest full-service hotel and is open all year, and in summer The Ultimate Travelling Camp's Chamba Camp faces Thiksey Monastery 19 km up the valley.",
+  "stays": ["zostel-leh", "stok-palace-heritage-hotel", "the-grand-dragon-ladakh", "chamba-camp-thiksey"],
+  "tips": [
+    "Book a room with a ground-floor or first-floor option for the first night; climbing stairs at 3,500 m on arrival is hard work.",
+    "Leh gets very little rain, so save water: many guesthouses run on tankers, and dry compost toilets are traditional, not a sign of poor service.",
+    "Pay your Environment and Development Fee online before you leave for Nubra or Pangong, and print three copies.",
+    "Dress modestly in monasteries, walk clockwise around chortens and mani walls, and ask before photographing monks.",
+    "Shops in Main Bazaar close early in shoulder season; eat dinner by 8.30 pm in October and May."
+  ],
+  "themes": ["monasteries", "road-trips", "photography", "festivals", "food-and-tea"],
+  "nearby": ["hemis", "alchi", "nubra-valley", "pangong-tso"],
+  "experiences": [
+    {
+      "slug": "leh-old-town-and-palace-morning-walk",
+      "title": "Leh old town and palace morning walk",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "8 am, May–Oct",
+      "cost": "Palace entry ₹25–50 for Indians; free to walk the lanes",
+      "image_query": "Leh Palace old town lanes",
+      "wiki": "Leh Palace",
+      "summary": "A slow walk from Main Bazaar through the mud-brick lanes of the old town to Leh Palace, finishing on the palace roof. It is short enough for your second day in Leh, and it explains how the caravan town was built.",
+      "body": [
+        "Start at the Jama Masjid end of Main Bazaar, where the street was laid out wide enough for pack animals heading to Yarkand and Lhasa. Behind the bazaar, narrow lanes rise through the old town: flat-roofed houses of sun-dried brick, wooden balconies, small chortens at the junctions and drains carved into the lane edges to carry the village water channels.",
+        "The path ends at Leh Palace, built around 1600 by Sengge Namgyal. Nine storeys stand on the rock, with the royal rooms at the top and stores and stables below. Much of the interior is bare, but a small prayer room and museum hold thangkas, jewellery and ceremonial costume, and the Archaeological Survey of India is restoring the structure.",
+        "Walk up to the roof terraces for the view south over the town to the Indus and the Stok range. On the way down, look for the Chamba Lhakhang and the Chenrezig temple between the inner and outer walls, with fragments of old murals. Walk slowly; on your second day at 3,500 m even gentle stairs will make you breathe hard."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How long does the Leh Palace walk take?", "a": "Allow about three hours, including an hour inside the palace and on its roof. The climb from Main Bazaar through the old town is only about 1 km, but it is steep, and at 3,500 m most people stop often. If you are on your first day in Leh, take a taxi to the palace gate and walk down instead."},
+        {"q": "What are Leh Palace's opening hours and fees?", "a": "The palace is usually open from around 8 or 9 am until late afternoon, managed by the Archaeological Survey of India. Indians pay a small fee of roughly ₹25–50, foreign nationals more. Timings and fees change, so check current status before you travel and carry small notes or UPI."},
+        {"q": "Is the old town walk suitable for seniors?", "a": "Yes, if done slowly and not on the arrival day. The lanes are uneven with steps, so wear proper shoes and carry water. Seniors can take a taxi up to the palace and walk the gentler descent through the old town. Anyone with heart or lung conditions should talk to their doctor before travelling to this altitude."}
+      ]
+    },
+    {
+      "slug": "leh-shanti-stupa-sunset",
+      "title": "Shanti Stupa sunset over the Leh valley",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "6–7.30 pm, May–Sep",
+      "cost": "Free; taxi from Main Bazaar ₹250–400",
+      "image_query": "Shanti Stupa Leh",
+      "wiki": "Shanti Stupa, Ladakh",
+      "summary": "A white peace stupa above Chanspa, completed in 1991 and reached by 555 steps or a road. Sunset lights the palace, the old town and the Stok range in turn. It is the easiest viewpoint in Leh once your body has adjusted.",
+      "body": [
+        "Shanti Stupa stands at about 3,609 m on a ridge above Chanspa, around 5 km from the main bazaar. Work began in 1983 under the Japanese Buddhist monk Gyomyo Nakamura, with support from Ladakhi Buddhists, and it was completed in 1991 to promote world peace and mark 2,500 years of Buddhism. Relics of the Buddha are enshrined at its base.",
+        "There are two ways up. The stairway of 555 steps starts at the end of Changspa Road and is hard work at this height; save it for your third day or later. The road goes almost to the top, so a taxi or a slow walk up the hairpins is fine for anyone who is still adjusting.",
+        "Arrive 45 minutes before sunset. The light moves across the valley from the Stok range to the palace and Namgyal Tsemo. It gets cold quickly once the sun drops, even in July, so carry a fleece. Keep voices low near the stupa; it is an active place of prayer, and you walk around it clockwise."
+      ],
+      "good_for": ["couples", "photographers", "first-timers", "families"],
+      "faqs": [
+        {"q": "Can I drive up to Shanti Stupa?", "a": "Yes. A road reaches the car park just below the stupa, and a taxi from Main Bazaar costs roughly ₹250–400 one way. This is the better option in your first two days in Leh. The 555-step stairway from Changspa is a good acclimatisation test for day three or four, if you take it slowly."},
+        {"q": "Is there an entry fee at Shanti Stupa?", "a": "There is no entry fee. A small cafe and toilets sit near the car park in season. Remember it is a religious monument: walk clockwise, do not climb on the base, and keep drones away unless you have the required permission."},
+        {"q": "What time is sunset at Shanti Stupa?", "a": "In June and July the sun sets around 7.30 pm in Leh; in September it is about 6.45 pm, and in October nearer 6 pm. Arrive 45 minutes early for the best light on the palace and the Stok range, and carry a warm layer for after sunset."}
+      ]
+    },
+    {
+      "slug": "leh-thiksey-morning-prayers",
+      "title": "Morning prayers at Thiksey Monastery",
+      "kind": "spiritual",
+      "duration": "3 hours including drive",
+      "best_time": "6.30 am, May–Oct",
+      "cost": "Entry ₹50–100; union taxi ₹1,500–2,000 return",
+      "image_query": "Thiksey Monastery Ladakh",
+      "wiki": "Thikse Monastery",
+      "summary": "Leave Leh at 6 am for the 19 km drive to Thiksey, where monks gather for morning prayers on the roof and in the assembly hall. Afterwards see the 15 m Maitreya and the view of the Indus floodplain, and be back for breakfast.",
+      "body": [
+        "Thiksey is a Gelug monastery founded in 1433, built up a rocky hill 19 km east of Leh in 12 storeys of white and ochre buildings. Its shape is often compared to the Potala Palace in Lhasa, and from the road it looks like a village stacked on a single rock.",
+        "Morning prayers begin around 7 am. Young monks blow long horns from the roof, then the community gathers in the assembly hall for chanting, butter tea and tsampa. Visitors may sit quietly at the back. Do not walk in front of monks, do not use flash, and switch your phone to silent.",
+        "After the prayers, visit the Maitreya temple, built to mark the 14th Dalai Lama's visit in 1970. The 15 m seated Maitreya rises through two floors. From the upper terraces you see the green Indus floodplain, Shey Palace and the Stok range. It is a fine outing for day two or three in Leh, since Thiksey is barely higher than the town."
+      ],
+      "good_for": ["photographers", "seniors", "first-timers", "solo"],
+      "faqs": [
+        {"q": "What time do morning prayers start at Thiksey?", "a": "Prayers usually start around 7 am, a little earlier in high summer, with horns blown from the roof just before. Leave Leh by 6 am to arrive in time; the drive is about 19 km and 30–40 minutes. Timings follow the monastery's routine and can change on festival or ceremony days."},
+        {"q": "Can visitors photograph inside Thiksey Monastery?", "a": "Photography is allowed in courtyards and on terraces, but rules inside prayer halls vary and some temples forbid it. Never use flash, never photograph monks at prayer without asking, and follow any signs. During prayers, keep your camera down completely; sitting quietly is the point."},
+        {"q": "Can I visit Thiksey by bus from Leh?", "a": "Yes. Local buses towards Hemis, Thiksey and Shey leave from the Leh bus stand several times a day and cost about ₹30–50. They do not run early enough for morning prayers, so for the 7 am puja you need a taxi, roughly ₹1,500–2,000 for the return trip with waiting."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days should I spend in Leh?", "a": "Plan three nights at the start of your trip and one at the end. The first two days are for rest and gentle walks while your body adjusts to 3,500 m; the third suits the palace, Shanti Stupa and an Indus valley monastery. A last night in Leh before your flight protects you from road delays on the way back from Nubra or Pangong."},
+    {"q": "What should I do on my first day in Leh?", "a": "Almost nothing. Check in, drink water, eat lightly and rest for most of the day. A short walk in Main Bazaar in the evening is fine. Skip alcohol, long hot showers and stairs if you feel breathless. Many visitors feel a mild headache on day one. Persistent headache, vomiting or breathlessness at rest need medical attention at SNM Hospital in Leh."},
+    {"q": "Is Leh open in winter?", "a": "Yes. Flights operate all year and some hotels, including The Grand Dragon Ladakh, stay open. Many guesthouses and cafes close from November to March, pipes freeze and temperatures fall to about −15 °C at night. Winter suits the Chadar trek, snow leopard trips and festivals such as Losar and Dosmoche, but is not a casual holiday."},
+    {"q": "Does my prepaid SIM work in Leh?", "a": "No. Prepaid connections issued outside Jammu and Kashmir and Ladakh do not work here. Postpaid Jio, Airtel and BSNL connections work in Leh town, and most guesthouses and cafes have Wi-Fi. Some travellers buy a local postpaid connection, which needs ID and a local address. Rules change, so check current status before you travel."},
+    {"q": "How do I get from Leh airport to town?", "a": "Union taxis wait outside arrivals with fixed fares, roughly ₹400–600 to most guesthouses in Changspa, Karzoo or the market area. App cabs do not operate in Ladakh. Many hotels arrange pickups for a similar fee. The drive is only 10–20 minutes, so do not walk with luggage on arrival."},
+    {"q": "Can I hire a bike in Leh?", "a": "Yes. Rental shops near Main Bazaar and Changspa rent Royal Enfields and Himalayans for roughly ₹1,500–2,500 a day plus fuel. Carry your licence and the bike papers. Local rules have limited rental bikes brought from outside Ladakh on some routes, so rent in Leh if you plan to ride locally, and check current status before you travel."},
+    {"q": "Are there ATMs in Leh?", "a": "Yes, several banks have ATMs in and around Main Bazaar, and UPI works widely when the network is up. Withdraw enough cash in Leh for Nubra, Pangong, Turtuk and Tso Moriri, where many homestays and small shops accept cash only. In peak season the bazaar ATMs can run low by evening."},
+    {"q": "Where should I stay in Leh on a budget?", "a": "Changspa and Karzoo have the widest choice of family guesthouses at about ₹1,200–2,500 a double, many with gardens and simple home-cooked meals. Zostel Leh has dorm beds and private rooms. Stay within walking distance of Main Bazaar so you do not need taxis while you acclimatise, and ask whether hot water is solar or geyser."},
+    {"q": "Is Leh safe for solo women travellers?", "a": "Leh is generally relaxed and many women travel here alone. Guesthouse families look after their guests, and the main bazaar is busy until about 9 pm in summer. Use union taxis rather than lifts from strangers after dark, keep your guesthouse informed of day trips, and dress modestly at monasteries and in the old town."}
+  ]
+}

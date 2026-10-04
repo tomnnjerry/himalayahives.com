@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "nainital-to-almora",
+    "from": "nainital",
+    "to": "almora",
+    "distance_km": 65,
+    "summary": "The classic Kumaon transfer: down from Nainital to Bhowali, past Kainchi Dham, then along the Kosi river and up to Almora's ridge. About 65 km and 2.5–3 hours by road, with shared taxis and buses through the day.",
+    "options": [
+      {"mode": "Shared taxi", "time": "2.5–3 h", "cost": "₹200–350 a seat", "text": "Shared taxis run from Nainital's Tallital stand and from Bhowali to Almora through the morning and early afternoon. If none is leaving from Nainital, take a shared jeep to Bhowali, 11 km, and change there, where departures are more frequent. Seats fill quickly at peak times; sit near a window if you are prone to motion sickness."},
+      {"mode": "KMOU or Roadways bus", "time": "3–3.5 h", "cost": "₹150–250", "text": "Buses from Haldwani to Almora pass through Bhowali, and a few start from Nainital. They are the cheapest option but slower, with stops in every bazaar. Ask at the Tallital or Bhowali bus stand for the next departure; carry small change for the conductor."},
+      {"mode": "Private car", "time": "2.25–2.75 h", "cost": "₹2,200–3,000 one way", "text": "A taxi lets you stop at Kainchi Dham and the Kosi river and reach your stay at Kasar Devi directly. Prices rise in peak season and for SUVs. On weekends near 15 June, traffic around Kainchi Dham can add an hour or more."}
+    ],
+    "stops_on_way": ["Bhowali fruit market", "Kainchi Dham", "Khairna bridge on the Kosi", "Kosi river valley"],
+    "road_status": "Open all year; landslides possible near Khairna and Garampani in July–August. Check current status before you travel.",
+    "tip": "Leave early to pass Kainchi Dham before the crowds, especially on weekends.",
+    "faqs": [
+      {"q": "How far is Almora from Nainital?", "a": "About 65 km by road via Bhowali and Khairna, roughly 2.5–3 hours depending on traffic and stops."},
+      {"q": "Is there a direct bus from Nainital to Almora?", "a": "A few buses start from Nainital, but more pass through Bhowali on the Haldwani–Almora route. Shared taxis from Nainital and Bhowali are faster and frequent."},
+      {"q": "Can I visit Kainchi Dham on the way to Almora?", "a": "Yes, it lies directly on the road, about 17 km from Nainital. Allow an hour, more on weekends and around 15 June."},
+      {"q": "What does a taxi from Nainital to Almora cost?", "a": "About ₹2,200–3,000 one way for a hatchback or sedan, more for an SUV and in peak season. Agree the price and stops before you start."}
+    ]
+  },
+  {
+    "slug": "nainital-to-mukteshwar",
+    "from": "nainital",
+    "to": "mukteshwar",
+    "distance_km": 50,
+    "summary": "From Nainital to Mukteshwar the road climbs through Bhowali and the orchard country of Ramgarh to a 2,171 m ridge. About 50 km and 2 hours, with good views and fruit stalls in season.",
+    "options": [
+      {"mode": "Shared taxi", "time": "2–2.5 h", "cost": "₹200–350 in two legs", "text": "Take a shared jeep from Nainital to Bhowali and change for Mukteshwar. Departures from Bhowali are less frequent than on the Almora road, so go in the morning. The last stretch through Ramgarh and Nathuakhan is narrow and winding."},
+      {"mode": "Bus and shared jeep", "time": "2.5–3 h", "cost": "₹150–250", "text": "Some Uttarakhand Roadways and KMOU buses run from Haldwani to Mukteshwar via Bhowali on certain days. From Nainital, reach Bhowali first and ask at the stand. It is the slowest option but the cheapest if timings work."},
+      {"mode": "Private car", "time": "1.5–2 h", "cost": "₹2,000–2,800 one way", "text": "A taxi is the easiest way, with stops at Ramgarh's orchards and the Mahadevi Verma museum. In winter, snow can make the final climb slippery; drivers carry chains or wait for the road to clear."}
+    ],
+    "stops_on_way": ["Bhowali", "Ramgarh orchards", "Nathuakhan", "Satkhol"],
+    "road_status": "Open all year; snow can close the last stretch for a day in January–February, and landslides occur in the monsoon. Check current status before you travel.",
+    "tip": "Buy fruit and jam from Ramgarh growers on the way in June and July.",
+    "faqs": [
+      {"q": "How far is Mukteshwar from Nainital?", "a": "About 50 km via Bhowali and Ramgarh, roughly 1.5–2 hours by car and 2–2.5 hours by shared transport."},
+      {"q": "Is there a direct shared taxi from Nainital to Mukteshwar?", "a": "Usually not; take a shared jeep to Bhowali and change there. Go in the morning, as departures thin out later."},
+      {"q": "Is the road to Mukteshwar safe in winter?", "a": "It is generally fine, but snow and ice can make the last part slippery after a western disturbance. Drive in daylight and check current status before you travel."},
+      {"q": "What can I see between Nainital and Mukteshwar?", "a": "Bhowali's fruit market, the orchards of Ramgarh, the Mahadevi Verma museum and views from Nathuakhan."}
+    ]
+  },
+  {
+    "slug": "almora-to-jageshwar",
+    "from": "almora",
+    "to": "jageshwar",
+    "distance_km": 36,
+    "summary": "A short, pretty drive east from Almora on the Pithoragarh road, past the Chitai Golu temple to Artola, then into the Jataganga valley and its deodar forest. About 36 km and 1.25–1.5 hours.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1.5 h", "cost": "₹80–150 a seat", "text": "Shared jeeps leave Almora for Jageshwar and towns on the Pithoragarh road through the morning. Ask at the taxi stand near the bus station. Some jeeps go only to Artola, 3 km short of the temples; from there walk or wait for another jeep."},
+      {"mode": "Roadways bus", "time": "1.5–2 h", "cost": "₹60–120", "text": "Buses towards Pithoragarh, Dhaulchhina and Seraghat pass Artola. Get off at the Jageshwar turning and walk 3 km along the stream past Dandeshwar, a pleasant walk in dry weather. A few buses go to Jageshwar itself."},
+      {"mode": "Private car", "time": "1.25 h", "cost": "₹1,500–2,200 one way", "text": "A taxi lets you stop at Chitai and Dandeshwar and is the best choice for a day trip, with waiting time included. Agree the waiting charge before you start."}
+    ],
+    "stops_on_way": ["Chitai Golu Devta temple", "Artola", "Dandeshwar temple group"],
+    "road_status": "Open all year; landslides possible in July–August on the Pithoragarh road. Check current status before you travel.",
+    "tip": "Stop at Chitai in the morning on the way out, when it is quiet.",
+    "faqs": [
+      {"q": "How far is Jageshwar from Almora?", "a": "About 36 km, 1.25–1.5 hours by road via the Pithoragarh highway and Artola."},
+      {"q": "Can I do Jageshwar as a day trip from Almora?", "a": "Yes. A taxi day trip costs about ₹2,500–3,500 with waiting. Shared jeeps and buses also make it possible on a budget if you start early."},
+      {"q": "Is there a bus from Almora to Jageshwar?", "a": "Buses on the Pithoragarh road stop at Artola, 3 km from the temples, and a few go to Jageshwar. Shared jeeps are more convenient."},
+      {"q": "What can I see on the way to Jageshwar?", "a": "The Chitai Golu Devta temple with its bells, the confluence at Artola and the Dandeshwar temple group just before Jageshwar."}
+    ]
+  },
+  {
+    "slug": "almora-to-kausani",
+    "from": "almora",
+    "to": "kausani",
+    "distance_km": 52,
+    "summary": "North from Almora down to the Kosi river, past the turning for the Katarmal sun temple and through the Someshwar valley's seras, then up to Kausani's ridge. About 52 km and 2 hours.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2 h", "cost": "₹150–250 a seat", "text": "Shared jeeps run from Almora towards Kausani and Bageshwar through the day, most frequently in the morning. Ask at the taxi stand near the main bus station. If you are going to Bageshwar, the jeep will pass Kausani and can drop you on the ridge."},
+      {"mode": "KMOU or Roadways bus", "time": "2–2.5 h", "cost": "₹120–200", "text": "Buses from Haldwani and Almora to Bageshwar stop at Kausani. They are cheap and reliable but slower, and seats fill on market days. Check the time of the last bus, usually in the early afternoon."},
+      {"mode": "Private car", "time": "1.75–2 h", "cost": "₹1,800–2,600 one way", "text": "A taxi allows a stop at the Katarmal sun temple, about 17 km from Almora with a short walk, and at Someshwar's fields. It is the best choice with luggage or for seniors."}
+    ],
+    "stops_on_way": ["Kosi bazaar", "Katarmal sun temple (short detour)", "Someshwar valley"],
+    "road_status": "Open all year; monsoon landslides possible. Check current status before you travel.",
+    "tip": "Add Katarmal as a short detour on the way; it is close to Kosi bazaar.",
+    "faqs": [
+      {"q": "How far is Kausani from Almora?", "a": "About 52 km by road via Kosi and Someshwar, roughly 2 hours."},
+      {"q": "Is there a bus from Almora to Kausani?", "a": "Yes, buses towards Bageshwar stop at Kausani, and shared jeeps run through the day. The last departures leave in the early afternoon."},
+      {"q": "Can I visit Katarmal on the way to Kausani?", "a": "Yes, the turning lies near Kosi bazaar. The temple is a short climb from the road; allow about 1–1.5 hours for the detour."},
+      {"q": "What does a taxi from Almora to Kausani cost?", "a": "About ₹1,800–2,600 one way, more for an SUV or with long stops."}
+    ]
+  },
+  {
+    "slug": "kausani-to-munsiyari",
+    "from": "kausani",
+    "to": "munsiyari",
+    "distance_km": 185,
+    "summary": "The long road to Munsiyari: down to Baijnath and Bageshwar, east to the Udiyari Bend near Chaukori and Thal, then up past Birthi Falls and over Kalamuni. About 185 km and 7–8 hours, one of Kumaon's great drives.",
+    "options": [
+      {"mode": "Shared jeep", "time": "8–9 h with changes", "cost": "₹500–800 in total", "text": "Take a shared jeep or bus from Kausani to Bageshwar, then a jeep towards Thal or Munsiyari. Departures are mostly in the morning, so leave Kausani early. Changing at Thal is common; jeeps from Thal to Munsiyari cost ₹200–350. It is cheap but tiring."},
+      {"mode": "Bus and jeep", "time": "9–10 h", "cost": "₹400–700", "text": "Roadways and KMOU buses link Bageshwar with Thal and sometimes Munsiyari. Combine a bus to Bageshwar with a jeep onward. Expect waits at junctions and carry food and water."},
+      {"mode": "Private car", "time": "7–8 h", "cost": "₹6,000–8,000 one way", "text": "A private car lets you stop at Baijnath, Birthi Falls and Kalamuni and reach Munsiyari before dark. Many travellers break the trip with a night at Chaukori. Hire an experienced hill driver; the stretch after Birthi is narrow with steep drops."}
+    ],
+    "stops_on_way": ["Baijnath temples", "Bageshwar", "Udiyari Bend near Chaukori", "Thal", "Birthi Falls", "Kalamuni ridge"],
+    "road_status": "Open most of the year; landslides between Thal and Munsiyari are common in July–September, and snow can close Kalamuni for a day or two in winter. Check current status before you travel.",
+    "tip": "Leave Kausani by 7 am, or split the drive with a night at Chaukori.",
+    "faqs": [
+      {"q": "How long is the drive from Kausani to Munsiyari?", "a": "About 185 km and 7–8 hours by private car via Bageshwar and Thal, longer by shared transport with changes."},
+      {"q": "Is there a direct bus from Kausani to Munsiyari?", "a": "Not usually. Go to Bageshwar first, then take a bus or jeep to Thal or Munsiyari. Leave in the morning to reach before dark."},
+      {"q": "Is the road to Munsiyari dangerous?", "a": "It is narrow and steep in places, especially after Birthi and over Kalamuni, but is used daily by local jeeps. Travel in daylight, avoid heavy rain and check current status before you travel."},
+      {"q": "Where can I break the journey to Munsiyari?", "a": "Chaukori, about 95 km before Munsiyari, is the best halt, with a KMVN rest house and homestays. Bageshwar and Thal also have simple lodges."}
+    ]
+  }
+]

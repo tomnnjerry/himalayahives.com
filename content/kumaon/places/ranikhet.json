@@ -1,0 +1,144 @@
+{
+  "slug": "ranikhet",
+  "name": "Ranikhet",
+  "region": "kumaon",
+  "kind": "hill station",
+  "wiki": "Ranikhet",
+  "image_query": "Ranikhet cantonment pine forest",
+  "lat": 29.64,
+  "lng": 79.43,
+  "altitude_m": 1869,
+  "tagline": "A tidy army cantonment, orchards and pine walks on the queen's meadow",
+  "meta_description": "Ranikhet guide: Kumaon Regiment museum, Chaubatia orchards, Jhula Devi temple, Upat golf links, heritage stays, costs and transport from Kathgodam.",
+  "summary": "Ranikhet is a cantonment town at about 1,869 m, 60 km from Nainital, home of the Kumaon Regimental Centre. Its clean, pine-lined roads, the regiment's museum, the Chaubatia orchards and the Jhula Devi temple make it a calm two-night stop, especially for families and older travellers who want gentle walks.",
+  "intro": [
+    "Ranikhet means queen's meadow in Kumaoni. Local legend says the Katyuri king Sudhardev won the heart of Rani Padmini here and she chose it for her home, though no palace has ever been found. The modern town began in 1869, when the British set up a cantonment on land bought from the villages of Chaubatia, Holm Khet and Upat, and the army has shaped it ever since.",
+    "Today Ranikhet is the home of the Kumaon Regimental Centre and the Naga Regiment, and much of the ridge is cantonment land with neat roads, old barracks, churches and forest kept free of new building. That makes it one of the quietest hill towns in Kumaon. The Sadar Bazaar below the cantonment is the town's busy civilian centre, with buses, shops and simple hotels.",
+    "Around the town, orchards and forest fill the spurs. Chaubatia, 10 km south, has a government fruit garden and research station with apple, peach, plum and apricot trees. Upat, about 6 km away, has a golf course run by the army, and the road to Kausani and Almora passes through pine forest and villages. On clear days the peaks from Trishul to Nanda Devi show on the northern skyline."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Pantnagar (≈ 110 km · 3.5 h)"],
+    ["From Kathgodam", "≈ 80 km · 3 h via Bhowali and Khairna"],
+    ["Altitude", "about 1,869 m"],
+    ["Known for", "Kumaon Regiment, cantonment walks, Chaubatia orchards"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Kumaon Regimental Centre museum", "text": "The regiment's museum in the cantonment tells the story of the Kumaon and Naga regiments through uniforms, weapons, medals and captured items. Entry is controlled by the army; carry ID and check opening days with your hotel."},
+    {"title": "Chaubatia gardens", "text": "A government fruit garden and research centre 10 km south, with orchards of apple, peach, plum and apricot. Spring blossom and summer fruit are the times to go; a viewpoint nearby looks north to the peaks."},
+    {"title": "Jhula Devi temple", "text": "On the road to Chaubatia, this temple to the goddess is hung with thousands of bells offered by devotees whose prayers were answered. It is small, busy on festival days and an easy stop on the orchard drive."},
+    {"title": "Upat golf links", "text": "About 6 km from town on the Almora road, the army-run nine-hole course at Upat sits on an open meadow with forest around it. Civilians may play on payment of green fees subject to army rules; ask in advance."},
+    {"title": "Cantonment walks", "text": "Walk the Mall and cantonment roads through pine and deodar past colonial bungalows and churches. Traffic is light and the paths are flat. Respect signs: some areas are restricted and photography of military buildings is not allowed."}
+  ],
+  "field_notes": [
+    {"fact": "Ranikhet's cantonment dates from 1868 to 1869, when the British chose the ridge for troops and acquired land from Chaubatia, Holm Khet and Upat; earlier the Troupe family had bought land here hoping to plant tea.", "source": "Ranikhet"},
+    {"fact": "Ranikhet means queen's meadow. Local legend says the Katyuri king Sudhardev courted Rani Padmini here and she chose the place for her residence, though no palace has ever been found.", "source": "Ranikhet"},
+    {"fact": "Newcastle disease, a serious viral disease of poultry, is widely known in India as Ranikhet disease, after the town where it was reported in the country.", "source": "Newcastle disease"}
+  ],
+  "local_word": {"word": "Khet", "language": "Kumaoni", "meaning": "field or meadow; Ranikhet is the queen's field"},
+  "costs": [
+    ["Shared taxi seat, Haldwani–Ranikhet", "₹300–450"],
+    ["Regimental museum entry", "₹20–100, subject to army rules"],
+    ["Budget hotel double in Sadar Bazaar", "₹1,500–3,000 a night"],
+    ["Taxi for Chaubatia, Jhula Devi and Upat (half day)", "₹1,500–2,500"],
+    ["Kumaoni thali in Sadar Bazaar", "₹150–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Pantnagar Airport is about 110 km away, roughly 3.5 hours by taxi via Haldwani. A taxi costs about ₹4,000–5,000."},
+    {"mode": "Train", "text": "Kathgodam railway station is about 80 km away, 3 hours via Bhowali, Garampani and Khairna. Shared taxis leave from Kathgodam and Haldwani; a private taxi costs ₹2,800–3,800. The Ranikhet Express from Delhi is named after the town but ends at Kathgodam."},
+    {"mode": "Bus", "text": "Uttarakhand Roadways buses run from Delhi's Anand Vihar to Ranikhet in about 10 hours, and KMOU buses run from Haldwani several times a day. Ranikhet is also about 50 km from Almora and 60 km from Nainital. Check current status before you travel in the monsoon."}
+  ],
+  "where_to_stay": "Saver: simple hotels in Sadar Bazaar start around ₹1,500 a night, and KMVN runs a rest house at Chilianaula, about 5 km from town on the Dwarahat road. Comfort: West View, a heritage hotel built in 1918 on 5 acres of forest above the town, has high-ceilinged rooms with fireplaces and a quiet garden. A few resorts on the Chaubatia and Majkhali roads have mountain-facing cottages. There is no luxury hotel in Ranikhet itself.",
+  "stays": ["west-view-ranikhet"],
+  "tips": [
+    "Do not photograph army buildings, gates or personnel, and obey signs in the cantonment.",
+    "Carry photo ID for the regimental museum and the golf course.",
+    "Chaubatia is best in April for blossom and July to September for fruit.",
+    "Ranikhet's Sadar Bazaar closes early in winter; eat dinner by 8 pm.",
+    "Ranikhet is a good stop between Nainital and Kausani, breaking a long drive."
+  ],
+  "themes": ["family-holidays", "road-trips", "treks-and-walks", "photography"],
+  "nearby": ["nainital", "almora", "kausani"],
+  "experiences": [
+    {
+      "slug": "ranikhet-regimental-museum-cantonment-walk",
+      "title": "Kumaon Regiment museum and cantonment walk",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Morning, open days only",
+      "cost": "Museum ₹20–100, subject to army rules",
+      "image_query": "Kumaon Regimental Centre Ranikhet",
+      "wiki": "Kumaon Regiment",
+      "summary": "Visit the museum of the Kumaon Regimental Centre to understand the regiment that recruits from these hills, then walk the quiet cantonment roads past churches and Raj-era bungalows under pine and deodar.",
+      "body": [
+        "The Kumaon Regiment is one of the Indian Army's most decorated regiments and recruits largely from Kumaon and neighbouring areas. Its regimental centre in Ranikhet keeps a museum with uniforms, weapons, medals, photographs and trophies from campaigns in both world wars and after. Its 4th battalion's Major Somnath Sharma received India's first Param Vir Chakra, for the defence of Srinagar in 1947.",
+        "The museum is inside the cantonment and run by the army, so access rules, timings and fees can change, and it may close for military reasons. Carry ID, follow staff instructions, and do not photograph outside the permitted areas. A memorial and well-kept grounds sit near the museum.",
+        "After the museum, walk the cantonment roads: the Mall, the old churches and the long stretches of pine forest the army keeps free of building. Traffic is light and the roads are mostly level, which makes this walk good for seniors and children. Stop for tea at the Sadar Bazaar on the way back."
+      ],
+      "good_for": ["families", "students", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is the Kumaon Regiment museum open to the public?", "a": "Yes, on most days, but it is inside an army cantonment, so timings, fees and access can change at short notice. Carry ID and check current status before you travel with your hotel or the regimental centre."},
+        {"q": "Why is Ranikhet linked to the Kumaon Regiment?", "a": "Ranikhet is home to the Kumaon Regimental Centre, the depot and training centre of the regiment, which recruits largely from the Kumaon hills. The Naga Regiment is also based here."},
+        {"q": "Can I take photos in Ranikhet cantonment?", "a": "Photographing scenery on public roads is generally fine, but do not photograph military buildings, gates, vehicles or personnel. Follow signs and any instruction from soldiers."}
+      ]
+    },
+    {
+      "slug": "ranikhet-chaubatia-orchards",
+      "title": "Chaubatia orchards and viewpoint",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Apr for blossom, Jul–Sep for fruit, Oct–Nov for views",
+      "cost": "Small entry fee; taxi ₹800–1,200 return",
+      "image_query": "Chaubatia garden apple orchard Ranikhet",
+      "wiki": "Chaubatia",
+      "summary": "Ten kilometres south of Ranikhet, Chaubatia's government orchards and fruit research centre fill a slope with apple, peach, plum and apricot trees. Walk the orchard paths, buy juice and preserves, and look north to the snow peaks from the viewpoint.",
+      "body": [
+        "Chaubatia's name means the meeting of four paths, from the Kumaoni words for four and path, after the junction of roads to Bhargaon, Ranikhet, Dehrti and Pilkholi. It lies at about 1,800 m. The government garden and fruit and vegetable research centre here run the orchards and test fruit varieties for the hills.",
+        "Visitors can walk the orchard paths and the garden. In March and April the trees blossom white and pink; from July to September apples and other fruits ripen. A small sales counter usually sells juices, squashes and jams made from the orchard's fruit. Buy here and you support the hill fruit economy directly.",
+        "On clear days, especially from October to December, the viewpoint near the gardens looks north to the peaks of the Trishul and Nanda Devi groups. Combine the trip with Jhula Devi temple on the same road. Keep to paths, do not pick fruit, and carry your rubbish out."
+      ],
+      "good_for": ["families", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "What does Chaubatia mean?", "a": "In Kumaoni, chau means four and bat means path, so Chaubatia is the meeting point of four paths, after the road junction there."},
+        {"q": "When is the best time to visit Chaubatia gardens?", "a": "Late March and April for blossom, July to September for fruit, and October to December for clear mountain views. Winters are cold but quiet."},
+        {"q": "Can I buy fruit at Chaubatia?", "a": "A sales counter usually sells juices, squashes and preserves, and fresh fruit in season. Stock varies, so check on arrival."}
+      ]
+    },
+    {
+      "slug": "ranikhet-jhula-devi-temple",
+      "title": "Bells of the Jhula Devi temple",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, all year",
+      "cost": "Free",
+      "image_query": "Jhula Devi temple bells Ranikhet",
+      "wiki": "",
+      "summary": "On the road from Ranikhet to Chaubatia, the Jhula Devi temple is hung with thousands of bells offered by devotees. It is a short, atmospheric stop that shows how local faith in Kumaon is expressed through offerings of brass.",
+      "body": [
+        "The temple is dedicated to a form of the goddess Durga, shown seated on a swing, which gives it the name Jhula Devi. Local belief holds that the goddess protects the area from wild animals. Devotees who have a wish granted return to tie a bell, and over the years the bells have filled the temple's railings and roof.",
+        "The temple is small and set among trees on the Chaubatia road, a few kilometres from Ranikhet. It is busiest on Navratri and festival days. Nearby there is also a Ram temple, and the road continues to the orchards at Chaubatia.",
+        "Remove shoes before entering, and keep photographs respectful, especially during prayers. Do not ring bells continuously or take them. Monkeys gather near the temple, so keep food out of sight. Combine with Chaubatia for an easy half-day outing from Ranikhet."
+      ],
+      "good_for": ["seniors", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Why does Jhula Devi temple have so many bells?", "a": "Devotees tie a bell when a wish is fulfilled. Over decades thousands of bells have collected along the railings and roof, a custom shared with other Kumaoni temples such as Chitai near Almora."},
+        {"q": "How far is Jhula Devi from Ranikhet?", "a": "It is a few kilometres from Ranikhet on the Chaubatia road, about 15 minutes by taxi. It is usually combined with the Chaubatia orchards."},
+        {"q": "What is the story of Jhula Devi?", "a": "The goddess is shown seated on a swing, jhula, giving the temple its name. Local tradition credits her with protecting villagers and cattle from wild animals in the forests around Ranikhet."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Ranikhet worth visiting?", "a": "Yes, for a quiet stay. Ranikhet has clean cantonment roads, pine forest walks, the Kumaon Regiment museum, orchards at Chaubatia and mountain views, with fewer crowds than Nainital. It is not a place for nightlife or lakes."},
+    {"q": "How far is Ranikhet from Nainital?", "a": "About 60 km, 2–2.5 hours by road via Bhowali and Khairna. Shared taxis and buses connect the two through Bhowali."},
+    {"q": "What is the best time to visit Ranikhet?", "a": "March to June and September to December. April brings orchard blossom, October and November the clearest views. July and August are wet, and winter nights fall near freezing."},
+    {"q": "How many days are enough for Ranikhet?", "a": "Two nights covers the museum, Chaubatia, Jhula Devi, Upat and cantonment walks. Ranikhet works well as a stop between Nainital and Kausani or Almora."},
+    {"q": "Is Ranikhet good for seniors?", "a": "Yes. The cantonment roads are mostly level and quiet, the town has a military hospital, and drives to nearby sights are short. Choose a stay close to the road to avoid steep steps."},
+    {"q": "Does it snow in Ranikhet?", "a": "Light snow falls in some winters, usually in January or February, but not every year. Nights are cold from December to February."},
+    {"q": "Can civilians play golf at Upat?", "a": "Civilians are usually allowed to play at the army-run Upat golf course on payment of green fees, subject to army rules and availability. Ask in advance; it may close for events."},
+    {"q": "What is a budget stay in Ranikhet?", "a": "Simple hotels in Sadar Bazaar cost ₹1,500–3,000 a night for a double, and KMVN runs a rest house at Chilianaula nearby. Meals at local eateries cost ₹150–250."},
+    {"q": "Is there an ATM in Ranikhet?", "a": "Yes, several banks and ATMs operate in Sadar Bazaar. Still carry some cash for small shops and taxis."}
+  ]
+}

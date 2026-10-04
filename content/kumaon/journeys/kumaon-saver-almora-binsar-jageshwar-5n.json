@@ -1,0 +1,59 @@
+{
+  "slug": "kumaon-saver-almora-binsar-jageshwar-5n",
+  "title": "Almora, Binsar and Jageshwar on a budget",
+  "region": "kumaon",
+  "tier": "saver",
+  "nights": 5,
+  "themes": ["pilgrimages", "wildlife-and-birds", "food-and-tea", "homestays-and-villages"],
+  "stops": [{"place": "almora", "nights": 2}, {"place": "binsar", "nights": 1}, {"place": "jageshwar", "nights": 2}],
+  "start": "Kathgodam railway station",
+  "end": "Kathgodam railway station",
+  "price_from_inr": 14000,
+  "price_note": "Per person, twin sharing: 5 nights in hostel private rooms, guesthouses and the KMVN Binsar rest house, shared taxis plus two shared cab legs, Binsar gate fee; trains extra.",
+  "transport": "Shared taxis and jeeps, with two shared private-cab legs",
+  "group": "Private",
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "meta_description": "Saver Kumaon trip, 5 nights: Almora and Kasar Devi, a night inside Binsar sanctuary and Jageshwar's temples by shared jeep, from ₹14,000 per person.",
+  "summary": "Five nights through the heart of old Kumaon on shared jeeps: the Chand capital of Almora and its bal mithai, the Kasar Devi ridge, a night inside Binsar's oak forest at the government rest house, and two nights among Jageshwar's stone temples. Simple rooms, real local food and honest prices.",
+  "intro": [
+    "This is the trip we suggest to students and couples who want more than lakes. From Kathgodam, a shared taxi climbs past Kainchi Dham and along the Kosi to Almora. We stay up at Kasar Devi, where rooms are cheap and quiet, and go down to Almora's Lal Bazaar for sweets and copperwork. Then a night at the KMVN rest house inside Binsar puts you at Zero Point for sunrise.",
+    "Binsar has no public transport inside the sanctuary, so that leg is a shared cab, and the same from Binsar to Jageshwar; split between two people, it stays affordable. Jageshwar's temples are best at dawn, so we give it two nights. Rooms are simple: hostel private rooms or guesthouses with attached bathrooms in Almora and Jageshwar, and a basic government room in Binsar with limited power."
+  ],
+  "highlights": [
+    "Lal Bazaar's bal mithai and singori in the Chand kings' capital",
+    "The Kasar Devi temple and the Crank's Ridge walk",
+    "Sunrise from Zero Point inside Binsar sanctuary",
+    "Dawn among Jageshwar's 125 stone temples",
+    "The ASI museum and a hike to Vriddh Jageshwar"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathgodam to Kasar Devi", "place": "almora", "overnight": "Kasar Devi", "drive": "≈ 98 km · 3.5 h", "text": "From Kathgodam station, take a shared taxi to Almora for ₹350–500. The road climbs past Bhowali and Kainchi Dham, then follows the Kosi river through Khairna before climbing to Almora's ridge. From Almora, a shared jeep covers the last 8 km to Kasar Devi for ₹30–60. Check into a hostel private room or guesthouse, then walk up the steps to the Kasar Devi temple for sunset over the Hawalbagh valley.", "meals": "Breakfast"},
+    {"day": 2, "title": "Crank's Ridge and Lal Bazaar", "place": "almora", "overnight": "Kasar Devi", "drive": "≈ 16 km round trip · 40 min", "text": "Walk the pine ridge beyond the temple in the morning, the Crank's Ridge where Lama Govinda lived and Beat poets visited in the 1960s. Late morning, take a shared jeep down to Almora and walk Lal Bazaar from end to end: bal mithai near the bus stand, singori, the Nanda Devi temple and the copper workshops. Have a Kumaoni thali for lunch. If time allows, add the bells of Chitai Golu Devta, 8 km away, by shared jeep.", "meals": "Breakfast"},
+    {"day": 3, "title": "Into Binsar's oak forest", "place": "binsar", "overnight": "KMVN rest house, Binsar", "drive": "≈ 25 km · 1 h", "text": "After breakfast, share a cab from Kasar Devi to Binsar, paying the sanctuary gate fee on the way in. The narrow road climbs through oak and rhododendron to the KMVN rest house near the ridge. Settle in, then walk the forest paths with binoculars, looking for laughingthrushes, nuthatches and pheasants. Visit the small sanctuary museum if open. Dinner is simple at the rest house; power is limited, so charge devices when you can and sleep early.", "meals": "Breakfast, Dinner"},
+    {"day": 4, "title": "Zero Point sunrise, then Jageshwar", "place": "jageshwar", "overnight": "Jageshwar", "drive": "≈ 65 km · 2.5 h", "text": "Leave the rest house 45 minutes before sunrise with a torch and walk 2 km to Zero Point, where on clear mornings the peaks run from Chaukhamba to Panchachuli. Return for breakfast, then share a cab via Almora's outskirts and the Pithoragarh road to Artola and up the Jataganga valley to Jageshwar. Check into a guesthouse near the temples and spend the late afternoon walking to the Dandeshwar group, 1 km downstream, as evening lamps are lit.", "meals": "Breakfast"},
+    {"day": 5, "title": "Temples at dawn and Vriddh Jageshwar", "place": "jageshwar", "overnight": "Jageshwar", "drive": "", "text": "Enter the main temple compound at opening time to see priests begin the day's puja among the stone towers. After breakfast, visit the ASI site museum. Fit walkers can then hike up through forest and fields to Vriddh Jageshwar on the ridge, 3–4 hours return, with snow views on clear days; others can rest by the Jataganga under the deodars. Eat early at a local dhaba.", "meals": "Breakfast"},
+    {"day": 6, "title": "Back to Kathgodam", "place": "jageshwar", "overnight": "", "drive": "≈ 125 km · 4.5 h", "text": "Take a shared jeep from Jageshwar to Almora, about 1.5 hours, and change there for a shared taxi to Kathgodam or Haldwani, another 3 hours. Start by 8 am so you reach Kathgodam by mid-afternoon for an evening train. Buy a last box of bal mithai in Almora on the way through.", "meals": "Breakfast"}
+  ],
+  "stays": ["kmvn-trh-binsar"],
+  "includes": ["5 nights in hostel private rooms, guesthouses and the KMVN Binsar rest house, twin sharing", "Daily breakfast and dinner at Binsar", "Shared taxis and jeeps on all public legs", "Shared private cab Kasar Devi–Binsar and Binsar–Jageshwar", "Binsar sanctuary entry for Indian nationals"],
+  "excludes": ["Trains to and from Kathgodam", "Lunches and most dinners", "Guide fees for Binsar and Vriddh Jageshwar", "ASI museum tickets and temple offerings", "Foreign-national sanctuary fees"],
+  "good_to_know": [
+    "Binsar's rest house has limited electricity; carry a torch and power bank.",
+    "Shared jeeps run mostly in the morning; plan to move before noon.",
+    "All nights are below 2,500 m; altitude is not a concern for healthy travellers.",
+    "Rooms are simple, with attached bathrooms except where noted; hot water may be by bucket.",
+    "Monsoon months bring landslides on the Almora roads; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Is ₹14,000 per person realistic for 5 nights in Kumaon?", "a": "Yes, for twin sharing with simple rooms and shared transport outside peak holidays. It covers rooms, breakfast, Binsar dinner, transport and the gate fee. Add trains, lunches and dinners of ₹500–800 a day, and guide fees if you want them."},
+    {"q": "Why stay at Kasar Devi instead of Almora town?", "a": "Kasar Devi is quieter, has better views and many good-value hostels and guesthouses. Almora's bazaar is a 20-minute shared jeep ride away."},
+    {"q": "Is the KMVN rest house in Binsar comfortable?", "a": "It is basic but clean, with simple meals and a superb location near Zero Point. Power is limited, so expect early nights. It is the best budget way to sleep inside the sanctuary."},
+    {"q": "Can I do this trip solo?", "a": "Yes. Solo travellers can use dorms at Kasar Devi and share cab legs with other travellers, or pay a little more for the Binsar legs. Our price assumes two people sharing."},
+    {"q": "Do I need a guide for Binsar?", "a": "Not for the Zero Point walk, which is a clear trail. A guide is worthwhile for birding or longer forest walks, at about ₹1,000–2,000 for a half day."},
+    {"q": "What is the best season for this trip?", "a": "October and November for clear views, March and April for rhododendrons and birds. Winter is cold but quiet. Avoid July and August."},
+    {"q": "Can I add Kausani to this trip?", "a": "Yes. Add one or two nights at Kausani after Binsar, about 2 hours away, before heading to Jageshwar via Almora, or end at Kausani and return to Kathgodam from there."},
+    {"q": "Is this trip suitable for seniors?", "a": "Active seniors will enjoy it, but shared jeeps can be cramped and some stays have steps. Consider our comfort version with a private car if mobility is a concern."},
+    {"q": "What should I pack?", "a": "Warm layers, a torch, a power bank, comfortable walking shoes, a water bottle, binoculars if you have them, and cash for shared jeeps and small eateries."}
+  ]
+}

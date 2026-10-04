@@ -1,0 +1,145 @@
+{
+  "slug": "aru-valley",
+  "name": "Aru Valley",
+  "region": "kashmir",
+  "kind": "valley",
+  "wiki": "Aru, Jammu and Kashmir",
+  "image_query": "Aru valley Pahalgam meadow",
+  "lat": 34.093,
+  "lng": 75.263,
+  "altitude_m": 2414,
+  "tagline": "Trailhead village for Lidderwat, Kolahoi and Tarsar",
+  "meta_description": "Aru Valley guide: village stays 12 km above Pahalgam, Lidderwat day hike, Tarsar Marsar trek, Bakarwal camps, taxi and guide costs for 2026.",
+  "summary": "Aru is a farming village and meadow at 2,414 m, 12 km above Pahalgam on the West Lidder. It is the trailhead for Lidderwat, the Kolahoi Glacier and the Tarsar and Marsar lakes. Stay one or two nights for dawn walks and herders' camps, or longer to trek.",
+  "intro": [
+    "Aru sits on the left bank of the Aru stream, a tributary of the Lidder, where a side valley opens into a broad meadow ringed by fir forest. The road from Pahalgam ends here. Beyond, everything moves on foot or pony: trekkers heading up to Lidderwat, herders taking flocks to the high pastures, and villagers bringing timber and fodder down. It is the kind of place day-trippers see for an hour and walkers wish they had stayed in for a week.",
+    "The village itself is a cluster of timber and stone houses with grass or tin roofs, maize and potato fields, and walnut trees. In summer the upper meadows fill with Gujjar and Bakarwal camps, their horses grazing loose and smoke rising from mud-and-log huts. Around Aru there are about 20 alpine lakes, peaks and meadows within a few days' walk.",
+    "Accommodation is simple: JKTDC huts, guesthouses and a few small hotels, some open only in season. Network is weak, and evenings are cold, even in July. That is the point. Aru is where we send travellers who want to slow down, walk at dawn and sit by the stream with a cup of nun chai."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, Sep – Oct; Jul – Aug for treks"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Srinagar, about 110 km"],
+    ["From Pahalgam", "≈ 12 km · 30–40 min"],
+    ["Altitude", "2,414 m"],
+    ["Known for", "Lidderwat hike, Kolahoi and Tarsar treks, herders' camps"]
+  ],
+  "best_months": [0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Lidderwat day hike", "text": "A trail of about 10 km follows the Aru stream up through forest and meadow to Lidderwat, at the junction of the Kolahoi and Tarsar valleys. Fit walkers do it as a long day return; others camp and continue."},
+    {"title": "Tarsar and Marsar lakes", "text": "A six to seven day trek from Aru crosses high meadows to Tarsar, an almond-shaped lake below steep peaks, and on to Marsar. It is one of Kashmir's finest treks, with most nights above 3,000 m."},
+    {"title": "Kolahoi Glacier approach", "text": "From Lidderwat a trail continues north towards the Kolahoi Glacier, source of the West Lidder, about 35 km from Pahalgam. It is a two to three day trek for fit walkers with a guide."},
+    {"title": "Herders' summer camps", "text": "From June to September, Gujjar and Bakarwal families camp in the meadows above Aru with their flocks and horses. Visit with a local guide, greet first, and ask before photographing anyone."},
+    {"title": "Winter snow", "text": "Aru receives heavy snow in winter, and skiing and heliskiing have been practised here. Access from Pahalgam depends on snow clearance; most visitors come between April and November."}
+  ],
+  "field_notes": [
+    {"fact": "Aru lies on the left bank of the Aru stream, a tributary of the Lidder, and serves as the base camp for treks to the Kolahoi Glacier, Tarsar Lake, Marsar and Lidderwat.", "source": "Aru, Jammu and Kashmir"},
+    {"fact": "There are about 20 alpine lakes, peaks and meadows within reach of the Aru valley, and in winter, when Aru gets heavy snow, skiing and heliskiing have been practised.", "source": "Aru, Jammu and Kashmir"},
+    {"fact": "The Bakarwal and Gujjar herders who camp around Aru speak dialects of Gojri, have been listed as a Scheduled Tribe since 1991, and cross the Pir Panjal passes on their seasonal migrations.", "source": "Bakarwal"}
+  ],
+  "local_word": {"word": "Bakarwal", "language": "Gojri / Urdu", "meaning": "goat herder, from bakri, goat; the name of the nomadic herding community of the Pir Panjal"},
+  "costs": [
+    ["Union taxi Pahalgam–Aru return", "₹1,200–2,000 per car"],
+    ["Guesthouse or JKTDC room per night", "₹1,500–3,500 a room"],
+    ["Local trekking guide per day", "₹1,500–2,500"],
+    ["Pony with handler per day", "₹1,200–2,000"],
+    ["Tarsar Marsar group trek from Srinagar", "₹15,000–25,000 per person"],
+    ["Plate of rajma rice or maggi at a dhaba", "₹100–250"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar, drive about 95 km to Pahalgam, then 12 km up the West Lidder to Aru. Allow 3 h 30 min to 4 h in total."},
+    {"mode": "Bus", "text": "Reach Pahalgam by shared Sumo via Anantnag, then take a local shared or union taxi to Aru. Shared seats run mainly in the morning in season."},
+    {"mode": "Road", "text": "The Pahalgam–Aru road is narrow and winding. Union taxis from Pahalgam operate it; Srinagar taxis may not be allowed. In winter the road depends on snow clearance; check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC huts and family-run guesthouses in the village offer simple rooms with blankets and shared or basic attached bathrooms, often with home-cooked dinner. Comfort: a few small hotels on the meadow edge have attached baths and heaters in season; most comfort travellers stay in Pahalgam and visit Aru by day. Signature: there are no luxury properties; base yourself at the Welcomhotel in Pahalgam and come up early.",
+  "stays": [],
+  "tips": [
+    "Start the Lidderwat hike by 7 am so you are back before afternoon showers.",
+    "Carry cash; there is no ATM and card machines often fail.",
+    "Hire guides through the trekking association in Pahalgam or a registered operator.",
+    "Ask before entering herders' camps and do not feed their dogs, which guard the flocks.",
+    "Carry out all plastic; Aru's streams feed Pahalgam's water supply."
+  ],
+  "themes": ["treks-and-walks", "homestays-and-villages", "photography", "wildlife-and-birds"],
+  "nearby": ["pahalgam", "srinagar", "sonamarg"],
+  "experiences": [
+    {
+      "slug": "aru-lidderwat-day-hike",
+      "title": "Aru to Lidderwat along the stream",
+      "kind": "trek",
+      "duration": "7–8 hours return",
+      "best_time": "7 am, May–Oct",
+      "cost": "Guide ₹1,500–2,500; pony ₹1,200–2,000 optional",
+      "image_query": "Lidderwat meadow Aru Kashmir",
+      "wiki": "",
+      "summary": "A long but steady walk of about 10 km each way leads from Aru village through fir forest and meadow to Lidderwat, where the Kolahoi and Tarsar valleys meet. It is the best day hike in the Lidder valley for fit walkers, with no technical sections.",
+      "body": [
+        "The trail leaves the top of Aru village and climbs gently through fir and pine above the stream, crossing small meadows where herders graze horses. Height gain is modest, around 600 m, but the distance makes it a full day. Most people walk at a pace of 3–4 hours up and 2–3 hours down.",
+        "Lidderwat is a long meadow at the confluence of streams, with a few seasonal tea stalls and a forest hut. From here trails lead north towards the Kolahoi Glacier and east towards Shekwas and Tarsar. Sit by the water for lunch and watch for pied wagtails, Himalayan griffons overhead and, early in the season, snow on the peaks around the meadow.",
+        "Take a local guide; trails branch and herders' paths can confuse. Carry water, snacks, a rain jacket and sun protection, and turn back by early afternoon. Ponies can be hired if someone in your group cannot walk the full distance. Leave no litter and use toilets in Aru before starting."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the Aru to Lidderwat hike?", "a": "About 10 km each way, roughly 20 km return, taking 7–8 hours with breaks. The climb is gradual, about 600 m in total. Fit walkers can do it as a day hike; others can camp at Lidderwat and return the next morning."},
+        {"q": "Do I need a guide for Lidderwat?", "a": "We recommend one. The main trail is clear, but herders' paths branch off, weather changes fast and network is poor. Local guides charge about ₹1,500–2,500 a day and know where the stalls and safe crossings are."},
+        {"q": "Can children do the Lidderwat hike?", "a": "Fit children over about ten who walk regularly can manage it, especially with a pony for part of the way. Younger children are better on a shorter walk to the first meadows above Aru, about an hour from the village."}
+      ]
+    },
+    {
+      "slug": "aru-tarsar-marsar-trek",
+      "title": "Tarsar and Marsar lakes trek from Aru",
+      "kind": "trek",
+      "duration": "6–7 days",
+      "best_time": "Jul–mid Sep",
+      "cost": "Group trek ₹15,000–25,000 per person from Srinagar",
+      "image_query": "Tarsar Lake Kashmir",
+      "wiki": "Tarsar Lake",
+      "summary": "From Aru, this trek climbs via Lidderwat and Shekwas to Tarsar, a deep blue lake below steep peaks at about 3,800 m, then crosses a pass to the Sundersar and Marsar lakes. It is shorter and slightly easier than the Great Lakes trek, with equally fine meadows.",
+      "body": [
+        "Day one follows the Lidderwat trail, and day two climbs through birch and meadow to Shekwas, a high pasture often busy with herders. Day three reaches Tarsar, about 3,800 m, an almond-shaped lake under steep rock walls. Many groups take a rest day here before crossing the Tarsar pass, around 4,000 m, to Sundersar and the dramatic gorge view down to Marsar.",
+        "Because camps are above 3,000 m from the second night, acclimatisation is important. Ascend steadily, drink plenty of water, and turn back if symptoms of altitude sickness worsen. Talk to your doctor before the trek if you have a medical condition. Weather can turn suddenly, so pack rain gear and warm layers.",
+        "The trek runs from about July to mid-September. Join a registered operator or hire a local guide and pony team in Pahalgam or Aru. Marsar lake lies at the head of a valley that drains towards Dachigam National Park, and wildlife rules limit where you can go. Carry all rubbish out and avoid washing in the lakes."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How difficult is the Tarsar Marsar trek?", "a": "Moderate. Most days involve 5–7 hours of walking, and the highest point is the Tarsar pass at about 4,000 m. It suits fit beginners with some hiking experience and good preparation. Acclimatisation days and a steady pace make it comfortable for most."},
+        {"q": "Which is better, Tarsar Marsar or Kashmir Great Lakes?", "a": "Tarsar Marsar is shorter, about six or seven days, with one main pass and fewer crowds. The Great Lakes trek is longer with three passes and more lakes. For a first Himalayan trek, Tarsar Marsar is the gentler choice."},
+        {"q": "Is there network on the Tarsar Marsar trek?", "a": "No, beyond Aru there is almost no mobile coverage. Tell family your dates, carry a power bank, and rely on your guide's knowledge. Some operators carry satellite phones for emergencies; ask before booking."}
+      ]
+    },
+    {
+      "slug": "aru-herders-camps-walk",
+      "title": "Meet the herders' camps above Aru",
+      "kind": "village",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Jun–Sep",
+      "cost": "Local guide ₹1,000–1,500",
+      "image_query": "Bakarwal shepherds Kashmir meadow",
+      "wiki": "Bakarwal",
+      "summary": "From June to September, Gujjar and Bakarwal families camp in the meadows above Aru with goats, sheep and horses. A slow morning walk with a local guide lets you see how the summer camp works, share tea if invited, and understand a migration that predates tourism by centuries.",
+      "body": [
+        "The Gujjars and Bakarwals are pastoral communities who move with their animals between the lower hills of Jammu in winter and the high Kashmir meadows in summer, crossing the Pir Panjal passes on foot. They speak dialects of Gojri and have been listed as a Scheduled Tribe since 1991. Around Aru, their summer homes are low huts of logs and mud, or tents, set near springs.",
+        "Walk up with a guide from Aru village, who can introduce you and translate. You may see milking, butter churning, wool spinning or horses being shod. If you are invited for tea, it will often be salty nun chai with bread. Accept politely, and offer to pay only if your guide suggests it; small gifts such as tea or sugar are better than cash.",
+        "Ask before photographing people, especially women, and do not walk into enclosures. Keep away from guard dogs, which are protective. Remember these are working camps: visit for an hour and leave. Spring and autumn, when the herds move along the road from Pahalgam, are the best times to see the migration itself."
+      ],
+      "good_for": ["photographers", "families", "students", "solo"],
+      "faqs": [
+        {"q": "Who are the Bakarwals and Gujjars of Kashmir?", "a": "They are pastoral communities who move with their herds between the Jammu foothills in winter and high Kashmir meadows in summer. Bakarwals mainly herd goats and sheep; many Gujjars keep buffalo and cattle. Both speak Gojri dialects and are listed as Scheduled Tribes."},
+        {"q": "Is it respectful to visit herders' camps?", "a": "Yes, if you go with a local guide, greet the family first, keep visits short and ask before photographing anyone. Do not hand out sweets to children or enter enclosures. Treat it as visiting someone's home, because it is."},
+        {"q": "When do the herders arrive in Aru?", "a": "Most families reach the high meadows between late May and June and start moving down in September and early October, depending on snow and grass. Timing varies year to year, so ask in Pahalgam."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Aru Valley worth visiting?", "a": "Yes, especially if you like walking. The meadow itself is pleasant, but Aru's real value is as a base for dawn walks, Lidderwat and herders' camps. Day-trippers get an hour; a night or two shows the valley quietly after the taxis leave."},
+    {"q": "How far is Aru from Pahalgam?", "a": "About 12 km, 30–40 minutes by taxi on a narrow road along the West Lidder. Pahalgam union taxis run it; return fares are roughly ₹1,200–2,000 per car or included in the full Aru–Betaab–Chandanwari circuit."},
+    {"q": "Can we stay overnight in Aru?", "a": "Yes. JKTDC huts, guesthouses and a few small hotels operate, mainly from April to November. Rooms are simple and heating is limited, so ask for extra blankets. Book ahead in June and on long weekends."},
+    {"q": "Is Aru safe to visit now?", "a": "Aru has generally remained open, but access to meadows and trails in the Pahalgam area has been restricted at times. Check current advisories before you travel, confirm with your hotel in Pahalgam, and register your trek with local authorities where required."},
+    {"q": "What altitude is Aru, and is altitude sickness a risk?", "a": "Aru is at 2,414 m, below the level where most people have trouble. Treks from Aru go above 3,500 m, where altitude sickness is a real risk. Ascend gradually, drink water, and talk to your doctor before trekking if you have a medical condition."},
+    {"q": "Does Aru have snow?", "a": "Yes, heavy snow from about December to March, when skiing and heliskiing have been practised. The road may close after heavy snowfall. Spring meadows from April to June often have snow patches on the upper slopes."},
+    {"q": "Is there network and electricity in Aru?", "a": "Electricity is available but cuts are common. Postpaid mobile coverage is weak and patchy; many guesthouses have no Wi-Fi. Carry a power bank and treat it as a digital break."},
+    {"q": "What is the best time to visit Aru Valley?", "a": "May and June for green meadows and snow on the peaks, July and August for treks, and September and October for clear skies and autumn colours. Winter is beautiful but harsh, with limited stays."},
+    {"q": "Can families with children stay in Aru?", "a": "Yes, the meadow is safe for children to play on and short walks are easy. Keep children away from the stream, which is cold and fast, and pack warm clothes. Basic rooms and limited food choices suit families who are relaxed about comfort."}
+  ]
+}

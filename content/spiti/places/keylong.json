@@ -1,0 +1,145 @@
+{
+  "slug": "keylong",
+  "name": "Keylong",
+  "region": "spiti",
+  "kind": "town",
+  "wiki": "Keylong",
+  "image_query": "Keylong town Lahaul",
+  "lat": 32.571,
+  "lng": 77.033,
+  "altitude_m": 3080,
+  "tagline": "Lahaul's capital on the Bhaga, two hours from Manali",
+  "meta_description": "Keylong guide: Lahaul's district town at 3,080 m, Kardang and Shashur gompas, Atal Tunnel from Manali, bus fares, stays, winter access and best months.",
+  "summary": "Keylong, at 3,080 m on the Bhaga river, is the headquarters of Lahaul and Spiti district and the main town of Lahaul. Since the Atal Tunnel opened in 2020 it is about 71 km and two to three hours from Manali. Come for Kardang and Shashur gompas, the Manali–Leh road, and a gentle first night above 3,000 m.",
+  "intro": [
+    "Keylong climbs a slope above the Bhaga river, a district town of offices, schools, a hospital, a market street and terraced fields of potatoes, peas and hops. Across the valley, the white walls of Kardang Gompa sit under Rangcha peak, and above town Shashur Gompa looks over the whole basin. Lahaul gets far more snow than Spiti, so the valley is greener in summer, with willows and poplars along the fields.",
+    "For most of the 20th century Keylong was cut off for half the year when Rohtang Pass closed. The Atal Tunnel, 9.02 km long and opened on 3 October 2020, changed that: Manali to Keylong is now about 71 km and two to three hours, and the road is open for much of the winter. HRTC buses run frequently from Manali, and Keylong is a stop for buses heading towards Leh in season.",
+    "At 3,080 m, Keylong is a sensible first night above 3,000 m for anyone heading on to Jispa, Chandratal or Ladakh. Walk to Kardang, visit the small market, and let your body adjust. In January, Lahaul celebrates Halda, a new year festival of torches; in June, the gompas hold Tsheshu masked dances. Tandi, 8 km down the road, has the last petrol pump for a long way north."
+  ],
+  "facts": [
+    ["Best months", "May – Oct; winter visits via Atal Tunnel when open"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 120 km"],
+    ["From Manali", "≈ 71 km · 2–3 h via Atal Tunnel"],
+    ["Altitude", "3,080 m"],
+    ["Known for", "Kardang and Shashur gompas, Manali–Leh road, Halda festival"]
+  ],
+  "best_months": [1, 0, 0, 1, 1, 2, 2, 1, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Kardang Gompa across the river", "text": "Kardang is the most important monastery in Lahaul and belongs to the Drukpa lineage. Monks and nuns share it, and members spend summers farming. The walk from Keylong crosses the Bhaga and climbs through fields."},
+    {"title": "Shashur Gompa above town", "text": "Shashur, about 3 km above Keylong, was founded in the 17th century and hosts Tsheshu masked dances in June or July. The view over the Bhaga valley from its terrace is the best in town."},
+    {"title": "The Atal Tunnel drive", "text": "The 9.02 km tunnel under the Pir Panjal turns a once seasonal road into a two-hour drive from Manali. Coming out of the north portal into Lahaul, the light and landscape change at once."},
+    {"title": "Keylong market and Tibetan food", "text": "Keylong's short market street has dhabas, Tibetan cafes serving thukpa and momos, and shops for last supplies before the road north. Hotel Tashi Deleg's restaurant is a long-running local favourite."},
+    {"title": "Gateway to the Leh road", "text": "Keylong is the last town before the Manali–Leh road climbs over Baralacha La. Tandi, 8 km away, has the last petrol pump for a long stretch north."}
+  ],
+  "field_notes": [
+    {"fact": "Kardang Gompa is unusual: its monks and nuns have equal rights, monks may marry, and many members spend the summer working family fields before returning for winter. Its library holds the Kangyur scriptures.", "source": "Kardang Monastery"},
+    {"fact": "The Atal Tunnel, 9.02 km long at about 3,000 m, was inaugurated on 3 October 2020. It is described as the longest single-tube highway tunnel above 10,000 ft in the world and cut the Manali–Keylong road from 116 km to 71 km.", "source": "Atal Tunnel"},
+    {"fact": "Each June, Tsheshu fairs with masked dances by monks are held at Shashur, Gemur, Kardang and other monasteries in Lahaul, with dancers in costumes and masks of birds, animals and deities.", "source": "Lahaul and Spiti district administration"}
+  ],
+  "local_word": {"word": "Halda", "language": "Lahauli", "meaning": "the new year festival of torches made from pencil cedar, held in January"},
+  "costs": [
+    ["HRTC bus, Manali–Keylong", "₹150–250"],
+    ["Taxi Manali–Keylong one way", "₹3,500–5,000 per car"],
+    ["Guesthouse double room", "₹1,500–3,500 a night"],
+    ["Taxi Keylong–Kardang–Shashur half day", "₹1,500–2,500 per car"],
+    ["Plate of momos or thukpa", "₹120–220"],
+    ["Monastery entry", "Free; donation welcome"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is about 50 km from Manali; from there, Keylong is 71 km through the Atal Tunnel, about 4–5 hours in all."},
+    {"mode": "Bus", "text": "HRTC runs several buses a day between Manali and Keylong through the Atal Tunnel, about 2.5–3.5 hours. In season, Manali–Leh buses also stop here. Check current timings at Manali bus stand."},
+    {"mode": "Road", "text": "From Manali, drive through Solang to the Atal Tunnel south portal, out at Sissu, then along the Chandra to Tandi and up to Keylong: about 71 km. The road is open much of the winter; check current status after snow."}
+  ],
+  "where_to_stay": "Saver: Keylong has simple guesthouses and homestays from about ₹1,500–3,000 for a double, and Hotel Tashi Deleg in the market is a long-running budget-to-mid hotel with a popular restaurant. Comfort: a few better hotels in town offer heated rooms and valley views; many comfort travellers base themselves in Jispa, 22 km on, at Padma Lodge or Hotel Ibex. Signature: there is no luxury hotel in Keylong; our signature trips use the best rooms in Jispa.",
+  "stays": [],
+  "tips": [
+    "Make Keylong or Jispa your first night above 3,000 m before going on to Chandratal or Ladakh.",
+    "Fill up at the Tandi petrol pump before heading north or towards Spiti.",
+    "Walk to Kardang in the morning and return before the afternoon wind.",
+    "In winter, check whether the Atal Tunnel is open to tourist vehicles that day before leaving Manali.",
+    "Carry warm layers even in July; evenings in Keylong are cool."
+  ],
+  "themes": ["monasteries", "road-trips", "festivals", "snow-and-winter"],
+  "nearby": ["jispa", "chandratal"],
+  "experiences": [
+    {
+      "slug": "keylong-kardang-gompa-walk",
+      "title": "Walk to Kardang Gompa across the Bhaga",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "8 am–noon, May–Oct",
+      "cost": "Free; donation welcome",
+      "image_query": "Kardang Monastery Lahaul",
+      "wiki": "Kardang Monastery",
+      "summary": "Cross the Bhaga river and climb through village fields to Kardang, Lahaul's main monastery, where monks and nuns share one community. A half-day walk with views back to Keylong.",
+      "body": [
+        "Kardang Gompa stands on a ridge across the Bhaga from Keylong, at about 3,500 m, under Rangcha peak. It belongs to the Drukpa lineage and is unusual in the Himalaya: monks and nuns have equal rights here, and monks may marry. Many members work family fields in summer and return to the monastery in winter.",
+        "From Keylong, walk down to the river, cross the bridge and climb through Kardang village and its potato fields to the gompa, about 1.5 hours up. Or take a taxi most of the way and walk back. The temple was rebuilt between 1999 and 2009 after damage, and it holds paintings, thangkas, musical instruments and a library of scriptures.",
+        "Take off your shoes, walk clockwise and ask before photographing. Leave a donation in the box. Return in the late morning, before the wind rises along the valley."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "How far is Kardang from Keylong?", "a": "About 8 km by road, or a 1.5-hour walk down across the Bhaga and up through the village."},
+        {"q": "Is Kardang open to visitors?", "a": "Yes, usually in daytime. If the main hall is closed, ask in the courtyard."},
+        {"q": "Why is Kardang unusual?", "a": "Monks and nuns share the monastery with equal rights, and monks are permitted to marry."}
+      ]
+    },
+    {
+      "slug": "keylong-shashur-gompa-viewpoint",
+      "title": "Shashur Gompa and the Bhaga view",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Afternoon, May–Oct; Tsheshu in June",
+      "cost": "Free; donation welcome; taxi ₹600–1,000",
+      "image_query": "Shashur Monastery Keylong",
+      "wiki": "",
+      "summary": "Climb or drive about 3 km above Keylong to Shashur, a 17th-century gompa looking over the Bhaga valley, where monks perform masked dances at the Tsheshu fair in June.",
+      "body": [
+        "Shashur Gompa sits on a hillside about 3 km above Keylong, among trees and fields. It dates from the 17th century and belongs to the Drukpa tradition. Its terrace gives the best view of Keylong, the Bhaga river and Kardang across the valley.",
+        "Visit in the afternoon, when the light comes round to the town side. In June, Shashur is one of the gompas where Tsheshu masked dances are held, drawing families from across Lahaul. Dates follow the lunar calendar and are set locally.",
+        "The climb on foot is steep but short; taxis also go up. Walk around the gompa clockwise, keep voices low and ask before photographing inside."
+      ],
+      "good_for": ["families", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How do I reach Shashur Gompa?", "a": "Walk about 3 km uphill from Keylong, or take a short taxi ride."},
+        {"q": "When is the Tsheshu festival at Shashur?", "a": "Usually in June, with dates set by the lunar calendar. Ask in Keylong or check with the district administration."},
+        {"q": "Can I photograph the masked dances?", "a": "Usually from the edges of the courtyard, without flash. Never step into the dance space."}
+      ]
+    },
+    {
+      "slug": "keylong-atal-tunnel-and-sissu-drive",
+      "title": "Through the Atal Tunnel to Sissu and Keylong",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Morning, May–Oct; winter when open",
+      "cost": "HRTC bus ₹150–250; taxi ₹3,500–5,000 one way",
+      "image_query": "Atal Tunnel north portal Lahaul",
+      "wiki": "Atal Tunnel",
+      "summary": "Drive from Manali under the Pir Panjal through the 9.02 km Atal Tunnel into Lahaul, stop at Sissu's waterfall and the Chandra river, and reach Keylong in two to three hours.",
+      "body": [
+        "The Atal Tunnel runs 9.02 km under the Pir Panjal range at about 3,000 m, from near Solang on the Manali side to Lahaul. It was opened on 3 October 2020 and named after former Prime Minister Atal Bihari Vajpayee. Inside, speeds are controlled, and stopping is not allowed.",
+        "You come out into a different landscape: drier, wider, with the Chandra river below. Sissu, a few kilometres from the north portal, has a waterfall across the valley and a riverside lake area that fills with day visitors from Manali. Continue past Gondhla and Tandi, where the Chandra and Bhaga meet, and climb to Keylong.",
+        "In winter, the tunnel can be closed to tourist vehicles after snow or for road clearing. Check current status before you travel. Avoid weekends in peak season, when traffic queues at the south portal."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "couples"],
+      "faqs": [
+        {"q": "How long is the Atal Tunnel?", "a": "9.02 km. The drive through it takes about 10–15 minutes at controlled speeds."},
+        {"q": "Do I need a permit for the Atal Tunnel?", "a": "No permit is needed for the tunnel itself, unlike Rohtang Pass. Local rules for winter tourist traffic can change; check current status."},
+        {"q": "Is the Atal Tunnel open in winter?", "a": "Usually, but it can close after heavy snow or for clearing. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get from Manali to Keylong?", "a": "Through the Atal Tunnel, about 71 km and 2–3 hours by car. HRTC buses run several times a day from Manali for about ₹150–250, and taxis cost ₹3,500–5,000 one way. Check current status in winter, when snow can close the road or tunnel for tourist vehicles."},
+    {"q": "Is Keylong worth visiting?", "a": "Yes, especially as a first night above 3,000 m on the way to Chandratal, Jispa or Ladakh. Kardang and Shashur gompas are worth half a day, the market has good Tibetan food, and the town shows everyday Lahaul life rather than a tourist strip."},
+    {"q": "Is Keylong open in winter?", "a": "Keylong is inhabited all year and, since the Atal Tunnel, reachable for much of the winter. It gets heavy snow and temperatures below −15 °C. Many hotels close; book through a local operator. The Halda festival is held in January."},
+    {"q": "How high is Keylong and will I get altitude sickness?", "a": "Keylong is at 3,080 m. Most healthy travellers feel mild effects at most, but rest on arrival, drink water and avoid alcohol the first night. It is a good place to acclimatise before Chandratal or Ladakh. Talk to your doctor before you travel."},
+    {"q": "Are there ATMs and petrol in Keylong?", "a": "Keylong has ATMs and banks, and Tandi, 8 km away, has the last petrol pump for a long stretch on the Leh road. ATMs can run out in peak season, so carry cash."},
+    {"q": "Where should I stay in Keylong?", "a": "Keylong has simple guesthouses and hotels, including Hotel Tashi Deleg in the market. For more comfort, many travellers stay 22 km on in Jispa, at Padma Lodge or Hotel Ibex, beside the Bhaga river."},
+    {"q": "What is the Halda festival?", "a": "Halda is Lahaul's new year festival, held in January with dates set by the lamas. Families light torches of pencil cedar and bring them together at a central place, several times in honour of different deities. It is a community festival; join respectfully if invited."},
+    {"q": "Does mobile network work in Keylong?", "a": "Yes. BSNL, Jio and Airtel usually work in Keylong and along the Manali–Keylong road. Signal fades north of Darcha and on the Chandratal side beyond Gramphu."},
+    {"q": "Can I go from Keylong to Spiti?", "a": "Yes, from about June to October, via Tandi, Sissu, Gramphu, Chhatru, Batal and Kunzum La to Kaza: about 185 km and 8–9 hours. The Gramphu–Batal stretch is rough. Check current status of Kunzum La before you travel."}
+  ]
+}

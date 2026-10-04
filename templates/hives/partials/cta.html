@@ -1,0 +1,12 @@
+{% load hives %}<section class="ctab ground"{% if cta_land %} data-land="{{ cta_land }}"{% endif %}>
+  {% topo cta_land|default:"cta" %}
+  <div class="wrap ctab__in">
+    <div>
+      <p class="eyebrow">Plan with a local planner</p>
+      <h2 class="d-1">{{ cta_title|default:"Name the valley, the month, the budget" }}</h2>
+      <p class="lede">We reply within one working day with a route, a sleeping-altitude profile and an itemised price in your tier. Change anything. Pay nothing until you are sure.</p>
+      {% include "hives/partials/trust.html" %}
+    </div>
+    {% include "hives/partials/quick_form.html" with qf_id="band" qf_title="Start with four details" %}
+  </div>
+</section>

@@ -1,0 +1,145 @@
+{
+  "slug": "sonamarg",
+  "name": "Sonamarg",
+  "region": "kashmir",
+  "kind": "valley",
+  "wiki": "Sonamarg",
+  "image_query": "Sonamarg Sindh valley meadow",
+  "lat": 34.3036,
+  "lng": 75.293,
+  "altitude_m": 2730,
+  "tagline": "The meadow of gold on the old road to Ladakh",
+  "meta_description": "Sonamarg guide: Thajiwas glacier walk, Great Lakes trek start, Sindh rafting, Z-Morh tunnel winter access, pony rates and stays for 2026.",
+  "summary": "Sonamarg is a high meadow at 2,730 m in the Sindh valley, about 80 km north-east of Srinagar on the road to Zoji La and Ladakh. Come May to October for the Thajiwas glacier walk, river rafting and the start of the Kashmir Great Lakes trek. One night, or a long day trip, is enough for most.",
+  "intro": [
+    "Sonamarg means meadow of gold, a name usually explained by the colour of the grass and flowers in evening light. The meadow sits in the upper Sindh valley at 2,730 m, ringed by fir, birch and steep snow peaks, with the Thajiwas glaciers spilling down a side valley to the south. It is the last broad green space before the road climbs to Zoji La, the pass into Ladakh.",
+    "Historically this was a stage on the trade route between Kashmir, Ladakh and Tibet. Caravans of wool, salt and pashmina came over the pass and rested here. Today the same road carries trucks, army convoys and tourists, and Sonamarg is the Kashmir end of the Srinagar–Leh highway. Baltal, 15 km further east below Zoji La, is the base for the shorter Amarnath Yatra route.",
+    "Sonamarg used to close completely in winter, with no permanent settlement. Since January 2025 the 6.5 km Sonamarg (Z-Morh) tunnel has bypassed the avalanche-prone stretch at Gagangir, so the meadow can now be reached through much of the winter for snow play. Hotels are fewer than in Gulmarg or Pahalgam, so book early in season."
+  ],
+  "facts": [
+    ["Best months", "May – Oct; Jan – Mar for snow day trips"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Srinagar, about 90 km"],
+    ["From Srinagar", "≈ 80–85 km · 2 h 30 min–3 h"],
+    ["Altitude", "2,730 m"],
+    ["Known for", "Thajiwas glacier, Great Lakes trek, Zoji La road"]
+  ],
+  "best_months": [1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Thajiwas glacier walk", "text": "A 3–4 km path, or a pony ride, leads from the main meadow into the Thajiwas side valley, where snowfields and glacier tongues come down close to the meadow. Admire them from a safe distance: sections of glacier ice collapsed in 2024."},
+    {"title": "Start of the Great Lakes trek", "text": "The Kashmir Great Lakes trek begins at Shitkadi near Sonamarg and crosses high passes to Vishansar, Krishansar, Gadsar, Satsar and Gangabal lakes before ending at Naranag. It takes about seven days and suits fit trekkers."},
+    {"title": "Rafting on the Sindh", "text": "Short rafting runs on the Sindh river below Sonamarg operate from about May to August when water levels allow. Go only with licensed operators who provide helmets, life jackets and a safety kayaker or rope."},
+    {"title": "Baltal and the Zoji La road", "text": "Fifteen kilometres beyond the meadow, Baltal sits at the foot of Zoji La. In yatra season it becomes the base for the 13 km route to the Amarnath cave. Drive part of the pass road for views back over the Sindh."},
+    {"title": "Snow in winter", "text": "With the Z-Morh tunnel, Sonamarg is now a winter snow destination from Srinagar on many days. Expect sledges, snow boots for hire and very cold conditions. Check current road status before setting out."}
+  ],
+  "field_notes": [
+    {"fact": "Sonamarg had no permanent settlement and was cut off every winter by snow and avalanches, which is why most hotels here historically opened only from spring to autumn.", "source": "Sonamarg"},
+    {"fact": "Sonamarg was a gateway on the old trade routes linking Kashmir with Ladakh and Tibet, and Baltal, 15 km east of the meadow, sits at the foot of the Zoji La pass.", "source": "Sonamarg"},
+    {"fact": "The 6.5 km Sonamarg Tunnel, also called the Z-Morh tunnel after the zigzag road it bypasses, opened in January 2025 to give Sonamarg road access through the winter.", "source": "Sonamarg Tunnel"}
+  ],
+  "local_word": {"word": "Son", "language": "Kashmiri", "meaning": "gold; Sonamarg is the meadow of gold"},
+  "costs": [
+    ["Pony to Thajiwas and back, fixed rate", "₹800–1,500"],
+    ["Sindh river rafting, short stretch", "₹800–1,500 per person"],
+    ["Shared Sumo seat Srinagar–Sonamarg", "₹250–400"],
+    ["Private taxi day trip from Srinagar", "₹3,000–4,000"],
+    ["Snow boots and coat hire in winter", "₹200–500"],
+    ["Guesthouse or JKTDC room per night", "₹2,000–4,500 a room"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Srinagar and drive about 85 km via Ganderbal and Kangan along the Sindh river, 2 h 30 min to 3 h depending on traffic."},
+    {"mode": "Bus", "text": "Shared Sumos run from Srinagar to Kangan and Sonamarg in season, and JKSRTC has run seasonal buses. The Srinagar–Leh buses also pass through Sonamarg. Check current status before you travel."},
+    {"mode": "Road", "text": "NH1 is open year-round to Sonamarg through the Z-Morh tunnel, subject to snow clearance. Beyond Sonamarg, Zoji La usually opens from about April or May to November or December. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: JKTDC runs huts and hotels in Sonamarg, including Hotel Kongposh, and simple guesthouses line the highway. Rates are higher than in Srinagar because the season is short. Comfort: a handful of three-star hotels near the main meadow and a few riverside camps in season. Signature: there is no top-end property to rival Gulmarg or Pahalgam; many comfort and signature travellers visit Sonamarg as a day trip from Srinagar.",
+  "stays": [],
+  "tips": [
+    "Do not walk on or under glacier ice at Thajiwas; collapses have killed visitors.",
+    "Fix pony rates against the official rate board before starting the Thajiwas ride.",
+    "Leave Srinagar by 7 am in summer to beat traffic at Kangan and Gund.",
+    "Check yatra and convoy timings in July and August, when Baltal traffic slows the road.",
+    "Carry a warm jacket in every month; wind off the glaciers is cold even in July."
+  ],
+  "themes": ["treks-and-walks", "road-trips", "snow-and-winter", "adventure-sports"],
+  "nearby": ["srinagar", "pahalgam", "gurez-valley"],
+  "experiences": [
+    {
+      "slug": "sonamarg-thajiwas-glacier-walk",
+      "title": "Walk or ride to the Thajiwas glacier valley",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "9 am, May–Oct",
+      "cost": "Free on foot; pony ₹800–1,500 return",
+      "image_query": "Thajiwas glacier Sonamarg",
+      "wiki": "",
+      "summary": "From the main Sonamarg meadow, a 3–4 km trail climbs gently into the Thajiwas side valley, ringed by peaks with glacier tongues and snowfields. It is the classic Sonamarg outing, on foot or by pony, best done in the morning before cloud and crowds.",
+      "body": [
+        "The trail starts near the main market and follows a stream through meadow and birch woods into the Thajiwas valley. It gains only a little height, so most walkers manage it in about an hour each way. Pony owners wait at the start with rate boards; the official rates cover a return ride with waiting time.",
+        "At the head of the valley, snowfields and glacier ice come down close to the meadow, and in early summer the whole valley floor can be white. Sections of glacier ice collapsed in May and June 2024, killing and injuring visitors. Stay off the ice, do not shelter in ice caves, and keep a good distance from overhanging snow and steep faces.",
+        "Bring a picnic or buy kahwa and maggi at the stalls near the snow. Sledge operators work the snowfields in early summer; agree rates first. On the way down, look for marmots on the upper slopes and herders' huts in the meadows. Afternoons can turn cloudy and cold, so start early."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "students"],
+      "faqs": [
+        {"q": "Is the Thajiwas glacier safe to visit?", "a": "The walk to the valley is safe, but the ice itself is not. Glacier sections collapsed in 2024, causing deaths and injuries. Stay on the meadow and snow at a distance, avoid ice caves and overhangs, and follow any closure or warning signs from local authorities."},
+        {"q": "How much does a pony to Thajiwas cost?", "a": "Official rates are posted at the pony stand, usually ₹800–1,500 for a return ride with waiting time in recent seasons. Agree the destination and price before setting off. Walking is easy for most people and costs nothing."},
+        {"q": "When is there snow at Thajiwas?", "a": "From about May to June the valley floor usually still has snow, and patches remain on the slopes later. By August it is mostly green with snowfields higher up. In winter the whole area is snowbound and the walk is not practical."}
+      ]
+    },
+    {
+      "slug": "sonamarg-kashmir-great-lakes-trek",
+      "title": "Kashmir Great Lakes trek from Sonamarg",
+      "kind": "trek",
+      "duration": "7 days",
+      "best_time": "Jul–mid Sep",
+      "cost": "Group trek ₹18,000–30,000 per person from Srinagar",
+      "image_query": "Gangabal Lake Kashmir trek",
+      "wiki": "Gangabal Lake",
+      "summary": "This seven-day trek starts at Shitkadi near Sonamarg, crosses Nichnai, Gadsar and Zajibal passes, and passes a chain of alpine lakes, Vishansar, Krishansar, Gadsar, Satsar and the twin Gangabal and Nundkol, before descending to Naranag. It is one of India's finest high-meadow treks.",
+      "body": [
+        "Day one climbs from Shitkadi through maple and birch forest to the meadow at Nichnai. From there the route crosses Nichnai pass to Vishansar and Krishansar lakes, climbs Gadsar pass at about 4,200 m, and continues past Gadsar and Satsar to the twin lakes of Gangabal and Nundkol below Mount Harmukh. The final day drops steeply through pine forest to Naranag, with its old stone temples.",
+        "Total distance is about 70 km over six walking days, with most camps above 3,500 m. That means real acclimatisation risk: gain height slowly, drink plenty of water, and know the symptoms of altitude sickness. Talk to your doctor before the trek if you have heart, lung or blood pressure conditions. Fitness matters; train with long uphill walks for six to eight weeks.",
+        "The season runs from about July to mid-September. Treks are run by many registered operators from Srinagar, and the forest and police departments may require registration and ID checks along the route. Carry your trash out and avoid soaps in the lakes. Check current status before you travel."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How difficult is the Kashmir Great Lakes trek?", "a": "Moderate to difficult. It covers about 70 km in six walking days with three high passes, the highest about 4,200 m, and long descents. Fit beginners with good preparation complete it, but it is not a first trek for unfit walkers. Acclimatisation is essential."},
+        {"q": "What does the Great Lakes trek cost?", "a": "Group departures from Srinagar with tents, meals, guides and ponies usually cost ₹18,000–30,000 per person for the seven days. Private treks cost more. Add travel to Srinagar, gear rental and offloading of your backpack if needed. Check what permits and fees are included."},
+        {"q": "When is the best time for the Great Lakes trek?", "a": "July to mid-September. July has more snow on the passes and peak wildflowers; August is the most stable; early September is clear and cold with fewer groups. Outside this window snow closes the passes. Check current trail and permit status before you travel."}
+      ]
+    },
+    {
+      "slug": "sonamarg-sindh-river-rafting",
+      "title": "Rafting the Sindh below Sonamarg",
+      "kind": "adventure",
+      "duration": "1–2 hours",
+      "best_time": "Late morning, May–Aug",
+      "cost": "₹800–1,500 per person for a short run",
+      "image_query": "Sindh river rafting Sonamarg",
+      "wiki": "",
+      "summary": "In summer, local operators run short rafting stretches on the Sindh river just below Sonamarg. The water is glacier-fed, cold and lively, with mostly grade II to III rapids on the standard sections. It is a fun add-on to a Sonamarg day for confident swimmers and teenagers.",
+      "body": [
+        "Operators gather along the highway just below the meadow and offer runs of a few kilometres, usually ending near a road point where vehicles bring you back. Standard stretches have grade II to III rapids, enough to get soaked but manageable for first-timers who follow instructions. Flows are highest from late May to July with snowmelt.",
+        "Choose an operator registered with the tourism department, and check for a safety briefing, helmets, properly fitted life jackets, and a rescue kayak or throw rope. Wetsuits or splash jackets are worth paying a little extra for, because the water is just above freezing. Leave phones and valuables in the vehicle.",
+        "Children under about 14, non-swimmers and seniors should think twice; many operators set age limits. After rain the river can rise fast and turn muddy; good operators cancel. Have warm dry clothes ready for afterwards and a hot kahwa at the stalls by the road."
+      ],
+      "good_for": ["students", "couples", "solo"],
+      "faqs": [
+        {"q": "Is river rafting in Sonamarg safe?", "a": "It is reasonably safe with a registered operator, proper life jackets, helmets and a rescue kayak or rope. The water is very cold and fast, so falls are serious. Avoid operators who skip the briefing, and cancel if the river is high and muddy after rain."},
+        {"q": "What is the minimum age for rafting in Sonamarg?", "a": "Operators set their own limits, commonly around 14 years for the standard stretch. Younger children are usually not allowed on rapids. Ask before booking and check that life jackets come in child sizes if they are allowed."},
+        {"q": "When does rafting run in Sonamarg?", "a": "Roughly May to August, when snowmelt gives enough water. Operations depend on daily river levels and weather. By September flows drop and many operators close. Check current status locally on the day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Can I visit Sonamarg in winter now?", "a": "Since the Z-Morh (Sonamarg) tunnel opened in January 2025, Sonamarg can be reached on many winter days for snow play. Roads still close after heavy snowfall and avalanche warnings, and few hotels open in deep winter. Check current status before you travel and carry snow chains in your vehicle."},
+    {"q": "Is Sonamarg worth a night stay?", "a": "For most travellers a long day trip from Srinagar is enough. Stay a night if you are starting the Great Lakes trek, crossing Zoji La to Ladakh, or want the meadow quiet in the evening. Hotels are limited, so book early in June."},
+    {"q": "How far is Sonamarg from Srinagar?", "a": "About 80–85 km along the Sindh valley via Ganderbal and Kangan, usually 2 h 30 min to 3 h. Traffic slows in July and August during the Amarnath Yatra, and convoys may run at fixed times."},
+    {"q": "What is the cost of a Sonamarg day trip from Srinagar?", "a": "A private taxi costs about ₹3,000–4,000 for the day. A pony to Thajiwas costs ₹800–1,500. Add lunch at ₹300–500. By shared Sumo, transport drops to about ₹500–800 return per person, but departures are irregular in the afternoon."},
+    {"q": "Can I go from Sonamarg to Ladakh?", "a": "Yes. NH1 continues over Zoji La at about 3,528 m to Drass and Kargil, and on to Leh. The pass usually opens from about April or May to November or December. It is a long, rough drive; check current status and plan acclimatisation for Ladakh."},
+    {"q": "Is there network and ATM in Sonamarg?", "a": "Postpaid networks usually work near the main market, but coverage is weak up the valleys. ATMs are few and unreliable. Bring cash from Srinagar for ponies, rafting and food."},
+    {"q": "Is Sonamarg suitable for seniors?", "a": "Yes, at 2,730 m most seniors manage a day visit comfortably. Use a pony or walk slowly to Thajiwas, and avoid the snowfields if mobility is limited. People with heart or lung conditions should talk to their doctor before travelling to altitude."},
+    {"q": "What should I avoid at Sonamarg?", "a": "Walking on glacier ice, entering ice caves, rafting without a registered operator, and agreeing to pony rides without fixing the price. Also avoid driving the road on yatra convoy mornings in July and August unless you have checked timings."},
+    {"q": "Which is better, Sonamarg or Gulmarg?", "a": "Gulmarg has the gondola and skiing; Sonamarg has a wilder river valley, glaciers and trekking. In summer we suggest both if you have time. In winter Gulmarg is the safer bet for snow sports, while Sonamarg is a snow day trip."}
+  ]
+}

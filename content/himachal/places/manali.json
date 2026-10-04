@@ -1,0 +1,146 @@
+{
+  "slug": "manali",
+  "name": "Manali",
+  "region": "himachal",
+  "kind": "town",
+  "wiki": "Manali, Himachal Pradesh",
+  "image_query": "Manali town Beas valley",
+  "lat": 32.2396,
+  "lng": 77.1887,
+  "altitude_m": 2050,
+  "tagline": "Head of the Kullu valley, under cedar forest and snow peaks",
+  "meta_description": "Manali travel guide: Hadimba temple, Old Manali, Vashisht hot springs, Solang snow, HRTC Volvo fares, hostel to Span Resort stays and honest crowd advice.",
+  "summary": "Manali sits at about 2,050 m at the head of the Kullu valley, 12–14 hours from Delhi by HRTC Volvo. Give it two or three nights: the Hadimba temple, Old Manali and Vashisht on foot, and a day at Solang. Busy in May, June and New Year week; best in April, October and early December.",
+  "intro": [
+    "Manali is really three places. The new town around the Mall and the bus stand is all hotels, shops and taxi stands. Old Manali, a 2 km walk up across the Manalsu stream, is a village of kath-kuni houses, apple orchards and guesthouse cafés around the Manu temple. Vashisht, on the opposite bank of the Beas, has hot sulphur springs and a temple courtyard where villagers still bathe. Most visitors see only the first; we send you to the other two.",
+    "The town is the end of the Kullu valley and the start of the high road north. The Atal Tunnel, opened in 2020 about 25 km away, now carries traffic under the Rohtang Pass into Lahaul in all but the worst weather, so Manali is the gateway to our separate Spiti and Lahaul hive. Rohtang itself, at 3,978 m, is open to a limited number of permitted vehicles in summer. Solang valley, 14 km up the Beas, is the local snow and adventure playground.",
+    "Manali's biggest problem is its popularity. In May, June and the last week of December traffic queues back from the Mall to the Kullu road, and taxi unions control prices for sightseeing trips. Come in April, late September to November or the first half of December and the same town is calm, cheaper and clearer. Stay in Old Manali or Vashisht if you like to walk, or out of town at Naggar if you want quiet."
+  ],
+  "facts": [
+    ["Best months", "Mar – Jun, Sep – Dec"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Bhuntar (Kullu), ≈ 50 km"],
+    ["From Delhi", "≈ 540 km · 12–14 h by road"],
+    ["Altitude", "2,050 m"],
+    ["Known for", "Hadimba temple, Old Manali, Solang snow, gateway to Lahaul"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Hadimba Devi temple", "text": "A wooden temple of 1553 with a four-tiered roof, standing in a grove of old deodar on the edge of town. It is built over a rock where the goddess Hadimba is believed to have meditated. Arrive at 8 am to see it without queues."},
+    {"title": "Old Manali", "text": "A walk up through orchards to a village of kath-kuni houses, the Manu temple and riverside cafés. Quieter than the Mall, with guesthouses and hostels from ₹600 a night for a dorm bed."},
+    {"title": "Vashisht hot springs", "text": "Natural sulphur springs piped into stone bathing tanks next to the Vashisht temple, 3 km from town. Separate tanks for men and women, free to use. Locals bathe here in the early morning."},
+    {"title": "Solang valley", "text": "A broad meadow at about 2,500 m, 14 km from Manali, with snow from December to March and paragliding, zorbing and a ropeway in the warmer months. Go early to beat the jeep queues."},
+    {"title": "Jogini waterfall walk", "text": "A 3 km walk from Vashisht through orchards and pine to a tall waterfall that drops in stages down the cliff. Easy to moderate, about 3 hours return, and free."},
+    {"title": "Atal Tunnel day trip", "text": "Drive 25 km to the south portal of the 9 km tunnel under the Rohtang ridge and come out in Lahaul, where snow often lies when Manali is green. Covered in detail in our Spiti and Lahaul hive."}
+  ],
+  "field_notes": [
+    {"fact": "The Hadimba Devi temple was built in 1553 by the Kullu raja Bahadur Singh. It has no idol in the usual sense: the shrine is built around a rock on which the goddess is believed to have meditated, and her footprints are worshipped.", "source": "Hidimba Devi Temple"},
+    {"fact": "Old Manali's Manu temple is dedicated to the sage Manu of Hindu tradition, and local belief links the name Manali to him, reading it as the home of Manu, who is said to have stepped onto dry land here after the great flood.", "source": "Manu Temple"},
+    {"fact": "The Atal Tunnel under the Rohtang ridge is about 9 km long and was opened in October 2020. It shortened the road from Manali to Keylong by around 46 km and lets traffic reach Lahaul for most of the winter.", "source": "Atal Tunnel"}
+  ],
+  "local_word": {"word": "Rath", "language": "Kullvi", "meaning": "the carried palanquin in which a village devta travels to fairs"},
+  "costs": [
+    ["HRTC Volvo, Delhi–Manali", "₹1,500–1,900"],
+    ["Hostel dorm bed in Old Manali", "₹600–1,200"],
+    ["Local taxi, Manali–Solang return", "₹2,000–3,000 a car"],
+    ["Tandem paragliding at Solang", "₹1,000–3,500 depending on height"],
+    ["Plate of siddu with ghee", "₹100–200"],
+    ["Rohtang trip with permit and taxi", "₹4,500–7,000 a car (check current status)"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is about 50 km and 1.5–2 hours away, with a few flights from Delhi that are often delayed or cancelled by weather. Chandigarh airport, about 300 km away, has far more flights and HRTC buses to Manali."},
+    {"mode": "Bus", "text": "HRTC Volvo and ordinary buses leave Delhi's Kashmere Gate ISBT every evening and arrive in Manali in 12–14 hours. Private Volvos run from Majnu ka Tilla. Buses also link Manali with Shimla (≈ 8–9 h), Dharamshala (≈ 9–10 h) and Chandigarh (≈ 9 h)."},
+    {"mode": "Road", "text": "From Delhi, NH44 to Kiratpur then the four-lane Kiratpur–Manali highway through Bilaspur, Mandi and Kullu, about 540 km and 11–13 hours. The four-lane stretch through the Mandi gorge suffers landslides in monsoon. Check current status before you travel."}
+  ],
+  "where_to_stay": "Saver: Old Manali and Vashisht have the cheapest beds, from hostel dorms to simple family guesthouses at ₹1,000–2,000 a double off season; Zostel has a hostel in Old Manali. HPTDC runs several hotels in town. Comfort: choose a hotel on the Hadimba or Log Huts road, or in Prini and Hamta on the left bank, away from the Mall's traffic. Signature: Span Resort and Spa sits on its own stretch of the Beas south of town, with gardens, a pool and river views. For a quieter alternative, stay in Naggar, 20 km away, and visit Manali by day.",
+  "stays": ["zostel-old-manali", "span-resort-and-spa-manali"],
+  "tips": [
+    "Walk rather than drive between the Mall, Hadimba temple and Old Manali; they are 2–3 km apart and traffic is slow.",
+    "Agree the full price, waiting time and stops before booking a local taxi union trip to Solang or Rohtang.",
+    "Rent snow boots and coats at Solang only if you need them; ₹200–400 per set is a fair rate.",
+    "Bathe at Vashisht before 8 am, when the tanks are clean and quiet.",
+    "From December to March, check road reports before planning the Atal Tunnel; it closes in heavy snow."
+  ],
+  "themes": ["snow-and-winter", "adventure-sports", "honeymoons", "family-holidays", "road-trips"],
+  "nearby": ["naggar", "kasol", "tirthan-valley"],
+  "experiences": [
+    {
+      "slug": "manali-hadimba-temple-and-old-manali-walk",
+      "title": "Hadimba temple and Old Manali on foot",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "8 am, all year",
+      "cost": "Free; tea and lunch ₹300–600",
+      "image_query": "Hidimba Devi Temple Manali",
+      "wiki": "Hidimba Devi Temple",
+      "summary": "A morning loop from the Mall up to the 1553 Hadimba temple in its cedar grove, then across the Manalsu stream to Old Manali's kath-kuni lanes and the Manu temple. About 6 km of easy walking, with chai stops.",
+      "body": [
+        "From the Mall, follow the signed road uphill for 2 km to Dhungri, where the Hadimba Devi temple stands in a forest of very old deodar. The temple was built in 1553 by the Kullu raja Bahadur Singh around a rock the goddess Hadimba is believed to have meditated on. Look at the carved wooden doorway with its animals, deities and scenes, and at the horns of sacrificed animals fixed to the outer walls, a reminder that this is a living village shrine.",
+        "Hadimba is more than a local goddess. In the Kullu tradition she is the grandmother deity of the old ruling family, and Kullu Dussehra in October cannot begin until her palanquin arrives from Manali. In May, the Dhungri fair around her birthday draws villagers from across the upper valley. Please dress modestly, remove shoes where asked and avoid photographing worshippers during rituals.",
+        "From the temple, a path drops through the forest towards the Manalsu stream and climbs into Old Manali. Walk past the guesthouses to the top of the village, where houses are still built in kath-kuni style with slate roofs and wooden balconies. The Manu temple stands at the top. Come back down the main lane for lunch at one of the riverside cafés. The full loop is roughly 6 km and suits most ages."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers", "solo"],
+      "faqs": [
+        {"q": "What are the Hadimba temple timings?", "a": "The temple generally opens from early morning to early evening, roughly 8 am to 6 pm, with shorter hours in winter. Queues are long from 10 am in May and June. Entry is free. Timings change for festivals, so ask your hotel the day before."},
+        {"q": "How far is Old Manali from Manali Mall?", "a": "About 2–3 km uphill across the Manalsu bridge, 30–40 minutes on foot or 10 minutes by auto-rickshaw. The road through Old Manali is narrow and often jammed in peak season, so walking is usually faster."},
+        {"q": "Is the Hadimba temple walk suitable for children?", "a": "Yes. The road from the Mall is paved and steady, and children enjoy the forest and yaks waiting for photographs near the gate. Hold small hands near traffic on the Old Manali road, which has no pavement in places."}
+      ]
+    },
+    {
+      "slug": "manali-vashisht-hot-springs-and-jogini-falls",
+      "title": "Vashisht hot springs and Jogini falls",
+      "kind": "wellness",
+      "duration": "Half day, 4 hours",
+      "best_time": "7 am, Mar–Nov",
+      "cost": "Free; auto from Manali ₹100–200",
+      "image_query": "Vashisht temple hot spring Manali",
+      "wiki": "Vashisht, Himachal Pradesh",
+      "summary": "A soak in the natural sulphur springs at Vashisht's stone temple tanks, then a 3 km walk through orchards to Jogini waterfall. Free, gentle and best done early before the day-trippers arrive.",
+      "body": [
+        "Vashisht is a village on the left bank of the Beas, 3 km from Manali. Hot sulphur springs rise here and are piped into stone bathing tanks next to the temple of the sage Vashisht, with separate enclosures for men and women. Locals use them as the village bath, so treat them with the same courtesy you would a home: shower first at the taps, no soap in the tank, and no photographs of bathers.",
+        "The temple itself is built in the kath-kuni and stone style of the valley, with carved wooden panels. Beside it is a smaller temple to Rama. The village lanes above are packed with old timber houses, guesthouses and small cafés, and are a good place for breakfast after the bath.",
+        "From the top of the village a signed path leads about 3 km through apple orchards and pine to Jogini waterfall, which drops in several stages down a cliff. The walk takes about an hour each way and is mostly gentle, with a steeper last section on rocks near the falls. Wear proper shoes, as the stones are wet. Do not climb above the lower pool; people have been injured on the upper rocks."
+      ],
+      "good_for": ["couples", "solo", "students", "families"],
+      "faqs": [
+        {"q": "Are the Vashisht hot springs free?", "a": "Yes, the temple tanks are free to use. Private hotels nearby pipe the same water into rooms and charge for it. Bring your own towel and a change of clothes, and leave valuables at your hotel, as there are only simple changing areas."},
+        {"q": "How difficult is the Jogini waterfall walk?", "a": "Easy to moderate. It is about 3 km each way from Vashisht on a path through orchards and forest, with a short rocky stretch near the falls. Most people take 2.5–3 hours return including a rest. Trainers with good grip are enough."},
+        {"q": "Can women bathe at Vashisht?", "a": "Yes. There is a separate covered enclosure for women. Many local women bathe in the early morning. Swimwear or a light cotton outfit is appropriate, and the usual rule is to avoid photography in or near the tanks."}
+      ]
+    },
+    {
+      "slug": "manali-solang-valley-snow-day",
+      "title": "Snow and slopes at Solang valley",
+      "kind": "adventure",
+      "duration": "Half to full day",
+      "best_time": "Dec–Mar for snow; Apr–Jun and Oct for paragliding",
+      "cost": "Taxi ₹2,000–3,000 return; activities ₹500–3,500 each",
+      "image_query": "Solang Valley snow Manali",
+      "wiki": "Solang Valley",
+      "summary": "A wide meadow at about 2,500 m, 14 km up the Beas from Manali, with snow from December to March and paragliding, a ropeway and short walks in warmer months. Fun with children, but crowded, so go early and fix prices first.",
+      "body": [
+        "Solang sits where the Solang stream meets the Beas, below the slopes of the Pir Panjal range. In winter it is the nearest reliable snow to Manali, with beginner ski slopes and lessons, snow-scooter rides and sledging. In spring and autumn the meadow turns green and paragliding pilots launch from the slopes above for short tandem flights. A ropeway lifts visitors to a higher viewpoint at about 3,200 m.",
+        "Getting there is by local taxi from Manali, controlled by the taxi unions, or by HRTC bus on some days. On peak days in winter, private vehicles may be stopped below Solang when roads are icy, and you switch to local four-wheel-drive taxis. Expect queues at the ropeway and crowds of tourists in rented snow suits. It is lively and noisy rather than wild.",
+        "To enjoy it, arrive by 9 am, walk 15–20 minutes away from the main activity area to quieter slopes, and agree every activity price before you start. Paragliding operators should be registered with the tourism department; ask to see the pilot's licence. If you want quiet snow, ask your driver to continue towards the Atal Tunnel on clear days. Check current status before you travel."
+      ],
+      "good_for": ["families", "students", "couples", "first-timers"],
+      "faqs": [
+        {"q": "When is there snow in Solang valley?", "a": "Usually from mid-December to March, with the deepest snow in January and February. Some years snow lingers into April on the upper slopes. From May to November the meadow is green, and snow is only visible on the surrounding peaks."},
+        {"q": "How much does paragliding at Solang cost?", "a": "Short tandem flights from the lower slopes start around ₹1,000–1,500, and longer flights from higher launch points cost ₹2,500–3,500. Prices vary with season and demand. Paragliding pauses during the monsoon and in bad weather. Agree the flight length before you pay."},
+        {"q": "Can I drive my own car to Solang?", "a": "Usually yes in summer and autumn. In winter, the police may stop private vehicles below Solang or Palchan when roads are icy, and you must use local taxis. Snow chains and four-wheel drive help but are not always allowed through. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days should I spend in Manali?", "a": "Two to three nights. One day for Hadimba temple, Old Manali and Vashisht on foot, one for Solang or the Atal Tunnel, and a spare day for weather or a trip down the valley to Naggar. If you are continuing to Lahaul or Spiti, add a rest day before going higher."},
+    {"q": "What is the best time to visit Manali?", "a": "April, October and the first half of December are our favourites: clear skies, fair prices and fewer crowds. May and June have perfect weather but heavy traffic. January and February bring snow. July and August are monsoon months with landslides, and we avoid them."},
+    {"q": "How much does a Manali trip cost?", "a": "A saver trip with HRTC Volvo from Delhi, three nights in a hostel or guesthouse and local buses costs about ₹9,000–13,000 per person. With a private car and a good hotel, expect ₹25,000–40,000 per person for three nights. New Year week costs much more."},
+    {"q": "Do I need a permit for Rohtang Pass?", "a": "Private and taxi vehicles need an online permit to drive up to Rohtang Pass, issued in limited numbers each day. You do not need a permit to use the Atal Tunnel. Rohtang is closed to tourist vehicles in winter and on some days for maintenance. Check current status before you travel."},
+    {"q": "Is Manali good for a honeymoon?", "a": "Yes, if you avoid the Mall. Stay in Prini, Hamta, Old Manali or a riverside resort such as Span, and keep sightseeing light. October and early December are calm and clear. In peak season, honeymoon packages often mean long jeep queues to Solang and Rohtang."},
+    {"q": "Is it safe to travel to Manali in monsoon?", "a": "It can be risky. July and August bring heavy rain, landslides on the Kiratpur–Manali highway and sudden rises in the Beas, which caused serious damage in 2023. If you must go, stay away from riverbanks, keep buffer days and follow official weather alerts."},
+    {"q": "Are there ATMs and network in Manali?", "a": "Yes. ATMs line the Mall and the bus stand area, and Jio, Airtel and BSNL all have good 4G in town. Signal weakens towards Solang and beyond. Card and UPI payments are widely accepted; keep cash for taxi unions and small cafés."},
+    {"q": "Is Manali safe for solo women?", "a": "Generally yes. Old Manali and Vashisht have many solo travellers and hostels with women-only dorms. Avoid walking alone on dark roads between Old Manali and the Mall late at night, watch your drink at parties, and book taxis through your hotel after dark."},
+    {"q": "Can seniors visit Manali comfortably?", "a": "Yes. At about 2,050 m, most healthy seniors adjust well. Choose a hotel with road access and a lift, avoid the steep lanes of Old Manali, and plan short sightseeing days. Solang involves walking on snow or uneven ground; talk to your doctor before going higher to Rohtang."}
+  ]
+}

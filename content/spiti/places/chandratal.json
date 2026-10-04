@@ -1,0 +1,144 @@
+{
+  "slug": "chandratal",
+  "name": "Chandratal",
+  "region": "spiti",
+  "kind": "lake",
+  "wiki": "Chandra Taal",
+  "image_query": "Chandra Taal lake Lahaul",
+  "lat": 32.476,
+  "lng": 77.617,
+  "altitude_m": 4250,
+  "tagline": "The crescent moon lake, open June to early October",
+  "meta_description": "Chandratal guide: Ramsar lake at about 4,250 m, camp prices, road from Kaza and Manali via Batal, opening months, altitude and leave-no-trace rules.",
+  "summary": "Chandratal, the moon lake, is a crescent of blue water at about 4,250 m below Kunzum La in upper Lahaul, a Ramsar wetland since 2005. Camps sit 2–3 km away and the last kilometre is on foot. The road opens roughly mid-June to early October. Sleep here only after nights in Kaza or Keylong.",
+  "intro": [
+    "Chandratal lies in a hollow of meadows and moraine above the Chandra river, about 1.8 km long and 400 m wide, with peaks of the Chandra–Bhaga range on one side. The colour changes through the day from deep blue to green to grey. In November 2005 it was declared a Ramsar wetland, one of two high-altitude Ramsar sites in India.",
+    "Getting there is part of it. A rough side road leaves the Manali–Kaza highway near Batal and climbs about 12 km to a parking area; the camps are spread out a few kilometres before the lake, and you walk the final kilometre. From Kaza it is about 95 km over Kunzum La; from Manali through the Atal Tunnel, Gramphu and the stony Chhatru–Batal stretch, it is a long day.",
+    "Camping by the lake is not allowed. Tented camps with Swiss tents, dinners and breakfasts operate in a designated area, from roughly mid-June until the first snow in late September or early October. Nights drop below freezing, and the altitude is real: do not come here as your first night above 3,000 m. Sleep in Kaza or Keylong first, and if you feel unwell at the camp, drive down."
+  ],
+  "facts": [
+    ["Best months", "Mid-Jun – Sep"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bhuntar (Kullu–Manali), about 170 km"],
+    ["From Kaza", "≈ 95 km · 4–5 h via Kunzum La"],
+    ["Altitude", "about 4,250 m"],
+    ["Known for", "Crescent lake, Ramsar wetland, camps, Kunzum La"]
+  ],
+  "best_months": [0, 0, 0, 0, 0, 1, 2, 1, 2, 1, 0, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "The walk around the lake", "text": "A path circles the lake in about 1.5–2 hours. Walk it clockwise in the morning, when the water is still and the colours are deepest. Stay on the trail and keep off the fragile meadows at the edge."},
+    {"title": "Kunzum La and its temple", "text": "On the drive from Kaza, Kunzum La at about 4,590 m has a small shrine to Kunzum Devi and chortens wrapped in prayer flags. Drivers stop to circle it for luck. Stay a few minutes only; it is very high."},
+    {"title": "Lunch at Batal", "text": "Batal, where the Chandratal road leaves the highway, is a tiny stop with dhabas that feed trekkers, bikers and drivers with dal, rice and tea. In season, it is the only hot meal for many kilometres."},
+    {"title": "Meadows in July", "text": "In July and August the meadows around the lake fill with small wildflowers. Walk carefully; overgrazing and footfall have already thinned the grasslands."},
+    {"title": "A night of stars", "text": "Camps are far from any light. On a clear, moonless night the sky above Chandratal is crowded with stars. Bring a down jacket, a cap and patience; it is cold."}
+  ],
+  "field_notes": [
+    {"fact": "Chandra Taal was designated a Ramsar wetland of international importance on 8 November 2005, one of only two high-altitude wetlands in India on the list at that time.", "source": "Chandra Taal"},
+    {"fact": "The lake is about 1.76 km long and 0.41 km wide, with a maximum depth of about 42.5 m. Its name means moon lake, after its crescent shape.", "source": "Chandra Taal"},
+    {"fact": "The road to Chandra Taal branches off NH-505 about 2.9 km from Batal and 8 km from Kunzum Pass, then runs about 12 km to a parking area; the last stretch to the lake is on foot.", "source": "Chandra Taal"}
+  ],
+  "local_word": {"word": "Taal", "language": "Hindi", "meaning": "lake; Chandra Taal means moon lake"},
+  "costs": [
+    ["Tented camp with dinner and breakfast", "₹1,500–3,000 per person"],
+    ["Taxi Kaza–Chandratal drop", "₹6,000–8,000 per car"],
+    ["Shared taxi seat Kaza–Batal turn-off", "₹800–1,200"],
+    ["Dhaba meal at Batal", "₹150–300"],
+    ["Taxi Chandratal–Manali", "₹8,000–11,000 per car"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is closest. From Manali, drive through the Atal Tunnel, Gramphu, Chhatru and Batal: about 120 km and 6–7 hours on a rough road."},
+    {"mode": "Bus", "text": "No bus goes to the lake. The HRTC Manali–Kaza bus passes Batal, about 14 km from the camps; arrange a camp pickup in advance. Check current timings and road status before you travel."},
+    {"mode": "Road", "text": "From Kaza, about 95 km and 4–5 hours over Kunzum La. Private cars and taxis go up to the parking area; walk the last kilometre. The road is open roughly mid-June to early October."}
+  ],
+  "where_to_stay": "Everyone sleeps in the designated camping area a few kilometres before the lake, since camping on the shore is not allowed. Saver and comfort travellers stay in Swiss tents with beds and blankets, dinner and breakfast included, for about ₹1,500–3,000 a person; some tents have attached basic toilets, others share. There is no hotel or signature-level lodge here; our signature trips use the best-run camp available and add extra bedding and hot water bottles. Batal has a few very basic dhaba rooms as an emergency option.",
+  "stays": ["chandratal-camping-ground-tents"],
+  "tips": [
+    "Never make Chandratal your first night above 3,000 m; sleep in Kaza or Keylong first.",
+    "Bring a down jacket, thermal layers and a cap: nights fall below freezing even in August.",
+    "Do not camp, wash or swim at the lake; carry every piece of rubbish back to Kaza or Manali.",
+    "Cross the Chhatru–Batal streams early in the morning, when snowmelt is lowest.",
+    "There is no mobile signal from Losar to Chhatru; tell family before you leave."
+  ],
+  "themes": ["road-trips", "photography", "treks-and-walks", "adventure-sports"],
+  "nearby": ["kaza", "keylong", "jispa"],
+  "experiences": [
+    {
+      "slug": "chandratal-lake-circuit-walk",
+      "title": "Morning walk around Chandratal",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "7–10 am, Jul–Sep",
+      "cost": "Free",
+      "image_query": "Chandratal lake reflection",
+      "wiki": "Chandra Taal",
+      "summary": "Walk from the camps to the lake and around its shore at sunrise, when the water is still and the crescent reflects the peaks. Slow, cold and the best two hours at the lake.",
+      "body": [
+        "Leave camp before breakfast with a warm layer and water. The walk from the parking area to the shore takes about 15–20 minutes, and the circuit of the lake about 1.5–2 hours at an easy pace. At this altitude, about 4,250 m, an easy pace is the only pace.",
+        "Mornings are calmest. The wind usually picks up by late morning, ruffling the surface and turning the colours grey. Walk clockwise, as local custom suggests, and stop at the cairns and prayer flags on the far side for the view back over the crescent.",
+        "Stay on the main path. The meadows at the edge are fragile and the lake is protected as a Ramsar wetland. No camping, no fires, no soap in the water, and no rubbish left behind, not even fruit peels."
+      ],
+      "good_for": ["photographers", "couples", "students", "solo", "families"],
+      "faqs": [
+        {"q": "How long is the walk around Chandratal?", "a": "About 1.5–2 hours around the lake, plus 15–20 minutes each way from the parking area."},
+        {"q": "Can I swim in Chandratal?", "a": "No. The lake is a protected Ramsar wetland and sacred to local people. Do not swim, wash or wade."},
+        {"q": "What time is best for photos?", "a": "Sunrise to about 10 am, before the wind ruffles the surface."}
+      ]
+    },
+    {
+      "slug": "chandratal-kunzum-la-shrine-stop",
+      "title": "Kunzum La and its roadside shrine",
+      "kind": "spiritual",
+      "duration": "20–30 minutes",
+      "best_time": "Late morning, Jul–Sep",
+      "cost": "Free",
+      "image_query": "Kunzum Pass temple Spiti",
+      "wiki": "Kunzum Pass",
+      "summary": "Stop at Kunzum La, about 4,590 m, between Spiti and Lahaul, where drivers circle the small shrine to Kunzum Devi and the chortens before going on. A short stop at a very high point.",
+      "body": [
+        "Kunzum La is the pass between Spiti and Lahaul, on the road between Kaza and Chandratal. At the top, a small shrine to Kunzum Devi and a cluster of chortens stand among prayer flags. Most drivers stop and walk around them clockwise for a safe journey.",
+        "The view stretches over the Bara Shigri glacier side and the Chandra valley to the west, and back into Spiti to the east. On a clear day you can see far into both valleys.",
+        "Keep the stop short. At about 4,590 m, headaches come quickly, especially if you have driven up from lower down. Do not run, do not shout, and do not add to the stone piles or leave plastic flags behind."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How high is Kunzum La?", "a": "About 4,590 m, the highest point on the Manali–Kaza road."},
+        {"q": "When is Kunzum La open?", "a": "Roughly June to October, after BRO clears the snow. Check current status before you travel."},
+        {"q": "Why do drivers circle the shrine?", "a": "It is a local custom to honour Kunzum Devi and ask for a safe journey over the pass."}
+      ]
+    },
+    {
+      "slug": "chandratal-batal-dhaba-lunch",
+      "title": "Dal and rice at a Batal dhaba",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Noon–2 pm, Jun–Sep",
+      "cost": "₹150–300 a meal",
+      "image_query": "Batal Lahaul dhaba",
+      "wiki": "",
+      "summary": "Eat with drivers, bikers and trekkers at Batal, the tiny stop where the Chandratal road leaves the highway. Hot dal, rice and tea in one of the emptiest stretches of the Himalaya.",
+      "body": [
+        "Batal is barely a settlement: a bridge over the Chandra river, a few dhabas, a PWD rest house and a lot of stones. For decades it has been the place where travellers between Manali and Spiti stop to eat, warm up and swap road news.",
+        "The menu is short and filling: dal, rice, vegetables, Maggi, omelettes and endless cups of tea. Some dhabas offer very basic beds on the floor as an emergency stop. Pay in cash.",
+        "Ask about the road. The people who run the dhabas know which streams are high, whether Kunzum is clear and how long the Chhatru stretch is taking that day. Thank them, leave nothing behind, and carry your plastic out."
+      ],
+      "good_for": ["students", "solo", "first-timers", "families"],
+      "faqs": [
+        {"q": "Where is Batal?", "a": "On the Manali–Kaza road, below Kunzum La, where the side road to Chandratal begins."},
+        {"q": "Can I stay at Batal?", "a": "Some dhabas offer basic floor beds in emergencies. Plan to sleep at the Chandratal camps or in Kaza instead."},
+        {"q": "Is food available all year at Batal?", "a": "No. Dhabas open only when the road is open, roughly June to October."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When does the Chandratal road open?", "a": "The side road to Chandratal usually opens around mid-June, after Kunzum La and the Batal stretch are cleared, and camps close in late September or early October with the first snow. Dates vary each year with snowfall. Check current status before you travel, and book camps only once the road is confirmed open."},
+    {"q": "How much does a night at Chandratal cost?", "a": "Camps in the designated area charge about ₹1,500–3,000 a person for a Swiss tent with dinner and breakfast. Better-run camps with attached toilets cost more. Prices are indicative for 2026 and rise in July and August."},
+    {"q": "Is it safe to sleep at Chandratal?", "a": "It is safe for most healthy people who have acclimatised for two or three nights at lower altitude. At about 4,250 m, sleeping here on your first night in the mountains, for example straight from Manali, risks altitude sickness. Watch for worsening headache or breathlessness, and drive down if they appear. Talk to your doctor first."},
+    {"q": "Can I camp next to Chandratal lake?", "a": "No. Camping on the shore is not allowed, and the designated camps are a few kilometres away. You drive to a parking area and walk about a kilometre to the lake. The rule protects a fragile Ramsar wetland."},
+    {"q": "How do I reach Chandratal by public transport?", "a": "There is no bus to the lake. The HRTC Manali–Kaza bus passes Batal, about 14 km from the camps; your camp can often arrange a pickup. Otherwise, share a taxi from Kaza or Manali. Check current status of buses and roads before you travel."},
+    {"q": "Is there mobile network at Chandratal?", "a": "No. There is no mobile signal between Losar and Chhatru, which includes Kunzum La, Batal and Chandratal. Some camps have satellite phones for emergencies. Tell family you will be offline for a day."},
+    {"q": "How cold is Chandratal at night?", "a": "Even in July and August, nights fall to around 0 °C or below, and in September to −5 °C or colder. Camps provide heavy blankets, but bring a down jacket, thermals, a cap and warm socks."},
+    {"q": "Can I visit Chandratal with children or seniors?", "a": "A day visit is fine for most healthy people who have acclimatised in Kaza or Keylong. Sleeping at the camps is harder; for young children and seniors, we suggest visiting by day and sleeping lower. Ask your doctor first."},
+    {"q": "Should I visit Chandratal from Kaza or Manali?", "a": "From Kaza, after acclimatising in Spiti, is safer and easier: about 95 km over Kunzum La. From Manali, the drive is shorter but rougher, and you gain altitude too fast to sleep at the lake on the first night. On a circuit, visit it on the way out from Kaza to Manali."}
+  ]
+}

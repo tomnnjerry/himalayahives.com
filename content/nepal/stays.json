@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "zostel-kathmandu",
+    "name": "Zostel Kathmandu",
+    "place": "kathmandu",
+    "tier": "budget",
+    "kind": "hostel",
+    "brand": "Zostel",
+    "wiki": "",
+    "image_query": "Zostel Kathmandu hostel Thamel",
+    "summary": "The Indian hostel chain's Kathmandu property, down a quiet alley off Paknajol Marg a few minutes' walk from Thamel. Dorms with four to eight beds, a female dorm, private rooms and a rooftop terrace. A safe, sociable base for students and solo travellers.",
+    "body": [
+      "Zostel's Kathmandu hostel was the chain's first property outside India. It sits on a side lane off Paknajol Marg, at the quieter northern edge of Thamel, so you are close to trekking agencies, gear shops and the tourist bus stop at Sorhakhutte but away from the late-night noise of the main Thamel streets. Look for the building-sized mural on the lane.",
+      "Rooms range from mixed dorms of four to eight beds, some with en-suite bathrooms, to a female-only dorm and private doubles. Beds have individual lights and sockets. Common spaces include a cafe, a kitchenette, a games area and a rooftop terrace with views across the city, and staff help with bus tickets and luggage storage while you trek."
+    ],
+    "why": ["Indian-run chain familiar to students and young travellers", "Female-only dorm and lockers", "Walking distance to Thamel and the Pokhara tourist buses"],
+    "best_for": ["students", "solo travellers", "backpackers", "women travelling alone"],
+    "price_band": "₹600–1,200 for a dorm bed; ₹2,000–3,500 a night for a private double (indicative)",
+    "website": "https://www.zostel.com",
+    "faqs": [
+      {"q": "Is Zostel Kathmandu in Thamel?", "a": "It is on a side lane off Paknajol Marg, on the northern edge of Thamel, a few minutes' walk from the main Thamel streets."},
+      {"q": "Does Zostel Kathmandu have a female-only dorm?", "a": "Yes, it has a female-only dorm as well as mixed dorms and private rooms. Book early in October and November."},
+      {"q": "Can I store luggage at Zostel while trekking?", "a": "Hostels in Kathmandu commonly store bags for guests going on treks. Confirm with the hostel when booking and keep valuables with you."}
+    ]
+  },
+  {
+    "slug": "ghandruk-homestay-village",
+    "name": "Ghandruk Gurung homestays",
+    "place": "ghandruk",
+    "tier": "budget",
+    "kind": "homestay village",
+    "brand": "Independent",
+    "wiki": "",
+    "image_query": "Ghandruk homestay Gurung house",
+    "summary": "Stay in a Gurung family house in Ghandruk rather than a lodge. Rooms are simple and often share a bathroom, but you eat home-cooked dal bhat with the family and wake to Annapurna South over the rooftops. Money stays with village households.",
+    "body": [
+      "Ghandruk has a long-running community homestay arrangement in which families in the older part of the village open a room or two to visitors. Houses are built of stone with slate roofs, and rooms are plain: two beds with thick quilts, a window and sometimes an attached bathroom. Hot water usually comes from solar panels or gas, and is best in the afternoon.",
+      "Meals are the point. Families cook dal bhat with garden vegetables, greens and pickles, sometimes millet bread or buckwheat pancakes, and you often eat in the kitchen beside the stove. Book through your trekking guide or the village homestay counter; do not expect online booking. Tell the family in advance about food needs."
+    ],
+    "why": ["Eat home-cooked Gurung food with the family", "Income goes directly to village households", "Annapurna South views from the older village"],
+    "best_for": ["families", "students", "couples", "first-time trekkers"],
+    "price_band": "₹1,200–2,500 per person with dinner and breakfast (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "How do I book a Ghandruk homestay?", "a": "Through your trekking agency or guide, or in person at the village homestay counter. Payment is usually in cash."},
+      {"q": "Are homestays in Ghandruk clean and safe?", "a": "Rooms are simple but generally clean. Families are used to guests. Keep valuables with you, as you would anywhere."},
+      {"q": "Is a homestay cheaper than a lodge in Ghandruk?", "a": "Prices are similar once meals are included. The difference is the experience of eating and staying with a family."}
+    ]
+  },
+  {
+    "slug": "namche-bazaar-teahouse-lodges",
+    "name": "Namche Bazaar teahouse lodges",
+    "place": "namche-bazaar",
+    "tier": "budget",
+    "kind": "guesthouse",
+    "brand": "Independent",
+    "wiki": "",
+    "image_query": "Namche Bazaar teahouse lodge dining room",
+    "summary": "Namche's family-run teahouse lodges are the standard bed on the Everest trail: twin rooms, a stove-heated dining room and a menu of dal bhat, noodles and potatoes. Rooms are cheap if you eat in. Our saver EBC trek uses them throughout.",
+    "body": [
+      "Dozens of Sherpa families run lodges in Namche, stacked up the horseshoe of terraces. A basic room has two single beds with foam mattresses and a blanket, plywood walls and a shared bathroom down the hall; better rooms have attached bathrooms and hot showers. The dining room, heated by a yak-dung or wood stove in the evening, is where everyone eats, dries socks and plans the next day.",
+      "Lodges price rooms low and expect you to eat dinner and breakfast with them; that is how they earn. Dal bhat with refills is the best-value meal. Hot showers, device charging and wifi cost extra. In October and April, ask your guide to book ahead; the best rooms on the upper terraces fill early."
+    ],
+    "why": ["Cheapest honest bed on the Everest trail", "Warm communal dining rooms", "Easy to adjust plans day to day"],
+    "best_for": ["students", "budget trekkers", "solo travellers"],
+    "price_band": "₹300–1,500 a night for a twin room; meals extra (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "Do Namche teahouses have attached bathrooms?", "a": "Some rooms do, especially in newer lodges, at a higher price. Basic rooms share bathrooms."},
+      {"q": "Do I need a sleeping bag in Namche teahouses?", "a": "Lodges provide blankets, but a warm sleeping bag is strongly recommended for the trek, especially above Namche."},
+      {"q": "Why is food expensive if rooms are cheap?", "a": "Lodges make their money on meals, and food has to be carried up by porters and yaks. Eat where you sleep."}
+    ]
+  },
+  {
+    "slug": "kathmandu-guest-house-thamel",
+    "name": "Kathmandu Guest House (KGH Thamel)",
+    "place": "kathmandu",
+    "tier": "mid",
+    "kind": "heritage hotel",
+    "brand": "Independent",
+    "wiki": "",
+    "image_query": "Kathmandu Guest House Thamel garden",
+    "summary": "Thamel's original guesthouse, open since 1968 in a former Rana-era building, with a garden courtyard in the middle of the tourist quarter. Rooms across several price levels, and the Museum of Nepali Art on site. Convenient for trek logistics, quieter than the streets outside.",
+    "body": [
+      "The Kathmandu Guest House opened in 1968 with seven rooms in a building originally constructed in the early 20th century for a Rana family. It is widely credited with starting Thamel as a travellers' quarter, and many mountaineers and trekkers have passed through its gate. Today it has more than a hundred rooms around a garden courtyard, and its Museum of Nepali Art and an art house are on the premises.",
+      "The garden is the reason to stay: a quiet green space in the middle of Thamel where you can have breakfast before a trek or sit with tea after a day in the old city. Rooms vary widely in age and size, so ask for a garden-facing or renovated room. The tourist bus stop for Pokhara is a short walk away."
+    ],
+    "why": ["Garden courtyard in central Thamel", "Range of rooms for different budgets", "Walking distance to trek agencies and Pokhara buses"],
+    "best_for": ["first-timers", "trekkers", "couples", "families"],
+    "price_band": "₹4,000–12,000 a night for a double (indicative)",
+    "website": "https://ktmgh.com",
+    "faqs": [
+      {"q": "When did the Kathmandu Guest House open?", "a": "In 1968, with seven rooms. It has expanded many times since."},
+      {"q": "Is the Kathmandu Guest House noisy?", "a": "The garden and inner rooms are quieter than Thamel's streets. Street-facing rooms can be noisy in the evening; ask for a garden-facing room."},
+      {"q": "Can I store luggage at KGH while trekking?", "a": "Hotels in Thamel commonly offer luggage storage for guests on treks. Confirm when booking."}
+    ]
+  },
+  {
+    "slug": "temple-tree-resort-pokhara",
+    "name": "Temple Tree Resort & Spa",
+    "place": "pokhara",
+    "tier": "mid",
+    "kind": "resort",
+    "brand": "Independent",
+    "wiki": "",
+    "image_query": "Temple Tree Resort Pokhara pool",
+    "summary": "A stone-and-timber resort at Gaurighat in Lakeside, about 150 m from Phewa Lake, with an outdoor pool, spa and gardens. Comfortable rooms and an easy walk to the lake make it our comfort-tier choice in Pokhara, especially for families and couples.",
+    "body": [
+      "Temple Tree sits in the Gaurighat area of Lakeside, a short walk from Phewa Lake and the main Lakeside road but set back from its noise. The buildings use stone, slate and timber in a style drawn from western Nepal's hill architecture, around gardens and an outdoor infinity pool with a spa pool area.",
+      "Rooms are comfortable, with balconies, and several restaurants and a bar are on site, serving Nepali and international food. The spa offers massages and flower baths, useful after a trek. On clear days the Annapurna range shows from parts of the grounds. Book a room facing the gardens or mountains, and ask for a quieter wing in peak season."
+    ],
+    "why": ["Pool and spa near Phewa Lake", "Walkable to Lakeside cafes and boats", "Good for families and post-trek rest"],
+    "best_for": ["couples", "families", "honeymooners", "post-trek rest"],
+    "price_band": "₹9,000–16,000 a night for a double (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "How far is Temple Tree from Phewa Lake?", "a": "About 150 m, a few minutes' walk to the lakeshore."},
+      {"q": "Does Temple Tree have a pool?", "a": "Yes, an outdoor infinity pool with a spa pool area."},
+      {"q": "Is Temple Tree good for families?", "a": "Yes. The garden, pool and central location make it easy with children."}
+    ]
+  },
+  {
+    "slug": "the-old-inn-bandipur",
+    "name": "The Old Inn, Bandipur",
+    "place": "bandipur",
+    "tier": "mid",
+    "kind": "heritage hotel",
+    "brand": "Independent",
+    "wiki": "",
+    "image_query": "The Old Inn Bandipur Newar house",
+    "summary": "A restored Newar townhouse on Bandipur's car-free main street, in two old wings with original wooden doorways, red brick, low corridors and a roof garden with Annapurna views on clear days. The best place to sleep in Bandipur.",
+    "body": [
+      "The Old Inn occupies two traditional Newar houses on Bandipur's main bazaar, carefully restored to keep the carved wooden doorways, red brick walls and low ceilings of the originals. Corridors twist between wings and staircases, decorated with antiques and local art. Rooms are spread across three floors, vary in size and style, and have en-suite bathrooms.",
+      "Meals are a mix of Nepali and continental food, served either in a dining room that opens onto the bazaar, where you can watch the street, or on a quieter terrace at the back. The roof garden faces north to the mountains. It is ideal for one or two nights on the road between Kathmandu and Pokhara."
+    ],
+    "why": ["Restored Newar architecture on the bazaar", "Roof garden with mountain views", "Right on Bandipur's car-free main street"],
+    "best_for": ["couples", "photographers", "families", "heritage lovers"],
+    "price_band": "₹6,000–12,000 a night for a double (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "Can cars reach The Old Inn in Bandipur?", "a": "No. Bandipur's main street is car-free; cars stop at the edge of the bazaar and staff help with luggage on the short walk."},
+      {"q": "Do rooms at The Old Inn have attached bathrooms?", "a": "Yes, rooms have en-suite bathrooms, though layouts vary because of the old buildings."},
+      {"q": "Can I see the mountains from The Old Inn?", "a": "On clear days, the roof garden has views north towards the Annapurna and Manaslu ranges."}
+    ]
+  },
+  {
+    "slug": "dwarikas-hotel-kathmandu",
+    "name": "Dwarika's Hotel",
+    "place": "kathmandu",
+    "tier": "luxury",
+    "kind": "heritage hotel",
+    "brand": "Dwarika's",
+    "wiki": "Dwarika's Hotel",
+    "image_query": "Dwarika's Hotel Kathmandu courtyard",
+    "summary": "Kathmandu's best-known heritage hotel at Battisputali, built around a collection of carved Newar windows, doors and pillars rescued from demolished buildings. Brick courtyards, a pool, a spa and Newari banquets, close to Pashupatinath and Boudhanath.",
+    "body": [
+      "Dwarika's began with one man's effort to save carved woodwork from old valley buildings being pulled down in the mid-20th century. The hotel that grew around that collection is built of brick in the Newar style, with courtyards, fountains and hundreds of antique carved windows, doors and struts set into the walls. Its workshop has helped train carvers and restorers.",
+      "Rooms are large and individually decorated with Newar craft and textiles. There is a pool, a spa and several restaurants, including Krishnarpan, known for long Nepali tasting menus. The location at Battisputali is closer to Pashupatinath and Boudhanath than to Thamel, which suits a slower, culture-focused stay."
+    ],
+    "why": ["A living museum of Newar woodcarving", "Courtyards, pool and spa in the city", "Close to Pashupatinath and Boudhanath"],
+    "best_for": ["couples", "honeymooners", "heritage lovers", "seniors"],
+    "price_band": "₹30,000–60,000 a night for a double (indicative)",
+    "website": "https://www.dwarikas.com",
+    "faqs": [
+      {"q": "Where is Dwarika's Hotel in Kathmandu?", "a": "At Battisputali, east of the centre, about 10 minutes by car from Pashupatinath and 15–20 minutes from Boudhanath, depending on traffic."},
+      {"q": "Is Dwarika's worth it for a short stay?", "a": "Yes, if you value heritage architecture and quiet. The courtyards and craft are part of the visit. It is further from Thamel's shops and agencies."},
+      {"q": "Does Dwarika's have a pool?", "a": "Yes, an outdoor pool set in a brick courtyard, and a spa."}
+    ]
+  },
+  {
+    "slug": "tiger-mountain-pokhara-lodge",
+    "name": "Tiger Mountain Pokhara Lodge",
+    "place": "pokhara",
+    "tier": "luxury",
+    "kind": "lodge",
+    "brand": "Tiger Mountain",
+    "wiki": "",
+    "image_query": "Tiger Mountain Pokhara Lodge Annapurna view",
+    "summary": "A hilltop lodge on a ridge about 30 minutes outside Pokhara, with 18 rooms in stone cottages, private verandas, an infinity pool and views of the Annapurna range. Quiet, rural and our first choice for signature Pokhara stays.",
+    "body": [
+      "Tiger Mountain Pokhara Lodge sits on a ridge above the Pokhara valley, away from the lake and city, with a view that runs along the Annapurna range to Machapuchare. Its 18 rooms are in stone cottages with private verandas looking at the valley or the mountains, furnished with Tibetan hand-woven carpets and local crafts.",
+      "There is an infinity pool facing the peaks, a main lodge with Nepali and continental food, and gardens that supply part of the kitchen. Walks start from the door, through villages and forest on the ridge. It is a place to rest before or after a trek, or to see the mountains at dawn from bed."
+    ],
+    "why": ["Ridge-top Annapurna views from every room", "Only 18 rooms, quiet and private", "Walks into villages from the lodge"],
+    "best_for": ["honeymooners", "couples", "seniors", "post-trek rest"],
+    "price_band": "₹35,000–60,000 a night for a double, usually with meals (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "How far is Tiger Mountain Pokhara Lodge from Pokhara?", "a": "About 30 minutes by car from Pokhara and the airport, on a ridge outside the city."},
+      {"q": "Does Tiger Mountain Pokhara Lodge have a pool?", "a": "Yes, an infinity pool facing the Annapurna range."},
+      {"q": "Is Tiger Mountain good for families?", "a": "Older children who enjoy walks will like it. With only 18 rooms and a quiet atmosphere, it suits couples and small families best."}
+    ]
+  },
+  {
+    "slug": "mountain-lodges-of-nepal-namche",
+    "name": "Mountain Lodges of Nepal, Namche (Yeti Mountain Home)",
+    "place": "namche-bazaar",
+    "tier": "luxury",
+    "kind": "lodge",
+    "brand": "Mountain Lodges of Nepal",
+    "wiki": "",
+    "image_query": "Yeti Mountain Home Namche lodge",
+    "summary": "The Namche lodge of a chain of upmarket trekking lodges on the Everest trail, formerly known as Yeti Mountain Home. Heated rooms, en-suite bathrooms with hot water, electric blankets and good linen at 3,440 m, with views of Kongde Ri and Thamserku.",
+    "body": [
+      "Mountain Lodges of Nepal runs a chain of lodges on the trail from Lukla towards Everest, so trekkers can walk lodge to lodge with proper beds and bathrooms instead of plywood teahouse rooms. The Namche lodge, earlier branded Yeti Mountain Home, sits in the town with views across to Kongde Ri and Thamserku.",
+      "Rooms have en-suite bathrooms with hot running water, electric blankets and good linen, and there is a restaurant, a lounge and a library. It is a comfortable base for the two acclimatisation nights in Namche. Lodges in the chain cluster below about 3,900 m, so treks to Everest Base Camp still use regular teahouses higher up."
+    ],
+    "why": ["Proper beds and hot showers at 3,440 m", "Lodge-to-lodge network along the trail", "Calm base for acclimatisation days"],
+    "best_for": ["couples", "seniors", "families with older children", "first-time trekkers"],
+    "price_band": "₹16,000–28,000 a night for a double, usually with meals (indicative)",
+    "website": "",
+    "faqs": [
+      {"q": "Is Yeti Mountain Home the same as Mountain Lodges of Nepal?", "a": "Yes, the chain formerly known as Yeti Mountain Home now trades as Mountain Lodges of Nepal. Check the current name when booking."},
+      {"q": "Do Mountain Lodges of Nepal rooms have heating?", "a": "Rooms have electric blankets and en-suite bathrooms with hot water, which makes a big difference at altitude."},
+      {"q": "Can I go to Everest Base Camp staying only in these lodges?", "a": "No. The chain's lodges are on the lower trail; above them you use standard teahouses. Many signature itineraries stay in the lower Khumbu instead."}
+    ]
+  }
+]

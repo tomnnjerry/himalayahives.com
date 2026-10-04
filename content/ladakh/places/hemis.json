@@ -1,0 +1,145 @@
+{
+  "slug": "hemis",
+  "name": "Hemis",
+  "region": "ladakh",
+  "kind": "monastery",
+  "wiki": "Hemis Monastery",
+  "image_query": "Hemis Monastery Ladakh courtyard",
+  "lat": 33.912,
+  "lng": 77.703,
+  "altitude_m": 3600,
+  "tagline": "Ladakh's great Drukpa monastery and the snow leopard national park",
+  "meta_description": "Hemis guide: Hemis Monastery and museum, Hemis Tsechu festival, snow leopard season in Hemis National Park, Rumbak homestays, costs and how to reach.",
+  "summary": "Hemis is a Drukpa monastery 45 km south-east of Leh, re-established in 1672 and home to Ladakh's best-known festival, Hemis Tsechu. Behind it lies Hemis National Park, famous for snow leopards. Visit as a half-day trip from Leh, or stay in the park's homestay villages.",
+  "intro": [
+    "Hemis Monastery hides in a side gorge above the Indus, so you see nothing of it from the main road until the last bend. It belongs to the Drukpa lineage and was re-established in 1672 under King Sengge Namgyal, though a monastery stood here before the 11th century. Its courtyard, surrounded by galleries and painted walls, is the stage for Hemis Tsechu each summer.",
+    "The monastery is rich. A gallery of 17th-century paintings of the 84 Mahasiddhas, made with ground mineral pigments, lines the courtyard, and a museum holds statues, thangkas, ritual objects and old masks. Every 12 years, in the Monkey year of the Tibetan calendar, an enormous thangka of Padmasambhava is unrolled during the festival.",
+    "West of the monastery the mountains belong to Hemis National Park, created in 1981 and enlarged to about 4,400 sq km by 1990. It is known for snow leopards, with the highest density of the cat recorded in any protected area. In winter, guided trips search the Rumbak valley; in summer, village homestays host trekkers on the Markha valley route."
+  ],
+  "facts": [
+    ["Best months", "May – Oct; Jan – Mar for snow leopards"],
+    ["Nights we suggest", "Day trip, or 2–3 in Rumbak homestays"],
+    ["Nearest airport", "Leh, ≈ 45 km"],
+    ["From Leh", "≈ 45 km · 1 h 15 min"],
+    ["Altitude", "≈ 3,600 m"],
+    ["Known for", "Hemis Tsechu, museum, snow leopards"]
+  ],
+  "best_months": [1, 2, 1, 0, 1, 2, 2, 2, 2, 1, 0, 0],
+  "nights": "0–3",
+  "highlights": [
+    {"title": "The courtyard of Hemis", "text": "Walk through the gate into the wide stone courtyard, ringed by galleries and painted pillars. On festival days it fills with masked dancers; on ordinary mornings it is quiet enough to hear prayer wheels turning."},
+    {"title": "The monastery museum", "text": "The museum below the courtyard holds statues, thangkas, masks and ritual objects collected over centuries. Allow 45 minutes, and note that photography is not allowed inside."},
+    {"title": "Hemis Tsechu", "text": "The two-day festival honouring Padmasambhava falls on the 10th day of the 5th Tibetan month, in June or July. Monks perform masked cham dances to drums, cymbals and long horns. In 2026 it is expected on 24–25 June."},
+    {"title": "Snow leopard season", "text": "From January to March, guided trips with local spotters search the slopes of the Rumbak valley inside Hemis National Park. Sightings are never guaranteed, but this is one of the best places on earth to try."},
+    {"title": "Rumbak and Markha homestays", "text": "Summer treks through the park stay in family homes in villages like Rumbak and Markha. Families run a homestay rota so income is shared, and dinner is eaten in the kitchen by the stove."}
+  ],
+  "field_notes": [
+    {"fact": "Hemis National Park was founded in 1981 to protect the Rumbak and Markha catchments and grew to about 4,400 sq km by 1990. It is the only national park in India north of the main Himalaya.", "source": "Hemis National Park"},
+    {"fact": "The courtyard gallery at Hemis holds 17th-century paintings of the Eighty-Four Mahasiddhas, the tantric masters of Buddhist tradition, made with ground mineral pigments.", "source": "Hemis Monastery"},
+    {"fact": "In 1894 the Russian writer Nicolas Notovitch claimed Hemis held a gospel describing Jesus in India. Historians regard the story as a fabrication, but it still brings curious visitors to the monastery.", "source": "Hemis Monastery"}
+  ],
+  "local_word": {"word": "Tsechu", "language": "Ladakhi / Tibetan", "meaning": "tenth day, the lunar date of Padmasambhava festivals"},
+  "costs": [
+    ["Bus Leh–Hemis", "₹50–80 one way"],
+    ["Union taxi Leh–Thiksey–Hemis–Shey day", "₹3,000–4,000 a car"],
+    ["Monastery and museum entry", "₹100–150"],
+    ["Rumbak or Markha homestay with meals", "₹1,500–2,000 per person"],
+    ["Guided snow leopard trip with spotters", "₹6,000–15,000 per person a day"],
+    ["Trekking guide day rate", "₹2,000–3,000"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Leh; Hemis is a 1 h 15 min drive. It is an easy outing on your second or third day in Ladakh because it is barely higher than Leh."},
+    {"mode": "Bus", "text": "Local buses run from Leh bus stand to Hemis a few times a day for about ₹50–80, but timings are irregular and the last bus back can be early. Check current status before you travel."},
+    {"mode": "Road", "text": "From Leh ≈ 45 km · 1 h 15 min along the Indus via Thiksey and Karu, then up a side valley. Combine it with Thiksey, Shey and Stakna in a day."}
+  ],
+  "where_to_stay": "Saver: most travellers visit Hemis as a day trip from a Leh guesthouse; in the national park, Rumbak, Yurutse and the Markha valley villages run family homestays at ₹1,500–2,000 per person with meals. Comfort: stay in Leh or at Stok Palace Heritage Hotel and visit by car. Signature: The Ultimate Travelling Camp's Chamba Camp at Thiksey is about 30 minutes from Hemis in summer, ideal for festival days.",
+  "stays": [],
+  "tips": [
+    "Arrive by 9 am on festival days; the courtyard galleries fill quickly and late arrivals stand at the back.",
+    "Photography is not allowed inside the museum and some temples; follow every sign.",
+    "Bring a hat and sunscreen for festival days; you sit in direct sun for hours at 3,600 m.",
+    "For snow leopard trips, book with operators who employ local spotters and village homestays.",
+    "Pack out all rubbish from the national park; there is no collection in the villages."
+  ],
+  "themes": ["monasteries", "festivals", "wildlife-and-birds", "treks-and-walks", "snow-and-winter"],
+  "nearby": ["leh", "tso-moriri", "pangong-tso"],
+  "experiences": [
+    {
+      "slug": "hemis-monastery-and-museum",
+      "title": "Hemis Monastery courtyard and museum",
+      "kind": "culture",
+      "duration": "2 hours plus drive",
+      "best_time": "9 am, May–Oct",
+      "cost": "Entry ₹100–150; union taxi ₹3,000–4,000 for a monastery day",
+      "image_query": "Hemis Monastery museum Ladakh",
+      "wiki": "Hemis Monastery",
+      "summary": "Ladakh's richest monastery, hidden in a gorge above the Indus. See the courtyard where the festival is danced, the painted gallery of Mahasiddhas and a museum of statues, masks and thangkas. Pair it with Thiksey and Shey.",
+      "body": [
+        "Leave Leh by 8 am, stop at Thiksey for its prayers or Shey for its giant Buddha, then cross the Indus at Karu and drive up the side valley to Hemis. The monastery appears only at the last turn, tucked against the cliff in its own side gorge.",
+        "Enter the main courtyard, the setting for Hemis Tsechu. Look closely at the gallery of 17th-century paintings showing the Eighty-Four Mahasiddhas, tantric masters shown in their stories. Then visit the assembly hall and the upper chapels, where lamps light statues of Padmasambhava and the Buddha.",
+        "The museum on the lower level is one of the best in Ladakh, with old statues, ritual instruments, masks used in cham dances and fine thangkas. Photography is not allowed inside. A small cafe near the gate serves tea and simple food before the drive back."
+      ],
+      "good_for": ["first-timers", "seniors", "families", "photographers"],
+      "faqs": [
+        {"q": "How much is the Hemis Monastery entry fee?", "a": "The combined monastery and museum ticket is usually about ₹100–150 for Indians, a little more for foreign nationals. Fees change, so check current status before you travel and carry small notes. On festival days there may be separate arrangements for seating."},
+        {"q": "Can I visit Hemis by public bus?", "a": "Yes. Local buses run from Leh to Hemis a few times a day for about ₹50–80, but the timetable is irregular and the last bus back may leave early in the afternoon. For a relaxed visit combined with Thiksey and Shey, share a taxi for ₹3,000–4,000."},
+        {"q": "Is photography allowed at Hemis?", "a": "Photography is allowed in the courtyard and outside areas, but not in the museum and not in some chapels. Signs are posted. During the festival, photograph from your place without blocking others, never step into the dance area and never use flash on the dancers."}
+      ]
+    },
+    {
+      "slug": "hemis-snow-leopard-winter-trip",
+      "title": "Snow leopard tracking in Hemis National Park",
+      "kind": "wildlife",
+      "duration": "5–8 days",
+      "best_time": "January–March",
+      "cost": "₹6,000–15,000 per person a day with spotters and homestay",
+      "image_query": "Snow leopard Hemis National Park",
+      "wiki": "Hemis National Park",
+      "summary": "In late winter, snow leopards follow their prey lower into the valleys of Hemis National Park. Guided trips with local spotters scan the slopes from Rumbak and nearby villages. Expect cold, patience and no guarantee.",
+      "body": [
+        "Hemis National Park holds a breeding population of snow leopards, especially in the Rumbak catchment, and has the highest density of the cat in any protected area. In January to March, blue sheep and urial come lower to graze, and the leopards follow them, which makes winter the best time to look.",
+        "A typical trip spends one or two nights acclimatising in Leh, then moves to Rumbak or a nearby village. Each day, local spotters climb ridges at first light with telescopes and radios while you wait at a vantage point. When a cat is found, everyone walks quietly to watch, often from a long distance.",
+        "Temperatures can drop to −20 °C at night. You will stay in village homestays, which keeps money in the community and gives villagers a reason to protect the leopards that sometimes take their livestock. Choose operators who use local spotters, follow park rules and never bait animals."
+      ],
+      "good_for": ["photographers", "solo"],
+      "faqs": [
+        {"q": "What are the chances of seeing a snow leopard in Hemis?", "a": "Good but never guaranteed. Over a five to eight day trip in February or March, many groups see at least one snow leopard, often at a distance through a telescope. Weather, luck and the skill of local spotters matter most. Be wary of any operator who promises a sighting."},
+        {"q": "How cold is a snow leopard trip?", "a": "Very cold. Daytime temperatures in the Rumbak valley in February are often around −5 to −10 °C, with nights near −20 °C. You need expedition-grade down, insulated boots, thermal layers and good gloves. Homestays have a warm kitchen stove but unheated bedrooms."},
+        {"q": "Do I need to be fit for a snow leopard trip?", "a": "Moderately. Most watching is from vantage points, but you may walk 3–8 km a day on snowy trails at 3,800–4,000 m, sometimes quickly when a cat is spotted. Talk to your doctor about cold and altitude before booking, and acclimatise in Leh first."}
+      ]
+    },
+    {
+      "slug": "hemis-rumbak-village-homestay-walk",
+      "title": "Rumbak village walk and homestay night",
+      "kind": "trek",
+      "duration": "2 days",
+      "best_time": "Jun–Sep",
+      "cost": "Homestay ₹1,500–2,000 with meals; guide ₹2,000–3,000 a day",
+      "image_query": "Rumbak village Hemis National Park",
+      "wiki": "",
+      "summary": "A short trek into Hemis National Park from the Zingchen road head to Rumbak village, with a night in a family homestay. It is the gentlest taste of the Markha valley route and a good acclimatisation walk.",
+      "body": [
+        "From the road head at Zingchen, about an hour's drive from Leh, a trail follows the Rumbak stream up a gorge of red and grey rock. After 3–4 hours of steady walking, the valley opens at Rumbak, a village of fields and stone houses at roughly 3,800 m inside the national park.",
+        "Rumbak families take turns hosting guests, a system that spreads income across the village. Rooms are simple, meals are eaten in the kitchen and dinner might be thukpa or skyu with butter tea. In the evening, look for blue sheep on the slopes above.",
+        "Return the same way the next day, or continue over Ganda La towards the Markha valley if you are equipped for a longer trek. Walk slowly, carry water and snacks, and hire a local guide if you are not an experienced trekker. Pay the park fee where it is collected."
+      ],
+      "good_for": ["students", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "How difficult is the walk to Rumbak?", "a": "It is moderate: about 3–4 hours and 400–500 m of climbing on a clear trail. The main challenge is altitude, so do it after three nights in Leh. Families with fit older children manage it well. A local guide is recommended if you have not trekked in the Himalaya before."},
+        {"q": "Do I need to book Rumbak homestays in advance?", "a": "Usually not in summer, since village families operate a rota and can host walk-in guests. In peak July and August, ask your Leh guesthouse or a trekking agency to confirm. Carry cash; there are no card payments or ATMs in the park."},
+        {"q": "Is there a fee for Hemis National Park?", "a": "Yes, a small park entry and camping fee is collected for trekkers, usually at a checkpoint or by wildlife staff along the route. Amounts change, so check current status before you travel and keep the receipt with you."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Hemis from Leh?", "a": "Hemis Monastery is about 45 km south-east of Leh, a drive of about 1 h 15 min along the Indus via Thiksey and Karu. A taxi for a day covering Thiksey, Shey and Hemis costs roughly ₹3,000–4,000 for the car. Local buses run a few times a day for about ₹50–80."},
+    {"q": "When is the Hemis festival in 2026?", "a": "Hemis Tsechu falls on the 10th day of the 5th month of the Tibetan calendar. In 2026 it is expected on 24 and 25 June, with dances from mid-morning. Dates follow the lunar calendar and are confirmed by the monastery, so check current status before you travel."},
+    {"q": "What is the best time to visit Hemis?", "a": "May to October for the monastery and summer treks; June or July for Hemis Tsechu; January to March for snow leopard trips in the national park. The monastery is open all year, but winter mornings are very cold and facilities are limited."},
+    {"q": "Can I stay overnight at Hemis?", "a": "There are a few simple guesthouses near the monastery and homestays in the national park villages such as Rumbak, but most visitors stay in Leh. On festival days, Chamba Camp at Thiksey and Leh hotels are the practical bases. Book early for festival dates."},
+    {"q": "Is Hemis good for an acclimatisation day?", "a": "Yes. Hemis is at about 3,600 m, close to Leh's height, and the visit involves only gentle walking. Combined with Thiksey and Shey, it makes an ideal second or third day before you cross Khardung La or Chang La."},
+    {"q": "Are snow leopards seen in summer at Hemis?", "a": "Rarely. In summer snow leopards move to higher, remote slopes, so sightings are unusual. Winter, from January to March, is the season for organised tracking trips with local spotters. Summer treks still offer blue sheep, marmots and birds of prey."},
+    {"q": "What should I wear to Hemis Monastery?", "a": "Modest clothing covering shoulders and knees, comfortable shoes you can remove at chapel doors, and a hat and sunscreen for the open courtyard. On festival days, bring a cushion or mat and a warm layer; the courtyard is sunny but mornings are cool."},
+    {"q": "Is Hemis suitable for seniors?", "a": "Yes, with care. The monastery has steps and uneven stone floors but no long climb from the car park. Go after at least two nights in Leh, take breaks, and avoid the crush of festival days if mobility is limited. Talk to your doctor before travelling to high altitude."},
+    {"q": "Do I need a permit for Hemis?", "a": "No permit is needed to visit Hemis Monastery. Trekking in Hemis National Park involves small park fees collected locally. Indian visitors going on to Pangong or Tso Moriri need the online environment fee receipt. Check current status before you travel."}
+  ]
+}

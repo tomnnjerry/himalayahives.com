@@ -1,0 +1,145 @@
+{
+  "slug": "bomdila",
+  "name": "Bomdila",
+  "region": "arunachal",
+  "kind": "hill station",
+  "wiki": "Bomdila",
+  "image_query": "Bomdila monastery Arunachal Pradesh",
+  "lat": 27.264,
+  "lng": 92.424,
+  "altitude_m": 2415,
+  "tagline": "West Kameng's hill town of gompas, orchards and birds",
+  "meta_description": "Bomdila travel guide: the upper gompa, Eaglenest birding, apple orchards, Monpa crafts, real costs, Sumo fares and where to stay on the Tawang road.",
+  "summary": "Bomdila is the headquarters of West Kameng, a hill town at about 2,415 m on the Tawang road, 162 km from Tezpur. It has a large Tibetan-style monastery, views towards the high peaks on clear days, apple orchards and access to Eaglenest, one of India's best birding forests. One night is usual; birders stay three.",
+  "intro": [
+    "Bomdila spreads over a ridge at about 2,415 m, a district town of government offices, market lanes, schools and monasteries. It became the headquarters of the area in 1954, and today it is the main stop between the Assam plains and Dirang. For travellers coming up from Tezpur or Guwahati, it is the first place that feels properly mountainous: cold mornings, pine forest and prayer flags on every ridge.",
+    "The district around it is home to several peoples, including the Monpa, Sherdukpen, Miji, Bugun and Aka. The town's best-known landmark is its large monastery complex above the market, rebuilt in the Tibetan style in the second half of the twentieth century. On clear autumn mornings, viewpoints around town show snow peaks to the north, including the Kangto and Gorichen ranges.",
+    "Bomdila is also the base for Eaglenest Wildlife Sanctuary, reached via Tenga, where birders come from around the world for species found almost nowhere else. The Bugun liocichla, a small, brightly marked bird, was first seen here in 1995 and is named after the Bugun community, in whose forests it lives. Even non-birders enjoy a day on the forest road with a local guide."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov"],
+    ["Nights we suggest", "1 (3 for birding)"],
+    ["Nearest airport", "Tezpur (≈ 162 km)"],
+    ["From Tezpur", "≈ 162 km · 5–6 h"],
+    ["Altitude", "2,415 m"],
+    ["Known for", "Monastery, apple orchards, Eaglenest birding, Monpa crafts"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "The upper gompa", "text": "Bomdila's large monastery complex stands above the town with a prayer hall, monks' quarters and a courtyard looking over the valley. Visit around morning or evening prayers, walk clockwise and remove your shoes at the hall door."},
+    {"title": "Eaglenest Wildlife Sanctuary", "text": "A forest of oak, rhododendron and bamboo between roughly 500 m and over 3,000 m, reached via Tenga. It is famous among birders for laughingthrushes, sunbirds, tragopans and the rare Bugun liocichla."},
+    {"title": "Apple orchards", "text": "The slopes around Bomdila are planted with apple orchards, laden in late summer and early autumn. Buy fruit from roadside sellers and ask about the local varieties."},
+    {"title": "Peak views on clear mornings", "text": "From the viewpoints around town, clear autumn and spring mornings reveal snow peaks to the north, including the Kangto and Gorichen ranges. Clouds build quickly, so look before 9 am."},
+    {"title": "Craft shops and carpets", "text": "Bomdila's market and craft outlets sell Monpa-style carpets, wooden masks, bowls and woven bags. Ask which pieces are made locally, and expect fixed prices in government outlets."}
+  ],
+  "field_notes": [
+    {"fact": "Bomdila became the area's administrative headquarters in 1954, when the political officer's headquarters moved there from Charduar in Assam. It is now the headquarters of West Kameng district.", "source": "Bomdila"},
+    {"fact": "The Bugun liocichla was first spotted in 1995 in Eaglenest Wildlife Sanctuary and formally described only in the mid-2000s. It is named after the Bugun people, in whose community forests it was found, and is listed as critically endangered.", "source": "Bugun liocichla"},
+    {"fact": "The Bomdila area is home to Monpa, Sherdukpen, Miji, Bugun and Aka communities, each with its own language and customs, making West Kameng one of Arunachal's most diverse districts.", "source": "Bomdila"}
+  ],
+  "local_word": {"word": "Sueja", "language": "Monpa", "meaning": "salted butter tea"},
+  "costs": [
+    ["Shared Sumo seat, Bomdila–Tezpur", "₹600–900"],
+    ["Shared Sumo seat, Bomdila–Tawang", "₹900–1,300"],
+    ["Mid-range hotel double room", "₹2,500–4,500 a night"],
+    ["Birding guide, Eaglenest", "₹2,500–4,000 a day"],
+    ["Plate of momos or thukpa", "₹80–160"],
+    ["Bag of apples in season", "₹80–150 a kg"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tezpur airport is about 162 km away, with limited flights. Guwahati airport is about 320 km away and has many more connections."},
+    {"mode": "Bus", "text": "Shared Sumos run from Tezpur and Guwahati to Bomdila and on to Tawang, leaving early morning. State buses have operated on the route on some days; check current status before you travel."},
+    {"mode": "Road", "text": "From Tezpur the drive is about 162 km and 5–6 hours via Bhalukpong and the Tenga valley. Dirang is 42 km and 1.5–2 hours further. From Guwahati allow 9–10 hours."}
+  ],
+  "where_to_stay": "Saver: guesthouses and homestays around the market and the monastery road charge about ₹1,000–2,000 per person, some with meals; rooms are simple and nights are cold, so check for heaters. Comfort: Hotel Siphiyang Phong, above the main market on the highway, is one of the town's established hotels with views over the valley. Signature: there is no luxury hotel in Bomdila; travellers on our signature trips usually drive on to Dirang for Rungkhung Village Resort. Birders often stay at the community-run Lama Camp inside Eaglenest instead.",
+  "stays": ["hotel-siphiyang-phong-bomdila"],
+  "tips": [
+    "Use Bomdila as a lunch stop or overnight on the way to Dirang, not as a full-day destination unless you are birding.",
+    "For Eaglenest, arrange a local birding guide and forest permission in advance; trails start early.",
+    "Look for peak views before 9 am in October and November, when skies are clearest.",
+    "Carry warm layers; Bomdila is cold on winter evenings even when Tezpur is warm.",
+    "Buy apples and local crafts here; choice is wider than in Dirang."
+  ],
+  "themes": ["monasteries", "wildlife-and-birds", "road-trips", "photography"],
+  "nearby": ["dirang", "bhalukpong", "tawang"],
+  "experiences": [
+    {
+      "slug": "bomdila-upper-gompa-evening-prayers",
+      "title": "Evening prayers at Bomdila's upper gompa",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "4–6 pm, Mar–Nov",
+      "cost": "Free; donations welcome; taxi ₹150–300 from the market",
+      "image_query": "Bomdila Monastery",
+      "wiki": "",
+      "summary": "Climb above the market to Bomdila's large Tibetan-style monastery as the light softens, listen to evening chanting and watch the valley turn blue below.",
+      "body": [
+        "Bomdila's main monastery complex stands on the hill above the town, a large Tibetan-style gompa with a prayer hall, monks' residences and a wide courtyard. It was established in the second half of the twentieth century by monks of the Gelug tradition, and it serves as a centre of learning for young monks from across West Kameng. Its gilded roofs and white walls are visible from much of the town.",
+        "Go in the late afternoon, when monks gather for evening prayers. Visitors are generally welcome to sit quietly at the back of the hall. The chanting, drums and horns fill the room, and butter lamps flicker beside the altar. Do not photograph monks during prayers without permission, keep your voice low, and remove shoes at the hall door when asked.",
+        "After prayers, walk around the courtyard clockwise and look out across the valley. On clear evenings the ridges fade into blue layers towards the plains. The walk down to the market takes 20–30 minutes on the road; carry a torch if you stay until dark. Combine the visit with tea and momos in town before an early night."
+      ],
+      "good_for": ["solo", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What are the timings of Bomdila monastery?", "a": "The monastery is usually open to visitors from morning until early evening. Prayer times vary with the monastic calendar; late afternoon is often a good time to hear chanting. Ask at your hotel, since festival days and ceremonies change the schedule."},
+        {"q": "Is there an entry fee at Bomdila monastery?", "a": "There is no entry fee. Donations for butter lamps or upkeep are welcome but not expected. Photography rules can vary inside the prayer hall, so ask a monk before taking pictures."},
+        {"q": "How far is the gompa from Bomdila market?", "a": "It is a short taxi ride or a 20–30 minute uphill walk from the market. The road is steep, so walking up at 2,400 m can feel tiring if you arrived from the plains the same day. Take a taxi up and walk down."}
+      ]
+    },
+    {
+      "slug": "bomdila-eaglenest-birding-day",
+      "title": "A birding day in Eaglenest",
+      "kind": "wildlife",
+      "duration": "Full day, or 2–3 days camping",
+      "best_time": "Dawn, Mar–May and Oct–Nov",
+      "cost": "Guide ₹2,500–4,000 a day; vehicle ₹4,000–6,000 a day; forest fees extra",
+      "image_query": "Eaglenest Wildlife Sanctuary birds",
+      "wiki": "Eaglenest Wildlife Sanctuary",
+      "summary": "Drive into the mossy oak and rhododendron forests of Eaglenest at dawn with a local birding guide. Expect laughingthrushes, sunbirds, babblers and pheasants, and perhaps the rare Bugun liocichla.",
+      "body": [
+        "Eaglenest Wildlife Sanctuary lies south-west of Bomdila, reached through the Tenga valley. A rough forest road runs through it, climbing through subtropical forest into temperate oak, rhododendron and bamboo at higher elevations. This range of habitats in a small area is why birders consider it one of the richest sites in Asia. The Bugun community runs Lama Camp, the base used by many birding groups.",
+        "Start at dawn, when activity peaks. A good local guide knows calls, flocks and the places where rare species feed. Mixed flocks of tits, yuhinas, warblers and sibias move through the canopy; pheasants and tragopans may cross the road in spring. The Bugun liocichla, first seen here in 1995 and named after the Bugun people, is known from only a handful of pairs, and seeing it is never guaranteed.",
+        "For a single day, leave Bomdila before 5 am, carry a packed breakfast and lunch, and return by dusk. Serious birders camp for two or three nights at Lama Camp, where tented and basic hut accommodation is arranged by the community. Wear muted clothes, keep voices low, do not use call playback for threatened species, and carry rain gear in every season."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "How do I visit Eaglenest from Bomdila?", "a": "Hire a vehicle and a local birding guide in Bomdila or Tenga, and arrange forest permission in advance. The drive to the sanctuary takes about 2 hours via Tenga. Most birders stay at Lama Camp inside the forest for two or three nights."},
+        {"q": "Will I see the Bugun liocichla?", "a": "Possibly, but it is rare. Only a few breeding pairs are known, and sightings depend on season, weather and luck. Hire a guide who knows the territories, avoid using call playback, and treat a sighting as a bonus rather than a promise."},
+        {"q": "When is the best season for Eaglenest birding?", "a": "Late March to May is the peak, when birds are in breeding plumage and calling. October and November are also good, with clear weather. The monsoon from June to September brings heavy rain, leeches and difficult roads."}
+      ]
+    },
+    {
+      "slug": "bomdila-crafts-and-market-walk",
+      "title": "Monpa crafts and the Bomdila market",
+      "kind": "craft",
+      "duration": "2 hours",
+      "best_time": "Late morning, all year",
+      "cost": "Free to browse; carpets from ₹3,000; masks and bowls ₹300–3,000",
+      "image_query": "Monpa carpet weaving Arunachal",
+      "wiki": "Monpa people",
+      "summary": "Browse Bomdila's market and craft outlets for Monpa-style carpets, carved masks and wooden bowls, and learn how to tell local work from imports.",
+      "body": [
+        "The Monpa are known across the eastern Himalaya for wood carving, painting, carpet making and weaving. Bomdila, as the district headquarters, is one of the best places to see this work for sale. Government craft outlets and private shops around the market stock woollen carpets with dragon and floral motifs, carved and painted masks used in monastery dances, turned wooden bowls and woven bags.",
+        "Take time to ask questions. Shopkeepers will usually tell you whether a carpet was woven locally, in another part of the state or brought in from elsewhere. Local carpets are often smaller, with natural irregularities and heavier wool. Wooden bowls from the region are made from knotted wood and polished to a soft sheen; good ones are light and well balanced.",
+        "Prices in government outlets are fixed; in private shops, polite bargaining is acceptable but do not push hard. Large carpets can usually be shipped, but ask for written details. After shopping, walk through the vegetable market, where Monpa women sell greens, chillies and local cheese in the mornings, and stop for tea and khura in one of the small cafés."
+      ],
+      "good_for": ["couples", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What should I buy in Bomdila?", "a": "Look for Monpa-style woollen carpets, carved wooden masks, turned wooden bowls, woven bags and prayer flags. In season, local apples are worth buying too. Ask shopkeepers where each item was made, and prefer locally made pieces."},
+        {"q": "Can I bargain in Bomdila shops?", "a": "Government craft outlets have fixed prices. In private shops, polite bargaining on bigger items is common, but keep it friendly and modest. Many smaller items are already priced fairly."},
+        {"q": "Can carpets be shipped from Bomdila?", "a": "Some shops can arrange shipping, especially for larger carpets. Get the cost, delivery time and item details in writing, and keep your receipt. For smaller pieces, packing them in your luggage is usually simpler."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Bomdila worth visiting?", "a": "Bomdila is worth an overnight on the Tawang road for its monastery, cool climate and market. It is less striking than Dirang or Tawang, so most travellers do not stay long. Birders are the exception: Eaglenest nearby deserves two or three days."},
+    {"q": "How far is Bomdila from Tezpur and Tawang?", "a": "Bomdila is about 162 km and 5–6 hours from Tezpur, and about 167 km and 6–7 hours from Tawang via Dirang and Sela. Guwahati is about 320 km away, roughly 9–10 hours by road."},
+    {"q": "What is the altitude of Bomdila?", "a": "Bomdila is at about 2,415 m. It is a sensible first night above 2,000 m for people coming from the plains before going higher. Most people feel fine, though some notice mild breathlessness on stairs."},
+    {"q": "Does Bomdila get snow?", "a": "Bomdila can get light snow in the coldest weeks of December to February, though heavy snow is not common in town. Higher ridges nearby and Sela Pass get far more. Nights are cold all winter."},
+    {"q": "Which permit do I need for Bomdila?", "a": "Bomdila is in West Kameng district. Indians need an Inner Line Permit listing West Kameng, checked at the Bhalukpong gate, and foreigners need a Protected Area Permit. Eaglenest also needs forest department permission. Check current status before you travel."},
+    {"q": "Where should I eat in Bomdila?", "a": "Small restaurants around the market serve momos, thukpa, rice plates and Tibetan-style dishes. Hotel restaurants offer North Indian food. For Monpa food such as khura, ask your host or try local cafés in the morning."},
+    {"q": "Are there ATMs in Bomdila?", "a": "Yes. Bomdila has several ATMs as the district headquarters, and 4G coverage is generally good. It is a sensible place to withdraw cash before continuing to Dirang and Tawang, where machines can run out on holidays."},
+    {"q": "Is Bomdila safe for solo travellers?", "a": "Yes. Bomdila is a quiet administrative town, and solo travellers, including women, generally find it safe and friendly. Usual precautions apply: reach your stay before dark and keep your permit and ID with you."},
+    {"q": "How many nights should I spend in Bomdila?", "a": "One night is enough for most travellers, usually on the way up to Dirang and Tawang. Birders should plan three nights including camping in Eaglenest. On the return journey, many people skip Bomdila and drive straight from Dirang to Tezpur or Guwahati."}
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "kasol",
+  "name": "Kasol and the Parvati Valley",
+  "region": "himachal",
+  "kind": "valley",
+  "wiki": "Kasol",
+  "image_query": "Kasol Parvati valley river",
+  "lat": 32.0099,
+  "lng": 77.3149,
+  "altitude_m": 1580,
+  "tagline": "Pine forest, hot springs and walking villages along the Parvati",
+  "meta_description": "Kasol and Parvati Valley guide: Manikaran hot springs, Kheerganga trek, Tosh and Pulga villages, bus fares from Delhi and Bhuntar, hostels, costs and safety.",
+  "summary": "Kasol is a riverside village at about 1,580 m in the Parvati Valley, 30 km from Bhuntar. It is the base for Manikaran's hot springs, the Kheerganga trek and walks to Tosh and Pulga. Stay three nights. Best April to June and late September to November; avoid monsoon river surges.",
+  "intro": [
+    "The Parvati river rises below glaciers on the borders of Kullu and Spiti and joins the Beas at Bhuntar. Its valley is narrow, steep and heavily forested, with villages perched high on the slopes and a road running along the bottom past Kasol, Manikaran and Barshaini. Kasol itself grew from a small village among pine forest into the valley's traveller base, with guesthouses and cafés along the river and a reputation as a backpacker stop.",
+    "We go for the walking and the water. Manikaran, 4 km up the road, has boiling hot springs where the gurdwara and Shiva temple cook food in the steam. From the road head at Barshaini, trails lead to the timber villages of Tosh and Pulga and up through forest to Kheerganga's hot pool at around 2,950 m. Chalal, a short walk across the river from Kasol, is a quieter place to stay. Malana, in a side valley, keeps its own village council and customs, and visitors must follow its rules.",
+    "Be realistic about Kasol. Weekends in May and June bring crowds of young travellers from Delhi and Chandigarh, and some cafés play loud music late. The monsoon makes the Parvati dangerous: floods have damaged the road and riverside buildings, so we do not run trips here in July and August. Come in April, May, October or November, stay a little away from the main strip, and the valley is calm and beautiful."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Nov"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Bhuntar (Kullu), ≈ 30 km"],
+    ["From Delhi", "≈ 520 km · 12–13 h by road"],
+    ["Altitude", "1,580 m"],
+    ["Known for", "Manikaran hot springs, Kheerganga trek, riverside cafés"]
+  ],
+  "best_months": [0, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "3",
+  "highlights": [
+    {"title": "Manikaran hot springs", "text": "A pilgrimage town 4 km from Kasol where boiling springs rise beside the Parvati. The gurdwara serves free langar cooked with spring heat, and the Shiva temple has its own steam vents. Bathe in the separate men's and women's pools."},
+    {"title": "Kheerganga trek", "text": "About 12 km from Barshaini through forest and past waterfalls to a meadow at around 2,950 m with a hot spring pool. Usually done over two days; check current rules on overnight stays."},
+    {"title": "Tosh and Pulga", "text": "Two villages above the road head at Barshaini. Tosh sits high with views up the valley to snow peaks; Pulga has an old deodar forest. Both have simple guesthouses and good day walks."},
+    {"title": "Chalal riverside walk", "text": "A 30-minute walk from Kasol across the bridge and along the river through pine forest to Chalal village, quieter than Kasol and a good place to stay."},
+    {"title": "Malana, with respect", "text": "A village with its own council and deity, Jamlu, reached by a steep walk from the Malana road. Visitors must not touch houses, the temple or people. Go with a local guide and keep the visit short."},
+    {"title": "River cafés", "text": "Kasol and Chalal have many cafés serving Israeli, Italian and Himachali food by the river. Prices are fair, and they are the social centre of the valley."}
+  ],
+  "field_notes": [
+    {"fact": "Manikaran's name comes from a legend that the goddess Parvati lost an earring, a mani, in the water here. The springs are hot enough that the gurdwara and temple kitchens cook rice in pots set in the hot water.", "source": "Manikaran"},
+    {"fact": "The people of Malana speak Kanashi, a Sino-Tibetan language not spoken in any neighbouring village. Malana runs its affairs through a village council under its deity Jamlu, and is often described as one of the oldest democracies in the world.", "source": "Malana"},
+    {"fact": "The Parvati, or Parbati, river rises below glaciers on the Kullu–Spiti divide and joins the Beas at Bhuntar. Its waters feed the Parbati hydroelectric projects built in the valley.", "source": "Parvati Valley"}
+  ],
+  "local_word": {"word": "Kund", "language": "Pahari", "meaning": "a sacred pool or tank, often fed by a spring; Manikaran and Kheerganga have hot kunds"},
+  "costs": [
+    ["HRTC Volvo, Delhi–Bhuntar", "₹1,300–1,800"],
+    ["Local bus, Bhuntar–Kasol", "₹50–90"],
+    ["Local bus, Kasol–Barshaini", "₹40–80"],
+    ["Hostel dorm bed in Kasol or Chalal", "₹500–900"],
+    ["Café meal by the river", "₹250–500"],
+    ["Trek guide for Kheerganga", "₹1,500–2,500 a day"]
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Bhuntar airport near Kullu is 30 km from Kasol, about an hour by taxi. Taxis cost roughly ₹1,500–2,000. Flights from Delhi are few and often disrupted by weather."},
+    {"mode": "Bus", "text": "HRTC Volvos from Delhi to Manali stop at Bhuntar, about 11–12 hours. From Bhuntar bus stand, local buses run up the Parvati Valley to Kasol, Manikaran and Barshaini through the day, about 1–1.5 hours to Kasol. Some private Volvos go directly to Kasol."},
+    {"mode": "Road", "text": "From Bhuntar, the valley road follows the Parvati river through Jari to Kasol, 30 km and about an hour. It is narrow, with tight bends and landslide zones. Parking in Kasol and Manikaran is limited."}
+  ],
+  "where_to_stay": "Saver: Kasol, Chalal, Tosh and Pulga are full of hostels and family guesthouses, with dorm beds from ₹500 and simple doubles for ₹1,000–2,000. Chalal and the villages above Barshaini are quieter than Kasol's main strip. Zostel has had a property in the valley; check current listings. Comfort: a handful of riverside cottages and small hotels around Kasol and between Kasol and Jari charge ₹3,000–7,000 a night. Signature: there are no luxury hotels in the Parvati Valley; we suggest a comfort cottage here and a luxury night at Span Resort or in Manali.",
+  "stays": [],
+  "tips": [
+    "Stay in Chalal or above Barshaini if you want quiet nights; Kasol's main road gets loud on weekends.",
+    "Never camp on the riverbank in rain; the Parvati can rise several metres in hours.",
+    "In Malana, follow every village rule: do not touch walls, temples or people, and pay any fine asked.",
+    "Carry cash; Kasol's few ATMs are often empty, and network is weak above Barshaini.",
+    "Do not trek alone to Kheerganga or beyond; travellers have gone missing in the upper Parvati."
+  ],
+  "themes": ["treks-and-walks", "homestays-and-villages", "pilgrimages", "food-and-tea", "photography"],
+  "nearby": ["manali", "naggar", "tirthan-valley"],
+  "experiences": [
+    {
+      "slug": "kasol-manikaran-hot-springs-and-langar",
+      "title": "Manikaran hot springs and langar",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "Morning or lunchtime, all year",
+      "cost": "Free; donation optional",
+      "image_query": "Manikaran Sahib gurudwara hot springs",
+      "wiki": "Manikaran",
+      "summary": "Walk or ride 4 km from Kasol to Manikaran, where boiling springs steam beside the Parvati. Visit the gurdwara and the Ram and Shiva temples, bathe in the hot pools and share a free langar meal cooked with spring heat.",
+      "body": [
+        "Manikaran is a pilgrimage town for both Sikhs and Hindus. The gurdwara, a large building on the riverbank, marks the tradition that Guru Nanak visited here. Next to it stand a Ram temple and a Shiva temple. Hindu belief connects the springs to Shiva and Parvati and says the goddess lost an earring in the water, giving the place its name. Everywhere you walk, steam rises from vents in the rocks and between the buildings.",
+        "The springs are hot enough to cook. In the gurdwara kitchen, volunteers set huge pots of rice and dal in the hot water, and the langar, the free community meal, is served to anyone who sits on the floor in rows. Cover your head with a scarf or cloth, remove shoes and wash your hands and feet before entering. A small donation or a few minutes of washing up is a good way to give back.",
+        "Separate bathing pools for men and women are fed by the springs; test the water carefully, as it is very hot near the inlets. Outside, stalls sell small cloth bags of rice and chickpeas to cook in the open hot pools. The bazaar is narrow and crowded on weekends and festivals. Walk back to Kasol along the road or take a local bus for a few rupees."
+      ],
+      "good_for": ["families", "seniors", "solo", "first-timers", "students"],
+      "faqs": [
+        {"q": "How far is Manikaran from Kasol?", "a": "About 4 km up the valley road, around 15 minutes by bus or taxi or an hour on foot. Local buses towards Barshaini stop at Manikaran. Walking is pleasant in the morning but watch for traffic on the narrow road."},
+        {"q": "Is the langar at Manikaran free?", "a": "Yes. The gurdwara serves free meals to everyone, regardless of religion, through most of the day. Cover your head, remove shoes and sit on the floor in rows. Donations are welcome but never required. Volunteers appreciate help with washing up."},
+        {"q": "Can I bathe in the Manikaran hot springs?", "a": "Yes. There are separate bathing areas for men and women within the gurdwara complex and nearby. The water is very hot near the source, so enter slowly. People with heart conditions or high blood pressure should talk to your doctor before soaking in very hot water."}
+      ]
+    },
+    {
+      "slug": "kasol-kheerganga-trek",
+      "title": "Trek to Kheerganga's hot spring meadow",
+      "kind": "trek",
+      "duration": "2 days (about 12 km each way)",
+      "best_time": "Apr–Jun and Sep–Nov",
+      "cost": "Guide ₹1,500–2,500 a day; food and stays extra",
+      "image_query": "Kheerganga hot spring meadow Parvati",
+      "wiki": "",
+      "summary": "Walk about 12 km from Barshaini through Nakthan village, pine forest and waterfalls to Kheerganga, a meadow at around 2,950 m with a hot spring pool and a Shiva shrine. Moderate, popular and best done over two days.",
+      "body": [
+        "The trek starts at Barshaini, the end of the road, at around 2,200 m. Most people take the route through Nakthan village on the left bank, a steady climb through forest and orchards, with tea stalls along the way. Another trail along the right bank passes Rudra Nag, a waterfall with a small temple. Expect 4–6 hours up for most walkers, depending on fitness and acclimatisation.",
+        "At the top, the meadow opens up with views of the upper Parvati valley. A hot spring feeds a stone pool with separate sections; bathing is part of the pilgrimage for many visitors, as Kheerganga is linked with the legend of Shiva's son Kartikeya. In spring and autumn the meadow is quiet in the early morning. The altitude, close to 3,000 m, can cause headaches in people who have come straight from the plains, so drink water and walk slowly.",
+        "Rules on camps and overnight stays at Kheerganga have changed several times, with authorities restricting structures on the meadow to protect it. Check current status before you travel, and carry out all your waste. Do not go alone, and never take shortcuts off the main trail in poor visibility; travellers have been lost in the upper Parvati valley. Start early, as clouds and rain often build in the afternoon."
+      ],
+      "good_for": ["students", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Kheerganga trek?", "a": "Moderate. It is about 12 km one way with roughly 750 m of climbing from Barshaini, on a clear trail. Fit beginners manage it in 4–6 hours up. The path can be muddy and slippery after rain. Walk slowly near the top because of the altitude."},
+        {"q": "Can I stay overnight at Kheerganga?", "a": "At times, camps and simple shelters have operated at Kheerganga; at other times the authorities have restricted them to protect the meadow. Rules change, so check current status before you travel. If overnight stays are not allowed, plan a long day trip or stay in Nakthan or Barshaini."},
+        {"q": "Do I need a guide for Kheerganga?", "a": "The main trail is well marked and busy in season, but a local guide is wise for first-timers, in early spring or late autumn, and in bad weather. Never trek alone. A guide costs about ₹1,500–2,500 a day and knows the current rules on overnight stays."}
+      ]
+    },
+    {
+      "slug": "kasol-tosh-and-pulga-villages",
+      "title": "Village walks to Tosh and Pulga",
+      "kind": "village",
+      "duration": "Full day",
+      "best_time": "Apr–Jun and Sep–Nov",
+      "cost": "Bus Kasol–Barshaini ₹40–80; walk free",
+      "image_query": "Tosh village Parvati valley",
+      "wiki": "Tosh, Himachal Pradesh",
+      "summary": "Take the bus to the road head at Barshaini, then walk up to Tosh, a timber village with views of snow peaks, and across to Pulga with its old deodar forest. Easy to moderate walking and a slower, quieter side of the valley.",
+      "body": [
+        "From Kasol, the local bus runs up the valley through Manikaran to Barshaini, where the road ends near the dam works. Tosh is a short but steep climb above, on the far side of the Tosh stream, at around 2,400 m. It is a village of wooden houses, apple and plum orchards and guesthouses, looking up the Tosh valley towards snow peaks. Walk past the guesthouses to the older part of the village, where houses have carved wooden balconies.",
+        "From Barshaini, another path climbs to Pulga, about 45 minutes away on the opposite slope. Behind Pulga is a large old deodar forest that travellers call the fairy forest, with huge trees and moss-covered stones. Kalga, a few minutes further, is a small hamlet of orchards. These villages are home to farming families; ask before photographing people or houses and keep to paths through fields.",
+        "You can return to Kasol by the late-afternoon bus, or stay a night in Tosh or Pulga to see the valley in the early morning. Network is weak here and ATMs do not exist, so carry cash. In winter the villages are cold and many guesthouses close; in spring and autumn they are at their best. Do not wander into the forest alone late in the day."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "How do I get to Tosh from Kasol?", "a": "Take a local bus or taxi from Kasol to Barshaini, about 16 km and 45 minutes, then walk up to Tosh in about an hour. Some taxis drive part of the way up on a rough road. Ask about the last bus back, usually in the late afternoon."},
+        {"q": "Is it better to stay in Kasol or Tosh?", "a": "Kasol has more choice, cafés and transport; Tosh is quieter, higher and closer to the mountains. Many travellers spend one or two nights in each. Tosh is colder and has weaker network, and some places close in winter."},
+        {"q": "Are there ATMs in Tosh or Pulga?", "a": "No. The nearest ATMs are in Kasol and Manikaran, and they often run out on weekends. The most reliable are in Bhuntar and Kullu. Carry enough cash for your stay, as UPI depends on weak mobile signal."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Kasol from Delhi?", "a": "Take an HRTC Volvo from Kashmere Gate to Bhuntar, about 11–12 hours, then a local bus up the Parvati Valley to Kasol, about 1–1.5 hours. Total cost is around ₹1,400–1,900. Some private operators run direct buses to Kasol in season."},
+    {"q": "What is the best time to visit Kasol?", "a": "April to June and late September to November. Spring has blossom and pleasant days; autumn has clear skies and fewer crowds. Winter is cold, and many cafés close. July and August bring monsoon floods and landslides along the Parvati, and we avoid them."},
+    {"q": "How much does a Kasol trip cost?", "a": "A saver trip from Delhi costs about ₹8,000–12,000 per person for three nights: Volvo both ways, hostel beds, café meals and local buses. Adding a guided Kheerganga trek adds ₹3,000–5,000. Comfort cottages raise it to ₹20,000–30,000 per person."},
+    {"q": "Is Kasol safe for solo women?", "a": "Many solo women visit Kasol without problems, but stay alert. Choose hostels with good reviews and women-only dorms, avoid accepting food or drinks from strangers, do not walk alone at night, and never trek alone in the upper valley. Tell your hostel your plans."},
+    {"q": "Can I visit Malana from Kasol?", "a": "Yes, by road to the Malana dam area and a steep walk up, about 2 hours each way. Malana has strict rules: visitors must not touch houses, the temple or residents, and fines are charged for breaking them. Go with a local guide and keep the visit respectful and short."},
+    {"q": "Is there mobile network in Kasol?", "a": "Jio and Airtel work in Kasol and Manikaran, though speeds drop in the evening. Beyond Barshaini, in Tosh and Pulga, signal is weak, and Kheerganga has little or none. BSNL sometimes works where others fail."},
+    {"q": "Is Kasol good for families?", "a": "Yes, if you choose a quiet riverside cottage and visit outside peak weekends. Manikaran and the Chalal walk suit children. Keep them away from the river, which is fast and cold. Kheerganga is suitable for active older children with a guide."},
+    {"q": "How many days do I need for the Parvati Valley?", "a": "Three nights covers Kasol, Manikaran, Chalal and a day trip to Tosh. Add two nights for the Kheerganga trek. A week lets you stay in different villages and walk slowly, which is how the valley is best enjoyed."},
+    {"q": "Is it safe to visit Kasol during monsoon?", "a": "We advise against it. Heavy rain in July and August causes landslides on the Bhuntar–Kasol road and sudden rises in the Parvati, which have washed away riverside buildings and vehicles. If you must travel, avoid riverbanks entirely and follow official alerts."}
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "bhutan-saver-siliguri-phuentsholing-road-6n",
+  "title": "Bhutan by road from Siliguri, 6 nights",
+  "region": "bhutan",
+  "tier": "saver",
+  "nights": 6,
+  "themes": ["road-trips", "monasteries", "family-holidays"],
+  "stops": [
+    {"place": "phuentsholing", "nights": 1},
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 1},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Siliguri (Tenzing Norgay bus terminus)",
+  "end": "Siliguri",
+  "price_from_inr": 34500,
+  "price_note": "Per person, twin share, Indian nationals, group of 5–6: SDF ₹1,200 a night, simple certified hotels, shared vehicle, licensed guide, breakfast and dinner; excludes travel to Siliguri.",
+  "transport": "Shared jeep or bus to Jaigaon, then shared vehicle with licensed guide",
+  "group": "Small group (max 8)",
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "meta_description": "6 nights in Bhutan by road from Siliguri via Phuentsholing: Thimphu, Punakha, Paro and Tiger's Nest on a shared guide and vehicle, from ₹34,500 pp.",
+  "summary": "The most affordable honest way into Bhutan for Indian travellers: shared jeep from Siliguri to the border, one shared guide and vehicle across a small group, simple certified hotels and the classic western circuit of Thimphu, Punakha and Paro, ending with the Tiger's Nest hike.",
+  "intro": [
+    "This trip is built around two facts. Indian nationals pay ₹1,200 a night SDF, far less than other visitors, and Bhutan requires a licensed guide beyond the first checkpoint. So the savings come from the road and from sharing. You reach Siliguri on your own, take a shared jeep or bus to Jaigaon for a few hundred rupees and walk through the Bhutan Gate. From there one guide and one vehicle serve the whole group.",
+    "The trade-offs are honest ones. Hotels are simple tourist-certified places, clean but plain, with heating that varies. Days 2 and 7 are long road days. You eat mostly local food at local prices. In return you see Bhutan's three best-known valleys, Punakha Dzong at the confluence and Taktsang on its cliff, for roughly a third of a comfort-tier price."
+  ],
+  "highlights": [
+    "Walk through the Bhutan Gate from Jaigaon into Phuentsholing",
+    "Tashichho Dzong at flag-lowering time in Thimphu",
+    "108 chortens at Dochu La on the way to Punakha",
+    "Punakha Dzong where the Pho Chhu meets the Mo Chhu",
+    "The Tiger's Nest hike above Paro"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Phuentsholing", "place": "phuentsholing", "overnight": "Phuentsholing", "drive": "≈ 160 km · 4–5 h", "text": "Meet the group at Siliguri in the morning and take a shared jeep or bus west through the Dooars tea gardens and the Buxa foothills to Jaigaon. Walk through the Bhutan Gate into Phuentsholing and check in near the immigration office. If your permit was approved online, your guide collects or checks it this afternoon; otherwise you queue at the Regional Immigration Office first thing tomorrow. Evening walk to Zangdopelri Lhakhang and a first plate of ema datshi.", "meals": "Dinner"},
+    {"day": 2, "title": "Up from the plains to Thimphu", "place": "thimphu", "overnight": "Thimphu", "drive": "≈ 150 km · 5–6 h", "text": "Finish any permit formalities, then climb from 300 m into the hills past the Rinchending checkpoint, where your guide joins the vehicle. The road crosses the fog belt at Gedu and passes Chhukha's hydropower country before reaching the Chhuzom confluence, where the Paro and Thimphu rivers meet. Arrive in Thimphu in the late afternoon. Walk Norzin Lam to see the traffic policeman at his pavilion. Expect a long day; carry travel-sickness tablets.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Thimphu: Buddha, takin and the dzong", "place": "thimphu", "overnight": "Thimphu", "drive": "", "text": "Morning at Buddha Dordenma above the city and the Memorial Chorten, where older residents circle the stupa. Visit the Royal Takin Preserve at Motithang and the viewpoint above the valley. After lunch, the Institute for Zorig Chusum if classes are on, and the Centenary Farmers Market if it is Friday to Sunday. At 5 pm, Tashichho Dzong as government offices close and the flag comes down. Your guide helps you buy a local SIM.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Over Dochu La to Punakha", "place": "punakha", "overnight": "Punakha (Khuruthang)", "drive": "≈ 72 km · 3 h", "text": "Leave early for Dochu La at about 3,100 m and its 108 chortens; on clear mornings from October to February the high peaks line the north. Descend 1,900 m into warm Punakha. Walk the field path from Sopsokha to Chimi Lhakhang, the temple of the Divine Madman. In the afternoon visit Punakha Dzong at the confluence of the Pho Chhu and Mo Chhu, then cross the long suspension bridge upstream before dinner in Khuruthang.", "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Punakha to Paro", "place": "paro", "overnight": "Paro", "drive": "≈ 125 km · 4–4.5 h", "text": "Drive back over Dochu La and past Thimphu down the Wang Chhu to Chhuzom, then up the Paro valley. After lunch, walk across the covered cantilever bridge to Rinpung Dzong and climb to the Ta Dzong watchtower, home of the National Museum. Stroll Paro's main street of painted shopfronts in the evening and rest well for tomorrow's hike. By now you have spent three nights above 2,000 m, which helps for Taktsang.", "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Taktsang, the Tiger's Nest", "place": "paro", "overnight": "Paro", "drive": "≈ 10 km · 20 min each way", "text": "Start by 7.30 am at the trailhead at about 2,600 m. Climb through blue pine to the cafeteria viewpoint, about 2 hours, then on to the monastery at 3,120 m. Phones and cameras go into lockers at the gate. Go slowly, drink water and turn back at the cafeteria if you feel unwell. Return by mid-afternoon and stop at Kyichu Lhakhang, one of Bhutan's two oldest temples, on the way back. Farewell dinner of red rice and datshi.", "meals": "Breakfast, packed lunch, dinner"},
+    {"day": 7, "title": "Paro to Phuentsholing and Siliguri", "place": "phuentsholing", "overnight": "", "drive": "≈ 310 km · 10–11 h", "text": "An early start for the longest day. Drive down the Paro valley to Chhuzom and on down the highway to Phuentsholing, about 5–6 hours. Your guide leaves you at the gate. Walk into Jaigaon and take a shared jeep or bus back to Siliguri, arriving in the evening in time for late trains from New Jalpaiguri or a night in Siliguri. If you have a flight from Bagdogra, book it for the next day, not this one.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "SDF at ₹1,200 per night for Indian nationals (6 nights)",
+    "6 nights in simple tourist-certified hotels on twin share",
+    "Shared vehicle with driver from Phuentsholing to Paro and back",
+    "Licensed guide from the first checkpoint to the final day",
+    "Breakfast and dinner daily",
+    "Entry permit paperwork and route permit through our licensed partner"
+  ],
+  "excludes": [
+    "Travel to and from Siliguri",
+    "Shared jeep or bus fares Siliguri–Jaigaon (₹150–400 each way)",
+    "Monument entry fees (budget ₹4,000–6,000 in total)",
+    "Lunches, drinks and tips",
+    "Pony for Taktsang and travel insurance"
+  ],
+  "good_to_know": [
+    "Carry a passport with six months' validity or a voter ID; Aadhaar is not accepted. Check current status before you travel.",
+    "A licensed guide is required beyond the first checkpoint under Bhutan's 2024 tourism rules; this is why the group shares one guide.",
+    "Taktsang reaches 3,120 m. Go slowly, and talk to your doctor before the trip if you have heart or lung conditions.",
+    "Hotels are simple; bathrooms are attached but hot water and heating vary. Pack a warm layer for winter nights.",
+    "The final day is about 10–11 hours of travel. Do not book a same-day flight from Bagdogra."
+  ],
+  "faqs": [
+    {"q": "Why is this trip cheaper than flying into Paro?", "a": "You avoid flights that often cost ₹8,000–20,000 each way, and you share the guide and vehicle, which together cost ₹6,000–10,000 a day, among five or six people. The ₹1,200 nightly SDF for Indians is fixed, so sharing is where the savings come from."},
+    {"q": "Can I do this trip alone?", "a": "You can join one of our small-group departures as a solo traveller and pay a single-room supplement, or travel privately at a higher price because you carry the full guide and vehicle cost. Solo travel through a licensed operator is common in Bhutan."},
+    {"q": "Is the guide really compulsory for Indians?", "a": "As we understand it, yes. Bhutan's Tourism Rules and Regulations 2024 require licensed guides beyond the first checkpoint, and an April 2026 Department of Tourism notice restated it. You may move around Phuentsholing town without one. Check current status before you travel."},
+    {"q": "What kind of hotels are used?", "a": "Simple, government-certified tourist hotels with attached bathrooms, often family run. Rooms are clean but plain. Heating ranges from electric heaters to none, and hot water can be slow in the morning. We pick central locations."},
+    {"q": "How hard is the Tiger's Nest hike?", "a": "Moderate: about 4–5 km each way and roughly 500–600 m of climbing to 3,120 m. Fit adults take 5–6 hours return. A pony can carry you up to the cafeteria. Talk to your doctor if you have heart or lung conditions."},
+    {"q": "Can children join?", "a": "Yes. Under-6s pay no SDF and 6–12s pay half, as we understand the rules. The long road days are tiring for young children, so bring snacks, travel-sickness tablets and entertainment. Check current status before you travel."},
+    {"q": "Can I use Indian rupees?", "a": "Yes. The ngultrum is at par with the rupee and Indian notes are accepted widely. Carry ₹100–500 notes. Card acceptance is patchy, so carry enough cash for fees, lunches and shopping."},
+    {"q": "What if the road is blocked by a landslide?", "a": "In the monsoon, landslides can block the Phuentsholing highway for hours. Our guide and driver wait it out or reroute where possible. That is one reason we avoid running this trip from July to August."},
+    {"q": "Can I extend to Phobjikha or Bumthang?", "a": "Yes, but each extra district adds nights of SDF, hotel, guide and vehicle costs. Phobjikha adds 2 nights; Bumthang adds 4–5. Ask us for our 7-night Phobjikha saver or a comfort Bumthang trip."}
+  ]
+}

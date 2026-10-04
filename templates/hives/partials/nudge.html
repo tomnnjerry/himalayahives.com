@@ -1,0 +1,3 @@
+<aside class="nudge" data-nudge hidden{% if land %} data-land="{{ land }}"{% endif %}><button class="nudge__x" type="button" data-nudge-close aria-label="Close">×</button>
+  <b>{{ nudge_title|default:"Planning this trip?" }}</b><p>Send us your month and budget. A planner replies within one working day with a route and an itemised price.</p>
+  <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if land %}&land={{ land }}{% endif %}" data-cta="nudge-plan">Get a route</a></aside>
