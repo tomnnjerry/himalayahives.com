@@ -1,0 +1,212 @@
+{
+ "slug": "ladakh-comfort-leh-nubra-pangong-8n",
+ "title": "Leh, Nubra and Pangong with a private car",
+ "region": "ladakh",
+ "tier": "comfort",
+ "nights": 8,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "photography",
+  "family-holidays",
+  "honeymoons"
+ ],
+ "stops": [
+  {
+   "place": "leh",
+   "nights": 3
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 2
+  },
+  {
+   "place": "pangong-tso",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 2
+  }
+ ],
+ "start": "Leh airport",
+ "end": "Leh airport",
+ "price_from_inr": 68000,
+ "price_note": "Per person, twin sharing: 8 nights in a Changspa hotel, Nubra and Pangong camps with attached bathrooms and Stok Palace Heritage Hotel, most meals, private Taxi Union SUV with driver throughout, fees and entries; flights extra.",
+ "transport": "Private Ladakh Taxi Union SUV with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Comfort Ladakh trip, 8 nights: rest days in Leh, Nubra over Khardung La, the Shyok road to Pangong, two nights at Stok Palace. From ₹68,000 per person.",
+ "summary": "Eight nights on Ladakh's classic loop with your own car and driver: three gentle nights in Leh, two in Nubra, the Shyok river road straight to Pangong, and two final nights in Stok Palace's heritage rooms. Comfortable rooms, attached bathrooms everywhere and a climb in altitude planned around your body.",
+ "intro": [
+  "This is the trip we plan most often for couples and families flying in from Delhi, Mumbai and Bengaluru. A private union car means you leave when the light and roads are best, stop where you like, and never wait for a shared jeep to fill. Rooms are comfortable rather than grand: a garden hotel in Changspa, the better fixed camps in Nubra and at Pangong, and two nights in the former royal family's palace at Stok.",
+  "The order matters. Three nights in Leh with very little on the first two days. Then Khardung La to Nubra, which is lower than Leh, for two nights. From Nubra the Shyok river road runs to Pangong without going back over Khardung La, so the lake comes on night six, when you are ready for its height. The last two nights at Stok, at Leh's height, give a quiet end."
+ ],
+ "highlights": [
+  "Three slow nights in Changspa before going higher",
+  "Thiksey's morning prayers and the Hemis museum",
+  "Two nights in Nubra with time for Diskit and the dunes",
+  "The Shyok river road from Nubra to Pangong",
+  "Heritage rooms at Stok Palace for the last two nights"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Leh and rest",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 6 km",
+   "text": "Your driver meets you at Leh airport and takes you to Changspa, a quiet lane of willows and barley fields below Shanti Stupa. Ask for a ground- or first-floor room. Spend the day resting: drink water, eat light, skip alcohol and avoid stairs. In the late afternoon, if you feel fine, take a short flat walk through the lanes. Your driver stays on call, but today the car is for emergencies only.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Old Leh at a slow pace",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 10 km",
+   "text": "A late breakfast, then a short drive to the foot of the old town and a slow walk through its lanes to Leh Palace. Take the stairs inside very slowly and stop often. After lunch, rest at the hotel. In the evening, drive up to Shanti Stupa for sunset rather than climbing the 555 steps. We pay your Ladakh environment fee online and print the copies you need for Nubra and Pangong.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Thiksey, Shey and Hemis",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 100 km round trip · 3 h",
+   "text": "Leave at 6.15 am to reach Thiksey for morning prayers on the roof and in the assembly hall, with the 15 m Maitreya in its own temple. Then Shey's palace and seated Buddha, and on to Hemis, Ladakh's largest monastery, for its museum of thangkas and ritual objects. Return for a late lunch and an afternoon of rest. All of today is at Leh's height, the last step before the passes.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Khardung La to Nubra",
+   "place": "nubra-valley",
+   "overnight": "Fixed tented camp, Hunder or Sumur",
+   "drive": "≈ 125 km · 4.5–5 h",
+   "text": "Leave at 7 am. The road climbs past South Pullu to Khardung La at 5,359 m; stop for 15 minutes, not more, then drop to North Pullu and into Nubra. Visit Diskit Monastery and its 32 m Maitreya on the way, then check into a fixed camp with attached bathroom in Hunder or Sumur. Nubra is lower than Leh, at about 3,100 m, so you should sleep well tonight.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Hunder dunes, Sumur and Panamik",
+   "place": "nubra-valley",
+   "overnight": "Fixed tented camp, Hunder or Sumur",
+   "drive": "≈ 120 km round trip · 3–4 h",
+   "text": "Start with the Hunder dunes in the soft early light, with an optional short Bactrian camel ride. After breakfast, cross to the Nubra river arm of the valley for Samstanling monastery at Sumur and the hot springs at Panamik, where you can soak your feet. Return to camp for an unhurried afternoon. If you prefer, swap Panamik for a long day trip to Turtuk, about 75 km down the Shyok.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "The Shyok road to Pangong",
+   "place": "pangong-tso",
+   "overnight": "Fixed tented camp, Spangmik or Man",
+   "drive": "≈ 170 km · 6–7 h",
+   "text": "Leave by 7 am. The road follows the Shyok river south via Agham and Shyok village, crosses streams and long empty stretches, and joins the Pangong road near Durbuk. It is rough in places and your driver will check the latest conditions the day before; if it is closed, we go back via Leh. Reach the lake by mid-afternoon, check into a camp with attached bathroom and keep the evening quiet. It is the highest night of the trip.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Pangong sunrise and Chang La to Stok",
+   "place": "leh",
+   "overnight": "Stok Palace Heritage Hotel",
+   "drive": "≈ 170 km · 5.5–6 h",
+   "text": "Step out for sunrise, when the water changes from grey to deep blue. After breakfast, drive back via Tangtse and over Chang La at about 5,360 m, with a short stop only. Descend through Karu and cross the Indus to Stok, the village where the Namgyal royal family has lived since the 19th century. Check into the palace's heritage rooms or garden villas and rest for the evening.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Stok village and the royal museum",
+   "place": "leh",
+   "overnight": "Stok Palace Heritage Hotel",
+   "drive": "≈ 40 km",
+   "text": "A slow morning in the palace garden, then a visit to the palace museum with its royal dress, jewellery and thangkas. Walk through Stok village and its fields in the afternoon. If you want one more outing, drive to Spituk Monastery above the airport or into Leh for last shopping at fixed-price cooperative shops. Dinner at the palace.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Fly out of Leh",
+   "place": "leh",
+   "overnight": "",
+   "drive": "≈ 15 km · 30 min",
+   "text": "After an early breakfast, your driver takes you to Leh airport for a morning flight. Allow at least two hours at the airport in June and July, when security queues are long. If weather delays the flight, your driver can bring you back to Stok or to Leh while the airline reschedules.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-omasila-leh",
+  "stok-palace-heritage-hotel"
+ ],
+ "includes": [
+  "8 nights in a Changspa hotel, Nubra and Pangong fixed camps with attached bathrooms and Stok Palace Heritage Hotel",
+  "Breakfast and dinner daily",
+  "Private Ladakh Taxi Union SUV with driver for all transfers and sightseeing",
+  "Ladakh environment fee and monastery and museum entries",
+  "Airport transfers"
+ ],
+ "excludes": [
+  "Flights to and from Leh",
+  "Lunches",
+  "Camel rides and optional activities",
+  "Travel insurance and medical costs",
+  "Tips for driver and staff"
+ ],
+ "good_to_know": [
+  "Acclimatisation is built in: two easy days in Leh at 3,500 m, a third at the same height, and Pangong only on night six. Talk to your doctor before travel if you have heart, lung or blood-pressure conditions.",
+  "Ladakh Taxi Union rules mean outside cars cannot do local sightseeing; we use registered Leh vehicles throughout.",
+  "The Shyok road from Nubra to Pangong can close after rain or landslides; if so, we route via Leh and adjust timings.",
+  "Camps at Nubra and Pangong have attached bathrooms but limited power and cold nights; bring warm layers.",
+  "Permits, fees and road openings change; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this comfort Ladakh trip cost?",
+   "a": "We price it from about ₹68,000 per person, twin sharing, for 8 nights with rooms, breakfast and dinner, a private SUV and driver throughout, fees and entries. Flights to Leh are extra. Families of four sharing one car pay less per person for transport."
+  },
+  {
+   "q": "Why spend three nights in Leh before Nubra?",
+   "a": "You fly from near sea level to 3,500 m. Two quiet days and a third at the same height give your body time to adjust before Khardung La and Chang La, both above 5,300 m. It is the single best thing you can do to avoid altitude sickness and enjoy the rest of the trip."
+  },
+  {
+   "q": "Can children and seniors do this trip?",
+   "a": "Yes, it is designed for them, with rest days, short stops at passes and attached bathrooms everywhere. The Pangong night is the hardest; elderly travellers or very young children can skip it and do the lake as a long day trip from Leh, or not at all. Talk to your doctor first."
+  },
+  {
+   "q": "What are the camps like in Nubra and Pangong?",
+   "a": "They are fixed tents on platforms with proper beds, quilts and attached bathrooms with running water, plus a dining tent with buffet meals. Better camps have electric blankets. Power is limited and nights at Pangong are below freezing. They are comfortable but not hotel rooms."
+  },
+  {
+   "q": "Can we self-drive instead of using a union taxi?",
+   "a": "You can drive your own car or a rented self-drive vehicle in Ladakh, subject to local rules, but outside taxis cannot carry tourists for local sightseeing. For first-timers we recommend a union driver: they know the passes, checkposts and conditions."
+  },
+  {
+   "q": "Is the Shyok road from Nubra to Pangong safe?",
+   "a": "It is a real road used by locals and the army, but rough in places, with stream crossings that rise in the afternoon. Experienced union drivers use it often. If rain or landslides close it, we go back via Leh. Check current status before you travel."
+  },
+  {
+   "q": "Will our phones work on this trip?",
+   "a": "Postpaid connections from major networks work in Leh and around Diskit and Hunder, with patchy coverage at Pangong. Prepaid SIMs from outside Ladakh do not work. Hotels and some camps have Wi-Fi, but it is slow. Tell family you may be out of touch for a day or two."
+  },
+  {
+   "q": "Can we add Turtuk or Tso Moriri?",
+   "a": "Yes. Turtuk adds one night in Nubra, or a long day trip from Hunder. Tso Moriri adds two nights: one at the lake and one back in Leh, and it should come after Pangong. Ask us and we will rebuild the days around acclimatisation."
+  },
+  {
+   "q": "What should we pack?",
+   "a": "Layers: thermals, a fleece, a down jacket, warm hat and gloves, plus a sun hat, sunglasses and high-SPF sunscreen. Comfortable walking shoes, a refillable bottle, lip balm and any regular medicines. Nights at Pangong are below freezing even in August."
+  }
+ ]
+}
