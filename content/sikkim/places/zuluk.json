@@ -1,0 +1,300 @@
+{
+ "slug": "zuluk",
+ "name": "Zuluk",
+ "region": "sikkim",
+ "kind": "village",
+ "wiki": "Zuluk",
+ "image_query": "Zuluk zigzag road Sikkim",
+ "lat": 27.25,
+ "lng": 88.78,
+ "altitude_m": 3000,
+ "tagline": "Hairpin loops on the old mule road from Kalimpong to Lhasa",
+ "meta_description": "Zuluk guide: the Silk Route loops, Thambi viewpoint, Nathang valley, Kupup, permits for Indian nationals, homestays, costs and best months to visit.",
+ "summary": "Zuluk is a small village at about 3,000 m in East Sikkim, on the old trade route from Kalimpong to Lhasa via the Jelep La. It is known for the road's many hairpin bends above the village, sunrise over Kangchenjunga and the high Nathang valley. Open to Indian nationals only, by permit; plan one or two nights.",
+ "intro": [
+  "Zuluk is a cluster of houses and army buildings strung along a mountain road in East Sikkim. It began as a stop on the mule route that carried wool, salt and other goods between Tibet and Kalimpong over the Jelep La. Today it is a small village of homestays and an army transit point, and the road above it is the reason most people come.",
+  "Above the village, the road climbs in a tight series of hairpin bends to Thambi viewpoint, at around 3,400 m, where you look down on the loops below. Further on lie Lungthung, the Nathang valley, Kupup and the old Baba Harbhajan Singh bunker. On clear mornings, the view from this stretch takes in Kangchenjunga and the eastern Himalaya.",
+  "The route lies in a Protected Area close to the border, and permits are issued only to Indian nationals through registered agencies, usually with paperwork at Rongli. Homestays are simple and nights are cold. Visit from October to December or March to May, and check current status before you travel."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Oct – Dec, Mar – May"
+  ],
+  [
+   "Nights we suggest",
+   "1–2"
+  ],
+  [
+   "Nearest airport",
+   "Bagdogra (≈ 150 km · 5–6 h)"
+  ],
+  [
+   "From Gangtok",
+   "≈ 90 km · 4–5 h via Rongli"
+  ],
+  [
+   "Altitude",
+   "about 3,000 m; Nathang valley about 4,000 m"
+  ],
+  [
+   "Known for",
+   "Silk Route loops, Thambi viewpoint, Nathang valley, homestays"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "nights": "1–2",
+ "highlights": [
+  {
+   "title": "The loops from Thambi viewpoint",
+   "text": "Above Zuluk, the road climbs in dozens of hairpin bends. From Thambi viewpoint at about 3,400 m, you look straight down on the loops snaking up the slope. Early morning, before cloud, is best."
+  },
+  {
+   "title": "Sunrise over Kangchenjunga",
+   "text": "On clear mornings from Lungthung and Thambi, the light catches Kangchenjunga and the eastern peaks before it reaches the valleys. October to December gives the most reliable views."
+  },
+  {
+   "title": "Nathang valley",
+   "text": "A high, open valley at about 4,000 m with a small village, grazing yaks and a monastery. It is one of the coldest inhabited places on the route and often snowbound in winter."
+  },
+  {
+   "title": "Kupup and the old Baba Mandir",
+   "text": "Further along the road, Kupup lake and the old Baba Harbhajan Singh bunker lie near the Jelep La. Access depends on permits and weather."
+  },
+  {
+   "title": "Homestays in Zuluk",
+   "text": "Simple family homestays offer warm meals and rooms looking out over the valley. They are the best way to see the village and catch sunrise from the road above."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "Zuluk lies on part of the old trade route between Lhasa and Kalimpong that crossed the Jelep La, used by mule caravans carrying wool, salt and other goods.",
+   "source": "Zuluk"
+  },
+  {
+   "fact": "The Jelep La, at about 4,270 m, connects Sikkim with the Chumbi valley in Tibet and was a main route between India and Lhasa; it was used by the British expedition to Tibet in 1903–04.",
+   "source": "Jelep La"
+  }
+ ],
+ "local_word": {
+  "word": "La",
+  "language": "Bhutia / Tibetan",
+  "meaning": "mountain pass, as in Jelep La and Nathu La"
+ },
+ "costs": [
+  [
+   "Private vehicle, 2-day Silk Route tour from Gangtok",
+   "₹9,000–15,000 per vehicle"
+  ],
+  [
+   "Homestay with dinner and breakfast",
+   "₹1,500–2,500 per person"
+  ],
+  [
+   "Permit processing through agency",
+   "₹200–500 per person"
+  ],
+  [
+   "Tea and snacks at Thambi or Nathang",
+   "₹50–150"
+  ],
+  [
+   "Shared jeep seat, Gangtok–Rongli",
+   "₹150–250"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Road",
+   "text": "From Gangtok, the road runs via Rongli and Lingtam to Zuluk, about 90 km and 4–5 hours. From Siliguri or NJP, it is about 150 km via Rhenock and Rongli. Travel with a local vehicle and permit; check current status before you travel."
+  },
+  {
+   "mode": "Permit",
+   "text": "Zuluk and the Silk Route are in a Protected Area open only to Indian nationals. Registered agencies arrange the permit, usually processed at Rongli, with your photo ID and passport photos."
+  },
+  {
+   "mode": "Air",
+   "text": "Bagdogra Airport is about 150 km away. Most travellers reach Zuluk from Gangtok or via Kalimpong and Rongli."
+  }
+ ],
+ "where_to_stay": "Saver: family homestays in Zuluk and nearby Padamchen and Gnathang charge about ₹1,500–2,500 per person with dinner and breakfast, with simple rooms and shared or basic attached bathrooms. Comfort: there are no hotels here; the best homestays have attached bathrooms and thick quilts. Signature travellers usually do the Silk Route as a long day from Gangtok or a night in the best available homestay.",
+ "stays": [
+  "zuluk-homestay-village"
+ ],
+ "tips": [
+  "Leave Zuluk before dawn for Thambi viewpoint and Lungthung; clouds build by mid-morning.",
+  "Pack winter clothes in every month; nights can drop below freezing even in spring and autumn.",
+  "Carry cash; there are no ATMs on the route.",
+  "Expect no mobile signal for most of the route.",
+  "Respect army rules on photography of military areas."
+ ],
+ "themes": [
+  "road-trips",
+  "photography",
+  "homestays-and-villages",
+  "snow-and-winter"
+ ],
+ "nearby": [
+  "tsomgo-lake",
+  "gangtok"
+ ],
+ "experiences": [
+  {
+   "slug": "zuluk-thambi-viewpoint-loops",
+   "title": "The loops from Thambi viewpoint",
+   "kind": "adventure",
+   "duration": "3–4 hours",
+   "best_time": "Pre-dawn start, Oct–Dec and Mar–May",
+   "cost": "Included in Silk Route tour",
+   "image_query": "Thambi viewpoint Zuluk loops",
+   "wiki": "",
+   "summary": "Drive up from Zuluk in the dark to Thambi viewpoint, about 3,400 m, and watch daylight reveal the road below folding back on itself in dozens of hairpin bends. On clear days, Kangchenjunga stands to the west.",
+   "body": [
+    "The road above Zuluk was built through steep terrain, and to gain height it zigzags in a long series of hairpins. From Thambi viewpoint, the bends are laid out below like a coiled rope. It is one of the most photographed road views in the eastern Himalaya.",
+    "Leave Zuluk around 4.30–5 am in October to December to reach Thambi or Lungthung for sunrise. The air is very cold before dawn, and frost or snow can make the road slippery. Your driver will know the best spots and how far to go depending on the day.",
+    "Stay well back from the road edge, and do not stop on blind bends. Drones and photography of army areas may be restricted; follow local instructions. After sunrise, continue to Nathang valley or return to Zuluk for breakfast."
+   ],
+   "good_for": [
+    "photographers",
+    "couples",
+    "students"
+   ],
+   "faqs": [
+    {
+     "q": "What time should I leave Zuluk for sunrise at Thambi viewpoint?",
+     "a": "Around 4.30–5 am from October to December, a little earlier in spring. Ask your homestay host or driver the evening before."
+    },
+    {
+     "q": "How many bends are on the Zuluk road?",
+     "a": "The road above Zuluk has dozens of hairpin bends; counts vary by where you start and stop. The best view of them is from Thambi viewpoint."
+    },
+    {
+     "q": "Is the Zuluk road safe?",
+     "a": "It is narrow and steep, with frost or snow in winter, but local drivers know it well. Travel only with a registered vehicle and avoid driving after dark."
+    }
+   ]
+  },
+  {
+   "slug": "zuluk-nathang-valley-visit",
+   "title": "Nathang valley on the high road",
+   "kind": "village",
+   "duration": "2–3 hours",
+   "best_time": "Morning, Oct–Dec and Mar–May",
+   "cost": "Included in Silk Route tour",
+   "image_query": "Nathang valley Sikkim",
+   "wiki": "",
+   "summary": "Continue beyond Thambi to the Nathang valley, a broad, high basin at about 4,000 m with a small village, grazing yaks, a monastery and wide views. It is one of the highest settlements on the old trade road and often lies under snow in winter.",
+   "body": [
+    "Nathang, also spelled Gnathang, sits in a flat valley ringed by bare hills. A small village of stone and wooden houses stands at its edge, with a monastery and prayer flags. Families keep yaks and grow what they can in a short summer. A war memorial recalls battles fought here during the 1888 Sikkim expedition.",
+    "In winter, Nathang is often snowbound and the stream freezes. In spring and autumn, the grass turns gold and the light is sharp. A few homestays here take guests, but nights are very cold. Most visitors stop for tea and a walk before continuing to Kupup or returning to Zuluk.",
+    "At about 4,000 m, altitude sickness is possible, especially if you came up from Gangtok in a single day. Walk slowly, drink water and do not linger if you feel unwell. Respect homes and grazing animals, and ask before photographing people."
+   ],
+   "good_for": [
+    "photographers",
+    "couples",
+    "students"
+   ],
+   "faqs": [
+    {
+     "q": "How high is Nathang valley?",
+     "a": "About 4,000 m. It is one of the highest inhabited places on the Silk Route, so walk slowly and watch for altitude symptoms."
+    },
+    {
+     "q": "Can I stay overnight in Nathang?",
+     "a": "A few homestays take guests, but nights are very cold, and most travellers sleep lower in Zuluk. Ask your agency what is available and permitted."
+    },
+    {
+     "q": "Is Nathang open in winter?",
+     "a": "It is often snowbound from December to March, and roads may close after heavy snow. Check current status before you travel."
+    }
+   ]
+  },
+  {
+   "slug": "zuluk-homestay-sunrise-stay",
+   "title": "A night in a Zuluk homestay",
+   "kind": "village",
+   "duration": "Overnight",
+   "best_time": "Oct–Dec and Mar–May",
+   "cost": "₹1,500–2,500 per person with meals",
+   "image_query": "Zuluk village homestay Sikkim",
+   "wiki": "",
+   "summary": "Spend a night with a family in Zuluk, eat home-cooked dal, rice and greens by a warm stove and wake before dawn for sunrise on the road above. Rooms are simple, but the welcome and the location make it worthwhile.",
+   "body": [
+    "Zuluk's homestays are family homes with a few guest rooms, often wooden and sometimes with attached bathrooms. Meals are home-cooked: rice, dal, vegetables, eggs and, on request, chicken. Hot water is usually provided in buckets. Thick quilts make up for the lack of central heating.",
+    "Evenings are quiet: there is little to do but talk, eat and watch the light fade over the valley. Ask your host about the village, the old trade road and life through the seasons. Most hosts will also arrange the pre-dawn drive to Thambi and Lungthung for sunrise.",
+    "Bring a warm sleeping layer, a torch and a power bank, as power cuts are common. Tell your host about dietary needs in advance. Carry cash; there are no ATMs or card payments in Zuluk."
+   ],
+   "good_for": [
+    "couples",
+    "solo",
+    "families",
+    "students"
+   ],
+   "faqs": [
+    {
+     "q": "Are there hotels in Zuluk?",
+     "a": "No, Zuluk has homestays rather than hotels. Rooms are simple, with meals included, and are usually booked through your agency."
+    },
+    {
+     "q": "How cold is Zuluk at night?",
+     "a": "Very cold from November to March, often below freezing, and cool even in spring and autumn. Pack thermals, a down jacket, gloves and a cap."
+    },
+    {
+     "q": "Do Zuluk homestays have attached bathrooms?",
+     "a": "Some do, some share. Ask your agency when booking if this matters to you."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who can visit Zuluk?",
+   "a": "Zuluk and the Silk Route have been open only to Indian nationals with a Protected Area Permit. Foreign nationals are generally not permitted. Check current status before you travel."
+  },
+  {
+   "q": "How do I get a permit for Zuluk?",
+   "a": "Through a registered agency in Gangtok or the Rongli area, with photo ID and two passport photos. The permit is often processed at Rongli and names passengers and vehicle. Check current status before you travel."
+  },
+  {
+   "q": "How far is Zuluk from Gangtok?",
+   "a": "About 90 km via Rongli, 4–5 hours by road. From Siliguri or NJP, it is about 150 km via Rhenock and Rongli."
+  },
+  {
+   "q": "What is the best time to visit Zuluk?",
+   "a": "October to December for the clearest skies, and March to May for flowers. From December to March, snow is common and may close the road; from June to September, rain and landslides are frequent."
+  },
+  {
+   "q": "How many nights should I spend in Zuluk?",
+   "a": "One night is enough for sunrise at Thambi and a trip to Nathang. Two nights allow a slower pace or a buffer for weather."
+  },
+  {
+   "q": "Is altitude a problem at Zuluk?",
+   "a": "Zuluk at about 3,000 m is usually fine, but Thambi, Nathang and Kupup reach about 3,400–4,000 m. Ascend gradually, drink water and talk to your doctor if you have heart or lung conditions."
+  },
+  {
+   "q": "Is there mobile network in Zuluk?",
+   "a": "Coverage is very limited along the Silk Route. Expect long stretches with no signal and carry cash."
+  },
+  {
+   "q": "What does a Silk Route tour cost?",
+   "a": "A private vehicle for a 2-day tour from Gangtok costs about ₹9,000–15,000. Homestays cost about ₹1,500–2,500 per person with meals."
+  },
+  {
+   "q": "Is Zuluk suitable for children and seniors?",
+   "a": "Yes, for many healthy families, but the cold, long drives and altitude above 3,000 m are demanding. Talk to your doctor first if anyone has health conditions, and keep plans flexible."
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "slug": "ladakh-signature-high-lakes-nubra-10n",
+ "title": "Nubra, Pangong and Tso Moriri with a guide",
+ "region": "ladakh",
+ "tier": "signature",
+ "nights": 10,
+ "themes": [
+  "road-trips",
+  "wildlife-and-birds",
+  "photography",
+  "monasteries"
+ ],
+ "stops": [
+  {
+   "place": "leh",
+   "nights": 3
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 2
+  },
+  {
+   "place": "pangong-tso",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 1
+  },
+  {
+   "place": "tso-moriri",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 2
+  }
+ ],
+ "start": "Leh airport",
+ "end": "Leh airport",
+ "price_from_inr": 210000,
+ "price_note": "Per person, twin sharing: 10 nights at The Grand Dragon Ladakh, Lchang Nang Retreat, Chamba Camp Thiksey and the best camps at Pangong and Tso Moriri, all meals, private SUV, driver and guide, fees and permits; flights extra.",
+ "transport": "Private SUV with driver and a private naturalist guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Signature Ladakh trip, 10 nights: Nubra at Lchang Nang, Pangong via the Shyok road, Chamba Camp Thiksey, Tso Moriri and Tso Kar with a private guide. From ₹2,10,000 pp.",
+ "summary": "Ten nights for travellers who want Ladakh's high lakes without hardship. Three easy nights in Leh, two in Nubra at Lchang Nang, the Shyok road to Pangong, a recovery night at Chamba Camp near Thiksey, then Tso Moriri and the salt lake of Tso Kar with a naturalist guide. Altitude is climbed step by step.",
+ "intro": [
+  "Pangong and Tso Moriri are the two lakes most people want to see, and the two places where most people feel the altitude worst. Pangong is about 4,250 m; Tso Moriri, 4,522 m. There is no luxury hotel at either, so this trip uses the best available camps for one night each and surrounds them with real comfort: The Grand Dragon in Leh, Lchang Nang Retreat in Nubra, and Chamba Camp near Thiksey between the two lakes.",
+  "A naturalist guide travels with you. Ladakh's high plateau, the Changthang, is home to kiang, the Tibetan wild ass, to bar-headed geese and black-necked cranes, and to Changpa herders moving their goats and yaks. The order is set so that each higher night follows rest at a lower or equal height, and Tso Moriri, the highest, comes on night eight."
+ ],
+ "highlights": [
+  "Three slow nights at The Grand Dragon to adjust",
+  "Nubra's dunes and monasteries from Lchang Nang Retreat",
+  "The Shyok road from Nubra to Pangong",
+  "Bar-headed geese and Changpa camps at Tso Moriri",
+  "Kiang on the Tso Kar plain on the way back"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Leh and rest",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 5 km",
+   "text": "Your guide and driver meet you at the airport. Check into The Grand Dragon, a full-service hotel with heated rooms, and spend the day resting. Drink plenty of water, eat light, avoid alcohol and stairs. Your guide checks on you in the evening and walks through the plan, including the rules for the high-altitude days ahead.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Old Leh at a gentle pace",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 10 km",
+   "text": "A late start, then a slow guided walk through the old town to Leh Palace. Lunch in town and an afternoon of rest at the hotel. Your guide organises permits for Nubra, Pangong and Tso Moriri. In the evening, a drive to Shanti Stupa for sunset, without climbing the steps.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Thiksey, Hemis and Stok",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 100 km round trip · 3 h",
+   "text": "Early to Thiksey for morning prayers, then Hemis Monastery and museum. After lunch, Stok Palace and its royal museum. Back at the hotel by mid-afternoon. This third night at Leh's height completes your first stage of acclimatisation.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Khardung La to Nubra",
+   "place": "nubra-valley",
+   "overnight": "Lchang Nang Retreat, Tegar",
+   "drive": "≈ 125 km · 5 h",
+   "text": "Leave at 7 am, cross Khardung La at 5,359 m with a short stop and drop into Nubra, about 3,100 m. Visit Diskit Monastery and its giant Maitreya, then cross to the Nubra river arm and Lchang Nang Retreat at Tegar, a cottage retreat among poplars. A lower night here helps your body before the lakes.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Hunder, Sumur and Panamik",
+   "place": "nubra-valley",
+   "overnight": "Lchang Nang Retreat, Tegar",
+   "drive": "≈ 100 km round trip · 3–4 h",
+   "text": "Early to the Hunder dunes and the Bactrian camels, then back to Samstanling monastery at Sumur and the Panamik hot springs. Your guide points out the sea buckthorn thickets along the river and the birds of the valley. Afternoon at leisure in the retreat's garden.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "The Shyok road to Pangong",
+   "place": "pangong-tso",
+   "overnight": "Best available camp, Pangong",
+   "drive": "≈ 170 km · 6–7 h",
+   "text": "Leave by 7 am for the Shyok river road via Agham, a rough but scenic route that joins the Pangong road near Durbuk. Your driver checks conditions the day before; if it is closed, we return via Leh. Reach Pangong in the afternoon and check into the best available camp with attached bathroom and heating. Rest, then walk gently along the shore at sunset.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Pangong sunrise, then Thiksey",
+   "place": "leh",
+   "overnight": "Chamba Camp Thiksey",
+   "drive": "≈ 150 km · 5 h",
+   "text": "Sunrise at the lake, then breakfast and the drive back over Chang La at about 5,360 m. Instead of Leh, check into Chamba Camp, facing Thiksey Monastery, which sits on the way to Tso Moriri. Spend the afternoon resting at camp; your body recovers well at this lower height before the highest night of the trip.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Up the Indus to Tso Moriri",
+   "place": "tso-moriri",
+   "overnight": "Best available camp, Korzok",
+   "drive": "≈ 210 km · 6–7 h",
+   "text": "Drive up the Indus via Upshi and Chumathang, where hot springs steam beside the river, and into the Changthang. Your guide looks for kiang and marmots on the way. At Tso Moriri, 4,522 m, check into the best available camp near Korzok. Keep the afternoon quiet: a slow walk to Korzok's monastery and village, an early dinner and sleep.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Tso Kar and back to Leh",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 240 km · 7–8 h",
+   "text": "Early morning on the lakeshore for bar-headed geese and other waterbirds, keeping well back from nesting areas. Then cross the plateau to Tso Kar, a salt lake where kiang graze and black-necked cranes sometimes feed. Join the Manali–Leh highway and cross Taglang La to the Indus. Back at The Grand Dragon by evening, with a long hot shower.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Rest and Leh bazaar",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 10 km",
+   "text": "A slow day after the high lakes. Sleep late, then an optional walk in Main Bazaar for apricots, pashmina from fixed-price cooperative shops and a final cafe lunch. Farewell dinner at the hotel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 11,
+   "title": "Fly out of Leh",
+   "place": "leh",
+   "overnight": "",
+   "drive": "≈ 5 km · 15 min",
+   "text": "Transfer to Leh airport for your morning flight. Allow two hours at the airport in June and July. If weather delays your flight, the hotel and your guide will help you rebook.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "the-grand-dragon-ladakh",
+  "lchang-nang-retreat-nubra",
+  "chamba-camp-thiksey"
+ ],
+ "includes": [
+  "10 nights at The Grand Dragon Ladakh, Lchang Nang Retreat, Chamba Camp Thiksey and the best camps at Pangong and Tso Moriri",
+  "All meals outside Leh; breakfast and dinner in Leh",
+  "Private SUV with driver and private naturalist guide throughout",
+  "Environment fee or Protected Area Permit, monastery and museum entries",
+  "Airport transfers and bottled oxygen in the vehicle for emergencies"
+ ],
+ "excludes": [
+  "Flights to and from Leh",
+  "Drinks and optional activities",
+  "Camel rides",
+  "Travel insurance with high-altitude cover",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Acclimatisation is built in: three nights in Leh, a lower stay in Nubra, Pangong on night six and Tso Moriri on night eight, with a recovery night at Thiksey between them. Talk to your doctor before travel if you have heart, lung or blood-pressure conditions.",
+  "There are no hotels at Pangong or Tso Moriri; the best camps have attached bathrooms and heating, but nights are well below freezing.",
+  "Oxygen in the vehicle is for emergencies only; descent is the real treatment for serious altitude sickness.",
+  "Lchang Nang and Chamba Camp are seasonal; this trip runs roughly June to September.",
+  "The Shyok road and the Tso Kar route depend on conditions; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this signature lakes trip cost?",
+   "a": "We price it from about ₹2,10,000 per person, twin sharing, for 10 nights with all stays, most meals, a private SUV and driver, a naturalist guide, permits and entries. Flights are extra. Prices depend on dates and the rates at Chamba Camp and Lchang Nang."
+  },
+  {
+   "q": "Is Tso Moriri harder than Pangong?",
+   "a": "Yes. Tso Moriri, at 4,522 m, is higher than Pangong at about 4,250 m, and nights are colder. That is why it comes on night eight, after rest days in Leh, a lower stay in Nubra and a recovery night near Thiksey. Talk to your doctor before travel."
+  },
+  {
+   "q": "Why not stay two nights at each lake?",
+   "a": "Sleeping at 4,250–4,500 m is when most people feel worst. One night at each lake gives you evening and morning light, the best times to be there, while limiting the hardest nights. Guests who feel strong can add a second night at Pangong."
+  },
+  {
+   "q": "Will we see wildlife?",
+   "a": "Often. Kiang, the Tibetan wild ass, are common on the plains around Tso Kar and the Tso Moriri road. Marmots are easy to see in summer. Bar-headed geese breed at Tso Moriri, and black-necked cranes are sometimes seen at Tso Kar. Sightings are never guaranteed."
+  },
+  {
+   "q": "Do foreign nationals need permits for this trip?",
+   "a": "Yes. Nubra, Pangong and Tso Moriri require a Protected Area Permit for foreign nationals, arranged through a registered Leh agency with passport copies; we handle it during your Leh days. Indians pay the online environment fee. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "What are the best camps at Pangong and Tso Moriri like?",
+   "a": "They are fixed tents or cottages with real beds, heating or electric blankets, attached bathrooms and hot water at set times, with a dining tent. They are comfortable for one night but not luxury hotels; power is limited and nights fall below freezing."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Fit seniors can enjoy it, as long as their doctor agrees and they take the rest days seriously. The two lake nights are the hardest parts. If needed, we can replace Tso Moriri with a second night at Lchang Nang or Chamba Camp."
+  },
+  {
+   "q": "What should we pack for the lakes?",
+   "a": "A proper down jacket, thermal base layers, warm hat, gloves and wool socks, plus sunglasses, a sun hat and high-SPF sunscreen. Lip balm and moisturiser for dry air. Comfortable shoes for walking on rough shores. Your guide carries binoculars."
+  },
+  {
+   "q": "Can we add a winter or snow leopard option?",
+   "a": "This trip runs in summer. For winter, we plan separate trips based at The Grand Dragon, with Hemis National Park for snow leopards in February and March, and festivals like Losar and Dosmoche. Ask us for dates."
+  }
+ ]
+}

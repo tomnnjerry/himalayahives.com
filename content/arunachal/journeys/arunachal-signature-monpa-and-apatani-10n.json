@@ -1,0 +1,234 @@
+{
+ "slug": "arunachal-signature-monpa-and-apatani-10n",
+ "title": "Monpa and Apatani: Tawang to Ziro",
+ "region": "arunachal",
+ "tier": "signature",
+ "nights": 10,
+ "themes": [
+  "monasteries",
+  "homestays-and-villages",
+  "road-trips",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "dirang",
+   "nights": 2
+  },
+  {
+   "place": "tawang",
+   "nights": 3
+  },
+  {
+   "place": "dirang",
+   "nights": 1
+  },
+  {
+   "place": "bhalukpong",
+   "nights": 1
+  },
+  {
+   "place": "ziro",
+   "nights": 3
+  }
+ ],
+ "start": "Tezpur or Guwahati",
+ "end": "Donyi Polo Airport, Itanagar",
+ "price_from_inr": 210000,
+ "price_note": "Per person, twin sharing: best available stays including Rungkhung, Vivanta Tawang and Siiro Resort, all meals, private SUV with driver, private guide throughout, all sightseeing and e-ILP; flights extra.",
+ "transport": "Private SUV with driver and private guide",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Signature Arunachal trip, 10 nights: Dirang, Tawang and Sela, then the Apatani valley of Ziro, with the best hotels and a private guide, from ₹2,10,000 per person.",
+ "summary": "Ten nights across two worlds of Arunachal: the Buddhist Monpa country of Dirang and Tawang, with its monasteries and high passes, and the Apatani rice valley of Ziro, with its clans, fields and festivals. Best available hotels, a private guide and a private SUV throughout.",
+ "intro": [
+  "Most trips to Arunachal see either Tawang or Ziro. This one does both, and the contrast is the point. In the west you stay among Monpa monasteries, prayer flags and stone villages, at about 1,600–2,700 m. Then you cross back to the plains and climb again into the Apatani valley, where rice and fish grow in the same fields and villages are built of wood and bamboo.",
+  "We use the best stays in each place: Rungkhung Village Resort in Dirang, Vivanta Tawang, and Siiro Resort in Ziro. The night at Bhalukpong, which splits the long transfer, is the simplest of the trip, in the best available lodge by the Kameng. A private guide travels with you throughout, and in Ziro a guide from the Apatani community joins for village days."
+ ],
+ "highlights": [
+  "Tawang Monastery and the birthplace of the 6th Dalai Lama",
+  "The crossing of Sela at about 4,170 m",
+  "Three nights at Vivanta Tawang",
+  "Apatani villages of Hong and Hari with a local guide",
+  "Rice-and-fish terraces and pine groves of the Ziro valley"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Tezpur to Dirang",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 200 km · 6–7 h",
+   "text": "Your guide and driver meet you in Tezpur, or in Guwahati with an earlier start. Drive through Balipara's tea gardens to the Bhalukpong check gate, then climb through Tenga and Bomdila and descend into the Dirang valley. Check into Rungkhung Village Resort among the orchards.",
+   "meals": "Lunch, dinner"
+  },
+  {
+   "day": 2,
+   "title": "Dirang Dzong and Sangti",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 40 km local",
+   "text": "An easy acclimatisation day at about 1,600 m. Walk through Dirang Dzong, the stone village with its fortified houses, and visit the hot springs. In the afternoon, drive to the Sangti valley for a riverside walk. Your guide introduces the Monpa: their Buddhist practice, their farming and their links with Bhutan and Tibet.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 3,
+   "title": "Over Sela to Tawang",
+   "place": "sela-pass",
+   "overnight": "Tawang",
+   "drive": "≈ 140 km · 6–7 h with stops",
+   "text": "Climb to Sela Pass, about 4,170 m, taking the old road for the lake when it is open. Stop at the Jaswantgarh memorial and at Nuranang Falls near Jang, then continue to Vivanta Tawang. Rest on arrival and drink plenty of water.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tawang Monastery and Urgelling",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 20 km local",
+   "text": "Morning prayers at Tawang Monastery, then the museum and library with your guide. After lunch, visit Urgelling, birthplace of the 6th Dalai Lama in 1683, and watch Mon shugu paper being made by hand. Sunset at the Tawang War Memorial.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 5,
+   "title": "The high lakes",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 80–100 km round trip · full day",
+   "text": "A full day above 4,000 m to Pangang Teng Tso and, where the road and Army rules allow, Sangetsar. Your guide carries hot drinks and lunch. Bum La can be added with extra permission. Back to the hotel by late afternoon.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 6,
+   "title": "Back to Dirang",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 140 km · 5–6 h",
+   "text": "A slow morning in Tawang, perhaps a visit to Ani Gompa or the carpet workshops, then drive back over Sela or through the tunnel to Rungkhung Village Resort for one more night in the orchards.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 7,
+   "title": "Down to the Kameng at Bhalukpong",
+   "place": "bhalukpong",
+   "overnight": "Bhalukpong",
+   "drive": "≈ 145 km · 5–6 h",
+   "text": "Drive down through Bomdila and Tenga to the plains at Bhalukpong. In the afternoon, walk the stony bank of the Kameng. Tonight's lodge is the simplest stay of the trip; it splits what would otherwise be a 12-hour transfer to Ziro.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 8,
+   "title": "Across the plains and up to Ziro",
+   "place": "ziro",
+   "overnight": "Ziro",
+   "drive": "≈ 330 km · 9–10 h",
+   "text": "A long day. Drive east along the north bank of the Brahmaputra through Gohpur, enter Arunachal again near Itanagar, and climb through Yazali to the Ziro valley. Your driver plans tea and lunch stops. Check into Siiro Resort, above the paddies, by early evening.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 9,
+   "title": "Hong and Hari with an Apatani guide",
+   "place": "ziro",
+   "overnight": "Ziro",
+   "drive": "≈ 20 km local",
+   "text": "A guide from the Apatani community joins you for Hong, one of the largest Apatani villages, and Hari. Walk among stilt houses, granaries and clan platforms, and learn how clans share land, forest and water. Ask before photographing anyone. Lunch is a home-cooked Apatani meal in a family house, by arrangement.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 10,
+   "title": "Fields, pine groves and pike pila",
+   "place": "ziro",
+   "overnight": "Ziro",
+   "drive": "Local, mostly on foot",
+   "text": "Walk the bunds of the rice-and-fish terraces with your guide, then climb into the pine and bamboo groves the clans manage on the hills. In the evening, join an Apatani kitchen session to make pike pila and smoked meat, and hear about tapyo, the old salt made from plant ash.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 11,
+   "title": "Ziro to Donyi Polo Airport",
+   "place": "ziro",
+   "overnight": "",
+   "drive": "≈ 140 km · 4–5 h",
+   "text": "Drive down from the valley through Yazali to Donyi Polo Airport at Hollongi, near Itanagar, for an afternoon flight. If your flight is late, there is time for a stop in Itanagar on the way.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "summit-rungkhung-village-resort-dirang",
+  "vivanta-tawang",
+  "siiro-resort-ziro"
+ ],
+ "includes": [
+  "10 nights in the best available stays, twin sharing",
+  "All meals",
+  "Private SUV with an experienced driver for 11 days",
+  "Private guide throughout, plus an Apatani village guide in Ziro",
+  "All sightseeing, entry fees and e-ILP fee"
+ ],
+ "excludes": [
+  "Flights to Tezpur or Guwahati and from Donyi Polo Airport",
+  "Bum La permission and vehicle",
+  "Drinks, spa and laundry",
+  "Tips for guides and driver",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "Sela is about 4,170 m and the lakes above 4,000 m; two nights in Dirang first help with acclimatisation. Talk to your doctor if you have heart or lung conditions.",
+  "Day 8 is a long transfer of 9–10 hours; the Bhalukpong night is simple but splits the journey.",
+  "Ziro has no luxury hotel; Siiro Resort is the most comfortable stay in the valley.",
+  "Your e-ILP must list West Kameng, Tawang, Papum Pare and Lower Subansiri. Check current status before you travel.",
+  "For the Ziro Festival of Music in late September, book everything by early summer."
+ ],
+ "faqs": [
+  {
+   "q": "Why combine Tawang and Ziro in one trip?",
+   "a": "They show two very different sides of Arunachal: Buddhist Monpa highlands in the west and the Apatani farming valley in the centre. Together they give a far fuller picture than either alone."
+  },
+  {
+   "q": "What does ₹2,10,000 per person include?",
+   "a": "Ten nights in the best available stays with all meals, a private SUV and driver, a private guide throughout plus an Apatani guide in Ziro, and all fees, for two sharing. Flights, drinks and tips are extra. Indicative 2026 price."
+  },
+  {
+   "q": "Why is there a night at Bhalukpong?",
+   "a": "Tawang to Ziro is too far for one or even two comfortable days. A night at Dirang and one at Bhalukpong on the plains edge split it. The Bhalukpong lodge is simple, but the next day is shorter and safer."
+  },
+  {
+   "q": "Is Ziro comfortable enough for a signature trip?",
+   "a": "Ziro has no luxury hotel. Siiro Resort has comfortable wooden rooms with attached bathrooms and is the best stay in the valley. What makes Ziro special is time with Apatani families, which a guide arranges."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "March to April and October to November, when both Tawang and Ziro are at their best. Late September brings the Ziro Festival of Music but some rain. Winter is possible but cold in Tawang."
+  },
+  {
+   "q": "Will altitude be a problem?",
+   "a": "Only on the Tawang section, where Sela and the lakes are above 4,000 m. Two nights in Dirang first help most people. Ziro is at about 1,500–1,700 m."
+  },
+  {
+   "q": "Can we fly out of Ziro?",
+   "a": "Ziro's small airport has had limited regional flights. Donyi Polo Airport near Itanagar is more reliable, about 4–5 hours by road. Check current status before you travel."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, for seniors in good health who can manage several long drives. The pace includes rest days, and the guide can adapt walks. Talk to your doctor about the altitude on the Tawang days."
+  },
+  {
+   "q": "Which permits do we need?",
+   "a": "Indian visitors need an Inner Line Permit listing West Kameng, Tawang, Papum Pare and Lower Subansiri; we arrange it. Foreign nationals need a Protected Area Permit through a registered operator. Check current status before you travel."
+  }
+ ]
+}

@@ -7,6 +7,7 @@
 {% block fab_label %}Plan {{ r.name }} on a budget{% endblock %}{% block fab_land %}&land={{ r.slug }}{% endblock %}
 {% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
 {% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Plan "|add:r.name|add:" on a Saver budget" %}{% endblock %}
+{% block head_extra %}<style>.costs div { grid-template-columns: minmax(0, 1fr) auto; } @media (max-width: 760px) { .costs b { white-space: normal; max-width: 46vw; } }</style>{% endblock %}
 {% block content %}
 <header class="phead ground">
   {% topo r.slug|add:"-budget" %}
@@ -68,12 +69,12 @@
 
 {% if costs or r.money_savers %}<section class="sec sec--tint">
   <div class="wrap grid grid--2" style="align-items:start">
-    {% if costs %}<div>
+    {% if costs %}<div style="min-width:0">
       <p class="eyebrow">Real prices</p><h2 class="d-2" style="margin-bottom:18px">What things cost in {{ r.name }}</h2>
       <div class="costs"><div class="costs__head"><span>Item</span><b>Indicative 2026</b></div>{% for c in costs %}<div><span>{{ c.row.0 }} <a class="readout" href="{{ c.place.url }}" style="text-decoration:none">· {{ c.place.name }}</a></span><b>{{ c.row.1 }}</b></div>{% endfor %}</div>
       <p class="small muted" style="margin-top:12px">Local prices change with season and fuel costs. Check current status before you travel.</p>
     </div>{% endif %}
-    {% if r.money_savers %}<div>
+    {% if r.money_savers %}<div style="min-width:0">
       <p class="eyebrow">Spend less</p><h2 class="d-2" style="margin-bottom:18px">Ways to save in {{ r.name }}</h2>
       <div class="panel"><div class="prose" style="font-size:17px"><ul>{% for m in r.money_savers %}<li>{{ m }}</li>{% endfor %}</ul></div></div>
     </div>{% endif %}

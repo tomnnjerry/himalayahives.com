@@ -7,10 +7,10 @@
 .bb__form { background: var(--card); padding: clamp(20px, 3vw, 32px); clip-path: var(--chamfer); }
 .bb__form fieldset { border: 0; padding: 0; margin: 0 0 18px; }
 .bb__tiers { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
-.bb__tiers label { display: grid; gap: 4px; padding: 12px; border: 1.5px solid var(--rule-2); background: var(--paper); cursor: pointer; text-transform: none; letter-spacing: 0; font: 600 16px/1.2 var(--text); color: var(--ink); }
+.bb__tiers label { position: relative; display: grid; gap: 4px; padding: 12px; border: 1.5px solid var(--rule-2); background: var(--paper); cursor: pointer; text-transform: none; letter-spacing: 0; font: 600 16px/1.2 var(--text); color: var(--ink); }
 .bb__tiers label small { font: 400 11px/1.3 var(--mono); color: var(--muted); }
 .bb__tiers label:has(input:checked) { border-color: var(--ink); background: var(--wax); }
-.bb__tiers input { position: absolute; opacity: 0; pointer-events: none; }
+.bb__tiers input { position: absolute; top: 0; left: 0; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
 .bb__tiers label:focus-within { outline: 3px solid var(--honey); outline-offset: 2px; }
 .bb__step { display: grid; grid-template-columns: 48px minmax(0, 1fr) 48px; }
 .bb__step button { border: 1.5px solid var(--rule-2); background: var(--paper-2); font: 600 20px/1 var(--mono); cursor: pointer; }
@@ -21,7 +21,7 @@
 .bb__out .ledger__row { border-color: rgba(255,255,255,.16); }
 .bb__out .ledger__dots { border-color: rgba(255,255,255,.25); }
 .bb__out .ledger__row > span:first-child { color: rgba(255,255,255,.72); }
-@media (max-width: 980px) { .bb { grid-template-columns: 1fr; } .bb__out { position: static; } }
+@media (max-width: 980px) { .bb { grid-template-columns: minmax(0, 1fr); } .bb__out { position: static; } }
 @media (max-width: 420px) { .bb__tiers { grid-template-columns: 1fr; } }
 </style>{% endblock %}
 {% block content %}
@@ -85,7 +85,7 @@
   <div class="wrap">
     <div class="sec-head"><div><p class="eyebrow">The numbers behind it</p><h2 class="d-1">Per-day costs in every hive</h2><p class="lede">Per person, per day, indicative 2026, once you are in the hive.</p></div>
       <a class="link" href="{% url 'affordable' %}">The affordable Himalaya {% icon "arrow" %}</a></div>
-    <div class="tablewrap"><table class="table">
+    <div class="tablewrap" style="position:relative"><table class="table">
       <thead><tr><th scope="col">Hive</th><th scope="col">Saver</th><th scope="col">Comfort</th><th scope="col">Signature</th></tr></thead>
       <tbody>{% for r in regions %}<tr><td><a href="{{ r.url }}#budget" style="font-weight:600">{{ r.name }}</a></td>
         <td class="mono">{% for b in r.budget_rows %}{% if b.tier == "saver" %}₹{{ b.per_day_inr }}{% endif %}{% empty %}<span class="muted">—</span>{% endfor %}</td>

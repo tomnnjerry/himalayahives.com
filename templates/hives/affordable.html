@@ -47,7 +47,7 @@
   <div class="wrap">
     <div class="sec-head"><div><p class="eyebrow">Hive by hive</p><h2 class="d-1">What a Saver day costs in each hive</h2>
       <p class="lede">Per person, per day, once you are in the hive: bed, food and local transport. The cheapest months are the ones with low prices and weather that still works.</p></div></div>
-    <div class="tablewrap"><table class="table">
+    <div class="tablewrap" style="position:relative"><table class="table">
       <thead><tr><th scope="col">Hive</th><th scope="col">Saver day</th><th scope="col">Saver trips from</th><th scope="col">Cheapest months</th><th scope="col"><span class="sr-only">Link</span></th></tr></thead>
       <tbody>{% for row in rows %}<tr data-land="{{ row.r.slug }}">
         <th scope="row" style="background:transparent;color:var(--ink);font:400 19px/1.2 var(--display);text-transform:none;letter-spacing:0"><a href="{{ row.r.url }}" style="text-decoration:none;display:flex;align-items:center;gap:10px"><span class="hbadge hbadge--sm hbadge--foil">{% icon row.r.slug %}</span>{{ row.r.name }}</a></th>

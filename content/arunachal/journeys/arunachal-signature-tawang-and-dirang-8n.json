@@ -1,0 +1,207 @@
+{
+ "slug": "arunachal-signature-tawang-and-dirang-8n",
+ "title": "Tawang and Dirang in comfort",
+ "region": "arunachal",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "monasteries",
+  "honeymoons",
+  "road-trips",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "dirang",
+   "nights": 2
+  },
+  {
+   "place": "tawang",
+   "nights": 4
+  },
+  {
+   "place": "dirang",
+   "nights": 2
+  }
+ ],
+ "start": "Tezpur airport (or Guwahati, adding 3–4 hours)",
+ "end": "Tezpur airport or Guwahati",
+ "price_from_inr": 160000,
+ "price_note": "Per person, twin sharing: 4 nights at Rungkhung Village Resort and 4 at Vivanta Tawang, all meals, private SUV with driver, private guide throughout, all sightseeing and e-ILP; flights extra.",
+ "transport": "Private SUV with driver and private guide",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Signature Tawang trip, 8 nights at Rungkhung Village Resort and Vivanta Tawang with a private guide: Sela, the monastery, Urgelling and the high lakes, from ₹1,60,000.",
+ "summary": "Eight unhurried nights in western Arunachal at its two best hotels: Rungkhung Village Resort in the Dirang valley and Vivanta Tawang. A private guide and SUV take you over Sela to Tawang Monastery, Urgelling, the high lakes and Monpa craft workshops, with time to rest between the big days.",
+ "intro": [
+  "This is the Tawang trip without the rush. We split eight nights between the orchards of Dirang and the hills of Tawang, so no day has more than one long drive and the climb to about 4,170 m at Sela comes after two easy nights at about 1,600 m. A private guide travels with you throughout, explaining Monpa history, Buddhist practice and the war history of the road.",
+  "Rungkhung Village Resort, part of Summit Hotels' Signature Collection, sits among kiwi and orange orchards above the Dirang river. Vivanta Tawang, a Taj-group hotel opened in December 2023, has heated rooms and mountain views a short drive from the monastery. Four nights in Tawang allow a full monastery day, a lakes day, a day for Urgelling and the paper and carpet workshops, and a spare day for weather."
+ ],
+ "highlights": [
+  "Four nights at Vivanta Tawang, the most comfortable hotel in Arunachal",
+  "Four nights among the orchards at Rungkhung Village Resort",
+  "Morning prayers and the gold-lettered library at Tawang Monastery",
+  "The high lakes and Sela with time to stop",
+  "Mon shugu paper and Monpa carpets made by hand"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Tezpur to the Dirang valley",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 200 km · 6–7 h",
+   "text": "Your guide and driver meet you at Tezpur airport. Drive north through the tea gardens to the Bhalukpong check gate, stop at the Tipi orchid centre, then climb through Tenga and Bomdila and down into the Dirang valley. Check into Rungkhung Village Resort among the orchards and rest. If you arrive via Guwahati, add 3–4 hours or a night in Guwahati.",
+   "meals": "Lunch, dinner"
+  },
+  {
+   "day": 2,
+   "title": "Dirang Dzong, Sangti and the orchards",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 40 km local",
+   "text": "A slow acclimatisation day. Your guide takes you through Dirang Dzong, the stone village with its old fortified houses, and down to the hot springs. After lunch, drive to the Sangti valley for a gentle walk along the river flat, where black-necked cranes have been recorded in winter. Back for an evening on the terrace.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 3,
+   "title": "Sela Pass and on to Tawang",
+   "place": "sela-pass",
+   "overnight": "Tawang",
+   "drive": "≈ 140 km · 6–7 h with stops",
+   "text": "Leave after an early breakfast. Take the old road over Sela Pass, about 4,170 m, when it is open, for the lake and the prayer-flag gate; your guide watches for any signs of altitude discomfort. Descend to the Jaswantgarh memorial, where your guide tells the story of the 1962 battle, and Nuranang Falls near Jang. Arrive at Vivanta Tawang by mid-afternoon and rest.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 4,
+   "title": "A day at Tawang Monastery",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 10 km local",
+   "text": "Go early for morning prayers in the assembly hall of Tawang Monastery, founded in 1680–81. Your guide explains the murals, the giant Buddha image and the monastic routine. Visit the museum and the library, where handwritten scriptures lettered in gold are kept. After lunch, rest at the hotel, then visit the Tawang War Memorial at sunset.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 5,
+   "title": "The high lakes",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 80–100 km round trip · full day",
+   "text": "A full day above 4,000 m. Drive through yak pastures to Pangang Teng Tso and, where the road and Army rules allow, to Sangetsar beyond. Your guide carries hot drinks and a packed lunch. If you have obtained extra permission for Bum La, it can be visited today. Return to the hotel by late afternoon.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 6,
+   "title": "Urgelling, Ani Gompa and Monpa crafts",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 25 km local",
+   "text": "Visit Urgelling, the temple where the 6th Dalai Lama was born in 1683, and Ani Gompa, a nunnery on a ridge above town, if open. In the afternoon, see Mon shugu paper being made from the bark of a local shrub, and visit a carpet workshop. The afternoon is free for the market or rest. This day doubles as a buffer if weather disrupts the lakes day.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 7,
+   "title": "Back to Dirang",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 140 km · 5–6 h",
+   "text": "A relaxed morning, then drive back over Sela or through the tunnel to Dirang. If the morning is clear, stop again at Sela for photographs. Settle in at Rungkhung Village Resort for two final nights.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 8,
+   "title": "A free day in the valley",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "Optional",
+   "text": "A day to slow down. Walk in the orchards, visit the yak research centre if it is open to visitors, or take a gentle hike with your guide to a village above the valley. Birders can go out early with a local bird guide. Farewell dinner at the resort.",
+   "meals": "Breakfast, lunch, dinner"
+  },
+  {
+   "day": 9,
+   "title": "Dirang to Tezpur",
+   "place": "dirang",
+   "overnight": "",
+   "drive": "≈ 200 km · 6–7 h",
+   "text": "Leave after breakfast for the drive down through Bomdila, Tenga and Bhalukpong to Tezpur airport, or on to Guwahati for an evening flight. Your guide will time the drive to your departure.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "summit-rungkhung-village-resort-dirang",
+  "vivanta-tawang"
+ ],
+ "includes": [
+  "4 nights at Rungkhung Village Resort and 4 nights at Vivanta Tawang, twin sharing",
+  "All meals",
+  "Private SUV with an experienced mountain driver",
+  "Private English- or Hindi-speaking guide throughout",
+  "All sightseeing, entry fees and e-ILP fee"
+ ],
+ "excludes": [
+  "Flights to Tezpur or Guwahati",
+  "Bum La permission and vehicle",
+  "Drinks, spa and laundry",
+  "Tips for guide and driver",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "Two nights at Dirang before Tawang help acclimatisation; Sela is about 4,170 m and the lakes above 4,000 m. Talk to your doctor if you have heart or lung conditions.",
+  "Tezpur flights are limited; Guwahati adds 3–4 hours each way.",
+  "Book Vivanta Tawang early for October, May and Torgya in January.",
+  "Your e-ILP must list West Kameng and Tawang. Foreigners need a Protected Area Permit. Check current status before you travel.",
+  "High lakes and Bum La access depend on weather, Army rules and extra permits."
+ ],
+ "faqs": [
+  {
+   "q": "Why is this trip ₹1,60,000 per person?",
+   "a": "It uses the two best hotels in western Arunachal for all eight nights, includes all meals, a private SUV and a private guide for nine days, and all fees. Prices are indicative for 2026, for two sharing; peak dates and larger rooms cost more."
+  },
+  {
+   "q": "Is Vivanta Tawang really the best hotel in Arunachal?",
+   "a": "It is the most comfortable we know: a Taj-group property opened in December 2023, with heated rooms and full hotel service. Nothing else in Tawang offers the same level of comfort."
+  },
+  {
+   "q": "Can honeymooners do this trip?",
+   "a": "Yes. It is unhurried, the hotels are the best in the region and you have privacy with your own car and guide. Spring and October are the most comfortable months."
+  },
+  {
+   "q": "Will altitude be a problem?",
+   "a": "Tawang is about 2,670 m, Sela about 4,170 m and the lakes above 4,000 m. With two nights in Dirang first most people manage well, but some get headaches. Your guide will adjust the plan. Talk to your doctor before you go if you have health conditions."
+  },
+  {
+   "q": "Can we visit during Torgya?",
+   "a": "Yes. Torgya is usually in January. Book Vivanta Tawang months ahead, and expect cold nights well below freezing. Check current status before you travel for exact dates."
+  },
+  {
+   "q": "Can we fly from Tezpur?",
+   "a": "Tezpur has limited flights, mostly to Kolkata. Many guests fly into Guwahati instead; we then add 3–4 hours of driving or a night in Guwahati at each end."
+  },
+  {
+   "q": "Is a guide really necessary?",
+   "a": "Not for logistics, but a good guide explains what you are seeing: monastic life, Monpa history, the 1962 war, crafts and wildlife. On a signature trip it is a large part of the value."
+  },
+  {
+   "q": "What should we pack?",
+   "a": "Warm layers including a down jacket, thermals, gloves and a hat; comfortable walking shoes; sunglasses and sun cream for the high lakes; any medicines; and printouts of your permits."
+  },
+  {
+   "q": "Can the trip be extended to Ziro?",
+   "a": "Yes. We can add four to five nights in Ziro, driving via Bhalukpong and the Assam plains. See our Monpa and Apatani signature trip for that route."
+  }
+ ]
+}

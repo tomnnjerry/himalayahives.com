@@ -1,0 +1,309 @@
+{
+ "slug": "ravangla",
+ "name": "Ravangla",
+ "region": "sikkim",
+ "kind": "town",
+ "wiki": "Ravangla",
+ "image_query": "Buddha Park Ravangla Sikkim",
+ "lat": 27.31,
+ "lng": 88.36,
+ "altitude_m": 2100,
+ "tagline": "A ridge town with a giant Buddha and Sikkim's only tea garden",
+ "meta_description": "Ravangla guide: Buddha Park and its 130 ft statue, Ralang monastery, Temi tea garden, Maenam hill, stays, costs and the road from Gangtok and Pelling.",
+ "summary": "Ravangla is a small town at about 2,100 m in South Sikkim, on the ridge between Gangtok and Pelling. It is known for Buddha Park, with a 130-foot statue of the Buddha consecrated in 2013, Ralang monastery and nearby Temi, Sikkim's only tea estate. Plan one or two nights as a stop on the west Sikkim loop.",
+ "intro": [
+  "Ravangla sits on a saddle below Maenam hill, a cluster of hotels, shops and monasteries along the road that links South and West Sikkim. It is cooler and quieter than Gangtok, with long views west to Kangchenjunga on clear mornings and a steady flow of monks and pilgrims between its gompas.",
+  "Its best-known sight is Buddha Park, or Tathagata Tsal, just outside town. A 130-foot statue of the Buddha stands on a platform above landscaped gardens and a pilgrimage path, consecrated by the Dalai Lama in 2013 to mark the 2,550th anniversary of the Buddha's birth. Nearby, Ralang monastery and the Kagyu monastic institute below it are important centres for the Pang Lhabsol and Kagyed dances.",
+  "Ravangla is also the base for Maenam hill and the wildlife sanctuary around it, and for Temi tea garden on the slopes of Tendong hill, about 20 km away. Most travellers stop here for a night on the way between Gangtok and Pelling, but two nights give time for the tea garden and a walk."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Mar – May, Oct – Dec"
+  ],
+  [
+   "Nights we suggest",
+   "1–2"
+  ],
+  [
+   "Nearest airport",
+   "Bagdogra (≈ 120 km · 4.5–5 h)"
+  ],
+  [
+   "From Gangtok",
+   "≈ 65 km · 2.5–3 h via Singtam and Damthang"
+  ],
+  [
+   "Altitude",
+   "about 2,100 m"
+  ],
+  [
+   "Known for",
+   "Buddha Park, Ralang monastery, Temi tea garden, Maenam hill"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "nights": "1–2",
+ "highlights": [
+  {
+   "title": "Buddha Park (Tathagata Tsal)",
+   "text": "A 130-foot statue of the Buddha on a ridge just outside Ravangla, consecrated in 2013, with landscaped gardens, a museum and a circular pilgrimage path. Early morning light and Kangchenjunga in the background make it the town's main sight."
+  },
+  {
+   "title": "Ralang monastery",
+   "text": "About 13 km from Ravangla, Ralang holds an old Kagyu monastery and the newer Palchen Choeling monastic institute, a large complex known for its masked dances during Pang Lhabsol and other festivals."
+  },
+  {
+   "title": "Temi tea garden",
+   "text": "Sikkim's only tea estate, established in 1969, covers the slopes of Tendong hill about 20 km from Ravangla. Walk the tea terraces in the morning and buy a pack of Temi tea from the estate shop."
+  },
+  {
+   "title": "Maenam hill and sanctuary",
+   "text": "Above Ravangla, Maenam hill rises to over 3,200 m within the Maenam wildlife sanctuary. A full-day trail climbs through forest to the summit for wide views; go with a local guide."
+  },
+  {
+   "title": "Sunrise from the ridge",
+   "text": "On clear mornings from October to December, the ridge around Ravangla catches early light on Kangchenjunga and the western peaks. Many hotels face west for this view."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "The Buddha statue at Ravangla's Buddha Park, also called Tathagata Tsal, stands about 130 feet high and was consecrated by the 14th Dalai Lama in March 2013 to mark the 2,550th anniversary of the Buddha's birth.",
+   "source": "Buddha Park of Ravangla"
+  },
+  {
+   "fact": "Temi tea garden, established by the Government of Sikkim in 1969, is the only tea estate in the state, and its tea is grown on the slopes of Tendong hill.",
+   "source": "Temi Tea Garden"
+  },
+  {
+   "fact": "Lepcha tradition holds that Tendong hill, above the Temi tea garden, rose to save the Lepcha people from a great flood, and the hill is honoured in an annual festival.",
+   "source": "Tendong Hill"
+  }
+ ],
+ "local_word": {
+  "word": "Tathagata",
+  "language": "Pali / Sanskrit",
+  "meaning": "one who has thus gone, a title of the Buddha that gives Buddha Park its name, Tathagata Tsal"
+ },
+ "costs": [
+  [
+   "Shared jeep seat, Gangtok–Ravangla",
+   "₹200–350"
+  ],
+  [
+   "Private taxi, Gangtok–Ravangla",
+   "₹2,500–3,500 one way"
+  ],
+  [
+   "Buddha Park entry",
+   "₹50–100"
+  ],
+  [
+   "Taxi to Temi tea garden and back",
+   "₹1,500–2,500"
+  ],
+  [
+   "Guide for Maenam hill trek",
+   "₹1,500–2,500 per group"
+  ],
+  [
+   "Pack of Temi tea",
+   "₹200–600"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Road",
+   "text": "Ravangla is about 65 km from Gangtok via Singtam and Damthang, 2.5–3 hours, and about 45 km from Pelling via Legship, 2–2.5 hours. Shared jeeps run from Gangtok, Namchi and Jorethang. Landslides are common in the monsoon; check current status before you travel."
+  },
+  {
+   "mode": "Rail",
+   "text": "New Jalpaiguri is the nearest major railway station, about 115 km away. Shared jeeps go from Siliguri to Jorethang or Namchi, then on to Ravangla."
+  },
+  {
+   "mode": "Air",
+   "text": "Bagdogra Airport is about 120 km away, 4.5–5 hours by road via Melli and Namchi or via Singtam."
+  }
+ ],
+ "where_to_stay": "Saver: small hotels and guesthouses along the main road charge about ₹1,200–2,500 for a double, often with simple meals. Comfort: a few resorts and larger hotels on the edges of town have west-facing rooms with views of Kangchenjunga; ask your agency for current picks. Ravangla has no luxury hotel; signature trips usually pass through for the day and stay in Pelling or Gangtok.",
+ "stays": [],
+ "tips": [
+  "Visit Buddha Park early in the morning, when the light is soft and crowds small.",
+  "Combine Temi tea garden with Namchi if you are heading south.",
+  "Carry a warm layer; evenings at 2,100 m are cool even in summer.",
+  "Book a local guide for the Maenam hill trail; it is long and paths can be unclear.",
+  "Respect monastery rules on dress, photography and walking clockwise."
+ ],
+ "themes": [
+  "monasteries",
+  "food-and-tea",
+  "festivals",
+  "treks-and-walks"
+ ],
+ "nearby": [
+  "pelling",
+  "gangtok",
+  "yuksom"
+ ],
+ "experiences": [
+  {
+   "slug": "ravangla-buddha-park-tathagata-tsal",
+   "title": "Buddha Park and the 130-foot statue",
+   "kind": "spiritual",
+   "duration": "2 hours",
+   "best_time": "7–10 am, all year",
+   "cost": "Entry ₹50–100",
+   "image_query": "Buddha Park Ravangla statue",
+   "wiki": "Buddha Park of Ravangla",
+   "summary": "Walk the gardens and pilgrimage path of Buddha Park, or Tathagata Tsal, where a 130-foot statue of the Buddha stands on a ridge above Ravangla. Visit the small museum inside the base and watch the light change on the statue and peaks behind.",
+   "body": [
+    "Buddha Park lies a short drive or walk from Ravangla, on a ridge surrounded by forest. It was built by the Government of Sikkim and consecrated in March 2013 by the 14th Dalai Lama. The statue of the Buddha, about 130 feet high, stands on a large platform with steps leading up, and on clear days Kangchenjunga rises behind it.",
+    "Inside the base of the statue is a small museum and prayer hall with murals of the Buddha's life. Around the platform, a circular path lets pilgrims walk clockwise. The surrounding gardens include ponds, lawns and prayer flags, and there is a large car park with cafes at the entrance.",
+    "Mornings are best for light and quiet. Dress modestly, remove shoes inside the prayer hall and do not climb on the statue platform beyond marked areas. The site is busy with families on holidays, so arrive early. Allow two hours to walk the grounds slowly."
+   ],
+   "good_for": [
+    "families",
+    "seniors",
+    "photographers",
+    "first-timers"
+   ],
+   "faqs": [
+    {
+     "q": "How tall is the Buddha statue at Ravangla?",
+     "a": "The statue at Buddha Park is about 130 feet, roughly 40 m, high. It was consecrated by the Dalai Lama in March 2013."
+    },
+    {
+     "q": "What is the entry fee for Buddha Park Ravangla?",
+     "a": "Entry has been about ₹50–100 for Indian visitors, with separate rates for foreigners. Fees change; check current status before you travel."
+    },
+    {
+     "q": "When is Buddha Park open?",
+     "a": "It is generally open from morning to late afternoon every day. Go early for soft light and fewer visitors."
+    }
+   ]
+  },
+  {
+   "slug": "ravangla-temi-tea-garden-walk",
+   "title": "A morning in Temi tea garden",
+   "kind": "food",
+   "duration": "Half day",
+   "best_time": "8–11 am, Mar–Nov",
+   "cost": "Taxi ₹1,500–2,500 return; free to walk",
+   "image_query": "Temi Tea Garden Sikkim",
+   "wiki": "Temi Tea Garden",
+   "summary": "Drive about 20 km from Ravangla to Temi, Sikkim's only tea estate, set up by the state government in 1969. Walk among the terraced bushes on the slopes of Tendong hill, watch pluckers at work in season and buy tea from the estate's shop.",
+   "body": [
+    "Temi tea garden spreads across the hillside below Tendong, with rows of tea bushes following the contours and shade trees between them. The estate was established by the Government of Sikkim in 1969 and remains the state's only tea garden. Its tea is sold under the Temi name and is grown organically.",
+    "Plucking runs from about March to November, with the first flush in spring and the autumn flush in October. In the morning, you may see pluckers working the rows with baskets. A walking track runs through the estate, and several viewpoints look out over the terraces to the valley and, on clear days, the mountains.",
+    "The estate has a small shop and a guesthouse; you can buy tea in packs to take home. Do not walk between bushes or pick leaves. Combine Temi with Namchi's Samdruptse statue or the Char Dham complex if you have a full day."
+   ],
+   "good_for": [
+    "couples",
+    "families",
+    "photographers",
+    "seniors"
+   ],
+   "faqs": [
+    {
+     "q": "How far is Temi tea garden from Ravangla?",
+     "a": "About 20 km, 45 minutes to an hour by road. A taxi for a half-day return trip costs about ₹1,500–2,500."
+    },
+    {
+     "q": "Can I buy tea at Temi tea garden?",
+     "a": "Yes, the estate sells packs of Temi tea in different grades at its shop. Prices start at a few hundred rupees."
+    },
+    {
+     "q": "When is the best time to visit Temi tea garden?",
+     "a": "March to May for the first flush and October to November for clear views and the autumn flush. Mornings are best."
+    }
+   ]
+  },
+  {
+   "slug": "ravangla-ralang-monastery",
+   "title": "Ralang monastery and its masked dances",
+   "kind": "culture",
+   "duration": "Half day",
+   "best_time": "Morning; festival days Aug–Sep and Dec",
+   "cost": "Free; taxi ₹1,200–2,000 return",
+   "image_query": "Ralang Monastery Sikkim",
+   "wiki": "Ralang Monastery",
+   "summary": "Visit Ralang, about 13 km from Ravangla, home to an old Kagyu monastery and the large Palchen Choeling monastic institute. On festival days, it hosts some of Sikkim's most important masked dances, including those of Pang Lhabsol and the Kagyed.",
+   "body": [
+    "Ralang lies below Ravangla, reached by a winding road through forest and villages. The old monastery, founded in the 18th century, is small and quiet. Below it, Palchen Choeling, the newer monastic institute, is a large complex with a richly decorated assembly hall, a courtyard for dances and hundreds of young monks in training.",
+    "Ralang is known for its cham dances. During Pang Lhabsol, which honours Kangchenjunga as Sikkim's guardian deity, and the Kagyed dance at the end of the Tibetan year, monks perform masked dances in the courtyard in elaborate costumes, accompanied by long horns, drums and cymbals. Dates follow the lunar calendar.",
+    "Visit in the morning to hear prayers and see daily life. On festival days, arrive early for a good spot, dress modestly and follow monks' instructions on photography. Ask your hotel in Ravangla for the year's dates and check current status before you travel."
+   ],
+   "good_for": [
+    "photographers",
+    "couples",
+    "students",
+    "seniors"
+   ],
+   "faqs": [
+    {
+     "q": "How far is Ralang monastery from Ravangla?",
+     "a": "About 13 km, 30–45 minutes by road. A taxi return trip costs about ₹1,200–2,000."
+    },
+    {
+     "q": "When are the masked dances at Ralang?",
+     "a": "During Pang Lhabsol in August or September and the Kagyed in the Tibetan twelfth month, usually December. Dates follow the lunar calendar; check current status before you travel."
+    },
+    {
+     "q": "Can I photograph the dances at Ralang?",
+     "a": "Usually you can photograph the courtyard dances, but not inside the prayer hall. Follow monks' instructions, do not use flash and do not step into the dance area."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How far is Ravangla from Gangtok?",
+   "a": "About 65 km via Singtam and Damthang, 2.5–3 hours by road. Shared jeeps run from Gangtok; a private taxi costs about ₹2,500–3,500."
+  },
+  {
+   "q": "How far is Ravangla from Pelling?",
+   "a": "About 45 km via Legship, 2–2.5 hours. Many travellers stop at Ravangla on the way between Gangtok and Pelling."
+  },
+  {
+   "q": "What is the best time to visit Ravangla?",
+   "a": "March to May and October to December. Spring brings flowers and clear mornings; autumn has the best mountain views. June to September is rainy and roads can close."
+  },
+  {
+   "q": "Is one night enough in Ravangla?",
+   "a": "One night covers Buddha Park and Ralang monastery. Two nights let you add Temi tea garden, Maenam hill or a slower morning."
+  },
+  {
+   "q": "Do I need a permit for Ravangla?",
+   "a": "Indian nationals do not need a permit. Foreign nationals need the Sikkim Restricted Area Permit, which covers Ravangla. Check current status before you travel."
+  },
+  {
+   "q": "Is Ravangla good for families?",
+   "a": "Yes. Buddha Park has wide paths and gardens, the altitude of about 2,100 m is comfortable, and drives to Temi and Ralang are short."
+  },
+  {
+   "q": "Is there mobile network and ATM in Ravangla?",
+   "a": "Yes, Ravangla has mobile coverage and at least one ATM, though it can run out. Carry some cash as a backup."
+  },
+  {
+   "q": "What is Ravangla famous for?",
+   "a": "Buddha Park and its 130-foot statue, Ralang monastery and its masked dances, Temi tea garden nearby and the Maenam hill trek."
+  },
+  {
+   "q": "Can I see Kangchenjunga from Ravangla?",
+   "a": "Yes, on clear mornings, especially from October to December. Ask for a west-facing room and set an alarm for sunrise."
+  }
+ ]
+}
