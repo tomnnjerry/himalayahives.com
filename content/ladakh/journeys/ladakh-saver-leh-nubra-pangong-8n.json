@@ -1,0 +1,215 @@
+{
+ "slug": "ladakh-saver-leh-nubra-pangong-8n",
+ "title": "Leh, Nubra and Pangong by bus and shared jeep",
+ "region": "ladakh",
+ "tier": "saver",
+ "nights": 8,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "homestays-and-villages",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "leh",
+   "nights": 3
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 2
+  },
+  {
+   "place": "leh",
+   "nights": 1
+  },
+  {
+   "place": "pangong-tso",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 1
+  }
+ ],
+ "start": "Leh airport",
+ "end": "Leh airport",
+ "price_from_inr": 23500,
+ "price_note": "Per person, twin sharing: 8 nights in Leh guesthouses or hostel private rooms and Nubra and Pangong homestays with dinner and breakfast, buses, shared taxi seats, environment fee and monastery entries; flights to Leh extra.",
+ "transport": "State bus over Khardung La, shared taxis to Nubra and Pangong, local buses in the Indus valley",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Saver Ladakh trip, 8 nights: two rest days in Leh, the bus over Khardung La to Nubra, a Pangong homestay by shared jeep. From ₹23,500 per person.",
+ "summary": "Eight nights of the classic Ladakh circuit at honest saver prices: two real rest days in Leh, the Indus monasteries by local bus, the state bus over Khardung La to Nubra, and a shared jeep to a family homestay on Pangong's shore. Simple rooms, real Ladakhi food and a sensible climb in altitude.",
+ "intro": [
+  "This is the trip we suggest to students, young couples and solo travellers flying into Leh for the first time. It follows the circuit almost everyone wants, Leh, Nubra and Pangong, but uses the bus stand and shared taxis instead of a private car for the whole week. That cuts the cost by more than half. The trade-off is fixed departure times, cramped seats and simple homestays with shared bathrooms in places.",
+  "The order is chosen for your body, not the map. You fly to 3,500 m, so the first two days are rest. Then the Indus valley monasteries, which are at Leh's height. Nubra comes next: you cross Khardung La but sleep lower, at about 3,100 m. Pangong, at about 4,250 m, comes only on night seven, after you have had time to adjust. A last night in Leh means no risky same-day dash to the airport."
+ ],
+ "highlights": [
+  "Two unhurried days in Leh's old town and Changspa lanes",
+  "Thiksey's morning prayers reached by local bus",
+  "The state bus over Khardung La for a few hundred rupees",
+  "Diskit's Maitreya and the Hunder dunes at dawn",
+  "A family homestay night at Spangmik on Pangong's shore"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Fly into Leh and rest",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "",
+   "text": "Land at Leh's Kushok Bakula Rimpochee airport in the morning and take a pre-paid union taxi to your guesthouse in Changspa or Karzoo for ₹400–600. Then do almost nothing. Drink water, eat a light lunch, skip alcohol and avoid stairs and long walks. Sleep in the afternoon if you want. In the evening, stroll slowly to Main Bazaar for thukpa. Most first-day headaches are mild; tell your host if you feel unwell.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Slow day in old Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "",
+   "text": "Take the morning gently. Walk through the old town lanes below Leh Palace, stopping often, and visit the palace if you feel fine, taking the stairs slowly. Spend the afternoon in a garden cafe and buy dried apricots from village women along Main Bazaar. Pay your Ladakh environment fee online and print three copies for Nubra and Pangong. Book your seats for the Diskit bus at the bus stand or ask your guesthouse to help.",
+   "meals": "None"
+  },
+  {
+   "day": 3,
+   "title": "Indus valley monasteries by local bus",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "≈ 40 km round trip · local buses",
+   "text": "Catch an early local bus or shared van from Leh towards Thiksey, about 19 km, for ₹30–60, and arrive for morning prayers around 7 am. Afterwards walk or hop a bus to Shey palace and its seated Buddha. Back in Leh by lunch, rest, then take a taxi to Shanti Stupa for sunset if you feel strong. Today you are at Leh's height, so it doubles as your third day of acclimatisation.",
+   "meals": "None"
+  },
+  {
+   "day": 4,
+   "title": "Bus over Khardung La to Nubra",
+   "place": "nubra-valley",
+   "overnight": "Diskit or Hunder homestay",
+   "drive": "≈ 120 km · 5–6 h",
+   "text": "Be at Leh bus stand early for the Diskit bus, about ₹200–300. The road climbs to South Pullu, where documents are checked, and on to Khardung La at 5,359 m. The stop at the top is short, which is good for you. The bus drops through North Pullu and Khardung village to Diskit by early afternoon. Check into a homestay in Diskit or take a local shared taxi to Hunder, 10 km on.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Diskit Monastery and Hunder dunes",
+   "place": "nubra-valley",
+   "overnight": "Diskit or Hunder homestay",
+   "drive": "≈ 20 km · local taxi",
+   "text": "Start with Diskit Monastery and the 32 m Maitreya statue that faces down the Shyok valley; morning prayers are the best time. In the afternoon rest in your homestay's garden, then walk to the Hunder dunes in the late afternoon. A short Bactrian camel ride costs around ₹500–800, or you can just watch the camels in the low light. Ask your host to help find shared taxi seats back to Leh tomorrow.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Shared taxi back to Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "≈ 120 km · 4–5 h",
+   "text": "Leave Nubra by about 8 am in a shared taxi, roughly ₹800–1,200 a seat, to cross Khardung La before the afternoon melt and traffic. Back in Leh by early afternoon, rest and do laundry. Confirm your shared seat to Pangong for the next morning; agencies along Main Bazaar and Changspa post departures on notice boards. Eat an early dinner and sleep well: tomorrow is the highest night of the trip.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Over Chang La to a Pangong homestay",
+   "place": "pangong-tso",
+   "overnight": "Spangmik or Man homestay",
+   "drive": "≈ 160 km · 5–6 h",
+   "text": "Shared cars to Pangong leave Leh around 6.30–7 am. The road passes Karu, climbs to Chang La at about 5,360 m, and drops through Durbuk and the Tangtse checkpost to the lake. Get dropped at Spangmik or Man rather than the busy Lukung camps. Settle into a family homestay, keep the afternoon easy, and walk slowly to the shore for evening light. Nights are below freezing, so wear everything you brought.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Pangong sunrise, back to Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "≈ 160 km · 5–6 h",
+   "text": "Wake early for sunrise over the lake, then a hot breakfast with your hosts. Shared cars return to Leh in the morning, with a tea stop at Tangtse or Durbuk. You will be back in Leh by mid-afternoon. Spend a quiet last evening in Changspa, buy apricot jam or pashmina from a fixed-price cooperative shop, and pack. A last night in Leh means you are not racing a morning flight from the lake.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 9,
+   "title": "Fly out of Leh",
+   "place": "leh",
+   "overnight": "",
+   "drive": "≈ 4 km to the airport",
+   "text": "Leh flights leave in the morning, so head to the airport early: security queues can be long in June and July, and the terminal is small. A union taxi from Changspa costs about ₹400–600. If your flight is delayed by weather, which happens, it is usually rescheduled the same day or the next morning, so keep a little spare money and patience.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-leh",
+  "pangong-spangmik-homestays"
+ ],
+ "includes": [
+  "8 nights in guesthouse or hostel private rooms and family homestays",
+  "Dinner and breakfast in Nubra and Pangong homestays",
+  "State bus Leh–Diskit and shared taxi seats for Nubra and Pangong",
+  "Local buses for the Indus valley day",
+  "Ladakh environment fee and monastery entry fees"
+ ],
+ "excludes": [
+  "Flights to and from Leh",
+  "Lunches and most meals in Leh",
+  "Camel rides and optional activities",
+  "Travel insurance and medical costs",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Acclimatisation is built in: two full rest days at Leh's 3,500 m before any higher pass, and Pangong only on night seven. Talk to your doctor before travel if you have heart or lung conditions.",
+  "Shared taxi departures depend on other passengers; on rare days you may wait or pay more for a seat.",
+  "Homestays often have shared bathrooms, bucket hot water and limited power; carry a headtorch and power bank.",
+  "Only postpaid mobile connections work in Ladakh; prepaid SIMs from other states do not.",
+  "Bus timings, fees and road openings change each season; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this saver Ladakh trip cost?",
+   "a": "We price it from about ₹23,500 per person, twin sharing, for 8 nights including rooms, homestay meals, buses, shared taxis, the environment fee and monastery entries. Flights to Leh are extra and vary from ₹6,000 to ₹20,000 each way depending on dates. Budget another ₹400–700 a day for lunches."
+  },
+  {
+   "q": "Why do we rest two days in Leh before going anywhere?",
+   "a": "Leh is at 3,500 m and you fly in from near sea level, with no time to adjust. Most altitude sickness in Ladakh happens to people who rush to Khardung La or Pangong on day two. Two quiet days, plenty of water and no alcohol give your body time to adapt."
+  },
+  {
+   "q": "Is the state bus over Khardung La safe?",
+   "a": "Yes. It is a regular service driven by experienced local drivers and used by villagers every day. It is slower and less comfortable than a car, with a short stop at the top of the pass, which is actually better for acclimatisation. Seats can be cramped; carry snacks and water."
+  },
+  {
+   "q": "Will I find shared taxis to Pangong easily?",
+   "a": "In June to September, usually yes. Agencies in Changspa and Main Bazaar post departures, and hostels are good places to find partners. In May and October there are fewer travellers, so you may pay more for a seat or need to hire a whole car with others."
+  },
+  {
+   "q": "Are the homestays comfortable?",
+   "a": "They are clean, simple and warm in the kitchen, with thick quilts. Bathrooms are often shared and hot water may come in a bucket. Food is home-cooked and filling. If you need an attached bathroom every night, look at our comfort trips instead."
+  },
+  {
+   "q": "Can I do this trip in May or October?",
+   "a": "Yes, with care. In May and October passes can see snow, some homestays are closed and shared transport is thinner. Nights at Pangong drop well below freezing. June to September is easier for a saver trip that depends on buses and shared seats."
+  },
+  {
+   "q": "Is this trip suitable for solo women?",
+   "a": "Yes. Ladakh is one of the more relaxed regions in India for solo women, and hostels and homestays are used to them. Use registered union taxis, share seats through your guesthouse or hostel, dress modestly in monasteries and villages, and keep your family informed of your plans."
+  },
+  {
+   "q": "Do I need cash for this trip?",
+   "a": "Yes. Leh has ATMs and many places take UPI, but network is unreliable outside town. Diskit has one ATM that often runs dry, and Pangong has none. Carry enough cash from Leh for homestays, taxis and food for the days away."
+  },
+  {
+   "q": "Can I add Turtuk to this trip?",
+   "a": "Yes. Add one or two nights after Hunder: a local bus or shared taxi from Diskit to Turtuk takes 2.5–3 hours. That makes it a 9 or 10-night trip. Turtuk is lower, at about 2,900 m, and its Balti homestays are among the best value in Ladakh."
+  }
+ ]
+}

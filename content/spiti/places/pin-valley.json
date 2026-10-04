@@ -53,7 +53,7 @@
     {"mode": "Road", "text": "From Kaza, follow NH-505 towards Tabo, cross the Spiti river at Attargo and drive up the Pin valley to Mudh, about 50 km and 2 hours on a mostly paved road."}
   ],
   "where_to_stay": "Saver: Mudh has a cluster of family homestays and small guesthouses at about ₹1,200–2,000 a person with dinner and breakfast; rooms are simple, some with attached bathrooms, and solar or bucket hot water. Gulling and other villages have a few more. Comfort and signature: there are no hotels at this level in Pin valley, so comfort trips choose the best homestay rooms in Mudh, and signature trips visit as a long day from Kaza or Rangrik. Book ahead in July and August when trek groups finish here.",
-  "stays": [],
+  "stays": ["mudh-homestay-village"],
   "tips": [
     "Walk out of Mudh at sunrise with binoculars for the best chance of ibex and blue sheep.",
     "Stay on paths inside the national park and do not pick plants; many are rare medicinal species.",

@@ -1,0 +1,306 @@
+{
+ "slug": "lachung",
+ "name": "Lachung",
+ "region": "sikkim",
+ "kind": "village",
+ "wiki": "Lachung",
+ "image_query": "Lachung village North Sikkim",
+ "lat": 27.69,
+ "lng": 88.74,
+ "altitude_m": 2700,
+ "tagline": "A valley village of the Lachungpas, base for Yumthang",
+ "meta_description": "Lachung guide: North Sikkim permits, Yumthang and Zero Point, the Dzumsa council, homestays, costs, road from Gangtok and the best months for snow and flowers.",
+ "summary": "Lachung is a village at about 2,700 m on the Lachung Chu in North Sikkim, home to the Lachungpa community and the overnight base for Yumthang valley. It is reached on a permit tour from Gangtok, about 115 km and 6–7 hours away. Plan one or two nights, best from March to May and October to December.",
+ "intro": [
+  "Lachung lies where the valley of the Lachung Chu opens slightly between high, forested walls, with waterfalls dropping from the cliffs on both sides. Wooden houses with stone foundations and painted windows climb either bank, linked by a bridge, and the monastery sits on the slope above. In winter snow reaches the village; in spring, plum and apple trees flower between the houses.",
+  "The Lachungpas are a Bhutia community who long traded and grazed yaks up this valley towards Tibet. They still manage village affairs through the Dzumsa, a traditional council headed by elected leaders called Pipons, which settles local disputes, sets rules for grazing and festivals and has a say in how tourism works here.",
+  "Most visitors arrive late in the afternoon on a permit tour from Gangtok, sleep in Lachung and leave early next morning for Yumthang, 24 km up the valley. If you can, stay two nights: the village is worth a slow morning, and an extra day gives you a buffer if snow or landslides close the road."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Mar – May, Oct – Dec"
+  ],
+  [
+   "Nights we suggest",
+   "1–2"
+  ],
+  [
+   "Nearest airport",
+   "Bagdogra (≈ 240 km · 9–10 h)"
+  ],
+  [
+   "From Gangtok",
+   "≈ 115 km · 6–7 h via Mangan and Chungthang"
+  ],
+  [
+   "Altitude",
+   "about 2,700 m"
+  ],
+  [
+   "Known for",
+   "Yumthang base, Lachungpa culture, Dzumsa council, snow"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "nights": "1–2",
+ "highlights": [
+  {
+   "title": "Lachung monastery",
+   "text": "A Nyingma monastery on the slope above the village, reached by a short drive or walk. Its prayer hall has fine wall paintings, and it holds masked dances during the year. Mornings are quietest."
+  },
+  {
+   "title": "Waterfalls of the Lachung valley",
+   "text": "The road from Chungthang to Lachung passes a series of waterfalls dropping off the valley walls, fullest from June to September and frozen in mid-winter. Bheem Nala falls on the road from Mangan is the best known."
+  },
+  {
+   "title": "Gateway to Yumthang",
+   "text": "Leave Lachung at 6 am for Yumthang, 24 km up the valley at about 3,560 m, and its rhododendron sanctuary and hot spring. Most tours return to Lachung for breakfast before heading back to Gangtok."
+  },
+  {
+   "title": "Snow without a long drive",
+   "text": "From December to March, Lachung and the road above it often have snow cover, making it the most reliable snow stop in North Sikkim. Roads can close after heavy falls."
+  },
+  {
+   "title": "Homestays with Lachungpa families",
+   "text": "Many families host travellers in their homes, with meals of rice, dal, local greens and sometimes yak cheese. It is a warmer, more personal stay than the roadside hotels."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "Lachung and Lachen are governed in part by the Dzumsa, a traditional village council led by Pipons; it handles local disputes and community rules alongside the state's administration.",
+   "source": "Lachung"
+  },
+  {
+   "fact": "The Lachung Chu and the Lachen Chu meet at Chungthang, about 25 km below Lachung, to form the Teesta, Sikkim's main river.",
+   "source": "Teesta River"
+  },
+  {
+   "fact": "The botanist Joseph Dalton Hooker explored the Lachen and Lachung valleys in 1849, collecting rhododendrons he later described in The Rhododendrons of Sikkim-Himalaya.",
+   "source": "Joseph Dalton Hooker"
+  }
+ ],
+ "local_word": {
+  "word": "Pipon",
+  "language": "Lachungpa",
+  "meaning": "an elected headman of the Dzumsa, the village council"
+ },
+ "costs": [
+  [
+   "Seat in a shared 2-day Lachung tour from Gangtok, with stay and meals",
+   "₹3,000–5,000"
+  ],
+  [
+   "Private vehicle, 3-day Lachung and Lachen tour",
+   "₹16,000–25,000 per vehicle"
+  ],
+  [
+   "Homestay with dinner and breakfast",
+   "₹1,500–3,000 per person"
+  ],
+  [
+   "Extra for Zero Point from Yumthang",
+   "₹3,000–5,000 per vehicle"
+  ],
+  [
+   "Bowl of thukpa or plate of momos",
+   "₹100–180"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Road",
+   "text": "From Gangtok the road goes north via Kabi, Phodong and Mangan to Chungthang, then up the Lachung Chu, about 115 km and 6–7 hours. The road is narrow and prone to landslides, and stretches near Chungthang were badly damaged in the October 2023 floods; check current status before you travel."
+  },
+  {
+   "mode": "Permit tour",
+   "text": "Lachung lies in a Protected Area. Indians and foreigners alike travel with a registered Gangtok agency, which arranges the permit, vehicle and usually the stay. Shared tours leave Gangtok's Vajra stand area around 10–11 am."
+  },
+  {
+   "mode": "Air",
+   "text": "Bagdogra Airport is about 240 km away. You cannot reach Lachung in one day from the airport and still get your permit; spend at least one night in Gangtok first."
+  }
+ ],
+ "where_to_stay": "Saver: Lachungpa family homestays and simple lodges near the bridge cost about ₹1,500–3,000 per person with dinner and breakfast, and shared tours include a basic room. Comfort: a handful of larger hotels on the road above the village have heated rooms and attached bathrooms; ask your agency for the best available. There is no luxury hotel in Lachung; signature trips book the best room in the valley and add a private vehicle and guide.",
+ "stays": [
+  "lachung-homestay-village"
+ ],
+ "tips": [
+  "Carry warm clothes in every month; nights below freezing are common from November to March.",
+  "Electricity and hot water may be limited; carry a torch and a power bank.",
+  "Take cash from Gangtok; there are no reliable ATMs in Lachung.",
+  "Ask before entering the monastery or photographing people and homes.",
+  "Respect Dzumsa rules on littering, alcohol and noise, which are set by the village and enforced locally."
+ ],
+ "themes": [
+  "snow-and-winter",
+  "homestays-and-villages",
+  "road-trips",
+  "monasteries"
+ ],
+ "nearby": [
+  "yumthang-valley",
+  "lachen",
+  "gangtok"
+ ],
+ "experiences": [
+  {
+   "slug": "lachung-monastery-morning-visit",
+   "title": "Morning at Lachung monastery",
+   "kind": "spiritual",
+   "duration": "1–2 hours",
+   "best_time": "7–9 am, Mar–May and Oct–Dec",
+   "cost": "Free; donations welcome",
+   "image_query": "Lachung Monastery North Sikkim",
+   "wiki": "",
+   "summary": "Walk or drive up to the village monastery above the Lachung Chu before your Yumthang trip or on a spare morning. It is a small community gompa of the Nyingma school, with painted walls, butter lamps and views down over the wooden houses of the village.",
+   "body": [
+    "Lachung's monastery sits on a slope on the eastern side of the valley, above the main settlement. It belongs to the Nyingma school, the oldest of the Tibetan Buddhist traditions and the one most closely tied to Sikkim's royal history. The prayer hall holds statues of Guru Rinpoche and other figures, and the walls are painted with deities and guardian figures.",
+    "The monastery is the centre of village religious life. Masked dances are held here at certain festivals in the Tibetan calendar, and families come to light lamps and offer prayers. On an ordinary morning, you may find only a caretaker or a few monks; ask permission before entering and leave a small donation.",
+    "The walk from the bridge takes 20–30 minutes uphill, or a few minutes by car. From the slope you see the whole layout of Lachung, with fields and orchards between the houses and the cliffs and waterfalls rising behind. Go early, before the tour vehicles leave for Yumthang, for the quietest visit."
+   ],
+   "good_for": [
+    "seniors",
+    "couples",
+    "photographers",
+    "solo"
+   ],
+   "faqs": [
+    {
+     "q": "Can I visit Lachung monastery during a North Sikkim tour?",
+     "a": "Yes. Ask your driver to stop on the way in or on a spare morning; it is close to the village. Most tours do not include it by default, so request it when booking."
+    },
+    {
+     "q": "What should I wear to Lachung monastery?",
+     "a": "Dress modestly with shoulders and knees covered, remove shoes and hats before entering the prayer hall, and walk clockwise. Warm socks help on cold floors."
+    },
+    {
+     "q": "Is photography allowed inside Lachung monastery?",
+     "a": "Rules vary, so ask the caretaker first. Many Sikkim monasteries do not permit photography inside the prayer hall. Never use flash near statues or paintings."
+    }
+   ]
+  },
+  {
+   "slug": "lachung-village-and-dzumsa-walk",
+   "title": "A walk through Lachung village",
+   "kind": "village",
+   "duration": "2 hours",
+   "best_time": "Late afternoon or morning, Mar–Dec",
+   "cost": "Free; local guide ₹500–1,000",
+   "image_query": "Lachung village wooden houses",
+   "wiki": "Lachung",
+   "summary": "Spend two hours walking the lanes of Lachung, across the suspension bridge and between wooden homes, orchards and small farm plots. Learn how the Dzumsa runs village affairs and how families divide their year between the valley and the high pastures.",
+   "body": [
+    "Lachung divides into small hamlets on both banks of the Lachung Chu. A walk across the bridge and along the lanes shows traditional houses of wood and stone, with carved and painted windows, stacked firewood and prayer flags. In spring, fruit trees blossom in the yards; in autumn, families dry chillies and radish on rooftops.",
+    "The Lachungpas have their own traditions and their own system of local government. The Dzumsa, led by Pipons chosen by the community, settles disputes, organises village work and sets rules on grazing and visitors. Some homes still keep yaks in the high pastures above Yumthang in summer, bringing them down as winter comes.",
+    "A homestay host or a local guide can lead the walk and explain what you see. Keep to paths, do not enter fields or courtyards uninvited, and ask before photographing people. If you are staying two nights, this is the best way to spend the afternoon after Yumthang."
+   ],
+   "good_for": [
+    "families",
+    "couples",
+    "students",
+    "photographers"
+   ],
+   "faqs": [
+    {
+     "q": "What is the Dzumsa in Lachung?",
+     "a": "The Dzumsa is the traditional village council of Lachung, led by elected headmen called Pipons. It settles local disputes and sets community rules, and works alongside the state's administration."
+    },
+    {
+     "q": "Can I find a guide for a village walk in Lachung?",
+     "a": "Your homestay host or hotel can usually arrange a local guide for ₹500–1,000. Ask the evening before."
+    },
+    {
+     "q": "Is Lachung good for families?",
+     "a": "Yes. The village is quiet and the walking is easy on the main lanes. Nights are cold, so bring warm layers for children, and keep an eye on them near the river and bridge."
+    }
+   ]
+  },
+  {
+   "slug": "lachung-chungthang-confluence-stop",
+   "title": "Where the Teesta begins at Chungthang",
+   "kind": "nature",
+   "duration": "30–45 minutes",
+   "best_time": "On the drive in or out, Mar–Dec",
+   "cost": "Free; part of the North Sikkim tour",
+   "image_query": "Chungthang Teesta confluence Sikkim",
+   "wiki": "Chungthang",
+   "summary": "On the drive to Lachung, stop at Chungthang, where the Lachen Chu and Lachung Chu meet to form the Teesta, the river that runs through the length of Sikkim. The town marks the split between the Lachung and Lachen roads.",
+   "body": [
+    "Chungthang is a small town at about 1,800 m where the road from Gangtok divides: the left fork follows the Lachen Chu to Lachen, the right follows the Lachung Chu to Lachung. Below the town the two rivers join to form the Teesta, which flows south past Mangan, Singtam and Rangpo into West Bengal and eventually Bangladesh.",
+    "Local tradition links Chungthang with Guru Rinpoche, and a rock and shrine near the town are associated with him. The town is also a supply and army post for the north, with tea stalls and small shops where tours stop for a break.",
+    "In October 2023, a glacial lake outburst from South Lhonak lake sent a flood down the Teesta that destroyed the Teesta Stage III dam at Chungthang and damaged roads and bridges along the valley. Reconstruction has continued since, and the route can be slow or closed; check current status before you travel."
+   ],
+   "good_for": [
+    "students",
+    "photographers",
+    "first-timers"
+   ],
+   "faqs": [
+    {
+     "q": "Where do the Lachen and Lachung rivers meet?",
+     "a": "At Chungthang, about 95 km north of Gangtok, where the Lachen Chu and the Lachung Chu join to form the Teesta."
+    },
+    {
+     "q": "Is the road through Chungthang open?",
+     "a": "It has been repaired in stages since the 2023 floods, but closures for landslides and works are common, especially in the monsoon. Check current status before you travel."
+    },
+    {
+     "q": "Can I stay in Chungthang?",
+     "a": "There are a few basic lodges, but most North Sikkim tours do not stop overnight here. Lachung or Lachen are better places to sleep."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How do I get a permit for Lachung?",
+   "a": "Lachung is in a Protected Area. Book a tour through a registered Gangtok agency with a photo ID and passport photos; the agency obtains the permit for named passengers and the vehicle. Foreigners can usually visit Lachung and Yumthang in groups of two or more. Check current status before you travel."
+  },
+  {
+   "q": "How far is Lachung from Gangtok?",
+   "a": "About 115 km via Mangan and Chungthang, 6–7 hours on a narrow mountain road. Landslides can add hours, especially from June to September."
+  },
+  {
+   "q": "What is the best time to visit Lachung?",
+   "a": "March to May for flowers at Yumthang and October to December for clear skies. December to March brings snow but also road closures. The monsoon, June to September, is the riskiest time on the road."
+  },
+  {
+   "q": "How many nights should I stay in Lachung?",
+   "a": "At least one, which most tours include for the Yumthang trip. Two nights let you visit Yumthang without rushing and give a buffer if the road closes."
+  },
+  {
+   "q": "Is there mobile network in Lachung?",
+   "a": "Coverage is limited. Some networks have intermittent signal in the village, but it often drops. Tell family you may be out of contact for a day or two and carry cash."
+  },
+  {
+   "q": "What does a Lachung tour cost?",
+   "a": "A seat on a shared 2-day tour with stay and meals is about ₹3,000–5,000 per person. A private 3-day Lachung and Lachen tour costs roughly ₹16,000–25,000 per vehicle, plus better hotels if you choose them."
+  },
+  {
+   "q": "Is Lachung cold?",
+   "a": "Yes. Even in May, nights drop to around 5 °C, and from December to February they fall below freezing. Pack thermals, a fleece, a down jacket, gloves and a warm cap."
+  },
+  {
+   "q": "Is altitude a problem in Lachung?",
+   "a": "At about 2,700 m, Lachung itself rarely causes altitude sickness, but Yumthang is around 3,560 m and Zero Point above 4,500 m. Drink water, move slowly and talk to your doctor before the trip if you have heart or lung conditions."
+  },
+  {
+   "q": "Can foreigners visit Lachung?",
+   "a": "Yes, foreign nationals have been allowed to visit Lachung and Yumthang with a Protected Area Permit arranged through a registered agency, usually in a group of at least two. Check current status before you travel."
+  }
+ ]
+}

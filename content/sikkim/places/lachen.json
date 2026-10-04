@@ -1,0 +1,300 @@
+{
+ "slug": "lachen",
+ "name": "Lachen",
+ "region": "sikkim",
+ "kind": "village",
+ "wiki": "Lachen, Sikkim",
+ "image_query": "Lachen village North Sikkim",
+ "lat": 27.72,
+ "lng": 88.56,
+ "altitude_m": 2750,
+ "tagline": "The Lachenpa village on the road to Gurudongmar",
+ "meta_description": "Lachen guide: base for Gurudongmar Lake, Thangu and Chopta valleys, monastery, Dzumsa rules, permits, homestays, costs and current road status.",
+ "summary": "Lachen is a village at about 2,750 m on the Lachen Chu in North Sikkim, the overnight stop before the pre-dawn drive to Gurudongmar Lake. It is home to the Lachenpa community and governed in part by its Dzumsa. Reached on a permit tour from Gangtok; road access has been disrupted since 2023, so check current status before you travel.",
+ "intro": [
+  "Lachen lies on a shelf above the Lachen Chu, about 25 km upriver from Chungthang, in a valley that narrows and steepens as it heads north towards Tibet. Its wooden houses and prayer flags spread across the slope, with the monastery above. Beyond the village, the road climbs to Thangu at about 3,900 m and then onto the high, bare plateau leading to Gurudongmar.",
+  "The Lachenpas are a Bhutia community who traditionally herded yaks and traded across the passes. Like Lachung, Lachen governs its local affairs through the Dzumsa, which sets rules on grazing, festivals and, at times, tourism. Lachen's Dzumsa has been firm about controlling numbers and conduct, and visitors are expected to follow its rules.",
+  "Most travellers spend one night in Lachen before leaving at about 4 am for Gurudongmar, then drive back down to Lachung or Gangtok. Access has been difficult since the October 2023 floods washed away roads and bridges near Chungthang, and further landslides have closed the road for long periods. Ask your agency what is open before you plan."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Apr – May, Oct – Nov"
+  ],
+  [
+   "Nights we suggest",
+   "1"
+  ],
+  [
+   "Nearest airport",
+   "Bagdogra (≈ 245 km · 9–10 h)"
+  ],
+  [
+   "From Gangtok",
+   "≈ 120 km · 6–7 h via Mangan and Chungthang"
+  ],
+  [
+   "Altitude",
+   "about 2,750 m; Thangu about 3,900 m"
+  ],
+  [
+   "Known for",
+   "Gurudongmar base, Lachenpa culture, monastery, Thangu and Chopta valleys"
+  ]
+ ],
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "nights": "1",
+ "highlights": [
+  {
+   "title": "Lachen monastery",
+   "text": "The village gompa sits on the slope above the main road, a Nyingma monastery with painted walls and a quiet courtyard. Morning prayers are the best time to visit."
+  },
+  {
+   "title": "Base for Gurudongmar",
+   "text": "Lachen is the last village with tourist stays before Gurudongmar Lake, 65 km or so further north. Sleeping here at 2,750 m before the drive helps with acclimatisation."
+  },
+  {
+   "title": "Thangu and Chopta valleys",
+   "text": "Above Lachen, Thangu at about 3,900 m is a small settlement where tours stop for breakfast. Nearby, the Chopta valley opens into wide meadows with views of high peaks."
+  },
+  {
+   "title": "Homestays with Lachenpa families",
+   "text": "Simple family homestays offer warm meals and an insight into village life, often around a kitchen stove. They are among the warmest places to sleep in the valley."
+  },
+  {
+   "title": "The Green Lake approach",
+   "text": "Lachen is also the starting point for the trek towards Green Lake and the Zemu glacier at the foot of Kangchenjunga, inside Khangchendzonga National Park. It needs special permits and a registered guide."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "Lachen, like Lachung, has a Dzumsa, a traditional council whose decisions on grazing, festivals and local rules carry weight in village life and in how tourism operates.",
+   "source": "Lachen, Sikkim"
+  },
+  {
+   "fact": "In October 2023 a glacial lake outburst flood from South Lhonak lake in North Sikkim swept down the Teesta, destroying the Teesta Stage III dam at Chungthang and cutting road links to Lachen.",
+   "source": "South Lhonak Lake"
+  }
+ ],
+ "local_word": {
+  "word": "Lachenpa",
+  "language": "Bhutia",
+  "meaning": "the people of Lachen, a Bhutia community of herders and traders"
+ },
+ "costs": [
+  [
+   "Seat in a shared 3-day Lachen and Lachung tour",
+   "₹5,000–8,000"
+  ],
+  [
+   "Private vehicle, 3-day Lachen and Lachung tour",
+   "₹16,000–25,000 per vehicle"
+  ],
+  [
+   "Homestay with dinner and breakfast",
+   "₹1,500–3,000 per person"
+  ],
+  [
+   "Breakfast stop at Thangu",
+   "₹100–250"
+  ],
+  [
+   "Thermal and boots rental",
+   "₹100–300"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Road",
+   "text": "From Gangtok, the road runs north via Mangan to Chungthang, then up the Lachen Chu, about 120 km and 6–7 hours. The section near Chungthang and above has been damaged by floods and landslides since 2023; check current status before you travel."
+  },
+  {
+   "mode": "Permit tour",
+   "text": "Lachen is in a Protected Area, and all visitors travel with a registered Gangtok agency that arranges the permit and vehicle. Gurudongmar has been open only to Indian nationals."
+  },
+  {
+   "mode": "Air",
+   "text": "Bagdogra Airport is about 245 km away. You must spend a night in Gangtok first to arrange permits."
+  }
+ ],
+ "where_to_stay": "Saver: Lachenpa family homestays and simple lodges, often included in shared tours, cost about ₹1,500–3,000 per person with meals. Comfort: a few larger lodges have attached bathrooms and room heaters; ask your agency for the best available. There is no luxury hotel in Lachen; signature trips book the best lodge with a private vehicle.",
+ "stays": [],
+ "tips": [
+  "Go to bed early; departures for Gurudongmar are usually around 4 am.",
+  "Carry thermals, a down jacket, gloves and a warm cap; nights are cold in every season.",
+  "Drink plenty of water and avoid alcohol the night before Gurudongmar.",
+  "Respect Dzumsa rules on noise, littering and alcohol; they are enforced locally.",
+  "Ask your agency about the current state of the road from Chungthang before you pay."
+ ],
+ "themes": [
+  "homestays-and-villages",
+  "road-trips",
+  "monasteries",
+  "snow-and-winter"
+ ],
+ "nearby": [
+  "gurudongmar-lake",
+  "lachung",
+  "yumthang-valley"
+ ],
+ "experiences": [
+  {
+   "slug": "lachen-monastery-visit",
+   "title": "Lachen monastery above the village",
+   "kind": "spiritual",
+   "duration": "1 hour",
+   "best_time": "Morning or late afternoon, Apr–Nov",
+   "cost": "Free; donations welcome",
+   "image_query": "Lachen Monastery Sikkim",
+   "wiki": "",
+   "summary": "Climb to the village monastery above Lachen, a Nyingma gompa at the heart of Lachenpa religious life, with painted walls, butter lamps and views down the valley. A quiet hour here is the best way to spend the afternoon after arriving.",
+   "body": [
+    "The monastery stands on the slope above the main road and is reached by a short climb. It belongs to the Nyingma school, like most of Sikkim's older monasteries, and serves as the religious centre of the village. Prayer flags and chortens surround it, and the valley opens below.",
+    "Inside, the prayer hall holds statues of Guru Rinpoche and other figures, with painted murals of deities and protectors. Masked dances and village rituals are held here at points in the Tibetan calendar. On ordinary days, a caretaker or monks may be present; ask before entering and leave a small donation.",
+    "Most tours arrive in Lachen by mid-afternoon, leaving time for a short walk to the monastery before dinner. Walk slowly; even at 2,750 m the climb is noticeable. Dress warmly, as the temperature drops quickly after sunset."
+   ],
+   "good_for": [
+    "seniors",
+    "couples",
+    "solo",
+    "photographers"
+   ],
+   "faqs": [
+    {
+     "q": "How do I reach Lachen monastery?",
+     "a": "It is a short walk or drive up from the main road in Lachen. Ask your homestay host or driver for directions; it takes 15–30 minutes on foot."
+    },
+    {
+     "q": "Is there an entry fee at Lachen monastery?",
+     "a": "There is usually no fee. Leave a small donation, remove shoes before entering the prayer hall and walk clockwise."
+    },
+    {
+     "q": "Can I photograph inside Lachen monastery?",
+     "a": "Ask the caretaker first; photography inside the prayer hall is often not allowed. Never use flash near murals or statues."
+    }
+   ]
+  },
+  {
+   "slug": "lachen-thangu-chopta-valley",
+   "title": "Thangu and the Chopta valley meadows",
+   "kind": "nature",
+   "duration": "2–3 hours",
+   "best_time": "On the Gurudongmar drive, Apr–Jun and Oct–Nov",
+   "cost": "Included in tour or extra by agreement",
+   "image_query": "Chopta valley Thangu North Sikkim",
+   "wiki": "",
+   "summary": "On the way to or from Gurudongmar, stop at Thangu, a small settlement at about 3,900 m, and visit the nearby Chopta valley, a wide meadow with a river, yaks and high peaks. It is also a gentler place to adjust to altitude.",
+   "body": [
+    "Thangu lies about 30 km above Lachen, where the road reaches a broad valley at around 3,900 m. It has army camps, a few tea houses and lodges and is the usual breakfast stop on the way to Gurudongmar. In spring and summer, rhododendrons and primulas flower on the slopes; in winter it is snowbound.",
+    "The Chopta valley, a short drive away, is a broad meadow with a river winding through, framed by rocky ridges. In June and July it fills with alpine flowers; in October the grass turns gold and the river partly freezes. Yaks graze here in summer. Some tours include Chopta; others need a request and a small extra.",
+    "Use the stop to walk gently and let your body adjust. Thangu is about 1,150 m higher than Lachen, so headache and breathlessness are common. Drink water, eat a light breakfast and do not hurry. Talk to your doctor before the trip if you have heart or lung conditions."
+   ],
+   "good_for": [
+    "photographers",
+    "couples",
+    "students"
+   ],
+   "faqs": [
+    {
+     "q": "Is Chopta valley included in North Sikkim tours?",
+     "a": "Sometimes. Many tours stop at Thangu for breakfast and include Chopta on the return from Gurudongmar if time allows. Ask your agency in advance."
+    },
+    {
+     "q": "How high is Thangu?",
+     "a": "About 3,900 m. It is a common breakfast stop and helps you adjust before going higher to Gurudongmar."
+    },
+    {
+     "q": "Can I stay overnight in Thangu?",
+     "a": "A few basic lodges exist, but most tours do not stop overnight there, and permits may limit it. Lachen is the standard overnight stop."
+    }
+   ]
+  },
+  {
+   "slug": "lachen-homestay-evening",
+   "title": "An evening with a Lachenpa family",
+   "kind": "village",
+   "duration": "Evening and overnight",
+   "best_time": "Apr–Nov",
+   "cost": "Homestay ₹1,500–3,000 per person with meals",
+   "image_query": "Lachen village homestay Sikkim",
+   "wiki": "",
+   "summary": "Spend your Lachen night in a family homestay rather than a lodge. Sit by the kitchen stove, eat rice, dal, local greens and perhaps yak cheese, and learn how Lachenpa families live and work through the seasons.",
+   "body": [
+    "Homestays in Lachen are usually rooms in a family house, often wooden, with shared or simple attached bathrooms. The heart of the house is the kitchen, where a wood or gas stove keeps the room warm and the family gathers in the evening. Meals are simple and filling: rice, dal, vegetables, sometimes meat, and butter tea or sweet milk tea.",
+    "Many Lachenpa families have links to herding, with yaks kept in the high pastures above Thangu, and some grow potatoes, radish and barley on terraced fields. Conversation over dinner is the best way to learn how life here changes with the seasons and how the Dzumsa shapes village decisions.",
+    "Ask your agency to arrange a homestay rather than a lodge if you want this experience, as shared tours often book whatever is available. Bring a small gift such as fruit or sweets from Gangtok, respect household routines and go to bed early before the Gurudongmar start."
+   ],
+   "good_for": [
+    "couples",
+    "solo",
+    "students",
+    "families"
+   ],
+   "faqs": [
+    {
+     "q": "Can I choose a homestay in Lachen on a shared tour?",
+     "a": "Shared tours usually assign rooms. If a homestay matters to you, book a private tour or ask your agency when booking to arrange one."
+    },
+    {
+     "q": "Are Lachen homestays warm?",
+     "a": "Rooms are often cold; the kitchen is the warm room. Homestays usually provide thick quilts. Bring thermals and a warm cap for the night."
+    },
+    {
+     "q": "What food is served in Lachen homestays?",
+     "a": "Simple home meals: rice, dal, vegetables, sometimes meat, and tea. Tell your host about dietary needs in advance."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is the road to Lachen open?",
+   "a": "The road has been disrupted repeatedly since the October 2023 Teesta floods and later landslides, with long closures. Some periods have seen Lachen and Gurudongmar open again; others not. Check current status before you travel with your agency."
+  },
+  {
+   "q": "How do I get a permit for Lachen and Gurudongmar?",
+   "a": "Book through a registered Gangtok agency with ID and passport photos. The agency applies for the Protected Area Permit. Gurudongmar has been open only to Indian nationals. Check current status before you travel."
+  },
+  {
+   "q": "How far is Lachen from Gangtok?",
+   "a": "About 120 km via Mangan and Chungthang, typically 6–7 hours, longer when roads are under repair."
+  },
+  {
+   "q": "What is the best time to visit Lachen?",
+   "a": "April to May and October to November. Winter brings heavy snow and frequent closures above Lachen; the monsoon, June to September, brings landslides."
+  },
+  {
+   "q": "How many nights do I need in Lachen?",
+   "a": "One night is standard, before the early drive to Gurudongmar. A second night helps if you want to see Thangu or Chopta at a slower pace or need a buffer for weather."
+  },
+  {
+   "q": "Is altitude sickness a risk in Lachen?",
+   "a": "Lachen at about 2,750 m is usually fine, but the next day's trip to Thangu and Gurudongmar climbs to over 5,000 m. Rest, drink water, avoid alcohol and talk to your doctor before going if you have health conditions."
+  },
+  {
+   "q": "Is there mobile network in Lachen?",
+   "a": "Coverage is limited and unreliable. Assume you will be out of contact for a day or two, and carry enough cash."
+  },
+  {
+   "q": "Can foreigners visit Lachen?",
+   "a": "Rules for foreigners in Lachen and beyond have been restrictive and have changed over time. Gurudongmar has been closed to foreigners. Ask your agency and check current status before you travel."
+  },
+  {
+   "q": "What does a North Sikkim tour including Lachen cost?",
+   "a": "A seat on a shared 3-day tour covering Lachen, Gurudongmar, Lachung and Yumthang costs about ₹5,000–8,000 per person. A private vehicle for the same costs about ₹16,000–25,000, plus hotel upgrades."
+  }
+ ]
+}

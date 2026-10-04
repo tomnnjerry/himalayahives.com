@@ -1,0 +1,210 @@
+{
+ "slug": "bhutan-signature-amankora-lodges-8n",
+ "title": "Bhutan by Amankora lodges, 8 nights",
+ "region": "bhutan",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "honeymoons",
+  "monasteries",
+  "wellness-and-yoga",
+  "wildlife-and-birds"
+ ],
+ "stops": [
+  {
+   "place": "thimphu",
+   "nights": 2
+  },
+  {
+   "place": "punakha",
+   "nights": 2
+  },
+  {
+   "place": "phobjikha",
+   "nights": 2
+  },
+  {
+   "place": "paro",
+   "nights": 2
+  }
+ ],
+ "start": "Paro International Airport",
+ "end": "Paro International Airport",
+ "price_from_inr": 650000,
+ "price_note": "Per person, twin share, Indian nationals: SDF ₹1,200 a night, 8 nights in Amankora suites on full board, private car and senior licensed guide, all entry fees; flights to Paro extra. Other nationals pay USD 100 a night SDF, quoted separately.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "8 nights in Bhutan across four Amankora lodges: Thimphu, Punakha, Gangtey above the crane valley, and Paro for Tiger's Nest. Private guide, from ₹6,50,000.",
+ "summary": "Eight nights moving between four of Amankora's five lodges in western and central Bhutan: Thimphu in forest at the head of the valley, Punakha across a suspension bridge in orange orchards, Gangtey above the Phobjikha marsh, and Paro in blue pine near Drukgyel Dzong. Full board, a private senior guide and car throughout.",
+ "intro": [
+  "Amankora was designed to be travelled as a circuit, one hotel spread across several valleys, and this route uses four of its lodges, two nights each. The buildings share a style of rammed-earth walls, pine and stone, and each sits in a quiet corner of its valley away from the town. That lets the days start at your hour: dzongs before the groups arrive, the crane marsh at first light, the Taktsang trail early.",
+  "The price shown is for Indian nationals, who pay a Sustainable Development Fee of ₹1,200 a night as we understand the current rules. Most other nationalities pay USD 100 a night until 31 August 2027, also as we understand it. The rules have changed several times since 2022; check current status before you travel. Room rates at Amankora vary by season and we quote them exactly when you enquire."
+ ],
+ "highlights": [
+  "Four Amankora lodges, two unhurried nights each",
+  "Punakha lodge reached on foot across a river bridge",
+  "Black-necked cranes from Gangtey, late Oct to Feb",
+  "Taktsang with a senior guide at the quietest hour",
+  "Private Bhutanese guide and car from landing to take-off"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Paro to Amankora Thimphu",
+   "place": "thimphu",
+   "overnight": "Amankora Thimphu",
+   "drive": "≈ 65 km · 1.5 h",
+   "text": "Your guide meets you at Paro airport. Drive along the Paro Chhu to Chhuzom and up the Wang Chhu through Thimphu to the lodge, in pine forest near Dechencholing Palace at the north end of the valley. Lunch at the lodge, then an easy walk in the forest around it. Before dinner, your guide talks through the coming days so the plan fits your pace.",
+   "meals": "Lunch, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Thimphu at the quiet hours",
+   "place": "thimphu",
+   "overnight": "Amankora Thimphu",
+   "drive": "≈ 40 km in the valley",
+   "text": "Early at the Memorial Chorten as residents make their rounds, then up to Buddha Dordenma before the day groups. Visit the Institute for Zorig Chusum and the Folk Heritage Museum, a restored 19th-century farmhouse. If a match is on, watch archery at Changlimithang. At about 5 pm, enter Tashichho Dzong, seat of the king's office and the central monk body, as the flag is lowered.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Dochu La to Amankora Punakha",
+   "place": "punakha",
+   "overnight": "Amankora Punakha",
+   "drive": "≈ 75 km · 3 h",
+   "text": "Cross Dochu La at about 3,100 m, with its 108 chortens and, on clear days from October to February, the high peaks along the northern border. Walk part of the old trail down from the pass if you like. In the valley, cross a suspension bridge over the river and walk up through orange orchards and rice fields to the lodge. Afternoon free.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Punakha Dzong and Chimi Lhakhang",
+   "place": "punakha",
+   "overnight": "Amankora Punakha",
+   "drive": "≈ 40 km round trip",
+   "text": "Morning at Punakha Dzong, built by the Zhabdrung in the 1630s at the confluence of the Pho Chhu and Mo Chhu and Bhutan's capital until the 1950s. In the afternoon, walk through rice fields to Chimi Lhakhang, built in 1499 and linked to Drukpa Kunley, the Divine Madman. For those who want it, a gentle float on the Mo Chhu in spring or autumn.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Up to Amankora Gangtey",
+   "place": "phobjikha",
+   "overnight": "Amankora Gangtey",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Drive past Wangdue and up through oak and rhododendron over Lawa La into Phobjikha. The lodge sits above the valley near Gangtey Goenpa, looking out over the marsh where black-necked cranes winter from about late October to February. Visit the crane centre run by the Royal Society for Protection of Nature in the afternoon, then a hot stone bath at the lodge.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Cranes, the goenpa and the trail",
+   "place": "phobjikha",
+   "overnight": "Amankora Gangtey",
+   "drive": "",
+   "text": "Watch the cranes at first light from the edge of the marsh, keeping well back from the birds. Walk up to Gangtey Goenpa, the Nyingma monastery above the valley, and if prayers are on, sit quietly at the back. After lunch, walk the Gangtey nature trail across the valley floor, about 1.5–2 hours. The lodge is at about 3,000 m, so take the first evening slowly.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Gangtey to Amankora Paro",
+   "place": "paro",
+   "overnight": "Amankora Paro",
+   "drive": "≈ 200 km · 6.5–7.5 h",
+   "text": "The longest drive of the trip, broken by a picnic lunch at Dochu La or near Thimphu. Arrive at the Paro lodge, set in blue pine forest near the ruins of Drukgyel Dzong at the head of the valley, by late afternoon. A quiet evening and an early dinner before the Taktsang hike.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Taktsang, the Tiger's Nest",
+   "place": "paro",
+   "overnight": "Amankora Paro",
+   "drive": "≈ 10 km · 20 min each way",
+   "text": "An early start for the trail from about 2,600 m to the monastery at 3,120 m, climbing through blue pine with prayer flags overhead. Your guide sets the pace and picks the quieter hour. Phones and cameras go into lockers at the gate. Lunch at the lodge, then Kyichu Lhakhang, one of Bhutan's two oldest temples, and Rinpung Dzong in the late light.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Fly out of Paro",
+   "place": "paro",
+   "overnight": "",
+   "drive": "≈ 15 km · 25 min",
+   "text": "A slow breakfast in the forest, then the short drive to Paro airport. Weather can delay flights, so keep a spare day before onward long-haul connections.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "amankora-bhutan-lodges"
+ ],
+ "includes": [
+  "SDF at ₹1,200 per night for Indian nationals (8 nights)",
+  "8 nights at four Amankora lodges, twin share, full board",
+  "Private car with driver for all days",
+  "Senior licensed guide throughout",
+  "Entry and route permits, monument entry fees, crane centre entry"
+ ],
+ "excludes": [
+  "Flights to and from Paro",
+  "Visa fee and the higher SDF for non-Indian nationals",
+  "Spa treatments, wine and premium drinks",
+  "Tips for guide, driver and lodge staff",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "Amankora Gangtey sits at about 3,000 m and Taktsang at 3,120 m. Rest on arrival, drink water and talk to your doctor before the trip if you have heart or lung conditions.",
+  "Sustainable Development Fee: as we understand it, ₹1,200 a night for Indian nationals and USD 100 a night for most others, with children 6–12 at half. Check current status before you travel.",
+  "Amankora's lodges have few suites and fill early for the spring and autumn festivals; book six months ahead.",
+  "Amankora's prices and inclusions change by season; we confirm everything in writing when you book.",
+  "Dress for dzongs and temples: long sleeves, long trousers or skirt, no caps; no photography inside temple rooms."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a Bhutan trip at Amankora cost?",
+   "a": "From about ₹6,50,000 per person, twin share, for 8 nights for Indian nationals, including full board, private guide, car and SDF, but not flights. Rates vary by season and room type, and non-Indian nationals pay a higher SDF. We quote exactly when you enquire."
+  },
+  {
+   "q": "What is the SDF for this trip?",
+   "a": "As we understand the current rules, ₹9,600 per Indian adult for 8 nights at ₹1,200 a night, or USD 800 for most other adults at USD 100 a night. Children 6–12 pay half, under-6s pay nothing. These rules change; check current status before you travel."
+  },
+  {
+   "q": "Why not stay at all five Amankora lodges?",
+   "a": "The fifth lodge is in Bumthang, a long drive or a domestic flight further east. Adding it needs about four more nights to avoid rushed days. If you have 12 nights or more, we can include it and the dzong at Trongsa on the way."
+  },
+  {
+   "q": "Is Amankora good for a honeymoon?",
+   "a": "Yes. The lodges are small and quiet, set apart from towns, and days are planned around the two of you rather than a group. Days can be as active or slow as you like. Spring and autumn are the best seasons; winter is colder but clear and very peaceful."
+  },
+  {
+   "q": "When will we see black-necked cranes?",
+   "a": "From about late October to February, when they winter in the Phobjikha valley below Amankora Gangtey. Early mornings and late afternoons are best. The Black-necked Crane Festival at Gangtey Goenpa is held in November. Outside those months the marsh is still beautiful but empty of cranes."
+  },
+  {
+   "q": "Can we time this trip with the Paro or Thimphu Tshechu?",
+   "a": "Yes, and many guests do. Paro Tshechu falls in March or April and Thimphu Tshechu in September or October. Lodges book out early for those dates. We reorder the circuit so you attend the main day; check current status before you travel, as lunar dates move."
+  },
+  {
+   "q": "How hard is the Tiger's Nest hike?",
+   "a": "Moderate: about 4–5 km each way with roughly 500–600 m of climbing to 3,120 m, 5–6 hours return for fit adults. A pony can go to the cafeteria. By day 8 you have slept at 3,000 m in Gangtey, which helps. Talk to your doctor if you have heart or lung conditions."
+  },
+  {
+   "q": "Can children stay at Amankora?",
+   "a": "Families can stay. Tell us the children's ages when you enquire and we confirm suite and bed options with each lodge. As we understand the SDF rules, under-6s pay none and 6–12s pay half; check current status before you travel."
+  },
+  {
+   "q": "Are flights to Paro included?",
+   "a": "No. Flights to Paro run from several cities in India and Asia on Drukair and Bhutan Airlines and land in daylight only. We help you book and plan around weather delays, and recommend a spare night before any onward long-haul flight."
+  }
+ ]
+}
