@@ -70,10 +70,10 @@ SITE = {
     "name": "Himalaya Hives",
     "tagline": "Every valley is a hive",
     "url": "https://himalayahives.com",
-    "email": os.environ.get("HH_EMAIL", "[YOUR EMAIL]"),
-    "phone": os.environ.get("HH_PHONE", "[YOUR PHONE]"),
-    "whatsapp": os.environ.get("HH_WHATSAPP", ""),  # digits with country code, e.g. 919800000000
-    "address": "[YOUR OFFICE ADDRESS]",
+    "email": os.environ.get("HH_EMAIL", "hello@himalayahives.com"),
+    "phone": os.environ.get("HH_PHONE", "+91 99546 34102"),
+    "whatsapp": os.environ.get("HH_WHATSAPP", "919954634102"),  # digits with country code, e.g. 919800000000
+    "address": os.environ.get("HH_ADDRESS", ""),
     "byline": "Himalaya Hives Field Desk",
 }
 

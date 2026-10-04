@@ -46,7 +46,7 @@
       <a class="link" href="{% url 'seasons' %}">Season almanac {% icon "arrow" %}</a></div>
     <div class="alm"><table>
       <thead><tr><th></th>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
-      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}"><span class="hbadge hbadge--sm">{% icon r.slug %}</span>{{ r.name }}</a></th>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}">{% seal r %}</a></th>
         {% for m in r.bar %}<td><a href="{% url 'region_month' r.slug m.full|lower %}" class="alm__c" data-v="{{ m.v }}" title="{{ r.name }} in {{ m.full }}: {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}hard or closed{% endif %}"><span class="sr-only">{{ r.name }} in {{ m.full }}</span></a></td>{% endfor %}</tr>{% endfor %}</tbody>
     </table></div>
     <div class="alm__key"><span><i style="background:#2B2012"></i>Best</span><span><i style="background:#E8C98A"></i>Good</span><span><i></i>Hard or closed</span></div>
