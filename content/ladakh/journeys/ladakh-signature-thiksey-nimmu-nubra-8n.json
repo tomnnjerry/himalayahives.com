@@ -1,0 +1,213 @@
+{
+ "slug": "ladakh-signature-thiksey-nimmu-nubra-8n",
+ "title": "Thiksey camp, Nimmu House and Nubra in style",
+ "region": "ladakh",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "monasteries",
+  "honeymoons",
+  "photography",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "leh",
+   "nights": 3
+  },
+  {
+   "place": "alchi",
+   "nights": 2
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 2
+  },
+  {
+   "place": "leh",
+   "nights": 1
+  }
+ ],
+ "start": "Leh airport",
+ "end": "Leh airport",
+ "price_from_inr": 200000,
+ "price_note": "Per person, twin sharing: 3 nights at Chamba Camp Thiksey, 2 at Nimmu House, 2 at Lchang Nang Retreat and 1 at The Grand Dragon Ladakh, all meals, private SUV and driver, private guide, fees and entries; flights extra.",
+ "transport": "Private SUV with driver and a private guide throughout",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Signature Ladakh trip, 8 nights: Chamba Camp facing Thiksey, Nimmu House in the Sham valley and Lchang Nang in Nubra, with a private guide. From ₹2,00,000 pp.",
+ "summary": "Eight unhurried nights in Ladakh's finest stays: a luxury tent facing Thiksey Monastery for your acclimatisation days, a restored village manor at Nimmoo for Alchi and the Sham valley, and a cottage retreat in Nubra's poplar groves. A private guide and driver throughout, and no early starts you do not want.",
+ "intro": [
+  "Ladakh's best hotels are few and far apart, and none of them is in the middle of Leh. This trip strings together three that we know well: The Ultimate Travelling Camp's Chamba Camp near Thiksey, Nimmu House in Nimmoo village, and Lchang Nang Retreat at Tegar in Nubra. Each is quiet, with good food and space to rest, which is exactly what the altitude asks of you.",
+  "The order is set for acclimatisation. Three nights at Thiksey, at about Leh's height, with only gentle outings: Thiksey's morning prayers, Hemis, Stok. Then west to Nimmoo, a little lower, for Alchi, Likir and Basgo. Only then over Khardung La to Nubra, which is lower again, and a last night in Leh at The Grand Dragon before your flight. Your private guide adds the history and the stories at every stop."
+ ],
+ "highlights": [
+  "Waking to Thiksey Monastery from a luxury tent",
+  "Hemis museum and Stok Palace with a private guide",
+  "Alchi's painted temples from a restored village manor",
+  "Khardung La crossed only after five nights in Ladakh",
+  "Cottages among poplars at Lchang Nang, Nubra"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive and settle at Thiksey",
+   "place": "leh",
+   "overnight": "Chamba Camp Thiksey",
+   "drive": "≈ 20 km · 30 min",
+   "text": "Your guide and driver meet you at Leh airport for the short drive up the Indus to Chamba Camp, facing Thiksey Monastery. Settle into your tent and rest. Lunch and dinner are at the camp; the only plan today is water, sleep and light meals. The camp team is used to guests arriving from the plains, so tell them how you feel.",
+   "meals": "Lunch, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "A quiet day at Thiksey",
+   "place": "leh",
+   "overnight": "Chamba Camp Thiksey",
+   "drive": "≈ 5 km",
+   "text": "Sleep late. In the afternoon, if you feel well, your guide takes you to Thiksey Monastery, a short drive away, walking slowly through the courtyards to the Maitreya temple and the roof views over the Indus. Return for tea and an early dinner. Avoid stairs where you can and skip alcohol for a few more days.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Thiksey prayers, Hemis and Stok",
+   "place": "leh",
+   "overnight": "Chamba Camp Thiksey",
+   "drive": "≈ 90 km · 3 h",
+   "text": "If you are up for it, walk into Thiksey's assembly hall for morning prayers around 7 am. After breakfast, drive to Hemis for its museum of thangkas, masks and ritual objects. In the afternoon cross the Indus to Stok Palace, home of the former royal family, and its museum of royal dress and jewellery. Back to camp for a slow evening.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Leh old town on the way to Nimmoo",
+   "place": "alchi",
+   "overnight": "Nimmu House",
+   "drive": "≈ 55 km · 1.5 h plus visits",
+   "text": "Drive into Leh for a late-morning walk through the old town with your guide, stopping at the Leh Palace and the lanes below it. Lunch in town, then continue west on the Srinagar highway to Nimmoo, at about 3,100 m, a little lower than Leh. Check into Nimmu House, a restored early 20th-century manor with rooms and garden tents among the apricot trees.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Alchi, Likir and Basgo",
+   "place": "alchi",
+   "overnight": "Nimmu House",
+   "drive": "≈ 100 km round trip · 3 h",
+   "text": "A full day in the Sham valley. Morning at Alchi, where your guide reads the 12th-century Kashmiri-style paintings of the Sumtsek and Dukhang with you in the low light. Lunch in the village gardens, then Likir Monastery and its gilded Maitreya, and Basgo's ruined royal fort in the late afternoon. Stop at the Indus–Zanskar confluence on the way back to Nimmoo.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Over Khardung La to Nubra",
+   "place": "nubra-valley",
+   "overnight": "Lchang Nang Retreat, Tegar",
+   "drive": "≈ 160 km · 5.5–6 h",
+   "text": "After five nights in Ladakh you are ready for Khardung La. Leave Nimmoo early, skirt Leh and climb to the pass at 5,359 m for a short stop. Drop into Nubra and cross to the Nubra river arm of the valley, visiting Samstanling monastery at Sumur on the way. Check into Lchang Nang Retreat in Tegar village, among poplars and willows, and rest.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Diskit, Hunder and an easy evening",
+   "place": "nubra-valley",
+   "overnight": "Lchang Nang Retreat, Tegar",
+   "drive": "≈ 90 km round trip · 3 h",
+   "text": "Morning at Diskit Monastery and its giant Maitreya looking down the Shyok valley, then the Hunder dunes and the Bactrian camels. Back at the retreat for lunch and an afternoon in the garden. If you want more, your guide can take you to the Panamik hot springs, or arrange a long day trip to Turtuk instead.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Back to Leh",
+   "place": "leh",
+   "overnight": "The Grand Dragon Ladakh",
+   "drive": "≈ 125 km · 4.5–5 h",
+   "text": "Leave Nubra in the morning to cross Khardung La before afternoon traffic. In Leh, check into The Grand Dragon, a full-service hotel close to the airport. Spend the afternoon at leisure, with an optional walk in Main Bazaar and the apricot stalls or a sunset drive to Shanti Stupa. A farewell dinner at the hotel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Fly out of Leh",
+   "place": "leh",
+   "overnight": "",
+   "drive": "≈ 5 km · 15 min",
+   "text": "Your driver takes you to Leh airport for your morning flight. Allow two hours in peak season. If a flight is delayed by weather, the hotel and your guide will help you rebook and return to the hotel.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "chamba-camp-thiksey",
+  "nimmu-house",
+  "lchang-nang-retreat-nubra",
+  "the-grand-dragon-ladakh"
+ ],
+ "includes": [
+  "8 nights at Chamba Camp Thiksey, Nimmu House, Lchang Nang Retreat and The Grand Dragon Ladakh",
+  "All meals at Chamba Camp, Nimmu House and Lchang Nang; breakfast and dinner in Leh",
+  "Private SUV with driver and private English- or Hindi-speaking guide",
+  "Monastery, palace and museum entries; Ladakh environment fee",
+  "Airport transfers"
+ ],
+ "excludes": [
+  "Flights to and from Leh",
+  "Drinks, spa and optional activities",
+  "Camel rides",
+  "Travel insurance and medical costs",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Acclimatisation is built in: three nights at Leh's height with two easy days, then a lower stay at Nimmoo, and Khardung La only on day six. Talk to your doctor before travel if you have heart, lung or blood-pressure conditions.",
+  "Chamba Camp, Nimmu House and Lchang Nang are seasonal, roughly May to September or early October; dates change each year.",
+  "Even luxury stays in Ladakh have limited mobile coverage and slow Wi-Fi outside Leh.",
+  "Photography is not allowed inside Alchi's temples and many monastery shrines; your guide will tell you where it is fine.",
+  "Hotel availability, opening dates and fees change; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this signature Ladakh trip cost?",
+   "a": "We price it from about ₹2,00,000 per person, twin sharing, for 8 nights including the four hotels, most meals, a private SUV and driver, a private guide, fees and entries. Flights to Leh are extra. Prices for Chamba Camp vary by date and tent type."
+  },
+  {
+   "q": "Why do we stay at Thiksey instead of in Leh?",
+   "a": "Chamba Camp is quiet, at about Leh's height, with meals on site and Thiksey Monastery minutes away. It is an ideal place for the first days, when you should rest rather than move around town. Leh itself is a 30-minute drive for the old town and bazaar."
+  },
+  {
+   "q": "Is this trip suitable for honeymooners?",
+   "a": "Yes. All four stays are private and romantic in their own way: a tent facing a monastery, a village manor among apricot trees, and cottages in a poplar grove. The pace is relaxed, with time to rest together. Pangong can be added for one night if you want the lake."
+  },
+  {
+   "q": "Can we add Pangong Tso?",
+   "a": "Yes. The best way is via the Shyok road from Nubra to Pangong for one night in the best available camp, then back to Leh. It adds a night and a long drive; there is no luxury hotel at the lake. We plan it only after you have spent five or more nights in Ladakh."
+  },
+  {
+   "q": "Is the private guide included all the way?",
+   "a": "Yes. Your guide joins you from the airport to the last day, explaining the monasteries, history and village life, helping with permits and checkposts, and keeping an eye on how everyone is coping with the altitude."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "June to early September, when all three seasonal stays are open and Khardung La is reliably clear. Late May and late September are quieter, but check opening dates for each hotel. Outside the season we offer a winter version based at The Grand Dragon."
+  },
+  {
+   "q": "What if someone feels unwell at altitude?",
+   "a": "Tell your guide at once. We keep the plan flexible: rest days can be extended, and Nubra can be dropped. Hotels can arrange oxygen and doctors in Leh. Descending is the most effective treatment for serious symptoms. Travel insurance that covers altitude and evacuation is essential."
+  },
+  {
+   "q": "Are meals included?",
+   "a": "Yes. Chamba Camp, Nimmu House and Lchang Nang usually include all meals in their rates; we include breakfast and dinner at The Grand Dragon. Expect Ladakhi, Indian and continental dishes. Tell us about dietary needs in advance."
+  },
+  {
+   "q": "Can children join this trip?",
+   "a": "Children are welcome at most of these stays, but check age policies for Chamba Camp when you book. The trip's slow pace suits families, and children usually love the camels and the dunes. Talk to your doctor about altitude for very young children."
+  }
+ ]
+}

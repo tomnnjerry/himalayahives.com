@@ -1,0 +1,190 @@
+{
+ "slug": "kashmir-saver-gurez-valley-6n",
+ "title": "Gurez Valley on a budget by shared Sumo",
+ "region": "kashmir",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "road-trips",
+  "homestays-and-villages",
+  "photography",
+  "treks-and-walks"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 1
+  },
+  {
+   "place": "gurez-valley",
+   "nights": 4
+  },
+  {
+   "place": "srinagar",
+   "nights": 1
+  }
+ ],
+ "start": "Srinagar airport or Srinagar railway station",
+ "end": "Srinagar airport or Srinagar railway station",
+ "price_from_inr": 14500,
+ "price_note": "Per person, twin sharing: 2 nights in a Srinagar hostel private room and 4 at JKTDC Dawar with breakfast and dinner, buses and shared Sumos, a shared car to Tulail; flights or trains extra.",
+ "transport": "JKSRTC or private bus to Bandipora, shared Sumos, one shared car day",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  2,
+  2,
+  2,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Saver Gurez trip, 6 nights: bus and shared Sumo over the Razdan Pass, four nights at JKTDC Dawar and a day in Tulail, from ₹14,500 per person.",
+ "summary": "Six nights for travellers who want Kashmir without the crowds: bus to Bandipora, a shared Sumo over the 3,300 m Razdan Pass, and four nights at Dawar in the Kishanganga valley under Habba Khatoon peak. Walks among Shina-speaking log villages and a day upstream in Tulail, with honest prices and basic rooms.",
+ "intro": [
+  "Gurez is a high, narrow valley on the Kishanganga river north of Wular Lake, cut off by snow on the Razdan Pass for about half the year. Its people are Dards who speak Shina, not Kashmiri, and build houses of logs and stone. Because it sits close to the Line of Control, Indians register with ID at checkposts; foreign nationals have needed permission from the Bandipora district office. Check current status before you travel.",
+  "We travel the way people from Gurez do: a bus from Srinagar to Bandipora and a shared Sumo that leaves Bandipora in the morning for Dawar. Four nights at the JKTDC property in Dawar give time for walks, one shared car day upstream to Tulail, and a buffer for the road. Rooms are plain, hot water may come by bucket, and power cuts are normal."
+ ],
+ "highlights": [
+  "The Razdan Pass at about 3,300 m with views back to Wular Lake",
+  "Habba Khatoon peak rising above Dawar",
+  "Log-and-stone villages of the Shina-speaking Dard community",
+  "A shared car day up the Kishanganga into Tulail",
+  "Four nights in a valley with few tourists and no traffic"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Srinagar, old city walk",
+   "place": "srinagar",
+   "overnight": "Zostel Srinagar, Nishat",
+   "drive": "≈ 20 km · 45 min from the airport",
+   "text": "Reach Srinagar by midday and check in at Zostel in Nishat. In the afternoon take an auto to the old city: the Jamia Masjid with its wooden pillars, the Khanqah-e-Moula shrine on the Jhelum bank with its painted wooden interior, and the lanes of copper and spice shops between them. Dress modestly and ask before photographing inside shrines. Buy photocopies of your ID tonight; you will need several for Gurez checkposts.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Over the Razdan Pass to Dawar",
+   "place": "gurez-valley",
+   "overnight": "JKTDC Tourist Bungalow, Dawar",
+   "drive": "≈ 125 km · 6–7 h by bus and shared Sumo",
+   "text": "Leave by 6.30 am for Bandipora, about 60 km, by JKSRTC or private bus for ₹100–200. At Bandipora find the Gurez Sumo stand; vehicles to Dawar leave in the morning and fill fast, at ₹400–700 a seat. The road climbs through Tragbal's forest to the Razdan Pass, about 3,300 m, then drops to the Kishanganga at Kanzalwan. You register at checkposts on the way. Reach Dawar mid-afternoon and rest; you have climbed far from Srinagar today.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Dawar and the river villages",
+   "place": "gurez-valley",
+   "overnight": "JKTDC Tourist Bungalow, Dawar",
+   "drive": "",
+   "text": "An easy day to adjust. Walk Dawar's main street and out along the Kishanganga past fields of potato, maize and barley grown in the short summer. Look at how houses are built: log walls on stone bases, with roofs that carry the winter snow. Habba Khatoon peak, named after the 16th-century Kashmiri poet-queen, dominates the view; local tradition links a spring at its foot to her. Greet people with Assalamu alaikum and ask before taking portraits.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Upstream to Tulail",
+   "place": "gurez-valley",
+   "overnight": "JKTDC Tourist Bungalow, Dawar",
+   "drive": "≈ 80 km round trip · full day",
+   "text": "Share a car with other guests for Tulail, the upper Kishanganga valley east of Dawar; a car for the day has cost about ₹3,500–5,000, so ₹900–1,300 each for four people. The road follows the river past scattered villages, wooden mosques and summer pastures. Carry ID; there are more checkposts and some stretches where you should not stop or take photographs. Pack lunch and water, as eating places are few. Return to Dawar before dark.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "A slow day in Gurez",
+   "place": "gurez-valley",
+   "overnight": "JKTDC Tourist Bungalow, Dawar",
+   "drive": "",
+   "text": "Keep this day free. It is the buffer if a Sumo was full or the road closed for an hour. If all went to plan, walk up the slopes behind Dawar for a wider view of the valley, sit by the river, or visit the small market for local rajma and walnuts. In the evening, the bungalow's staff can advise on tomorrow's Sumo timing; book a seat the night before if you can.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Back to Srinagar",
+   "place": "srinagar",
+   "overnight": "Zostel Srinagar, Nishat",
+   "drive": "≈ 125 km · 6–7 h by shared Sumo and bus",
+   "text": "Take the morning Sumo from Dawar back over the Razdan Pass to Bandipora, stopping at the top if the driver allows, then a bus to Srinagar. If you reach town by mid-afternoon, walk the Boulevard along Dal Lake at sunset. Dinner can be a plate of Kashmiri rogan josh or a vegetarian haak and rice at a local restaurant near Dal Gate for ₹300–500.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Departure from Srinagar",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 20 km · 45 min to the airport",
+   "text": "A last morning in Srinagar. Walk to Nishat Bagh as it opens, or take an auto to a neighbourhood bakery for nun chai and fresh bread before heading to the airport or the railway station. Allow at least two hours at the airport for the security checks, which start at the outer gate.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-srinagar",
+  "jktdc-dawar-gurez"
+ ],
+ "includes": [
+  "2 nights in a Zostel Srinagar private room and 4 nights at JKTDC Dawar, twin sharing",
+  "Breakfast and dinner in Gurez",
+  "Bus and shared Sumo fares Srinagar–Bandipora–Dawar and back",
+  "Your share of a car day to Tulail, based on four people",
+  "Breakfast on the last two mornings in Srinagar"
+ ],
+ "excludes": [
+  "Flights or trains to and from Srinagar",
+  "Lunches and Srinagar dinners",
+  "Airport and station transfers",
+  "Any extra car hire in Gurez",
+  "Permits or permissions for foreign nationals"
+ ],
+ "good_to_know": [
+  "The Razdan Pass is about 3,300 m; you cross it in a day and sleep near 2,400 m, which most healthy people manage. Talk to your doctor if you have heart or lung conditions.",
+  "Carry original ID (Aadhaar or passport) and at least four photocopies for checkposts.",
+  "Mobile signal is weak or absent outside Dawar; tell family you may be out of contact.",
+  "Cash is essential; there are few ATMs and they are not reliable. Carry what you need from Srinagar.",
+  "Do not photograph army posts, bridges or vehicles, and follow any instruction at checkposts.",
+  "The road usually opens late May and closes with snow in November; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a permit to visit Gurez?",
+   "a": "Indian citizens do not need a separate permit but must register with photo ID at army and police checkposts on the way; Aadhaar is easiest. Carry the original and several photocopies. Foreign nationals have needed prior permission from the Deputy Commissioner in Bandipora. Rules in border areas change, so check current status before you travel."
+  },
+  {
+   "q": "When is the road to Gurez open?",
+   "a": "The Bandipora–Gurez road over the Razdan Pass usually opens from about late May and stays open until snow closes it in November. June to early October is the safest window. Early-season openings depend on snow clearance and can shift by weeks. Check current status before you travel and keep a buffer day."
+  },
+  {
+   "q": "How do I get a shared Sumo from Bandipora to Gurez?",
+   "a": "Reach Bandipora by 8.30 am. Sumos to Dawar leave from the Gurez stand in the morning and go when full, at about ₹400–700 a seat. Ask your bus conductor to drop you near the stand. In June and on holiday weekends seats fill quickly; if you miss the morning departures, a private car from Bandipora is the fallback."
+  },
+  {
+   "q": "Is the JKTDC stay in Dawar comfortable?",
+   "a": "It is basic and clean enough for a few nights. Expect simple rooms or log huts, warm blankets, limited menus and power cuts. Bathrooms are attached or shared depending on the unit, and hot water may come by bucket. Book through the official JKTDC channels and confirm before you travel, because services start late in the season."
+  },
+  {
+   "q": "Will my phone and internet work in Gurez?",
+   "a": "Do not count on it. Postpaid connections have patchy signal in and around Dawar and usually none in Tulail. Prepaid SIMs from outside Jammu and Kashmir generally do not work anywhere in the valley. Download offline maps, tell family your plan, and expect to be out of contact for much of the trip."
+  },
+  {
+   "q": "Is Gurez safe for tourists?",
+   "a": "Domestic tourists have visited Gurez in growing numbers since the late 2010s, and the valley's people are known for hospitality. It is a border area with a heavy army presence. Register at every checkpost, do not photograph military sites, stay on main roads and follow instructions. Follow official advisories and check current status before you travel."
+  },
+  {
+   "q": "Can families and seniors do this trip?",
+   "a": "Yes, if they can handle long, winding road days and basic rooms. The Razdan Pass road is narrow and slow, and Sumos are cramped for 6–7 hours. For seniors, we suggest booking the whole Sumo or a private car from Bandipora, about ₹6,000–8,000 from Srinagar one way, for comfort and stops."
+  },
+  {
+   "q": "What should I pack for Gurez?",
+   "a": "Warm layers even in July, as nights near 2,400 m drop to 5–10 °C; a rain shell; walking shoes; a torch and power bank; basic medicines; snacks; and cash. Women will be comfortable in loose clothes with a scarf. Carry a refillable bottle and bring your plastic back to Srinagar; waste collection in the valley is limited."
+  },
+  {
+   "q": "Can foreigners join this saver trip?",
+   "a": "Foreign nationals have needed prior permission from the district administration in Bandipora to visit Gurez, which can take time and is not guaranteed. If permission is granted, the route is the same. Without it, we suggest the Srinagar, Gulmarg and Pahalgam saver trip instead. Check current status before you travel."
+  }
+ ]
+}

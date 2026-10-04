@@ -1,0 +1,78 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}How we work · from first message to last transfer · Himalaya Hives{% endblock %}
+{% block description %}How Himalaya Hives plans a trip: your enquiry, a route with an altitude profile and an itemised quote within one working day, a deposit to book, and WhatsApp support on the road.{% endblock %}
+{% block og_title %}How we work{% endblock %}
+{% block head_extra %}<style>
+.steps { list-style: none; padding: 0; margin: 0; display: grid; gap: 0; border-top: 1px solid var(--rule); counter-reset: st; }
+.steps li { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 20px; padding: 26px 0; border-bottom: 1px solid var(--rule); }
+.steps .hl__n { width: 46px; height: 52px; font: 600 18px/1 var(--mono); }
+.steps h3 { font: 400 clamp(24px, 2.3vw, 30px)/1.12 var(--display); margin: 4px 0 8px; }
+.steps p { margin: 0; color: var(--ink-2); font-size: 17px; max-width: 62ch; }
+.steps .readout { display: block; margin-bottom: 4px; }
+@media (max-width: 560px) { .steps li { grid-template-columns: 1fr; gap: 10px; } }
+</style>{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="how" eyebrow="How we work" title="From your first message to the last transfer" lede="Four steps, one planner, and nothing to pay until you have a route and a price you are happy with." %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <ol class="steps">
+        <li><span class="hl__n">01</span><div><span class="readout">You</span><h3>Tell us the valley, the month and the budget</h3>
+          <p>Use the <a href="{% url 'plan' %}?from={{ request.path|urlencode }}">three-step form</a>, email{% if wa_base %} or WhatsApp{% endif %}. A rough idea is enough: "Ladakh in July, two of us, Comfort" is a good start. Tell us about children, older travellers and any heart or lung conditions, since they shape the route.</p></div></li>
+        <li><span class="hl__n">02</span><div><span class="readout">Within one working day</span><h3>A route, an altitude profile and an itemised quote</h3>
+          <p>Your planner sends a day-by-day route with where you sleep, drive times, the sleeping altitude of every night and a written quote with every line priced. Above 3,000 m we pace the climb by the usual advice of 300 to 500 m of sleeping height a day, with rest days. Change anything, as often as you like: swap a hotel, add a night, mix tiers.</p></div></li>
+        <li><span class="hl__n">03</span><div><span class="readout">When you are sure</span><h3>A deposit confirms the booking</h3>
+          <p>Accept the quote in writing and pay the deposit. We then confirm every hotel, car, permit and guide in writing, and send current guidance on permits and roads. The balance is due before departure. The amounts, dates and methods are in our <a href="{% url 'policy' 'payments' %}">payments policy</a> and <a href="{% url 'policy' 'booking-terms' %}">booking terms</a>.</p></div></li>
+        <li><span class="hl__n">04</span><div><span class="readout">On the road</span><h3>Your planner stays on WhatsApp</h3>
+          <p>The same planner is reachable on WhatsApp while you travel. If a pass closes, a flight moves or someone feels the altitude, we reroute with drivers, guides and homestay families who know the valley.</p></div></li>
+      </ol>
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>What you can count on</h2>
+        <div class="ledger">
+          <div class="ledger__row"><span>First reply</span><span class="ledger__dots"></span><b>1 working day</b></div>
+          <div class="ledger__row"><span>Payment to start</span><span class="ledger__dots"></span><b>Nothing</b></div>
+          <div class="ledger__row"><span>Quote</span><span class="ledger__dots"></span><b>Written, itemised</b></div>
+          <div class="ledger__row"><span>Planner</span><span class="ledger__dots"></span><b>One, start to end</b></div>
+          <div class="ledger__row"><span>On the road</span><span class="ledger__dots"></span><b>WhatsApp support</b></div>
+        </div>
+        <a class="btn btn--foil btn--block" style="margin-top:18px" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="hww-plan">Start step one</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="tiers">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Three tiers</p><h2 class="d-1">Same valleys, three ways to travel</h2>
+      <p class="lede">The altitude rules and the planner stay the same. What changes is how you move, where you sleep and what you spend.</p></div></div>
+    <div class="tiers">{% for t in nav_tiers %}<div>
+      <span class="tier tier--{{ t.slug }}" style="align-self:start">{{ t.name }}</span>
+      {% if t.frm %}<p class="tiers__from"><small>Trips from, per person</small>{{ t.frm|inr }}</p>{% endif %}
+      <p class="muted" style="margin:0">{{ t.long }}</p>
+      <a class="link" style="margin-top:auto" href="{% url 'tier' t.slug %}">{{ t.name }} trips {% icon "arrow" %}</a>
+    </div>{% endfor %}</div>
+    <p class="small muted" style="margin-top:16px">Prices are indicative "from" prices in INR per person, twin sharing, for 2026. Your written quote is what counts.</p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">What we write down</p><h2 class="d-2">Facts you can check</h2></div></div>
+    <div class="hl">
+      <div><span class="hl__n">{% icon "altitude" %}</span><h3>Sleeping altitude</h3><p>Every trip shows the height of each night, so you can see the climb before you book. <a href="{% url 'tool_altitude' %}">Altitude planner</a>.</p></div>
+      <div><span class="hl__n">{% icon "note" %}</span><h3>Sourced field notes</h3><p>{% if counts.places %}Across {{ counts.places }} places, our{% else %}Our{% endif %} lesser-known facts name their source. <a href="{% url 'field_notes' %}">Field notes</a>.</p></div>
+      <div><span class="hl__n">{% icon "shield" %}</span><h3>Rules that change</h3><p>Permits, pass openings and fees are written as we understand them, with a reminder to check current status. <a href="{% url 'tool_permits' %}">Permit checker</a>.</p></div>
+    </div>
+  </div>
+</section>
+
+{% if faqs %}<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    <p class="eyebrow">Questions</p><h2 class="d-2" style="margin-bottom:18px">Before you write to us</h2>
+    {% include "hives/partials/faq.html" with open_first=True %}
+    <a class="link" style="margin-top:20px" href="{% url 'faq' %}">More questions answered {% icon "arrow" %}</a>
+  </div>
+</section>{% endif %}
+{% endblock %}

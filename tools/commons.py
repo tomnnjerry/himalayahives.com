@@ -11,7 +11,7 @@ import time
 import urllib.parse
 import urllib.request
 
-UA = "TalesOfLuxuryBuild/1.0 (https://himalayahives.com; content build script)"
+UA = "HimalayaHivesBuild/1.0 (https://himalayahives.com; content build script)"
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 OK_LICENSES = re.compile(r"^(cc0|public domain|pd|cc by(-sa)? ?[1-4]\.0|cc by(-sa)?$|cc by(-sa)? [1-4]\.0)", re.I)

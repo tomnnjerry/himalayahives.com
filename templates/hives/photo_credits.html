@@ -1,0 +1,41 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Photo credits · Wikimedia Commons photographers · Himalaya Hives{% endblock %}
+{% block description %}Every photo on Himalaya Hives comes from Wikimedia Commons under a free licence. Here is each one with its author, licence and source page.{% endblock %}
+{% block og_title %}Photo credits{% endblock %}
+{% block head_extra %}<style>
+.credits td img { width: 72px; height: 54px; object-fit: cover; display: block; }
+.credits td { font-size: 14.5px; overflow-wrap: anywhere; }
+.credits td b { display: block; font-size: 15px; }
+</style>{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="credits" eyebrow="Photo credits" title="The photographers behind the pictures" lede="Every photo on this site comes from Wikimedia Commons under a free licence. Thank you to everyone who shares their work there." %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    {% if images %}
+    <p class="readout" style="margin:0 0 18px"><b>{{ images|length }}</b> photos · each links to its Commons page with full licence terms</p>
+    <div class="tablewrap">
+      <table class="table credits">
+        <thead><tr><th scope="col">Photo</th><th scope="col">Title</th><th scope="col">Author</th><th scope="col">Licence</th><th scope="col">Source</th></tr></thead>
+        <tbody>{% for img in images %}<tr>
+          <td>{% if img.thumb or img.url %}<img src="{{ img|src:500 }}" alt="{{ img.description|truncatechars:90 }}" loading="lazy" width="72" height="54">{% endif %}</td>
+          <td><b>{{ img.file|cut:"File:"|truncatechars:70 }}</b>{% if img.description %}<span class="muted">{{ img.description|truncatechars:110 }}</span>{% endif %}</td>
+          <td>{{ img.author|default:"Unknown"|truncatechars:60 }}</td>
+          <td>{% if img.license_url %}<a href="{{ img.license_url }}" rel="noopener license" target="_blank">{{ img.license|default:"See source" }}</a>{% else %}{{ img.license|default:"See source" }}{% endif %}</td>
+          <td>{% if img.source %}<a href="{{ img.source }}" rel="noopener" target="_blank">Commons page</a>{% endif %}</td>
+        </tr>{% endfor %}</tbody>
+      </table>
+    </div>
+    {% else %}
+    <div class="panel panel--line" style="max-width:720px">
+      <h2>Photos are being added</h2>
+      <p>We are choosing freely licensed photos from Wikimedia Commons for each place. As they go up, every one will be listed here with its author, licence and a link to its source page. Until then, pages show our drawn contour maps instead.</p>
+      <a class="link" href="{% url 'lands' %}">Browse the hives {% icon "arrow" %}</a>
+    </div>
+    {% endif %}
+    <div class="prose" style="font-size:16.5px;max-width:72ch;margin-top:34px">
+      <p>If you are the author of a photo here and something is wrong with the credit, or you would like it removed, write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> and we will correct it. Maps on this site are drawn from Natural Earth outlines, which are in the public domain.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

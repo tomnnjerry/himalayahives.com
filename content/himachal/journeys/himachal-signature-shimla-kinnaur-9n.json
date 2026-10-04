@@ -1,0 +1,222 @@
+{
+ "slug": "himachal-signature-shimla-kinnaur-9n",
+ "title": "Shimla and Kinnaur with Oberoi stays",
+ "region": "himachal",
+ "tier": "signature",
+ "nights": 9,
+ "themes": [
+  "road-trips",
+  "photography",
+  "homestays-and-villages",
+  "honeymoons"
+ ],
+ "stops": [
+  {
+   "place": "shimla",
+   "nights": 2
+  },
+  {
+   "place": "sangla-chitkul",
+   "nights": 3
+  },
+  {
+   "place": "kalpa",
+   "nights": 2
+  },
+  {
+   "place": "shimla",
+   "nights": 2
+  }
+ ],
+ "start": "Chandigarh airport (via the Kalka–Shimla toy train)",
+ "end": "Chandigarh airport",
+ "price_from_inr": 230000,
+ "price_note": "Per person, twin sharing: 2 nights Wildflower Hall, 2 nights The Oberoi Cecil, 5 nights in the best rooms in Kinnaur, most meals, private SUV and guide throughout, toy train tickets; flights extra.",
+ "transport": "Private SUV with driver and guide; toy train from Kalka",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Shimla and Kinnaur in 9 nights: toy train, Wildflower Hall and The Oberoi Cecil, Sangla, Chitkul and Kalpa with a private SUV and guide, from ₹2,30,000.",
+ "summary": "The old summer capital and the road towards Tibet, done in comfort. Toy train to Shimla, two nights at Wildflower Hall, then the Sutlej gorge to the Sangla valley and Kalpa with a private SUV and guide, and two closing nights at The Oberoi Cecil on the Mall.",
+ "intro": [
+  "Shimla was the summer capital of British India, and from it the Hindustan–Tibet road was cut east along the Sutlej towards the Tibetan border. This journey follows both stories. You arrive by the Kalka–Shimla railway, part of the Mountain Railways of India World Heritage Site, and stay at Wildflower Hall at Chharabra, on the site of Lord Kitchener's former residence, in deodar and oak forest above the town.",
+  "Then the road: Narkanda's orchards, the Sutlej gorge and the Baspa valley, where we use the best rooms at the Banjara camp by the river for three nights, and Kalpa, facing the Kinnaur Kailash range. Kinnaur has no luxury hotels; what it offers is space, villages and mountains, with a guide who explains them. Two nights at The Oberoi Cecil close the circle."
+ ],
+ "highlights": [
+  "The Kalka–Shimla toy train in first class",
+  "Two nights in the forest at Wildflower Hall",
+  "Three nights by the Baspa river in the Sangla valley",
+  "Chitkul and the wooden temples of Kamru and Kalpa",
+  "A guided heritage walk in Shimla from The Oberoi Cecil"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Toy train to Shimla",
+   "place": "shimla",
+   "overnight": "Wildflower Hall, An Oberoi Resort, Chharabra",
+   "drive": "≈ 30 km to Kalka, then 96 km by train",
+   "text": "Your driver meets you at Chandigarh airport and takes you to Kalka, while your luggage goes ahead by road. Board the narrow-gauge toy train for the 96 km climb to Shimla, about 5–6 hours through tunnels and over arched bridges, with a stop at Barog. At Shimla station the car is waiting to take you 13 km up to Wildflower Hall at about 2,500 m. Dinner at the hotel.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Forest walks at Chharabra",
+   "place": "shimla",
+   "overnight": "Wildflower Hall, An Oberoi Resort, Chharabra",
+   "drive": "",
+   "text": "A slow day at altitude. Walk the forest trails around Chharabra with your guide, through deodar, oak and rhododendron, or take a nature walk arranged by the hotel. In the afternoon, rest, use the spa or drive the short distance to Mashobra. Your guide briefs you on the road ahead and on the culture of Kinnaur over tea.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Along the Sutlej to Sangla",
+   "place": "sangla-chitkul",
+   "overnight": "Banjara Camp and Retreat, Sangla",
+   "drive": "≈ 210 km · 8 h",
+   "text": "Leave early. The road climbs to Narkanda at about 2,700 m, then drops through apple country to Rampur, the old capital of the Bushahr state, where we stop at the Padam Palace. Follow the gorge past Jhakri and the Nathpa dam to Karcham, and turn up the Baspa to Sangla. Check into the best room at the Banjara camp by the river, and dinner at the camp.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Chitkul and Rakchham",
+   "place": "sangla-chitkul",
+   "overnight": "Banjara Camp and Retreat, Sangla",
+   "drive": "≈ 26 km each way · 1 h",
+   "text": "Drive up the valley through Rakchham to Chitkul, at about 3,450 m, the last village on the road. Your guide walks you through the village to the Mathi temple and down to the river meadows. Picnic lunch by the Baspa. Stop at Rakchham on the way back for a walk among its stone and timber houses. Back at camp by mid-afternoon to rest.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Kamru and Batseri",
+   "place": "sangla-chitkul",
+   "overnight": "Banjara Camp and Retreat, Sangla",
+   "drive": "",
+   "text": "Walk up to Kamru village and its fort temple, once the seat of the Bushahr rulers, and the Kamakhya Devi shrine. In the afternoon, a short drive to Batseri, a village of apple orchards and slate-roofed houses along the Baspa. Your guide explains how Kinnauri villages balance Hindu and Buddhist practice, and the role of the village devta in local decisions.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Sangla to Kalpa",
+   "place": "kalpa",
+   "overnight": "Best view rooms available in Kalpa",
+   "drive": "≈ 45 km · 2 h",
+   "text": "Drive down to Karcham and up through Reckong Peo to Kalpa, at about 2,960 m. Check into the best view room we can secure, facing the Kinnaur Kailash range. In the late afternoon, walk through Kalpa village to the Narayan-Nagini temple with its carved wood and the small gompa nearby. Watch the light change on the peaks at sunset.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Roghi, Kothi and Reckong Peo",
+   "place": "kalpa",
+   "overnight": "Best view rooms available in Kalpa",
+   "drive": "≈ 20 km in short drives",
+   "text": "Morning drive or walk along the cliff road to Roghi village, with views down to the Sutlej. Then visit Kothi, just below Reckong Peo, and its Chandika Devi temple. In Peo's market, look for chilgoza, Kinnauri caps with their green velvet band, and shawls. Free afternoon at Kalpa.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Back to Shimla",
+   "place": "shimla",
+   "overnight": "The Oberoi Cecil, Shimla",
+   "drive": "≈ 225 km · 8–9 h",
+   "text": "A long day back down the Sutlej, with stops for lunch at Rampur or Narkanda. Reach Shimla by evening and check into The Oberoi Cecil on the Mall at Chaura Maidan, a restored late-19th-century hotel. Dinner in the hotel.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Shimla heritage walk",
+   "place": "shimla",
+   "overnight": "The Oberoi Cecil, Shimla",
+   "drive": "",
+   "text": "With your guide, walk the Mall and the Ridge: Christ Church, the Gaiety Theatre, the Town Hall and Scandal Point. Drive to the Viceregal Lodge on Observatory Hill, now the Indian Institute of Advanced Study, where the Simla Conference of 1945 was held; guided tours run on most days. Afternoon free; farewell dinner at the hotel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Shimla to Chandigarh",
+   "place": "shimla",
+   "overnight": "",
+   "drive": "≈ 115 km · 3.5–4 h",
+   "text": "Drive down via Solan and the Parwanoo highway to Chandigarh airport for your flight. With time to spare, stop at the Rock Garden in Chandigarh.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "oberoi-wildflower-hall-shimla",
+  "banjara-camp-sangla",
+  "hptdc-hotel-kinner-kailash-kalpa",
+  "oberoi-cecil-shimla"
+ ],
+ "includes": [
+  "9 nights twin sharing: Wildflower Hall, Banjara Camp and Retreat, best available view rooms in Kalpa, The Oberoi Cecil",
+  "Breakfast and dinner daily, lunches in Kinnaur",
+  "Private SUV with experienced mountain driver for all days",
+  "Private English- or Hindi-speaking guide from Shimla to Kalpa and back",
+  "Kalka–Shimla toy train tickets and all sightseeing entry fees"
+ ],
+ "excludes": [
+  "Flights to and from Chandigarh",
+  "Spa treatments and drinks",
+  "Tips for driver and guide",
+  "Travel insurance",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "You sleep up to 2,960 m in Kalpa and visit Chitkul at 3,450 m; take the first days slowly, drink water and talk to your doctor if you have heart or lung conditions.",
+  "Kinnaur has no luxury hotels; the Sangla and Kalpa nights are comfortable but simpler than the Oberoi properties.",
+  "The Shimla–Kinnaur road has rockfall zones and can be closed for hours; we keep the day plan flexible.",
+  "Toy train timings and coaches change by season; we book the best available class.",
+  "Foreign nationals need no permit for this route; an Inner Line Permit is needed only beyond Jangi. Check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a luxury Himachal and Kinnaur trip cost?",
+   "a": "This plan is from ₹2,30,000 per person on twin sharing for 9 nights, with Oberoi stays in Shimla, the best rooms in Kinnaur, a private SUV, a guide and most meals. Prices rise in May–June and October and depend on room category at Wildflower Hall."
+  },
+  {
+   "q": "Is Wildflower Hall worth the price?",
+   "a": "For a quiet, forested stay above Shimla with excellent service, yes. It sits at Chharabra, about 13 km from the Mall, on the site of Lord Kitchener's former residence. If you want to walk out into Shimla's streets, The Oberoi Cecil suits better, so we use both."
+  },
+  {
+   "q": "Is Kinnaur comfortable enough for a luxury trip?",
+   "a": "Comfortable, yes; luxurious, no. We use the best riverside lodge in Sangla and the best view rooms in Kalpa, with good food and a private guide. The reward is the landscape and the villages, which no luxury hotel could add."
+  },
+  {
+   "q": "Is this trip suitable for a honeymoon?",
+   "a": "Yes. Wildflower Hall and The Oberoi Cecil suit couples, and Sangla's riverside camp is quiet. Drives are long on three days, so it suits couples who enjoy the road. We can add a private dinner or spa time."
+  },
+  {
+   "q": "Will altitude be a problem?",
+   "a": "Most guests are fine. Sleeping heights stay below 3,000 m and Chitkul is a day visit. Mild headache or poor sleep is common on the first night in Kalpa. Talk to your doctor before travelling if you have health concerns."
+  },
+  {
+   "q": "What is the best time for this journey?",
+   "a": "May–June and September–October. October has the clearest skies and autumn colour; September brings the apple harvest. We avoid July–August for rockfall and December–March for snow in the upper Baspa valley."
+  },
+  {
+   "q": "Can we skip the toy train?",
+   "a": "Yes. The car can drive you from Chandigarh to Chharabra in about 4 hours. The toy train adds a slow, scenic half-day; many guests love it, but it is not for everyone."
+  },
+  {
+   "q": "Is there mobile network in Kinnaur?",
+   "a": "Jio, Airtel and BSNL work in Sangla, Reckong Peo and Kalpa, but signal is weak in Chitkul. Wi-Fi in Kinnaur stays is basic. Shimla's hotels have reliable internet."
+  },
+  {
+   "q": "Can we extend to Spiti?",
+   "a": "Yes. Indian citizens can continue from Kalpa via Nako and Tabo to Kaza and exit via Manali when the passes are open. It adds 5–7 nights and needs careful acclimatisation; we plan it as a separate Spiti extension."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{% if r %}{{ name }} experiences in {{ r.name }}{% else %}{{ name }} in the Himalaya{% endif %} · {{ exps|length }} to choose from · Himalaya Hives{% endblock %}
+{% block description %}{% if r %}{{ name }} in {{ r.name }}: {{ tagline|lower }}.{% else %}{{ name }} in the Himalaya: {{ tagline|lower }}.{% endif %} {{ exps|length }} experiences with duration, best time and real costs.{% endblock %}
+{% block og_title %}{% if r %}{{ name }} in {{ r.name }}{% else %}{{ name }} in the Himalaya{% endif %}{% endblock %}
+{% block body_attrs %}{% if r %} data-land="{{ r.slug }}"{% endif %}{% endblock %}
+{% block fab_land %}{% if r %}&land={{ r.slug }}{% endif %}{% endblock %}
+{% block cta %}{% if r %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Plan "|add:r.name|add:" around these days" %}{% else %}{% include "hives/partials/cta.html" %}{% endif %}{% endblock %}
+{% block content %}
+<header class="phead ground"{% if r %} data-land="{{ r.slug }}"{% endif %}>
+  {% topo "kind-"|add:kind %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow"><span class="hbadge hbadge--sm hbadge--foil" style="vertical-align:middle;margin-right:8px">{% icon kind %}</span>{% if r %}{{ r.name }} · {% endif %}{{ exps|length }} experience{{ exps|length|pluralize }}</p>
+      <h1 class="d-1">{% if r %}{{ name }} in {{ r.name }}{% else %}{{ name }} in the Himalaya{% endif %}</h1>
+      <p class="lede">{{ tagline }}</p>
+      <p class="answer">{{ intro }}</p>
+    </div>
+  </div>
+  {% ridgeline "kind-"|add:kind 4 %}
+</header>
+
+<section class="sec">
+  <div class="wrap">
+    {% if exps %}
+    {% if not r and lands|length > 1 %}<div class="filters" data-filter-group="#kind-list">
+      <label class="sr-only" for="k-region">Hive</label><select id="k-region" data-key="region"><option value="">Every hive</option>{% for l in lands %}<option value="{{ l.slug }}">{{ l.name }}</option>{% endfor %}</select>
+      <span class="filters__count" data-filter-count>Showing {{ exps|length }}</span>
+    </div>{% endif %}
+    <div class="grid grid--4" id="kind-list" data-fill>{% for e in exps %}<a class="cell" href="{{ e.url }}" data-land="{{ e.region }}" data-item data-region="{{ e.region }}" data-kind="{{ e.kind }}">
+      <div class="cell__ph">{% with img=e|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+        <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon e.region %}</span></div>
+      <div class="cell__body">
+        <span class="readout">{{ e.place_obj.name }}{% if not r %}, {{ e.region_obj.name }}{% endif %} · {{ e.duration }}</span>
+        <h2 class="cell__title">{{ e.title }}</h2>
+        <p class="cell__text">{{ e.summary|truncatechars:120 }}</p>
+        {% if e.cost %}<div class="cell__foot"><span class="readout">{{ e.cost|truncatechars:64 }}</span></div>{% endif %}
+      </div>
+    </a>{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>Nothing listed here yet</h2><p>We are still writing up {{ name|lower }} days{% if r %} in {{ r.name }}{% endif %}. Tell us what you have in mind and a planner will suggest where and when.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if r %}&land={{ r.slug }}{% endif %}">Ask a planner</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Other kinds</p><h2 class="d-2" style="margin-bottom:16px">{% if r %}More in {{ r.name }}{% else %}Something else{% endif %}</h2>
+      <div class="chips">{% for k, n in others %}<a class="chip" href="{% if r %}{% url 'region_kind' r.slug k %}{% else %}{% url 'experience_kind' k %}{% endif %}">{% icon k %}{{ n }}</a>{% empty %}<a class="chip" href="{% url 'experiences' %}">{% icon "compass" %}Every experience</a>{% endfor %}</div>
+      {% if r %}<p style="margin-top:22px"><a class="link" href="{% url 'experience_kind' kind %}">{{ name }} in every hive {% icon "arrow" %}</a></p>{% endif %}
+    </div>
+    <div>
+      <p class="eyebrow">{{ name }} by hive</p><h2 class="d-2" style="margin-bottom:16px">Where to go for {{ name|lower }}</h2>
+      {% if lands %}<div class="ledger">{% for l in lands %}<a class="ledger__row" href="{% url 'region_kind' l.slug kind %}"{% if r and l.slug == r.slug %} aria-current="page"{% endif %}><span>{{ l.name }}</span><span class="ledger__dots"></span><b>{% if r and l.slug == r.slug %}This page{% else %}Best {{ l.best_label|default:"varies" }}{% endif %}</b></a>{% endfor %}</div>
+      {% else %}<p class="muted">Each hive's page lists its {{ name|lower }} days. <a href="{% url 'lands' %}">Compare the hives</a>.</p>{% endif %}
+    </div>
+  </div>
+</section>
+{% endblock %}

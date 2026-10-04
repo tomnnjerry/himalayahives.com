@@ -1,0 +1,181 @@
+{
+ "slug": "kashmir-saver-srinagar-gulmarg-pahalgam-5n",
+ "title": "Srinagar, Gulmarg and Pahalgam on a budget",
+ "region": "kashmir",
+ "tier": "saver",
+ "nights": 5,
+ "themes": [
+  "road-trips",
+  "family-holidays",
+  "food-and-tea",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 2
+  },
+  {
+   "place": "pahalgam",
+   "nights": 2
+  },
+  {
+   "place": "srinagar",
+   "nights": 1
+  }
+ ],
+ "start": "Srinagar airport or Srinagar railway station",
+ "end": "Srinagar airport or Srinagar railway station",
+ "price_from_inr": 12500,
+ "price_note": "Per person, twin sharing: 5 nights in a hostel private room and a JKTDC cottage, shared Sumos, a shared union taxi in Pahalgam, Gondola Phase 1 and a shared shikara hour; flights or trains to Srinagar extra.",
+ "transport": "Shared Sumos, the valley train and a shared union taxi in Pahalgam",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  1,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Saver Kashmir trip, 5 nights: Srinagar's lakes and gardens, a Gulmarg gondola day and the Lidder valley at Pahalgam by shared Sumo, from ₹12,500 per person.",
+ "summary": "Five nights that cover the three names everyone asks about, Srinagar, Gulmarg and Pahalgam, on shared Sumos, the valley train and government cottages. You get the Mughal gardens, a gondola ride, a day in the Lidder valley and a dawn shikara, at prices students and young couples can manage.",
+ "intro": [
+  "Most first trips to Kashmir are sold as private-cab packages at ₹30,000 a head and more. This route does the same ground the way Srinagar's own families travel: shared Sumos from the city's stands, the Banihal–Baramulla DEMU train down the valley, and a JKTDC cottage among the pines in Pahalgam. The trade-off is time. Shared vehicles leave when full, and you will wait at stands. Rooms are simple and clean, not plush.",
+  "We base two nights in Srinagar at Zostel in Nishat, a few minutes' walk from Dal Lake and the Mughal gardens, and go to Gulmarg as a day trip rather than paying Gulmarg room rates. Pahalgam gets two nights so you can split a union taxi for Aru, Betaab Valley and Chandanwari with other travellers. The last night is back in Srinagar, close to the airport and station."
+ ],
+ "highlights": [
+  "Nishat and Shalimar gardens on foot from the hostel",
+  "Gulmarg Gondola Phase 1 to Kongdori on a day trip",
+  "Aru, Betaab Valley and Chandanwari on a shared union taxi",
+  "Saffron fields and the Avantipora temple ruins on the way back",
+  "A dawn shikara through the Dal vegetable market"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Srinagar, Mughal gardens",
+   "place": "srinagar",
+   "overnight": "Zostel Srinagar, Nishat",
+   "drive": "≈ 20 km · 45 min from the airport",
+   "text": "Take a prepaid taxi or the airport bus towards Dal Gate and an auto on to Nishat; from the railway station at Nowgam, an auto or cab takes about 40 minutes. Drop bags at Zostel. In the afternoon walk to Nishat Bagh, the terraced garden laid out in the 1630s by Asif Khan, then take an auto 4 km on to Shalimar Bagh, built for Jahangir. Both charge a small entry fee. Eat at a dhaba on the boulevard for under ₹300.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Day trip to Gulmarg",
+   "place": "gulmarg",
+   "overnight": "Zostel Srinagar, Nishat",
+   "drive": "≈ 55 km each way · 2 h 30 min–3 h by shared Sumo",
+   "text": "Leave by 7 am. Take a shared Sumo to Tangmarg, about ₹150–250 a seat, then a second shared vehicle up the last 13 km of hairpins to Gulmarg for ₹50–100. Book Gondola Phase 1 to Kongdori, near 3,080 m, online in advance for an early slot; tickets have been about ₹800–1,000. Walk the meadow loop past the Maharani temple and St Mary's Church before the clouds build. Return vehicles thin out after 4 pm, so start back by 3.30 pm.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Down the valley to Pahalgam",
+   "place": "pahalgam",
+   "overnight": "JKTDC cottage, Pahalgam",
+   "drive": "≈ 95 km · 3 h 30 min–4 h by train and Sumo",
+   "text": "Take the morning DEMU from Srinagar to Anantnag, about an hour for ₹20–50, then a shared Sumo up the Lidder valley to Pahalgam for ₹100–150. A direct shared Sumo from Srinagar is the other option at ₹250–400. Check in to the JKTDC cottage near the river. In the afternoon, walk the Lidder bank path and through the main bazaar; tonight ask other travellers at the taxi stand or in the cottages if they want to share tomorrow's union taxi.",
+   "meals": "None"
+  },
+  {
+   "day": 4,
+   "title": "Aru, Betaab Valley and Chandanwari",
+   "place": "aru-valley",
+   "overnight": "JKTDC cottage, Pahalgam",
+   "drive": "≈ 60 km round trip · full day by union taxi",
+   "text": "Srinagar taxis cannot run sightseeing here; Pahalgam's taxi union does it at fixed rates posted at the stand. A car covering Aru, Betaab Valley and Chandanwari has cost about ₹3,500–4,500, so four people pay ₹900–1,100 each. Go to Aru first, 12 km up the West Lidder, and walk 30 minutes beyond the village for the meadow. Betaab Valley has a small entry fee. Chandanwari, 16 km up the East Lidder, is the start of the Amarnath route and may be restricted in July and August; check current status before you travel.",
+   "meals": "None"
+  },
+  {
+   "day": 5,
+   "title": "Pampore saffron and Avantipora ruins",
+   "place": "pampore",
+   "overnight": "Zostel Srinagar, Nishat",
+   "drive": "≈ 95 km · 3 h 30 min with stops",
+   "text": "Take a shared Sumo towards Srinagar but get off at Avantipora on the highway to see the stone ruins of the Avantiswami temple, built by King Avantivarman in the 9th century and looked after by the Archaeological Survey of India. Continue by local bus or Sumo 15 km to Pampore, where roadside shops sell saffron grown on the karewa plateaus around the town; buy only sealed packs with a GI label. From Pampore a local bus or Sumo reaches Srinagar in about 40 minutes.",
+   "meals": "None"
+  },
+  {
+   "day": 6,
+   "title": "Dawn shikara and departure",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 20 km · 45 min to the airport",
+   "text": "Be at a Dal ghat by 5.30 am. Shikara owners take boats into the lake's channels where vegetable growers trade from their boats at first light; agree the price before you sit down, and share a boat with others from the hostel to keep it to ₹300–500 each. Back on land, have nun chai and girda bread from a neighbourhood kandur bakery. Leave for the airport or the station by late morning.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-srinagar",
+  "jktdc-pahalgam-huts"
+ ],
+ "includes": [
+  "3 nights in a Zostel Srinagar private room and 2 nights in a JKTDC Pahalgam cottage, twin sharing",
+  "Breakfast on days 2 and 6",
+  "Shared Sumo and train fares on all listed legs",
+  "Your share of a union taxi for Aru, Betaab Valley and Chandanwari, based on four people",
+  "Gulmarg Gondola Phase 1 ticket and a shared one-hour dawn shikara"
+ ],
+ "excludes": [
+  "Flights or trains to and from Srinagar",
+  "Most meals; budget ₹600–900 a day",
+  "Gondola Phase 2, ponies and garden entry fees",
+  "Airport and station transfers",
+  "Anything extra in a private cab"
+ ],
+ "good_to_know": [
+  "All nights are between 1,585 m and 2,200 m; the Gondola Phase 1 top is near 3,080 m, a short visit that most healthy people manage well.",
+  "Prepaid SIM cards from outside Jammu and Kashmir usually do not work here; bring a postpaid connection or buy a local SIM with ID.",
+  "Shared Sumos leave when full, mostly in the morning; plan every move before noon.",
+  "Dress modestly in the old city and at shrines; women should carry a scarf for Hazratbal and mosques.",
+  "Pony and taxi union rates are fixed and posted; ask to see the list before agreeing a price.",
+  "Security rules and access to some meadows change at short notice; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Is ₹12,500 per person realistic for 5 nights in Kashmir?",
+   "a": "Yes, for twin sharing outside June and the peak holiday weeks, using shared transport. It covers rooms, two breakfasts, shared transport, your share of the Pahalgam union taxi, Gondola Phase 1 and a shared shikara. Add flights or trains, meals at ₹600–900 a day, and entry fees. Peak-season room rates can push the total to ₹15,000–17,000."
+  },
+  {
+   "q": "Why not stay a night in Gulmarg?",
+   "a": "Gulmarg has very few cheap beds and its hotel rates are among the highest in the valley, often ₹5,000 a night and up for a double. A day trip from Srinagar by shared Sumo gives you the gondola and meadow for a fraction of that. If you want sunset or snow at night, add one night and budget at least ₹3,000 extra per person."
+  },
+  {
+   "q": "Can we do this trip by private cab instead?",
+   "a": "Yes. A private car from Srinagar for the Gulmarg day trip costs about ₹2,500–3,500, and a one-way car to Pahalgam about ₹3,000–4,000. For two people that adds roughly ₹6,000–8,000 each across the trip. In Pahalgam you still need the union taxi for Aru, Betaab and Chandanwari."
+  },
+  {
+   "q": "Is this trip safe for solo women?",
+   "a": "Many solo women travel this route, and Zostel is a good base to meet others to share vehicles. Shared Sumos are mostly local families and workers; take a front seat if offered. Dress modestly, avoid empty stretches after dark, and keep your hostel informed of your plans. Follow local advisories and check current status before you travel."
+  },
+  {
+   "q": "Will my phone work in Kashmir?",
+   "a": "Postpaid connections from any Indian operator usually work in Srinagar, Gulmarg and Pahalgam. Prepaid SIMs issued outside Jammu and Kashmir generally do not roam here because of security rules. You can buy a local prepaid SIM with ID and a local reference, which your hostel can help with. Wi-Fi at Zostel and JKTDC is basic."
+  },
+  {
+   "q": "Do I need cash or do cards work?",
+   "a": "Carry cash for shared Sumos, union taxis, shikaras, dhabas and pony men; most will not take cards. UPI works widely in Srinagar shops and many hotels. ATMs are common in Srinagar and Pahalgam bazaar but can run dry on long weekends. Keep ₹3,000–5,000 in cash at all times."
+  },
+  {
+   "q": "How do I book Gulmarg Gondola tickets?",
+   "a": "Book on the official Jammu and Kashmir Cable Car Corporation website a few days ahead, choosing Phase 1 and a time slot. In May, June and October slots sell out. Touts at the base sell the same tickets at a markup. Phase 2 to Apharwat depends on weather and opens separately; check current status before you travel."
+  },
+  {
+   "q": "Is altitude a problem on this trip?",
+   "a": "No for most healthy travellers. You sleep at 1,585 m in Srinagar and 2,200 m in Pahalgam, and the gondola top near 3,080 m is a short visit. Walk slowly at the top and drink water. If you have heart or lung conditions, talk to your doctor before the gondola, especially Phase 2 near 4,000 m."
+  },
+  {
+   "q": "What happens during the Amarnath Yatra in July and August?",
+   "a": "Pahalgam fills with pilgrims and security, and vehicle movement on the Srinagar–Pahalgam road can be held for yatra convoys. Chandanwari and parts of the Lidder valley may be closed to tourists. The trip still runs, but plan for slower roads and fewer union taxi options. Check current status before you travel."
+  }
+ ]
+}

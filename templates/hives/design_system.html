@@ -1,0 +1,179 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Design system · The Contour Hive · Himalaya Hives{% endblock %}
+{% block description %}The living style guide for himalayahives.com: hive palettes, type, tiers, icons, buttons, cards and the terrain motifs, rendered from the same code as the site.{% endblock %}
+{% block og_title %}The Contour Hive design system{% endblock %}
+{% block head_extra %}<style>
+.ds-sec { scroll-margin-top: 100px; }
+.ds-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.ds-spec { font: 400 12px/1.5 var(--mono); color: var(--muted); }
+.ds-type > div { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 20px; align-items: baseline; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+.ds-core { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
+.ds-core div { display: grid; gap: 8px; font: 400 11.5px/1.4 var(--mono); color: var(--muted); }
+.ds-core i { display: block; aspect-ratio: 1.1547 / 1; clip-path: var(--hexflat); border: 1px solid var(--rule); }
+.ds-dots { display: flex; gap: 4px; margin-top: 8px; }
+.ds-dots i { width: 18px; height: 18px; clip-path: var(--hexflat); display: block; }
+.ds-motif { position: relative; height: 220px; overflow: hidden; background: var(--grad); clip-path: var(--chamfer); }
+.ds-motif .ridges { position: absolute; left: 0; right: 0; bottom: 0; height: 120px; }
+@media (max-width: 980px) { .ds-core { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .ds-type > div { grid-template-columns: 1fr; gap: 6px; } }
+</style>{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "design-system" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Living style guide</p>
+      <h1 class="d-1">The Contour Hive</h1>
+      <p class="lede">Every component on this page is rendered by the same templates, tags and stylesheet as the rest of the site. If it looks wrong here, it looks wrong everywhere.</p>
+      <div class="chips" style="margin-top:22px"><a class="chip" href="#palettes">Palettes</a><a class="chip" href="#type">Type</a><a class="chip" href="#tiers">Tiers</a><a class="chip" href="#buttons">Buttons</a><a class="chip" href="#cards">Cards</a><a class="chip" href="#blocks">Blocks</a><a class="chip" href="#icons">Icons</a><a class="chip" href="#motifs">Motifs</a></div>
+    </div>
+  </div>
+  {% ridgeline "design-system" 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="hl">
+      <div><span class="hl__n">{% icon "hex" %}</span><h3>Every valley is a hive</h3><p>Hexagon cells, chamfered cards and hex-cut buttons. Each hive wears the colours it is known for: a dark ground, a metallic foil, an accent ink for text on paper and a light tint.</p></div>
+      <div><span class="hl__n">{% icon "altitude" %}</span><h3>Altitude is information</h3><p>The altimeter rail, sleeping-altitude profiles and the 3,000 m line show height as data, not decoration.</p></div>
+      <div><span class="hl__n">{% icon "note" %}</span><h3>Facts carry sources</h3><p>Field notes, prices marked indicative 2026 and photo credits on every image. Plain words, no exclamation marks.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2 ds-sec" id="palettes">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Colour</p><h2 class="d-1">Hive palettes</h2><p class="lede">Set per hive with <code>data-land</code>: <code>--g0…g2</code> ground, <code>--f0…f2</code> foil, <code>--hink</code> ink, <code>--tint</code> wash.</p></div></div>
+    <div class="swatches">{% for r in regions %}<a class="swatch" href="{{ r.url }}" data-land="{{ r.slug }}" style="text-decoration:none">
+      <div class="swatch__g" style="background:linear-gradient(140deg, {{ r.grad.0 }} 0%, {{ r.grad.1 }} 55%, {{ r.grad.2 }} 100%)"><span class="hbadge hbadge--sm" style="position:absolute;left:14px;bottom:14px;background:linear-gradient(115deg, {{ r.foil.0 }} 0%, {{ r.foil.1 }} 40%, {{ r.foil.2 }} 74%, {{ r.foil.1 }} 100%);color:{{ r.grad.0 }}">{% icon r.slug %}</span></div>
+      <div class="swatch__f" style="background:linear-gradient(115deg, {{ r.foil.0 }} 0%, {{ r.foil.1 }} 40%, {{ r.foil.2 }} 74%, {{ r.foil.1 }} 100%)"></div>
+      <div class="swatch__b"><b style="color:{{ r.ink }}">{{ r.name }}</b>{{ r.palette }}
+        <div class="ds-dots" aria-hidden="true">{% for c in r.grad %}<i style="background:{{ c }}" title="{{ c }}"></i>{% endfor %}{% for c in r.foil %}<i style="background:{{ c }}" title="{{ c }}"></i>{% endfor %}<i style="background:{{ r.ink }}" title="{{ r.ink }}"></i><i style="background:{{ r.tint }};outline:1px solid var(--rule)" title="{{ r.tint }}"></i></div>
+        <span style="display:block;margin-top:6px">ground {{ r.grad.1 }} · foil {{ r.foil.1 }} · ink {{ r.ink }} · tint {{ r.tint }}</span>
+        {% if r.icon_note %}<span style="display:block">icon: {{ r.icon_note }}</span>{% endif %}</div>
+    </a>{% endfor %}</div>
+
+    <h3 class="d-3" style="margin:48px 0 18px">Core colours</h3>
+    <div class="ds-core">
+      <div><i style="background:#F5F1E6"></i><b>Paper</b>#F5F1E6</div>
+      <div><i style="background:#EDE6D4"></i><b>Paper 2</b>#EDE6D4</div>
+      <div><i style="background:#FBF8F0"></i><b>Card</b>#FBF8F0</div>
+      <div><i style="background:#1B1814"></i><b>Ink</b>#1B1814</div>
+      <div><i style="background:#645C50"></i><b>Muted</b>#645C50</div>
+      <div><i style="background:#D6CBB4"></i><b>Rule</b>#D6CBB4</div>
+      <div><i style="background:#E9A21A"></i><b>Honey</b>#E9A21A</div>
+      <div><i style="background:#FBEBC2"></i><b>Wax</b>#FBEBC2</div>
+      <div><i style="background:#100E0B"></i><b>Night</b>#100E0B</div>
+      <div><i style="background:#2B5DAE"></i><b>Flag blue</b>#2B5DAE</div>
+      <div><i style="background:#C6352C"></i><b>Flag red</b>#C6352C · high nights</div>
+      <div><i style="background:#2E8A57"></i><b>Flag green</b>#2E8A57</div>
+    </div>
+    <div class="flags flags--line" style="margin-top:28px" aria-hidden="true"></div>
+  </div>
+</section>
+
+<section class="sec ds-sec" id="type">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Type</p><h2 class="d-1">Three voices</h2><p class="lede">Rozha One for display, Mukta for reading, Martian Mono for numbers and readouts.</p></div></div>
+    <div class="ds-type">
+      <div><span class="ds-spec">.d-hero · Rozha One</span><span class="d-hero" style="font-size:clamp(44px,6vw,88px)">Every valley</span></div>
+      <div><span class="ds-spec">.d-1</span><span class="d-1">Which hive, which month</span></div>
+      <div><span class="ds-spec">.d-2</span><span class="d-2">Days worth planning around</span></div>
+      <div><span class="ds-spec">.d-3</span><span class="d-3">Shape your own trip</span></div>
+      <div><span class="ds-spec">.d-4</span><span class="d-4">Ladakh at a glance</span></div>
+      <div><span class="ds-spec">.eyebrow</span><span class="eyebrow">Field notes · facts with sources</span></div>
+      <div><span class="ds-spec">.lede · Mukta</span><p class="lede" style="margin:0">Villages packed onto the sunny side of a slope, joined by old salt, wool and pilgrim paths.</p></div>
+      <div><span class="ds-spec">body · Mukta 18px</span><p style="margin:0">Leh gets about 35 mm of rain a year. What you see is bare brown and violet rock, then a sudden green strip of barley and willow wherever a glacier stream has been led into fields.</p></div>
+      <div><span class="ds-spec">.readout · Martian Mono</span><span class="readout">Ladakh · <b>7 nights</b> · sleeps to 4,270 m</span></div>
+      <div><span class="ds-spec">.price</span><span class="price"><small>From, per person</small>{{ saver_from|default:18500|inr }}</span></div>
+      <div><span class="ds-spec">.foil-text</span><span class="d-2 ground" style="padding:10px 18px;display:inline-block"><span class="foil-text">Juley</span></span></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2 ds-sec" id="tiers">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Price tiers</p><h2 class="d-1">Saver, Comfort, Signature</h2></div></div>
+    <div class="ds-row" style="margin-bottom:24px">{% for t in tiers %}<span class="tier tier--{{ t.slug }}">{{ t.name }}</span>{% endfor %}</div>
+    <div class="tiers">{% for t in tiers %}<div><span class="tier tier--{{ t.slug }}" style="align-self:start">{{ t.name }}</span><p style="margin:0;font-weight:600">{{ t.line }}</p><p class="muted" style="margin:0">{{ t.long }}</p><span class="ds-spec">.tier.tier--{{ t.slug }}</span></div>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec ds-sec" id="buttons">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Actions</p><h2 class="d-1">Buttons, links, chips, tabs</h2></div></div>
+    <div class="ds-row"><a class="btn btn--foil" href="#buttons">Plan my trip</a><a class="btn btn--ink" href="#buttons">See the budget section</a><a class="btn btn--line" href="#buttons">See the days</a><a class="btn btn--honey" href="#buttons">Honey</a><a class="btn btn--foil btn--sm" href="#buttons">Small</a><a class="link" href="#buttons">Every trip {% icon "arrow" %}</a></div>
+    <p class="ds-spec" style="margin:10px 0 28px">.btn--foil · .btn--ink · .btn--line · .btn--honey · .btn--sm · .link</p>
+    <div class="ground" style="padding:28px;clip-path:var(--chamfer)"><div class="ds-row"><a class="btn btn--foil" href="#buttons">On a ground</a><a class="btn btn--line" href="#buttons">Line on dark</a><a class="chip" href="#buttons">{% icon "trek" %}Treks</a><a class="link" href="#buttons">Link on dark {% icon "arrow" %}</a></div></div>
+    <div class="chips" style="margin:28px 0 18px">{% for t in nav_themes|slice:":5" %}<a class="chip" href="{{ t.url }}">{% icon t.icon %}{{ t.name }}</a>{% empty %}<a class="chip" href="#buttons">{% icon "trek" %}Treks</a><a class="chip" href="#buttons">{% icon "wallet" %}On a budget</a>{% endfor %}</div>
+    <div class="tabs" role="group" aria-label="Example tabs"><button type="button" aria-pressed="true">All tiers</button><button type="button" aria-pressed="false">Saver</button><button type="button" aria-pressed="false">Comfort</button></div>
+  </div>
+</section>
+
+<section class="sec sec--paper2 ds-sec" id="cards">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Cards</p><h2 class="d-1">Cells</h2><p class="lede">Every card falls back to a contour fingerprint when there is no photo, and a filler card finishes any short row.</p></div></div>
+    {% if sample %}
+    <div class="grid grid--4">
+      {% include "hives/partials/card_journey.html" with j=sample %}
+      {% with p=sample.stop_objs.0.obj %}{% if p %}{% include "hives/partials/card_place.html" %}{% endif %}{% endwith %}
+      {% with s=sample.stay_objs.0 %}{% if s %}{% include "hives/partials/card_stay.html" %}{% endif %}{% endwith %}
+      <a class="fill-card" href="{% url 'plan' %}" data-land="{{ sample.region }}">{% topo "ds-fill" %}<span class="hbadge hbadge--foil">{% icon "sparkle" %}</span><span class="d-3">Shape your own trip</span><span style="font-size:15.5px;opacity:.85">Your month, your budget, your pace.</span><span class="link" style="color:var(--f1)">Start {% icon "arrow" %}</span></a>
+    </div>
+    {% else %}
+    <div class="grid grid--4">
+      <div class="cell"><div class="cell__ph">{% topo "ds-empty" %}<span class="cell__tier tier tier--saver">Saver</span><span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "hex" %}</span></div><div class="cell__body"><span class="readout">Hive · <b>5 nights</b></span><h3 class="cell__title">A sample trip card</h3><p class="cell__text">Trip cards appear here once a journey is in the catalogue.</p></div></div>
+      <a class="fill-card" href="{% url 'plan' %}">{% topo "ds-fill" %}<span class="hbadge hbadge--foil">{% icon "sparkle" %}</span><span class="d-3">Shape your own trip</span><span class="link" style="color:var(--f1)">Start {% icon "arrow" %}</span></a>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec ds-sec" id="blocks">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Blocks</p><h2 class="d-1">Panels, ledgers and notes</h2></div></div>
+    <div class="grid grid--3" style="align-items:start">
+      <div class="panel"><h3>.panel with a ledger</h3><div class="ledger">
+        <div class="ledger__row"><span>Best months</span><span class="ledger__dots"></span><b>Jun – Sep</b></div>
+        <div class="ledger__row"><span>Highest night</span><span class="ledger__dots"></span><b>4,270 m</b></div>
+        <div class="ledger__row"><span>Saver day</span><span class="ledger__dots"></span><b>₹2,000–3,500</b></div></div>
+        <p class="eyebrow" style="margin:18px 0 10px">Month by month</p>{% with r=regions.0 %}{% if r %}{% include "hives/partials/mbar.html" with bar=r.bar label=r.best_label %}{% endif %}{% endwith %}</div>
+      <div style="display:grid;gap:18px">
+        <div class="panel panel--wax"><h3>.panel--wax</h3><p style="margin:0;font-size:16px">For the honest caveat: what a Saver homestay bathroom is like.</p></div>
+        <div class="panel panel--line"><h3>.panel--line</h3><p style="margin:0;font-size:16px">Quiet secondary information.</p></div>
+        <p class="answer answer--paper">Short, direct answer to the question the page is about. Search engines and readers both use it.</p>
+      </div>
+      <div style="display:grid;gap:18px">
+        <article class="note"><span class="note__stamp">Sourced</span><p class="note__fact">A field note is one checkable fact, with the source named underneath.</p><p class="note__src">Source: <b>Wikipedia, "Leh"</b></p></article>
+        {% with r=regions.1 %}{% if r and r.glossary %}{% with g=r.glossary.0 %}<div class="say" data-land="{{ r.slug }}"><span class="hbadge hbadge--sm hbadge--foil">{% icon "word" %}</span><div><small>{{ g.language }}</small><b class="foil-text">{{ g.word }}</b><div style="font-size:15px;opacity:.88">{{ g.meaning }}</div></div></div>{% endwith %}{% endif %}{% endwith %}
+      </div>
+    </div>
+    <div class="grid grid--2" style="margin-top:28px;align-items:start">
+      <div class="costs"><div class="costs__head"><span>Item</span><b>Indicative 2026</b></div>{% with r=regions.0 %}{% for b in r.budget_rows %}<div><span>{{ b.tier_obj.name|default:b.tier }} day, {{ r.name }}</span><b>₹{{ b.per_day_inr }}</b></div>{% endfor %}{% endwith %}</div>
+      <div class="faq"><details open><summary>What does .faq look like?</summary><div><p>Native details and summary, one open by default on content pages.</p></div></details><details><summary>Can it hold several answers?</summary><div><p>Yes. The FAQ partial also feeds the page's FAQPage JSON-LD.</p></div></details></div>
+    </div>
+    <div style="margin-top:28px">{% include "hives/partials/trust.html" %}</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2 ds-sec" id="icons">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Icons</p><h2 class="d-1">{{ icons|length }} line icons</h2><p class="lede">One stroke weight, drawn on a 24 px grid. Use with <code>{% templatetag openblock %} icon "name" {% templatetag closeblock %}</code>.</p></div></div>
+    <div class="iconsheet">{% for i in icons %}<div>{% icon i %}<span>{{ i }}</span></div>{% endfor %}</div>
+    <h3 class="d-3" style="margin:40px 0 18px">Hive badges</h3>
+    <div class="ds-row">{% for r in regions %}<span class="hbadge hbadge--lg" data-land="{{ r.slug }}" title="{{ r.name }}" style="background:linear-gradient(140deg, {{ r.grad.0 }}, {{ r.grad.2 }});color:{{ r.foil.1 }}">{% icon r.slug %}</span>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec ds-sec" id="motifs">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Motifs</p><h2 class="d-1">Terrain, drawn on the server</h2><p class="lede">Contour fingerprints and ridgelines are generated from a seed, so each hive and page has its own. No map tiles, no API keys.</p></div></div>
+    <div class="grid grid--2">
+      <div><div class="ds-motif">{% topo "ds-motif" %}</div><p class="ds-spec" style="margin-top:8px">{% templatetag openblock %} topo "seed" {% templatetag closeblock %}</p></div>
+      <div><div class="ds-motif">{% ridgeline "ds-motif" 4 %}</div><p class="ds-spec" style="margin-top:8px">{% templatetag openblock %} ridgeline "seed" 4 {% templatetag closeblock %}</p></div>
+    </div>
+    {% if sample and sample.profile|length > 1 %}<div style="margin-top:28px"><div class="prof">{% profile sample %}</div><p class="ds-spec" style="margin-top:8px">{% templatetag openblock %} profile journey {% templatetag closeblock %} · red points sleep above 3,000 m</p></div>{% endif %}
+  </div>
+</section>
+{% endblock %}

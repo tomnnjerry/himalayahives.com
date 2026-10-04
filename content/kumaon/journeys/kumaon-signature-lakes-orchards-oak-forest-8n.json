@@ -1,0 +1,212 @@
+{
+ "slug": "kumaon-signature-lakes-orchards-oak-forest-8n",
+ "title": "Kumaon in depth: lakes, orchards and oak",
+ "region": "kumaon",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "road-trips",
+  "family-holidays",
+  "treks-and-walks",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "nainital",
+   "nights": 2
+  },
+  {
+   "place": "mukteshwar",
+   "nights": 2
+  },
+  {
+   "place": "binsar",
+   "nights": 2
+  },
+  {
+   "place": "almora",
+   "nights": 2
+  }
+ ],
+ "start": "Kathgodam railway station or Pantnagar Airport",
+ "end": "Kathgodam railway station or Pantnagar Airport",
+ "price_from_inr": 170000,
+ "price_note": "Per person, twin sharing: 8 nights at The Naini Retreat, Te Aroha Dhanachuli, Mary Budden Estate and The Kumaon with meals as listed, private car and driver, private guide on six days, fees; trains or flights extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Balanced",
+ "meta_description": "8 nights across Kumaon in its best hotels: Nainital, Dhanachuli near Mukteshwar, Binsar sanctuary and Kasar Devi, with private car and guide. From ₹1,70,000.",
+ "summary": "Eight nights that move up through Kumaon's layers: the lake town of Nainital, the orchard ridges of Dhanachuli and Mukteshwar, the oak forest of Binsar and the old Chand capital at Almora. Four of the hive's best small hotels, two nights each, a private car and a guide who knows the history.",
+ "intro": [
+  "Most visitors see Kumaon as Nainital plus one more hill town. This trip goes further in, two nights at a time, so each place gets a full day. You start at Nainital's lake, where the British built a summer capital in the 19th century; move to the fruit country of Ramgarh and Dhanachuli, where Jim Corbett tracked a man-eater; sleep inside Binsar's protected oak forest; and end at Kasar Devi above Almora, the town the Chand kings made their capital in the 16th century.",
+  "We use one hotel in each place: The Naini Retreat on the quiet Ayarpata side of Nainital, Te Aroha by Shervani at Dhanachuli, Mary Budden Estate in Binsar, and The Kumaon at Kasar Devi. Drives are 2–4 hours on travel days. Your guide joins for walks and sites, and the driver stays with you throughout."
+ ],
+ "highlights": [
+  "An early row on Naini lake before the boats get busy",
+  "Chauli ki Jali cliffs and the Mukteshwar temple at dawn",
+  "Orchard villages of Ramgarh, Kumaon's fruit bowl",
+  "Sunrise from Zero Point inside Binsar sanctuary",
+  "Almora's stone-paved Lal Bazaar and Kasar Devi ridge"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Kathgodam to Nainital",
+   "place": "nainital",
+   "overnight": "The Naini Retreat, Nainital",
+   "drive": "≈ 35 km · 1.5 h",
+   "text": "Your driver meets you at Kathgodam or Pantnagar and climbs the switchbacks to Nainital at about 2,000 m. Check in at The Naini Retreat on the wooded Ayarpata slope above the lake, away from the noise of the Mall. In the late afternoon, walk down with your guide along the Thandi Sadak, the quiet road on the lake's far shore, to the Naina Devi temple at the northern end and back along the Mall at dusk.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Naini lake and Kainchi Dham",
+   "place": "nainital",
+   "overnight": "The Naini Retreat, Nainital",
+   "drive": "≈ 40 km round trip · 1.5 h",
+   "text": "Row across Naini lake at 7 am, when the water is still and the boatmen's stands are empty. Your guide tells the story of the 1880 landslip that killed more than 150 people and left the open ground at the lake's head now called the Flats. After breakfast, drive to Kainchi Dham, the ashram of Neem Karoli Baba on the Kosi road, at a quieter weekday hour. Afternoon free, or take the ropeway to Snow View for the line of peaks.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Ramgarh orchards to Dhanachuli",
+   "place": "mukteshwar",
+   "overnight": "Te Aroha by Shervani, Dhanachuli",
+   "drive": "≈ 45 km · 2 h",
+   "text": "Drive via Bhowali to Ramgarh, the orchard belt where apples, pears, plums and apricots grow on the slopes. Walk a village lane with your guide and stop at a farm shop for local jams and juices. Rabindranath Tagore stayed at Ramgarh in the early 20th century; a ridge here is still called Tagore Top. Continue to Dhanachuli and Te Aroha for lunch and a quiet afternoon with the peaks in view.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Mukteshwar temple and Chauli ki Jali",
+   "place": "mukteshwar",
+   "overnight": "Te Aroha by Shervani, Dhanachuli",
+   "drive": "≈ 30 km round trip · 1 h",
+   "text": "An early start for the Mukteshwar Dham temple at the top of the ridge, then a walk to Chauli ki Jali, the rock cliffs just below it, for a view down to the plains and across to the snow peaks. Your guide shows you the old buildings of the veterinary research campus that moved here in 1893, and talks about Corbett's Muktesar man-eater. Afternoon free at the hotel or a walk to a nearby waterfall.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Across the hills to Binsar",
+   "place": "binsar",
+   "overnight": "Mary Budden Estate, Binsar",
+   "drive": "≈ 90 km · 3.5–4 h",
+   "text": "Drive across the hills towards Almora and then north into Binsar Wildlife Sanctuary, declared in 1988 to protect its oak forest. The estate is a restored 19th-century house in the forest near the top of the ridge, powered by the sun. After lunch, walk with the estate's guide on old bridle paths through banj oak and rhododendron, listening for the forest's birds as the light goes.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Zero Point and forest walk",
+   "place": "binsar",
+   "overnight": "Mary Budden Estate, Binsar",
+   "drive": "",
+   "text": "Walk up to Zero Point before sunrise. On clear mornings the peaks run for about 300 km, from Kedarnath and Chaukhamba through Trishul and Nanda Devi to Panchachuli. Walk back for breakfast, then spend the morning on a slow guided forest walk for kalij pheasant, nuthatches and laughingthrushes. Visit the small sanctuary museum in the afternoon, or simply sit on the lawn with a book.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Almora's bazaar and Kasar Devi",
+   "place": "almora",
+   "overnight": "The Kumaon, Kasar Devi",
+   "drive": "≈ 40 km · 1.5 h",
+   "text": "Drive to Almora and walk the Lal Bazaar with your guide: stone slabs underfoot, carved wooden shopfronts, the Nanda Devi temple of the Chand kings and copper workshops. Buy bal mithai and singori where they were first made. In the afternoon, continue to The Kumaon at Kasar Devi and take the short walk up to the hilltop temple where Vivekananda meditated, with Crank's Ridge running beyond it.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Jageshwar temple valley",
+   "place": "jageshwar",
+   "overnight": "The Kumaon, Kasar Devi",
+   "drive": "≈ 45 km · 1.5 h each way",
+   "text": "A full day at Jageshwar, where about 125 stone temples stand among deodar trees beside a stream. Your guide explains the temple styles and their history, and takes you through the Archaeological Survey of India museum. Walk up to Dandeshwar's group of temples before a late lunch. Back at Kasar Devi for the last sunset over the peaks.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Kasar Devi to Kathgodam",
+   "place": "almora",
+   "overnight": "",
+   "drive": "≈ 100 km · 3.5 h",
+   "text": "A last breakfast with the view, then the drive down the Kosi valley via Kainchi and Bhowali to Kathgodam for the afternoon Shatabdi, or to Pantnagar for a flight. If the morning is clear, take a final look at the peaks before the road drops into the pines.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "the-naini-retreat",
+  "te-aroha-dhanachuli",
+  "mary-budden-estate",
+  "the-kumaon"
+ ],
+ "includes": [
+  "8 nights, twin sharing, at four hotels: two nights each",
+  "Meals as listed",
+  "Private car with driver for the whole trip",
+  "Private guide on days 1, 2, 4, 6, 7 and 8",
+  "Boat ride on Naini lake, Binsar fees and Jageshwar museum entry for Indian nationals"
+ ],
+ "excludes": [
+  "Trains or flights to Kathgodam or Pantnagar",
+  "Ropeway tickets and foreign-national fees",
+  "Drinks, spa treatments and laundry",
+  "Tips and temple donations"
+ ],
+ "good_to_know": [
+  "All four hotels have limited rooms; October, November, Diwali and New Year fill months ahead.",
+  "Every night is between about 2,000 m and 2,400 m; altitude is not a concern for healthy travellers.",
+  "Nainital is crowded on long weekends and from mid-May to mid-June; we avoid those dates for this trip.",
+  "Binsar has limited solar power and weak mobile signal for two nights.",
+  "Winding roads on travel days: carry motion-sickness tablets if you need them."
+ ],
+ "faqs": [
+  {
+   "q": "What makes this a signature trip?",
+   "a": "The hotels and the time. You sleep in four of Kumaon's best small hotels, two nights each, with a private car and driver throughout and a private guide on six days. Days are planned around early light and quiet hours, not the crowded middle of the day."
+  },
+  {
+   "q": "Is it good for families with children?",
+   "a": "Yes, for children who like walks and are fine with short drives. The lake row, ropeway, orchards and forest walks work for most ages. Mary Budden Estate has limited rooms and quiet rules; ask us about family rooms there and at The Kumaon before booking."
+  },
+  {
+   "q": "Which months are best?",
+   "a": "October to December for clear mountain views and dry roads; March and April for rhododendron and fruit blossom in Ramgarh. Avoid July and August for monsoon landslides, and May and June weekends in Nainital, when traffic on the lake road is heavy."
+  },
+  {
+   "q": "How long are the drives?",
+   "a": "Between 1.5 and 4 hours on travel days. The longest is Dhanachuli to Binsar, about 90 km and 3.5–4 hours on hill roads. Day trips to Kainchi, Mukteshwar and Jageshwar are 1–1.5 hours each way."
+  },
+  {
+   "q": "Can we swap a hotel?",
+   "a": "Yes. In Nainital some guests prefer a hotel on the Mall; near Mukteshwar, The Ramgarh Bungalows is a heritage alternative. We quote the difference. The Kumaon and Mary Budden Estate are the reason for the trip, so we keep them where we can."
+  },
+  {
+   "q": "Is Kumaon safe for driving at night?",
+   "a": "We plan all drives in daylight. Hill roads have tight bends, few barriers and wildlife crossing, and leopards are seen near towns. Your driver knows the roads; we ask guests not to push for late drives even if the car is theirs for the day."
+  },
+  {
+   "q": "What does the guide do?",
+   "a": "The guide walks with you in Nainital, Mukteshwar, Binsar, Almora and Jageshwar, explaining history, temples, plants and birds, and handles tickets and timings. In Binsar the estate's own naturalist may lead walks. We do not invent schedules around shopping stops."
+  },
+  {
+   "q": "What about Corbett National Park?",
+   "a": "Corbett lies in the plains below Kumaon and adds 2 nights with jeep safaris. It is best from mid-November to mid-June, and safari permits sell out early. Ask us to add it at the start or end."
+  },
+  {
+   "q": "Do we need any permit?",
+   "a": "No permit is needed for any place on this trip. Binsar sanctuary charges entry and vehicle fees at the gate, which we include for Indian nationals. Foreign nationals pay a higher sanctuary fee. Check current status before you travel, as fees change."
+  }
+ ]
+}

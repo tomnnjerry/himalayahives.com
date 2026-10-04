@@ -1,0 +1,316 @@
+{
+ "slug": "pelling",
+ "name": "Pelling",
+ "region": "sikkim",
+ "kind": "town",
+ "wiki": "Pelling",
+ "image_query": "Pelling Kanchenjunga view Sikkim",
+ "lat": 27.3,
+ "lng": 88.24,
+ "altitude_m": 2150,
+ "tagline": "Kangchenjunga views, Pemayangtse and the ruins of Rabdentse",
+ "meta_description": "Pelling guide: Kangchenjunga views, Pemayangtse monastery, Rabdentse ruins, Khecheopalri lake, Sanga Choeling, stays, costs and how to reach from Gangtok or NJP.",
+ "summary": "Pelling is a ridge town at about 2,150 m in West Sikkim with one of the closest views of Kangchenjunga. Around it lie Pemayangtse monastery, founded in 1705, the ruins of the old capital at Rabdentse and the sacred Khecheopalri lake. No permit is needed for Indians. Plan two or three nights.",
+ "intro": [
+  "Pelling runs along a ridge above Gyalshing, the district headquarters, in two parts, upper and lower Pelling, lined with hotels facing north. The reason they all face that way is Kangchenjunga: on a clear morning the massif fills the horizon, close enough to pick out its summits, glaciers and neighbouring peaks such as Kabru and Pandim.",
+  "This was the royal heartland of Sikkim. Rabdentse, the kingdom's second capital from 1670, lies in ruins in the forest below, and Pemayangtse, founded by Lhatsun Chempo in 1705, still stands above it as one of the state's most important monasteries. Sanga Choeling, on the ridge above town, is one of the oldest monasteries in Sikkim.",
+  "Pelling is also a base for day trips: to Khecheopalri lake, sacred to Buddhists and Hindus, to waterfalls at Rimbi and Kanchenjunga Falls, and on to Yuksom. Hotels in Pelling have grown quickly, so look for rooms on the north side with a clear view. October to December gives the clearest mountain days."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Oct – Dec, Mar – May"
+  ],
+  [
+   "Nights we suggest",
+   "2–3"
+  ],
+  [
+   "Nearest airport",
+   "Bagdogra (≈ 140 km · 5–6 h)"
+  ],
+  [
+   "From Gangtok",
+   "≈ 115–130 km · 5–6 h via Ravangla or Singtam"
+  ],
+  [
+   "Altitude",
+   "about 2,150 m"
+  ],
+  [
+   "Known for",
+   "Kangchenjunga views, Pemayangtse, Rabdentse ruins, Khecheopalri lake"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "nights": "2–3",
+ "highlights": [
+  {
+   "title": "Kangchenjunga at sunrise",
+   "text": "From any north-facing balcony in Pelling, Kangchenjunga and its neighbours light up pink and gold at sunrise. October to December has the clearest mornings; in spring, haze often softens the view by mid-morning."
+  },
+  {
+   "title": "Pemayangtse monastery",
+   "text": "A short drive or walk from town, Pemayangtse was founded in 1705 and belongs to the Nyingma school. Its upper floor holds a seven-tiered wooden model of Zangdok Palri, the heavenly palace of Guru Rinpoche."
+  },
+  {
+   "title": "Rabdentse ruins",
+   "text": "A forest walk of about 2 km leads to the ruins of the royal palace of Rabdentse, Sikkim's capital from 1670 to 1814. Low stone walls and chortens stand on a ridge with views across to Kangchenjunga."
+  },
+  {
+   "title": "Sanga Choeling and the skywalk",
+   "text": "Sanga Choeling, founded in 1697, sits on a ridge above Pelling. Nearby, a large statue of Chenrezig, the bodhisattva of compassion, is reached by a glass-floored skywalk opened in 2018."
+  },
+  {
+   "title": "Khecheopalri lake",
+   "text": "About 25 km from Pelling, a sacred lake in a forest bowl at around 1,700 m, held holy by Buddhists and Hindus. A wooden jetty with prayer wheels leads to the water's edge."
+  },
+  {
+   "title": "Waterfalls on the Yuksom road",
+   "text": "Rimbi falls and Kanchenjunga Falls, both on the road towards Yuksom, are easy roadside stops, strongest from July to October."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "Pemayangtse monastery was founded in 1705 by Lhatsun Chempo, one of the three lamas who consecrated the first Chogyal at Yuksom. Its name is usually translated as perfect sublime lotus.",
+   "source": "Pemayangtse Monastery"
+  },
+  {
+   "fact": "Pemayangtse traditionally admitted monks only from established Bhutia families, and its head lama had the role of anointing Sikkim's Chogyals with holy water.",
+   "source": "Pemayangtse Monastery"
+  },
+  {
+   "fact": "Rabdentse was the second capital of the Kingdom of Sikkim from 1670 until 1814, when it was abandoned after attacks by the Gurkha army of Nepal.",
+   "source": "Rabdentse"
+  }
+ ],
+ "local_word": {
+  "word": "Pemayangtse",
+  "language": "Tibetan",
+  "meaning": "perfect sublime lotus, the name of Pelling's great monastery"
+ },
+ "costs": [
+  [
+   "Shared jeep seat, Gangtok–Gyalshing/Pelling",
+   "₹350–550"
+  ],
+  [
+   "Private taxi, NJP or Bagdogra–Pelling",
+   "₹4,500–6,000 one way"
+  ],
+  [
+   "Day sightseeing taxi around Pelling",
+   "₹2,500–4,000 per vehicle"
+  ],
+  [
+   "Pemayangtse monastery entry",
+   "₹20–100"
+  ],
+  [
+   "Skywalk entry",
+   "₹50–100"
+  ],
+  [
+   "Plate of momos or thukpa",
+   "₹80–180"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Air",
+   "text": "Bagdogra Airport is about 140 km away, 5–6 hours by road via Jorethang and Legship. Pakyong Airport near Gangtok has had only limited flights; check current status before you travel."
+  },
+  {
+   "mode": "Rail",
+   "text": "New Jalpaiguri (NJP) is the nearest major railway station. Shared jeeps run from Siliguri to Jorethang and Gyalshing, from where local jeeps go up to Pelling, about 10 km."
+  },
+  {
+   "mode": "Road",
+   "text": "From Gangtok, shared jeeps leave the Vajra stand for Gyalshing and Pelling, 5–6 hours. Private cars take 5–6 hours via Ravangla and Legship or via Singtam and Rabongla. Landslides are common in the monsoon; check current status before you travel."
+  }
+ ],
+ "where_to_stay": "Saver: simple hotels in lower Pelling and Gyalshing offer doubles from about ₹1,500–2,500; ask for a north-facing room. Comfort: The Chumbi Mountain Retreat in upper Pelling is a well-run mid-range resort with Kangchenjunga views. Signature: the Elgin Mount Pandim, a heritage hotel on the ridge just below Pemayangtse monastery, is the town's classic stay.",
+ "stays": [
+  "chumbi-mountain-retreat-pelling",
+  "elgin-mount-pandim-pelling"
+ ],
+ "tips": [
+  "Ask for a north-facing room; the Kangchenjunga view is the reason to stay in Pelling.",
+  "Set an alarm for sunrise; clouds usually build by 9 or 10 am.",
+  "Combine Pemayangtse and Rabdentse in one morning, as they are close together.",
+  "Avoid the Durga Puja and Diwali weeks unless you book well ahead.",
+  "Carry cash for Khecheopalri and Yuksom; ATMs are in Gyalshing and Pelling only."
+ ],
+ "themes": [
+  "monasteries",
+  "photography",
+  "honeymoons",
+  "family-holidays"
+ ],
+ "nearby": [
+  "yuksom",
+  "ravangla",
+  "gangtok"
+ ],
+ "experiences": [
+  {
+   "slug": "pelling-pemayangtse-monastery-visit",
+   "title": "Pemayangtse and its wooden heaven",
+   "kind": "spiritual",
+   "duration": "1.5 hours",
+   "best_time": "8–11 am, all year",
+   "cost": "Entry ₹20–100",
+   "image_query": "Pemayangtse Monastery Pelling",
+   "wiki": "Pemayangtse Monastery",
+   "summary": "Visit Pemayangtse, founded in 1705 by Lhatsun Chempo and one of Sikkim's most important monasteries. Climb to the top floor to see the seven-tiered painted wooden model of Zangdok Palri, the heavenly palace of Guru Rinpoche.",
+   "body": [
+    "Pemayangtse sits on a ridge at about 2,085 m, a short drive or walk from Pelling. It was founded in 1705 by Lhatsun Chempo, one of the three lamas of Yuksom, and belongs to the Nyingma school. For centuries it was the leading monastery of the kingdom, and its head lama anointed the Chogyals. Its monks were traditionally drawn from established Bhutia families.",
+    "The three-storey main building has painted walls, statues and religious objects on each floor. The highlight is on the top floor: a seven-tiered painted wooden model of Zangdok Palri, the celestial palace of Guru Rinpoche, filled with figures of deities, saints and guardians. It is one of the most detailed works of religious art in Sikkim.",
+    "The monastery holds an annual cham dance festival in the Tibetan twelfth month, usually in February, before Losar. Photography is not allowed inside. Dress modestly and walk clockwise. The ruins of Rabdentse are a short walk below, so you can combine the two in a single morning."
+   ],
+   "good_for": [
+    "seniors",
+    "couples",
+    "families",
+    "first-timers"
+   ],
+   "faqs": [
+    {
+     "q": "What are Pemayangtse monastery's opening hours?",
+     "a": "It is usually open from early morning to late afternoon, roughly 7 am to 4 pm, though hours can vary on prayer and festival days. Go in the morning for the quietest visit."
+    },
+    {
+     "q": "Is photography allowed inside Pemayangtse?",
+     "a": "No, photography is not allowed inside the main building. You can photograph the exterior and the views, and ask before photographing monks."
+    },
+    {
+     "q": "When is the cham dance at Pemayangtse?",
+     "a": "It is held in the twelfth month of the Tibetan calendar, usually in February, in the days before Losar. Dates follow the lunar calendar; check current status before you travel."
+    }
+   ]
+  },
+  {
+   "slug": "pelling-rabdentse-ruins-walk",
+   "title": "Walk to the ruins of Rabdentse",
+   "kind": "culture",
+   "duration": "1.5–2 hours",
+   "best_time": "Morning, Oct–May",
+   "cost": "Entry ₹25–100",
+   "image_query": "Rabdentse ruins Pelling Sikkim",
+   "wiki": "Rabdentse",
+   "summary": "Walk about 2 km through forest to the ruins of Rabdentse, Sikkim's royal capital from 1670 to 1814. Low stone walls, chortens and the outlines of the palace stand on a ridge with views across to Kangchenjunga.",
+   "body": [
+    "Rabdentse lies below Pemayangtse, reached from the Gyalshing–Pelling road by a path through forest, with a small pond and bird calls along the way. The Archaeological Survey of India protects the site, and an entry fee is charged at the gate.",
+    "The capital was moved here in 1670 by the second Chogyal, Tensung Namgyal, from Yuksom. It remained the seat of the kingdom until 1814, when attacks from Nepal's Gurkha army led to its abandonment and the capital moved to Tumlong. What remains today are low stone walls, gateways and chortens arranged on a ridge.",
+    "The site is quiet and atmospheric, especially on a clear morning when Kangchenjunga stands behind the ruins. Paths are uneven, so wear good shoes. Combine it with Pemayangtse, a short drive above, and keep an eye out for birds in the surrounding forest."
+   ],
+   "good_for": [
+    "students",
+    "photographers",
+    "couples",
+    "seniors"
+   ],
+   "faqs": [
+    {
+     "q": "How far is Rabdentse from Pelling?",
+     "a": "About 3 km from Pelling to the gate on the Gyalshing road, then a walk of about 2 km through forest to the ruins."
+    },
+    {
+     "q": "Who built Rabdentse?",
+     "a": "The second Chogyal of Sikkim, Tensung Namgyal, moved the capital to Rabdentse from Yuksom in 1670. It was abandoned in 1814 after attacks from Nepal."
+    },
+    {
+     "q": "Is the Rabdentse walk suitable for seniors?",
+     "a": "Yes, for most healthy seniors. The path is mostly gentle but uneven in places. Take your time and wear good shoes."
+    }
+   ]
+  },
+  {
+   "slug": "pelling-khecheopalri-sacred-lake",
+   "title": "Khecheopalri, the wish-fulfilling lake",
+   "kind": "nature",
+   "duration": "Half day",
+   "best_time": "Morning, all year",
+   "cost": "Taxi ₹2,000–3,000 return; small entry fee",
+   "image_query": "Khecheopalri Lake Sikkim",
+   "wiki": "Khecheopalri Lake",
+   "summary": "Drive about 25 km to Khecheopalri, a quiet lake in a forest bowl at around 1,700 m, held sacred by Buddhists and Hindus. Walk the wooden jetty lined with prayer wheels to the water and hear why not a single leaf is said to float on its surface.",
+   "body": [
+    "Khecheopalri lies north-west of Pelling, reached by a winding road through forest and villages. The last few hundred metres are on foot, past prayer flags and a small visitor area, to a wooden walkway leading out over the water. The lake is ringed by forest and is quiet in the mornings.",
+    "The lake is sacred to Buddhists and Hindus and is known as a wish-fulfilling lake. Local tradition says that birds remove any leaf that falls onto the surface, keeping it clean. Swimming, boating and fishing are not allowed. Pilgrims light butter lamps and turn the prayer wheels along the jetty.",
+    "Around the lake, a small village has homestays and a monastery on the slope above. Some travellers walk the old trail to Yuksom from here. Keep voices low, follow signs and avoid feeding the fish. In the monsoon, leeches are common on the forest paths."
+   ],
+   "good_for": [
+    "families",
+    "seniors",
+    "couples",
+    "photographers"
+   ],
+   "faqs": [
+    {
+     "q": "How far is Khecheopalri Lake from Pelling?",
+     "a": "About 25 km, an hour or a little more by road. A taxi for a half-day return trip costs about ₹2,000–3,000."
+    },
+    {
+     "q": "Why is Khecheopalri called a wish-fulfilling lake?",
+     "a": "Buddhists and Hindus believe the lake is sacred and grants wishes. Local tradition says birds keep its surface clear of leaves."
+    },
+    {
+     "q": "Can I swim or boat in Khecheopalri Lake?",
+     "a": "No. Swimming, boating and fishing are not permitted, as the lake is sacred. Walk the jetty, turn the prayer wheels and keep the area clean."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How do I reach Pelling from Bagdogra or NJP?",
+   "a": "Pelling is about 140 km from Bagdogra and NJP, 5–6 hours by road via Jorethang and Legship. Shared jeeps go from Siliguri to Jorethang or Gyalshing, then local jeeps to Pelling. A private taxi costs about ₹4,500–6,000."
+  },
+  {
+   "q": "What is the best time to visit Pelling?",
+   "a": "October to December for the clearest Kangchenjunga views, and March to May for flowers and pleasant weather. June to September is monsoon, with cloud and landslides. January and February are cold but often clear."
+  },
+  {
+   "q": "How many days are enough in Pelling?",
+   "a": "Two nights cover the Kangchenjunga sunrise, Pemayangtse, Rabdentse, Sanga Choeling and the skywalk. A third night lets you add Khecheopalri and the waterfalls, or continue to Yuksom."
+  },
+  {
+   "q": "Do I need a permit for Pelling?",
+   "a": "Indian nationals do not need a permit for Pelling. Foreign nationals need the Sikkim Restricted Area Permit, which covers Pelling. Check current status before you travel."
+  },
+  {
+   "q": "Can I see Kangchenjunga from Pelling?",
+   "a": "Yes, on clear days, especially at sunrise from October to December. In spring, haze often hides the peaks by mid-morning, and in the monsoon they may stay hidden for days."
+  },
+  {
+   "q": "Is Pelling good for families?",
+   "a": "Yes. Roads are good by mountain standards, most sights are short drives apart, and the altitude of about 2,150 m is comfortable. Choose a hotel with a view and heating in winter."
+  },
+  {
+   "q": "How far is Pelling from Gangtok?",
+   "a": "About 115–130 km depending on the route, 5–6 hours by road via Ravangla or Singtam. Shared jeeps run from Gangtok to Gyalshing and Pelling."
+  },
+  {
+   "q": "Is there mobile network and ATM in Pelling?",
+   "a": "Yes, Pelling and Gyalshing have mobile networks and ATMs. Signal weakens around Khecheopalri and Yuksom. Carry cash for day trips."
+  },
+  {
+   "q": "Is Pelling good for a honeymoon?",
+   "a": "Yes. Rooms facing Kangchenjunga, quiet monasteries, forest walks and day trips make it popular with couples. Book north-facing rooms ahead in October and November."
+  }
+ ]
+}

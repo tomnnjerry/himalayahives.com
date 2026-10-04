@@ -1,0 +1,185 @@
+{
+ "slug": "garhwal-signature-taj-rishikesh-landour-6n",
+ "title": "Taj Rishikesh and Mussoorie in comfort",
+ "region": "garhwal",
+ "tier": "signature",
+ "nights": 6,
+ "themes": [
+  "wellness-and-yoga",
+  "honeymoons",
+  "adventure-sports",
+  "family-holidays"
+ ],
+ "stops": [
+  {
+   "place": "rishikesh",
+   "nights": 3
+  },
+  {
+   "place": "mussoorie-landour",
+   "nights": 3
+  }
+ ],
+ "start": "Dehradun (Jolly Grant) airport",
+ "end": "Dehradun (Jolly Grant) airport",
+ "price_from_inr": 110000,
+ "price_note": "Per person, twin sharing: 3 nights at Taj Rishikesh Resort & Spa and 3 at JW Marriott Mussoorie Walnut Grove with breakfast, private car with driver, private guide on sightseeing days, rafting and a private yoga session.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Rishikesh and Mussoorie in luxury, 6 nights: Taj Rishikesh on the Ganga, private yoga and rafting, Landour walks, JW Marriott Mussoorie, from ₹1,10,000.",
+ "summary": "Six slow nights in Garhwal's two best-known hotel addresses: three at Taj Rishikesh on a quiet bend of the Ganga above the town, with a private yoga teacher, a guided morning in Rishikesh and a rafting run; then three at JW Marriott Mussoorie with Landour's lanes and Sir George Everest's house.",
+ "intro": [
+  "This is the trip for couples and families who want the Ganga and the hills without long drives. The airport is 35 km from Rishikesh, and no day has more than three hours in the car. Taj Rishikesh sits at Singthali, about 30 km upstream of the town, on the right bank where the river runs green over white sand; the noise of Tapovan and Lakshman Jhula is a half-hour drive away.",
+  "Our private guide takes you into Rishikesh for the evening aarti and the old ashrams, including the Beatles' former ashram at Chaurasi Kutia. Then the car climbs to Mussoorie and the JW Marriott Walnut Grove on the Kempty road, with its spa, indoor pool and long valley view. From there, Landour's ridge and Everest's old observatory are each a short drive away."
+ ],
+ "highlights": [
+  "Three nights on the Ganga at Taj Rishikesh, with a private yoga session",
+  "A guided evening at the Parmarth Niketan aarti and Chaurasi Kutia",
+  "A rafting run from Shivpuri on the Ganga, in the dry season",
+  "Sunrise from Kunjapuri temple above the Ganga valley",
+  "Landour's lanes and Sir George Everest's house at Park Estate"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive at Taj Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Taj Rishikesh Resort & Spa",
+   "drive": "≈ 65 km · 2 h from the airport",
+   "text": "Your driver meets you at Jolly Grant and drives past Rishikesh and up the Badrinath road to Singthali, where Taj Rishikesh sits above the Ganga. The rest of the day is yours: the pool, the spa, or a walk down to the white-sand beach on the river. Dinner at the hotel.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 2,
+   "title": "Rishikesh with a private guide",
+   "place": "rishikesh",
+   "overnight": "Taj Rishikesh Resort & Spa",
+   "drive": "≈ 60 km round trip",
+   "text": "Start with a private yoga session at the hotel. After lunch, your guide takes you into Rishikesh: Lakshman Jhula, the Swarg Ashram side, and Chaurasi Kutia, the ashram of Maharishi Mahesh Yogi where the Beatles stayed in 1968, now a forest-department site with an entry fee. End at Parmarth Niketan's ghat for the evening Ganga aarti before driving back.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Kunjapuri sunrise and the river",
+   "place": "rishikesh",
+   "overnight": "Taj Rishikesh Resort & Spa",
+   "drive": "≈ 80 km round trip",
+   "text": "Leave before dawn for Kunjapuri, a hilltop Devi temple at about 1,670 m above Narendra Nagar, for sunrise over the Garhwal peaks. Back for breakfast. In the dry season, from mid-September to June, raft the 16 km from Shivpuri with a licensed operator, or float a gentler stretch if you have children. Free evening at the hotel.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Up to Mussoorie",
+   "place": "mussoorie-landour",
+   "overnight": "JW Marriott Mussoorie Walnut Grove Resort & Spa",
+   "drive": "≈ 110 km · 3 h",
+   "text": "A late breakfast, then drive through Dehradun and up the Mussoorie road to the JW Marriott on the Kempty road. Check in, then try the spa or indoor pool. In the late afternoon your guide takes you to Gun Hill or the Mall for the sunset over the Doon valley.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Landour on foot",
+   "place": "mussoorie-landour",
+   "overnight": "JW Marriott Mussoorie Walnut Grove Resort & Spa",
+   "drive": "≈ 30 km round trip",
+   "text": "Drive to Landour, the old cantonment above Mussoorie, and walk the chakkar loop with your guide: St Paul's Church, Char Dukan for pancakes and ginger lemon honey tea, Lal Tibba for the snow peaks on a clear morning, and Sisters' Bazaar. Lunch at Rokeby Manor near Char Dukan. Back to the hotel for a quiet evening.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Everest's house and Dhanaulti",
+   "place": "mussoorie-landour",
+   "overnight": "JW Marriott Mussoorie Walnut Grove Resort & Spa",
+   "drive": "≈ 70 km round trip",
+   "text": "Morning at Park Estate in Hathipaon, the restored house and observatory of Sir George Everest, Surveyor General of India, with views over the Aglar valley. After lunch, drive east to the deodar forest of Dhanaulti, or rest at the hotel if you prefer.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Departure",
+   "place": "mussoorie-landour",
+   "overnight": "",
+   "drive": "≈ 60 km · 2 h to the airport",
+   "text": "Drive down to Jolly Grant airport via Dehradun. On weekends we leave early to avoid traffic on the Mussoorie road.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "taj-rishikesh-resort-and-spa",
+  "jw-marriott-mussoorie-walnut-grove"
+ ],
+ "includes": [
+  "3 nights at Taj Rishikesh Resort & Spa and 3 nights at JW Marriott Mussoorie Walnut Grove, twin sharing, with breakfast",
+  "Private car with driver for all transfers and sightseeing",
+  "Private English- or Hindi-speaking guide on days 2, 3, 5 and 6",
+  "One private yoga session at the hotel",
+  "Rafting from Shivpuri with a licensed operator, in season, and entry fees on guided days"
+ ],
+ "excludes": [
+  "Flights",
+  "Lunches and dinners except where noted",
+  "Spa treatments",
+  "Camera fees and tips",
+  "Optional activities not listed"
+ ],
+ "good_to_know": [
+  "Rafting on the Ganga is usually closed from July to mid-September for the monsoon; check current status before you travel.",
+  "Mussoorie is crowded on weekends and from mid-May to June; we time drives to avoid the worst jams.",
+  "Rishikesh is a vegetarian, alcohol-free town within its municipal limits; the hotels outside follow their own rules.",
+  "Everything is below 2,300 m; altitude is not an issue for children or seniors.",
+  "Winter nights in Mussoorie drop near freezing from December to February; pack warm layers."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a luxury Rishikesh and Mussoorie trip cost?",
+   "a": "This 6-night plan starts at ₹1,10,000 per person, twin sharing, with breakfast at the Taj and JW Marriott, a private car, guide, rafting and a yoga session. Peak weekends, suites and full board cost more."
+  },
+  {
+   "q": "Is Taj Rishikesh in Rishikesh town?",
+   "a": "No. It is at Singthali, about 30 km upstream on the Badrinath road, on a quiet stretch of the Ganga. The town's ghats and cafes are about 45 minutes away by car."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. Both hotels have spas and views, drives are short, and days are unhurried. October–November and February–April are the best months for clear days."
+  },
+  {
+   "q": "Can children go rafting in Rishikesh?",
+   "a": "Operators usually set a minimum age, often around 14 for the longer runs; younger children can do shorter, calmer stretches with life jackets. Rules vary, so we check with the operator for your dates."
+  },
+  {
+   "q": "Can we swap Taj for Ananda in the Himalayas?",
+   "a": "Yes. Ananda, above Rishikesh at Narendra Nagar, is a destination spa built around programmes of yoga, Ayurveda and treatments. It suits travellers who want a wellness stay rather than sightseeing."
+  },
+  {
+   "q": "What is the best time to visit Rishikesh and Mussoorie?",
+   "a": "October to April for Rishikesh and March to June or October to December for Mussoorie. October, November, March and April suit both. July and August are wet."
+  },
+  {
+   "q": "Do we need permits for this trip?",
+   "a": "No permits are needed. Chaurasi Kutia and Park Estate charge small entry fees. Char Dham registration is not required unless you add a shrine."
+  },
+  {
+   "q": "How far is Mussoorie from Rishikesh?",
+   "a": "About 75 km via Dehradun, 2.5–3 hours by car, more with weekend traffic on the Mussoorie road."
+  },
+  {
+   "q": "Is Mussoorie busy at Christmas and New Year?",
+   "a": "Yes. Hotels fill and traffic is heavy from 24 December to 1 January. Book at least six weeks ahead and expect higher rates."
+  }
+ ]
+}

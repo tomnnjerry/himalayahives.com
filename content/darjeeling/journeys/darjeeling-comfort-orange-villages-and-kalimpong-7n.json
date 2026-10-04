@@ -1,0 +1,203 @@
+{
+ "slug": "darjeeling-comfort-orange-villages-and-kalimpong-7n",
+ "title": "Sittong, Takdah and Kalimpong villages",
+ "region": "darjeeling",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "homestays-and-villages",
+  "food-and-tea",
+  "wildlife-and-birds",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "sittong",
+   "nights": 2
+  },
+  {
+   "place": "darjeeling",
+   "nights": 2
+  },
+  {
+   "place": "takdah",
+   "nights": 1
+  },
+  {
+   "place": "kalimpong",
+   "nights": 2
+  }
+ ],
+ "start": "Bagdogra Airport (IXB) or NJP station",
+ "end": "Bagdogra Airport (IXB) or NJP station",
+ "price_from_inr": 44000,
+ "price_note": "Per person, twin sharing: 7 nights in the best homestays, a good Darjeeling hotel, a heritage bungalow at Takdah and Morgan House in Kalimpong, breakfast and dinner, private car with driver throughout and local guides.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  2,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Darjeeling villages trip, 7 nights: Sittong orange orchards, Mungpoo, Darjeeling, a Takdah cantonment bungalow and Kalimpong's Morgan House, from ₹44,000.",
+ "summary": "A slower way through the hive by private car: two nights among Sittong's orange orchards, two in Darjeeling, a night in an old cantonment bungalow at Takdah, and two at Morgan House on Kalimpong's Durpin Hill. Orchards, Tagore's house at Mungpoo, birding at Latpanchar, tea gardens and monasteries.",
+ "intro": [
+  "This journey trades sightseeing lists for village time. It starts in the Riyang valley below Kurseong, where Sittong's Lepcha and Nepali families grow Darjeeling mandarins between their houses, and where Tagore stayed at Mungpoo between 1938 and 1940. From late November to January the orchards are orange with fruit, and that is when we like this trip best.",
+  "After two nights in Darjeeling for the toy train and Tiger Hill, the car drops to Takdah, a British-era cantonment of old bungalows in pine forest, for a night by a fireplace. The last stop is Kalimpong, where you stay at Morgan House, a 1930s stone mansion run by the state tourism corporation on Durpin Hill. Homestays are simple but the best in each village; the driver stays with you throughout."
+ ],
+ "highlights": [
+  "Orange orchard walks in Sittong, best from late November to January",
+  "Rabindra Bhavan at Mungpoo, Tagore's hill retreat",
+  "A dawn birding walk at Latpanchar for hornbills and barbets",
+  "A night in a heritage bungalow in Takdah's old cantonment",
+  "Morgan House and the monastery on Kalimpong's Durpin Hill"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Sittong",
+   "place": "sittong",
+   "overnight": "Homestay, Sittong",
+   "drive": "≈ 70 km · 3 h",
+   "text": "Your driver meets you at Bagdogra or NJP and takes you up into the Riyang valley, about 3 hours. Check in to a family homestay among the orchards, at about 1,200 m. In the afternoon, walk the village lanes with your host, past orange trees, cardamom and small vegetable plots. Dinner is home-cooked: rice, dal, local greens and, in season, fresh oranges.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Orchards, Mungpoo and Latpanchar",
+   "place": "sittong",
+   "overnight": "Homestay, Sittong",
+   "drive": "≈ 50 km round trip",
+   "text": "Early birding walk at Latpanchar with a local guide, on the edge of the Mahananda Wildlife Sanctuary, where rufous-necked hornbills are sometimes seen. After breakfast, drive to Mungpoo to visit Rabindra Bhavan, the house where Tagore stayed with Maitreyi Devi's family, and see the cinchona plantations that once supplied quinine. Afternoon in the orchards.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Up to Darjeeling via Kurseong",
+   "place": "darjeeling",
+   "overnight": "Dekeling Hotel or similar, Darjeeling",
+   "drive": "≈ 55 km · 3 h",
+   "text": "Drive up to Kurseong and stop for tea with a view over the estates, then continue up the Hill Cart Road beside the toy train track through Sonada and Ghum. Visit Ghum Monastery and the Batasia Loop, then check in near Chowrasta. Late afternoon free on the Mall and Observatory Hill.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Tiger Hill and the toy train",
+   "place": "darjeeling",
+   "overnight": "Dekeling Hotel or similar, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Pre-dawn drive to Tiger Hill for sunrise on Kangchenjunga. After breakfast, ride the toy train joy ride to Ghum and back. In the afternoon, walk Happy Valley Tea Estate or visit the zoo and the Himalayan Mountaineering Institute. Evening free for momos and a tea tasting.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Down to Takdah",
+   "place": "takdah",
+   "overnight": "Heritage bungalow homestay, Takdah",
+   "drive": "≈ 30 km · 1.5 h",
+   "text": "Drive east to Takdah, about 1,500 m, a cantonment the British set up in the early 20th century, with old bungalows among pines. Visit the orchid centre, then walk the cantonment lanes and nearby tea garden paths. Your stay is a restored bungalow with a fireplace and home-cooked dinner. Ask your hosts about the walk to Tinchuley for tomorrow's sunrise.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Tinchuley sunrise, on to Kalimpong",
+   "place": "kalimpong",
+   "overnight": "WBTDC Morgan House, Kalimpong",
+   "drive": "≈ 45 km · 2.5 h",
+   "text": "Early walk or short drive to the Tinchuley viewpoint for sunrise over the Teesta valley and the snow peaks. After breakfast, drive via Lamahatta's prayer-flag park and down to the Teesta, then up to Kalimpong. Check in to Morgan House on Durpin Hill and spend the evening on its lawns.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Kalimpong monasteries and nurseries",
+   "place": "kalimpong",
+   "overnight": "WBTDC Morgan House, Kalimpong",
+   "drive": "Local",
+   "text": "Walk to Zang Dhok Palri Phodang on Durpin Hill, which holds the 108 volumes of the Kangyur brought from Tibet. Visit a cactus and orchid nursery, then the Thongsa Gompa and Dr Graham's Homes. If it is Wednesday or Saturday, see the haat in town. Late afternoon at Deolo Hill for views over the Teesta.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Kalimpong to Bagdogra",
+   "place": "kalimpong",
+   "overnight": "",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Leave after breakfast along the Teesta valley on NH10, past Sevoke and the Coronation Bridge, to Bagdogra or NJP, about 3 hours. In the monsoon months we leave early with time to spare for landslide delays.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "dekeling-hotel-darjeeling",
+  "wbtdc-morgan-house-kalimpong"
+ ],
+ "includes": [
+  "7 nights twin sharing: homestay in Sittong, good hotel in Darjeeling, heritage bungalow in Takdah, Morgan House in Kalimpong",
+  "Breakfast daily; dinner in Sittong, Takdah and Kalimpong",
+  "Private car with driver for all days",
+  "Local guides for Latpanchar birding and Sittong orchards",
+  "Toy train joy ride (diesel; steam on request)",
+  "Entries at Tiger Hill, Rabindra Bhavan, Takdah orchid centre"
+ ],
+ "excludes": [
+  "Flights or trains",
+  "Lunches and Darjeeling dinners",
+  "Steam train upgrade",
+  "Tips for drivers, hosts and guides",
+  "Personal shopping"
+ ],
+ "good_to_know": [
+  "All stays are below 2,100 m; altitude is not an issue.",
+  "Orange season in Sittong runs from late November to January; outside it the orchards are green.",
+  "Homestays in Sittong are simple; some have shared bathrooms. We choose the best available.",
+  "Morgan House is a government-run heritage property; service is simple and rooms vary, so we request the best available.",
+  "NH10 along the Teesta is prone to landslides; in rainy months we keep a buffer on the last day."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this 7-night village trip cost?",
+   "a": "From ₹44,000 per person, twin sharing, including seven nights in the best village stays, a good Darjeeling hotel and Morgan House, breakfast daily and most dinners, a private car with driver for eight days, local guides and the toy train joy ride. Flights are extra. Prices are indicative 2026."
+  },
+  {
+   "q": "When is orange season in Sittong?",
+   "a": "Darjeeling mandarins ripen from late November and are picked through December into January. That is the best time for this trip. In spring and October the orchards are green, and village life and birding are still good, with clearer views in October."
+  },
+  {
+   "q": "What are the homestays like in Sittong and Takdah?",
+   "a": "Sittong homestays are family homes with simple rooms, some with attached bathrooms and hot water. Takdah has old cantonment bungalows run as homestays, with larger rooms and fireplaces. Food is home-cooked in both. We choose the best rooms we know."
+  },
+  {
+   "q": "Is Morgan House a good place to stay?",
+   "a": "It is a 1930s stone mansion on Durpin Hill run by WBTDC, with lawns and views of the Kangchenjunga range. Rooms and service are simpler than a private luxury hotel, and it is popular, so book ahead. Its setting is the reason to stay."
+  },
+  {
+   "q": "Is this trip good for families with children?",
+   "a": "Yes, for children who enjoy the outdoors. Orchard walks, the toy train and gardens work well; drives are no longer than three hours. Homestays have steps and simple bathrooms, and evenings are quiet with little to do other than talk and read."
+  },
+  {
+   "q": "Can we see birds on this trip?",
+   "a": "Yes. Latpanchar, near Sittong, is a known birding spot on the edge of the Mahananda Wildlife Sanctuary, and Takdah and Kalimpong's forests hold many hill species. A local guide on day two helps; carry binoculars. Sightings are never guaranteed."
+  },
+  {
+   "q": "Is there mobile network in Sittong and Takdah?",
+   "a": "Signal is patchy in both villages; some homestays have Wi-Fi that works when power and network allow. Darjeeling and Kalimpong have good 4G. Carry cash, since village homestays often prefer cash or UPI."
+  },
+  {
+   "q": "Why visit Rabindra Bhavan at Mungpoo?",
+   "a": "Rabindranath Tagore stayed at Mungpoo several times between 1938 and 1940 as a guest of Maitreyi Devi, whose husband worked at the government cinchona plantation there. The house is now a small museum with his furniture and belongings, in a quiet setting among the plantation slopes."
+  },
+  {
+   "q": "Can we add Lava or Rishyap to this trip?",
+   "a": "Yes. Add one or two nights at Lava or Rishyap after Kalimpong for forest walks and sunrise views of Kangchenjunga. It adds about 1.5 hours of driving each way and suits October to April best."
+  }
+ ]
+}

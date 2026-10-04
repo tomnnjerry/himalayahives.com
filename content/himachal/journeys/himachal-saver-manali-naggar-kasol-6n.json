@@ -1,0 +1,187 @@
+{
+ "slug": "himachal-saver-manali-naggar-kasol-6n",
+ "title": "Manali, Naggar and Kasol on a budget",
+ "region": "himachal",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "homestays-and-villages",
+  "treks-and-walks",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "manali",
+   "nights": 2
+  },
+  {
+   "place": "naggar",
+   "nights": 1
+  },
+  {
+   "place": "kasol",
+   "nights": 3
+  }
+ ],
+ "start": "Manali bus stand (off the overnight HRTC Volvo from Delhi)",
+ "end": "Bhuntar bus stand (for the Volvo back to Delhi)",
+ "price_from_inr": 13000,
+ "price_note": "Per person: 6 nights in hostel dorms or simple shared doubles, breakfast daily, all local buses and one Manikaran day; Delhi Volvo fares (≈ ₹3,000–3,800 return) extra.",
+ "transport": "HRTC local buses and short shared taxis",
+ "group": "Shared departures",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Kullu and Parvati valley on a budget, 6 nights: Old Manali hostel, Naggar castle village, Kasol, Chalal and Manikaran by local bus, from ₹13,000.",
+ "summary": "Six nights in the Kullu and Parvati valleys for the price of a good hotel weekend: two in Old Manali, one in the castle village of Naggar, three by the river at Kasol. Local buses, hostel dorms, hot springs, village walks and a langar meal at Manikaran, with honest notes on what you give up.",
+ "intro": [
+  "This is how students and solo travellers have always done the Kullu valley: the overnight Volvo from Delhi, a dorm bed, and the local buses that carry everyone from schoolchildren to apple growers. Distances are short. Manali to Naggar is 21 km, Naggar to Kasol about 55 km, so no day has more than three hours on the road and every day leaves time to walk.",
+  "The trade-offs are real. Dorms are shared and some rooms have shared bathrooms. Buses are crowded in the morning and do not wait. In return you spend roughly ₹2,000 a day, eat where valley families eat, and see Naggar and the Parvati villages at the pace they deserve. We send you a day-by-day sheet with bus timings, hostel addresses and fallback options."
+ ],
+ "highlights": [
+  "Old Manali's orchards and the cedar forest around the Hadimba temple",
+  "A free soak in the hot baths at Vashisht",
+  "A night in Naggar, the old capital of the Kullu rajas, with the Roerich estate",
+  "Riverside mornings at Kasol and the walk to Chalal",
+  "Langar at the Manikaran gurdwara beside the hot springs"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Manali, settle into Old Manali",
+   "place": "manali",
+   "overnight": "Zostel Old Manali or similar hostel",
+   "drive": "",
+   "text": "The overnight HRTC Volvo from Delhi reaches Manali's bus stand around 8–9 am. Walk or take an auto to Old Manali, about 2 km uphill, and check into your hostel; early check-in depends on availability, so leave bags if needed. After breakfast, walk through the deodar forest to the Hadimba temple, built in 1553 in the wooden pagoda style. Spend the afternoon in Old Manali's lanes, where kath-kuni houses stand between apple trees. Early night after the bus.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 2,
+   "title": "Vashisht baths and Jogini falls",
+   "place": "manali",
+   "overnight": "Zostel Old Manali or similar hostel",
+   "drive": "≈ 3 km by auto",
+   "text": "Take an auto or walk 3 km across the Beas to Vashisht village. The hot spring baths beside the temple are free and separated for men and women; bathe early before the queues. From Vashisht, a marked trail of about 3 km climbs through fields and pine to Jogini waterfall, roughly 1.5 hours each way at an easy pace. Back in Manali, eat at a dhaba near the bus stand, where a thali costs ₹150–250 against twice that on café menus.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Left-bank bus to Naggar",
+   "place": "naggar",
+   "overnight": "Simple guesthouse in Naggar village",
+   "drive": "≈ 21 km · 1 h by local bus",
+   "text": "Take a local bus from Manali towards Naggar along the quieter left bank of the Beas, about an hour. Drop bags at a village guesthouse and walk up to Naggar Castle, the 15th-century kath-kuni seat of the Kullu rajas, now an HPTDC hotel with a small gallery and the Jagatipatt shrine. Continue up the lane to the Roerich estate, where the painter Nicholas Roerich lived from 1928 until his death; a small fee covers his house and gallery. Sunset over the Beas from the castle terrace.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Down the valley to Kasol",
+   "place": "kasol",
+   "overnight": "Hostel or guesthouse in Kasol or Chalal",
+   "drive": "≈ 55 km · 2.5–3 h by bus",
+   "text": "Take an early bus from Naggar to Kullu or Patlikuhl and change for Bhuntar, then board a Manikaran or Barshaini bus up the Parvati river. Kasol is about an hour above Bhuntar. Check in and spend the afternoon by the river, then cross the bridge and walk 20 minutes to Chalal, a village of wooden houses and guesthouses in the pines. Kasol's cafés serve Israeli dishes for ₹250–500; the dhabas near the bus stop serve rajma-chawal for less.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Tosh village or the Kheerganga day",
+   "place": "kasol",
+   "overnight": "Hostel or guesthouse in Kasol or Chalal",
+   "drive": "≈ 16 km each way by bus to Barshaini",
+   "text": "Take the morning bus to Barshaini, the roadhead. Most people walk up to Tosh, a village above the confluence of the Parvati and Tosh streams, about 1–1.5 hours, and return by afternoon. Fit walkers can attempt the 12 km trail to Kheerganga, around 2,950 m, and back in one long day of 8–9 hours; start by 8 am, carry water and turn back by 1 pm wherever you are. A local guide costs ₹1,500–2,500 a day.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Manikaran hot springs and langar",
+   "place": "kasol",
+   "overnight": "Hostel or guesthouse in Kasol or Chalal",
+   "drive": "≈ 4 km · 15 min by bus",
+   "text": "Manikaran is 4 km up the road. Walk through the gurdwara, where steam rises from springs hot enough that rice and dal are cooked in vessels set in them, and eat at the free langar; a donation is welcome. Visit the Ram temple and the bathing pools, then return to Kasol for a slow afternoon. Pack in the evening and confirm your Volvo seat from Bhuntar for tomorrow.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Back to Bhuntar",
+   "place": "kasol",
+   "overnight": "",
+   "drive": "≈ 30 km · 1 h by bus",
+   "text": "Local buses run down to Bhuntar through the day. Most Delhi-bound Volvos pass Bhuntar in the late afternoon and evening, so you have the morning for a last walk by the river. Reach Bhuntar at least an hour before your bus, as traffic at Jari and Bhuntar bridge can be slow.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-old-manali"
+ ],
+ "includes": [
+  "6 nights in hostel dorms or simple shared doubles (twin sharing where available)",
+  "Breakfast daily",
+  "All local bus fares within the valleys on the plan",
+  "Pre-trip sheet with bus timings, hostel addresses and fallbacks",
+  "Phone and chat support from our team during the trip"
+ ],
+ "excludes": [
+  "Delhi–Manali and Bhuntar–Delhi Volvo fares",
+  "Lunches and dinners",
+  "Kheerganga guide, autos and taxis",
+  "Entry fees at the Roerich estate and Naggar Castle",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "Rooms are simple: dorms with lockers, and private doubles that may share a bathroom in village guesthouses.",
+  "Buses do not reserve seats inside the valley; arrive early at the stand and keep luggage to one bag.",
+  "All nights are between 1,580 m and 2,050 m; the Kheerganga day climbs to about 2,950 m, so go slowly and turn back if you get a headache.",
+  "The Parvati valley has a drug scene; decline offers, stay with your group at night and use registered transport.",
+  "July and August bring landslides on the Parvati road; we do not run this trip in those months."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a budget trip to Manali and Kasol cost?",
+   "a": "This plan costs from ₹13,000 per person for 6 nights, covering hostel beds, breakfast and local buses. Add about ₹3,000–3,800 for return Volvo seats from Delhi and ₹500–900 a day for lunch and dinner at dhabas and cafés. Most students finish the week for ₹20,000–23,000 all in."
+  },
+  {
+   "q": "Is this trip suitable for solo travellers?",
+   "a": "Yes. Hostels in Old Manali and Kasol are full of solo travellers and most have women-only dorms. Buses are safe and busy. Avoid walking alone on forest trails after dark, keep your phone charged, and tell your hostel where you are going each day."
+  },
+  {
+   "q": "Can we do it as a couple and get private rooms?",
+   "a": "Yes. Ask us to swap dorm beds for private doubles. A simple double in Old Manali, Naggar or Chalal adds roughly ₹500–1,200 per person per night, so the trip rises to about ₹16,000–19,000 each, still well below hotel rates."
+  },
+  {
+   "q": "Is Kheerganga included, and can we camp there?",
+   "a": "The Kheerganga hike is an optional long day walk from Barshaini, not an overnight. Rules on camping at the top have changed several times, so we plan it as a return day hike. Check current status before you travel if you want to stay overnight."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "April to June and late September to November. April brings orchard blossom, October the clearest skies. We avoid July and August because of landslides and December to February because some village guesthouses close and buses are disrupted by snow."
+  },
+  {
+   "q": "How do we get from Delhi to Manali cheaply?",
+   "a": "Book an HRTC Volvo from Kashmere Gate ISBT on the HRTC website a few days ahead; it costs about ₹1,500–1,900 one way and arrives in the morning. Private coaches from Majnu ka Tilla cost similar. Ordinary HRTC buses are cheaper but slower."
+  },
+  {
+   "q": "Will I get mobile network and ATMs?",
+   "a": "Jio and Airtel work in Manali, Naggar and Kasol. Signal fades on the trail beyond Barshaini. ATMs are in Manali, Kullu, Bhuntar and Kasol, but the Kasol ones often run dry on weekends; carry ₹3,000–5,000 in cash for buses and small shops."
+  },
+  {
+   "q": "Is this trip safe given the drug scene in the Parvati valley?",
+   "a": "Yes, if you are sensible. Drugs are illegal and the police do conduct checks. Politely refuse offers, never carry anything for anyone, and use the bus or registered taxis. Most visitors come for the river, villages and food, and see none of it."
+  },
+  {
+   "q": "Can I extend the trip?",
+   "a": "Yes. Add two nights in the Tirthan valley by getting off the Volvo at Aut on the way in, or add McLeodganj and Bir by taking a bus from Mandi. Ask us and we will rework the plan and price."
+  }
+ ]
+}

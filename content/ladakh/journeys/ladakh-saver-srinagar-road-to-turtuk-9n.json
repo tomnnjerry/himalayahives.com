@@ -1,0 +1,236 @@
+{
+ "slug": "ladakh-saver-srinagar-road-to-turtuk-9n",
+ "title": "Srinagar road to Leh and Turtuk on a budget",
+ "region": "ladakh",
+ "tier": "saver",
+ "nights": 9,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "homestays-and-villages",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "kargil",
+   "nights": 1
+  },
+  {
+   "place": "lamayuru",
+   "nights": 1
+  },
+  {
+   "place": "alchi",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 2
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 1
+  },
+  {
+   "place": "turtuk",
+   "nights": 1
+  },
+  {
+   "place": "nubra-valley",
+   "nights": 1
+  },
+  {
+   "place": "leh",
+   "nights": 1
+  }
+ ],
+ "start": "Srinagar (shared taxi stand, Sonawar or Batamaloo)",
+ "end": "Leh airport",
+ "price_from_inr": 24500,
+ "price_note": "Per person, twin sharing: 9 nights in simple hotels, guesthouses and homestays (dinner and breakfast where noted), shared taxis and buses, environment fee and monastery entries; travel to Srinagar and the flight from Leh extra.",
+ "transport": "Shared Sumo taxis, state buses and local shared cars",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Saver Ladakh road trip, 9 nights: Srinagar to Kargil, Lamayuru, Alchi and Leh by bus, then Nubra and a Balti homestay in Turtuk. From ₹24,500 per person.",
+ "summary": "Nine nights entering Ladakh the slow way, by shared taxi and bus from Srinagar over Zoji La, sleeping at Kargil, Lamayuru and Alchi before Leh. Then the bus over Khardung La to Nubra and on to Turtuk's Balti homestays. Gentle on the body and on the wallet.",
+ "intro": [
+  "Flying into Leh is fast but hard on the body. Driving in from Srinagar is the opposite: you climb over Zoji La, sleep at Kargil at 2,676 m, then Lamayuru and Alchi, and arrive in Leh three days later already half adjusted. On this saver version we use shared Sumos and state buses, and stay in simple hotels and family guesthouses. The cost is low; the price is early starts and crowded seats.",
+  "From Leh, we still take a rest day before Khardung La. Then a bus to Diskit, a shared car down the Shyok to Turtuk for a night in a Balti home among apricot trees, and a last night in Hunder before the return over the pass. You end in Leh with a morning flight home. Expect shared bathrooms in some places, and ask hosts for help with onward seats."
+ ],
+ "highlights": [
+  "Crossing Zoji La and Drass by shared Sumo",
+  "Morning prayers and moonland at Lamayuru",
+  "Alchi's 12th-century painted temples",
+  "The bus over Khardung La to Diskit",
+  "A Balti homestay among Turtuk's apricot orchards"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Srinagar over Zoji La to Kargil",
+   "place": "kargil",
+   "overnight": "Kargil",
+   "drive": "≈ 204 km · 7–8 h",
+   "text": "Shared Sumo taxis for Kargil leave Srinagar early, about ₹1,000–1,500 a seat. The road follows the Sindh valley to Sonamarg, climbs Zoji La on a narrow, sometimes one-way track, and crosses the high meadows of Drass. Expect a tea stop and a short halt at the Drass memorial. Arrive in Kargil by late afternoon and check into a simple hotel near the bazaar for ₹1,500–2,500 a double. At 2,676 m, it is an easy first night.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Mulbekh and on to Lamayuru",
+   "place": "lamayuru",
+   "overnight": "Lamayuru guesthouse",
+   "drive": "≈ 105 km · 3–4 h",
+   "text": "Buy dried apricots in Kargil's morning bazaar, then catch the Leh-bound bus or a shared taxi and ask to be dropped at Lamayuru. On the way you pass Mulbekh's 9 m rock-cut Maitreya and cross Namika La and Fotu La, the highest point of the highway at 4,108 m. Check into a family guesthouse below the monastery, with dinner and breakfast. Rest, then walk the village lanes for sunset over the moonland.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Morning prayers, then down to Alchi",
+   "place": "alchi",
+   "overnight": "Alchi guesthouse",
+   "drive": "≈ 60 km · 2 h",
+   "text": "Walk up to Lamayuru Monastery for morning prayers around 6.30–7 am. After breakfast, flag down a Leh-bound bus or shared car and get off at Saspol, then take a local taxi or walk across the Indus bridge to Alchi, about 3 km. Visit the Sumtsek and Dukhang in the afternoon, when groups have gone. Alchi is lower, at about 3,100 m, and its orchards make a calm place to sleep.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Likir by the way, into Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "≈ 70 km · 2 h by bus",
+   "text": "Take a morning bus from Saspol towards Leh, around ₹80–120. If you are keen, get off at the Likir turning and see the Gelug monastery with its large gilded Maitreya, then catch a later bus or shared car on to Leh. Check into a guesthouse or hostel in Changspa or Karzoo. Even though you came by road, spend the evening quietly: you are now at 3,500 m for the first time.",
+   "meals": "None"
+  },
+  {
+   "day": 5,
+   "title": "Rest day in Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "",
+   "text": "A slow day. Walk the old town lanes and climb to Leh Palace only if you feel fine. Spend the afternoon in Changspa's garden cafes. Pay your Ladakh environment fee online and print copies for Nubra and Turtuk. Visit the bus stand to confirm tomorrow's Diskit bus. If you feel strong in the evening, take a taxi up to Shanti Stupa for sunset rather than climbing the 555 steps.",
+   "meals": "None"
+  },
+  {
+   "day": 6,
+   "title": "Bus over Khardung La to Diskit",
+   "place": "nubra-valley",
+   "overnight": "Diskit guesthouse",
+   "drive": "≈ 120 km · 5–6 h",
+   "text": "Board the early Diskit bus at Leh bus stand for about ₹200–300. Documents are checked at South Pullu, then the bus climbs to Khardung La at 5,359 m for a short stop before dropping into Nubra. Arrive in Diskit by early afternoon and check into a guesthouse. Visit Diskit Monastery and its giant Maitreya in the late afternoon light. Ask your host about tomorrow's bus or shared car to Turtuk.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Down the Shyok to Turtuk",
+   "place": "turtuk",
+   "overnight": "Turtuk Balti homestay",
+   "drive": "≈ 85 km · 2.5–3 h",
+   "text": "Take the morning bus or a shared car from Diskit down the Shyok gorge to Turtuk, where the valley drops to about 2,900 m. Cross the footbridge into the village and choose a Balti family homestay, agreeing the price with meals first. Spend the afternoon walking through Youl and Farol, the two halves of the village, past stone houses, water channels and apricot orchards. Dress modestly and ask before photographing anyone.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Back up the valley to Hunder",
+   "place": "nubra-valley",
+   "overnight": "Hunder homestay",
+   "drive": "≈ 75 km · 2.5 h",
+   "text": "Have breakfast with your hosts and a slow morning in the orchards. Around midday, take a shared car or the return bus back up the Shyok to Hunder. Check into a homestay near the dunes, rest, and walk out to the sand in the late afternoon to see the Bactrian camels. Confirm a shared taxi seat back to Leh for tomorrow morning through your host or the Diskit taxi stand.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Over Khardung La to Leh",
+   "place": "leh",
+   "overnight": "Leh",
+   "drive": "≈ 130 km · 4.5–5 h",
+   "text": "Leave Hunder by about 8 am in a shared taxi, around ₹800–1,200 a seat, to cross Khardung La before the afternoon. Back in Leh by early afternoon, check into your guesthouse and spend the rest of the day buying apricots and pashmina from fixed-price cooperative shops, or sitting in a cafe. Eat early and pack. Confirm your flight time and a taxi to the airport.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 10,
+   "title": "Fly out of Leh",
+   "place": "leh",
+   "overnight": "",
+   "drive": "≈ 4 km to the airport",
+   "text": "Morning flights leave Leh for Delhi and other cities. Reach the airport at least two hours before departure in peak season; the terminal is small and queues are long. A union taxi from Changspa costs about ₹400–600. Weather can delay flights; keep a small buffer of cash and time.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-leh",
+  "turtuk-balti-homestays"
+ ],
+ "includes": [
+  "9 nights in simple hotels, guesthouses and homestays",
+  "Dinner and breakfast at Lamayuru, Alchi, Turtuk and Hunder; dinner in Diskit",
+  "Shared taxi Srinagar–Kargil and Hunder–Leh",
+  "State buses on the highway and to Diskit; local shared car to and from Turtuk",
+  "Ladakh environment fee and monastery entry fees"
+ ],
+ "excludes": [
+  "Travel to Srinagar and the flight from Leh",
+  "Lunches and meals in Kargil and Leh",
+  "Camel rides and optional activities",
+  "Travel insurance and medical costs",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Acclimatisation: the road climbs gradually through Kargil, Lamayuru and Alchi, and we still give you a full rest day in Leh before Khardung La. Talk to your doctor before travel if you have heart or lung conditions.",
+  "Zoji La opening dates change every year and the pass can be one-way at times; check current status before you travel.",
+  "Bus and shared taxi timings shift by season; confirm each departure the day before with your host or at the stand.",
+  "Kargil and Turtuk are conservative Muslim communities; dress modestly and avoid alcohol in public.",
+  "Only postpaid SIMs work in Ladakh; prepaid connections from other states do not."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this saver road trip cost?",
+   "a": "We price it from about ₹24,500 per person, twin sharing, for 9 nights with rooms, homestay meals, shared taxis, buses, the environment fee and monastery entries. Travel to Srinagar and your flight from Leh are extra. Budget ₹400–700 a day for lunches and snacks."
+  },
+  {
+   "q": "Why start from Srinagar instead of flying to Leh?",
+   "a": "The road lets your body adjust step by step: Kargil at 2,676 m, then Lamayuru and Alchi, before Leh at 3,500 m. Most people arriving this way feel much better in Leh than those who fly in. It also shows you the Muslim and Buddhist sides of Ladakh in order."
+  },
+  {
+   "q": "When is the Srinagar–Leh road open?",
+   "a": "Zoji La usually opens in spring and stays open until heavy snow in late autumn, with exact dates set by road authorities each year. June to September is the safest window for a bus-and-shared-taxi trip. Check current status before you travel."
+  },
+  {
+   "q": "Is the shared Sumo from Srinagar to Kargil comfortable?",
+   "a": "Not very: seats are tight and the Zoji La section is rough and dusty. It is, however, fast and cheap, and drivers know the road well. Book the front or middle row if you can, carry a scarf for dust, and keep motion-sickness tablets handy."
+  },
+  {
+   "q": "Do I need permits for Turtuk and Nubra?",
+   "a": "Indians need the Ladakh environment fee receipt and photo ID; foreign nationals need a Protected Area Permit through a Leh agency, which can be arranged on your rest day. Kargil, Lamayuru and Alchi need no permit. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "Can I reverse this trip?",
+   "a": "You can, but flying into Leh first means you lose the gentle road acclimatisation. If you reverse it, add a second rest day in Leh before Khardung La, and keep Kargil and Lamayuru for the drive out to Srinagar at the end."
+  },
+  {
+   "q": "Is this trip suitable for families?",
+   "a": "It suits families with older children who are comfortable with long road days and simple rooms. Shared taxis can be cramped with small children; for a family of four, a private car on some legs may cost little more per person. Carry snacks and warm clothes."
+  },
+  {
+   "q": "What food will I eat on this trip?",
+   "a": "Kashmiri and Punjabi food in Kargil, dal, rice and vegetables in Lamayuru and Alchi guesthouses, Ladakhi thukpa and momos in Leh and Nubra, and Balti home cooking in Turtuk, often with apricot and buckwheat. Vegetarians are well catered for everywhere."
+  },
+  {
+   "q": "How much cash should I carry?",
+   "a": "Kargil and Leh have ATMs; Lamayuru, Alchi, Turtuk and Hunder do not have reliable ones, and network for UPI is patchy. Carry enough cash from Kargil for three days and from Leh for the Nubra and Turtuk leg, roughly ₹2,500–3,500 a day per person."
+  }
+ ]
+}

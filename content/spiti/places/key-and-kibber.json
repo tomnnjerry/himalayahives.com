@@ -53,7 +53,7 @@
     {"mode": "Road", "text": "Key is 12 km and Kibber 19 km from Kaza on a paved road. A taxi from the Kaza union covers both plus Chicham in a half day."}
   ],
   "where_to_stay": "Most travellers sleep in Kaza and visit Key and Kibber on a day trip. Saver: Kibber has several family homestays at ₹1,200–2,000 a person with meals, with shared or simple attached bathrooms; in winter they heat one room with a stove. Comfort and signature: there are no hotels of that standard in Kibber, so we base comfort and signature trips in Kaza or at The Grand Dewachen in Rangrik and come up for the day. Key Gompa does not run a general guest house for tourists; do not expect to stay there.",
-  "stays": [],
+  "stays": ["kibber-homestay-village"],
   "tips": [
     "Visit Key early in the morning for prayers, before the tour cars arrive around 10 am.",
     "Sleep in Kibber only after at least two nights in Kaza.",

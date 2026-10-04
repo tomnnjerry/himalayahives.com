@@ -1,0 +1,313 @@
+{
+ "slug": "mechuka",
+ "name": "Mechuka",
+ "region": "arunachal",
+ "kind": "valley",
+ "wiki": "Mechuka",
+ "image_query": "Mechuka valley Siyom river",
+ "lat": 28.6,
+ "lng": 94.125,
+ "altitude_m": 1829,
+ "tagline": "A wide Memba valley on the Siyom, far up the Siang",
+ "meta_description": "Mechuka travel guide: the Siyom valley, Samten Yongcha monastery, Memba homestays, snow months, real costs and the long road from Aalo and Pasighat.",
+ "summary": "Mechuka is a broad valley at about 1,830 m on the Siyom river in Shi Yomi district, home to Memba Buddhists and reached by a long road from Aalo. Wooden homestays, a centuries-old monastery and open grassland under snow peaks make it worth the journey. Stay 3 nights; come March–May or October–November.",
+ "intro": [
+  "Mechuka lies close to the high frontier in the far north of central Arunachal, in a valley that opens out wide and flat after hours of forest and gorge. The Siyom river, known higher up as the Yargyap Chu, meanders across grassland grazed by cattle and ponies, and ridges of fir and snow close the view on every side. The name is usually explained as Memba words for medicine, water and snow.",
+  "The Memba, a Buddhist people with links to Tibet, have lived here for centuries alongside Adi groups such as the Ramo and Bokar in the surrounding hills. Their wooden houses, prayer flags and the Samten Yongcha monastery on the hillside give Mechuka a different feel from the Adi villages of the lower Siang. Since 2018 Mechuka has been part of Shi Yomi district, with its headquarters at Tato.",
+  "Getting here is the adventure. From Aalo the road climbs and winds for about 180 km and 7–8 hours, and from Pasighat or Dibrugarh it is a full two days. Once you arrive there is little traffic, little phone signal in places and plenty of room to walk. Most visitors stay in Memba family homestays, eat home food and spend their days on the valley floor and the low ridges around it."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Mar – May, Oct – Nov"
+  ],
+  [
+   "Nights we suggest",
+   "3"
+  ],
+  [
+   "Nearest airport",
+   "Dibrugarh (≈ 380 km); Pasighat airport has limited flights"
+  ],
+  [
+   "From Aalo",
+   "≈ 180 km · 7–8 h"
+  ],
+  [
+   "Altitude",
+   "≈ 1,830 m"
+  ],
+  [
+   "Known for",
+   "Siyom valley, Memba homestays, Samten Yongcha monastery, winter snow"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "nights": "3",
+ "highlights": [
+  {
+   "title": "Samten Yongcha monastery",
+   "text": "On a ridge above the valley, this Mahayana Buddhist monastery is said to be around 400 years old. Walk up in the morning for the view over the Siyom and the town, and ask before entering the prayer hall."
+  },
+  {
+   "title": "The Siyom valley floor",
+   "text": "The flat grassland along the river is made for slow walks: wooden bridges, grazing ponies, prayer flags and snow on the far ridges. Spring brings flowers; late autumn brings clear skies and frost."
+  },
+  {
+   "title": "Memba homestays",
+   "text": "Most stays here are family homestays in wooden houses, with home-cooked meals of rice, local greens, butter tea and sometimes yak or pork. Evenings by the kitchen fire are the best part of a Mechuka trip."
+  },
+  {
+   "title": "Snow in winter",
+   "text": "From December to February snow often falls on the valley and the surrounding ridges. Days are cold and clear, nights well below freezing, and roads can close after heavy falls, so build in spare days."
+  },
+  {
+   "title": "A gurdwara in the hills",
+   "text": "Mechuka has a gurdwara, maintained by the Army, at a site that tradition links with a visit by Guru Nanak. Visitors of all faiths are welcome; cover your head and remove your shoes."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "The name Mechuka is usually explained as three Memba words: 'men' for medicine, 'chu' for water and 'kha' for snow, after the medicinal springs said to flow into the valley from the snow.",
+   "source": "Mechuka"
+  },
+  {
+   "fact": "Samten Yongcha, the monastery on the hill above Mechuka, is a Mahayana Buddhist gompa said to be about 400 years old, built and maintained by the Memba community of the valley.",
+   "source": "Mechuka"
+  },
+  {
+   "fact": "Shi Yomi district, which includes Mechuka, was carved out of West Siang district in 2018, with its headquarters at Tato. Name both Shi Yomi and West Siang on your Inner Line Permit.",
+   "source": "Shi Yomi district"
+  }
+ ],
+ "local_word": {
+  "word": "Tashi delek",
+  "language": "Memba (and other Tibetan-related languages)",
+  "meaning": "hello; good wishes"
+ },
+ "costs": [
+  [
+   "Shared Sumo seat, Aalo–Mechuka",
+   "₹700–1,000"
+  ],
+  [
+   "Shared Sumo seat, Pasighat–Aalo",
+   "₹350–550"
+  ],
+  [
+   "Homestay with dinner and breakfast",
+   "₹1,500–2,500 per person"
+  ],
+  [
+   "Taxi for a day around the valley",
+   "₹2,500–4,000 per vehicle"
+  ],
+  [
+   "Local guide for valley walks",
+   "₹1,000–2,000 a day"
+  ],
+  [
+   "Bowl of thukpa or plate of momos",
+   "₹80–180"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Air",
+   "text": "Dibrugarh is the nearest major airport, about 380 km and two days by road via Bogibeel, Pasighat or Likabali, and Aalo. Pasighat airport has had limited regional flights; check current status before you travel."
+  },
+  {
+   "mode": "Bus",
+   "text": "Shared Sumos run from Aalo to Mechuka, usually leaving early morning, for about ₹700–1,000 a seat. Reach Aalo first by Sumo from Pasighat, Itanagar or Silapathar in Assam. Book seats a day ahead."
+  },
+  {
+   "mode": "Road",
+   "text": "From Aalo, the road via Kaying and Tato covers about 180 km in 7–8 hours, with rough patches and landslide-prone sections. From Pasighat allow 10–11 hours in all, or split at Aalo. In the monsoon, closures can last days."
+  }
+ ],
+ "where_to_stay": "Saver: Memba family homestays in and around Mechuka town charge about ₹1,500–2,500 per person with dinner and breakfast; rooms are wooden, warm blankets are provided and bathrooms may be shared. Comfort: the better homestays and small guesthouses with attached bathrooms and hot water are what our comfort trips use. Signature: there is no hotel of signature standard here; on private trips we choose the most comfortable homestay and add a private guide and vehicle.",
+ "stays": [
+  "mechuka-memba-homestays"
+ ],
+ "tips": [
+  "Name Shi Yomi and West Siang districts on your Inner Line Permit; checks happen on the road.",
+  "Carry enough cash from Pasighat or Aalo; ATMs in Mechuka are few and can run dry.",
+  "Build a spare day into any winter trip in case snow or landslides close the road.",
+  "Pack warm layers in every season; nights are cold even in May and October.",
+  "Ask before photographing inside Samten Yongcha or during rituals."
+ ],
+ "themes": [
+  "homestays-and-villages",
+  "monasteries",
+  "road-trips",
+  "snow-and-winter",
+  "photography"
+ ],
+ "nearby": [
+  "pasighat",
+  "ziro"
+ ],
+ "experiences": [
+  {
+   "slug": "mechuka-samten-yongcha-morning",
+   "title": "Morning at Samten Yongcha monastery",
+   "kind": "spiritual",
+   "duration": "2–3 hours",
+   "best_time": "Early morning, Mar–May and Oct–Nov",
+   "cost": "Free; offerings welcome; taxi ₹500–1,000 return",
+   "image_query": "Samten Yongcha Monastery Mechuka",
+   "wiki": "",
+   "summary": "Walk or drive up to the old Memba monastery above Mechuka for morning prayers, butter lamps and a wide view over the Siyom valley and its ring of ridges.",
+   "body": [
+    "Samten Yongcha stands on a ridge above Mechuka, looking down over the town, the river and the grassland. It is a Mahayana Buddhist monastery, said locally to be around 400 years old, and remains the spiritual centre for the Memba of the valley. Inside the prayer hall are Buddhist images, butter lamps and painted walls.",
+    "Go early. In the morning the valley is often full of mist that burns off as the sun reaches the ridge, and you may hear chanting or see families making offerings. Walk around the monastery clockwise, as is the custom, and leave a small offering if you wish. Ask before entering the prayer hall, remove your shoes, and do not photograph inside without clear permission.",
+    "You can drive up in a few minutes or walk from town in about an hour on a steep track. Carry a warm jacket, since mornings are cold at any time of year. Combine the visit with a slow walk back down to the river, stopping at the prayer wheels and chortens on the way."
+   ],
+   "good_for": [
+    "couples",
+    "solo",
+    "photographers",
+    "seniors",
+    "first-timers"
+   ],
+   "faqs": [
+    {
+     "q": "How old is Samten Yongcha monastery?",
+     "a": "It is said locally to be about 400 years old. It is a Mahayana Buddhist monastery maintained by the Memba community of Mechuka."
+    },
+    {
+     "q": "Can I photograph inside Samten Yongcha?",
+     "a": "Ask first. Photography inside the prayer hall is often not allowed, and monks or caretakers will tell you. Outside, the views over the valley are open to photograph."
+    },
+    {
+     "q": "How do I get to the monastery from Mechuka town?",
+     "a": "It is a short drive up the hill or a walk of about an hour on a steep track. Taxis in town charge about ₹500–1,000 for the return trip with waiting time."
+    }
+   ]
+  },
+  {
+   "slug": "mechuka-siyom-valley-walk",
+   "title": "A day walking the Siyom valley",
+   "kind": "nature",
+   "duration": "Full day",
+   "best_time": "Mar–May and Oct–Nov",
+   "cost": "Free; local guide ₹1,000–2,000",
+   "image_query": "Siyom river Mechuka valley",
+   "wiki": "",
+   "summary": "Follow the Siyom across Mechuka's wide grassland, over wooden bridges and past grazing ponies and prayer flags, to villages and viewpoints on the edge of the valley.",
+   "body": [
+    "Mechuka's valley floor is broad and gently sloping, and the best way to see it is on foot. From town, tracks lead along the Siyom through open grassland where cattle and ponies graze, over wooden and suspension bridges, and up to small villages on the valley sides. Snow peaks close the view to the north and the river runs clear and cold over stones.",
+    "A local guide or your homestay host can suggest a loop for the day and show you villages where you are welcome. Spring brings primulas and rhododendrons on the slopes; late October and November bring frost, golden grass and the clearest skies. There are few shops outside town, so carry lunch, water and snacks.",
+    "Stay on paths, close any gates you open, and keep a respectful distance from livestock. Weather turns quickly, so carry a rain jacket and warm layer. Some areas close to the frontier are restricted; your guide will know where you can go. If you want a longer hike, ask about walks to higher meadows with a guide."
+   ],
+   "good_for": [
+    "couples",
+    "solo",
+    "students",
+    "families",
+    "photographers"
+   ],
+   "faqs": [
+    {
+     "q": "Do I need a guide to walk in Mechuka?",
+     "a": "Not for short walks along the valley near town, but a local guide is useful for longer loops, village visits and to avoid restricted areas close to the frontier. Expect ₹1,000–2,000 a day."
+    },
+    {
+     "q": "Is walking in Mechuka difficult?",
+     "a": "Valley walks are mostly easy and flat, at about 1,800–1,900 m. Climbs to villages or viewpoints are steeper. Wear shoes with good grip; paths get muddy after rain."
+    },
+    {
+     "q": "Are there restricted areas around Mechuka?",
+     "a": "Yes. Parts of the upper valley close to the frontier are restricted. Ask your guide or homestay host where you can go, and check current status before you travel."
+    }
+   ]
+  },
+  {
+   "slug": "mechuka-memba-kitchen-evening",
+   "title": "A Memba kitchen evening by the fire",
+   "kind": "food",
+   "duration": "2–3 hours",
+   "best_time": "Evening, all year",
+   "cost": "Usually included with homestay dinner",
+   "image_query": "Memba house Mechuka",
+   "wiki": "",
+   "summary": "Spend an evening around the hearth in a Memba homestay: butter tea, rice and local greens, perhaps yak or pork, home-brewed drinks and talk of the valley's seasons and festivals.",
+   "body": [
+    "Memba houses are built of timber, often on two levels, with the kitchen and its fire at the heart of the home. In the evenings the family gathers there, and as a homestay guest you will be invited in. Expect butter tea or sweet tea, rice, potatoes, local greens and chillies, and on some nights pork, chicken or yak meat. Cheese and dried meat may hang above the fire.",
+    "Ask your host about the farming year: what grows in the short summer, how the family prepares for winter, and when the valley's festivals fall. Many Memba households also brew a local drink from grain, which is offered to guests; a small sip is polite and refusing is fine. Vegetarians should tell their host when booking.",
+    "Take your shoes off at the door if your hosts do, sit where you are shown and do not step over the hearth. Offer to help clear up, and leave the kitchen when the family settles for the night. Bring a headtorch for the walk to the bathroom; power cuts are common."
+   ],
+   "good_for": [
+    "couples",
+    "solo",
+    "students",
+    "families"
+   ],
+   "faqs": [
+    {
+     "q": "What food is served in Mechuka homestays?",
+     "a": "Home-cooked rice, potatoes, local greens and chillies, often with pork, chicken or yak meat, plus butter tea. Vegetarian meals are easy to arrange if you tell your host in advance."
+    },
+    {
+     "q": "Do Mechuka homestays have attached bathrooms?",
+     "a": "Some do, especially newer homestays; many older houses have shared bathrooms with bucket hot water. Ask when booking if an attached bathroom matters to you."
+    },
+    {
+     "q": "Is there electricity in Mechuka homestays?",
+     "a": "Yes, but power cuts are common, especially in winter and bad weather. Carry a headtorch and power bank."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How do I reach Mechuka?",
+   "a": "Reach Aalo by road from Pasighat, Itanagar or Silapathar, then take a shared Sumo or private car for about 180 km and 7–8 hours to Mechuka. From Dibrugarh it is a two-day journey. The road is long and rough in places, and monsoon landslides can close it."
+  },
+  {
+   "q": "Do I need a permit for Mechuka?",
+   "a": "Yes. Indian visitors need an Inner Line Permit, and foreigners a Protected Area Permit. List Shi Yomi and West Siang districts, plus East Siang if you travel via Pasighat. Some areas near the frontier need extra permission. Check current status before you travel."
+  },
+  {
+   "q": "What is the best time to visit Mechuka?",
+   "a": "March to May for spring flowers and green valleys, and October to November for clear skies. December to February brings snow and very cold nights, with occasional road closures. June to September is the monsoon, when landslides make the road unreliable."
+  },
+  {
+   "q": "How many days should I spend in Mechuka?",
+   "a": "Three nights in the valley, plus at least two travel days in and out. That gives a day for the monastery and town, a day of valley walks, and a spare day in case of weather or road problems."
+  },
+  {
+   "q": "Does Mechuka get snow?",
+   "a": "Yes. The valley and surrounding ridges usually get snow between December and February. Temperatures fall well below freezing at night. Pack proper winter clothing and allow extra days for road delays."
+  },
+  {
+   "q": "Is there mobile network in Mechuka?",
+   "a": "There is some 4G coverage in town from major networks, but it can be patchy, and signal disappears on much of the road from Aalo. Tell family you may be offline for long stretches."
+  },
+  {
+   "q": "Will I get altitude sickness in Mechuka?",
+   "a": "Mechuka is at about 1,830 m, well below the height where altitude sickness usually becomes a concern for healthy travellers. You may feel the cold more than the altitude. If you have heart or lung conditions, talk to your doctor before a long mountain road trip."
+  },
+  {
+   "q": "Is Mechuka suitable for families?",
+   "a": "Yes, for families comfortable with long, winding drives and simple homestays. The valley walks are easy and children enjoy the open space. Carry motion-sickness remedies and snacks for the road, and plan short driving days where you can."
+  },
+  {
+   "q": "How much does a Mechuka trip cost?",
+   "a": "On a saver budget with shared Sumos and homestays, plan about ₹2,500–3,500 per person a day plus transport to Pasighat or Aalo. A private car from Pasighat for 5–6 days costs about ₹30,000–45,000 per vehicle, shared between your group. Indicative 2026 figures."
+  }
+ ]
+}

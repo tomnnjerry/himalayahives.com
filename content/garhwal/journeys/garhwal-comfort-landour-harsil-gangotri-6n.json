@@ -1,0 +1,189 @@
+{
+ "slug": "garhwal-comfort-landour-harsil-gangotri-6n",
+ "title": "Landour, Harsil apples and Gangotri",
+ "region": "garhwal",
+ "tier": "comfort",
+ "nights": 6,
+ "themes": [
+  "road-trips",
+  "homestays-and-villages",
+  "pilgrimages",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "mussoorie-landour",
+   "nights": 2
+  },
+  {
+   "place": "harsil",
+   "nights": 3
+  },
+  {
+   "place": "rishikesh",
+   "nights": 1
+  }
+ ],
+ "start": "Dehradun (Jolly Grant airport or railway station)",
+ "end": "Rishikesh or Dehradun (Jolly Grant) airport",
+ "price_from_inr": 52000,
+ "price_note": "Per person, twin sharing: 2 nights at Rokeby Manor, 3 nights in a Harsil cottage hotel or the best homestay, 1 night at Aloha on the Ganges, breakfast and dinner, private car with driver; entry tickets extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Landour, Harsil and Gangotri, 6 nights: Rokeby Manor, apple orchards and Frederick Wilson's valley, Gangotri temple and Mukhba, by private car, from ₹52,000.",
+ "summary": "Six nights for travellers who want the Bhagirathi valley without the yatra rush: two nights in the old cantonment of Landour at Rokeby Manor, three in the apple orchards of Harsil with a day at Gangotri and a walk to Mukhba, and a last night by the Ganga in Rishikesh.",
+ "intro": [
+  "Harsil is the valley most Gangotri pilgrims drive straight through. We stop for three nights. At about 2,745 m it is a wide floor of braided river channels and deodar, with orchards planted from the apple trees Frederick Wilson brought in the nineteenth century. It is 25 km below Gangotri, so you can visit the temple in the morning and be back among the orchards by lunch.",
+  "We begin higher up the social ladder of the hills, in Landour above Mussoorie, where Rokeby Manor sits near Char Dukan in a restored 1840s house. The drive to Harsil is long, about 8–9 hours, and we say so. The trip ends with a night at Aloha on the Ganges in Rishikesh, a short drive from the airport."
+ ],
+ "highlights": [
+  "Landour's ridge walk: Char Dukan, Lal Tibba and Sisters' Bazaar",
+  "Apple orchards of Harsil and Dharali, at their best in September and October",
+  "Gangotri temple and Bhagiratha's rock on the Bhagirathi",
+  "Mukhba, the village where the goddess Ganga spends winter",
+  "The cliff walkway of Gartang Gali above the Jadh Ganga gorge"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Up to Landour",
+   "place": "mussoorie-landour",
+   "overnight": "Rokeby Manor, Landour",
+   "drive": "≈ 60 km · 2 h from the airport",
+   "text": "Your driver meets you at Jolly Grant airport or Dehradun station for the climb to Mussoorie and Landour. Check into Rokeby Manor near Char Dukan. In the late afternoon, walk the chakkar, the loop road round the top of Landour, past St Paul's Church and the cottages of the old cantonment, and finish with tea and pancakes at Char Dukan.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Landour lanes and Everest's house",
+   "place": "mussoorie-landour",
+   "overnight": "Rokeby Manor, Landour",
+   "drive": "≈ 20 km round trip",
+   "text": "Walk to Lal Tibba for the morning view of the Garhwal peaks, then down through Sisters' Bazaar. After lunch, drive to Park Estate at Hathipaon, where Sir George Everest, Surveyor General of India, had his house and observatory; the restored buildings look out over the Doon and the Aglar valley. Return to Landour for a quiet evening.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "The long road to Harsil",
+   "place": "harsil",
+   "overnight": "Cottage hotel or homestay, Harsil",
+   "drive": "≈ 220 km · 8–9 h",
+   "text": "Leave at 6:30 am. The road runs past Dhanaulti and Chamba to the Tehri reservoir and the Bhagirathi, then climbs through Uttarkashi, where we stop for lunch and the Vishwanath temple. Beyond Gangnani the valley narrows to a gorge before opening at Harsil. Check into a riverside cottage hotel or Harsil's best homestay with heating and attached baths.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Gangotri temple and back",
+   "place": "gangotri",
+   "overnight": "Cottage hotel or homestay, Harsil",
+   "drive": "≈ 50 km round trip · 2 h",
+   "text": "Drive 25 km up to Gangotri at about 3,100 m. Walk through the bazaar to the white temple of the goddess Ganga and see Bhagiratha's rock, where the king is said to have prayed for the river to come down. Walk 10 minutes downstream to Surya Kund, where the Bhagirathi drops into a narrow gorge. Back to Harsil for lunch and an easy afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Orchards, Mukhba and Gartang Gali",
+   "place": "harsil",
+   "overnight": "Cottage hotel or homestay, Harsil",
+   "drive": "≈ 30 km round trip",
+   "text": "Walk through the orchards of Harsil with a local host and hear the story of Frederick Wilson. Cross the Bhagirathi to Mukhba, winter seat of the goddess Ganga, whose temple receives the doli from Gangotri each Diwali. In the afternoon, drive towards Bhaironghati to walk the restored Gartang Gali, a wooden walkway on a cliff that once carried trade to Tibet, if it is open.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Down the Bhagirathi to Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Aloha on the Ganges, Rishikesh",
+   "drive": "≈ 220 km · 8–9 h",
+   "text": "An early start down the valley, with a stop at the Tehri reservoir viewpoints. Reach Rishikesh by late afternoon and check into Aloha on the Ganges in Tapovan. Walk to the evening aarti at Parmarth Niketan across Ram Jhula, or rest by the pool after two long days on the road.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Departure",
+   "place": "rishikesh",
+   "overnight": "",
+   "drive": "≈ 35 km · 1 h to the airport",
+   "text": "A free morning, then transfer to Jolly Grant airport or Haridwar station for your journey home.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "rokeby-manor-landour",
+  "aloha-on-the-ganges-rishikesh"
+ ],
+ "includes": [
+  "6 nights: Rokeby Manor, a Harsil cottage hotel or homestay and Aloha on the Ganges, twin sharing",
+  "Breakfast and dinner daily",
+  "Private car with driver throughout, with tolls, parking and driver costs",
+  "A local host for the Harsil orchard walk",
+  "Help with Char Dham registration for Gangotri"
+ ],
+ "excludes": [
+  "Flights and trains",
+  "Lunches",
+  "Gartang Gali and other entry tickets",
+  "Temple offerings and special pujas",
+  "Extra nights from road closures"
+ ],
+ "good_to_know": [
+  "You sleep at about 2,745 m at Harsil and visit Gangotri at about 3,100 m for the day. Most people feel fine; drink water and go slowly on the first day. Talk to your doctor if you have heart or lung conditions.",
+  "Char Dham registration covers Gangotri and is checked on the road; check current status before you travel.",
+  "In August 2025 a flash flood hit Dharali, a few kilometres from Harsil, and damaged the highway. Roads were restored, but check current status before you travel.",
+  "Gangotri temple is open from Akshaya Tritiya, in April or May, to Diwali. Harsil stays open longer; October and November are the quietest months.",
+  "The drives on days 3 and 6 are long; carry motion-sickness tablets and snacks."
+ ],
+ "faqs": [
+  {
+   "q": "Is Harsil worth visiting?",
+   "a": "Yes, especially from April to June and September to November. It is a broad, quiet valley of orchards and deodar 25 km below Gangotri, with homestays, short walks and the story of Frederick Wilson. It is far calmer than Gangotri in yatra season."
+  },
+  {
+   "q": "How long is the drive from Mussoorie to Harsil?",
+   "a": "About 220 km and 8–9 hours via Chamba, the Tehri reservoir and Uttarkashi. We start early, stop for lunch in Uttarkashi and arrive before dark."
+  },
+  {
+   "q": "When is apple season in Harsil?",
+   "a": "Apples ripen from late August to October, with picking at its height in September. Orchards blossom in April. Harsil apples and rajma are sold by the roadside in season."
+  },
+  {
+   "q": "Do I need Char Dham registration for Gangotri?",
+   "a": "Yes. Register free on the Uttarakhand tourism portal or app before you travel; it is checked on the road. Rules change each season, so check current status before you travel."
+  },
+  {
+   "q": "What is Gartang Gali?",
+   "a": "A wooden walkway about 150 m long fixed to a cliff above the Jadh Ganga gorge near Bhaironghati, part of an old India–Tibet trade path. It was restored and reopened for visitors with an entry ticket. Check current status before you travel."
+  },
+  {
+   "q": "Is Rokeby Manor in Mussoorie or Landour?",
+   "a": "In Landour, the old cantonment above Mussoorie, near Char Dukan. It is a restored house from the 1840s with a restaurant and gardens, quieter than the Mall below."
+  },
+  {
+   "q": "Can we visit Gaumukh on this trip?",
+   "a": "Gaumukh needs a permit from Gangotri National Park, with a daily cap, and two to three extra days with a night at Bhojbasa. We can add it on request; check current status before you travel."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, if they are comfortable with long drives on two days. Walks are short and optional, and the highest point, Gangotri at 3,100 m, is a day visit. Talk to your doctor first."
+  },
+  {
+   "q": "Can we do this trip in winter?",
+   "a": "Gangotri closes at Diwali and snow can block the road above Harsil from December. Landour is lovely in winter. For snow, we suggest Landour with Auli rather than Harsil."
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "slug": "garhwal-comfort-kedarnath-tungnath-badrinath-8n",
+ "title": "Kedarnath, Tungnath and Badrinath by car",
+ "region": "garhwal",
+ "tier": "comfort",
+ "nights": 8,
+ "themes": [
+  "pilgrimages",
+  "road-trips",
+  "treks-and-walks"
+ ],
+ "stops": [
+  {
+   "place": "rishikesh",
+   "nights": 1
+  },
+  {
+   "place": "kedarnath",
+   "nights": 3
+  },
+  {
+   "place": "chopta-tungnath",
+   "nights": 1
+  },
+  {
+   "place": "auli",
+   "nights": 1
+  },
+  {
+   "place": "badrinath",
+   "nights": 1
+  },
+  {
+   "place": "rishikesh",
+   "nights": 1
+  }
+ ],
+ "start": "Rishikesh or Dehradun (Jolly Grant) airport",
+ "end": "Rishikesh or Dehradun (Jolly Grant) airport",
+ "price_from_inr": 54000,
+ "price_note": "Per person, twin sharing: 8 nights in good hotels, the best Kedarnath camp available and a Chopta cottage, breakfast and dinner, private car with driver throughout; ponies, palki and helicopter seats extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Do Dham by car, 8 nights: Kedarnath on foot or by pony, Tungnath from Chopta, Badrinath and Mana, with good hotels and a private driver, from ₹54,000.",
+ "summary": "Eight nights by private car for the two great shrines of the high Garhwal, Kedarnath and Badrinath, linked by the forest road through Chopta with a morning walk to Tungnath. We sleep low before and after Kedarnath, spend a night at the temple, and keep driving days under eight hours.",
+ "intro": [
+  "The Do Dham, Kedarnath and Badrinath, is the most popular pilgrimage in Garhwal, and most packages rush it. We do it in eight nights so that nobody has to walk 33 km and sit in a car the same day. Two nights at Sitapur or Guptkashi bracket a night at Kedarnath itself, so you see the evening aarti and the dawn darshan without the day-trip crowd.",
+  "From Kedarnath the car takes the short cut through Ukhimath and Chopta, where you walk to Tungnath, highest of the Panch Kedar temples, and then crosses to the Alaknanda at Chamoli. A night at Auli breaks the climb, Badrinath and Mana take the next day, and a final night in Rishikesh at Aloha on the Ganges gives a soft landing before the flight home."
+ ],
+ "highlights": [
+  "Evening aarti and dawn darshan at Kedarnath, with a night at 3,583 m",
+  "The forest drive through Chopta and the walk to Tungnath",
+  "Nanda Devi views from the slopes of Auli",
+  "Badrinath temple, Tapt Kund and the village of Mana",
+  "Devprayag, where the Bhagirathi and Alaknanda become the Ganga"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Aloha on the Ganges, Rishikesh",
+   "drive": "≈ 35 km · 1 h from the airport",
+   "text": "Your driver meets you at Jolly Grant airport or Haridwar station and brings you to Aloha on the Ganges in Tapovan. In the afternoon we check your Char Dham registration and helicopter or pony plans, and brief you on kit for Kedarnath. At sunset, walk to the Ganga aarti at Parmarth Niketan across Ram Jhula, or watch the river from the hotel.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Along the Ganga to Sitapur",
+   "place": "kedarnath",
+   "overnight": "Hotel, Sitapur or Guptkashi",
+   "drive": "≈ 200 km · 7–8 h",
+   "text": "Leave by 6 am. Stop at Devprayag to see the Bhagirathi and Alaknanda meet, then follow the Alaknanda through Srinagar and Rudraprayag, where the Mandakini joins. Turn up the Mandakini valley past Guptkashi to Sitapur or Sonprayag. Check into a hotel with hot water and heating, eat early, and lay out your bag for the walk: rain jacket, warm layer, water, snacks and your registration.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "The walk to Kedarnath",
+   "place": "kedarnath",
+   "overnight": "Tent camp or cottage, Kedarnath",
+   "drive": "≈ 5 km jeep, ≈ 16–17 km walk",
+   "text": "Take the shuttle jeep from Sonprayag to Gaurikund before 6 am and start the 16–17 km climb to Kedarnath, about 1,600 m higher. Walk at your own pace or ride a pony or palki booked at the official counter. The path follows the Mandakini, past Jungle Chatti, Bhimbali and Linchauli. Reach Kedarnath by afternoon, rest, and join the evening aarti at the temple, with Kedar Dome lit behind it.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Dawn darshan, back down",
+   "place": "kedarnath",
+   "overnight": "Hotel, Sitapur or Guptkashi",
+   "drive": "≈ 16–17 km walk, ≈ 5 km jeep",
+   "text": "Join the early darshan queue, see the Bhim Shila boulder behind the temple that stopped the 2013 flood debris, and walk to the Adi Shankaracharya samadhi. Begin the descent by 9 am; most people take 4–6 hours down. Your driver waits at Sonprayag and takes you back to the hotel for a hot shower and a long night's sleep.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Ukhimath and the Chopta forest",
+   "place": "chopta-tungnath",
+   "overnight": "Cottage camp, Chopta or Duggalbitta",
+   "drive": "≈ 75 km · 3 h",
+   "text": "A slow morning, then drive to Ukhimath to see the Omkareshwar temple, winter seat of Kedarnath. The road climbs through oak and rhododendron forest to Chopta at about 2,700 m. Check into a cottage camp with attached bathrooms near Chopta. Afternoon free to rest your legs or walk in the meadow and watch for monal pheasants.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Tungnath, then over to Auli",
+   "place": "auli",
+   "overnight": "Resort, Auli",
+   "drive": "≈ 125 km · 5 h",
+   "text": "Walk the 3.5 km paved path to Tungnath at first light, about 2–3 hours up, and on to Chandrashila if you are strong. Back by late morning, drive down through Mandal and Gopeshwar to the Alaknanda at Chamoli and up to Joshimath and Auli. Check into a resort on the Auli slope with Nanda Devi views, and rest.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Badrinath and Mana",
+   "place": "badrinath",
+   "overnight": "Hotel, Badrinath",
+   "drive": "≈ 60 km · 2.5 h",
+   "text": "Drive past Vishnuprayag and Govindghat to Badrinath. Bathe at Tapt Kund and join the darshan queue at the Badrinarayan temple. In the afternoon, drive 3 km to Mana to see Bhim Pul over the Saraswati and Vyas Gufa. Sleep at Badrinath to see the evening aarti and the brightly painted temple facade under the Neelkanth peak.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "The long road back to Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Aloha on the Ganges, Rishikesh",
+   "drive": "≈ 295 km · 10–11 h",
+   "text": "Leave Badrinath at dawn for the longest drive of the trip, down the Alaknanda past Nandprayag, Karnaprayag and Rudraprayag. Stop for lunch at Srinagar. Reach Rishikesh by evening and check back into Aloha on the Ganges. If you prefer a shorter day, we can break the trip with a night at Srinagar or Rudraprayag at extra cost.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Departure",
+   "place": "rishikesh",
+   "overnight": "",
+   "drive": "≈ 35 km · 1 h to the airport",
+   "text": "A free morning by the river, then transfer to Jolly Grant airport or Haridwar station for your journey home.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "aloha-on-the-ganges-rishikesh"
+ ],
+ "includes": [
+  "8 nights in good hotels, a Kedarnath camp or cottage and a Chopta cottage camp, twin sharing",
+  "Breakfast and dinner daily",
+  "Private car with driver from arrival to departure, with tolls, parking and driver costs",
+  "Help with Char Dham registration and IRCTC HeliYatra bookings",
+  "Pre-trip briefing on kit and altitude"
+ ],
+ "excludes": [
+  "Flights and trains",
+  "Ponies, palkis, porters and helicopter seats at notified rates",
+  "Lunches and temple offerings",
+  "Special puja fees",
+  "Extra nights from road closures"
+ ],
+ "good_to_know": [
+  "You sleep at 3,583 m at Kedarnath and 3,300 m at Badrinath. Walk slowly, drink water, avoid alcohol and come down if you have severe headache or breathlessness. Talk to your doctor before the trip; the yatra has health screening points on the route.",
+  "Char Dham registration is mandatory and checked on the road; helicopter seats are sold only on the IRCTC HeliYatra portal. Rules change every season, so check current status before you travel.",
+  "Kedarnath stays are tents, huts and simple cottages; nights fall below freezing in May and October.",
+  "Temple dates: Kedarnath usually opens late April or May and closes on Bhai Dooj; Badrinath a few weeks later. Check current status before you travel.",
+  "We avoid July and August, when the Kedarnath road and path see frequent landslides."
+ ],
+ "faqs": [
+  {
+   "q": "How many days do I need for Kedarnath and Badrinath?",
+   "a": "At least 6–7 nights from Rishikesh by road, and 8 nights for an unhurried trip with a night at Kedarnath and Tungnath on the way. With helicopter shuttles to Kedarnath, it can be done in 5–6 nights."
+  },
+  {
+   "q": "What does a Do Dham trip cost by private car?",
+   "a": "This 8-night plan starts at ₹54,000 per person, twin sharing, with good hotels, meals and a private car. Ponies, palkis or a helicopter seat to Kedarnath are extra at notified rates."
+  },
+  {
+   "q": "Can I take a helicopter to Kedarnath on this trip?",
+   "a": "Yes. We can swap the walk for a helicopter shuttle from Phata, Sersi or Guptkashi if you book a seat on the IRCTC HeliYatra portal after registration. Weather can cancel flights, so we keep the overnight at Sitapur either way."
+  },
+  {
+   "q": "Is the Kedarnath trek difficult for seniors?",
+   "a": "It is 16–17 km each way, climbing about 1,600 m to 3,583 m. Many seniors use a pony, palki or helicopter instead. Talk to your doctor first, especially about heart, lung or blood pressure conditions."
+  },
+  {
+   "q": "Where do you stay at Kedarnath?",
+   "a": "In a GMVN or private tent camp, hut or simple cottage near the temple. Facilities are basic, with shared or simple attached bathrooms and heavy blankets. Book once your dates are fixed."
+  },
+  {
+   "q": "What is the best month for Kedarnath and Badrinath?",
+   "a": "May and the second half of September through October. May is busiest; late September and October have clearer skies, fewer crowds and lower hotel rates. Avoid July and August for landslides."
+  },
+  {
+   "q": "Is Char Dham registration needed for Kedarnath and Badrinath?",
+   "a": "Yes. Register on the Uttarakhand Tourism Development Board's portal or app before you travel; it is free and checked on the road. Rules and slot limits change each year, so check current status before you travel."
+  },
+  {
+   "q": "Can we add Gangotri and Yamunotri?",
+   "a": "Yes, as a full Char Dham of 10–11 nights, starting via Mussoorie and Barkot for Yamunotri, then Uttarkashi and Harsil for Gangotri, before crossing to Kedarnath. Ask us for the longer plan."
+  },
+  {
+   "q": "Is there mobile network at Kedarnath?",
+   "a": "Jio, Airtel and BSNL usually have some signal at Kedarnath and along the path, but it can be slow or drop out in bad weather or crowds. Download your registration and tickets before you start the walk."
+  }
+ ]
+}

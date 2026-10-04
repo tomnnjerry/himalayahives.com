@@ -1,0 +1,105 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ r.name }} on a budget · Saver day ₹{{ saver.per_day_inr|default:"—" }} · Himalaya Hives{% endblock %}
+{% block description %}How to see {{ r.name }} on a small budget: a Saver day costs about ₹{{ saver.per_day_inr|default:"—" }} per person, the cheapest months, real local prices, budget stays and Saver trips. Indicative 2026.{% endblock %}
+{% block og_title %}{{ r.name }} on a budget{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block alt_from %}{{ r.min_alt }}{% endblock %}{% block alt_to %}{{ r.max_alt }}{% endblock %}{% block alt_label %}{{ r.name }}{% endblock %}
+{% block fab_label %}Plan {{ r.name }} on a budget{% endblock %}{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block og_image %}{% with img=r|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Plan "|add:r.name|add:" on a Saver budget" %}{% endblock %}
+{% block head_extra %}<style>.costs div { grid-template-columns: minmax(0, 1fr) auto; } @media (max-width: 760px) { .costs b { white-space: normal; max-width: 46vw; } }</style>{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo r.slug|add:"-budget" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">The affordable Himalaya · {{ r.country }}</p>
+      <h1 class="d-1">{{ r.name }} on a budget</h1>
+      <p class="lede">{{ r.tagline }}. Here is what it costs by bus, shared jeep and homestay, and when it costs least.</p>
+      {% if saver.per_day_inr %}<p class="answer">A Saver day in {{ r.name }} costs about ₹{{ saver.per_day_inr }} per person{% if saver.covers %}: {{ saver.covers|lower_first }}{% endif %}. Indicative 2026, once you are in the hive.{% if r.saver_from %} Our Saver trips here start from {{ r.saver_from|inr }} per person, twin sharing.{% endif %}</p>{% endif %}
+      <dl class="phead__meta">
+        {% if saver.per_day_inr %}<div><dt>Saver day</dt><dd>₹{{ saver.per_day_inr }}</dd></div>{% endif %}
+        {% if r.saver_from %}<div><dt>Saver trips from</dt><dd>{{ r.saver_from|inr }}</dd></div>{% endif %}
+        {% if r.cheap_months %}<div><dt>Cheapest months</dt><dd>{% for m in r.cheap_months|slice:":3" %}{{ m|slice:":3" }}{% if not forloop.last %} · {% endif %}{% endfor %}</dd></div>{% endif %}
+        <div><dt>Best months</dt><dd>{{ r.best_label }}</dd></div>
+      </dl>
+    </div>
+    <div class="phead__photo">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ r.name }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline r.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">A day in {{ r.name }}</p><h2 class="d-1">Three ways to spend the day</h2><p class="lede">Per person, per day, indicative 2026. Saver is the bus-and-homestay way; the others are here so you can see the gap.</p></div>
+      <a class="link" href="{% url 'tool_budget' %}">Build a full budget {% icon "arrow" %}</a></div>
+    {% if r.budget_rows %}<div class="tiers">{% for b in r.budget_rows %}<div{% if b.tier == "saver" %} style="background:var(--wax)"{% endif %}><span class="tier tier--{{ b.tier }}" style="align-self:start">{{ b.tier_obj.name|default:b.tier }}</span>
+      <p class="tiers__from"><small>Per person, per day</small>₹{{ b.per_day_inr }}</p><p class="muted" style="margin:0">{{ b.covers }}</p>
+      {% if b.tier == "saver" and r.saver_from %}<a class="link" href="#trips">Saver trips from {{ r.saver_from|inr }} {% icon "arrow" %}</a>{% endif %}</div>{% endfor %}</div>
+    {% else %}<p class="muted">Per-day costs for {{ r.name }} are being written. <a href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}">Ask a planner</a> for current prices.</p>{% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="trips">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Saver trips</p><h2 class="d-1">{{ r.name }} by bus and homestay</h2></div>
+      <div class="chips">{% for b in bands %}<a class="chip" href="{{ b.url }}">{% icon "wallet" %}{{ b.label }}</a>{% endfor %}</div></div>
+    {% if r.saver_journeys %}
+    <div class="grid grid--4" data-fill>{% for j in r.saver_journeys %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug fill_title="A Saver trip in "|add:r.name fill_text="Your month and your ceiling. We plan it around buses, jeeps and homestays." %}</div>
+    {% else %}
+    <div class="grid grid--2" style="align-items:start">
+      <div class="panel panel--wax"><h3>No listed Saver trip in {{ r.name }} yet</h3>
+        <p style="margin:0 0 14px">{{ r.name }} can still be done on a small budget. Tell us your month, how many nights and your ceiling per person; a planner replies within one working day with a bus-and-homestay route and an itemised price.</p>
+        <a class="btn btn--ink btn--sm" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="budget-region-empty-plan">Ask for a Saver route</a></div>
+      {% if r.journeys %}<div class="panel panel--line"><h3>Other {{ r.name }} trips</h3><div class="ledger">{% for j in r.journeys|slice:":6" %}<a class="ledger__row" href="{{ j.url }}"><span>{{ j.tier_obj.name }}: {{ j.title }}</span><span class="ledger__dots"></span><b>{{ j.price_from_inr|inr }}</b></a>{% endfor %}</div></div>{% endif %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec" id="months">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">When it costs least</p><h2 class="d-1">{{ r.name }} prices, month by month</h2>
+      <p class="lede">The top bar shows how good the weather is. Low-price months with workable weather are the budget sweet spot.</p></div></div>
+    <div class="months">{% for m in months %}<a class="month" href="{% url 'region_month' r.slug m.m|lower %}" data-v="{{ m.rating }}"{% if m.price == "low" and m.rating >= 1 %} style="background:var(--wax)"{% endif %}><b>{{ m.m|slice:":3" }}</b><em>{% if m.rating == 2 %}Best{% elif m.rating == 1 %}Good{% else %}Hard{% endif %}</em><small>{% if m.price %}{{ m.price|capfirst }} prices{% else %}Prices vary{% endif %}</small></a>{% endfor %}</div>
+    <p class="small muted" style="margin-top:14px">Highlighted months: low prices and weather that still works. Peak weeks, school holidays and festival dates cost more.</p>
+  </div>
+</section>
+
+{% if costs or r.money_savers %}<section class="sec sec--tint">
+  <div class="wrap grid grid--2" style="align-items:start">
+    {% if costs %}<div style="min-width:0">
+      <p class="eyebrow">Real prices</p><h2 class="d-2" style="margin-bottom:18px">What things cost in {{ r.name }}</h2>
+      <div class="costs"><div class="costs__head"><span>Item</span><b>Indicative 2026</b></div>{% for c in costs %}<div><span>{{ c.row.0 }} <a class="readout" href="{{ c.place.url }}" style="text-decoration:none">· {{ c.place.name }}</a></span><b>{{ c.row.1 }}</b></div>{% endfor %}</div>
+      <p class="small muted" style="margin-top:12px">Local prices change with season and fuel costs. Check current status before you travel.</p>
+    </div>{% endif %}
+    {% if r.money_savers %}<div style="min-width:0">
+      <p class="eyebrow">Spend less</p><h2 class="d-2" style="margin-bottom:18px">Ways to save in {{ r.name }}</h2>
+      <div class="panel"><div class="prose" style="font-size:17px"><ul>{% for m in r.money_savers %}<li>{{ m }}</li>{% endfor %}</ul></div></div>
+    </div>{% endif %}
+  </div>
+</section>{% endif %}
+
+{% if stays %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Where you sleep</p><h2 class="d-1">Budget stays in {{ r.name }}</h2></div><a class="link" href="{% url 'stays' %}#{{ r.slug }}">All stays {% icon "arrow" %}</a></div>
+    <div class="grid grid--3" data-fill>{% for s in stays|slice:":9" %}{% include "hives/partials/card_stay.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if guides %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Read before you go</p><h2 class="d-1">{{ r.name }} guides</h2></div><a class="link" href="{{ r.url }}">The {{ r.name }} hive {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for g in guides %}{% include "hives/partials/card_guide.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">{{ r.name }} on a budget, answered</h2></div></div>
+    {% include "hives/partials/faq.html" with open_first=True %}
+    <p style="margin-top:28px"><a class="link" href="{% url 'affordable' %}">Every hive on a budget {% icon "arrow" %}</a></p>
+  </div>
+</section>
+{% endblock %}

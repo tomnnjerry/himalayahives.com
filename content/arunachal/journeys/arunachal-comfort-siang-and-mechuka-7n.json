@@ -1,0 +1,197 @@
+{
+ "slug": "arunachal-comfort-siang-and-mechuka-7n",
+ "title": "The Siang valley and Mechuka",
+ "region": "arunachal",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "road-trips",
+  "homestays-and-villages",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "pasighat",
+   "nights": 2
+  },
+  {
+   "place": "mechuka",
+   "nights": 3
+  },
+  {
+   "place": "pasighat",
+   "nights": 2
+  }
+ ],
+ "start": "Dibrugarh airport",
+ "end": "Dibrugarh airport",
+ "price_from_inr": 50000,
+ "price_note": "Per person, twin sharing: 7 nights in town hotels and the best Mechuka homestays with breakfast and dinner, private SUV with driver throughout, local guides for Adi villages and Mechuka, e-ILP fee; flights extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Active",
+ "meta_description": "Comfort Arunachal trip, 7 nights: Pasighat on the Siang, Adi villages, Daying Ering and three nights in the Mechuka valley by private SUV, from ₹50,000 per person.",
+ "summary": "Seven nights in central Arunachal by private SUV from Dibrugarh: the Siang at Pasighat and its Adi villages, a long drive up through Aalo to three nights in Mechuka's wide Memba valley, then back to Pasighat for the river islands of Daying Ering. Few tourists, long roads, real villages.",
+ "intro": [
+  "This trip is for travellers who want space and quiet more than famous names. Pasighat, where the Siang leaves the hills, is the oldest town in Arunachal and the centre of Adi country. Mechuka, far up the Siyom river, is a broad valley of grassland, wooden houses and prayer flags under snowy ridges. Between them is one of the longest, most rewarding drives in the state.",
+  "We give Pasighat two nights at each end, so the long Mechuka drive days sit between rest days. In Mechuka we use the best homestays, with attached bathrooms where possible; there are no hotels of a higher standard. The drive up is about 10–11 hours, so this is an active trip. In return you get valleys with almost no other visitors."
+ ],
+ "highlights": [
+  "Sunset over the Siang's braided channels at Pasighat",
+  "An Adi village with a local guide, and apong if offered",
+  "Three nights in Mechuka's wide valley on the Siyom",
+  "Samten Yongcha monastery above the valley",
+  "Winter birding on the river islands of Daying Ering"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Dibrugarh to Pasighat over Bogibeel",
+   "place": "pasighat",
+   "overnight": "Pasighat",
+   "drive": "≈ 100 km · 2.5–3 h",
+   "text": "Your driver meets you at Dibrugarh airport. Cross the Brahmaputra on the Bogibeel bridge, India's longest rail and road bridge, then drive through Dhemaji district to the Ruksin check gate and Pasighat. Check in, rest, and walk down to the river ghats for sunset over the Siang.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Adi villages around Pasighat",
+   "place": "pasighat",
+   "overnight": "Pasighat",
+   "drive": "≈ 40 km local",
+   "text": "Spend the morning with a local guide in an Adi village near town: stilt houses, granaries, the mosup community hall, orange and areca gardens. Your guide explains the kebang village council and Donyi-Polo faith. In the afternoon, visit the town market and rest before tomorrow's long drive. Ask your hotel for an early breakfast.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 3,
+   "title": "The long road to Mechuka",
+   "place": "mechuka",
+   "overnight": "Mechuka",
+   "drive": "≈ 280 km · 10–11 h",
+   "text": "Leave by 6 am. The road follows the Siang north to Aalo, where you stop for lunch, then climbs up the Siyom valley through Kaying and Tato, with forest, gorges and long stretches of rough road. The valley opens out wide and flat just before Mechuka. If anyone finds the day too long, we can split it with a night at Aalo and shorten Mechuka by one night.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 4,
+   "title": "Samten Yongcha and the town",
+   "place": "mechuka",
+   "overnight": "Mechuka",
+   "drive": "≈ 15 km local",
+   "text": "Rest in the morning, then drive up to Samten Yongcha, the Memba monastery on the hill above the valley, said to be about 400 years old. Walk back down past chortens and prayer wheels. In the afternoon, visit the gurdwara and the town market, and spend the evening in your homestay kitchen with butter tea.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 5,
+   "title": "Walking the Siyom valley",
+   "place": "mechuka",
+   "overnight": "Mechuka",
+   "drive": "Local, mostly on foot",
+   "text": "A full day on foot with a local guide along the Siyom: open grassland, grazing ponies, wooden bridges and small villages on the valley sides. Carry a packed lunch from your homestay. Some areas near the frontier are restricted, and your guide knows where you can go. In spring the slopes flower; in autumn the grass turns gold.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 6,
+   "title": "Back down to Pasighat",
+   "place": "pasighat",
+   "overnight": "Pasighat",
+   "drive": "≈ 280 km · 10–11 h",
+   "text": "Another early start for the long drive back down through Tato, Kaying and Aalo to Pasighat. Your driver will time stops for tea and lunch. Arrive by evening and rest; tomorrow is an easy day.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 7,
+   "title": "Daying Ering river islands",
+   "place": "pasighat",
+   "overnight": "Pasighat",
+   "drive": "≈ 30 km local",
+   "text": "Morning at Daying Ering Wildlife Sanctuary, 13 km from town, with forest permission arranged in advance. Cross by boat to the islands and grasslands of the Siang to look for wintering ducks, waders and river birds. Return to Pasighat for lunch and a slow afternoon. In September, swap this day for Solung celebrations if your dates match.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 8,
+   "title": "Pasighat to Dibrugarh",
+   "place": "pasighat",
+   "overnight": "",
+   "drive": "≈ 100 km · 2.5–3 h",
+   "text": "Drive back across the Bogibeel bridge to Dibrugarh airport for an afternoon flight. If you have time, stop for tea at one of the gardens around Dibrugarh, the heart of Assam's tea country.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "mechuka-memba-homestays"
+ ],
+ "includes": [
+  "7 nights in town hotels and the best Mechuka homestays, twin sharing, with breakfast and dinner",
+  "Private SUV with an experienced driver for all 8 days",
+  "Local guides for an Adi village and for Mechuka valley walks",
+  "Forest permission and boat for Daying Ering, where available",
+  "Tourist e-ILP fee"
+ ],
+ "excludes": [
+  "Flights to and from Dibrugarh",
+  "Lunches",
+  "Camera fees and donations at monasteries",
+  "Extra nights if roads close",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Days 3 and 6 are long drives of 10–11 hours on rough roads; we can split them at Aalo.",
+  "All nights are below 2,000 m; altitude is not a concern for healthy travellers.",
+  "Mechuka homestays are comfortable but simple; power cuts are common.",
+  "Your e-ILP must list East Siang, West Siang and Shi Yomi districts. Check current status before you travel.",
+  "Monsoon landslides can close the Aalo–Mechuka road; we avoid June to August."
+ ],
+ "faqs": [
+  {
+   "q": "How long is the drive from Pasighat to Mechuka?",
+   "a": "About 280 km and 10–11 hours with stops, via Aalo. It is a long day on a road with rough patches. If you prefer, we split it at Aalo and reduce Mechuka to two nights."
+  },
+  {
+   "q": "Are there hotels in Mechuka?",
+   "a": "Mechuka has a few guesthouses and many homestays. We use the best homestays, with attached bathrooms where possible. There is no hotel of a higher standard in the valley."
+  },
+  {
+   "q": "What does ₹50,000 per person include?",
+   "a": "Seven nights with breakfast and dinner, a private SUV and driver for eight days, local guides, Daying Ering arrangements and the e-ILP, for two sharing. Flights, lunches and tips are extra."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "October to November and March to April. December to February is possible, with snow in Mechuka and cold nights, but road delays are more likely. Avoid the monsoon."
+  },
+  {
+   "q": "Can I add Ziro to this trip?",
+   "a": "Yes, but Ziro is far by road from Pasighat, via Aalo and Daporijo, or via Itanagar. Adding it needs at least four extra days. Ask us for a longer itinerary."
+  },
+  {
+   "q": "Is the trip suitable for older travellers?",
+   "a": "For seniors who are fine with long drives, yes; the altitude is low. The two long days are the main challenge. Splitting them at Aalo helps a lot."
+  },
+  {
+   "q": "Is there mobile network in Mechuka?",
+   "a": "Some 4G in town, patchy elsewhere, and long gaps on the road from Aalo. Tell family you may be out of touch for a day at a time."
+  },
+  {
+   "q": "Do I need special permits for Mechuka?",
+   "a": "An Inner Line Permit listing Shi Yomi and West Siang is needed, plus East Siang for Pasighat. Foreigners need a Protected Area Permit. Some areas near the frontier are restricted. Check current status before you travel."
+  },
+  {
+   "q": "Can we see Solung on this trip?",
+   "a": "Yes, if you travel around 1 September. Solung celebrations in Pasighat and nearby villages can replace the Daying Ering day. September is still wet, so build in a spare day."
+  }
+ ]
+}

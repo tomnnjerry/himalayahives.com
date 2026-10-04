@@ -1,0 +1,225 @@
+{
+ "slug": "spiti-comfort-kinnaur-to-manali-circuit-9n",
+ "title": "Spiti circuit: Kinnaur in, Kunzum La out",
+ "region": "spiti",
+ "tier": "comfort",
+ "nights": 9,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "nako",
+   "nights": 1
+  },
+  {
+   "place": "tabo",
+   "nights": 2
+  },
+  {
+   "place": "kaza",
+   "nights": 4
+  },
+  {
+   "place": "chandratal",
+   "nights": 1
+  },
+  {
+   "place": "jispa",
+   "nights": 1
+  }
+ ],
+ "start": "Kalpa or Reckong Peo (Kinnaur), after 2 nights from Shimla",
+ "end": "Manali",
+ "price_from_inr": 72000,
+ "price_note": "Per person, twin sharing: 9 nights in the best hotels and guesthouses at each stop with dinner and breakfast, private SUV with driver from Kalpa to Manali; Shimla–Kalpa days and flights extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  1,
+  2,
+  1,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Comfort Spiti road trip, 9 nights by private SUV: Nako, Tabo, four nights in Kaza, Chandratal camps and Jispa, exiting over Kunzum La, from ₹72,000 pp.",
+ "summary": "The classic Spiti circuit done the right way round: up the Kinnaur road for a slow climb through Nako and Tabo, four nights in Kaza for Key, Kibber, Langza and Pin valley, a camp night at Chandratal, then over to Lahaul for a gentle night at Jispa before Manali. Private SUV throughout.",
+ "intro": [
+  "Entering Spiti from Kinnaur and leaving over Kunzum La is the order we recommend to almost everyone. Your sleeping altitude climbs over several days through Nako at 3,625 m and Tabo at 3,050 m, and by the time you reach Chandratal at about 4,250 m you have spent a week above 3,000 m. Done the other way, from Manali, you reach Kaza in a single day.",
+  "Comfort here means a private SUV and driver who knows the roads, the best rooms available at each stop, and a pace that leaves afternoons free. Spiti has no five-star hotels; expect warm, well-run guesthouses and small hotels, a good camp at Chandratal and a comfortable lodge in Jispa. Before day 1, we suggest two nights from Shimla to Kalpa, at Narkanda or Sarahan and Kalpa; we can add them, but they are not in this price."
+ ],
+ "highlights": [
+  "Nako's 1025 CE temples and lake",
+  "Two nights at Tabo, the gentlest altitude in Spiti",
+  "Key Gompa at morning prayers and Chicham bridge",
+  "Langza, Hikkim and Komic on the high plateau",
+  "Dawn at Chandratal after crossing Kunzum La"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Kalpa to Nako",
+   "place": "nako",
+   "overnight": "Nako",
+   "drive": "≈ 117 km · 4–5 h",
+   "text": "Leave Kalpa after breakfast with your driver. The road drops to the Sutlej at Reckong Peo and follows it through Pooh, then climbs the switchbacks from Khab, where the Spiti river joins. Foreign nationals show their Protected Area Permit at the checkposts. Arrive in Nako for a late lunch and keep the afternoon slow: a walk around the lake and a visit to the temple complex. At 3,625 m, drink water, avoid alcohol and sleep early.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Nako to Tabo, via Gue",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 63 km plus Gue detour · 4–5 h",
+   "text": "Drive down past Malling and through Chango's orchards to Sumdo, then turn off to Gue to see the seated mummy of a monk believed to date from the 1500s. Continue to Tabo, which at about 3,050 m is lower than Nako and helps your body settle. Check in, rest, and walk the outer walls of the monastery at sunset. The Malling stretch below Nako is a known slide zone, so we cross it in the morning. Lunch is in Tabo or at a roadside cafe in Sumdo.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Tabo monastery and caves",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "",
+   "text": "Join morning prayers at the new monastery, then spend time inside the old complex founded in 996 CE, with its clay figures and murals in the assembly hall. Photography is not allowed inside. In the afternoon, walk to the meditation caves above the village. This day at a lower altitude is deliberate: it makes the four nights in Kaza much more comfortable. Eat a light dinner and sleep early; tomorrow you climb to Kaza, about 600 m higher.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Dhankar on the way to Kaza",
+   "place": "kaza",
+   "overnight": "Kaza",
+   "drive": "≈ 55 km including Dhankar · 3 h",
+   "text": "Drive up to Dhankar's cliff-top gompa, high above the meeting of the Spiti and Pin rivers, and walk carefully through its small dark rooms. Have tea in the village, then continue to Kaza. Check into your hotel and take the afternoon off. Kaza is at 3,650 m, and many people sleep poorly on the first night here. Fill water bottles and buy anything you need in Kaza's market this evening, and keep your phone charged, since power cuts are common.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Key, Kibber and Chicham",
+   "place": "key-and-kibber",
+   "overnight": "Kaza",
+   "drive": "≈ 50 km round trip · 3 h",
+   "text": "Leave at 6.30 am to reach Key Gompa for morning prayers. Climb slowly to the upper terraces for the view down the Spiti river. Drive on to Kibber, walk through the village, and continue to Chicham bridge over its deep gorge. Return to Kaza for lunch and a quiet afternoon. Walk the lanes of Kaza Khas in the evening if you feel well. If anyone has a headache that has not eased since last night, we keep the day lower and shorter and swap it with a rest day.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Langza, Hikkim and Komic",
+   "place": "langza",
+   "overnight": "Kaza",
+   "drive": "≈ 45 km loop · 4–5 h",
+   "text": "Drive up the switchbacks to Langza at about 4,420 m, below the large Buddha statue and Chau Chau Kang Nilda. Look at the fossil slopes, then continue to Hikkim to post a card from the high post office, and to Komic at about 4,587 m for its gompa. Walk slowly, do not run on the slopes, and return to Kaza to sleep lower. Hikkim's post office closes in winter and keeps short hours; your driver will check before you go.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Pin valley day",
+   "place": "pin-valley",
+   "overnight": "Kaza",
+   "drive": "≈ 100 km round trip · 4–5 h",
+   "text": "Drive down the Spiti to the Attargo bridge and up the Pin valley past Kungri gompa to Mudh at the end of the road. Walk a little beyond the village to scan the slopes for ibex, and look at the banded rock layers. Lunch at a homestay in Mudh, then return to Kaza. Fill the vehicle's tank in Kaza tonight; there is no fuel until Tandi. The road crosses the Spiti at Attargo and climbs the Pin valley; watch for the red, grey and yellow bands of old seabed in the slopes.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Over Kunzum La to Chandratal",
+   "place": "chandratal",
+   "overnight": "Chandratal camp",
+   "drive": "≈ 95 km · 4–5 h",
+   "text": "Drive west through Kiato and Losar and climb to Kunzum La at about 4,590 m, where drivers circle the shrine for luck. Drop to Batal for lunch at the dhabas, then take the side road to the Chandratal camps. Walk to the lake in the late afternoon. There is no mobile signal here, and the night will be cold, often below freezing. Leave Kaza by 8 am to cross Kunzum La before the afternoon wind and cloud build up.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Chandratal to Jispa",
+   "place": "jispa",
+   "overnight": "Jispa",
+   "drive": "≈ 135 km · 6–7 h",
+   "text": "Walk to the lake at sunrise, then start the roughest stretch of the trip: Batal to Chhatru and Gramphu along the Chandra river, with stream crossings that are lower in the morning. At Gramphu, join the paved road, pass the north portal of the Atal Tunnel and drive through Tandi and Keylong to Jispa at about 3,200 m. A warm room and a night much lower than Chandratal. Lunch is at a dhaba in Chhatru or Gramphu.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Jispa to Manali",
+   "place": "jispa",
+   "overnight": "",
+   "drive": "≈ 95 km · 3–4 h",
+   "text": "A short final drive back through Keylong and the 9.02 km Atal Tunnel under the Pir Panjal, then down to Manali. Stop at Kardang Gompa or Sissu on the way if time allows. Your driver drops you at your Manali hotel or the bus stand by early afternoon. If you have a flight from Bhuntar, we drive on to the airport, about 50 km beyond Manali. Leave Jispa by 8 am on weekends in June, when tunnel traffic builds up, and allow extra time for queues at the south portal.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "sakya-abode-kaza",
+  "hotel-deyzor-kaza",
+  "chandratal-camping-ground-tents",
+  "padma-lodge-jispa"
+ ],
+ "includes": [
+  "9 nights in the best available hotels, guesthouses and camp, twin sharing",
+  "Dinner and breakfast daily",
+  "Private SUV with driver from Kalpa to Manali, fuel, tolls and driver costs",
+  "Atal Tunnel and Lahaul vehicle permits where needed",
+  "Gue detour and all listed sightseeing drives"
+ ],
+ "excludes": [
+  "Shimla–Kalpa days and hotels before day 1",
+  "Flights or trains to Shimla and from Manali",
+  "Lunches and drinks",
+  "Monastery entry fees and donations",
+  "Protected Area Permit fees for foreign nationals"
+ ],
+ "good_to_know": [
+  "Acclimatisation: six of the nine nights are at 3,600 m or above, and Chandratal is about 4,250 m. Rest on the first afternoon at each new altitude, drink water, avoid alcohol and tell your driver if you feel unwell. Talk to your doctor about medication before you travel.",
+  "Kunzum La and the Batal–Gramphu road usually open from about mid-June to October; outside that window we reverse the exit through Kinnaur. Check current status before you travel.",
+  "The Batal–Chhatru stretch is rough with stream crossings; expect slow driving and a bumpy day.",
+  "No mobile signal from Losar to Chhatru, including Chandratal.",
+  "Carry cash; ATMs in Kaza can run dry."
+ ],
+ "faqs": [
+  {
+   "q": "Why go via Kinnaur and leave via Manali?",
+   "a": "It is better for acclimatisation. You climb slowly through Nako and Tabo and reach Chandratal after a week above 3,000 m. Coming from Manali, you reach Kaza at 3,650 m in one long day, which raises the risk of altitude sickness."
+  },
+  {
+   "q": "What kind of hotels are used?",
+   "a": "The best available at each stop: warm guesthouses and small hotels in Nako and Tabo, Sakya Abode or Hotel Deyzor in Kaza, a Swiss-tent camp at Chandratal and Padma Lodge in Jispa. Spiti has no five-star hotels."
+  },
+  {
+   "q": "Is ₹72,000 per person realistic?",
+   "a": "Yes, for twin sharing from Kalpa to Manali with a private SUV and good rooms. The SUV is the largest cost, so the price per person drops with four travellers. Prices are indicative for 2026."
+  },
+  {
+   "q": "Can seniors do this trip?",
+   "a": "Active seniors in good health often do, because of the gradual climb. The Chandratal night and the Batal road are the hardest parts; we can swap Chandratal for an extra night at Jispa. Talk to your doctor before you go."
+  },
+  {
+   "q": "What if Kunzum La is closed?",
+   "a": "We exit the way we came, through Kinnaur, and adjust the nights. This is likely in early June or late October. Check current status before you travel."
+  },
+  {
+   "q": "Do we need permits?",
+   "a": "Indians need none for Spiti; vehicle permits for Lahaul are arranged by us where required. Foreign nationals need a Protected Area Permit for the Kinnaur–Spiti border stretch. Check current status before you travel."
+  },
+  {
+   "q": "Is there network in Kaza?",
+   "a": "BSNL and Jio work in Kaza and Tabo most of the time, and hotels often have slow Wi-Fi. There is no signal at Chandratal or on Kunzum La."
+  },
+  {
+   "q": "How cold is Chandratal in summer?",
+   "a": "Nights often fall below freezing even in July and August. Camps provide heavy blankets, but bring a down jacket, thermals and a warm cap."
+  },
+  {
+   "q": "Can we start from Manali instead?",
+   "a": "We can, but we do not recommend it for first-timers because of the altitude jump. If you must, add a night at Jispa or Keylong first, then Chandratal, then Kaza."
+  }
+ ]
+}

@@ -53,7 +53,7 @@
     {"mode": "Road", "text": "From Manali, drive through Solang to the Atal Tunnel south portal, out at Sissu, then along the Chandra to Tandi and up to Keylong: about 71 km. The road is open much of the winter; check current status after snow."}
   ],
   "where_to_stay": "Saver: Keylong has simple guesthouses and homestays from about ₹1,500–3,000 for a double, and Hotel Tashi Deleg in the market is a long-running budget-to-mid hotel with a popular restaurant. Comfort: a few better hotels in town offer heated rooms and valley views; many comfort travellers base themselves in Jispa, 22 km on, at Padma Lodge or Hotel Ibex. Signature: there is no luxury hotel in Keylong; our signature trips use the best rooms in Jispa.",
-  "stays": [],
+  "stays": ["hptdc-hotel-chandrabhaga-keylong"],
   "tips": [
     "Make Keylong or Jispa your first night above 3,000 m before going on to Chandratal or Ladakh.",
     "Fill up at the Tandi petrol pump before heading north or towards Spiti.",

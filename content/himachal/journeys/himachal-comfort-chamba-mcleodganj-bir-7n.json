@@ -1,0 +1,197 @@
+{
+ "slug": "himachal-comfort-chamba-mcleodganj-bir-7n",
+ "title": "Chamba, McLeodganj and Bir by private car",
+ "region": "himachal",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "monasteries",
+  "road-trips",
+  "adventure-sports",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "chamba",
+   "nights": 2
+  },
+  {
+   "place": "mcleodganj",
+   "nights": 3
+  },
+  {
+   "place": "bir-billing",
+   "nights": 2
+  }
+ ],
+ "start": "Pathankot (Chakki Bank or Pathankot Cantt station)",
+ "end": "Kangra airport, Gaggal",
+ "price_from_inr": 52000,
+ "price_note": "Per person, twin sharing: 7 nights in good hotels including Chonor House, breakfast and dinner, private car with driver throughout, a local guide in Chamba and McLeodganj; trains, flights and paragliding extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Western Himachal in 7 nights: Chamba's stone temples, Tibetan McLeodganj at Chonor House, Kangra tea and paragliding at Bir, private car, from ₹52,000.",
+ "summary": "Seven nights along the Dhauladhar range by private car: Chamba's thousand-year-old stone temples and rumal embroidery, three nights in Tibetan McLeodganj at Chonor House, then Kangra tea gardens and the paragliding village of Bir. Short-to-medium drives, a guide in the towns and time to walk.",
+ "intro": [
+  "The Dhauladhar is the first big wall of the Himalaya that you see from the Punjab plains, and this trip runs along its foot. Chamba, on the Ravi, was the capital of one of the oldest hill states in the Himalaya and keeps its stone temples, its museum and its embroidery. McLeodganj, above Dharamshala, has been home to the Dalai Lama and the Tibetan government in exile since 1960. Bir, in the eastern Kangra valley, has Tibetan monasteries and one of the best paragliding sites in Asia.",
+  "The order matters. Starting at Pathankot puts the long drive to Chamba on day one while you are fresh, and finishing at Bir leaves you an hour from Kangra airport. Hotels are good mid-range properties, with Chonor House, run by the Norbulingka Institute, as the anchor in McLeodganj."
+ ],
+ "highlights": [
+  "The Lakshmi Narayan temple group and the Bhuri Singh Museum in Chamba",
+  "Three nights at Chonor House, steps from the Tsuglagkhang",
+  "The Tibet Museum and the Lingkor walk in McLeodganj",
+  "Tea gardens at Palampur and the potters of Andretta",
+  "Tandem paragliding from Billing, for those who want it"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Pathankot to Chamba",
+   "place": "chamba",
+   "overnight": "Good hotel in Chamba town",
+   "drive": "≈ 120 km · 4 h",
+   "text": "Your driver meets you at Pathankot station in the morning. The road climbs from the plains through Nurpur and Banikhet, then drops to the Ravi. Arrive in Chamba by early afternoon and check in. In the late afternoon, walk out onto the Chaugan, the long grassy maidan at the heart of the town, where families gather in the evening, and look across the Ravi to the villages on the far slope.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Chamba's temples, museum and rumals",
+   "place": "chamba",
+   "overnight": "Good hotel in Chamba town",
+   "drive": "",
+   "text": "With a local guide, visit the Lakshmi Narayan group, six stone temples in the shikhara style whose oldest parts go back over a thousand years to the founding of the town. Walk to the hilltop Chamunda temple for views over the Ravi. After lunch, spend time at the Bhuri Singh Museum, which holds Pahari miniatures, carved fountain slabs and the embroidered Chamba rumals. If time allows, visit a rumal workshop to see the double-sided stitch.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Across the hills to McLeodganj",
+   "place": "mcleodganj",
+   "overnight": "Chonor House, McLeodganj",
+   "drive": "≈ 175 km · 6 h",
+   "text": "Leave after breakfast and drive back over Banikhet to Nurpur, where the ruined fort and the Brij Raj Swami temple make a good stop. Continue east across the Kangra hills to Dharamshala and up to McLeodganj. Check into Chonor House on Temple Road, with its murals by Tibetan artists. In the evening, walk the short lane to the Tsuglagkhang and the main square.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tsuglagkhang, Tibet Museum and Lingkor",
+   "place": "mcleodganj",
+   "overnight": "Chonor House, McLeodganj",
+   "drive": "",
+   "text": "With your guide, visit the Tsuglagkhang complex, the main temple of the Tibetan exile community, and the Namgyal Monastery, where monks often debate in the courtyard in the afternoon. The Tibet Museum next door tells the story of the exile since 1959. Later, walk the Lingkor, the circuit around the complex lined with prayer wheels and flags. Dinner in town: momos, thukpa or thenthuk for ₹150–300.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Triund or Norbulingka",
+   "place": "mcleodganj",
+   "overnight": "Chonor House, McLeodganj",
+   "drive": "≈ 30 km round trip for Norbulingka",
+   "text": "Choose your day. Fit walkers can hike to Triund, about 9 km each way from Dharamkot through oak and rhododendron to a meadow at roughly 2,850 m facing the Dhauladhar; start by 8 am and take the guide. Or drive down to the Norbulingka Institute at Sidhpur, where Tibetan artists train in thangka painting, woodcarving and metalwork, and stop at the church of St John in the Wilderness at Forsyth Ganj on the way back.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Kangra tea country to Bir",
+   "place": "bir-billing",
+   "overnight": "Good guesthouse or boutique hotel in Bir",
+   "drive": "≈ 70 km · 2.5 h",
+   "text": "Drive east to Palampur and walk through a tea garden; Kangra tea has a geographical indication tag and the estates sell their own leaf. Stop at Andretta, a village founded as an artists' colony in the 1920s, to see the pottery studio. Reach Bir by mid-afternoon and walk down to the landing ground to watch paragliders come in over the tea bushes and the Tibetan colony.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Billing and Bir's monasteries",
+   "place": "bir-billing",
+   "overnight": "Good guesthouse or boutique hotel in Bir",
+   "drive": "≈ 14 km to Billing",
+   "text": "If the weather is right, take a tandem flight from Billing, at about 2,400 m, with a licensed operator, about 15–30 minutes in the air and ₹2,500–4,000 extra. Otherwise drive up to Billing for the view. In the afternoon, walk through the Tibetan colony to Chokling monastery and its stupa, and the Deer Park Institute, a centre for the study of Indian classical wisdom traditions.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Baijnath and Kangra airport",
+   "place": "bir-billing",
+   "overnight": "",
+   "drive": "≈ 65 km · 2 h",
+   "text": "After breakfast, drive a few kilometres east to Baijnath to see the stone Shiva temple, built in 1204 by two local merchants according to its inscriptions. Then head west to Kangra airport at Gaggal for your flight. If your flight is late, add a stop at Kangra Fort, about 20 km from the airport.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "chonor-house-mcleodganj"
+ ],
+ "includes": [
+  "7 nights in good hotels including 3 nights at Chonor House, twin sharing, with breakfast and dinner",
+  "Private car with driver from Pathankot to Kangra airport",
+  "Local guide for one day each in Chamba and McLeodganj",
+  "Entry fees at the Bhuri Singh Museum, Tibet Museum and Norbulingka",
+  "Phone support from our team during the trip"
+ ],
+ "excludes": [
+  "Trains to Pathankot and flights from Kangra",
+  "Lunches",
+  "Tandem paragliding (₹2,500–4,000) and Triund guide",
+  "Tips for driver and guides",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "All nights are between 996 m and 2,082 m; Triund reaches about 2,850 m on a day hike only.",
+  "Kangra airport flights are often cancelled in bad weather; keep a buffer for onward connections.",
+  "Paragliding in Bir runs mainly in March–May and October–November and depends on wind; we never promise a flight.",
+  "Dress modestly in temples and monasteries and walk clockwise around stupas and the Lingkor.",
+  "Monsoon months bring slides on the Chamba roads; we do not run this route in July and August."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a 7-night Dharamshala and Chamba trip cost?",
+   "a": "This plan costs from ₹52,000 per person on twin sharing, with good hotels, breakfast and dinner, a private car and town guides. Trains, flights, lunches and paragliding are extra. Solo travellers pay a single supplement, and rates rise in peak weeks such as May and Diwali."
+  },
+  {
+   "q": "Is Chonor House worth it?",
+   "a": "For McLeodganj, yes. It is run by the Norbulingka Institute, rooms are decorated by Tibetan artists, and it sits on Temple Road a short walk from the Tsuglagkhang, away from the noisy square. It is small, so we book well ahead."
+  },
+  {
+   "q": "Can I meet the Dalai Lama?",
+   "a": "Private meetings are not arranged through travel companies. He sometimes gives public teachings at the Tsuglagkhang, which visitors can attend after registering with his office. Check the official schedule before you travel, as he is often away."
+  },
+  {
+   "q": "Is paragliding at Bir safe?",
+   "a": "Tandem flights with licensed operators and experienced pilots have a good record, but it is an adventure sport with real risk. Fly only with registered operators, follow pilot instructions and accept cancellations when the wind is wrong. Check current status of the season and rules before you travel."
+  },
+  {
+   "q": "How hard is the Triund hike?",
+   "a": "It is about 9 km each way from Dharamkot with a climb of around 800 m, taking 3–4 hours up for most people. It is steep in the last stretch. Wear proper shoes, carry water and avoid it in rain or snow. The Norbulingka alternative suits everyone."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "March to May and October to November are best. Skies are clear in autumn, rhododendrons bloom in March and April, and paragliding is in season. December to February is cold but quiet, with snow on the Dhauladhar."
+  },
+  {
+   "q": "Is this trip good for families and seniors?",
+   "a": "Yes. Drives are 2–6 hours, altitudes are moderate and hotels are comfortable. Some temples and McLeodganj's lanes involve steps and slopes. Tell us about mobility needs and we will choose rooms and pace accordingly."
+  },
+  {
+   "q": "How do I reach Pathankot?",
+   "a": "Overnight trains from Delhi reach Pathankot Cantt or Chakki Bank in the morning, and the Jammu-bound trains pass through it. Flights to Pathankot are limited; flying to Amritsar and driving 2.5 hours is another option. Check current status before you travel."
+  },
+  {
+   "q": "Can we add Dalhousie and Khajjiar?",
+   "a": "Yes. Add one night in Dalhousie between Pathankot and Chamba and drive via Khajjiar's meadow. It adds about ₹6,000–9,000 per person depending on the hotel."
+  }
+ ]
+}

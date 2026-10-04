@@ -1,0 +1,64 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Trip tools · season finder, budget builder, permits, altitude planner · Himalaya Hives{% endblock %}
+{% block description %}Four free tools for planning a Himalaya trip: find what is in season, estimate a budget by tier, check permits for each hive and pace your sleeping altitude.{% endblock %}
+{% block og_title %}Himalaya trip tools{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "tools" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Trip tools · free, no sign-up</p>
+      <h1 class="d-1">Plan the trip before you ask us</h1>
+      <p class="lede">The same four checks our planners run on every route: is it in season, what will it cost, which permits it needs, and is the climb paced safely. Use them, then send us what you found.</p>
+    </div>
+  </div>
+  {% ridgeline "tools" 4 %}
+</header>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="grid grid--2">
+      <a class="cell" href="{% url 'tool_season' %}">
+        <div class="cell__ph" style="aspect-ratio:16/7">{% topo "tool-season" %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "calendar" %}</span></div>
+        <div class="cell__body"><span class="readout">Season finder · pick a month</span><h2 class="cell__title">Where is good in my month?</h2>
+          <p class="cell__text">Choose a month and see every place rated best or good for it, across all the hives, with a filter by hive.</p>
+          <div class="cell__foot"><span class="link">Find the season {% icon "arrow" %}</span></div></div>
+      </a>
+      <a class="cell" href="{% url 'tool_budget' %}">
+        <div class="cell__ph" style="aspect-ratio:16/7">{% topo "tool-budget" %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "wallet" %}</span></div>
+        <div class="cell__body"><span class="readout">Budget builder · hive, tier, nights</span><h2 class="cell__title">What will it cost?</h2>
+          <p class="cell__text">Pick a hive, a tier, the nights and the number of travellers for an indicative range from our per-day costs.</p>
+          <div class="cell__foot"><span class="link">Build a budget {% icon "arrow" %}</span></div></div>
+      </a>
+      <a class="cell" href="{% url 'tool_permits' %}">
+        <div class="cell__ph" style="aspect-ratio:16/7">{% topo "tool-permits" %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "shield" %}</span></div>
+        <div class="cell__body"><span class="readout">Permit checker · Indian or foreign</span><h2 class="cell__title">Which permits do I need?</h2>
+          <p class="cell__text">Inner Line and Protected Area Permits, park fees and entry rules for each hive, sorted by your passport.</p>
+          <div class="cell__foot"><span class="link">Check permits {% icon "arrow" %}</span></div></div>
+      </a>
+      <a class="cell" href="{% url 'tool_altitude' %}">
+        <div class="cell__ph" style="aspect-ratio:16/7">{% topo "tool-altitude" %}<span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "altitude" %}</span></div>
+        <div class="cell__body"><span class="readout">Altitude planner · night by night</span><h2 class="cell__title">Is the climb paced well?</h2>
+          <p class="cell__text">Line up your overnight stops and see the sleeping-altitude profile, with nights that climb too fast above 3,000 m flagged.</p>
+          <div class="cell__foot"><span class="link">Plan the climb {% icon "arrow" %}</span></div></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div><p class="eyebrow">Also useful</p><h2 class="d-2" style="margin-bottom:18px">Reference pages</h2>
+      <div class="toc">
+        <a class="toc__row" href="{% url 'seasons' %}"><span class="hbadge hbadge--sm">{% icon "calendar" %}</span><span><b>Season almanac</b><small>Every hive, every month, on one grid</small></span><span></span>{% icon "arrow" %}</a>
+        <a class="toc__row" href="{% url 'affordable' %}"><span class="hbadge hbadge--sm">{% icon "wallet" %}</span><span><b>The affordable Himalaya</b><small>Saver days and trips in every hive</small></span><span></span>{% icon "arrow" %}</a>
+        <a class="toc__row" href="{% url 'routes' %}"><span class="hbadge hbadge--sm">{% icon "route" %}</span><span><b>Routes and drive times</b><small>Buses, jeeps and roads between places</small></span><span></span>{% icon "arrow" %}</a>
+        <a class="toc__row" href="{% url 'field_notes' %}"><span class="hbadge hbadge--sm">{% icon "note" %}</span><span><b>Field notes</b><small>Small facts with sources</small></span><span></span>{% icon "arrow" %}</a>
+      </div>
+    </div>
+    <div class="panel panel--wax"><h3>The tools give a first answer</h3><p style="font-size:16.5px">Prices, permits and road openings change. The tools use our 2026 notes and are indicative only. A planner checks the current position for your dates and sends a written, itemised quote before you pay anything.</p>
+      <a class="btn btn--ink btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="tools-plan">Ask a planner</a></div>
+  </div>
+</section>
+{% endblock %}

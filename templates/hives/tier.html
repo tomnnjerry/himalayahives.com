@@ -1,0 +1,74 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ t.name }} Himalaya trips · {{ t.line }} · Himalaya Hives{% endblock %}
+{% block description %}{{ t.name }} trips in the Himalaya: {{ t.line|lower }}. {{ trips|length }} trip{{ trips|length|pluralize }} with indicative 2026 prices per person and per-day costs for every hive.{% endblock %}
+{% block og_title %}{{ t.name }} Himalaya trips{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo "tier-"|add:t.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow"><span class="tier tier--{{ t.slug }}" style="margin-right:6px">{{ t.name }}</span> One of three tiers</p>
+      <h1 class="d-1">{{ t.name }} trips in the Himalaya</h1>
+      <p class="lede">{{ t.line }}</p>
+      <p class="answer">{{ t.long }}</p>
+      <div class="chips" style="margin-top:22px" role="group" aria-label="Other tiers">{% for x in tiers %}{% if x.slug != t.slug %}<a class="chip" href="{% url 'tier' x.slug %}">{% icon "tag" %}{{ x.name }} trips</a>{% endif %}{% endfor %}<a class="chip" href="{% url 'journeys' %}">{% icon "route" %}Every trip</a></div>
+    </div>
+  </div>
+  {% ridgeline "tier-"|add:t.slug 4 %}
+</header>
+
+<section class="sec" id="trips">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">{{ trips|length }} trip{{ trips|length|pluralize }}</p><h2 class="d-1">{{ t.name }} trips, west to east</h2><p class="lede">Indicative 2026 'from' prices per person, twin sharing, from the trip's start point.</p></div></div>
+    {% if trips %}
+    <div class="filters" data-filter-group="#tier-trips">
+      <label class="sr-only" for="t-region">Hive</label><select id="t-region" data-key="region"><option value="">Every hive</option>{% for row in rows %}{% if row.from %}<option value="{{ row.r.slug }}">{{ row.r.name }}</option>{% endif %}{% endfor %}</select>
+      <div class="tabs" role="group" aria-label="Trip length"><button type="button" data-key="length" data-value="" aria-pressed="true">Any length</button><button type="button" data-key="length" data-value="short" aria-pressed="false">Up to 5 nights</button><button type="button" data-key="length" data-value="mid" aria-pressed="false">6–9</button><button type="button" data-key="length" data-value="long" aria-pressed="false">10+</button></div>
+      <span class="filters__count" data-filter-count>Showing {{ trips|length }}</span>
+    </div>
+    <div class="grid grid--4" id="tier-trips" data-fill>{% for j in trips %}<a class="cell" href="{{ j.url }}" data-land="{{ j.region }}" data-item data-region="{{ j.region }}" data-tier="{{ j.tier }}" data-length="{% if j.nights <= 5 %}short{% elif j.nights <= 9 %}mid{% else %}long{% endif %}" data-themes="{{ j.themes|join:' ' }}">
+      <div class="cell__ph">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+        <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon j.region %}</span></div>
+      <div class="cell__body">
+        <span class="readout">{{ j.region_obj.name }} · <b>{{ j.nights }} nights</b>{% if j.max_sleep_alt %} · sleeps to {{ j.max_sleep_alt|alt }}{% endif %}</span>
+        <h3 class="cell__title">{{ j.title }}</h3>
+        <p class="cell__text">{{ j.transport|default:j.summary|truncatechars:110 }}</p>
+        <div class="cell__foot"><span class="price"><small>From, per person</small>{{ j.price_from_inr|inr }}</span><span class="readout">{{ j.best_label }}</span></div>
+      </div>
+    </a>{% endfor %}{% include "hives/partials/fill.html" with fill_title="Shape your own "|add:t.name|add:" trip" %}</div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>{{ t.name }} trips are being added</h2><p>We have not published a {{ t.name }} trip yet, but we plan them every week. Tell us the valley and the month and a planner sends a route and an itemised {{ t.name }} price within one working day.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask for a {{ t.name }} route</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--tint" id="per-day">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Once you are in the hive</p><h2 class="d-1">A {{ t.name }} day, hive by hive</h2><p class="lede">Per person per day, indicative 2026: bed, food and local transport at {{ t.name }} level. Trip prices add transfers, guides and permits.</p></div></div>
+    <div class="tablewrap"><table class="table">
+      <thead><tr><th scope="col">Hive</th><th scope="col">Per day</th><th scope="col">What that covers</th><th scope="col">Trips from</th></tr></thead>
+      <tbody>{% for row in rows %}<tr data-land="{{ row.r.slug }}">
+        <td><a href="{{ row.r.url }}"><b>{{ row.r.name }}</b></a></td>
+        <td style="white-space:nowrap">{% if row.budget.per_day_inr %}₹{{ row.budget.per_day_inr }}{% else %}—{% endif %}</td>
+        <td>{{ row.budget.covers|default:"Ask a planner for current costs" }}</td>
+        <td style="white-space:nowrap">{% if row.from %}{{ row.from|inr }}{% else %}<a href="{% url 'plan' %}?land={{ row.r.slug }}">Ask us</a>{% endif %}</td>
+      </tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small muted">Local prices change with season and fuel costs. Check current status before you travel.</p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Compare</p><h2 class="d-1">The three tiers side by side</h2></div></div>
+    <div class="tiers">{% for x in tiers %}<div{% if x.slug == t.slug %} style="background:var(--tint)"{% endif %}>
+      <span class="tier tier--{{ x.slug }}" style="align-self:start">{{ x.name }}{% if x.slug == t.slug %} · this page{% endif %}</span>
+      <p style="font-weight:600;margin:0">{{ x.line }}</p>
+      <p class="muted" style="margin:0">{{ x.long }}</p>
+      {% if x.slug != t.slug %}<a class="link" style="margin-top:auto" href="{% url 'tier' x.slug %}">{{ x.name }} trips {% icon "arrow" %}</a>{% endif %}
+    </div>{% endfor %}</div>
+    {% if t.slug == "saver" %}<p style="margin-top:22px"><a class="link" href="{% url 'affordable' %}">The affordable Himalaya: budgets, cheap months and bus routes {% icon "arrow" %}</a></p>{% endif %}
+  </div>
+</section>
+{% endblock %}

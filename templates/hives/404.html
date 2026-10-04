@@ -1,0 +1,24 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Page not found · Himalaya Hives{% endblock %}
+{% block description %}This page has moved or never existed. Search the site or start from one of the hives.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="lost" eyebrow="404 · off the map" title="This trail does not go anywhere" lede="The page may have moved, or the link had a typo. Search the site, or start again from one of the hives." %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:clamp(30px,4vw,50px)">
+      <button class="btn btn--ink" type="button" data-search-open>{% icon "compass" %} Search the site</button>
+      <a class="btn btn--line" href="{% url 'home' %}">Home</a>
+      <a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="404-plan">Ask a planner</a>
+    </div>
+    <p class="eyebrow">Start from a hive</p>
+    <div class="chips" style="margin-bottom:clamp(30px,4vw,50px)">{% for r in nav_regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+    <div class="grid grid--3">
+      <a class="panel panel--line" href="{% url 'journeys' %}" style="text-decoration:none"><h3>Every trip</h3><p class="small muted" style="margin:0">Saver, Comfort and Signature routes in every hive.</p></a>
+      <a class="panel panel--line" href="{% url 'seasons' %}" style="text-decoration:none"><h3>Season almanac</h3><p class="small muted" style="margin:0">Which hive is at its best in which month.</p></a>
+      <a class="panel panel--line" href="{% url 'html_sitemap' %}" style="text-decoration:none"><h3>Sitemap</h3><p class="small muted" style="margin:0">Every page on the site, by hive.</p></a>
+    </div>
+  </div>
+</section>
+{% endblock %}

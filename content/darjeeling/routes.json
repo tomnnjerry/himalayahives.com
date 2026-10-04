@@ -1,0 +1,272 @@
+[
+ {
+  "slug": "darjeeling-to-kalimpong",
+  "from": "darjeeling",
+  "to": "kalimpong",
+  "distance_km": 50,
+  "summary": "Down from the Darjeeling ridge past Ghum and the Lopchu tea gardens, then a long descent through Peshok to the Teesta river at about 200 m and a climb up to Kalimpong. About 50 km and 2.5–3 hours, with shared jeeps every morning.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "2.5–3 h",
+    "cost": "₹200–300 a seat",
+    "text": "Shared jeeps for Kalimpong leave from the motor stand below Chowk Bazaar in Darjeeling, most often in the morning, and go when full. Buy your seat at the counter or from the line manager. The road drops about 1,800 m to the Teesta and climbs 1,000 m again, so sit by a window if you are prone to motion sickness. The last useful departures are usually by early afternoon."
+   },
+   {
+    "mode": "Shared jeep with change at Teesta Bazaar",
+    "time": "3–3.5 h",
+    "cost": "₹200–350 in two legs",
+    "text": "If no jeep is leaving for Kalimpong, take one towards Teesta Bazaar or Gangtok and change at Teesta Bazaar, where jeeps from Siliguri to Kalimpong pass through the day. It takes longer but keeps you moving, and the riverside market has tea stalls and momo shops for the wait."
+   },
+   {
+    "mode": "Private car",
+    "time": "2.5 h",
+    "cost": "₹3,000–4,000 one way",
+    "text": "A reserved car lets you stop at the Lopchu tea gardens, the Peshok viewpoint over the meeting of the Teesta and Rangeet, and Lamahatta's prayer-flag park if you take the Takdah road. Agree the route and stops before you start. Prices rise during Puja and summer holidays."
+   }
+  ],
+  "stops_on_way": [
+   "Ghum",
+   "Jorebunglow",
+   "Lopchu tea gardens",
+   "Peshok viewpoint over the Teesta–Rangeet confluence",
+   "Teesta Bazaar"
+  ],
+  "road_status": "Open all year; landslides on the Peshok road and on National Highway 10 near Teesta Bazaar are common in June–September. Check current status before you travel.",
+  "tip": "Ask the jeep driver for a stop at the Peshok viewpoint; on a clear day you see the green Rangeet join the grey-green Teesta far below.",
+  "faqs": [
+   {
+    "q": "How far is Kalimpong from Darjeeling?",
+    "a": "About 50 km by road via Ghum, Peshok and Teesta Bazaar, which takes 2.5–3 hours. The road descends from about 2,000 m to the Teesta river at roughly 200 m and climbs back to Kalimpong at 1,250 m, so allow time for bends and traffic at Teesta Bazaar."
+   },
+   {
+    "q": "Is there a shared jeep from Darjeeling to Kalimpong?",
+    "a": "Yes. Shared jeeps leave from the motor stand below Chowk Bazaar, mostly in the morning, for about ₹200–300 a seat. If none is filling, take a jeep towards Teesta Bazaar and change there. Go before early afternoon, as later departures are uncertain."
+   },
+   {
+    "q": "How much is a taxi from Darjeeling to Kalimpong?",
+    "a": "A reserved car costs about ₹3,000–4,000 one way in 2026, more for an SUV, in peak weeks or with a detour via Lamahatta and Takdah. Agree the price, stops and luggage before you set off. A day trip there and back costs more, with waiting time."
+   },
+   {
+    "q": "Is the Darjeeling–Kalimpong road safe in the monsoon?",
+    "a": "It is used daily, but from June to September landslides can block the Peshok road or NH10 near Teesta Bazaar for hours. Travel in the morning, carry water and snacks, and keep a spare day. Check current status with your driver or hotel before setting off."
+   }
+  ]
+ },
+ {
+  "slug": "darjeeling-to-mirik",
+  "from": "darjeeling",
+  "to": "mirik",
+  "distance_km": 49,
+  "summary": "West from Ghum through forest past Lepchajagat and Jorepokhri to the market at Sukhiapokhri, then down through tea gardens near the Nepal border to Mirik's lake. About 49 km and 2 hours on a quiet, scenic road.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "2–2.5 h",
+    "cost": "₹150–250 a seat",
+    "text": "Shared jeeps for Mirik leave Darjeeling's motor stand below Chowk Bazaar through the morning. They pass Ghum, Lepchajagat and Sukhiapokhri, where some stop for passengers and tea. If a direct jeep is slow to fill, take one to Sukhiapokhri and change. Jeeps arrive at Krishnanagar, on the lake's western shore, close to most hotels."
+   },
+   {
+    "mode": "Private car",
+    "time": "1.75–2 h",
+    "cost": "₹1,700–2,500 one way",
+    "text": "A reserved car makes this a pleasant half day. Stop for the forest walk at Lepchajagat, the newt lake at Jorepokhri, and the tea gardens around Gopaldhara and Thurbo before dropping to the lake. Many visitors do Mirik as a day trip from Darjeeling, which costs more with waiting time."
+   },
+   {
+    "mode": "Bus",
+    "time": "2.5 h",
+    "cost": "₹80–150",
+    "text": "A few buses link Darjeeling and Siliguri with Mirik, but times are irregular and change. Ask at the Darjeeling motor stand the day before. When it runs, it is the cheapest option, though slower and less comfortable on the winding road."
+   }
+  ],
+  "stops_on_way": [
+   "Ghum",
+   "Lepchajagat forest",
+   "Jorepokhri lake",
+   "Sukhiapokhri market",
+   "Tea gardens near the Nepal border"
+  ],
+  "road_status": "Open all year; fog is common from June to September and landslides occasionally block the road in heavy rain. Check current status before you travel.",
+  "tip": "Leave Darjeeling by 8 am so you pass the Lepchajagat forest while the morning light and mountain views last.",
+  "faqs": [
+   {
+    "q": "How far is Mirik from Darjeeling?",
+    "a": "About 49 km via Ghum, Lepchajagat and Sukhiapokhri, roughly 2 hours by car and a little longer by shared jeep. The road is narrow and winding but well used, and passes through forest and tea gardens close to the Nepal border."
+   },
+   {
+    "q": "Can I do Mirik as a day trip from Darjeeling?",
+    "a": "Yes. A reserved car with waiting costs about ₹3,000–4,000 for the day, depending on stops. Give yourself three hours in Mirik to walk around Sumendu Lake and climb to Bokar Monastery. On a budget, take a morning shared jeep and return by early afternoon."
+   },
+   {
+    "q": "Where does the shared jeep stop in Mirik?",
+    "a": "Most jeeps stop at Krishnanagar, the market area on the western side of Sumendu Lake, near most hotels, cafes and the footbridge. Ask the driver if you need to be dropped elsewhere on the way."
+   },
+   {
+    "q": "Is Lepchajagat on the way to Mirik?",
+    "a": "Yes. Lepchajagat lies about 19 km from Darjeeling on the Mirik road, just past Ghum. It is a short forest stop for tea and a walk, or a quiet place for a night before continuing to Mirik."
+   }
+  ]
+ },
+ {
+  "slug": "kurseong-to-darjeeling",
+  "from": "kurseong",
+  "to": "darjeeling",
+  "distance_km": 30,
+  "summary": "The upper half of the Hill Cart Road, from Kurseong through Tung and Sonada to Ghum, the highest point of the toy train line, and round the Batasia Loop into Darjeeling. About 30 km and 1–1.25 hours, with the railway track beside you much of the way.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "1–1.5 h",
+    "cost": "₹100–150 a seat",
+    "text": "Shared jeeps run between Kurseong's motor stand and Darjeeling through the day and fill quickly in the morning. Jeeps coming up from Siliguri also pass through and sometimes have seats. The road shares space with the railway, so expect slow stretches through the bazaars of Sonada and Ghum."
+   },
+   {
+    "mode": "Toy train",
+    "time": "About 3 h",
+    "cost": "Varies by class and service",
+    "text": "The Darjeeling Himalayan Railway runs between Kurseong and Darjeeling on some days, climbing about 600 m through Tung, Sonada and Ghum and round the Batasia Loop. Services, classes and fares change with the season and track condition. Book on IRCTC and check current status before you travel."
+   },
+   {
+    "mode": "Private car",
+    "time": "1–1.25 h",
+    "cost": "₹1,500–2,200 one way",
+    "text": "A reserved car is quick and lets you stop at Dow Hill, the Sonada bazaar and Ghum Monastery. If you are staying at Cochrane Place or Taj Chia Kutir, the hotel can arrange a car. Weekend traffic into Darjeeling can add 30 minutes in season."
+   }
+  ],
+  "stops_on_way": [
+   "Dow Hill turning",
+   "Tung",
+   "Sonada",
+   "Ghum station and monastery",
+   "Batasia Loop"
+  ],
+  "road_status": "Open all year; fog and occasional landslides in the monsoon, and slow traffic in Ghum and on the approach to Darjeeling in April–June and October. Check current status before you travel.",
+  "tip": "Stop at Ghum station; the small DHR museum there tells the line's story in a few rooms.",
+  "faqs": [
+   {
+    "q": "How far is Darjeeling from Kurseong?",
+    "a": "About 30 km up the Hill Cart Road via Tung, Sonada and Ghum, which takes 1–1.25 hours by car and a little more by shared jeep. The toy train covers the same stretch in about three hours when it runs."
+   },
+   {
+    "q": "Can I take the toy train from Kurseong to Darjeeling?",
+    "a": "On some days the Darjeeling Himalayan Railway runs services between Kurseong and Darjeeling. Timetables and classes change with the season and track work, so check on IRCTC and confirm locally. If it is running, it is the best way to see Ghum and the Batasia Loop from the train."
+   },
+   {
+    "q": "How much is a shared jeep from Kurseong to Darjeeling?",
+    "a": "About ₹100–150 a seat in 2026. Jeeps leave the Kurseong motor stand when full, most often in the morning. In the afternoon, try flagging jeeps coming up from Siliguri on the main road."
+   },
+   {
+    "q": "Is Kurseong worth a stop on the way to Darjeeling?",
+    "a": "Yes, especially for tea lovers. Kurseong is lower and warmer than Darjeeling, close to estates such as Makaibari and Castleton, and has the Netaji museum at Giddapahar and the Dow Hill forest. A night here breaks the climb from NJP and costs less than Darjeeling."
+   }
+  ]
+ },
+ {
+  "slug": "kalimpong-to-lava",
+  "from": "kalimpong",
+  "to": "lava",
+  "distance_km": 32,
+  "summary": "East from Kalimpong along the ridge to Algarah, then up through mixed forest to Lava at about 2,195 m, the gateway to Neora Valley National Park. About 32 km and 1.5 hours, with shared jeeps in the morning.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "1.5–2 h",
+    "cost": "₹120–200 a seat",
+    "text": "Shared jeeps for Lava leave Kalimpong's motor stand in the morning and fill slowly outside the season. Some go on to Kolakham or towards Gorubathan. Arrive early, buy your seat and keep your bag with you. Return jeeps leave Lava for Kalimpong mostly in the morning too, so plan a full day or overnight stay."
+   },
+   {
+    "mode": "Private car",
+    "time": "1.25–1.5 h",
+    "cost": "₹2,000–3,000 one way",
+    "text": "A reserved car lets you stop at Algarah and continue to Rishyap, 10 km beyond Lava, or Kolakham for Changey Falls. For a Lava and Rishyap day trip from Kalimpong, budget more for the full day and waiting time."
+   },
+   {
+    "mode": "Shared jeep and walk",
+    "time": "Half day",
+    "cost": "₹120–200 plus walking",
+    "text": "With light bags you can take the jeep to Lava and walk the forest road towards Rishyap, about 10 km uphill, or arrange a homestay pick-up. It is a quiet, steady climb through forest, best done in the morning in dry months with water and a rain shell."
+   }
+  ],
+  "stops_on_way": [
+   "Algarah",
+   "Pedong turning",
+   "Forest above Lava"
+  ],
+  "road_status": "Open all year; landslides possible in June–September and fog on most monsoon afternoons. Snow can fall at Lava in some winters. Check current status before you travel.",
+  "tip": "Reach Lava before noon; cloud usually rolls up from the valley in the afternoon and the views close.",
+  "faqs": [
+   {
+    "q": "How far is Lava from Kalimpong?",
+    "a": "About 32 km via Algarah, around 1.5 hours by car and up to 2 hours by shared jeep. The road climbs nearly 1,000 m from Kalimpong's ridge to Lava at about 2,195 m."
+   },
+   {
+    "q": "Is there a shared jeep from Kalimpong to Lava?",
+    "a": "Yes, shared jeeps leave Kalimpong's motor stand for Lava in the morning for about ₹120–200 a seat. They run less often in winter and in the monsoon. Return jeeps also leave mostly in the morning, so do not count on an afternoon ride back."
+   },
+   {
+    "q": "Can I visit Lava and Rishyap in a day from Kalimpong?",
+    "a": "Yes, with a reserved car: Lava monastery, a short forest drive and Rishyap's views fit into a long day. It costs more than a one-way transfer. A night in Lava or Rishyap is better, since the clearest views are at sunrise."
+   },
+   {
+    "q": "Do I need a permit to enter Neora Valley from Lava?",
+    "a": "Yes. Neora Valley National Park needs an entry permit, issued through the forest office at Lava, and vehicles and guides are regulated. The park usually closes during the monsoon, roughly mid-June to mid-September. Rules and fees change, so check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "darjeeling-to-sandakphu",
+  "from": "darjeeling",
+  "to": "sandakphu",
+  "distance_km": 59,
+  "summary": "From Darjeeling down to Manebhanjan, the trailhead at about 2,150 m, then up the Singalila Ridge by trail or vintage Land Rover via Tumling and Kalipokhri to Sandakphu at 3,636 m. About 28 km by road plus 31 km on the ridge.",
+  "options": [
+   {
+    "mode": "Shared jeep and Land Rover",
+    "time": "5–6 h",
+    "cost": "₹80–150 to Manebhanjan; Land Rover ₹5,500–7,500 per vehicle return",
+    "text": "Take a morning shared jeep from Darjeeling to Manebhanjan, about 1–1.5 hours. There, the Land Rover association books vehicles up the ridge road via Tumling and Kalipokhri, a 3–4 hour rough ride. Pay park fees at the Singalila checkpost. Share a vehicle with other travellers to cut the cost. Rates and rules change; check current status before you travel."
+   },
+   {
+    "mode": "Trek with guide",
+    "time": "3–4 days up",
+    "cost": "Guide ₹1,000–1,500 a day plus lodges and park fees",
+    "text": "Most trekkers walk from Manebhanjan to Tumling on day one, about 11 km, then to Kalipokhri and on to Sandakphu, sleeping in lodges and trekkers' huts. A registered guide is required in Singalila National Park. The path crosses in and out of Nepal; Indians and Nepalis cross freely, and foreigners should carry passport and visa."
+   },
+   {
+    "mode": "Private car and Land Rover",
+    "time": "5–5.5 h",
+    "cost": "₹1,500–2,500 car to Manebhanjan; Land Rover per vehicle",
+    "text": "A reserved car to Manebhanjan saves waiting for a jeep, then the same Land Rover transfer up the ridge. This suits families and anyone short of time. Sleeping at 3,636 m after one night at 2,000 m is a big step up, so read the altitude advice and talk to your doctor if you have heart or lung conditions."
+   }
+  ],
+  "stops_on_way": [
+   "Ghum",
+   "Sukhiapokhri",
+   "Manebhanjan",
+   "Chitrey",
+   "Tumling",
+   "Gairibas",
+   "Kalipokhri"
+  ],
+  "road_status": "Ridge road open most of the year; snow can close it for days in December–February and the monsoon (June–September) brings mud, cloud and closures. Check current status before you travel.",
+  "tip": "Sleep at least one night in Darjeeling before heading up, and walk slowly on your first evening at Sandakphu.",
+  "faqs": [
+   {
+    "q": "How do I get from Darjeeling to Sandakphu?",
+    "a": "Take a shared jeep or car 28 km to Manebhanjan, then either trek three to four days up the Singalila Ridge with a registered guide, or hire a Land Rover for the 31 km ridge road, about 3–4 hours. Pay Singalila National Park fees at the checkpost. Check current status before you travel."
+   },
+   {
+    "q": "How much does the Land Rover to Sandakphu cost?",
+    "a": "About ₹5,500–7,500 per vehicle for a return trip from Manebhanjan in 2026, shared among up to six or seven passengers, plus park and vehicle entry fees. Overnight stays and longer itineraries cost more. Book through the Manebhanjan Land Rover stand or your lodge."
+   },
+   {
+    "q": "Is altitude sickness a risk at Sandakphu?",
+    "a": "Yes, it can be. Sandakphu is 3,636 m, and going up by Land Rover in one day from about 2,000 m gives the body little time. Spend a night in Darjeeling first, drink water, avoid alcohol, and descend if headache or breathlessness gets worse. Talk to your doctor before the trip if you have heart or lung conditions."
+   },
+   {
+    "q": "Do I need a guide to go to Sandakphu?",
+    "a": "Trekkers need a registered guide inside Singalila National Park, booked at Manebhanjan or through an operator, for about ₹1,000–1,500 a day. Land Rover passengers travel with the driver. Rules can change, so check current status before you travel."
+   }
+  ]
+ }
+]

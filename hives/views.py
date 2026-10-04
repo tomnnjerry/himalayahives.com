@@ -170,7 +170,8 @@ def region_month(request, region, month):
         {"q": f"What is the weather like in {r['name']} in {MONTHS[i]}?",
          "a": f"{md.get('weather', 'Weather varies across the region')}. Conditions differ by altitude and coast, so check the forecast for each stop a week before you travel."},
         {"q": f"Where should we go in {r['name']} in {MONTHS[i]}?",
-         "a": ("We suggest " + ", ".join(p["name"] for p in go) + ". " if go else "") + (md.get("tip") or "")},
+         "a": (("We suggest " + ", ".join(p["name"] for p in go) + ". " if go else "") + (md.get("tip") or "")).strip()
+              or f"Tell us your dates and budget and we will suggest the parts of {r['name']} that work best in {MONTHS[i]}."},
     ]
     return render(request, "hives/region_month.html", {
         "r": r, "i": i, "month": MONTHS[i], "md": md, "go": go, "events": events, "journeys": journeys,
@@ -422,11 +423,28 @@ def tool_permits(request):
 
 
 # ---------------- enquiry ----------------
+def _notify(e):
+    """Email the planners about a new enquiry when HH_NOTIFY_EMAIL is set. Never blocks the visitor."""
+    to = getattr(settings, "HH_NOTIFY_EMAIL", "")
+    if not to:
+        return
+    from django.core.mail import send_mail
+    lines = [f"{k}: {v}" for k, v in (("Name", e.name), ("Email", e.email), ("Phone", e.phone), ("Prefers", e.contact_pref),
+                                      ("Hives", e.lands), ("Month", e.month), ("Nights", e.nights), ("Travellers", e.travellers),
+                                      ("Budget", e.budget), ("Form", e.kind), ("Page", e.source_page)) if v]
+    try:
+        send_mail(f"New enquiry: {e.name} ({e.lands or 'any hive'})", "\n".join(lines) + "\n\n" + (e.message or ""),
+                  None, [to], fail_silently=True)
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def plan(request):
     if request.method == "POST":
         form = EnquiryForm(request.POST)
         if form.is_valid():
-            form.save()
+            enquiry = form.save()
+            _notify(enquiry)
             return redirect("plan_thanks")
     else:
         initial = {"source_page": request.GET.get("from", "")[:300], "kind": "full"}

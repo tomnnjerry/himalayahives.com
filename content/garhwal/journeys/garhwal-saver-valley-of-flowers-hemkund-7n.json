@@ -1,0 +1,207 @@
+{
+ "slug": "garhwal-saver-valley-of-flowers-hemkund-7n",
+ "title": "Valley of Flowers and Hemkund by bus",
+ "region": "garhwal",
+ "tier": "saver",
+ "nights": 7,
+ "themes": [
+  "treks-and-walks",
+  "pilgrimages",
+  "photography",
+  "wildlife-and-birds"
+ ],
+ "stops": [
+  {
+   "place": "rishikesh",
+   "nights": 1
+  },
+  {
+   "place": "auli",
+   "nights": 1
+  },
+  {
+   "place": "valley-of-flowers",
+   "nights": 3
+  },
+  {
+   "place": "badrinath",
+   "nights": 1
+  },
+  {
+   "place": "auli",
+   "nights": 1
+  }
+ ],
+ "start": "Rishikesh (Zostel, Tapovan)",
+ "end": "Joshimath bus stand",
+ "price_from_inr": 18500,
+ "price_note": "Per person, twin sharing: 7 nights in a hostel dorm, GMVN rest houses and simple lodges, all bus and shared-jeep fares, park permit and most meals at dhabas; travel to Rishikesh, ponies and porters extra.",
+ "transport": "UTC and GMOU buses, shared jeeps and walking",
+ "group": "Shared departures",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0
+ ],
+ "pace": "Active",
+ "meta_description": "Valley of Flowers and Hemkund Sahib on a budget, 7 nights: buses from Rishikesh, GMVN rest house at Ghangaria, Badrinath and Mana, from ₹18,500.",
+ "summary": "Seven nights for students and budget walkers: early buses up the Alaknanda from Rishikesh, three nights at Ghangaria with a full day in the Valley of Flowers and a climb to Hemkund Sahib, then Badrinath and Mana on the way back. Shared transport, simple rooms and honest costs, from ₹18,500.",
+ "intro": [
+  "The Valley of Flowers is one of the cheapest great walks in the Himalaya. There are no permits beyond the park ticket, the trail is paved to Ghangaria, and the gurdwaras along the way feed every walker free. What costs money is time: the bus from Rishikesh to Joshimath takes most of a day, and the walk in and out needs two more. We give the valley three nights so a day of rain does not end the trip.",
+  "This is a saver trip and honest about it. You sleep in a hostel dorm in Rishikesh, a GMVN rest house or simple lodge at Ghangaria with bucket hot water, and a dharamshala or GMVN room at Badrinath. Buses leave at 4–5 am and are crowded in July. In return, you see the valley at peak bloom for under ₹20,000, and walk to a Sikh shrine at 4,600 m."
+ ],
+ "highlights": [
+  "A full day in the Valley of Flowers at peak monsoon bloom",
+  "The 6 km climb to Hemkund Sahib and its glacial lake at about 4,600 m",
+  "Free langar at the Govindghat and Ghangaria gurdwaras",
+  "Mana village, Bhim Pul and the Saraswati gorge above Badrinath",
+  "Five river confluences seen from the bus window on the Alaknanda road"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Zostel Rishikesh, Tapovan",
+   "drive": "",
+   "text": "Reach Rishikesh by train to Haridwar or overnight bus from Delhi, and check into a dorm at Zostel in Tapovan. In the afternoon, collect your Char Dham and Hemkund registration printout or show the QR code if you registered online, and confirm your bus seat for the morning. Walk across Lakshman Jhula to the ghats and watch the evening aarti at Parmarth Niketan. Early dinner and early bed: the bus leaves before dawn.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Bus up the Alaknanda to Joshimath",
+   "place": "auli",
+   "overnight": "Guesthouse, Joshimath",
+   "drive": "≈ 265 km · 9–10 h",
+   "text": "Take the 4–5 am UTC or GMOU bus from Rishikesh to Joshimath. The road follows the Ganga to Devprayag, then the Alaknanda past Srinagar, Rudraprayag, Karnaprayag and Chamoli. Buses stop for breakfast and lunch at dhabas. Expect slide delays in July. Joshimath, at about 1,875 m, is the town below Auli where Adi Shankara is said to have founded one of his four mathas. Check into a simple guesthouse near the bus stand.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Govindghat to Ghangaria on foot",
+   "place": "valley-of-flowers",
+   "overnight": "GMVN Tourist Rest House, Ghangaria",
+   "drive": "≈ 22 km jeep, 4 km taxi, ≈ 10 km walk",
+   "text": "Take a shared jeep to Govindghat (22 km) and a shared taxi to Pulna (4 km), where the walk begins. The stone path climbs about 1,100 m in 9–10 km beside the Lakshman Ganga, with tea stalls and pony traffic all the way. Most walkers take 5–7 hours. Hire a porter for your bag at the counter if needed. Ghangaria, at 3,049 m, is a one-street village of lodges, a gurdwara and the GMVN rest house.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "A full day in the Valley of Flowers",
+   "place": "valley-of-flowers",
+   "overnight": "GMVN Tourist Rest House, Ghangaria",
+   "drive": "",
+   "text": "Buy your park permit at the forest check post and walk 3–4 km into the valley; entry is from about 7 am and everyone must be out by evening, as overnight stays are not allowed. In July and August the meadows carry blue poppies, primulas, balsams, geraniums and hundreds of other species along the Pushpawati river. Walk as far as Joan Margaret Legge's grave, about 5–6 km in, if time and weather allow. Carry lunch and rain gear.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Hemkund Sahib",
+   "place": "valley-of-flowers",
+   "overnight": "GMVN Tourist Rest House, Ghangaria",
+   "drive": "",
+   "text": "Start by 6 am for Hemkund Sahib, about 6 km and 1,500 m above Ghangaria. The paved path zigzags up steadily; go slowly, drink water and turn back if you feel headache, nausea or breathlessness. At about 4,600 m, the gurdwara stands beside a glacial lake with the small Lakshman temple. Pilgrims bathe in the icy water; tea and khichdi are served in the langar. Be down by mid-afternoon, when cloud and rain usually close in.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Down to Govindghat, on to Badrinath",
+   "place": "badrinath",
+   "overnight": "GMVN or dharamshala, Badrinath",
+   "drive": "≈ 10 km walk, ≈ 25 km jeep",
+   "text": "Walk down to Pulna in 3–4 hours and take a taxi to Govindghat, then a shared jeep 25 km up to Badrinath at about 3,300 m. Bathe in Tapt Kund, the hot spring below the temple, and join the evening darshan queue if it is short. Badrinath's dorm and dharamshala beds are simple but warm; GMVN's Hotel Devlok has rooms if you want a step up.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Mana and back to Joshimath",
+   "place": "auli",
+   "overnight": "Guesthouse, Joshimath",
+   "drive": "≈ 3 km to Mana, ≈ 45 km jeep",
+   "text": "Walk or take a jeep 3 km to Mana, the Bhotiya village signposted as the first village of India, near the Tibet border. See Bhim Pul, the stone slab over the Saraswati, and Vyas Gufa. Fit walkers can go on to Vasudhara Falls, about 5 km each way. Return to Badrinath for lunch and take a shared jeep to Joshimath for the night, to catch the morning bus.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Bus back to Rishikesh",
+   "place": "auli",
+   "overnight": "",
+   "drive": "≈ 265 km · 9–10 h",
+   "text": "Take the early bus from Joshimath to Rishikesh, arriving by evening, in time for an overnight bus or a late train from Haridwar to Delhi. If you have an extra day, we strongly suggest it: landslides in July and August can hold buses for hours, and it is far better to spend a night in Rishikesh than to miss a train.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-rishikesh-tapovan",
+  "gmvn-tourist-rest-house-ghangaria",
+  "gmvn-hotel-devlok-badrinath"
+ ],
+ "includes": [
+  "7 nights: hostel dorm in Rishikesh, guesthouse in Joshimath, GMVN rest house or lodge at Ghangaria, GMVN or dharamshala at Badrinath",
+  "All UTC/GMOU bus and shared jeep fares from Rishikesh and back",
+  "Valley of Flowers entry permit",
+  "Breakfast and dinner on most days at lodges and dhabas",
+  "Pre-trip briefing on registration, kit and weather"
+ ],
+ "excludes": [
+  "Travel to and from Rishikesh",
+  "Ponies, porters and helicopter seats",
+  "Lunches and snacks",
+  "Single rooms and attached bathrooms where not available",
+  "Costs from landslide delays or extra nights"
+ ],
+ "good_to_know": [
+  "You sleep at 3,049 m at Ghangaria and walk to about 4,600 m at Hemkund. Go slowly, drink water and come down if symptoms of altitude sickness appear; talk to your doctor before the trip, especially about Diamox.",
+  "Char Dham and Hemkund Sahib registration is required and checked on the road; rules change every season, so check current status before you travel.",
+  "The Valley of Flowers is usually open from 1 June to 31 October, day visits only. Check current status before you travel.",
+  "Rooms at Ghangaria are simple; hot water is often by the bucket and electricity can be cut. Carry a headlamp and power bank.",
+  "July and August mean daily rain and possible road closures. Keep at least one spare day before your train or flight home."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a Valley of Flowers trip cost on a budget?",
+   "a": "About ₹18,000–22,000 per person for 7 nights from Rishikesh, using buses, shared jeeps, dorms and GMVN rooms and eating at dhabas. Ponies, porters and a helicopter seat add several thousand rupees. Travel to Rishikesh is extra."
+  },
+  {
+   "q": "What is the best time to see the Valley of Flowers?",
+   "a": "Mid-July to mid-August, when most species are in bloom. June has fewer flowers but drier trails; September is clearer with fading flowers. The valley is usually open from 1 June to 31 October."
+  },
+  {
+   "q": "Can I stay overnight inside the Valley of Flowers?",
+   "a": "No. Camping and overnight stays inside the national park are not allowed. Everyone stays at Ghangaria, about 3–4 km from the valley entrance, and walks in each day."
+  },
+  {
+   "q": "How difficult is the Hemkund Sahib climb?",
+   "a": "It is about 6 km each way, climbing around 1,500 m to about 4,600 m on a paved path. It is steep and the air is thin. Fit walkers take 3–5 hours up. Ponies and porters are available."
+  },
+  {
+   "q": "Do I need registration for the Valley of Flowers?",
+   "a": "You need the park entry permit, sold at the forest check post above Ghangaria. Hemkund Sahib pilgrims also register on the Uttarakhand tourism portal, which is checked on the road. Check current status before you travel."
+  },
+  {
+   "q": "Is the Valley of Flowers safe in monsoon?",
+   "a": "The trail is well used and paved, but rain, slippery stones and landslides on the road are real risks. Follow local advice, avoid walking in heavy rain and keep a spare day for delays."
+  },
+  {
+   "q": "Is there mobile network at Ghangaria?",
+   "a": "There is limited signal from some networks at Govindghat and Ghangaria, often weak and patchy. There is no reliable data inside the valley. Tell family your plan before leaving Joshimath."
+  },
+  {
+   "q": "Can a solo woman do this trip?",
+   "a": "Yes, many do, especially in July and August when the trail is busy with pilgrims and walkers. Book rooms in advance, travel in daylight and use registered porters and ponies from official counters."
+  },
+  {
+   "q": "Is there an ATM at Ghangaria?",
+   "a": "Do not count on one. Draw cash in Rishikesh or Joshimath. Lodges and dhabas at Ghangaria may take UPI, but signal is weak, so carry enough cash for rooms, porters and food."
+  }
+ ]
+}

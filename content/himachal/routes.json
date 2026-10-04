@@ -1,0 +1,269 @@
+[
+ {
+  "slug": "shimla-to-manali",
+  "from": "shimla",
+  "to": "manali",
+  "distance_km": 245,
+  "summary": "The main north–south run of the hive: down from Shimla to the Sutlej at Bilaspur, up through Mandi and the Beas gorge to Kullu and Manali. About 245 km and 7–9 hours by road, with frequent HRTC buses and newer four-lane stretches and tunnels.",
+  "options": [
+   {
+    "mode": "HRTC ordinary bus",
+    "time": "9–10 h",
+    "cost": "₹450–650",
+    "text": "HRTC buses leave Shimla's ISBT Tutikandi for Manali in the morning and evening, stopping at Bilaspur, Sundernagar, Mandi and Kullu. They are slow and crowded at the stops but cheap and reliable. Sit on the right side after Mandi for views of the Beas gorge. Book online at peak times."
+   },
+   {
+    "mode": "HRTC Volvo or semi-deluxe",
+    "time": "8–9 h",
+    "cost": "₹900–1,500",
+    "text": "A few air-conditioned and semi-deluxe HRTC services run overnight or early in the day between the two towns. They are more comfortable for the long day and stop less. Check the HRTC online portal for the current timetable, as these services change by season."
+   },
+   {
+    "mode": "Private car",
+    "time": "7–8 h",
+    "cost": "₹5,000–7,000 one way",
+    "text": "A taxi lets you stop at Mandi's temples, the Pandoh dam and the Aut tunnel area, and drop you at your hotel. Expect tunnel and highway traffic near Kullu at weekends. Start early to reach Manali before dark; one-way fares include the driver's return."
+   }
+  ],
+  "stops_on_way": [
+   "Bilaspur and the Gobind Sagar lake",
+   "Mandi old town",
+   "Pandoh dam on the Beas",
+   "Aut, for the Tirthan turn-off",
+   "Kullu town"
+  ],
+  "road_status": "Open all year; landslides in the Mandi–Kullu gorge can close the highway for hours in July–August. Check current status before you travel.",
+  "tip": "Break the trip at Aut for two or three nights in the Tirthan valley rather than driving it in one go.",
+  "faqs": [
+   {
+    "q": "How long is the drive from Shimla to Manali?",
+    "a": "About 245 km, usually 7–8 hours by car and 9–10 hours by HRTC ordinary bus. Monsoon slides and weekend traffic near Kullu can add several hours, so start early."
+   },
+   {
+    "q": "Is there a direct bus from Shimla to Manali?",
+    "a": "Yes. HRTC runs direct buses from ISBT Tutikandi in Shimla to Manali bus stand, including ordinary and some semi-deluxe or Volvo services. Book on the HRTC portal in season."
+   },
+   {
+    "q": "What is the taxi fare from Shimla to Manali?",
+    "a": "Roughly ₹5,000–7,000 one way for a sedan, more for an SUV and in peak season. Agree the price, tolls and stops before you start."
+   },
+   {
+    "q": "What can I see on the way from Shimla to Manali?",
+    "a": "The Gobind Sagar reservoir near Bilaspur, the old temples of Mandi, Pandoh dam and the Beas gorge, and Kullu town. With a car, Naggar is a short detour across the river before Manali."
+   }
+  ]
+ },
+ {
+  "slug": "shimla-to-kalpa",
+  "from": "shimla",
+  "to": "kalpa",
+  "distance_km": 225,
+  "summary": "Up the old Hindustan–Tibet road, now NH5: over Narkanda, down to the Sutlej at Rampur and along the gorge to Kinnaur, then the climb from Reckong Peo to Kalpa. About 225 km and 8–9 hours; HRTC buses run daily.",
+  "options": [
+   {
+    "mode": "HRTC bus",
+    "time": "9–10 h to Peo",
+    "cost": "₹400–650",
+    "text": "HRTC buses leave ISBT Tutikandi for Reckong Peo early in the morning and through the day, with stops at Narkanda, Rampur and Tapri. Change at Peo for a local bus or shared taxi up to Kalpa, 7 km. It is a long, bumpy day, but cheap and the way most Kinnauris travel."
+   },
+   {
+    "mode": "Bus to Rampur, then onward",
+    "time": "10–11 h",
+    "cost": "₹450–700",
+    "text": "If you miss a Peo bus, take any bus to Rampur Bushahr, a large stop with frequent departures up the valley. This splits the journey and lets you see Rampur's Padam Palace. Leave Rampur by early afternoon to reach Kalpa in daylight."
+   },
+   {
+    "mode": "Private car",
+    "time": "8–9 h",
+    "cost": "₹8,000–11,000 one way",
+    "text": "A taxi lets you stop at Narkanda, Rampur and the Nathpa area, and climb straight to your Kalpa stay. Many travellers keep the same car for the whole Kinnaur loop. Drive only in daylight; the gorge has rockfall zones and narrow single-lane stretches."
+   }
+  ],
+  "stops_on_way": [
+   "Narkanda",
+   "Rampur Bushahr and the Padam Palace",
+   "Jhakri and the Nathpa area",
+   "Tapri",
+   "Reckong Peo"
+  ],
+  "road_status": "Open most of the year; rockfall and slides between Jhakri and Karcham can close the road for hours, especially in the monsoon and spring thaw. Check current status before you travel.",
+  "tip": "Sit on the left side of the bus out of Shimla for the Sutlej views after Rampur.",
+  "faqs": [
+   {
+    "q": "How far is Kalpa from Shimla?",
+    "a": "About 225 km by road via Narkanda, Rampur and Reckong Peo, usually 8–9 hours by car and 9–10 hours by bus plus the short hop from Peo."
+   },
+   {
+    "q": "Is there a direct bus from Shimla to Kalpa?",
+    "a": "Most HRTC buses go to Reckong Peo, the district headquarters, 7 km below Kalpa. From Peo, local buses and shared taxis climb to Kalpa in 20–30 minutes."
+   },
+   {
+    "q": "Is the Shimla–Kinnaur road safe?",
+    "a": "It is a busy national highway driven daily by buses and trucks, but parts of the gorge have rockfall risk. Travel in daylight, avoid heavy-rain days and check current status before you travel."
+   },
+   {
+    "q": "Should I break the journey from Shimla to Kalpa?",
+    "a": "It is not essential, but a night at Sarahan or Rampur makes the day easier, especially for older travellers or anyone prone to motion sickness."
+   }
+  ]
+ },
+ {
+  "slug": "manali-to-kasol",
+  "from": "manali",
+  "to": "kasol",
+  "distance_km": 75,
+  "summary": "Down the Kullu valley to Bhuntar, then up the Parvati river to Kasol. About 75 km and 2.5–3 hours by car, or two cheap bus legs with a change at Bhuntar.",
+  "options": [
+   {
+    "mode": "HRTC bus via Bhuntar",
+    "time": "3–4 h",
+    "cost": "₹150–250 in two legs",
+    "text": "Take any bus from Manali towards Kullu or Mandi and get off at Bhuntar, about 1.5–2 hours. From Bhuntar's bus stand, local buses for Manikaran and Barshaini leave through the day and stop at Kasol in about an hour. Buses are crowded in the morning; keep luggage small."
+   },
+   {
+    "mode": "Shared taxi",
+    "time": "2.5–3 h",
+    "cost": "₹400–700 a seat",
+    "text": "Shared taxis sometimes run between Manali and the Parvati valley in season, and more often from Bhuntar to Kasol. Ask at the Manali taxi stand or your hostel the evening before. They fill up at the stand before leaving."
+   },
+   {
+    "mode": "Private car",
+    "time": "2.5–3 h",
+    "cost": "₹2,500–3,500 one way",
+    "text": "A taxi from Manali follows the left bank of the Beas past Naggar or the highway, crosses at Bhuntar and climbs the narrow Parvati road through Jari. It is the easiest way with luggage and lets you stop at Manikaran beyond Kasol."
+   }
+  ],
+  "stops_on_way": [
+   "Kullu town",
+   "Bhuntar",
+   "Jari",
+   "Chalal (a 20-minute walk from Kasol)"
+  ],
+  "road_status": "Open all year; the Parvati valley road is narrow with slide zones and is often damaged in heavy monsoon rain. Check current status before you travel.",
+  "tip": "Start before 9 am so you change at Bhuntar before the midday buses fill.",
+  "faqs": [
+   {
+    "q": "How far is Kasol from Manali?",
+    "a": "About 75 km via Kullu and Bhuntar, roughly 2.5–3 hours by car and 3–4 hours by bus with a change at Bhuntar."
+   },
+   {
+    "q": "Is there a direct bus from Manali to Kasol?",
+    "a": "Direct buses are rare. The usual way is a bus from Manali to Bhuntar, then a local bus up the Parvati valley to Kasol, Manikaran or Barshaini."
+   },
+   {
+    "q": "What is the taxi fare from Manali to Kasol?",
+    "a": "About ₹2,500–3,500 one way for a sedan, more for an SUV and in peak season. Agree a price that includes any stop at Manikaran."
+   },
+   {
+    "q": "Can I do Kasol as a day trip from Manali?",
+    "a": "It is possible but rushed, with 5–6 hours on the road. Stay at least two nights to walk to Chalal, visit Manikaran and enjoy the river."
+   }
+  ]
+ },
+ {
+  "slug": "mcleodganj-to-bir-billing",
+  "from": "mcleodganj",
+  "to": "bir-billing",
+  "distance_km": 70,
+  "summary": "East along the foot of the Dhauladhar, through the Kangra valley's tea gardens and Palampur, to the paragliding village of Bir. About 70 km and 2.5 hours by car; buses run via Dharamshala and the Kangra–Mandi highway.",
+  "options": [
+   {
+    "mode": "HRTC bus",
+    "time": "3.5–4.5 h",
+    "cost": "₹150–250",
+    "text": "Take a local bus down to Dharamshala, then a bus towards Palampur, Baijnath or Mandi. Get off at the Bir turn-off on the highway and take a local bus or taxi up to Bir, a few kilometres. Tell the conductor you want Bir; they will call your stop. Allow plenty of daylight for the changes."
+   },
+   {
+    "mode": "Shared and local taxis",
+    "time": "3–3.5 h",
+    "cost": "₹300–600",
+    "text": "There is no regular shared taxi on the whole route, but you can combine a bus to Palampur with a shared or local taxi on to Bir. Hostels in McLeodganj sometimes organise shared cabs on busy weekends; ask at reception."
+   },
+   {
+    "mode": "Private car",
+    "time": "2–2.5 h",
+    "cost": "₹2,500–3,500 one way",
+    "text": "A taxi from McLeodganj drops you at your stay in Bir, with time to stop at a Palampur tea estate or the Baijnath temple, a few kilometres beyond Bir. It is the simplest option with luggage and on a tight schedule."
+   }
+  ],
+  "stops_on_way": [
+   "Dharamshala",
+   "Palampur tea gardens",
+   "Andretta artists' village",
+   "Baijnath temple (short detour beyond Bir)"
+  ],
+  "road_status": "Open all year; heavy monsoon rain can bring slides on the Kangra roads in July–August. Check current status before you travel.",
+  "tip": "Leave in the morning so you reach Bir in time for the evening paragliders landing.",
+  "faqs": [
+   {
+    "q": "How far is Bir from McLeodganj?",
+    "a": "About 70 km via Dharamshala and Palampur, roughly 2–2.5 hours by car and 3.5–4.5 hours by bus with changes."
+   },
+   {
+    "q": "Is there a direct bus from McLeodganj to Bir?",
+    "a": "Not usually. Go down to Dharamshala and take a bus towards Palampur, Baijnath or Mandi, then get off at the Bir turn-off and take a local bus or taxi up."
+   },
+   {
+    "q": "What is the taxi fare from McLeodganj to Bir?",
+    "a": "Around ₹2,500–3,500 one way for a sedan, more for an SUV. Fares rise in the paragliding season, October–November and March–May."
+   },
+   {
+    "q": "Can I stop at Palampur on the way to Bir?",
+    "a": "Yes. Palampur lies on the route, and a walk in the tea gardens or a visit to the Kangra tea cooperative fits easily into the day."
+   }
+  ]
+ },
+ {
+  "slug": "mcleodganj-to-chamba",
+  "from": "mcleodganj",
+  "to": "chamba",
+  "distance_km": 175,
+  "summary": "West from Dharamshala across the lower Kangra hills to Nurpur, then north over the ridge at Banikhet and down to the Ravi at Chamba. About 175 km and 5.5–6.5 hours; HRTC buses run from Dharamshala.",
+  "options": [
+   {
+    "mode": "HRTC bus",
+    "time": "6–7 h",
+    "cost": "₹350–500",
+    "text": "Take a local bus to Dharamshala, then an HRTC bus to Chamba; most leave in the morning. They pass Shahpur, Nurpur and Banikhet. It is a long, winding day, so keep motion-sickness tablets handy. Book in season if you can."
+   },
+   {
+    "mode": "Bus via Pathankot",
+    "time": "7–8 h",
+    "cost": "₹400–600",
+    "text": "If no direct bus suits, take a bus to Pathankot and change for one of the frequent HRTC buses to Chamba, about 4 hours. Slower overall, but departures are plentiful, which helps on busy days."
+   },
+   {
+    "mode": "Private car",
+    "time": "5.5–6.5 h",
+    "cost": "₹5,500–7,500 one way",
+    "text": "A taxi lets you stop at Nurpur fort, then take the Dalhousie and Khajjiar route if you want, adding an hour or two. Leave early; the last stretch down to the Ravi is best seen in daylight."
+   }
+  ],
+  "stops_on_way": [
+   "Shahpur",
+   "Nurpur fort and Brij Raj Swami temple",
+   "Banikhet",
+   "Dalhousie and Khajjiar (optional detour)"
+  ],
+  "road_status": "Open all year; slides are common in July–August and occasional snow can affect the Dalhousie route in winter. Check current status before you travel.",
+  "tip": "Ride via Khajjiar only if you have a car; buses take the faster valley road.",
+  "faqs": [
+   {
+    "q": "How far is Chamba from McLeodganj?",
+    "a": "About 175 km by road via Nurpur and Banikhet, roughly 5.5–6.5 hours by car and 6–7 hours by bus from Dharamshala."
+   },
+   {
+    "q": "Is there a direct bus from Dharamshala to Chamba?",
+    "a": "Yes, HRTC runs buses from Dharamshala to Chamba, mostly in the morning. Go down from McLeodganj to Dharamshala bus stand first."
+   },
+   {
+    "q": "Can I visit Dalhousie and Khajjiar on the way to Chamba?",
+    "a": "Yes, with a private car. Taking the Dalhousie and Khajjiar road adds 1–2 hours, and you reach Chamba from the Khajjiar side."
+   },
+   {
+    "q": "What is the taxi fare from McLeodganj to Chamba?",
+    "a": "About ₹5,500–7,500 one way for a sedan, more via Dalhousie and for an SUV. Agree stops and price before you start."
+   }
+  ]
+ }
+]

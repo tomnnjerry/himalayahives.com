@@ -1,0 +1,42 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{% if ok %}You are on the list{% else %}Please check your email address{% endif %} · The Hive letter · Himalaya Hives{% endblock %}
+{% block description %}The Hive letter: one email a month on which valley is at its best, roads that opened, festival dates and the month's cheapest trips.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
+{% block content %}
+{% if ok %}
+{% include "hives/partials/phead.html" with seed="letter" eyebrow="The Hive letter" title="You are on the list" lede="One email a month: which valley is at its best, roads that opened, festival dates and the month's cheapest trips. Every email has a one-click unsubscribe link." %}
+{% else %}
+{% include "hives/partials/phead.html" with seed="letter" eyebrow="The Hive letter" title="That did not go through" lede="The email address looks incomplete. Please try again below." %}
+{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap grid grid--2" style="align-items:start">
+    {% if ok %}
+    <div class="panel">
+      <h2>While you are here</h2>
+      <div class="ledger">
+        <a class="ledger__row" href="{% url 'seasons' %}"><span>Which hive in which month</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+        <a class="ledger__row" href="{% url 'affordable' %}"><span>The affordable Himalaya</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+        <a class="ledger__row" href="{% url 'festivals' %}"><span>Festival calendar</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+        <a class="ledger__row" href="{% url 'journal' %}"><span>The Journal</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+      </div>
+    </div>
+    {% else %}
+    <form class="qform" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter-retry">
+      {% csrf_token %}
+      <h3>Join the Hive letter</h3>
+      <p class="small" style="opacity:.8">One email a month. Nothing you did not ask for.</p>
+      <input type="hidden" name="source_page" value="{{ request.path }}">
+      <input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="field"><label for="sub-email">Email</label><input id="sub-email" name="email" type="email" required autocomplete="email"></div>
+      <button class="btn btn--foil btn--block" type="submit" data-cta="newsletter-retry">Subscribe</button>
+    </form>
+    {% endif %}
+    <div class="panel panel--line">
+      <h3>Planning a trip now?</h3>
+      <p class="small" style="margin:0 0 14px">Skip the wait for the letter. Tell us the valley, the month and the budget, and a planner replies within one working day.</p>
+      <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="subscribed-plan">Plan my trip</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

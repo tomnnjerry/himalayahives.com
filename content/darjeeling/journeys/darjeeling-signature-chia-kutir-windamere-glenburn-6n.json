@@ -1,0 +1,187 @@
+{
+ "slug": "darjeeling-signature-chia-kutir-windamere-glenburn-6n",
+ "title": "Taj Chia Kutir, Windamere and Glenburn",
+ "region": "darjeeling",
+ "tier": "signature",
+ "nights": 6,
+ "themes": [
+  "food-and-tea",
+  "honeymoons",
+  "photography",
+  "wellness-and-yoga"
+ ],
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "darjeeling",
+   "nights": 4
+  }
+ ],
+ "start": "Bagdogra Airport (IXB)",
+ "end": "Bagdogra Airport (IXB)",
+ "price_from_inr": 120000,
+ "price_note": "Per person, twin sharing: 2 nights at Taj Chia Kutir, 2 at Windamere and 2 all-inclusive at Glenburn Tea Estate, private car and driver, private guide in Darjeeling, steam joy ride and tastings; flights extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Luxury Darjeeling tea journey, 6 nights: Taj Chia Kutir in Makaibari, Windamere on Observatory Hill and Glenburn's planter's bungalows, from ₹1,20,000.",
+ "summary": "The three finest stays in the Darjeeling hills in one six-night journey. Two nights at Taj Chia Kutir inside the Makaibari estate, two at Windamere on Observatory Hill with fireplaces and afternoon tea, and two all-inclusive nights in Glenburn's planter's bungalows above the Rangeet. Private car, private guide and plenty of tea.",
+ "intro": [
+  "We built this journey around tea and three very different hotels. Taj Chia Kutir is the modern one, a resort set within the Makaibari tea estate near Kurseong, with a spa, an indoor heated pool and tea trails from the door. Windamere is the old one, in an 1841 house on Observatory Hill above Chowrasta, still serving afternoon tea and lighting fires in the rooms.",
+  "Glenburn is the one people remember. Two planter's bungalows inside a working estate founded in 1859, on slopes above the Rangeet, with all meals, estate walks and a river picnic included. Between them, your private guide takes you to Tiger Hill, the steam toy train, Ghum and the Darjeeling bazaars, and the car does the driving."
+ ],
+ "highlights": [
+  "Tea trails through Makaibari from Taj Chia Kutir",
+  "The steam toy train joy ride to Ghum and the Batasia Loop",
+  "Afternoon tea and fireplaces at Windamere on Observatory Hill",
+  "Tiger Hill at sunrise with a private guide",
+  "Two all-inclusive nights in Glenburn's planter's bungalows"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Taj Chia Kutir",
+   "place": "kurseong",
+   "overnight": "Taj Chia Kutir, Kurseong",
+   "drive": "≈ 50 km · 1.5–2 h",
+   "text": "Your driver meets you at Bagdogra and drives up to Kurseong, about 1.5–2 hours. Check in to Taj Chia Kutir within the Makaibari estate. Spend the afternoon at the spa or pool, or walk the tea trails around the resort, then watch the lights of the plains come on from the terrace.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Makaibari and Kurseong",
+   "place": "kurseong",
+   "overnight": "Taj Chia Kutir, Kurseong",
+   "drive": "Local",
+   "text": "Morning tea walk through the Makaibari gardens and, in plucking season, a visit to see how leaf becomes tea, followed by a tasting. In the afternoon your guide takes you to the Netaji museum at Giddapahar and the old Kurseong station on the toy train line, or simply back to the spa.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Hill Cart Road to Windamere",
+   "place": "darjeeling",
+   "overnight": "Windamere Hotel, Darjeeling",
+   "drive": "≈ 30 km · 1.25 h",
+   "text": "Drive up through Tung, Sonada and Ghum beside the railway. Visit Ghum Monastery and the Batasia Loop with your guide, then check in to Windamere on Observatory Hill. Afternoon tea in the hotel, then a walk with your guide along the Mall, Chowrasta and the Mahakal temple on Observatory Hill.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tiger Hill and the steam train",
+   "place": "darjeeling",
+   "overnight": "Windamere Hotel, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Pre-dawn drive to Tiger Hill for sunrise on Kangchenjunga, booked in the best available viewing area. After breakfast, the steam toy train joy ride to Ghum and back. Afternoon at the Himalayan Mountaineering Institute and zoo, or the Tibetan Refugee Self Help Centre for carpets and crafts. Dinner by the fire.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Down to Glenburn",
+   "place": "darjeeling",
+   "overnight": "Glenburn Tea Estate, Burra or Water Lily Bungalow",
+   "drive": "≈ 1.5 h",
+   "text": "Leave Darjeeling for Glenburn, about 1.5 hours down towards the Rangeet. Check in to one of the two planter's bungalows and settle into the estate's rhythm: lunch on the verandah, a walk through the gardens with an estate guide, and tea from Glenburn's own leaf at sunset with Kangchenjunga to the north on clear days.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Glenburn estate and the river",
+   "place": "darjeeling",
+   "overnight": "Glenburn Tea Estate, Burra or Water Lily Bungalow",
+   "drive": "Local",
+   "text": "A full day on the estate. Walk down through the gardens and forest towards the river for a picnic lunch, or spend the morning learning about plucking and processing in season. Afternoon free on the lawns or in the library. Glenburn includes all meals and most estate activities.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Glenburn to Bagdogra",
+   "place": "darjeeling",
+   "overnight": "",
+   "drive": "≈ 3.5–4 h",
+   "text": "A last walk in the gardens and breakfast on the verandah, then the drive back to Bagdogra, about 3.5–4 hours. We time departure with a buffer for traffic and the airport.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "taj-chia-kutir-kurseong",
+  "windamere-hotel-darjeeling",
+  "glenburn-tea-estate-bungalows"
+ ],
+ "includes": [
+  "2 nights at Taj Chia Kutir and 2 at Windamere with breakfast and dinner",
+  "2 nights at Glenburn Tea Estate on its all-inclusive plan",
+  "Private SUV with driver from Bagdogra and back",
+  "Private English or Hindi speaking guide in Kurseong and Darjeeling",
+  "Steam toy train joy ride",
+  "Tea tastings, Tiger Hill and museum entries"
+ ],
+ "excludes": [
+  "Flights to and from Bagdogra",
+  "Spa treatments",
+  "Lunches outside Glenburn",
+  "Alcohol beyond what the hotels include",
+  "Tips"
+ ],
+ "good_to_know": [
+  "All stays are below 2,100 m; altitude is not an issue.",
+  "Glenburn has only two bungalows and books out months ahead for October, November and spring; confirm early.",
+  "The roads to Glenburn are narrow and steep in the last stretch; the hotel advises on transfers.",
+  "Windamere's rooms are old-style and individual; we request the room type you prefer.",
+  "In plucking season, March to November, estate factory visits are most rewarding."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a luxury Darjeeling tea journey cost?",
+   "a": "This six-night journey starts at about ₹1,20,000 per person, twin sharing, with Taj Chia Kutir, Windamere and two all-inclusive nights at Glenburn, a private SUV, private guide and the steam train. Flights are extra. Prices are indicative 2026 and rise in October and spring."
+  },
+  {
+   "q": "What is Glenburn Tea Estate like?",
+   "a": "It is a working estate founded in 1859 with two planter's bungalows, Burra Bungalow and Water Lily Bungalow, on slopes above the Rangeet river about 1.5 hours from Darjeeling. Stays are all-inclusive, with meals, estate walks and a river picnic. Rooms are few, so it is quiet and private."
+  },
+  {
+   "q": "Which is better, Taj Chia Kutir or Windamere?",
+   "a": "They are different. Taj Chia Kutir is a modern resort with a spa and heated pool inside the Makaibari estate near Kurseong. Windamere is a colonial hotel in the centre of Darjeeling with fireplaces and afternoon tea. This journey uses both, so you get the countryside and the town."
+  },
+  {
+   "q": "When is the best time for this journey?",
+   "a": "October and November for clear views and autumn tea, and March to May for first flush and spring flowers. December to February is cold and clear, with fires in the rooms. July and August are very wet; we do not recommend them."
+  },
+  {
+   "q": "Is this trip suitable for a honeymoon?",
+   "a": "Yes, it is one of our favourite honeymoon routes in the Himalaya. Short drives, private bungalows at Glenburn, the spa at Taj Chia Kutir and the fireplaces at Windamere give couples time alone, with the guide available only when you want one."
+  },
+  {
+   "q": "Do we need to worry about altitude?",
+   "a": "No. Kurseong is about 1,482 m and Darjeeling about 2,045 m, both below the height where altitude sickness is common. Darjeeling's streets are steep, so take it easy on the first walk."
+  },
+  {
+   "q": "Can we add Sandakphu or Kalimpong?",
+   "a": "Yes. Add two nights at Sandakphu by Land Rover for Everest views, keeping a night in Darjeeling before you go up, or two nights in Kalimpong for its monasteries and nurseries. We adjust the private car and guide."
+  },
+  {
+   "q": "Is the toy train ride included?",
+   "a": "Yes, the two-hour steam joy ride from Darjeeling to Ghum and back via the Batasia Loop. We book it when you confirm. Steam services sometimes switch to diesel at short notice; check current status before you travel."
+  },
+  {
+   "q": "How do we reach Darjeeling from Delhi or Mumbai?",
+   "a": "Fly to Bagdogra, which has direct flights from Delhi, Mumbai, Kolkata, Bengaluru and other cities. The private car meets you at arrivals for the 1.5–2 hour drive to Taj Chia Kutir."
+  }
+ ]
+}

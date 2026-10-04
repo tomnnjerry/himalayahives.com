@@ -1,0 +1,232 @@
+{
+ "slug": "ladakh-comfort-zanskar-road-trip-10n",
+ "title": "Leh to Zanskar and out to Srinagar by car",
+ "region": "ladakh",
+ "tier": "comfort",
+ "nights": 10,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "treks-and-walks",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "leh",
+   "nights": 3
+  },
+  {
+   "place": "alchi",
+   "nights": 1
+  },
+  {
+   "place": "kargil",
+   "nights": 1
+  },
+  {
+   "place": "zanskar",
+   "nights": 4
+  },
+  {
+   "place": "kargil",
+   "nights": 1
+  }
+ ],
+ "start": "Leh airport",
+ "end": "Srinagar (hotel or airport)",
+ "price_from_inr": 98000,
+ "price_note": "Per person, twin sharing: 10 nights in the best available hotels and guesthouses with attached bathrooms, breakfast and dinner, private SUV with driver Leh to Srinagar, local guide in Zanskar, fees and entries; flights extra.",
+ "transport": "Private SUV with driver; local car in Padum where required",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Comfort Zanskar road trip, 10 nights: rest in Leh, Alchi, Lamayuru and Kargil, Pensi La to Padum for Karsha and Phugtal, out via Zoji La. From ₹98,000 pp.",
+ "summary": "Ten nights from Leh to Srinagar the long way round, through Zanskar. Three gentle nights in Leh, Alchi and Lamayuru on the way to Kargil, then the Suru valley, Rangdum and Pensi La to Padum for Karsha, Stongde and the walk to Phugtal. Out via Zoji La to Srinagar.",
+ "intro": [
+  "Zanskar takes effort, and that is why it is still quiet. From Kargil it is a full day over Pensi La to Padum, and most of the valley's monasteries and villages are reached on rough side roads. This trip gives it the time it needs: a night at Rangdum on the way in, three nights in Padum, and a long, unhurried drive back out. You travel in a private SUV with an experienced driver, and stay in the best rooms available, which in Zanskar means clean, simple hotels and guesthouses.",
+  "We fly you into Leh and keep you there three nights for acclimatisation, then work west along the Indus: Alchi's painted temples, Lamayuru, and down to Kargil at 2,676 m. That lower night helps before Rangdum and Padum, both around 3,650 m. The trip ends in Srinagar, so you see the whole sweep of Ladakh from the Indus to Zoji La."
+ ],
+ "highlights": [
+  "Rest days in Leh, then Alchi's 12th-century murals",
+  "Lamayuru's gompa above the moonland",
+  "Rangdum's monastery alone on its plain",
+  "Pensi La and the Drang Drung glacier",
+  "Karsha above Padum and the walk to cave-built Phugtal"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Leh and rest",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 6 km",
+   "text": "Your driver meets you at the airport and drives you to a garden hotel in Changspa. The rest of the day is for doing nothing: water, light food, no alcohol, no stairs. A gentle walk in the lanes in late afternoon if you feel fine. Your driver and SUV stay with you for the whole trip, through to Srinagar.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Old Leh and Shanti Stupa",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 10 km",
+   "text": "Late breakfast, then a slow walk through the old town to Leh Palace, taking the stairs at your own pace. Lunch in Changspa and rest. In the evening drive to Shanti Stupa for sunset. We go through the plan for Zanskar, including what to pack in the car for long days: water, snacks, warm layers and cash, since Padum's ATM is unreliable.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Thiksey and Hemis",
+   "place": "leh",
+   "overnight": "Hotel Omasila, Changspa",
+   "drive": "≈ 100 km round trip · 3 h",
+   "text": "An early start for Thiksey's morning prayers, then Shey and Hemis with its museum. Back to Leh for lunch and a quiet afternoon. This third night at Leh's height finishes your acclimatisation before the long drives west and south. Your driver checks the latest reports on Pensi La and the Kargil–Padum road.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Likir and Alchi",
+   "place": "alchi",
+   "overnight": "Alchi guesthouse or small hotel",
+   "drive": "≈ 70 km · 2 h plus visits",
+   "text": "Drive west along the Indus, stopping at the Indus–Zanskar confluence near Nimmu, then Likir Monastery with its gilded Maitreya. Continue to Alchi, about 3,100 m, and check into a garden guesthouse. Visit the Sumtsek and Dukhang in the afternoon light, with a local guide to point out the Kashmiri-style paintings. Photography is not allowed inside.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Lamayuru and Mulbekh to Kargil",
+   "place": "kargil",
+   "overnight": "Kargil hotel",
+   "drive": "≈ 155 km · 5 h plus visits",
+   "text": "Drive to Lamayuru, about 1.5 hours, for its monastery and the moonland views. Continue over Fotu La, at 4,108 m the highest point on the highway, and Namika La to Mulbekh's 9 m rock-cut Maitreya. Drop to Kargil, at 2,676 m, the lowest night of the trip. Walk the bazaar in the evening for dried apricots.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Suru valley to Rangdum",
+   "place": "zanskar",
+   "overnight": "Rangdum guesthouse or camp",
+   "drive": "≈ 130 km · 5–6 h",
+   "text": "Leave Kargil at 7 am and follow the Suru river south through Sankoo and Panikhar, with views of Nun and Kun, both over 7,000 m. Beyond Parkachik the valley empties into the wide Rangdum plain. Visit Rangdum's monastery on its hillock in the late afternoon. Rooms here are simple guesthouses or camps; it is cold at night, and the stop breaks the long road into two kinder days.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Pensi La to Padum",
+   "place": "zanskar",
+   "overnight": "Padum hotel",
+   "drive": "≈ 105 km · 4–5 h",
+   "text": "Cross Pensi La, about 4,400 m, in the morning when views are clearest, and stop at the viewpoint above the Drang Drung glacier. Follow the Stod river down past villages and fields to Padum, the valley's main town at about 3,650 m. Check into the best available hotel with attached bathroom, and rest. Your local Zanskar guide joins you this evening to plan the next two days.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Karsha, Stongde and Zangla",
+   "place": "zanskar",
+   "overnight": "Padum hotel",
+   "drive": "≈ 80 km round trip · 4 h plus visits",
+   "text": "Morning at Karsha, Zanskar's largest monastery, climbing slowly through the white buildings on their cliff. After lunch in Padum, drive south-east to Stongde's monastery on its ridge and on to Zangla, with its old palace ruins and nunnery. Return to Padum by late afternoon. Walk slowly at every stop; you are at about 3,600 m.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "The walk to Phugtal",
+   "place": "zanskar",
+   "overnight": "Padum hotel",
+   "drive": "Drive ≈ 2–3 h each way plus walking",
+   "text": "A long day. Drive up the Lungnak valley to the road end, then walk with your guide along the gorge to Phugtal, the monastery built around a cave high on a cliff. The walk is a few hours each way on a mostly gentle path, depending on how far the road reaches this season. Sit quietly in the cave temple before returning to Padum. If you prefer, spend this day in villages near Padum instead.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Padum back to Kargil",
+   "place": "kargil",
+   "overnight": "Kargil hotel",
+   "drive": "≈ 235 km · 10–11 h",
+   "text": "Leave Padum at dawn for the long drive back over Pensi La and down the Suru valley. Your driver will stop at Rangdum for tea and at Panikhar for lunch. This is the hardest road day, so carry food and water and rest in the car. Reach Kargil by evening and have an early dinner. If you prefer, we can split this into two days with another night at Rangdum.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 11,
+   "title": "Over Zoji La to Srinagar",
+   "place": "kargil",
+   "overnight": "",
+   "drive": "≈ 204 km · 6–7 h",
+   "text": "Leave Kargil early to cross Zoji La in the morning. You pass Drass and the war memorial, then climb to the pass and drop to Sonamarg's meadows and pine forest. Continue down the Sindh valley to Srinagar, where your driver drops you at your hotel or the airport. If flying out, plan an evening flight or stay a night in Srinagar.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-omasila-leh"
+ ],
+ "includes": [
+  "10 nights in hotels, guesthouses and camps with attached bathrooms where available",
+  "Breakfast and dinner daily",
+  "Private SUV with driver from Leh to Srinagar",
+  "Local guide in Zanskar for three days",
+  "Monastery entries, museum fees and environment fee where needed"
+ ],
+ "excludes": [
+  "Flights to Leh and from Srinagar",
+  "Lunches",
+  "Ponies and porters for the Phugtal walk",
+  "Travel insurance and medical costs",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Acclimatisation: three nights in Leh at 3,500 m before any long drive, then a lower night in Kargil before Rangdum and Padum at about 3,650 m. Talk to your doctor before travel if you have heart or lung conditions.",
+  "Zanskar rooms are simple even at the comfort level; hot water and power may be limited.",
+  "Mobile coverage in Zanskar is poor; expect to be mostly out of contact for four days.",
+  "Pensi La and Zoji La opening dates change every year; check current status before you travel.",
+  "The Kargil–Padum road is long and rough; we can add a night at Rangdum on the way out at extra cost."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this Zanskar comfort trip cost?",
+   "a": "We price it from about ₹98,000 per person, twin sharing, for 10 nights with rooms, breakfast and dinner, a private SUV and driver from Leh to Srinagar, a local Zanskar guide, fees and entries. Flights are extra. A one-way car to Srinagar costs more than a loop from Leh, which is reflected in the price."
+  },
+  {
+   "q": "Is Zanskar worth the long drive?",
+   "a": "Yes, if you enjoy road journeys and quiet places. Karsha, Phugtal and the Padum plain feel very different from the busy Leh–Nubra–Pangong circuit, and you will meet few other travellers. If long rough drives make you unwell, Nubra and the Sham valley may suit you better."
+  },
+  {
+   "q": "What are hotels like in Padum?",
+   "a": "Padum has simple hotels and guesthouses with attached bathrooms, hot water at set times and limited power. They are clean and warm with good bedding but not luxurious. Rangdum has basic guesthouses and camps. We choose the best available rooms for each night."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "July to September. Pensi La is reliably open, the Phugtal walk is easy, and villages are busy with farming. June can still have snow on Pensi La and early-season closures. By October nights are very cold and passes can close. Check current status before you travel."
+  },
+  {
+   "q": "Is the walk to Phugtal difficult?",
+   "a": "It is a moderate walk of a few hours each way on a mostly gentle path, with a steep final climb to the cave. You are at about 3,850 m, so walk slowly. If you have mobility issues, skip it; a day visiting villages near Padum is a fine alternative."
+  },
+  {
+   "q": "Can we do this trip starting from Srinagar instead?",
+   "a": "Yes. Starting from Srinagar gives gentler acclimatisation: Kargil, Rangdum and Padum first, ending in Leh. We would then add Alchi and Lamayuru at the end and fly out of Leh. Ask us and we will reverse the days."
+  },
+  {
+   "q": "Do we need permits for Zanskar?",
+   "a": "No Inner Line Permit or Protected Area Permit is needed for Kargil, Zanskar or the Srinagar highway. Carry photo ID and copies for checkposts. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "Is there an ATM in Zanskar?",
+   "a": "Padum has an ATM, but it often runs out or goes offline. Carry enough cash from Leh or Kargil for donations, tips, snacks and any extras for four days. Card and UPI payments are rarely possible in Zanskar."
+  },
+  {
+   "q": "Is this trip suitable for children?",
+   "a": "Older children who handle long car journeys can enjoy it, especially Karsha and the Drang Drung glacier. The 10–11 hour road days are hard for young children. We can add a second Rangdum night each way to shorten drives."
+  }
+ ]
+}

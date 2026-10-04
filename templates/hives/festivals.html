@@ -1,0 +1,48 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya festival calendar · {{ count }} festivals month by month · Himalaya Hives{% endblock %}
+{% block description %}Himalaya festivals month by month: monastery cham dances, tsechus, melas and harvest days from Kashmir to Arunachal, with when they fall and how to plan a trip around them.{% endblock %}
+{% block og_title %}Himalaya festival calendar{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="festivals" eyebrow="Festivals" title="Dates to plan around" lede="Masked dances in monastery courtyards, flower seasons, melas and harvest days, month by month." answer="Many Himalayan festivals follow the lunar calendar, so their dates move each year. We list the usual month and the rule behind the date. Check current status before you travel, and book early: rooms near the big festivals fill months ahead." %}
+
+<section class="sec">
+  <div class="wrap">
+    {% if count %}
+    <nav class="months" aria-label="Jump to a month" style="margin-bottom:clamp(36px,5vw,56px)">{% for m in by_month %}{% if m.festivals %}<a class="month" href="#{{ m.name|lower }}" data-v="2"><b>{{ m.name|slice:":3" }}</b><em>{{ m.festivals|length }} festival{{ m.festivals|length|pluralize }}</em></a>{% else %}<span class="month" data-v="0" aria-disabled="true"><b>{{ m.name|slice:":3" }}</b><em style="color:var(--muted)">None listed</em></span>{% endif %}{% endfor %}</nav>
+    {% for m in by_month %}{% if m.festivals %}<div id="{{ m.name|lower }}" style="margin-bottom:clamp(40px,5vw,64px);scroll-margin-top:100px">
+      <div class="sec-head"><div><p class="eyebrow">{{ m.festivals|length }} festival{{ m.festivals|length|pluralize }}</p><h2 class="d-2">{{ m.name }}</h2></div></div>
+      <div class="grid grid--3">{% for f in m.festivals %}<a class="cell" href="{{ f.url }}" data-land="{{ f.region }}">
+        <div class="cell__ph">{% with img=f|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 980px) 100vw, 33vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+          <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "festival" %}</span></div>
+        <div class="cell__body">
+          <span class="readout">{{ f.region_obj.name }}{% if f.place_obj %} · {{ f.place_obj.name }}{% endif %}</span>
+          <h3 class="cell__title">{{ f.name }}</h3>
+          <p class="cell__text">{{ f.summary|truncatechars:120 }}</p>
+          <div class="cell__foot"><span class="readout">{{ f.when|truncatechars:70 }}</span></div>
+        </div>
+      </a>{% endfor %}</div>
+    </div>{% endif %}{% endfor %}
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>The calendar is being filled in</h2><p>Tell us the festival you want to see and a planner will send the expected dates and a route around them.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask a planner</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Plan around a festival</p><h2 class="d-2" style="margin-bottom:16px">How we do it</h2>
+      <div class="prose" style="font-size:17px"><ul>
+        <li>We check the dates once the monastery or organisers announce them, often only weeks ahead for lunar dates.</li>
+        <li>We book rooms near the venue early and keep a spare night in case the date shifts by a day.</li>
+        <li>We brief you on photography and dress rules, which are stricter in monastery courtyards during rituals.</li>
+      </ul></div>
+    </div>
+    <div>
+      <p class="eyebrow">Festival trips</p><h2 class="d-2" style="margin-bottom:16px">Trips built around the dates</h2>
+      <p class="muted">Some of our trips are timed to a festival. See them all, or tell us the one you want.</p>
+      <div class="chips"><a class="chip" href="{% url 'theme' 'festivals' %}">{% icon "festival" %}Festival trips</a><a class="chip" href="{% url 'seasons' %}">{% icon "calendar" %}Season almanac</a><a class="chip" href="{% url 'plan' %}?from={{ request.path|urlencode }}">{% icon "chat" %}Ask a planner</a></div>
+    </div>
+  </div>
+</section>
+{% endblock %}

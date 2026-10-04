@@ -1,0 +1,186 @@
+{
+ "slug": "arunachal-saver-tawang-circuit-6n",
+ "title": "Tawang circuit by shared Sumo",
+ "region": "arunachal",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "homestays-and-villages",
+  "snow-and-winter"
+ ],
+ "stops": [
+  {
+   "place": "dirang",
+   "nights": 2
+  },
+  {
+   "place": "tawang",
+   "nights": 3
+  },
+  {
+   "place": "bomdila",
+   "nights": 1
+  }
+ ],
+ "start": "Tezpur (Sumo stand near the bus station)",
+ "end": "Tezpur or Guwahati",
+ "price_from_inr": 18500,
+ "price_note": "Per person, twin sharing: 6 nights in homestays and simple guesthouses with dinner and breakfast, shared Sumo seats on every leg, a shared taxi for the Tawang lakes day and e-ILP fee; travel to Tezpur extra.",
+ "transport": "Shared Sumos, with one shared taxi day in Tawang",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Saver Tawang trip, 6 nights: Dirang, Sela Pass, Tawang Monastery and Bomdila by shared Sumo with Monpa homestays, from ₹18,500 per person.",
+ "summary": "Six nights on the classic western Arunachal circuit by shared Sumo: two nights in the Dirang valley to acclimatise, the crossing of Sela, three nights in Tawang for the monastery and the high lakes, and a last night in Bomdila. Homestays, home food and honest prices.",
+ "intro": [
+  "This is the Tawang trip most Indian travellers can afford, and it works well if you are happy on shared transport. From Tezpur, a Sumo climbs past the Bhalukpong check gate and Bomdila to Dirang, where we stay two nights in a Monpa homestay. The second night matters: it lets your body adjust before Sela Pass at about 4,170 m and Tawang at about 2,670 m.",
+  "Sumos do not stop for sightseeing, so on the Dirang–Tawang day you will see Sela from the window or during a short tea stop. In Tawang, we join other travellers from the homestay to share a taxi for the high lakes, which keeps the cost down. Rooms are simple and nights are cold; bathrooms are sometimes shared and hot water may come by the bucket."
+ ],
+ "highlights": [
+  "Two nights in a Monpa homestay in the Dirang valley",
+  "Crossing Sela at about 4,170 m on the road to Tawang",
+  "Morning prayers at Tawang Monastery, founded in 1680–81",
+  "A shared-taxi day to the high lakes beyond Tawang",
+  "Bomdila's monastery and market on the way down"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Tezpur to Dirang by Sumo",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 200 km · 7–8 h",
+   "text": "Be at the Tezpur Sumo stand by 6 am with your e-ILP printout and ID. The Sumo crosses the tea gardens of Balipara, stops at the Bhalukpong check gate, then climbs through Tenga and Bomdila before dropping into the Dirang valley. Seats cost about ₹700–1,000. Tell the driver where your homestay is; most will drop you on the highway nearby. Dinner with your hosts, early night.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Dirang Dzong and the hot springs",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "Local, on foot or shared jeep",
+   "text": "A slow day to acclimatise at about 1,600 m. Walk or take a local jeep to Dirang Dzong, the old stone village with its fortified houses, then to the hot springs by the river. In the afternoon, walk along the valley through kiwi and apple orchards, or visit the yak research centre if it is open to visitors. Book your Sumo seat to Tawang for the next morning.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 3,
+   "title": "Over Sela to Tawang",
+   "place": "sela-pass",
+   "overnight": "Tawang",
+   "drive": "≈ 140 km · 5–6 h",
+   "text": "The Tawang Sumo leaves Dirang early. The road climbs through Baisakhi to Sela, where most Sumos now use the tunnel, opened in 2024, though some stop for tea near the pass. Watch for the frozen lake in winter. Beyond, the road descends past Jaswantgarh and Jang to Tawang. Seats cost about ₹500–800. Take it easy on arrival, drink water and avoid alcohol tonight.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tawang Monastery and the old town",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "Local, on foot",
+   "text": "Walk up to Tawang Monastery for morning prayers, when monks chant in the assembly hall and butter lamps burn. Visit the museum and library, where gold-lettered scriptures are kept. In the afternoon, walk down through town to the Tawang War Memorial and the market. Ask your host about the shared taxi to the high lakes tomorrow and confirm the plan.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 5,
+   "title": "The high lakes by shared taxi",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 80–100 km round trip · full day",
+   "text": "Share a reserved taxi with other travellers to the high lakes beyond Tawang; a vehicle costs about ₹5,500–8,000 for the day, split between all passengers. The road climbs above 4,000 m to Pangang Teng Tso and on towards Sangetsar, often called Madhuri Lake. Access depends on weather, permits and Army rules, so the itinerary is set on the day. Carry warm layers, water and snacks.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 6,
+   "title": "Tawang to Bomdila",
+   "place": "bomdila",
+   "overnight": "Bomdila",
+   "drive": "≈ 180 km · 6–7 h",
+   "text": "Take the morning Sumo south over Sela or through the tunnel and back past Dirang to Bomdila. Seats cost about ₹700–1,000. In the late afternoon, walk up to Bomdila Monastery above town and through the market, where Monpa carpets and woollens are sold. Bomdila is cold at night, so check your room has enough blankets.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 7,
+   "title": "Down to Tezpur or Guwahati",
+   "place": "bomdila",
+   "overnight": "",
+   "drive": "≈ 160 km · 5–6 h to Tezpur",
+   "text": "Catch an early Sumo to Tezpur, about ₹500–700, or to Guwahati, about ₹1,000–1,400 and 9–10 hours. The road drops through Tenga and past the Bhalukpong gate to the plains. If you have a train or flight, book it for the following day or late evening; delays on this road are common.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [],
+ "includes": [
+  "6 nights in Monpa homestays and simple guesthouses, twin sharing",
+  "Dinner and breakfast in Dirang, Tawang and Bomdila",
+  "Shared Sumo seats Tezpur–Dirang–Tawang–Bomdila–Tezpur",
+  "Your share of a reserved taxi for the high lakes day",
+  "Tourist e-ILP fee"
+ ],
+ "excludes": [
+  "Travel to and from Tezpur or Guwahati",
+  "Lunches and snacks",
+  "Monastery museum and camera fees",
+  "Any extra permits, such as for Bum La",
+  "Private taxis for sightseeing beyond the plan"
+ ],
+ "good_to_know": [
+  "Two nights in Dirang before Tawang are for acclimatisation; Sela is about 4,170 m and the high lakes above 4,000 m. Drink water, skip alcohol early on and talk to your doctor if you have heart or lung conditions.",
+  "Rooms are simple; some have shared bathrooms and bucket hot water, and nights in Tawang fall below freezing from November to March.",
+  "Sumos leave early and do not stop for sightseeing; book seats the evening before at the counters.",
+  "Your e-ILP must list West Kameng and Tawang districts. Check current status before you travel.",
+  "Access to the high lakes and Bum La depends on weather, Army rules and extra permits."
+ ],
+ "faqs": [
+  {
+   "q": "Is ₹18,500 per person realistic for 6 nights in Tawang?",
+   "a": "Yes, for twin sharing with homestays, shared Sumos and a shared taxi for the lakes, outside peak October and May dates. It covers rooms with dinner and breakfast, transport and the e-ILP. Add travel to Tezpur, lunches of ₹150–300 a day and any monastery fees."
+  },
+  {
+   "q": "Can I do the Tawang trip by public transport?",
+   "a": "Yes. Shared Sumos link Tezpur and Guwahati with Bomdila, Dirang and Tawang daily, and APSTS buses run on some days. Book seats the evening before. The only day you need a reserved vehicle is the high lakes trip, which you can share with other travellers."
+  },
+  {
+   "q": "Will I see Sela Pass from a shared Sumo?",
+   "a": "You will pass through or under it. Since the tunnel opened in 2024, many Sumos use it and may not stop at the lake. If you want time at Sela, consider a shared taxi for that leg or visit on the high lakes day."
+  },
+  {
+   "q": "Do I need a permit for this trip?",
+   "a": "Yes. Indian visitors need an Inner Line Permit listing West Kameng and Tawang districts, usually applied for online. Foreigners need a Protected Area Permit through a registered operator. Check current status before you travel."
+  },
+  {
+   "q": "Is this trip possible in winter?",
+   "a": "Yes, from December to February, with snow at Sela and freezing nights in Tawang. Roads usually stay open thanks to the tunnel, but delays happen. Bring proper winter clothing and check heating in your rooms."
+  },
+  {
+   "q": "Will I get altitude sickness?",
+   "a": "Some people get headaches at Sela and the high lakes, above 4,000 m. Sleeping in Dirang at about 1,600 m before Tawang helps. Drink water, rest on arrival and go down if symptoms get worse."
+  },
+  {
+   "q": "Is this trip safe for solo women?",
+   "a": "Yes, many solo women travel this route by Sumo and stay in homestays. Book the front seat where possible, reach your stay before dark and share your plans with your host."
+  },
+  {
+   "q": "Can I add Bum La to this trip?",
+   "a": "Bum La needs extra permission from the authorities in Tawang and a reserved vehicle, and access is not always granted. If you want it, add a day and ask your homestay host to help with the process."
+  },
+  {
+   "q": "What should I pack?",
+   "a": "Warm layers including a down jacket, thermals, gloves and a hat for Tawang; a rain jacket; motion-sickness remedies for the winding roads; a power bank and headtorch; printouts of your permit and ID; and cash, as cards are not accepted everywhere."
+  }
+ ]
+}

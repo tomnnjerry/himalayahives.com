@@ -1,0 +1,266 @@
+[
+ {
+  "slug": "bhalukpong-to-bomdila",
+  "from": "bhalukpong",
+  "to": "bomdila",
+  "distance_km": 100,
+  "summary": "The first climb into western Arunachal: from the Kameng at about 200 m through Tippi and Tenga to Bomdila at about 2,400 m. Around 100 km and 4 hours, with the forest and air changing fast.",
+  "options": [
+   {
+    "mode": "Shared Sumo",
+    "time": "4–4.5 h",
+    "cost": "₹400–600 a seat",
+    "text": "Sumos from Tezpur and Guwahati to Bomdila, Dirang and Tawang pass through Bhalukpong, and seats are sometimes available at the check gate. To be sure of a seat, book from Tezpur and ride through. Sit at a window if you get motion sick; the road winds steadily."
+   },
+   {
+    "mode": "APSTS bus",
+    "time": "4.5–5 h",
+    "cost": "₹250–400",
+    "text": "Arunachal Pradesh State Transport buses run between Tezpur and Bomdila or Tawang on set days. They are cheap but slow and infrequent. Ask at the Tezpur bus stand or Bhalukpong for the schedule; check current status before you travel."
+   },
+   {
+    "mode": "Private car",
+    "time": "3.5–4 h",
+    "cost": "₹4,000–6,000 one way",
+    "text": "A taxi or private SUV lets you stop at the Tipi orchid centre and viewpoints above Tenga. Most travellers include this leg in a multi-day hire from Tezpur or Guwahati rather than booking it alone."
+   }
+  ],
+  "stops_on_way": [
+   "Orchid Research Centre, Tipi",
+   "Kameng river viewpoints",
+   "Tenga valley",
+   "Rupa turn-off"
+  ],
+  "road_status": "Open all year; landslides and road works are common in the monsoon, and fog in winter mornings. Check current status before you travel.",
+  "tip": "Leave Bhalukpong by 8 am so that you reach Bomdila before the afternoon cloud.",
+  "faqs": [
+   {
+    "q": "How long is the drive from Bhalukpong to Bomdila?",
+    "a": "About 100 km and 3.5–4.5 hours, depending on road works and weather. The climb is steady, from about 200 m to about 2,400 m."
+   },
+   {
+    "q": "Is there a bus from Bhalukpong to Bomdila?",
+    "a": "APSTS buses run between Tezpur and Bomdila or Tawang on some days, passing Bhalukpong. Shared Sumos are more frequent. Check schedules locally."
+   },
+   {
+    "q": "Where is the permit checked on this route?",
+    "a": "At the Bhalukpong check gate, before the climb. Keep your Inner Line Permit or Protected Area Permit and ID ready."
+   },
+   {
+    "q": "Is the Bhalukpong–Bomdila road safe?",
+    "a": "Yes, with a careful driver. It is a busy, well-used road with bends, fog in winter and landslide risk in the monsoon. Avoid driving it after dark."
+   }
+  ]
+ },
+ {
+  "slug": "bomdila-to-dirang",
+  "from": "bomdila",
+  "to": "dirang",
+  "distance_km": 42,
+  "summary": "A short drive down from Bomdila's ridge to the warmer Dirang valley, about 42 km and 1.5 hours, past apple and kiwi orchards and the road to Sangti.",
+  "options": [
+   {
+    "mode": "Shared Sumo",
+    "time": "1.5–2 h",
+    "cost": "₹200–350 a seat",
+    "text": "Sumos bound for Dirang and Tawang leave Bomdila in the morning, and you can buy a seat to Dirang. In peak season, seats on Tawang-bound Sumos may be sold only for the full journey; local Bomdila–Dirang vehicles also run."
+   },
+   {
+    "mode": "Local taxi",
+    "time": "1.25–1.5 h",
+    "cost": "₹1,800–2,500 one way",
+    "text": "Taxis wait near Bomdila's market. A private taxi lets you stop at viewpoints and go straight to your homestay or cottage in Dirang, Sangti or Dirang Dzong."
+   },
+   {
+    "mode": "Private car",
+    "time": "1.25–1.5 h",
+    "cost": "Included in multi-day hire",
+    "text": "Most comfort and signature trips cover this leg in the same vehicle as the rest of the circuit, often with a stop at Bomdila Monastery before leaving town."
+   }
+  ],
+  "stops_on_way": [
+   "Bomdila Monastery",
+   "Orchard viewpoints",
+   "Dirang Dzong"
+  ],
+  "road_status": "Open all year; occasional snow near Bomdila in winter and landslides in the monsoon. Check current status before you travel.",
+  "tip": "Visit Bomdila Monastery in the early morning before driving down to Dirang for lunch.",
+  "faqs": [
+   {
+    "q": "How far is Dirang from Bomdila?",
+    "a": "About 42 km, roughly 1.5 hours by road."
+   },
+   {
+    "q": "Should I stay in Bomdila or Dirang?",
+    "a": "Dirang is lower, warmer and quieter, with riverside cottages and homestays. Bomdila is a busier town. For acclimatisation before Tawang, either works; we usually prefer two nights in Dirang."
+   },
+   {
+    "q": "Is there snow between Bomdila and Dirang?",
+    "a": "Occasionally in December to February near Bomdila. The road usually stays open."
+   },
+   {
+    "q": "Can I get a shared Sumo from Bomdila to Dirang?",
+    "a": "Yes, mostly in the morning. Ask at the Sumo counters in Bomdila the evening before."
+   }
+  ]
+ },
+ {
+  "slug": "dirang-to-tawang",
+  "from": "dirang",
+  "to": "tawang",
+  "distance_km": 140,
+  "summary": "The great day of the western circuit: up from Dirang through Baisakhi to Sela Pass at about 4,170 m, or through the Sela Tunnel, then down past Jaswantgarh and Jang to Tawang. About 140 km and 5–6 hours.",
+  "options": [
+   {
+    "mode": "Shared Sumo",
+    "time": "5–6 h",
+    "cost": "₹500–800 a seat",
+    "text": "Tawang-bound Sumos from Bomdila and Tezpur pass through Dirang in the morning, and a few start from Dirang. Book a seat the evening before. Sumos usually take the tunnel and stop briefly for tea; they do not wait at the lake."
+   },
+   {
+    "mode": "APSTS bus",
+    "time": "6–7 h",
+    "cost": "₹300–450",
+    "text": "State buses between Tezpur or Bomdila and Tawang pass through Dirang on set days. They are slow and infrequent; check the schedule locally."
+   },
+   {
+    "mode": "Private car",
+    "time": "5–6 h",
+    "cost": "₹6,000–9,000 one way",
+    "text": "A private car lets you take the old road over Sela Pass when it is open, stop at Sela Lake, the Jaswantgarh memorial and Nuranang Falls near Jang. On clear winter mornings, leave early for the best views."
+   }
+  ],
+  "stops_on_way": [
+   "Sela Pass and Sela Lake",
+   "Sela Tunnel",
+   "Jaswantgarh war memorial",
+   "Nuranang Falls, Jang"
+  ],
+  "road_status": "Open most of the year; the Sela Tunnel, opened in 2024, keeps the road open when snow closes the pass. Snow, ice and fog can still cause delays. Check current status before you travel.",
+  "tip": "Spend at least one night in Dirang before this drive, and stop at Sela for no more than 30–45 minutes.",
+  "faqs": [
+   {
+    "q": "How long is the drive from Dirang to Tawang?",
+    "a": "About 140 km and 5–6 hours with short stops at Sela and Jang. Snow or fog can add time."
+   },
+   {
+    "q": "Does the Sela Tunnel replace Sela Pass?",
+    "a": "The tunnel, opened in 2024, bypasses the highest part of the pass so traffic can move in heavy snow. You can still take the old road over the pass for the lake and views when it is open."
+   },
+   {
+    "q": "Will I get altitude sickness at Sela Pass?",
+    "a": "Some people get a headache or breathlessness at about 4,170 m. Sleep in Dirang first, drink water, keep the stop short and go down if you feel unwell. Talk to your doctor if you have heart or lung conditions."
+   },
+   {
+    "q": "Is the Dirang–Tawang road open in winter?",
+    "a": "Usually, thanks to the tunnel, though heavy snow or ice can stop traffic for a time. Check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "pasighat-to-mechuka",
+  "from": "pasighat",
+  "to": "mechuka",
+  "distance_km": 280,
+  "summary": "The long road into the upper Siang: north from Pasighat to Aalo, then up the Siyom valley through Kaying and Tato to Mechuka. About 280 km and 10–11 hours, best split with a night at Aalo.",
+  "options": [
+   {
+    "mode": "Shared Sumo",
+    "time": "10–12 h with a change at Aalo",
+    "cost": "₹1,000–1,500 in total",
+    "text": "Take a Sumo from Pasighat to Aalo, about 3–4 hours, then a Sumo from Aalo to Mechuka, which usually leaves early morning and takes 7–8 hours. Most travellers sleep a night in Aalo. Book Mechuka seats the day before."
+   },
+   {
+    "mode": "Private car",
+    "time": "9–11 h",
+    "cost": "₹9,000–13,000 one way",
+    "text": "A private SUV can cover the whole route in a long day, or split it at Aalo. Hire a driver who knows the Aalo–Mechuka road, which has rough sections and landslide zones. Many travellers book the car for the full trip there and back."
+   },
+   {
+    "mode": "Helicopter or flight",
+    "time": "Varies",
+    "cost": "Varies",
+    "text": "Government helicopter services and occasional flights have connected parts of the region at times, but they are limited and unreliable for planning. Check current status before you travel."
+   }
+  ],
+  "stops_on_way": [
+   "Aalo",
+   "Siyom river",
+   "Kaying",
+   "Tato"
+  ],
+  "road_status": "Open most of the year; monsoon landslides can close the Aalo–Mechuka road for days, and snow can slow the final stretch in winter. Check current status before you travel.",
+  "tip": "Break the journey at Aalo; arriving in Mechuka after dark on a rough road is not worth it.",
+  "faqs": [
+   {
+    "q": "How long does it take to reach Mechuka from Pasighat?",
+    "a": "About 10–11 hours of driving for roughly 280 km. Most travellers split it with a night at Aalo."
+   },
+   {
+    "q": "Is there a direct Sumo from Pasighat to Mechuka?",
+    "a": "Usually not. Take a Sumo to Aalo, then another from Aalo to Mechuka, which leaves early in the morning."
+   },
+   {
+    "q": "Is the road to Mechuka good?",
+    "a": "It has improved but still has rough, narrow and landslide-prone stretches, especially between Aalo and Tato. Expect a slow, tiring drive."
+   },
+   {
+    "q": "Which permits do I need for this route?",
+    "a": "Your Inner Line Permit or Protected Area Permit should list East Siang, West Siang and Shi Yomi districts. Check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "roing-to-namdapha",
+  "from": "roing",
+  "to": "namdapha",
+  "distance_km": 230,
+  "summary": "Across the Assam plains from the Mishmi foothills to Namdapha: over the Dhola–Sadiya bridge, through Tinsukia district to Margherita and Jagun, then into Changlang district to Miao and Deban. About 230 km and 6–7 hours.",
+  "options": [
+   {
+    "mode": "Shared Sumo and bus",
+    "time": "8–10 h with changes",
+    "cost": "₹700–1,100 in total",
+    "text": "Take a Sumo from Roing to Tinsukia, then a bus or Sumo from Tinsukia to Miao. It works, but it takes a full day with waiting time. Deban needs a hired jeep from Miao the next morning."
+   },
+   {
+    "mode": "Private car",
+    "time": "6–7 h to Miao",
+    "cost": "₹8,000–12,000 one way",
+    "text": "A private car makes this an easy day, with a lunch stop in Tinsukia or Margherita. Arrive in Miao by mid-afternoon to complete park formalities, then continue to Deban the next morning or the same evening if arranged."
+   },
+   {
+    "mode": "Train and road",
+    "time": "Varies",
+    "cost": "Varies",
+    "text": "Rail is not practical for this transfer, but travellers coming from elsewhere can reach Tinsukia or Margherita by train and continue by road to Miao."
+   }
+  ],
+  "stops_on_way": [
+   "Dhola–Sadiya bridge",
+   "Tinsukia",
+   "Margherita",
+   "Jagun check gate"
+  ],
+  "road_status": "Open all year on the plains; the Miao–Deban road is unsealed and may close after heavy rain. Check current status before you travel.",
+  "tip": "Name Changlang district on your permit and contact the forest office in Miao before you arrive.",
+  "faqs": [
+   {
+    "q": "How far is Namdapha from Roing?",
+    "a": "About 230 km to Miao through Assam, roughly 6–7 hours by car, plus about an hour on a rough road to Deban."
+   },
+   {
+    "q": "Is there a direct bus from Roing to Miao?",
+    "a": "Not usually. Change in Tinsukia, where buses and Sumos leave for Miao."
+   },
+   {
+    "q": "Do I pass through Assam on this route?",
+    "a": "Yes. The road crosses the Dhola–Sadiya bridge and runs through Tinsukia district before re-entering Arunachal near Jagun, where permits are checked."
+   },
+   {
+    "q": "Can I combine Roing and Namdapha in one trip?",
+    "a": "Yes. They pair well for a week in eastern Arunachal, with Dibrugarh as the gateway at either end."
+   }
+  ]
+ }
+]

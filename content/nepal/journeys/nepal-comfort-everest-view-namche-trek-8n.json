@@ -1,0 +1,207 @@
+{
+ "slug": "nepal-comfort-everest-view-namche-trek-8n",
+ "title": "Everest view trek to Namche Bazaar",
+ "region": "nepal",
+ "tier": "comfort",
+ "nights": 8,
+ "themes": [
+  "treks-and-walks",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "kathmandu",
+   "nights": 1
+  },
+  {
+   "place": "namche-bazaar",
+   "nights": 6
+  },
+  {
+   "place": "patan",
+   "nights": 1
+  }
+ ],
+ "start": "Kathmandu, Tribhuvan International Airport",
+ "end": "Kathmandu, Tribhuvan International Airport",
+ "price_from_inr": 92000,
+ "price_note": "Per person, twin sharing: Kathmandu hotel, best available teahouses with private rooms in the Khumbu, all trek meals, return Lukla flights, licensed guide and one porter per two, park and municipality fees; flights to Nepal extra.",
+ "transport": "Domestic flights to Lukla, private car in Kathmandu, five days on foot",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Active",
+ "meta_description": "Everest view trek in 8 nights: Lukla flights, 3 nights in Namche Bazaar, Khumjung and the Everest View Hotel ridge, licensed guide, from ₹92,000.",
+ "summary": "A short Khumbu trek for travellers who want to see Everest without going to base camp. Fly to Lukla, walk up the Dudh Koshi to Namche Bazaar at 3,440 m, spend three nights there acclimatising with walks to Khumjung and the Everest View ridge, then walk back to Lukla and finish with a night in Patan.",
+ "intro": [
+  "Everest Base Camp takes 12 days and a night above 5,000 m. Many people with only a week want something smaller: the Sherpa capital of Namche Bazaar, the monasteries of Khumjung and a clear look at Everest, Lhotse and Ama Dablam. This trip does exactly that, with sensible acclimatisation and comfortable rooms.",
+  "We use the best teahouses available in each village, with private rooms and, where they exist, attached bathrooms; they are still simple lodges, not hotels. A licensed guide and a porter for every two people walk with you. The trickiest part is not the walking but the Lukla flight, which depends on weather; we keep the last full day in Patan as a buffer, so a delay does not cost you your flight home."
+ ],
+ "highlights": [
+  "The flight into Lukla's Tenzing-Hillary Airport",
+  "Crossing the high Hillary suspension bridge over the Dudh Koshi",
+  "Namche Bazaar's Saturday market and the Sherpa culture museum",
+  "Everest, Lhotse and Ama Dablam from the ridge above Namche",
+  "Khumjung village and its monastery"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Kathmandu, trek briefing",
+   "place": "kathmandu",
+   "overnight": "Kathmandu Guest House, Thamel",
+   "drive": "≈ 6 km · 30 min",
+   "text": "Your driver meets you at the airport and takes you to the Kathmandu Guest House. Your guide comes in the evening to check your kit and permits and explain the plan. In peak months (roughly March to May and October to November) Lukla flights often leave from Ramechhap (Manthali), about 4 hours' drive away, in which case you leave Kathmandu around 2 am. We confirm the airport the day before.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Fly to Lukla, walk to Phakding",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Phakding (2,610 m)",
+   "drive": "Flight 35 min; walk 3–4 h",
+   "text": "Fly to Lukla at 2,860 m on one of the morning flights. The approach to the short, sloping runway is part of the experience. Have tea while the porter loads up, then walk down past mani walls and prayer wheels into the Dudh Koshi valley to Phakding. Today is short on purpose: you sleep lower than Lukla, which helps your body adjust.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Phakding to Namche Bazaar",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Namche Bazaar (3,440 m)",
+   "drive": "Walk 6–7 h",
+   "text": "Follow the river north through Monjo, where you enter Sagarmatha National Park and show your permits. Cross the high Hillary suspension bridge and climb steadily for about two hours to Namche. On a clear day you get your first glimpse of Everest from a viewpoint on the way up. Take it slowly; you gain about 800 m today.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Acclimatisation: Everest View ridge",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Namche Bazaar (3,440 m)",
+   "drive": "Walk 3–4 h",
+   "text": "Climb above Namche past the Sagarmatha National Park headquarters to the Syangboche ridge and the Everest View Hotel at about 3,880 m, where you can have tea on the terrace facing Everest, Lhotse and Ama Dablam. Walking high and sleeping low is the best way to acclimatise. Back in Namche, visit the Sherpa culture museum and the park visitor centre.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Khumjung and Khunde",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Namche Bazaar (3,440 m)",
+   "drive": "Walk 4–5 h",
+   "text": "Walk over the ridge to the twin villages of Khumjung and Khunde, set in a wide valley under the sacred peak of Khumbila. Visit Khumjung gompa and the school founded by Edmund Hillary's Himalayan Trust. On Saturday mornings, see the weekly market in Namche, where traders bring goods up from the lowlands and porters from the Tibetan side once came over the Nangpa La.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Namche to Phakding",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Phakding (2,610 m)",
+   "drive": "Walk 5–6 h",
+   "text": "Walk back down the hill to the Hillary bridge and along the river to Phakding. Descending is easier on the lungs but hard on knees; poles help. With the walking done early, there is time for a short visit to a riverside gompa or simply a quiet afternoon in the sun.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Phakding to Lukla",
+   "place": "namche-bazaar",
+   "overnight": "Teahouse, Lukla (2,860 m)",
+   "drive": "Walk 3–4 h",
+   "text": "The last climb is gentle, back up to Lukla. Spend the afternoon at the lodge, say goodbye to your porter and confirm tomorrow's flight with your guide. Lukla has bakeries and a few shops; it is the busiest village in the Khumbu, full of trekkers coming and going.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Fly to Kathmandu, on to Patan",
+   "place": "patan",
+   "overnight": "Heritage guesthouse or hotel near Patan Durbar Square",
+   "drive": "Flight 35 min, plus drive",
+   "text": "Fly back on the earliest possible flight. If the weather holds, you reach Kathmandu or Ramechhap in the morning and drive to Patan for a hot shower and a slow afternoon in Patan Durbar Square and the museum. If flights are delayed, today becomes the buffer and we move your Patan night accordingly.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 9,
+   "title": "Departure",
+   "place": "patan",
+   "overnight": "",
+   "drive": "≈ 8 km · 30 min",
+   "text": "A last morning walk through Patan's courtyards and bronze workshops before your driver takes you to the airport for your flight home.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "kathmandu-guest-house-thamel",
+  "namche-bazaar-teahouse-lodges"
+ ],
+ "includes": [
+  "1 night at Kathmandu Guest House and 1 night in Patan with breakfast, twin sharing",
+  "6 nights in the best available teahouses with private rooms, all meals on the trek",
+  "Return flights Kathmandu or Ramechhap to Lukla, and road transfers to Ramechhap if needed",
+  "Licensed trekking guide and one porter per two trekkers",
+  "Sagarmatha National Park entry and Khumbu Pasang Lhamu municipality fee",
+  "Private car for all Kathmandu valley transfers"
+ ],
+ "excludes": [
+  "International flights",
+  "Lunches and dinners in Kathmandu and Patan",
+  "Hot showers, charging and Wi-Fi on the trail",
+  "Travel insurance with helicopter evacuation cover (required)",
+  "Tips for guide and porter"
+ ],
+ "good_to_know": [
+  "Namche Bazaar is at 3,440 m. We include two acclimatisation days there, but headaches and poor sleep are common; descend if symptoms get worse. Talk to your doctor before the trip, especially about any heart or lung condition.",
+  "Lukla flights are often delayed by weather. Do not book an onward international flight for the day after your planned return.",
+  "Travel insurance must cover trekking to 4,000 m and helicopter evacuation.",
+  "Porters carry up to about 15 kg per trekker; pack a duffel, not a hard suitcase.",
+  "Guide and permit rules in the Khumbu are set locally and change; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Can I see Everest without trekking to base camp?",
+   "a": "Yes. From the ridge above Namche Bazaar, near the Everest View Hotel at about 3,880 m, Everest, Lhotse and Ama Dablam are in view on a clear day. This trip takes you there with two acclimatisation days, without going above 4,000 m. A mountain flight from Kathmandu is another option for those who cannot trek."
+  },
+  {
+   "q": "How much does the Everest view trek cost?",
+   "a": "This 8-night version starts at ₹92,000 per person, twin sharing, including Lukla flights, teahouses, all trek meals, a licensed guide, a porter per two and park fees. Lukla flights alone are a large part of the price. A saver version with basic lodges and a shared guide can cost around ₹55,000–65,000."
+  },
+  {
+   "q": "How dangerous is the Lukla flight?",
+   "a": "Lukla's runway is short and sloping, and flights only operate in good visibility. Airlines have had accidents over the years, though thousands of trekkers fly safely each season. Delays for weather are common. Choose a morning flight, keep spare days and check current status before you travel."
+  },
+  {
+   "q": "What permits do I need for the Namche trek?",
+   "a": "You need the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu rural municipality fee, both bought on the way at Monjo and Lukla or through your agency. SAARC nationals pay a lower rate. The national TIMS card is not used in the Khumbu. Check current status before you travel."
+  },
+  {
+   "q": "Is altitude sickness a risk at Namche Bazaar?",
+   "a": "Yes, it can affect anyone above about 2,500 m, and Namche is at 3,440 m. This plan gains height slowly and spends two extra nights in Namche. Know the symptoms: headache, nausea, dizziness, breathlessness at rest. Tell your guide early and descend if they get worse. Talk to your doctor about medication."
+  },
+  {
+   "q": "Do I need a guide for the Everest region?",
+   "a": "Guide rules in the Khumbu have been set separately from the national rule and have changed several times since 2023. We include a licensed guide in all our Khumbu trips. Check current status before you travel if you plan to walk independently."
+  },
+  {
+   "q": "When is the best time for the Namche trek?",
+   "a": "October and November give the clearest views and stable weather. March to May is also good, with rhododendrons lower down and more haze in the afternoon. December to February is clear but cold. June to August brings rain, cloud and frequent Lukla flight cancellations."
+  },
+  {
+   "q": "Is there internet in Namche Bazaar?",
+   "a": "Yes. Namche has mobile data on Nepal Telecom and Ncell much of the time, and many lodges sell Wi-Fi. Local Wi-Fi cards that work across the Khumbu are sold in Lukla and Namche. Service is slower and patchier in Phakding and on the trail."
+  },
+  {
+   "q": "Can I extend this to Tengboche?",
+   "a": "Yes. Add two nights to walk to Tengboche, about 3,860 m, home of the largest monastery in the Khumbu, and back. In October or November you may catch the Mani Rimdu festival there. The extra climb needs a further acclimatisation night."
+  }
+ ]
+}

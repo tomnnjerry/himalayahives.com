@@ -5,10 +5,11 @@ Usage: python tools/fetch_images.py [region ...] [--force]
 Incremental: keys already in images.json are kept unless --force.
 Sources, in order: the entity's English Wikipedia article images (curated by
 editors, so they show the right place), then a Commons search on `image_query`.
-North East places also reuse the hand-checked photos from the Shillong Trip
-project when the slugs match.
+Set HH_SISTER_IMAGES to another project's images.json to reuse hand-checked
+photos when slugs match (optional).
 """
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -21,8 +22,9 @@ import commons  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 OUT = CONTENT / "images.json"
-SISTER = Path(r"C:\Projects\15\shillongtrip.com\content\images.json")
-REGIONS = ["nepal", "rajasthan", "ladakh", "north-east", "kerala", "goa", "up-bihar"]
+SISTER = Path(os.environ.get("HH_SISTER_IMAGES", "/nonexistent/images.json"))
+REGIONS = ["kashmir", "ladakh", "himachal", "spiti", "garhwal", "kumaon", "nepal", "darjeeling", "sikkim",
+           "bhutan", "arunachal", "journal"]
 BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|banknote|coin|\bmap\b|locator|svg|protest|riot|clash|election|rally|"
                        r"minister|president|police|army|military|curfew|flood|earthquake|damage|destroyed|collapse|"
                        r"accident|relief|topograph|physical|elevation|burning|smoke|strike|bandh|meeting|delegation|signing|logo|poster)", re.I)
@@ -31,9 +33,7 @@ BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|b
 # Hand-picked sources for keys where the automatic pick was wrong or weak.
 # ("wiki", title) uses that article's images; ("query", text) a Commons search.
 OVERRIDES = {
-    "place:assagao-and-anjuna": ("query", "Anjuna beach Goa"),
     "place:pangong-tso": ("query", "Pangong Tso lake Ladakh"),
-    "place:bodh-gaya": ("query", "Mahabodhi Temple South Wall"),
 }
 
 
@@ -148,7 +148,7 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print("  fail", key, e)
                 recs = []
-            if key.startswith("place:") and slug == "north-east":
+            if key.startswith("place:") and sister:
                 extra = sister.get(key.split(":", 1)[1], [])
                 recs = clean(extra + recs)[:n]
             return key, recs

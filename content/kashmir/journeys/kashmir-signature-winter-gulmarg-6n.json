@@ -1,0 +1,190 @@
+{
+ "slug": "kashmir-signature-winter-gulmarg-6n",
+ "title": "Kashmir in winter: Gulmarg snow and Srinagar",
+ "region": "kashmir",
+ "tier": "signature",
+ "nights": 6,
+ "themes": [
+  "snow-and-winter",
+  "adventure-sports",
+  "honeymoons",
+  "food-and-tea"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 1
+  },
+  {
+   "place": "gulmarg",
+   "nights": 4
+  },
+  {
+   "place": "srinagar",
+   "nights": 1
+  }
+ ],
+ "start": "Srinagar airport",
+ "end": "Srinagar airport",
+ "price_from_inr": 165000,
+ "price_note": "Per person, twin sharing: 2 nights at The LaLiT and 4 at The Khyber with breakfast and dinner, 4×4 transfers, private guide, three days of ski instruction and gear, gondola; flights extra.",
+ "transport": "Private 4x4 with driver and snow chains",
+ "group": "Private",
+ "best_months": [
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Winter Kashmir, 6 nights: four snow nights at The Khyber in Gulmarg with ski lessons and gondola, plus Srinagar's palace, harissa and wazwan, from ₹1,65,000 per person.",
+ "summary": "Six winter nights built around Gulmarg's snow: four at The Khyber with three days of ski or snowboard instruction, gondola rides and a spa, framed by a night at each end in Srinagar's palace hotel. Harissa at dawn, kangris and wazwan show how the valley lives through Chillai Kalan.",
+ "intro": [
+  "From late December to March, Gulmarg holds some of the deepest snow in the Himalaya, and its gondola carries skiers from the meadow towards the Apharwat ridge. Beginners learn on the gentle slopes near the base and at Kongdori; strong skiers come for the ungroomed bowls off Apharwat, which need an avalanche-aware guide. The Khyber, near the gondola, is the warmest and most comfortable base.",
+  "We wrap the snow days with a night at The LaLiT Grand Palace at each end, so a snowfall that delays the road or flights does not break the trip. In Srinagar you see the city in Chillai Kalan, the 40 coldest days from late December to late January: pherans, kangris of embers, and harissa, a slow-cooked mutton dish sold only in winter mornings."
+ ],
+ "highlights": [
+  "Four snow nights at The Khyber, near the Gulmarg Gondola",
+  "Three days of ski or snowboard lessons with a certified instructor",
+  "Gondola to Kongdori and, conditions allowing, Apharwat",
+  "Harissa at dawn in Srinagar's old city",
+  "Palace nights and a wazwan dinner in Srinagar"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in winter Srinagar",
+   "place": "srinagar",
+   "overnight": "The LaLiT Grand Palace, Srinagar",
+   "drive": "≈ 20 km · 45 min",
+   "text": "Your guide and 4x4 meet you at Srinagar airport and drive you to The LaLiT Grand Palace above Dal Lake. In winter the lake edges can freeze and the chinars are bare against the snow on the Zabarwan hills. Rest, then walk the lawns before dark. Your guide brings a pheran and a kangri to show how Kashmiris keep warm. Dinner at the hotel with Kashmiri winter dishes.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Up to Gulmarg in the snow",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "≈ 55 km · 2–3 h in snow",
+   "text": "Leave after breakfast. Chains usually go on at Tangmarg for the last 13 km of hairpins, and police may control traffic after heavy snow. Check in at The Khyber, near the gondola. In the afternoon, a fitting session at a rental shop for skis or a snowboard, boots and helmet, then an easy snow walk across the meadow to St Mary's Church. Early night; you start lessons tomorrow.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "First ski lesson",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "",
+   "text": "A full day with a certified instructor on the beginner slopes near the base, at 2,650 m. Most first-timers learn to stop, turn and use the drag lift in a day. Non-skiers can try snowshoeing, a sledge ride on the meadow, or a walk through the snowy pines towards Khilanmarg with the guide. Afternoon spa or a long lunch by the fire. Light fades early, around 5.30 pm.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Gondola to Kongdori",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "",
+   "text": "Second lesson day, moving up by Gondola Phase 1 to Kongdori near 3,080 m, where wider runs suit improving skiers. Non-skiers ride up for the view and lunch at the top station. If conditions are stable and you are an experienced skier, your guide can arrange a separate avalanche-aware mountain guide for Phase 2 to Apharwat near 3,950 m. Phase 2 opening depends on weather and snow safety each day.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Ski or rest",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "",
+   "text": "Third lesson day for those who want it, or a free day. Beginners can practise on the base slopes with the instructor; others take a slow morning at the spa. This day is also our snow buffer: if heavy snowfall closed the gondola earlier in the week, we use it then. In the evening, try kahwa with almonds and saffron in the lounge.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Back to Srinagar for wazwan",
+   "place": "srinagar",
+   "overnight": "The LaLiT Grand Palace, Srinagar",
+   "drive": "≈ 55 km · 2–3 h in snow",
+   "text": "Return gear and drive down to Srinagar after breakfast, chains on until Tangmarg. Check in again at The LaLiT. In the afternoon, a short walk with your guide through the old city, past the Jamia Masjid and the Jhelum's wooden-fronted houses, stopping at a papier-mache workshop warmed by a bukhari stove. In the evening, a private wazwan dinner cooked by a waza and served on a shared trami.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Harissa at dawn, departure",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 20 km · 45 min to the airport",
+   "text": "Before sunrise your guide takes you to an old-city harissa shop, where mutton and rice have cooked overnight in a deep copper pot. It is served hot with oil, kebab and a local bread called girda or lavasa, and shops often sell out by mid-morning. Back to the hotel for packing, then to the airport. In snow, flights can be delayed; leave extra time.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "lalit-grand-palace-srinagar",
+  "khyber-himalayan-resort-gulmarg"
+ ],
+ "includes": [
+  "6 nights twin sharing with breakfast and dinner",
+  "Private 4x4 with driver and snow chains for all transfers",
+  "Private guide in Srinagar and Gulmarg",
+  "Three days of ski or snowboard instruction with gear and helmet hire",
+  "Gondola Phase 1 tickets, a private wazwan dinner and a harissa breakfast"
+ ],
+ "excludes": [
+  "Flights to and from Srinagar",
+  "Lunches and drinks",
+  "Gondola Phase 2 and the separate mountain guide for off-piste skiing",
+  "Spa treatments",
+  "Travel insurance covering winter sports (strongly advised)"
+ ],
+ "good_to_know": [
+  "You sleep at 2,650 m in Gulmarg; Phase 2 reaches near 3,950 m. Go slowly on the first day and talk to your doctor first if you have heart or lung conditions.",
+  "Off-piste skiing in Gulmarg carries real avalanche risk; never go beyond the patrolled area without a qualified mountain guide and avalanche gear.",
+  "Temperatures in Gulmarg fall to −10 °C or lower at night; pack thermals, waterproof gloves and goggles.",
+  "Snowfall can close the Tangmarg–Gulmarg road or delay flights for a day; that is why we keep a buffer.",
+  "Prepaid SIM cards from outside Jammu and Kashmir usually do not work; bring a postpaid connection.",
+  "Book by October for late December and January; check current status of the gondola and roads before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Can a complete beginner ski on this trip?",
+   "a": "Yes. Three days with a certified instructor on Gulmarg's gentle base slopes are enough for most beginners to turn, stop and ride the drag lift. The open bowls off Apharwat are for experienced skiers only. Non-skiers can snowshoe, sledge and ride the gondola instead."
+  },
+  {
+   "q": "When is the ski season in Gulmarg?",
+   "a": "Usually from late December or early January to March, with the most reliable snow in January and February. Snowfall varies from year to year; some seasons start late. December trips are a gamble on snow cover. Check current status of snow and gondola operations before you travel."
+  },
+  {
+   "q": "Is there a government ski school in Gulmarg?",
+   "a": "Yes. The Indian Institute of Skiing and Mountaineering in Gulmarg runs fixed-length ski courses each winter, mostly booked well in advance, with simple hostel-style lodging. They suit longer stays. On this signature trip we use certified private instructors so you can learn on your own schedule."
+  },
+  {
+   "q": "How cold is Gulmarg in January?",
+   "a": "Daytime temperatures are around −2 to 2 °C and nights fall to −10 °C or lower, with wind chill on the gondola. The Khyber and The LaLiT are well heated. Pack thermal base layers, a down jacket, ski pants, waterproof gloves, a warm hat, goggles and sunscreen, as snow glare is strong at this altitude."
+  },
+  {
+   "q": "What is Chillai Kalan?",
+   "a": "Chillai Kalan is the 40-day period of the harshest Kashmiri winter, usually counted from 21 December to about 29 January. Lakes can freeze at the edges, water pipes freeze, and people wear the pheran and carry a kangri of embers. It is followed by the milder Chillai Khurd and Chillai Bachha periods."
+  },
+  {
+   "q": "Will flights be cancelled because of snow?",
+   "a": "Sometimes. Heavy snow or fog can delay or cancel flights at Srinagar for a day. We keep the last night in Srinagar and a snow buffer day in Gulmarg for this reason. Book flexible tickets, avoid tight onward connections, and carry travel insurance that covers delays."
+  },
+  {
+   "q": "Do we need snow chains or a 4x4?",
+   "a": "Yes, in practice. After snowfall, police often allow only 4x4 vehicles or cars with chains above Tangmarg. Our 4x4 carries chains and the driver knows the road in winter. Self-drive is not advised in snow. Road status changes daily; check current status before you travel."
+  },
+  {
+   "q": "Is this trip good for a winter honeymoon?",
+   "a": "Yes. Four nights in a warm resort among snowy pines, with the spa, gondola rides and optional lessons, followed by a palace night in Srinagar, suit couples well. Ski lessons are optional; you can keep it to snow walks, sledging and long lunches if you prefer."
+  },
+  {
+   "q": "Can we add more snow days?",
+   "a": "Yes. Extra nights at The Khyber in January and February typically add ₹25,000–40,000 per person per night with meals, plus instruction if you want it. Skiers often add two to four nights to make the most of a good snow week."
+  }
+ ]
+}

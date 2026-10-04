@@ -1,0 +1,75 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Season almanac · which Himalaya hive in which month · Himalaya Hives{% endblock %}
+{% block description %}A month-by-month almanac for eleven Himalaya hives from Kashmir to Arunachal: the best months, the good ones, the closed ones and when prices are lowest.{% endblock %}
+{% block og_title %}Which Himalaya hive in which month{% endblock %}
+{% block head_extra %}<style>
+.alm thead th.is-now { color: var(--ink); }
+.alm thead th.is-now span { display: inline-block; padding: 4px 6px; background: var(--honey); color: #1B1408; }
+.mo { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.mo__c { background: var(--card); padding: 22px; clip-path: var(--chamfer); display: grid; gap: 10px; align-content: start; scroll-margin-top: 110px; }
+.mo__c.is-now { background: var(--wax); }
+.mo__c h3 { font: 400 28px/1 var(--display); display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.mo__c ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.mo__c li a { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; font-size: 15px; text-decoration: none; border: 1px solid var(--rule); background: var(--paper); }
+.mo__c li a.is-best { background: var(--g1); color: #fff; border-color: var(--g1); }
+.mo__c li a:hover { border-color: var(--ink); }
+@media (max-width: 980px) { .mo { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .mo { grid-template-columns: 1fr; } }
+</style>{% endblock %}
+{% block content %}
+{% now "n" as cur %}
+<header class="phead phead--plain ground">
+  {% topo "seasons" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">The almanac · twelve months, {{ regions|length }} hives</p>
+      <h1 class="d-1">Which hive, which month</h1>
+      <p class="lede">The Himalaya has a season somewhere every month. Kashmir and Ladakh peak in summer while the eastern hives sit under the monsoon; in winter it turns round. Pick the month first, then the hive.</p>
+      <p class="answer">Spring (March to May) and autumn (late September to November) suit most hives. June to September is the time for Ladakh, Spiti and the high passes. December to February suits the lower hills and the snow.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:26px"><a class="btn btn--foil" href="{% url 'tool_season' %}">Open the season finder</a><a class="btn btn--line" href="#by-month">Month by month</a></div>
+    </div>
+  </div>
+  {% ridgeline "seasons" 4 %}
+</header>
+
+<section class="sec" id="almanac">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The grid</p><h2 class="d-1">Twelve months at a glance</h2>
+      <p class="lede">Dark cells are the best months, pale cells are good, empty cells are closed or hard going. A ₹ marks months when rooms and transport cost least. Tap a cell for that month in that hive.</p></div></div>
+    <div class="alm"><table>
+      <thead><tr><th></th>{% for m in months_short %}<th scope="col"{% if forloop.counter|stringformat:"s" == cur %} class="is-now"{% endif %}><span>{{ m }}</span></th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span>{{ r.name }}</a></th>
+        {% if r.months|length >= 12 %}{% for m in r.months|slice:":12" %}<td><a href="{% url 'region_month' r.slug m.month|lower %}" class="alm__c" data-v="{{ m.rating }}" data-p="{{ m.price_level }}" title="{{ r.name }} in {{ m.month }}: {% if m.rating == 2 %}best{% elif m.rating == 1 %}good{% else %}hard or closed{% endif %}{% if m.price_level %}, {{ m.price_level }} prices{% endif %}"><span class="sr-only">{{ r.name }} in {{ m.month }}: {% if m.rating == 2 %}best{% elif m.rating == 1 %}good{% else %}hard or closed{% endif %}{% if m.price_level %}, {{ m.price_level }} prices{% endif %}</span></a></td>{% endfor %}
+        {% else %}{% for m in r.bar %}<td><a href="{% url 'region_month' r.slug m.full|lower %}" class="alm__c" data-v="{{ m.v }}" title="{{ r.name }} in {{ m.full }}"><span class="sr-only">{{ r.name }} in {{ m.full }}: {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}hard or closed{% endif %}</span></a></td>{% endfor %}{% endif %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <div class="alm__key"><span><i style="background:#2B2012"></i>Best</span><span><i style="background:#E8C98A"></i>Good</span><span><i></i>Hard or closed</span><span>₹ lowest prices</span></div>
+    <p class="small muted" style="margin-top:14px">On a phone, scroll the grid sideways. Ratings are for the hive as a whole; single valleys and treks have their own seasons, shown on each place page.</p>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="by-month">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Month by month</p><h2 class="d-1">Where to go in each month</h2>
+      <p class="lede">Dark tags are the best hives for the month, light tags are good ones. A ₹ means prices are low that month.</p></div></div>
+    <div class="mo">{% for mo in months %}{% with i=forloop.counter0 n=forloop.counter %}
+      <article class="mo__c{% if n|stringformat:'s' == cur %} is-now{% endif %}" id="m-{{ mo|lower }}">
+        <h3>{{ mo }}{% if n|stringformat:'s' == cur %}<span class="readout">This month</span>{% endif %}</h3>
+        <ul>{% for r in regions %}{% for m in r.bar %}{% if forloop.counter0 == i and m.v >= 1 %}<li><a href="{% url 'region_month' r.slug mo|lower %}" class="{% if m.v == 2 %}is-best{% endif %}">{{ r.name }}{% for rm in r.months %}{% if forloop.counter0 == i and rm.price_level == "low" %} ₹{% endif %}{% endfor %}</a></li>{% endif %}{% endfor %}{% endfor %}</ul>
+        <a class="link" style="font-size:15px" href="{% url 'tool_season' %}#{{ i }}">Places at their best in {{ mo }} {% icon "arrow" %}</a>
+      </article>
+    {% endwith %}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Hive by hive</p><h2 class="d-1">Each hive's year</h2></div><a class="link" href="{% url 'lands' %}">Compare the hives {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for r in regions %}<a class="panel" href="{{ r.url }}#months" data-land="{{ r.slug }}" style="text-decoration:none;display:grid;gap:10px">
+      <span style="display:flex;gap:12px;align-items:center"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><b class="d-4">{{ r.name }}</b></span>
+      <span class="readout">Best <b>{{ r.best_label|default:"varies" }}</b>{% if r.cheap_months %} · cheapest {% for m in r.cheap_months|slice:":2" %}{{ m|slice:":3" }}{% if not forloop.last %}, {% endif %}{% endfor %}{% endif %}</span>
+      {% include "hives/partials/mbar.html" with bar=r.bar label=r.best_label %}
+    </a>{% endfor %}</div>
+  </div>
+</section>
+{% endblock %}

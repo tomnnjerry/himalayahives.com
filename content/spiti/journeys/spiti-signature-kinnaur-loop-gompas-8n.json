@@ -1,0 +1,210 @@
+{
+ "slug": "spiti-signature-kinnaur-loop-gompas-8n",
+ "title": "Gompas of Spiti, in and out by Kinnaur",
+ "region": "spiti",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "monasteries",
+  "road-trips",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "nako",
+   "nights": 1
+  },
+  {
+   "place": "tabo",
+   "nights": 2
+  },
+  {
+   "place": "kaza",
+   "nights": 4
+  },
+  {
+   "place": "tabo",
+   "nights": 1
+  }
+ ],
+ "start": "Kalpa (Kinnaur), after 2 nights from Shimla",
+ "end": "Kalpa (Kinnaur)",
+ "price_from_inr": 145000,
+ "price_note": "Per person, twin sharing: 8 nights in the best rooms at each stop including 4 at The Grand Dewachen, all meals, private SUV and driver, private guide; Shimla–Kalpa nights each way and flights extra.",
+ "transport": "Private SUV with driver, private guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  1,
+  1,
+  2,
+  2,
+  0,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Signature Spiti gompa trip, 8 nights from Kalpa and back: Nako, Tabo, Dhankar, Key and Pin valley with a private guide, Grand Dewachen stay, from ₹1,45,000.",
+ "summary": "An eight-night journey through Spiti's thousand years of Buddhism with a private guide: Nako's 1025 CE temples, Tabo's 996 CE assembly hall, Dhankar's cliff gompa, Key and Kungri, with four nights at The Grand Dewachen. It goes in and out by Kinnaur, so it runs from May to October.",
+ "intro": [
+  "This trip is built for travellers who care most about Spiti's monasteries and want the longest possible season. Because it never crosses Kunzum La, it runs from May, before the Manali road opens, until late October, after the camps at Chandratal close. May and October are quiet, clear and cold at night; they are among our favourite months for this route.",
+  "Your guide links the gompas into one story: the 10th and 11th century temples founded in the time of Rinchen Zangpo at Tabo and Nako, the fort-monastery at Dhankar, Gelug Key above the river, and Nyingma Kungri in the Pin valley. The climb is slow, through Nako and two nights at Tabo, and a last night at Tabo on the way out breaks the long drive back. Two nights from Shimla to Kalpa before and after are arranged separately."
+ ],
+ "highlights": [
+  "Tabo's 996 CE assembly hall with a private guide",
+  "Nako's temples below Reo Purgyil",
+  "Dhankar, the old seat of Spiti's rulers",
+  "Key Gompa at morning prayers",
+  "Kungri gompa and the Pin valley"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Kalpa to Nako",
+   "place": "nako",
+   "overnight": "Nako",
+   "drive": "≈ 117 km · 4–5 h",
+   "text": "Meet your guide and driver in Kalpa and drive along the Sutlej through Pooh, then up the bends from Khab to Nako at 3,625 m. After lunch, visit the four temple halls of 1025 CE with your guide and walk to the shrine of Padmasambhava's footprint. Sunset on Reo Purgyil, the highest mountain in Himachal Pradesh, if the sky is clear. Sleep early and drink water. Your guide will check permits at the Kinnaur checkposts for foreign nationals.",
+   "meals": "Lunch, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Nako to Tabo",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 63 km plus Gue detour · 4–5 h",
+   "text": "Drive down past Malling and Chango to Sumdo, with an optional detour to the mummy at Gue. Reach Tabo, at about 3,050 m, by early afternoon. Rest, then walk around the outer walls of the monastery complex with your guide, who will explain how its mud-brick temples were laid out. Gue's mummy sits in a small shrine; your guide will explain why it is treated as a sacred object, not a curiosity. Dinner is at your guesthouse.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Inside Tabo",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "",
+   "text": "Morning prayers in the new monastery, then a long, slow visit to the old assembly hall founded in 996 CE by Rinchen Zangpo for the kings of Guge. Your guide will help you read the clay deities and painted walls by torchlight; photography is not allowed. Afternoon at the meditation caves above the village. Lunch is in the village, and dinner at your guesthouse. Your guide will also explain how Tabo's monks live today.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Dhankar and Lhalung to Rangrik",
+   "place": "kaza",
+   "overnight": "Rangrik",
+   "drive": "≈ 75 km with detours · 4–5 h",
+   "text": "Drive to Dhankar's gompa on its spur above the Spiti–Pin confluence, then, if time and energy allow, up the Lingti valley to Lhalung village and its old temple. Continue past Kaza to The Grand Dewachen at Rangrik for four nights. Rest for the remainder of the day; the first night at about 3,650 m is often restless. Fill your water bottle at the hotel and drink steadily through the evening.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Kaza at an easy pace",
+   "place": "kaza",
+   "overnight": "Rangrik",
+   "drive": "≈ 15 km",
+   "text": "A deliberately light day. Visit the Sakya Tangyud monastery in Kaza, built in 2009 and named after the older Tangyud Gompa near Komic, and walk the old lanes of Kaza Khas. Return to Rangrik for lunch and a free afternoon. In the evening, walk Rangrik's fields with your guide as families bring animals home. Rangrik is quiet and dark, so clear nights are good for stars. Eat early and sleep well; tomorrow starts at dawn.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Key Gompa and Kibber",
+   "place": "key-and-kibber",
+   "overnight": "Rangrik",
+   "drive": "≈ 60 km round trip · 3 h",
+   "text": "Reach Key Gompa early for morning prayers. Your guide will explain the Gelug school and the long history of raids and repairs that the monastery has survived. Continue to Kibber and Chicham bridge, then return to Rangrik. If you feel strong, add Langza and Hikkim in the afternoon; if not, rest. Kibber's homes and fields give a sense of how Spiti villages farm barley and peas at more than 4,000 m.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Kungri and the Pin valley",
+   "place": "pin-valley",
+   "overnight": "Rangrik",
+   "drive": "≈ 110 km round trip · 5 h",
+   "text": "Drive into Pin Valley National Park. Visit Kungri gompa near Gulling, the valley's main Nyingma monastery, then continue to Mudh for lunch and a walk to scan the slopes for ibex. Return in the late afternoon for a last night at Rangrik. Your guide can explain the Pin valley's Buchen tradition of ritual theatre, and how Nyingma practice differs from the Gelug monasteries you have seen. Kungri's older and newer halls are both worth a slow look.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Back down to Tabo",
+   "place": "tabo",
+   "overnight": "Tabo",
+   "drive": "≈ 47 km · 1.5–2 h",
+   "text": "A short, easy drive back down the valley to Tabo, with time for one more visit to the monastery or the caves in the afternoon. Sleeping lower at about 3,050 m before the long drive to Kalpa makes the return easier. Dinner is at your guesthouse. Your guide can arrange a visit to the cave paintings above the village if you missed them on the way up, or a quiet evening walk through the orchards and fields along the river.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Tabo to Kalpa",
+   "place": "tabo",
+   "overnight": "",
+   "drive": "≈ 180 km · 7–8 h",
+   "text": "Leave after an early breakfast and drive back through Sumdo, Nako and Pooh to the Sutlej, reaching Kalpa by late afternoon. Your guide and driver drop you at your Kalpa hotel. The onward nights to Shimla are arranged separately. Lunch is at a cafe in Nako or Pooh. The road passes the Malling slide zone again, and in July and August your driver may wait for clearance; this is why we keep the day open. Pack snacks and water for the drive.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "the-grand-dewachen-rangrik",
+  "tabo-monastery-guest-house"
+ ],
+ "includes": [
+  "8 nights in the best available rooms at each stop, twin sharing",
+  "All meals from lunch on day 1 to breakfast on day 9",
+  "Private SUV with driver from Kalpa and back",
+  "Private English- or Hindi-speaking guide throughout",
+  "Monastery donations on guided visits"
+ ],
+ "excludes": [
+  "Shimla–Kalpa nights before and after",
+  "Flights and trains",
+  "Drinks",
+  "Protected Area Permit fees for foreign nationals",
+  "Tips for guide and driver"
+ ],
+ "good_to_know": [
+  "Acclimatisation: all eight nights are at about 3,000 m or above, with day visits to villages above 4,200 m. The climb via Nako and Tabo is gradual, but rest on arrival, drink water and talk to your doctor before you go.",
+  "In May and October nights in Kaza can fall below freezing and some cafes are shut; hotels may open late or close early. Check current status before you travel.",
+  "The Kinnaur road has rockfall zones such as Malling; we drive in daylight and keep flexible.",
+  "Photography is not allowed inside Tabo's old halls and many monastery interiors.",
+  "Tabo has no luxury hotel; we use the best available guesthouse rooms."
+ ],
+ "faqs": [
+  {
+   "q": "Why does this trip return through Kinnaur?",
+   "a": "It avoids Kunzum La, which is usually closed outside mid-June to October. That makes May and late October possible, and the gradual Kinnaur road is kinder for acclimatisation."
+  },
+  {
+   "q": "Is May a good time for Spiti?",
+   "a": "Yes, for this route. Kaza reopens, skies are clear and roads are quiet. Nights are cold and some villages may have snow on access roads. Check current status before you travel."
+  },
+  {
+   "q": "What does ₹1,45,000 per person include?",
+   "a": "Eight nights in the best rooms with all meals, a private SUV and driver, and a private guide, for two people sharing. Shimla–Kalpa travel is extra. Prices are indicative for 2026."
+  },
+  {
+   "q": "Can we photograph inside the monasteries?",
+   "a": "Often not. Tabo's old halls do not allow photography, and others have their own rules. Your guide will tell you where it is allowed. Never use flash on murals."
+  },
+  {
+   "q": "Do foreigners need a permit?",
+   "a": "Yes, a Protected Area Permit for the Kinnaur–Spiti border stretch. We help arrange it. Check current status before you travel."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, for healthy seniors. There is no high night above 3,900 m and the drives are mostly short. Talk to your doctor before you go."
+  },
+  {
+   "q": "Can we include Chandratal?",
+   "a": "Only between mid-June and October, by exiting over Kunzum La to Manali instead of returning via Kinnaur. See our 11-night signature trip."
+  },
+  {
+   "q": "What is the best hotel in Spiti?",
+   "a": "The Grand Dewachen at Rangrik, near Kaza, is the most comfortable. It is warm and well run, but not a luxury resort."
+  },
+  {
+   "q": "How long is the drive from Shimla to Kalpa?",
+   "a": "About 220–230 km and 8–9 hours. We suggest breaking it at Narkanda or Sarahan, which also helps your body adjust before Kinnaur."
+  }
+ ]
+}

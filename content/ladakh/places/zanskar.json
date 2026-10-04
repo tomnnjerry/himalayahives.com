@@ -1,0 +1,313 @@
+{
+ "slug": "zanskar",
+ "name": "Zanskar (Padum)",
+ "region": "ladakh",
+ "kind": "valley",
+ "wiki": "Zanskar",
+ "image_query": "Zanskar valley Padum Karsha",
+ "lat": 33.466,
+ "lng": 76.884,
+ "altitude_m": 3650,
+ "tagline": "Ladakh's remotest valley, reached over Pensi La",
+ "meta_description": "Zanskar, Ladakh: Padum, Karsha and Phugtal monasteries, Pensi La and Drang Drung glacier, the Chadar in winter. Roads, costs, stays and acclimatisation.",
+ "summary": "Zanskar is a high valley in Kargil district, centred on Padum at about 3,650 m. It is reached from Kargil over Pensi La (about 4,400 m), a 10–12 hour drive, and is cut off by snow for much of winter. Come June to September for Karsha, Phugtal and village life.",
+ "intro": [
+  "Zanskar is the part of Ladakh that still feels far away. The road from Kargil climbs the Suru valley, crosses the Rangdum plain and goes over Pensi La beside the long white tongue of the Drang Drung glacier, before dropping into the Stod valley and down to Padum. That is a full day of rough road, and for much of winter the pass is closed by snow.",
+  "Padum, the main town, sits on a wide plain where two rivers meet: the Stod, which comes down from Pensi La, and the Lungnak, which flows from the south-east past Phugtal. Together they become the Zanskar river, which then cuts north through a deep gorge to meet the Indus near Nimmu. Villages are scattered across the plain and up the side valleys, each with its fields of barley and peas and its gompa on a ridge.",
+  "Most people in Zanskar are Buddhist, and the valley has some of the most striking monasteries in the Himalaya: Karsha climbing a cliff above Padum, Stongde on its ridge, and Phugtal built around a cave in a gorge a day's walk from the road end. Padum also has a Muslim community and a mosque. Come with time: three nights is a minimum, five is better, and Padum at 3,650 m needs the same respect for altitude as Leh."
+ ],
+ "facts": [
+  [
+   "Best months",
+   "Jun – Sep; Jan – Feb for the Chadar"
+  ],
+  [
+   "Nights we suggest",
+   "3–5"
+  ],
+  [
+   "Nearest airport",
+   "Leh, ≈ 450 km by road via Kargil"
+  ],
+  [
+   "From Kargil",
+   "≈ 235 km · 10–12 h via Pensi La"
+  ],
+  [
+   "Altitude",
+   "≈ 3,650 m at Padum; Pensi La ≈ 4,400 m"
+  ],
+  [
+   "Known for",
+   "Karsha, Phugtal, Drang Drung glacier, the Chadar"
+  ]
+ ],
+ "best_months": [
+  1,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0
+ ],
+ "nights": "3–5",
+ "highlights": [
+  {
+   "title": "Karsha Monastery above Padum",
+   "text": "Across the Stod river from Padum, Karsha's white buildings climb a steep cliff. It is the largest monastery in Zanskar and belongs to the Gelug school. Go in the morning, climb slowly, and look back over the whole Padum plain from the top."
+  },
+  {
+   "title": "Phugtal, the cave monastery",
+   "text": "In the Lungnak gorge, Phugtal is built around a natural cave high on a cliff, its cells stacked like a honeycomb below the opening. It is reached by a walk of several hours from the road end, so plan a long day or a night nearby."
+  },
+  {
+   "title": "Pensi La and Drang Drung glacier",
+   "text": "At the top of Pensi La, about 4,400 m, the Drang Drung glacier sweeps down from the peaks in a long curve of ice and moraine. It feeds the Stod river. Stop at the viewpoint on the Zanskar side for the clearest view."
+  },
+  {
+   "title": "Rangdum's monastery on a hillock",
+   "text": "Halfway from Kargil, the Rangdum gompa sits alone on a small hill in a wide, cold plain, with peaks and glaciers around it. Few places in Ladakh feel as empty. It is the natural night halt on the way in."
+  },
+  {
+   "title": "Stongde and Zangla",
+   "text": "South-east of Padum, Stongde's monastery sits on a ridge above its village, and further on, Zangla has an old royal palace ruin and a nunnery. A day by car takes in both, with long views up the Zanskar gorge."
+  },
+  {
+   "title": "The Chadar in winter",
+   "text": "In January and February, when roads are closed, the frozen Zanskar river becomes a route walked by local people and organised trekking groups. It is a serious, very cold trek on ice; go only with an experienced registered operator."
+  }
+ ],
+ "field_notes": [
+  {
+   "fact": "The Zanskar river is formed near Padum where the Stod (Doda) river, fed by the Drang Drung glacier at Pensi La, meets the Lungnak (Tsarap) river from the south-east. It then flows north to join the Indus near Nimmu.",
+   "source": "Zanskar River"
+  },
+  {
+   "fact": "Phugtal Monastery in the Lungnak valley is built around a natural cave on a cliff face, with monks' cells and temples stacked below the cave opening; until recently it could be reached only on foot.",
+   "source": "Phugtal Monastery"
+  },
+  {
+   "fact": "In winter, when snow closes the passes, the frozen surface of the Zanskar river, called the Chadar, has long served as a walking route between Zanskar and the Indus valley.",
+   "source": "Chadar trek"
+  }
+ ],
+ "local_word": {
+  "word": "Chadar",
+  "language": "Hindi / Urdu, as used in Ladakh",
+  "meaning": "a sheet or blanket; the name for the frozen Zanskar river walked in winter"
+ },
+ "costs": [
+  [
+   "Taxi Kargil–Padum one way",
+   "₹12,000–16,000 a car"
+  ],
+  [
+   "Bus Kargil–Padum",
+   "₹700–1,000 one way, when running"
+  ],
+  [
+   "Guesthouse room in Padum with meals",
+   "₹1,500–3,000 per person"
+  ],
+  [
+   "Monastery entry or donation",
+   "₹50–100"
+  ],
+  [
+   "Local taxi day to Karsha, Stongde and Zangla",
+   "₹4,000–5,500 a car"
+  ],
+  [
+   "Pony with handler for the Phugtal walk",
+   "₹1,000–1,500 a day"
+  ]
+ ],
+ "how_to_reach": [
+  {
+   "mode": "Air",
+   "text": "There are no regular flights. Fly to Leh, rest at least two nights, then drive via Kargil, or arrive by road from Srinagar."
+  },
+  {
+   "mode": "Bus",
+   "text": "A bus runs between Kargil and Padum a few times a week in summer, taking a full day; shared taxis also run when there is demand. Schedules change often, so check current status before you travel."
+  },
+  {
+   "mode": "Road",
+   "text": "From Kargil ≈ 235 km · 10–12 h via the Suru valley, Rangdum and Pensi La. A newer road from Darcha in Lahaul over Shinku La has opened to vehicles in recent seasons, and a road from Nimmu along the Zanskar gorge is being built. Conditions vary; check current status before you travel."
+  }
+ ],
+ "where_to_stay": "Saver: Padum has family guesthouses and small hotels at ₹1,500–3,000 per person with dinner and breakfast, and villages such as Karsha and Pipiting have homestays; bathrooms are often shared and power is limited. Comfort: a few hotels in Padum have attached bathrooms and hot water, and some camps open in high summer, at ₹3,000–6,000 a double. Signature: there is no luxury hotel in Zanskar; we choose the best rooms available, add a private guide and driver, and plan generous rest time.",
+ "stays": [],
+ "tips": [
+  "Spend at least three nights in Leh, or two in Kargil and one at Rangdum, before sleeping in Padum.",
+  "Carry enough cash from Kargil or Leh; Padum's ATM is not always working.",
+  "Power is limited and often solar; bring a power bank and a headtorch.",
+  "Mobile coverage is patchy; tell family you may be out of contact for several days.",
+  "Pensi La can see snow in any month; carry warm layers in the car even in July."
+ ],
+ "themes": [
+  "treks-and-walks",
+  "monasteries",
+  "road-trips",
+  "homestays-and-villages",
+  "snow-and-winter"
+ ],
+ "nearby": [
+  "kargil",
+  "lamayuru"
+ ],
+ "experiences": [
+  {
+   "slug": "zanskar-karsha-monastery-morning",
+   "title": "Karsha Monastery and the Padum plain",
+   "kind": "culture",
+   "duration": "3 hours",
+   "best_time": "Morning, Jun–Sep",
+   "cost": "Entry or donation ₹50–100; taxi ₹1,000–1,500 return",
+   "image_query": "Karsha Monastery Zanskar",
+   "wiki": "Karsha Monastery",
+   "summary": "Cross the Stod river from Padum to Karsha, the largest monastery in Zanskar, whose white buildings climb a steep cliff. Climb slowly through the complex to the upper temples for a view over the whole Padum plain.",
+   "body": [
+    "Karsha is about 10 km from Padum by road, across the Stod river. From below, the monastery looks like a white staircase up a brown cliff, with the village and its barley fields at the foot. It belongs to the Gelug school and is the largest gompa in the valley.",
+    "Climb through the lanes between monks' houses to the assembly hall and the temples above. Paths are steep and you are at about 3,600 m, so take it slowly and rest often. Inside, look for old wall paintings and the rows of seated monks if you arrive during prayers.",
+    "From the top, the Padum plain spreads out below: the meeting of the Stod and Lungnak rivers, villages on alluvial fans, and the snow peaks of the Great Himalaya to the south. Dress modestly, walk clockwise and ask before photographing monks or interiors."
+   ],
+   "good_for": [
+    "first-timers",
+    "photographers",
+    "couples",
+    "solo"
+   ],
+   "faqs": [
+    {
+     "q": "How far is Karsha from Padum?",
+     "a": "Karsha is about 10 km from Padum by road, across the Stod river, around 25 minutes by car. A local taxi costs roughly ₹1,000–1,500 return with waiting time. Fit walkers can walk it in 2–3 hours, but the sun is strong, so start early."
+    },
+    {
+     "q": "Is the climb to Karsha Monastery difficult?",
+     "a": "It is steep, with uneven steps and paths between buildings, and you are at about 3,600 m. Most people manage it in 30–45 minutes with rests. Do it only after you have slept at least one or two nights in Padum, and turn back if you feel dizzy or breathless."
+    },
+    {
+     "q": "Can I see the Gustor festival at Karsha?",
+     "a": "Karsha holds a masked-dance festival on dates set by the Tibetan lunar calendar, usually in summer. Dates move every year, so ask in Padum or a Leh agency and check current status before you travel."
+    }
+   ]
+  },
+  {
+   "slug": "zanskar-phugtal-cave-monastery-walk",
+   "title": "Walk to Phugtal, the cave monastery",
+   "kind": "trek",
+   "duration": "Full day or 2 days",
+   "best_time": "Jul–Sep",
+   "cost": "Donation ₹100–200; taxi to road end ₹4,000–6,000; guide ₹2,000–3,000 a day",
+   "image_query": "Phugtal Monastery cave Zanskar",
+   "wiki": "Phugtal Monastery",
+   "summary": "Drive from Padum up the Lungnak valley to the road end, then walk along the gorge to Phugtal, a monastery built around a cave high on a cliff. It is one of the most remarkable buildings in the Himalaya.",
+   "body": [
+    "Phugtal lies in the Lungnak gorge south-east of Padum. The road has been extended up the valley in recent years, so the walk from the road end is now a few hours each way rather than a multi-day trek; ask in Padum how far vehicles reach this season.",
+    "The path follows the river, crosses a bridge and climbs gently. Then you round a bend and see the monastery: a cave mouth high on the cliff, with monks' cells and temples stacked below it like a honeycomb, all whitewashed against the brown rock. A spring inside the cave supplies water.",
+    "Go with a local guide, start early, carry water, snacks and sun protection, and allow time to sit quietly in the cave temple. Some travellers stay overnight in a village homestay near the monastery to avoid rushing. This is a walk for people already acclimatised to Padum."
+   ],
+   "good_for": [
+    "solo",
+    "photographers",
+    "students",
+    "couples"
+   ],
+   "faqs": [
+    {
+     "q": "How long is the walk to Phugtal?",
+     "a": "It depends on how far the road reaches. In recent seasons the walk from the road end has been a few hours each way on a mostly gentle path along the gorge. Ask in Padum before you go, and allow a full day. Road extensions change the distance; check current status before you travel."
+    },
+    {
+     "q": "Is the Phugtal walk suitable for beginners?",
+     "a": "Yes, for fit beginners who are already acclimatised. The path is not technical but is at about 3,850 m, exposed to sun and with a final steep climb to the cave. Walk slowly, drink water and carry snacks. People with heart or lung conditions should talk to their doctor first."
+    },
+    {
+     "q": "Can I stay overnight near Phugtal?",
+     "a": "A few village homestays and simple campsites near the monastery and in nearby villages host trekkers in summer, with basic rooms and shared toilets. Arrange through a Padum guide or agency. Carry a sleeping bag liner and cash."
+    }
+   ]
+  },
+  {
+   "slug": "zanskar-pensi-la-drang-drung-glacier",
+   "title": "Pensi La and the Drang Drung glacier",
+   "kind": "nature",
+   "duration": "2–3 hours on the drive",
+   "best_time": "Jul–Sep, morning",
+   "cost": "Free; part of the Kargil–Padum drive",
+   "image_query": "Drang Drung glacier Pensi La",
+   "wiki": "Pensi La",
+   "summary": "The pass between the Suru valley and Zanskar, at about 4,400 m, looks straight onto the Drang Drung glacier, a long curving river of ice. Stop at the viewpoint on the Zanskar side, then drop into the Stod valley.",
+   "body": [
+    "Pensi La is the gateway to Zanskar. The road climbs from the wide Rangdum plain past small lakes, often with marmots on the slopes, to the top of the pass at about 4,400 m. On the far side, the view opens onto the Drang Drung glacier, sweeping down from the peaks in a long curve and ending in grey moraine.",
+    "The glacier is the source of the Stod river, which you follow all the way down to Padum. Stop at the viewpoint a short way below the pass on the Zanskar side, where most drivers pull in. Stay 15–20 minutes, not longer: you are well above your sleeping height.",
+    "Mornings give the clearest views before clouds build. If you are coming from Rangdum, leave by 7 am. Carry warm layers, sunglasses and water, and keep to the road edge; the moraine is loose and dangerous."
+   ],
+   "good_for": [
+    "photographers",
+    "first-timers",
+    "families",
+    "couples"
+   ],
+   "faqs": [
+    {
+     "q": "How high is Pensi La?",
+     "a": "Pensi La is about 4,400 m, the highest point on the Kargil–Padum road. It is lower than Khardung La or Chang La, but still high enough to cause headaches if you are not acclimatised. Spend nights in Kargil and Rangdum, or in Leh, before crossing it."
+    },
+    {
+     "q": "Can I walk on the Drang Drung glacier?",
+     "a": "Not safely without mountaineering experience and gear. The glacier has crevasses and the moraine is loose. Enjoy it from the viewpoints on the road. Organised glacier walks, where offered, should only be done with qualified local guides."
+    },
+    {
+     "q": "When is Pensi La open?",
+     "a": "Pensi La is usually open from about June to October, depending on snow. Early and late in the season, snow and ice can block or slow the road. Check current status before you travel and carry warm clothes even in summer."
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How do I reach Zanskar?",
+   "a": "Most people drive from Kargil, about 235 km and 10–12 hours via the Suru valley, Rangdum and Pensi La, often with a night at Rangdum. A newer road from Darcha in Lahaul over Shinku La has opened in recent seasons, and a road from Nimmu is under construction. Check current status before you travel."
+  },
+  {
+   "q": "What is the best time to visit Zanskar?",
+   "a": "July to September is best, when Pensi La is reliably open, villages are farming and the walk to Phugtal is easy. June can still have snow on the pass. From November to May the valley is mostly cut off by road; January and February are the season for the Chadar trek."
+  },
+  {
+   "q": "Do I need a permit for Zanskar?",
+   "a": "No. Indians and foreign nationals do not need an Inner Line Permit or Protected Area Permit for Padum, Karsha, Phugtal or the Kargil–Padum road. Carry photo ID and copies for checkposts. Rules change, so check current status before you travel."
+  },
+  {
+   "q": "How many days do I need in Zanskar?",
+   "a": "Plan at least three nights in Padum, plus a night at Rangdum each way if driving from Kargil. That gives you Karsha, Stongde and Zangla, and a day for Phugtal. Including travel from Leh, a Zanskar trip is usually 9–12 nights."
+  },
+  {
+   "q": "Is there mobile network and internet in Zanskar?",
+   "a": "Coverage is limited. BSNL and some postpaid networks work in Padum, but data is slow and unreliable, and most villages have no signal. Tell family you may be out of contact for several days, and download maps and documents in advance."
+  },
+  {
+   "q": "Is there an ATM in Padum?",
+   "a": "Padum has an ATM, but it is not always working or stocked. Carry enough cash from Leh or Kargil for rooms, food, taxis and donations for your whole stay. Card payments are rarely accepted outside a few hotels."
+  },
+  {
+   "q": "How cold is Zanskar?",
+   "a": "In summer, days in Padum reach about 20–25 °C and nights fall to 5 °C or lower, with frost possible on Pensi La. Winter is extreme: −20 °C and below is common, and the region is cut off by road. Pack warm layers whatever the month."
+  },
+  {
+   "q": "Is Zanskar suitable for families and seniors?",
+   "a": "Yes, for those comfortable with long, rough drives and simple rooms. Break the journey at Rangdum, keep days short and skip the Phugtal walk if mobility is limited. Padum is at about 3,650 m, so build in acclimatisation and talk to your doctor before travel."
+  },
+  {
+   "q": "What is the Chadar trek?",
+   "a": "The Chadar trek follows the frozen Zanskar river in January and February, walking on ice and camping in caves and on riverbanks at −15 to −25 °C. It needs registration, medical checks and insurance as required by Ladakh authorities, and an experienced operator. Check current status before you travel."
+  }
+ ]
+}

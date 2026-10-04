@@ -1,0 +1,88 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ s.name }}{% if s.place_obj %}, {{ s.place_obj.name }}{% endif %} · {{ s.kind|capfirst }} in {{ s.region_obj.name }} · Himalaya Hives{% endblock %}
+{% block description %}{{ s.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ s.name }}{% endblock %}
+{% block body_attrs %} data-land="{{ s.region }}"{% endblock %}
+{% block alt_from %}0{% endblock %}{% block alt_to %}{{ s.place_obj.altitude_m|default:0 }}{% endblock %}{% block alt_label %}{{ s.place_obj.name|default:"Altitude" }}{% endblock %}
+{% block fab_label %}Ask about this stay{% endblock %}{% block fab_land %}&land={{ s.region }}{% endblock %}
+{% block og_image %}{% with img=s|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=s.region cta_title="Put "|add:s.name|add:" on your trip" %}{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo s.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow"><span class="tier tier--{% if s.tier == 'budget' %}saver{% elif s.tier == 'mid' %}comfort{% else %}signature{% endif %}" style="margin-right:6px">{% if s.tier == 'mid' %}Mid-range{% else %}{{ s.tier|capfirst }}{% endif %}</span> {{ s.kind|capfirst }}{% if s.place_obj %} · {{ s.place_obj.name }}{% endif %}</p>
+      <h1 class="d-1">{{ s.name }}</h1>
+      <p class="answer">{{ s.summary }}</p>
+      <dl class="phead__meta">
+        {% if s.price_band %}<div><dt>Price band</dt><dd>{{ s.price_band|truncatechars:70 }}</dd></div>{% endif %}
+        {% if s.place_obj.alt_label %}<div><dt>Altitude</dt><dd>{{ s.place_obj.alt_label }}</dd></div>{% endif %}
+        {% if s.brand and s.brand != "Independent" %}<div><dt>Run by</dt><dd>{{ s.brand }}</dd></div>{% endif %}
+        <div><dt>Hive</dt><dd>{{ s.region_obj.name }}</dd></div>
+      </dl>
+    </div>
+    <div class="phead__photo">{% with img=s|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{% if s.images.0.description %}{{ s.images.0.description|truncatechars:120 }}{% else %}{{ s.place_obj.name|default:s.name }}{% endif %}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline s.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <div class="prose">{% for para in s.body %}<p>{{ para }}</p>{% endfor %}
+        {% if s.why %}<h2>Why we use it</h2><ul>{% for w in s.why %}<li>{{ w }}</li>{% endfor %}</ul>{% endif %}</div>
+      {% if s.best_for %}<p class="eyebrow" style="margin-top:26px">Best for</p><div class="chips">{% for b in s.best_for %}<span class="chip">{% icon "heart" %}{{ b|capfirst }}</span>{% endfor %}</div>{% endif %}
+      {% if s.images and s.place_obj and s.images == s.place_obj.images %}<p class="small muted" style="margin-top:26px">The photo shows {{ s.place_obj.name }}, not the property itself.</p>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>The stay in brief</h2>
+        <div class="ledger">
+          <div class="ledger__row"><span>Kind</span><span class="ledger__dots"></span><b>{{ s.kind|capfirst }}</b></div>
+          <div class="ledger__row"><span>Level</span><span class="ledger__dots"></span><b>{% if s.tier == 'mid' %}Mid-range{% else %}{{ s.tier|capfirst }}{% endif %}</b></div>
+          {% if s.place_obj %}<a class="ledger__row" href="{{ s.place_obj.url }}"><span>Place</span><span class="ledger__dots"></span><b>{{ s.place_obj.name }}</b></a>{% endif %}
+          {% if s.brand %}<div class="ledger__row"><span>Brand</span><span class="ledger__dots"></span><b>{{ s.brand }}</b></div>{% endif %}
+        </div>
+        {% if s.price_band %}<p style="margin:16px 0 0;font-size:16px"><b>{{ s.price_band }}</b></p>{% endif %}
+        <p class="small muted" style="margin:10px 0 0">Indicative 2026. We confirm rate and room with your quote.{% if s.website %} Official site: <a href="{{ s.website }}" rel="noopener nofollow" target="_blank">{{ s.website|cut:"https://"|cut:"http://"|cut:"www."|truncatechars:34 }}</a>{% endif %}</p>
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="stay" qf_land=s.region qf_title="Ask about rooms and dates" qf_message="Stay: "|add:s.name %}
+    </aside>
+  </div>
+</section>
+
+{% if s.journey_objs %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Trips that stay here</p><h2 class="d-1">Sleep here on a trip</h2></div></div>
+    <div class="grid grid--4" data-fill>{% for j in s.journey_objs|slice:":8" %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=s.region %}</div>
+  </div>
+</section>{% endif %}
+
+{% if s.place_obj %}<section class="sec">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Around the stay</p><h2 class="d-2" style="margin-bottom:16px">{{ s.place_obj.name }}</h2>
+      <p class="prose">{{ s.place_obj.summary }}</p>
+      {% if s.place_obj.experiences %}<div class="grid grid--3" style="margin-top:24px">{% for e in s.place_obj.experiences|slice:":3" %}{% include "hives/partials/card_exp.html" %}{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="split__aside"><div class="panel panel--line"><h3>{{ s.place_obj.name }} at a glance</h3>
+      <div class="ledger">{% for k, v in s.place_obj.facts|slice:":5" %}<div class="ledger__row"><span>{{ k }}</span><span class="ledger__dots"></span><b>{{ v }}</b></div>{% endfor %}</div>
+      <a class="link" style="margin-top:14px" href="{{ s.place_obj.url }}">The {{ s.place_obj.name }} guide {% icon "arrow" %}</a></div></aside>
+  </div>
+</section>{% endif %}
+
+{% if s.faqs %}<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">About {{ s.name }}</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=s.faqs open_first=True %}
+  </div>
+</section>{% endif %}
+
+{% if others %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">More in {{ s.region_obj.name }}</p><h2 class="d-1">Other places to stay</h2></div><a class="link" href="{% url 'stays' %}#{{ s.region }}">All {{ s.region_obj.name }} stays {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for s in others %}{% include "hives/partials/card_stay.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

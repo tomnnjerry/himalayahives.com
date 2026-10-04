@@ -1,0 +1,37 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya experiences · {{ count }} days worth planning around · Himalaya Hives{% endblock %}
+{% block description %}{{ count }} Himalaya experiences by kind and by hive: monastery mornings, treks, wildlife, village homestays, food, craft and adventure, with duration, best time and real costs.{% endblock %}
+{% block og_title %}Himalaya experiences{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="experiences" eyebrow="Experiences" title="Days worth planning a trip around" lede="Prayers at a gompa at 7 am, a walk to a high lake, an evening in a family kitchen. Each one with its duration, best time and what it really costs." answer="Browse by kind or by hive. Every experience can be added to any trip in any tier: tell us which ones you want and we build the days around them." %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">By kind</p><h2 class="d-1">What do you want to do</h2></div></div>
+    <div class="grid grid--4">{% for k, n in kind_links %}{% if k in kinds %}<a class="panel" href="{% url 'experience_kind' k %}" style="text-decoration:none;display:grid;gap:10px;align-content:start">
+      <span class="hbadge hbadge--foil">{% icon k %}</span>
+      <h3 class="d-4" style="margin:6px 0 0">{{ n }}</h3>
+      <span class="link">See {{ n|lower }} {% icon "arrow" %}</span>
+    </a>{% endif %}{% endfor %}</div>
+  </div>
+</section>
+
+{% if count %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">By hive</p><h2 class="d-1">A few from each valley</h2><p class="lede">One experience from each of the places our trips stop at most. Every hive page has the full list.</p></div></div>
+    <div class="chips" style="margin-bottom:34px">{% for r in regions %}<a class="chip" href="#{{ r.slug }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+    {% for r in regions %}{% if r.places %}<div id="{{ r.slug }}" style="margin-bottom:clamp(40px,5vw,64px)">
+      <div class="sec-head"><div><h3 class="d-2">{{ r.name }}</h3></div><a class="link" href="{{ r.url }}">All of {{ r.name }} {% icon "arrow" %}</a></div>
+      <div class="grid grid--4">{% for p in r.top_places|slice:":4" %}{% with e=p.experiences.0 %}{% if e %}<a class="cell" href="{{ e.url }}" data-land="{{ r.slug }}">
+        <div class="cell__ph">{% with img=e|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+          <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon e.kind %}</span></div>
+        <div class="cell__body">
+          <span class="readout">{{ p.name }} · {{ e.duration }}</span>
+          <h4 class="cell__title">{{ e.title }}</h4>
+          <p class="cell__text">{{ e.summary|truncatechars:110 }}</p>
+        </div>
+      </a>{% endif %}{% endwith %}{% endfor %}</div>
+    </div>{% endif %}{% endfor %}
+  </div>
+</section>{% else %}<section class="sec sec--paper2"><div class="wrap"><div class="panel panel--wax" style="max-width:720px"><h2>Experiences are being added</h2><p>Tell us what you want to do and we will find the valley and the month for it.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask a planner</a></div></div></section>{% endif %}
+{% endblock %}

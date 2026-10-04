@@ -1,0 +1,42 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Field notes · small, sourced facts from eleven Himalaya hives · Himalaya Hives{% endblock %}
+{% block description %}Short, checkable facts from inside each Himalaya valley, from Kashmir to Arunachal, each with its source named. Plus local words to learn before you go.{% endblock %}
+{% block og_title %}Field notes from the Himalaya{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "field-notes" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Field notes · facts with sources</p>
+      <h1 class="d-1">What the brochures leave out</h1>
+      <p class="lede">Small, true things from inside each hive: why a lake is that colour, which day the bus runs, what a word means. Every note names its source so you can check it.</p>
+      <div class="chips" style="margin-top:26px">{% for g in groups %}{% if g.notes or g.words %}<a class="chip" href="#{{ g.r.slug }}" data-land="{{ g.r.slug }}">{% icon g.r.slug %}{{ g.r.name }}<span class="readout" style="margin-left:4px">{{ g.notes|length }}</span></a>{% endif %}{% endfor %}</div>
+    </div>
+  </div>
+  {% ridgeline "field-notes" 4 %}
+</header>
+
+{% for g in groups %}{% if g.notes or g.words %}
+<section class="sec{% cycle '' ' sec--paper2' %}" id="{{ g.r.slug }}" data-land="{{ g.r.slug }}">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">{{ g.r.country }} · {{ g.r.palette }}</p><h2 class="d-1" style="display:flex;gap:16px;align-items:center"><span class="hbadge hbadge--foil">{% icon g.r.slug %}</span>{{ g.r.name }}</h2>
+      {% if g.notes %}<p class="lede">{{ g.notes|length }} note{{ g.notes|length|pluralize }} from {{ g.r.name }}, each with its source.</p>{% endif %}</div>
+      <a class="link" href="{{ g.r.url }}">The {{ g.r.name }} hive {% icon "arrow" %}</a></div>
+    {% if g.notes %}<div class="notes">{% for n in g.notes %}{% include "hives/partials/note.html" %}{% endfor %}</div>{% endif %}
+    {% if g.words %}<p class="eyebrow" style="margin:{% if g.notes %}40px{% else %}0{% endif %} 0 16px">Say it like a local</p>
+    <div class="grid grid--4">{% for w in g.words|slice:":8" %}<div class="say"><span class="hbadge hbadge--sm hbadge--foil">{% icon "word" %}</span><div><small>{{ w.language }}</small><b class="foil-text">{{ w.word }}</b><div style="font-size:15px;opacity:.88">{{ w.meaning }}</div></div></div>{% endfor %}</div>{% endif %}
+  </div>
+</section>
+{% endif %}{% empty %}
+<section class="sec"><div class="wrap"><p class="muted">Field notes are being added. <a href="{% url 'plan' %}">Ask a planner</a> anything in the meantime.</p></div></section>
+{% endfor %}
+
+<section class="sec sec--tint">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div><p class="eyebrow">How we source a note</p><h2 class="d-2" style="margin-bottom:16px">Checkable, or it does not go up</h2>
+      <p>Each note is a single fact we can point to: usually a Wikipedia article, a government or park authority page, or a published study. Where a number changes, such as a fee or a road opening, we say so and ask you to check current status before you travel.</p></div>
+    <div class="panel"><h3>Found a note that is out of date?</h3><p style="font-size:16.5px">Tell us what changed and where you saw it. We check it against the source and correct the note.</p><a class="btn btn--ink btn--sm" href="{% url 'contact' %}">Send a correction</a></div>
+  </div>
+</section>
+{% endblock %}

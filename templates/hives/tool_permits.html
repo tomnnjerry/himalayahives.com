@@ -1,0 +1,120 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Permit checker · Inner Line, Protected Area and park permits by hive · Himalaya Hives{% endblock %}
+{% block description %}Which permits you need for each Himalaya hive, from Ladakh and Spiti to Sikkim, Bhutan and Arunachal, for Indian citizens and foreign nationals. Check current status before you travel.{% endblock %}
+{% block og_title %}Himalaya permit checker{% endblock %}
+{% block head_extra %}<style>
+.pm { display: grid; gap: 18px; }
+.pm__c { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 300px); gap: 10px 36px; padding: clamp(20px, 3vw, 30px); background: var(--card); clip-path: var(--chamfer); scroll-margin-top: 110px; }
+.pm__c h2 { font: 400 clamp(26px, 2.6vw, 34px)/1.1 var(--display); display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+.pm__text { font-size: 17px; line-height: 1.65; margin: 0; }
+.pm__text span { transition: opacity .2s, background .2s; }
+[data-nat="indian"] .pm__text [data-for="foreign"], [data-nat="foreign"] .pm__text [data-for="indian"] { opacity: .38; }
+[data-nat="indian"] .pm__text [data-for="indian"], [data-nat="foreign"] .pm__text [data-for="foreign"] { background: var(--wax); box-shadow: 0 0 0 2px var(--wax); }
+.pm__short { font: 600 15px/1.4 var(--mono); padding: 12px 14px; background: var(--tint); border-left: 3px solid var(--hink); margin: 0 0 14px; }
+@media (max-width: 980px) { .pm__c { grid-template-columns: 1fr; } }
+</style>{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "permits" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Trip tools · permit checker</p>
+      <h1 class="d-1">Which permits do I need</h1>
+      <p class="lede">Hive by hive: Inner Line Permits, Protected Area Permits, park and conservation fees and entry rules, as we understand them in 2026. Choose your nationality to see the lines that apply to you.</p>
+      <p class="answer">Indian citizens need an Inner Line Permit for Arunachal and some border valleys, and pay fees for parts of Ladakh. Foreign nationals need Protected Area Permits for many border areas, a visa for Nepal and a licensed operator for Bhutan. Rules change often: check current status before you travel.</p>
+    </div>
+  </div>
+  {% ridgeline "permits" 4 %}
+</header>
+
+<section class="sec sec--tight" data-nat-root data-nat="all">
+  <div class="wrap">
+    <div class="filters">
+      <div class="tabs" role="group" aria-label="Your nationality">
+        <button type="button" data-nat-btn="all" aria-pressed="true">Everyone</button>
+        <button type="button" data-nat-btn="indian" aria-pressed="false">Indian citizen</button>
+        <button type="button" data-nat-btn="foreign" aria-pressed="false">Foreign national</button>
+      </div>
+      <label class="sr-only" for="pm-jump">Jump to a hive</label>
+      <select id="pm-jump" data-pm-jump><option value="">Jump to a hive</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <span class="filters__count" data-nat-note>Showing every rule</span>
+    </div>
+
+    <div class="pm">{% for r in regions %}
+      <article class="pm__c" id="{{ r.slug }}" data-land="{{ r.slug }}">
+        <div>
+          <h2><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h2>
+          {% for k, v in r.facts %}{% if k == "Permits" %}<p class="pm__short">{{ v }}</p>{% endif %}{% endfor %}
+          {% if r.permits %}<p class="pm__text" data-permit>{{ r.permits }}</p>
+          {% else %}<p class="pm__text muted">We are still writing up the permit rules for {{ r.name }}. <a href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}">Ask a planner</a> for the current position.</p>{% endif %}
+        </div>
+        <div>
+          <div class="ledger">
+            <div class="ledger__row"><span>Country</span><span class="ledger__dots"></span><b>{{ r.country }}</b></div>
+            {% for k, v in r.facts %}{% if k == "Main gateways" or k == "Highest road" %}<div class="ledger__row" style="grid-template-columns:1fr"><span>{{ k }}</span><b style="text-align:left;font-weight:500;font-size:15px">{{ v }}</b></div>{% endif %}{% endfor %}
+          </div>
+          <div style="display:flex;flex-wrap:wrap;gap:14px;margin-top:16px"><a class="link" href="{{ r.url }}#map">Getting there {% icon "arrow" %}</a><a class="link" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="permits-plan">We arrange permits {% icon "arrow" %}</a></div>
+        </div>
+      </article>{% empty %}
+      <p class="muted">Permit notes are being added. <a href="{% url 'plan' %}">Ask a planner</a>.</p>
+    {% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Before any border valley</p><h2 class="d-2" style="margin-bottom:18px">What to carry</h2>
+      <div class="prose" style="font-size:17px"><ul>
+        <li>Original photo ID and several photocopies. Indian citizens: passport or voter ID is accepted in more places than Aadhaar, and is required for Nepal and Bhutan.</li>
+        <li>Foreign nationals: passport with a valid Indian visa, and copies of both, for every checkpost.</li>
+        <li>Printed permits and fee receipts. Phone signal is patchy at checkposts and officers often want paper.</li>
+        <li>The list of districts or areas on your permit. Going beyond them can mean being turned back.</li>
+      </ul></div>
+    </div>
+    <div class="panel panel--wax"><h3>Check current status before you travel</h3>
+      <p style="font-size:16.5px">Permit rules in the Himalaya change with security, season and new online systems, sometimes within a year. These notes reflect our understanding in 2026 and are not legal advice. When you book with us, a planner applies where a registered agent can, and sends the current rules with your quote.</p>
+      <a class="btn btn--ink btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="permits-panel-plan">Ask about permits</a></div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  "use strict";
+  var root = document.querySelector("[data-nat-root]");
+  if (!root) return;
+  var FOREIGN = /\b(foreign|foreigners|other nationalities|most other nationalities|international|non-indian)\b/i;
+  var INDIAN = /\b(indian|indians)\b/i;
+  /* split each permit paragraph into sentences and tag who each one is for */
+  Array.prototype.forEach.call(root.querySelectorAll("[data-permit]"), function (p) {
+    var text = p.textContent;
+    var parts = text.match(/[^.]+(?:\.+|$)(?:\s+|$)/g) || [text];
+    p.textContent = "";
+    parts.forEach(function (s) {
+      var span = document.createElement("span");
+      span.textContent = s;
+      var f = FOREIGN.test(s), i = INDIAN.test(s);
+      span.setAttribute("data-for", f && !i ? "foreign" : i && !f ? "indian" : "both");
+      p.appendChild(span);
+    });
+  });
+  var note = root.querySelector("[data-nat-note]");
+  var NOTES = { all: "Showing every rule", indian: "Highlighted: rules for Indian citizens", foreign: "Highlighted: rules for foreign nationals" };
+  function set(n) {
+    root.setAttribute("data-nat", n);
+    Array.prototype.forEach.call(root.querySelectorAll("[data-nat-btn]"), function (b) { b.setAttribute("aria-pressed", String(b.dataset.natBtn === n)); });
+    if (note) note.textContent = NOTES[n];
+    try { localStorage.setItem("hh-nat", n); } catch (e) {}
+  }
+  root.addEventListener("click", function (e) { var b = e.target.closest("[data-nat-btn]"); if (b) set(b.dataset.natBtn); });
+  var jump = root.querySelector("[data-pm-jump]");
+  if (jump) jump.addEventListener("change", function () { if (jump.value) { var t = document.getElementById(jump.value); if (t) t.scrollIntoView({ behavior: "smooth" }); history.replaceState(null, "", "#" + jump.value); } });
+  var q = new URLSearchParams(location.search).get("nationality"), saved = null;
+  try { saved = localStorage.getItem("hh-nat"); } catch (e) {}
+  var start = q || saved;
+  if (start && NOTES[start]) set(start);
+})();
+</script>
+{% endblock %}

@@ -1,0 +1,197 @@
+{
+ "slug": "nepal-saver-pokhara-poon-hill-ghandruk-7n",
+ "title": "Pokhara, Poon Hill and Ghandruk on a budget",
+ "region": "nepal",
+ "tier": "saver",
+ "nights": 7,
+ "themes": [
+  "treks-and-walks",
+  "homestays-and-villages",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "kathmandu",
+   "nights": 1
+  },
+  {
+   "place": "pokhara",
+   "nights": 3
+  },
+  {
+   "place": "ghandruk",
+   "nights": 3
+  }
+ ],
+ "start": "Kathmandu (Thamel)",
+ "end": "Kathmandu, Sorhakhutte tourist bus park",
+ "price_from_inr": 27500,
+ "price_note": "Per person, twin sharing: 7 nights in a hostel, budget Lakeside rooms and teahouses, tourist buses and shared jeeps, ACAP permit at SAARC rate, all trek meals and a licensed guide shared between two; flights to Kathmandu extra.",
+ "transport": "Tourist bus and shared jeep; three days on foot",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Active",
+ "meta_description": "Pokhara, Poon Hill and Ghandruk in 7 nights: tourist bus, a 3-night teahouse trek with a licensed guide and Gurung villages, from ₹27,500 per person.",
+ "summary": "Seven nights on Nepal's most popular short trek, done on a saver budget. A tourist bus to Pokhara, then three nights on the Poon Hill and Ghandruk loop in the Annapurna foothills with a licensed guide, dal bhat and teahouse rooms, and two lazy days on Phewa Lake.",
+ "intro": [
+  "The Poon Hill loop is the shortest walk in Nepal that gets you face to face with the big peaks. From the 3,210 m viewpoint above Ghorepani, Dhaulagiri and the Annapurna range line the northern horizon at dawn. Then the trail drops through rhododendron forest to Tadapani and the Gurung village of Ghandruk, with stone houses, terraced fields and a view of Annapurna South and Machhapuchhre.",
+  "We keep it affordable with the tourist bus from Kathmandu, shared jeeps to the trailhead, teahouse rooms with shared bathrooms and dal bhat with refills. A licensed guide walks with you, as current rules require for most foreign trekkers in the Annapurna area; split between two people, the cost stays modest. Expect long climbs on stone steps, about 3,300 of them on the first day from Tikhedhunga to Ulleri, cold nights and simple rooms."
+ ],
+ "highlights": [
+  "Sunrise from Poon Hill over Dhaulagiri and the Annapurna range",
+  "Rhododendron forest between Ghorepani and Tadapani in March and April",
+  "A night in Ghandruk's Gurung village with the old stone lanes",
+  "Rowing on Phewa Lake to the Tal Barahi temple island",
+  "Sunrise from Sarangkot or a walk up to the World Peace Pagoda"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Kathmandu, permits and kit check",
+   "place": "kathmandu",
+   "overnight": "Zostel Kathmandu, Thamel",
+   "drive": "",
+   "text": "Arrive in Kathmandu and check into Zostel. If you have not bought the ACAP permit online or through your agency, your guide helps you get it at the Nepal Tourism Board office in Bhrikutimandap, open on working days; bring your passport and two photos. Rent or buy any missing kit in Thamel: a down jacket, trekking poles and a sleeping bag liner cost little to hire. Early night before the 7 am bus.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Tourist bus to Pokhara",
+   "place": "pokhara",
+   "overnight": "Budget room or hostel, Lakeside Pokhara",
+   "drive": "≈ 200 km · 7–8 h",
+   "text": "Take the 7 am tourist bus from Sorhakhutte along the Trishuli river and over the Prithvi Highway to Pokhara, with a lunch stop on the way. Reach Lakeside by mid-afternoon. Walk along Phewa Lake for sunset and meet your guide for a briefing on the trek, the route and what to leave behind. Most Lakeside hotels store spare bags free for trekkers.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Jeep to Tikhedhunga, climb to Ulleri or Ghorepani",
+   "place": "ghandruk",
+   "overnight": "Teahouse, Ghorepani (2,860 m)",
+   "drive": "≈ 45 km · 2.5–3 h by jeep",
+   "text": "An early shared jeep from the Baglung bus park takes you via Nayapul up the Bhurungdi valley to Tikhedhunga or Ulleri, depending on the road. The walk is steep on old stone steps through Magar villages and then forest, about 5–6 hours to Ghorepani, a lodge village on a pass at 2,860 m. Rooms are basic, the dining room has a stove, and dal bhat is the sensible order.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Poon Hill sunrise, forest to Tadapani",
+   "place": "ghandruk",
+   "overnight": "Teahouse, Tadapani (2,630 m)",
+   "drive": "",
+   "text": "Leave at about 4.45 am with a headtorch for the 45-minute climb to Poon Hill at 3,210 m. In clear weather Dhaulagiri, Tukuche, Annapurna South and Machhapuchhre light up in turn. Back at the lodge for breakfast, then walk east along the ridge through rhododendron and oak forest via Deurali to Tadapani, about 5–6 hours. The forest flowers red and pink from March to mid-April.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Down to Ghandruk",
+   "place": "ghandruk",
+   "overnight": "Gurung homestay or lodge, Ghandruk (≈ 2,000 m)",
+   "drive": "",
+   "text": "A short, steep descent of 2–3 hours brings you to Ghandruk, one of the largest Gurung villages in the Annapurna region, with stone-slate roofs and flagged lanes. Visit the small Gurung museum, walk the old village and watch the evening light on Annapurna South and Machhapuchhre, the fishtail peak that is closed to climbers. Overnight in a family-run Gurung homestay.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Walk down, jeep to Pokhara",
+   "place": "pokhara",
+   "overnight": "Budget room or hostel, Lakeside Pokhara",
+   "drive": "≈ 50 km · 2.5–3 h by jeep",
+   "text": "Walk down to Kimche in about an hour and take a shared jeep to Nayapul and Pokhara. Afternoon free: hot shower, laundry and a slow lakeside dinner. If you have the energy, hire a rowing boat to the Tal Barahi temple island, a small two-tiered shrine to the goddess Barahi in the middle of Phewa Lake.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Pokhara rest day",
+   "place": "pokhara",
+   "overnight": "Budget room or hostel, Lakeside Pokhara",
+   "drive": "",
+   "text": "A free day. Take a taxi to Sarangkot for sunrise, or cross the lake by boat and walk up to the World Peace Pagoda, built by Japanese Buddhist monks of Nipponzan Myohoji. In the afternoon, visit the Tibetan settlement at Hemja or the International Mountain Museum. Paragliding from Sarangkot is a popular extra at ₹5,000–8,000.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 8,
+   "title": "Bus back to Kathmandu",
+   "place": "pokhara",
+   "overnight": "",
+   "drive": "≈ 200 km · 7–8 h",
+   "text": "Take the 7 am tourist bus back to Kathmandu, arriving mid-afternoon. If you are flying out of Pokhara or heading to the Sunauli border instead, buses leave Pokhara for Bhairahawa through the morning, taking 7–9 hours. Trip ends at Sorhakhutte bus park.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-kathmandu",
+  "ghandruk-homestay-village"
+ ],
+ "includes": [
+  "1 night at Zostel Kathmandu, 3 nights in budget Lakeside rooms, 3 nights in teahouses and a Ghandruk homestay, twin sharing",
+  "Tourist bus Kathmandu–Pokhara–Kathmandu and shared jeeps to and from the trailhead",
+  "ACAP permit at the SAARC rate",
+  "All meals on the trek (days 3–5) and breakfast on other days",
+  "Licensed trekking guide for the four trek days, shared between two"
+ ],
+ "excludes": [
+  "Flights or buses to Kathmandu",
+  "Lunch and dinner in Kathmandu and Pokhara",
+  "Porter (₹1,800–2,500 a day, optional)",
+  "Hot showers, charging and Wi-Fi at teahouses (₹200–500 each)",
+  "Paragliding, boat hire and tips"
+ ],
+ "good_to_know": [
+  "Poon Hill is 3,210 m, but you sleep no higher than 2,860 m; altitude problems are rare, though headaches can happen. Drink water and walk slowly.",
+  "Since April 2023, most foreign trekkers in Nepal's protected areas must go with a licensed guide; how this applies to Indian nationals has varied. Check current status before you travel.",
+  "Teahouse rooms are twin beds with a blanket; carry a sleeping bag or liner for warmth from November to February.",
+  "The first day has a long climb on stone steps; train with stairs for a few weeks before you come.",
+  "Leeches and cloud make June to August a poor time; October, November, March and April are best."
+ ],
+ "faqs": [
+  {
+   "q": "How difficult is the Poon Hill and Ghandruk trek?",
+   "a": "It is an easy-to-moderate trek of 4–6 hours a day, mostly on stone steps with long climbs and descents rather than difficult terrain. The first day to Ghorepani is the hardest. Anyone reasonably fit who can climb stairs for a few hours can do it; families with teenagers manage well."
+  },
+  {
+   "q": "How much does the Poon Hill trek cost for Indians?",
+   "a": "This 7-night trip starts at ₹27,500 per person, twin sharing, including buses, jeeps, rooms, trek meals, the ACAP permit at SAARC rates and a shared licensed guide. On the trail itself, budget about ₹3,000–4,500 a day per person with a shared guide. Flights to Kathmandu are extra."
+  },
+  {
+   "q": "Do Indians need a guide for Poon Hill?",
+   "a": "Nepal made licensed guides mandatory for foreign trekkers in most protected areas from April 2023, and enforcement for Indian nationals has varied by checkpoint and year. We include a licensed guide because it is safer and simpler. Check current status before you travel, as the rule is still evolving."
+  },
+  {
+   "q": "What permits do I need for Poon Hill?",
+   "a": "You need the Annapurna Conservation Area permit, which costs NPR 1,000 for SAARC nationals and NPR 3,000 for other foreigners in recent years. The TIMS card requirement was changed in 2023; check current status before you travel. Carry your passport and keep the permit handy for checkpoints at Birethanti and Ghorepani."
+  },
+  {
+   "q": "Is there mobile network on the Poon Hill trek?",
+   "a": "Nepal Telecom and Ncell data works in Ghorepani, Tadapani and Ghandruk most of the time, though it can be slow. Many teahouses offer Wi-Fi for a small charge. Do not rely on it for navigation or bank transactions; download offline maps before you start."
+  },
+  {
+   "q": "Can seniors or children do this trek?",
+   "a": "Fit seniors and children over about ten usually manage well, especially if you add a night to split the first day at Ulleri. A porter for bags helps a lot. Talk to your doctor if you have heart or knee problems, because the stone steps are long and steep."
+  },
+  {
+   "q": "What should I pack for Poon Hill?",
+   "a": "Good walking shoes, a down jacket, a fleece, a warm hat and gloves for the dawn climb, a rain jacket, a headtorch, a water bottle with purification tablets, sunscreen and a sleeping bag liner. Leave the rest at your Pokhara hotel. A 30–40 litre daypack is enough if you have a porter."
+  },
+  {
+   "q": "What is the best month for Poon Hill?",
+   "a": "October and November give the clearest views. March and April bring rhododendron flowers in the forest, with more haze by afternoon. December to February is clear but cold at Ghorepani. June to August is monsoon, with leeches, slippery steps and cloud."
+  },
+  {
+   "q": "Can I add Australian Camp or Mardi Himal?",
+   "a": "Yes. Australian Camp is a gentle overnight walk from Pokhara with Annapurna views. Mardi Himal is a harder 4–5 day ridge trek up to about 4,500 m at its high camp, which needs acclimatisation days. We can quote either as an add-on."
+  }
+ ]
+}

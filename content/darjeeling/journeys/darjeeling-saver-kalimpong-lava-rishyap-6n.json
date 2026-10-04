@@ -1,0 +1,194 @@
+{
+ "slug": "darjeeling-saver-kalimpong-lava-rishyap-6n",
+ "title": "Darjeeling, Kalimpong and Lava by shared jeep",
+ "region": "darjeeling",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "homestays-and-villages",
+  "monasteries",
+  "wildlife-and-birds",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "darjeeling",
+   "nights": 2
+  },
+  {
+   "place": "kalimpong",
+   "nights": 2
+  },
+  {
+   "place": "lava",
+   "nights": 1
+  },
+  {
+   "place": "rishyap",
+   "nights": 1
+  }
+ ],
+ "start": "New Jalpaiguri (NJP) railway station",
+ "end": "Siliguri or NJP",
+ "price_from_inr": 17500,
+ "price_note": "Per person, twin sharing: 6 nights in budget lodges, a forest cottage and a homestay, with breakfast and dinner most nights; shared jeeps, one short reserved car, Tiger Hill jeep and diesel joy ride; trains extra.",
+ "transport": "Shared jeeps, one short reserved car",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Darjeeling, Kalimpong, Lava and Rishyap in 6 nights by shared jeep: toy train, monasteries, nurseries, forest cottages and a homestay, from ₹17,500.",
+ "summary": "Six nights across both halves of the hive on a saver budget: Darjeeling for the toy train and Tiger Hill, Kalimpong for monasteries, nurseries and the haat, then up into the forests at Lava and the homestay village of Rishyap for Kangchenjunga at sunrise. Shared jeeps, a forest cottage and family homes.",
+ "intro": [
+  "Most budget trips stop at Darjeeling. This one crosses the Teesta to Kalimpong and climbs into the forests on the far side, where homestays cost less and the mountains are just as close. It costs about ₹17,500 per person on the ground for six nights, using shared jeeps for every transfer except the short hop between Lava and Rishyap.",
+  "Expect simple rooms. The forest cottages at Lava are cold and basic, and Rishyap homestays may have shared bathrooms and a bucket of hot water rather than a geyser. Shared jeeps leave when full and mostly in the morning, so days start early. In return you get the quiet forest end of the hive, home-cooked food and sunrise views from 2,590 m without paying hotel prices."
+ ],
+ "highlights": [
+  "Toy train joy ride and Tiger Hill sunrise in Darjeeling",
+  "Zang Dhok Palri Phodang on Durpin Hill and Kalimpong's nurseries",
+  "The Wednesday or Saturday haat in Kalimpong",
+  "Forest cottages at Lava, gateway to Neora Valley National Park",
+  "Kangchenjunga from Tiffindara above Rishyap"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "NJP to Darjeeling",
+   "place": "darjeeling",
+   "overnight": "WBTDC Meghbalika or similar, Darjeeling",
+   "drive": "≈ 70 km · 3–3.5 h",
+   "text": "Arrive at NJP on an overnight train and take a shared jeep up to Darjeeling, about ₹250–400 a seat. Check in near the Mall and spend the afternoon walking Chowrasta, Observatory Hill and the market lanes below. Keep the first evening light: if you came off a night train, an early dinner of thukpa and an early night set you up for tomorrow's 4 am start.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Tiger Hill and the toy train",
+   "place": "darjeeling",
+   "overnight": "WBTDC Meghbalika or similar, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Shared jeep to Tiger Hill at about 4 am for sunrise on Kangchenjunga, with stops at Ghum Monastery and the Batasia Loop on the way back. After breakfast, take the diesel toy train joy ride to Ghum and back. In the afternoon visit the zoo and Himalayan Mountaineering Institute, or walk down to Happy Valley's tea gardens.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Across the Teesta to Kalimpong",
+   "place": "kalimpong",
+   "overnight": "Budget hotel, Kalimpong",
+   "drive": "≈ 50 km · 2.5–3 h",
+   "text": "Take a morning shared jeep from the motor stand below Chowk Bazaar to Kalimpong, about ₹200–300. The road drops past the Lopchu tea gardens and Peshok to the Teesta at Teesta Bazaar, then climbs to Kalimpong's ridge at 1,250 m. Check in, then walk the old town: the haat area, Dr Graham's Homes on the hill above, and the Thongsa Gompa, built in the Bhutanese period.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Durpin Hill and the nurseries",
+   "place": "kalimpong",
+   "overnight": "Budget hotel, Kalimpong",
+   "drive": "Local",
+   "text": "Share a local taxi to Durpin Hill to visit Zang Dhok Palri Phodang, consecrated by the Dalai Lama in 1976, then walk down past the army golf course to one of the cactus and orchid nurseries. In the afternoon, go up to Deolo Hill, the town's highest point, for views over the Teesta valley. If it is Wednesday or Saturday, spend time at the haat market.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Kalimpong to Lava",
+   "place": "lava",
+   "overnight": "WBFDC Lava Eco Tourism Centre",
+   "drive": "≈ 32 km · 1.5–2 h",
+   "text": "Take a morning shared jeep east via Algarah to Lava, about ₹120–200. Check in to a forest cottage, then walk to the Lava monastery above the bazaar, a large Kagyu monastery with a prayer hall facing the hills. In dry months, ask the forest office about a permit and vehicle for a short Neora Valley drive. Evenings are cold; dinner at the canteen.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Up to Rishyap",
+   "place": "rishyap",
+   "overnight": "Family homestay, Rishyap",
+   "drive": "≈ 10 km · 40 min",
+   "text": "Take a short reserved car to Rishyap, about ₹800–1,200, or walk the 10 km forest road if you are fit and travelling light. Check in with a homestay family, then walk the trails behind the village through oak and rhododendron forest. In the evening watch the hills turn pink and eat with the family, usually dal, rice, saag and a pickle.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Tiffindara sunrise, down to Siliguri",
+   "place": "rishyap",
+   "overnight": "",
+   "drive": "≈ 110 km · 4.5–5 h",
+   "text": "Walk up to Tiffindara before dawn for the Kangchenjunga range from about 2,590 m. After breakfast, take a reserved car to Lava and a shared jeep down. A few jeeps run from Lava to Siliguri in the morning; otherwise change at Kalimpong. Plan on reaching Siliguri or NJP by mid-afternoon for an evening train.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "wbtdc-meghbalika-darjeeling",
+  "wbfdc-lava-eco-tourism-centre"
+ ],
+ "includes": [
+  "6 nights twin sharing: budget lodges in Darjeeling and Kalimpong, WBFDC forest cottage at Lava, homestay at Rishyap",
+  "Breakfast and dinner on most days as listed",
+  "Shared jeep seats for all transfers",
+  "Reserved car Lava–Rishyap and Rishyap–Lava",
+  "Tiger Hill shared jeep and diesel toy train joy ride",
+  "Trip notes with jeep stands and timings"
+ ],
+ "excludes": [
+  "Train fares to and from NJP",
+  "Lunches",
+  "Neora Valley permit, vehicle and guide",
+  "Local taxis in Kalimpong",
+  "Tips"
+ ],
+ "good_to_know": [
+  "All stays are below 2,600 m; altitude is not a concern for most healthy travellers.",
+  "Lava and Rishyap drop near freezing from December to February; carry thermals, a warm hat and a down jacket.",
+  "Neora Valley National Park closes in the monsoon, roughly mid-June to mid-September; check current status before you travel.",
+  "Carry cash for Lava and Rishyap; ATMs are few and networks patchy.",
+  "Shared jeeps run mostly in the morning; be at the stand by 7–8 am for each transfer."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this 6-night Darjeeling and Kalimpong trip cost?",
+   "a": "About ₹17,500 per person on the ground for twin sharing, covering budget rooms with breakfast and dinner on most days, shared jeeps, a short reserved car, Tiger Hill and the diesel joy ride. Add train fares to NJP and about ₹300–600 a day for lunches. Prices are indicative 2026."
+  },
+  {
+   "q": "Are there shared jeeps between Darjeeling and Kalimpong?",
+   "a": "Yes. Shared jeeps leave the motor stand below Chowk Bazaar in Darjeeling, mostly in the morning, for about ₹200–300 a seat, and take 2.5–3 hours via Teesta Bazaar. If none is filling, take one towards Teesta Bazaar and change."
+  },
+  {
+   "q": "What are the rooms like at Lava and Rishyap?",
+   "a": "Simple. Lava's WBFDC forest cottages have basic furniture, limited heating and a canteen. Rishyap homestays are family homes, some with attached bathrooms and hot water, some with shared toilets and hot water by the bucket. Blankets are heavy and food is home-cooked."
+  },
+  {
+   "q": "Can I visit Neora Valley National Park on this trip?",
+   "a": "From October to May you can arrange a park permit, vehicle and guide at the Lava forest office for a short drive into the park, at extra cost. The park usually closes in the monsoon. Rules and fees change, so check current status before you travel."
+  },
+  {
+   "q": "Is this trip suitable for solo women travellers?",
+   "a": "Yes, with normal care. Shared jeeps are routine for local women, and homestays are family homes. Lava and Rishyap are quiet villages; avoid walking forest roads alone after dark and tell your hosts your plans. Carry a charged phone, though signal can be weak."
+  },
+  {
+   "q": "When is the best time for Lava and Rishyap?",
+   "a": "October to April, when the air is clear and Kangchenjunga is often visible at sunrise. October and November are the best months. December to February are very cold but clear. The monsoon brings leeches, fog and landslides, and the national park closes."
+  },
+  {
+   "q": "Do I need to book homestays in advance?",
+   "a": "In October, November and the spring holidays, yes. Rishyap and Lava have limited rooms and many families have no website, so book through a known operator or by phone a few weeks ahead. Outside peak weeks you can often find a bed on arrival."
+  },
+  {
+   "q": "Is there mobile network and ATM access?",
+   "a": "Darjeeling and Kalimpong have ATMs and good 4G. Lava has patchy network and few ATMs, and Rishyap has weak signal. Carry enough cash for the last three nights; many homestays also accept UPI when the network works."
+  },
+  {
+   "q": "Can I reverse the route or end in Kalimpong?",
+   "a": "Yes. You can start with Kalimpong and the forest villages and end in Darjeeling, which suits travellers flying out of Bagdogra. Keep Rishyap for a clear-weather morning, and leave a spare half day for slow jeeps."
+  }
+ ]
+}

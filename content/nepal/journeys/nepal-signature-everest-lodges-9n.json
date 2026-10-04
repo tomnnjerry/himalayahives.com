@@ -1,0 +1,212 @@
+{
+ "slug": "nepal-signature-everest-lodges-9n",
+ "title": "Everest lodges trek with Dwarika's",
+ "region": "nepal",
+ "tier": "signature",
+ "nights": 9,
+ "themes": [
+  "treks-and-walks",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "kathmandu",
+   "nights": 3
+  },
+  {
+   "place": "namche-bazaar",
+   "nights": 6
+  }
+ ],
+ "start": "Kathmandu, Tribhuvan International Airport",
+ "end": "Kathmandu, Tribhuvan International Airport",
+ "price_from_inr": 230000,
+ "price_note": "Per person, twin sharing: 3 nights at Dwarika's, 6 nights at Mountain Lodges of Nepal lodges on the trail with all meals, return Lukla flights, private senior guide and porters, park and municipality fees; international flights and evacuation insurance extra.",
+ "transport": "Domestic flights to Lukla, private car in Kathmandu, six days on foot",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Everest region in 9 nights at its best lodges: Dwarika's in Kathmandu, Mountain Lodges of Nepal on the trail to Namche, private guide, from ₹2,30,000.",
+ "summary": "A slow, comfortable Khumbu trek for travellers who want the Sherpa villages and the Everest view without roughing it. Three nights at Dwarika's in Kathmandu bookend six nights in the Mountain Lodges of Nepal chain on the trail to Namche Bazaar, with a private senior guide, porters and a gentle acclimatisation plan.",
+ "intro": [
+  "The trail from Lukla to Namche Bazaar has the best lodges in the high Himalaya, run by Mountain Lodges of Nepal under the Yeti Mountain Home name, with heated rooms, attached bathrooms and proper beds. They make the Khumbu possible for travellers who would not sleep in a basic teahouse, and they let us keep walking days short.",
+  "We walk up the Dudh Koshi in short stages, spend three nights at Namche at 3,440 m with walks to the Everest View ridge, Khumjung and the Thame valley side, and walk out again. Dwarika's in Kathmandu gives you two calm days before the flight and one after, which also act as buffer days for the weather at Lukla. A private senior guide stays with you from the airport to the airport."
+ ],
+ "highlights": [
+  "Heated rooms and attached bathrooms in Mountain Lodges of Nepal on the trail",
+  "Everest, Lhotse and Ama Dablam from the Syangboche ridge above Namche",
+  "Khumjung village and its gompa under the sacred peak of Khumbila",
+  "A quiet morning walk on the trail towards Thame",
+  "Guided days in Kathmandu and Patan from Dwarika's"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Kathmandu, Dwarika's",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "≈ 4 km · 20 min",
+   "text": "Your guide meets you at the airport and drives you to Dwarika's. Rest in the courtyards. In the evening, your guide runs through the trek plan, checks your kit and takes care of permits, so you have nothing to queue for. Walk to Pashupatinath for the aarti if you have the energy.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Kathmandu valley, kit check",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "≈ 25 km",
+   "text": "A gentle guided day: Boudhanath in the morning, then Patan Durbar Square, the Golden Temple and the Patan Museum. Afternoon free to rest. If Lukla flights are leaving from Ramechhap (Manthali), as they often do in peak months, you leave very early tomorrow by private car, about 4 hours; your guide confirms the night before.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Fly to Lukla, walk to Phakding",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Phakding (2,610 m)",
+   "drive": "Flight 35 min; walk 3 h",
+   "text": "Fly to Lukla and walk gently downhill through Chheplung and along the Dudh Koshi to Phakding. The lodge is a short day's walk away, so you arrive in time for lunch and a rest. Sleeping lower than Lukla on the first night helps acclimatisation.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Phakding to Namche Bazaar",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Namche Bazaar (3,440 m)",
+   "drive": "Walk 6–7 h",
+   "text": "Walk via Monjo, where you enter Sagarmatha National Park, to the high suspension bridge over the Dudh Koshi, then climb slowly for about two hours to Namche Bazaar. Your guide sets a slow pace and stops often. Look out for the first sight of Everest on the climb.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Everest View ridge",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Namche Bazaar (3,440 m)",
+   "drive": "Walk 3–4 h",
+   "text": "Climb to the Syangboche ridge and the Everest View Hotel, at about 3,880 m, for tea in front of Everest, Lhotse and Ama Dablam, then return to sleep in Namche. In the afternoon visit the Sherpa culture museum and the Sagarmatha National Park visitor centre above the village.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Khumjung and Khunde",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Namche Bazaar (3,440 m)",
+   "drive": "Walk 4–5 h",
+   "text": "Walk over to Khumjung and Khunde, the Sherpa villages in a wide bowl under Khumbila. Visit Khumjung gompa and see the Hillary school, founded by the Himalayan Trust. Return to Namche over the ridge. If it is Saturday, the weekly market in Namche is worth an hour in the morning.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Namche to Monjo",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Monjo (2,835 m)",
+   "drive": "Walk 3–4 h",
+   "text": "A short morning walk west towards the Thame valley for a last look at the peaks, then down the hill and across the bridge to Monjo. An easy afternoon by the river at the lodge.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Monjo to Lukla",
+   "place": "namche-bazaar",
+   "overnight": "Mountain Lodges of Nepal, Lukla (2,860 m)",
+   "drive": "Walk 5–6 h",
+   "text": "Walk back down the Dudh Koshi through Phakding and up the last gentle climb to Lukla. Farewell dinner with your porters. Your guide confirms the first possible flight.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Fly to Kathmandu, Dwarika's",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "Flight 35 min, plus transfer",
+   "text": "Fly to Kathmandu or Ramechhap and transfer to Dwarika's for a long bath and a spa treatment. If the flight is delayed, this day absorbs it. Farewell dinner at Krishnarpan, the hotel's Nepali restaurant.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "Departure",
+   "place": "kathmandu",
+   "overnight": "",
+   "drive": "≈ 4 km · 20 min",
+   "text": "Transfer to the airport for your international flight.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "dwarikas-hotel-kathmandu",
+  "mountain-lodges-of-nepal-namche"
+ ],
+ "includes": [
+  "3 nights at Dwarika's Hotel with breakfast and a farewell dinner",
+  "6 nights in Mountain Lodges of Nepal lodges on the trail with all meals",
+  "Return flights to Lukla and private transfers to Ramechhap when needed",
+  "Private senior licensed guide and porters",
+  "Sagarmatha National Park and Khumbu Pasang Lhamu municipality fees",
+  "Guided day in Kathmandu and Patan with entry fees"
+ ],
+ "excludes": [
+  "International flights",
+  "Travel insurance with helicopter evacuation cover (required)",
+  "Drinks, spa treatments and Wi-Fi cards",
+  "Helicopter return from Lukla (available on request)",
+  "Tips for guide and porters"
+ ],
+ "good_to_know": [
+  "Namche is at 3,440 m. This plan sleeps three nights there with day walks higher, but altitude sickness can affect anyone. Talk to your doctor before booking, and tell your guide about any headache, nausea or breathlessness at once.",
+  "Lukla flights depend on weather; your night at Dwarika's on day 9 is the buffer. Do not book onward flights for day 10 morning if you can avoid it.",
+  "Comfortable lodges cannot change the trail: expect 3–7 hours' walking a day with steep steps.",
+  "Guide and permit rules in the Khumbu are set locally and change; check current status before you travel.",
+  "Porters carry up to about 15 kg per person; bring a soft duffel."
+ ],
+ "faqs": [
+  {
+   "q": "What are the best lodges on the Everest trek?",
+   "a": "The Mountain Lodges of Nepal chain, under the Yeti Mountain Home name, runs the most comfortable lodges between Lukla and Namche, with heated rooms and attached bathrooms. Everest Summit Lodges is another upscale chain. Above Namche, options thin out and most lodges are simple teahouses."
+  },
+  {
+   "q": "How much does a luxury Everest trek cost?",
+   "a": "This 9-night trip starts at ₹2,30,000 per person, twin sharing, with Dwarika's, Mountain Lodges of Nepal, all trek meals, Lukla flights, a private guide and porters. A helicopter flight back from Lukla or up to the Everest View Hotel costs extra and depends on weather."
+  },
+  {
+   "q": "Can I go to Everest Base Camp on a luxury trek?",
+   "a": "Yes, but above Namche the lodges become simpler and the trip grows to 12–14 days. Some travellers trek to Namche in comfort and then take a helicopter flight over Kala Patthar and base camp. We can plan either; check current status of helicopter landing rules before you travel."
+  },
+  {
+   "q": "Is the Everest trek safe for seniors?",
+   "a": "Fit seniors do this trip regularly because the walking days are short and the lodges comfortable. Altitude affects people regardless of age or fitness. Talk to your doctor first, carry insurance that covers helicopter evacuation, and expect your guide to turn you around if symptoms worsen."
+  },
+  {
+   "q": "Do Indian citizens need permits for the Everest region?",
+   "a": "Yes. Indians pay the SAARC rate for Sagarmatha National Park entry and the Khumbu Pasang Lhamu rural municipality fee. No visa is needed, but carry a passport for the permit checkpoints and the Lukla flight. Rules change; check current status before you travel."
+  },
+  {
+   "q": "What happens if the Lukla flight is cancelled?",
+   "a": "You wait for the next flight, usually the next morning. Our plan has a spare night in Kathmandu after the trek, and we can book a shared or private helicopter between Lukla and Kathmandu if weather allows helicopters but not planes, at extra cost."
+  },
+  {
+   "q": "When is the best time for an Everest lodge trek?",
+   "a": "October and November are clearest. March to May is good, with blooming rhododendrons below Namche and the expedition season under way. December and January are cold but quiet and clear, and the heated lodges help. June to August is wet and cloudy."
+  },
+  {
+   "q": "What should I pack for a luxury Everest trek?",
+   "a": "Good broken-in boots, layers including a down jacket, warm hat and gloves, sun hat and sunglasses, a rain shell, a headtorch, a reusable water bottle and any personal medicine. Lodges provide bedding. Porters carry your duffel, so you need only a daypack."
+  },
+  {
+   "q": "Is there Wi-Fi in the Everest lodges?",
+   "a": "Most lodges, including Mountain Lodges of Nepal, offer Wi-Fi, sometimes for a fee, and mobile data works in Lukla and Namche. Speeds are modest. Download maps and entertainment before you fly to Lukla."
+  }
+ ]
+}

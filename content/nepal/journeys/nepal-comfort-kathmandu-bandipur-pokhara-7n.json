@@ -1,0 +1,200 @@
+{
+ "slug": "nepal-comfort-kathmandu-bandipur-pokhara-7n",
+ "title": "Kathmandu, Bandipur and Pokhara by private car",
+ "region": "nepal",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "road-trips",
+  "family-holidays",
+  "honeymoons",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "kathmandu",
+   "nights": 3
+  },
+  {
+   "place": "bandipur",
+   "nights": 1
+  },
+  {
+   "place": "pokhara",
+   "nights": 3
+  }
+ ],
+ "start": "Kathmandu, Tribhuvan International Airport",
+ "end": "Pokhara International Airport or Kathmandu",
+ "price_from_inr": 58000,
+ "price_note": "Per person, twin sharing: 7 nights in good hotels with breakfast, private car with driver throughout, licensed guides in Kathmandu and Bhaktapur, SAARC-rate entry fees; flights to Nepal, lunches and dinners extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  2,
+  2,
+  2,
+  1,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Nepal in 7 nights by private car: Kathmandu and Bhaktapur heritage, a night in Bandipur's Newar bazaar and three nights on Phewa Lake in Pokhara, from ₹58,000.",
+ "summary": "Nepal's classic first trip, without the bus. Three nights in Kathmandu at the Kathmandu Guest House with guided days in the old city, Patan and Bhaktapur, a night in the car-free Newar hill town of Bandipur, then three nights in Pokhara at Temple Tree Resort with Sarangkot sunrise and Phewa Lake.",
+ "intro": [
+  "Most Indian visitors to Nepal want three things: the temples and squares of the Kathmandu valley, the lake and mountain view at Pokhara, and a sense of village Nepal in between. This trip does all three with a private car and driver, so the long Prithvi Highway day is split by a night in Bandipur, an old Newar trading town on a ridge where the main street is kept free of cars.",
+  "We use the Kathmandu Guest House in Thamel, one of the oldest hotels in the area, with a garden away from the street noise; The Old Inn in Bandipur, a restored Newar house; and Temple Tree Resort in Pokhara, a short walk from the lake. Licensed guides take you around the heritage sites, and afternoons stay free for rest, cafés and shopping."
+ ],
+ "highlights": [
+  "Guided mornings at Kathmandu Durbar Square, Swayambhunath and Patan",
+  "Evening aarti at Pashupatinath on the Bagmati",
+  "A full day in Bhaktapur, the best preserved of the valley's royal cities",
+  "Sunset and the morning mountain line from Bandipur's Tundikhel",
+  "Sarangkot sunrise and a rowing boat on Phewa Lake"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Kathmandu",
+   "place": "kathmandu",
+   "overnight": "Kathmandu Guest House, Thamel",
+   "drive": "≈ 6 km · 30 min",
+   "text": "Your driver meets you outside the arrivals hall at Tribhuvan airport and drives you to the Kathmandu Guest House in Thamel. Rest in the garden, change money at the fixed rate and buy a SIM. In the evening, walk the lanes of Thamel with a short orientation from your driver or our team. Dinner at one of the Newari restaurants nearby is a good first taste of the valley.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Old Kathmandu, Swayambhunath, Pashupatinath",
+   "place": "kathmandu",
+   "overnight": "Kathmandu Guest House, Thamel",
+   "drive": "≈ 25 km",
+   "text": "A licensed guide meets you after breakfast for Kathmandu Durbar Square, the Kumari Ghar and the old trading lanes of Asan. Drive up to Swayambhunath for the valley view. After lunch, visit Boudhanath stupa and walk the kora, then drive to Pashupatinath, Nepal's most sacred Hindu temple, for the evening aarti on the Bagmati ghats. Only Hindus may enter the main temple courtyard; the ghats and riverside are open to all.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Bhaktapur and Patan",
+   "place": "kathmandu",
+   "overnight": "Kathmandu Guest House, Thamel",
+   "drive": "≈ 40 km",
+   "text": "Drive east to Bhaktapur for a guided morning: Taumadhi Square and the five-roofed Nyatapola temple, the potters' square and Dattatreya Square with its carved monasteries. Try juju dhau, the town's sweet curd. In the afternoon, cross the valley to Patan for the Krishna Mandir, the Golden Temple and the Patan Museum, which is worth an hour for its bronze and stone sculpture. Return to Thamel.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Drive to Bandipur",
+   "place": "bandipur",
+   "overnight": "The Old Inn, Bandipur",
+   "drive": "≈ 143 km · 5–6 h",
+   "text": "Leave Kathmandu after breakfast on the Prithvi Highway along the Trishuli river. If you want, stop at Kurintar for the Manakamana cable car, a 10-minute ride to a hilltop temple (allow 2–3 hours). Turn off at Dumre and climb 8 km to Bandipur. Walk up to Tundikhel, the old parade ground at the end of the ridge, for sunset. Dinner at The Old Inn.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Bandipur morning, on to Pokhara",
+   "place": "pokhara",
+   "overnight": "Temple Tree Resort & Spa, Pokhara",
+   "drive": "≈ 75 km · 2.5–3 h",
+   "text": "On clear mornings the Himalaya from Dhaulagiri to Langtang lines the horizon from Bandipur. Walk the bazaar before the shops open, visit the Khadga Devi and Bindabasini temples, and if you like, walk 45 minutes down to Siddha Cave. Drive to Pokhara after lunch and check into Temple Tree Resort, close to Lakeside. Evening walk along the lake.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Sarangkot sunrise and the Peace Pagoda",
+   "place": "pokhara",
+   "overnight": "Temple Tree Resort & Spa, Pokhara",
+   "drive": "≈ 30 km",
+   "text": "Drive up to Sarangkot before dawn to watch the first light on Machhapuchhre, Annapurna South and Dhaulagiri. Back for breakfast and rest. In the afternoon, take a rowing boat across Phewa Lake to the Tal Barahi temple island and on to the far shore, then walk or drive up to the World Peace Pagoda for the view back over the town and the lake.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Pokhara at your own pace",
+   "place": "pokhara",
+   "overnight": "Temple Tree Resort & Spa, Pokhara",
+   "drive": "Optional",
+   "text": "A free day with the car on call. Options include the International Mountain Museum, Davis Falls and Gupteshwor Cave, the Tibetan settlement at Hemja, a tandem paragliding flight from Sarangkot or a spa afternoon at the hotel. Couples often keep this day for a long lakeside lunch and an evening boat ride.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 8,
+   "title": "Fly or drive home",
+   "place": "pokhara",
+   "overnight": "",
+   "drive": "≈ 200 km · 7 h by road, or 25 min by air",
+   "text": "Your driver takes you to Pokhara airport for a flight to Kathmandu and your international connection, or drives you back to Kathmandu. Travellers heading to India by road can instead be dropped at Sunauli, about 7–9 hours south via the Siddhartha Highway.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "kathmandu-guest-house-thamel",
+  "the-old-inn-bandipur",
+  "temple-tree-resort-pokhara"
+ ],
+ "includes": [
+  "3 nights at Kathmandu Guest House, 1 night at The Old Inn, 3 nights at Temple Tree Resort & Spa, twin sharing, with breakfast",
+  "Dinner at The Old Inn",
+  "Private car with driver for all transfers and sightseeing",
+  "Licensed guides on days 2 and 3",
+  "SAARC-rate entry to Kathmandu, Patan and Bhaktapur Durbar Squares, Swayambhunath, Boudhanath and Pashupatinath",
+  "One rowing boat on Phewa Lake"
+ ],
+ "excludes": [
+  "International flights and the Pokhara–Kathmandu flight on day 8",
+  "Lunches and most dinners",
+  "Manakamana cable car and paragliding",
+  "Tips for driver and guides",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "All nights are below 1,400 m except Bandipur at about 1,030 m; altitude is not a concern.",
+  "The Prithvi Highway has frequent roadwork delays; your driver may suggest early starts.",
+  "In Bandipur, cars stop at the edge of the bazaar; staff carry luggage for the short walk.",
+  "Indian travellers get lower SAARC entry rates with a passport or voter ID; carry it every day.",
+  "From mid-December to February, mornings are cold and hazy in the valley; pack a warm layer."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a 7-night Nepal trip cost from India?",
+   "a": "This private-car trip starts at ₹58,000 per person, twin sharing, with hotels, breakfasts, car and driver, guides and entry fees. Add return flights from Delhi to Kathmandu, usually ₹10,000–20,000, and meals. A saver version by tourist bus and hostels costs well under half."
+  },
+  {
+   "q": "Is Nepal good for a honeymoon?",
+   "a": "Yes. Pokhara's lake, Bandipur's quiet street and the Kathmandu valley's courtyards make a relaxed honeymoon without long hikes. October to April has the clearest weather. We can upgrade Pokhara to a lake-view room or add a night at a hillside lodge for more privacy."
+  },
+  {
+   "q": "Can we do this trip with children and grandparents?",
+   "a": "Yes. Drives are broken into short days except Kathmandu to Bandipur, and there is no altitude to worry about. Old buildings in Bandipur and Bhaktapur have steep stairs, so tell us about mobility needs and we choose ground-floor rooms where possible."
+  },
+  {
+   "q": "Do Indians need a visa for Nepal?",
+   "a": "No. Indian citizens need either a valid passport or an Election Commission voter ID card to enter Nepal and to check into hotels. Aadhaar is not accepted for adults. Children under 15 can travel with a birth certificate and school ID in some cases; check current status before you travel."
+  },
+  {
+   "q": "Can we use Indian rupees in Nepal?",
+   "a": "Indian ₹100 notes are widely accepted at the fixed rate of 1 INR to 1.6 NPR, but higher denominations have long had restrictions. Hotels on this trip accept cards. Change some money into NPR for small shops and temples, and check current status before you travel."
+  },
+  {
+   "q": "Is it better to fly or drive between Kathmandu and Pokhara?",
+   "a": "Driving lets you stop at Bandipur, which is the point of this route. Flying takes 25 minutes but misses the countryside. On this trip we drive west and suggest flying back, so you do the long road only once."
+  },
+  {
+   "q": "What is the best time to visit Kathmandu and Pokhara?",
+   "a": "October to December has clear skies and mountain views. February to April is warm with good views in the morning and rhododendron flowers in the hills. June to August is monsoon, with rain and cloud, though Kathmandu's festivals and the green terraces have their own appeal."
+  },
+  {
+   "q": "Is the food in Nepal suitable for vegetarians?",
+   "a": "Very. Dal bhat, vegetable momos, aloo tama, Newari bara and Indian dishes are everywhere. Pokhara's Lakeside has many vegetarian and Indian restaurants. Jain food can be requested at bigger hotels with notice."
+  },
+  {
+   "q": "Can we add Chitwan National Park?",
+   "a": "Yes. Chitwan is about 4–5 hours from Pokhara or Kathmandu and adds jungle walks, canoe rides and a chance of rhino sightings. Add two nights to the end of this trip; we quote it on request."
+  }
+ ]
+}

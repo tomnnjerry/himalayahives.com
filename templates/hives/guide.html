@@ -1,0 +1,97 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ g.title }} · {{ r.name }} guide · Himalaya Hives{% endblock %}
+{% block description %}{{ g.meta_description|default:g.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ g.title }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block alt_from %}{{ r.min_alt }}{% endblock %}{% block alt_to %}{{ r.max_alt }}{% endblock %}{% block alt_label %}{{ r.name }}{% endblock %}
+{% block fab_label %}Plan {{ r.name }}{% endblock %}{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block og_image %}{% with img=g|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Turn this guide into a trip" %}{% endblock %}
+{% block head_extra %}<style>
+.gd { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: clamp(30px, 5vw, 72px); align-items: start; }
+.gd__nav { position: sticky; top: 100px; display: grid; gap: 18px; }
+.gd__nav details > summary { list-style: none; cursor: default; font: 500 11px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.gd__nav details > summary::-webkit-details-marker { display: none; }
+.gd__body { max-width: 760px; min-width: 0; }
+.gd__body section { scroll-margin-top: 100px; }
+.gd__body section + section { margin-top: 10px; }
+.gd__body > section:first-child h2 { margin-top: 0; }
+.gd__by { display: flex; flex-wrap: wrap; gap: 8px 20px; margin-top: 18px; font: 500 12.5px/1.4 var(--mono); color: rgba(255,255,255,.75); }
+@media (max-width: 980px) {
+  .gd { grid-template-columns: 1fr; }
+  .gd__nav { position: static; background: var(--card); padding: 16px 18px; }
+  .gd__nav details > summary { cursor: pointer; margin: 0; }
+  .gd__nav details[open] > summary { margin-bottom: 12px; }
+  .gd__nav details > summary::after { content: " +"; }
+  .gd__nav details[open] > summary::after { content: " −"; }
+}
+</style>{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo g.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">{{ r.name }} · {{ g.category|capfirst }} guide</p>
+      <h1 class="d-1">{{ g.title }}</h1>
+      <p class="answer">{{ g.summary }}</p>
+      <div class="gd__by"><span>{{ SITE.byline|default:"Himalaya Hives Field Desk" }}</span><span>{{ g.read_min }} min read</span>{% if g.sections %}<span>{{ g.sections|length }} sections</span>{% endif %}</div>
+    </div>
+    <div class="phead__photo">{% with img=g|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ img.description|default:r.name|truncatechars:120 }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline g.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap gd">
+    <aside class="gd__nav">
+      {% if g.sections %}<nav aria-label="In this guide" data-spy><details open><summary>In this guide</summary>
+        <div class="toc-side">{% for s in g.sections %}<a href="#{{ s.anchor|default:forloop.counter }}">{{ s.heading }}</a>{% endfor %}{% if g.faqs %}<a href="#questions">Questions</a>{% endif %}</div>
+      </details></nav>{% endif %}
+      <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="guide-side-plan">Plan {{ r.name }}</a>
+    </aside>
+    <article class="gd__body">
+      {% for s in g.sections %}<section id="{{ s.anchor|default:forloop.counter }}" class="prose">
+        <h2>{{ s.heading }}</h2>
+        {% for para in s.paras %}<p>{{ para }}</p>{% endfor %}
+        {% if s.list %}<ul>{% for li in s.list %}<li>{{ li }}</li>{% endfor %}</ul>{% endif %}
+        {% if s.table.rows %}<div class="tablewrap"><table>
+          {% if s.table.head %}<thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead>{% endif %}
+          <tbody>{% for row in s.table.rows %}<tr>{% for cell in row %}<td>{{ cell }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+        </table></div>{% endif %}
+        {% if forloop.counter == 2 and g.related_objs %}<div class="inline-cards">{% for p in g.related_objs|slice:":2" %}<a class="inline-card" href="{{ p.url }}" data-land="{{ p.region }}">{% with img=p|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% else %}<span class="hbadge hbadge--foil" style="margin:auto">{% icon p.region %}</span>{% endif %}{% endwith %}<span><small>{{ p.kind|default:"Place" }} · {{ p.alt_label }}</small><b>{{ p.name }}</b></span></a>{% endfor %}</div>{% endif %}
+      </section>{% empty %}<p class="prose">This guide is still being written. Ask a planner anything about {{ r.name }} in the meantime.</p>{% endfor %}
+      <p class="small muted" style="margin-top:28px">Prices are indicative 2026. Permits, road openings, fees and timetables change: check current status before you travel.</p>
+    </article>
+  </div>
+</section>
+
+{% if g.related_objs %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Places in this guide</p><h2 class="d-1">Where it applies</h2></div><a class="link" href="{{ r.url }}#places">All of {{ r.name }} {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for p in g.related_objs|slice:":8" %}{% include "hives/partials/card_place.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if g.faqs %}<section class="sec" id="questions">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">Asked about this</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=g.faqs open_first=True %}
+  </div>
+</section>{% endif %}
+
+{% if r.journeys %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Put it to use</p><h2 class="d-1">{{ r.name }} trips</h2></div><a class="link" href="{{ r.url }}#trips">Every {{ r.name }} trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for j in r.journeys|slice:":4" %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if more %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Keep reading</p><h2 class="d-1">More {{ r.name }} guides</h2></div><a class="link" href="{% url 'guides' %}#{{ r.slug }}">All guides {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for g in more %}{% include "hives/partials/card_guide.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% include "hives/partials/nudge.html" with land=r.slug nudge_title="Planning "|add:r.name|add:"?" %}
+{% endblock %}

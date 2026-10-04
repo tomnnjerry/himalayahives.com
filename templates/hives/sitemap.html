@@ -1,0 +1,81 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Sitemap · every page on Himalaya Hives{% endblock %}
+{% block description %}Every page on Himalaya Hives in one place: hives, places, trips, months, styles, experiences, stays, guides, festivals, routes, the Journal and policies.{% endblock %}
+{% block og_title %}Sitemap{% endblock %}
+{% block head_extra %}<style>
+.smap { columns: 3 260px; column-gap: 34px; }
+.smap > div { break-inside: avoid; margin: 0 0 26px; }
+.smap h3 { font: 500 12px/1.3 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.smap ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 4px; font-size: 15.5px; }
+.smap a { text-decoration: none; }
+.smap a:hover { text-decoration: underline; color: var(--hink); }
+.smap-hive { padding: clamp(28px, 4vw, 44px) 0; border-top: 1px solid var(--rule); scroll-margin-top: 110px; }
+.smap-hive h2 { display: flex; gap: 12px; align-items: center; margin-bottom: 20px; }
+</style>{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="sitemap" eyebrow="Sitemap" title="Every page, in one place" lede="Site-wide sections first, then each hive with its places, trips, months, styles, stays, guides, festivals and routes." %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <h2 class="d-2" style="margin-bottom:24px">Across the site</h2>
+    <div class="smap">
+      <div><h3>Start</h3><ul>
+        <li><a href="{% url 'home' %}">Home</a></li><li><a href="{% url 'lands' %}">The hives</a></li><li><a href="{% url 'plan' %}">Plan a trip</a></li>
+        <li><a href="{% url 'seasons' %}">Season almanac</a></li><li><a href="{% url 'field_notes' %}">Field notes</a></li>
+      </ul></div>
+      <div><h3>Trips</h3><ul>
+        <li><a href="{% url 'journeys' %}">Every trip</a></li>
+        {% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }} trips</a></li>{% endfor %}
+        <li><a href="{% url 'affordable' %}">The affordable Himalaya</a></li>
+        {% for a, l in nav_bands %}<li><a href="{% url 'affordable_under' a %}">Trips {{ l|lower }}</a></li>{% endfor %}
+      </ul></div>
+      {% if cat.themes %}<div><h3>Travel styles</h3><ul>
+        <li><a href="{% url 'themes' %}">All styles</a></li>
+        {% for t in cat.themes.values %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}
+      </ul></div>{% endif %}
+      <div><h3>Experiences</h3><ul>
+        <li><a href="{% url 'experiences' %}">Every experience</a></li>
+        {% for k, n in nav_kinds %}<li><a href="{% url 'experience_kind' k %}">{{ n }}</a></li>{% endfor %}
+        <li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li>
+      </ul></div>
+      <div><h3>Plan and read</h3><ul>
+        <li><a href="{% url 'guides' %}">Planning guides</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'journal' %}">The Journal</a></li>
+        <li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_budget' %}">Budget builder</a></li>
+        <li><a href="{% url 'tool_altitude' %}">Altitude planner</a></li><li><a href="{% url 'tool_permits' %}">Permit checker</a></li>
+      </ul></div>
+      {% if cat.posts %}<div><h3>Journal</h3><ul>
+        {% for d in cat.posts.values %}<li><a href="{{ d.url }}">{{ d.title }}</a></li>{% endfor %}
+      </ul></div>{% endif %}
+      <div><h3>Company</h3><ul>
+        <li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li>
+        <li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'design_system' %}">Design system</a></li>
+      </ul></div>
+      <div><h3>Policies</h3><ul>
+        <li><a href="{% url 'policies' %}">All policies</a></li>
+        {% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}
+      </ul></div>
+    </div>
+
+    {% if regions %}<nav class="chips" aria-label="Jump to a hive" style="margin:12px 0 10px">{% for r in regions %}<a class="chip" href="#hive-{{ r.slug }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</nav>{% endif %}
+
+    {% for r in regions %}<section class="smap-hive" id="hive-{{ r.slug }}" data-land="{{ r.slug }}">
+      <h2 class="d-2"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h2>
+      <div class="smap">
+        <div><h3>Overview</h3><ul>
+          <li><a href="{{ r.url }}">{{ r.name }} overview</a></li>
+          <li><a href="{% url 'affordable_region' r.slug %}">{{ r.name }} on a budget</a></li>
+          {% for pr, t in pairs %}{% if pr.slug == r.slug %}<li><a href="{% url 'region_theme' r.slug t.slug %}">{{ t.name }} in {{ r.name }}</a></li>{% endif %}{% endfor %}
+          {% for kr, k, n in kind_pairs %}{% if kr.slug == r.slug %}<li><a href="{% url 'region_kind' r.slug k %}">{{ n }} experiences</a></li>{% endif %}{% endfor %}
+        </ul></div>
+        <div><h3>Month by month</h3><ul>{% for m, ms in month_slugs %}<li><a href="{% url 'region_month' r.slug ms %}">{{ r.name }} in {{ m }}</a></li>{% endfor %}</ul></div>
+        {% if r.places %}<div><h3>Places</h3><ul>{% for p in r.places %}<li><a href="{{ p.url }}">{{ p.name }}</a></li>{% for e in p.experiences %}<li style="padding-left:14px"><a href="{{ e.url }}">{{ e.title }}</a></li>{% endfor %}{% endfor %}</ul></div>{% endif %}
+        {% if r.journeys %}<div><h3>Trips</h3><ul>{% for j in r.journeys %}<li><a href="{{ j.url }}">{{ j.title }}</a> <span class="readout">{{ j.tier_obj.name }}</span></li>{% endfor %}</ul></div>{% endif %}
+        {% if r.stays %}<div><h3>Stays</h3><ul>{% for s in r.stays %}<li><a href="{{ s.url }}">{{ s.name }}</a></li>{% endfor %}</ul></div>{% endif %}
+        {% if r.guides %}<div><h3>Guides</h3><ul>{% for g in r.guides %}<li><a href="{{ g.url }}">{{ g.title }}</a></li>{% endfor %}</ul></div>{% endif %}
+        {% if r.festivals %}<div><h3>Festivals</h3><ul>{% for f in r.festivals %}<li><a href="{{ f.url }}">{{ f.name }}</a></li>{% endfor %}</ul></div>{% endif %}
+        {% if r.routes %}<div><h3>Routes</h3><ul>{% for rt in r.routes %}{% if rt.from_obj and rt.to_obj %}<li><a href="{{ rt.url }}">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a></li>{% endif %}{% endfor %}</ul></div>{% endif %}
+      </div>
+    </section>{% endfor %}
+  </div>
+</section>
+{% endblock %}

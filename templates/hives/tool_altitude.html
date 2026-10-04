@@ -1,0 +1,272 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Altitude planner · pace your sleeping altitude in the Himalaya · Himalaya Hives{% endblock %}
+{% block description %}Line up your overnight stops in Ladakh, Spiti, Nepal, Sikkim or any Himalaya hive and see the sleeping-altitude profile, with nights that climb more than 500 m above 3,000 m flagged. Not medical advice.{% endblock %}
+{% block og_title %}Himalaya altitude planner{% endblock %}
+{% block alt_label %}Sleeping altitude{% endblock %}
+{% block head_extra %}<style>
+.ap { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: clamp(24px, 4vw, 52px); align-items: start; }
+.ap__add { background: var(--card); padding: clamp(20px, 3vw, 28px); clip-path: var(--chamfer); }
+.ap__row2 { display: grid; grid-template-columns: minmax(0, 1fr) 96px; gap: 10px; }
+.ap__stops { list-style: none; margin: 0; padding: 0; counter-reset: s; border-top: 1px solid var(--rule); }
+.ap__stop { display: grid; grid-template-columns: 54px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.ap__stop.is-bad { background: color-mix(in srgb, var(--flag-r) 9%, transparent); }
+.ap__n { font: 600 12px/1.25 var(--mono); color: var(--muted); text-align: center; }
+.ap__name b { font: 400 21px/1.15 var(--display); display: block; }
+.ap__name small { font: 500 12px/1.4 var(--mono); color: var(--muted); }
+.ap__flag { display: block; margin-top: 4px; font: 600 12px/1.4 var(--mono); color: var(--flag-r); }
+.ap__flag--soft { color: var(--honey-ink); }
+.ap__ctl { display: flex; gap: 4px; flex-wrap: wrap; justify-content: end; }
+.ap__ctl button { width: 34px; height: 34px; border: 1px solid var(--rule-2); background: var(--paper); cursor: pointer; font: 600 14px/1 var(--mono); }
+.ap__ctl button:hover { border-color: var(--ink); }
+.ap__sum { display: flex; flex-wrap: wrap; gap: 10px 28px; margin: 0 0 18px; }
+.ap__sum div { display: grid; gap: 3px; }
+.ap__sum dt { font: 500 10.5px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.ap__sum dd { margin: 0; font: 600 18px/1.2 var(--mono); }
+.ap__sum .is-bad { color: var(--flag-r); }
+.prof__bad { stroke: var(--flag-r); stroke-width: 5; stroke-linecap: round; }
+.prof__pt.is-bad circle { fill: var(--flag-r); stroke: #fff; stroke-width: 2; }
+.ap__empty { padding: 26px; background: var(--paper-2); clip-path: var(--chamfer); }
+@media (max-width: 980px) { .ap { grid-template-columns: 1fr; } }
+@media (max-width: 480px) { .ap__stop { grid-template-columns: 44px minmax(0, 1fr); } .ap__ctl { grid-column: 1 / -1; justify-content: start; } }
+</style>{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "altitude-planner" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Trip tools · altitude planner</p>
+      <h1 class="d-1">Is the climb paced well</h1>
+      <p class="lede">Add your overnight stops in order. We draw the sleeping-altitude profile and flag any night that sleeps more than 500 m higher than the night before, once you are above 3,000 m.</p>
+      <p class="answer">Common mountain-medicine advice: above 3,000 m, raise your sleeping altitude by no more than 300 to 500 m a day, and take a rest night every three to four days. Day trips higher are fine if you come down to sleep. This tool is a planning aid, not medical advice.</p>
+    </div>
+  </div>
+  {% ridgeline "altitude-planner" 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap ap" data-ap>
+    <div class="ap__add">
+      <h2 class="d-4" style="margin-bottom:16px">Add a night</h2>
+      <div class="field"><label for="ap-start">You arrive from (metres)</label>
+        <select id="ap-start" data-ap-start><option value="300">The plains, under 500 m</option><option value="1400">Kathmandu or a hill town, about 1,400 m</option><option value="2000">A mid-hill town, about 2,000 m</option></select></div>
+      <div class="field"><label for="ap-region">Hive</label><select id="ap-region" data-ap-region><option value="">Every hive</option></select></div>
+      <div class="ap__row2">
+        <div class="field"><label for="ap-place">Overnight stop</label><select id="ap-place" data-ap-place></select></div>
+        <div class="field"><label for="ap-nights">Nights</label><input id="ap-nights" type="number" min="1" max="7" value="1" inputmode="numeric" data-ap-nights></div>
+      </div>
+      <button type="button" class="btn btn--ink btn--block" data-ap-addbtn>Add to the route</button>
+      <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:16px">
+        <button type="button" class="link" style="background:none;border:0;padding:0;cursor:pointer;font-size:15.5px" data-ap-example>Load an example</button>
+        <button type="button" class="link" style="background:none;border:0;padding:0;cursor:pointer;font-size:15.5px" data-ap-clear>Clear the route</button>
+      </div>
+      <noscript><p class="small" style="margin-top:16px">The altitude planner needs JavaScript. Every trip page shows its own sleeping-altitude profile.</p></noscript>
+    </div>
+
+    <div>
+      <dl class="ap__sum" aria-live="polite">
+        <div><dt>Nights</dt><dd data-ap-s-n>0</dd></div>
+        <div><dt>Highest night</dt><dd data-ap-s-max>—</dd></div>
+        <div><dt>Nights above 3,000 m</dt><dd data-ap-s-hi>0</dd></div>
+        <div><dt>Too-fast nights</dt><dd data-ap-s-bad>0</dd></div>
+      </dl>
+      <div class="prof" data-ap-prof><div class="ap__empty"><p style="margin:0">Add two or more nights to draw the profile. Or <button type="button" class="link" style="background:none;border:0;padding:0;cursor:pointer;font-size:inherit" data-ap-example>load an example</button>.</p></div></div>
+      <ol class="ap__stops" data-ap-stops style="margin-top:22px"></ol>
+      <div class="panel panel--wax" style="margin-top:22px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between">
+        <div style="max-width:56ch"><h3 style="margin-bottom:6px;font-size:21px">Want us to pace it for you?</h3><p class="small" style="margin:0">Send the route. A planner adds rest nights where they are needed and replies within one working day with an itemised price.</p></div>
+        <a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-ap-cta data-cta="altitude-plan">Send this route</a>
+      </div>
+      <p class="small muted" style="margin-top:14px">Altitudes are for the village or town where you sleep, rounded. This planner applies a rule of thumb and is not medical advice. Talk to your doctor before any trip above 3,000 m, especially with heart or lung conditions, in pregnancy or with young children.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">How to read the flags</p><h2 class="d-2" style="margin-bottom:18px">Red nights, amber nights</h2>
+      <div class="prose" style="font-size:17px"><ul>
+        <li><b>Red</b>: you sleep above 3,000 m and more than 500 m higher than the night before. Add a night in between, or a rest night lower down first.</li>
+        <li><b>Amber</b>: a third night in a row of climbing above 3,000 m with no rest night. Consider a night at the same height.</li>
+        <li>Flying straight to a high airport, such as Leh at about 3,500 m, will always show red on the first night. Plan two full days of rest before going higher.</li>
+      </ul></div>
+    </div>
+    <div>
+      <p class="eyebrow">Questions</p><h2 class="d-2" style="margin-bottom:18px">Altitude, answered</h2>
+      {% include "hives/partials/faq.html" with open_first=True %}
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script type="application/json" id="ap-data">{{ places|safe }}</script>
+<script>
+(function () {
+  "use strict";
+  var root = document.querySelector("[data-ap]");
+  if (!root) return;
+  var PLAN = "{% url 'plan' %}", FROM = "{{ request.path|urlencode }}";
+  var places = [];
+  try { places = JSON.parse(document.getElementById("ap-data").textContent) || []; } catch (e) { places = []; }
+  var byKey = {};
+  places.forEach(function (p, i) { p.key = (p.u || "").replace(/^\/hives\//, "").replace(/\/$/, ""); p.i = i; byKey[p.key] = p; });
+  var q = function (s) { return root.querySelector(s); };
+  var regionEl = q("[data-ap-region]"), placeEl = q("[data-ap-place]"), nightsEl = q("[data-ap-nights]"), startEl = q("[data-ap-start]");
+  var stopsEl = q("[data-ap-stops]"), profEl = q("[data-ap-prof]"), cta = q("[data-ap-cta]");
+  var route = []; /* [{p: place, n: nights}] */
+
+  function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function fmt(a) { return String(a).replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
+
+  /* region and place pickers */
+  var regions = [];
+  places.forEach(function (p) { if (!regions.some(function (r) { return r.s === p.s; })) regions.push({ s: p.s, r: p.r }); });
+  regions.forEach(function (r) { var o = el("option", null, r.r); o.value = r.s; regionEl.appendChild(o); });
+  function fillPlaces() {
+    var reg = regionEl.value;
+    placeEl.innerHTML = "";
+    var groups = {};
+    places.forEach(function (p) {
+      if (reg && p.s !== reg) return;
+      var g = groups[p.s];
+      if (!g) { g = groups[p.s] = el("optgroup"); g.label = p.r; placeEl.appendChild(g); }
+      var o = el("option", null, p.n + " · " + fmt(p.a) + " m"); o.value = p.i; g.appendChild(o);
+    });
+  }
+
+  function expand() {
+    var nights = [];
+    route.forEach(function (st, si) { for (var k = 0; k < st.n; k++) nights.push({ p: st.p, si: si }); });
+    var prev = parseInt(startEl.value, 10) || 300, climbRun = 0;
+    nights.forEach(function (nt) {
+      var a = nt.p.a, gain = a - prev;
+      nt.gain = gain;
+      nt.bad = a > 3000 && gain > 500;
+      if (a > 3000 && gain > 0) climbRun++; else climbRun = 0;
+      nt.soft = !nt.bad && climbRun >= 3;
+      prev = a;
+    });
+    return nights;
+  }
+
+  function svg(nights) {
+    var NS = "http://www.w3.org/2000/svg";
+    var W = 900, H = 300, L = 64, R = 24, T = 34, B = 54, n = nights.length;
+    var maxA = 0; nights.forEach(function (x) { maxA = Math.max(maxA, x.p.a); });
+    var top = Math.max(4000, Math.ceil(maxA / 1000) * 1000);
+    var X = function (i) { return n < 2 ? (L + W - R) / 2 : L + (W - L - R) * (i / (n - 1)); };
+    var Y = function (a) { return T + (H - T - B) * (1 - a / top); };
+    var s = document.createElementNS(NS, "svg");
+    s.setAttribute("viewBox", "0 0 " + W + " " + H); s.setAttribute("class", "prof__svg"); s.setAttribute("role", "img");
+    s.setAttribute("aria-label", "Sleeping altitude by night, " + n + " nights, highest " + fmt(maxA) + " m");
+    function add(tag, attrs, text) { var e = document.createElementNS(NS, tag); for (var k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; s.appendChild(e); return e; }
+    for (var a = 0; a <= top; a += 1000) {
+      add("line", { "class": "prof__grid", x1: L, x2: W - R, y1: Y(a), y2: Y(a) });
+      add("text", { "class": "prof__axis", x: L - 10, y: Y(a) + 4, "text-anchor": "end" }, fmt(a));
+    }
+    add("line", { "class": "prof__acc", x1: L, x2: W - R, y1: Y(3000), y2: Y(3000) });
+    add("text", { "class": "prof__acc-t", x: W - R, y: Y(3000) - 7, "text-anchor": "end" }, "3,000 m: sleep higher slowly");
+    var pts = nights.map(function (x, i) { return [X(i), Y(x.p.a)]; });
+    if (n > 1) {
+      add("path", { "class": "prof__area", d: "M" + pts[0][0] + "," + Y(0) + " " + pts.map(function (p) { return "L" + p[0] + "," + p[1]; }).join(" ") + " L" + pts[n - 1][0] + "," + Y(0) + "Z" });
+      add("polyline", { "class": "prof__line", points: pts.map(function (p) { return p.join(","); }).join(" ") });
+      nights.forEach(function (x, i) { if (i > 0 && x.bad) add("line", { "class": "prof__bad", x1: pts[i - 1][0], y1: pts[i - 1][1], x2: pts[i][0], y2: pts[i][1] }); });
+    }
+    var step = Math.max(1, Math.ceil(n / 12));
+    nights.forEach(function (x, i) {
+      var g = document.createElementNS(NS, "g");
+      g.setAttribute("class", "prof__pt" + (x.bad ? " is-bad" : x.p.a >= 3000 ? " is-high" : ""));
+      var c = document.createElementNS(NS, "circle"); c.setAttribute("cx", pts[i][0]); c.setAttribute("cy", pts[i][1]); c.setAttribute("r", x.bad ? 7 : 5); g.appendChild(c);
+      var t = document.createElementNS(NS, "title"); t.textContent = "Night " + (i + 1) + ": " + x.p.n + ", " + fmt(x.p.a) + " m" + (x.bad ? " (more than 500 m higher than the night before)" : ""); g.appendChild(t);
+      s.appendChild(g);
+      if (i % step === 0 || i === n - 1) add("text", { "class": "prof__day", x: pts[i][0], y: H - B + 20, "text-anchor": "middle" }, "N" + (i + 1));
+    });
+    add("text", { "class": "prof__axis", x: L, y: T - 14, "text-anchor": "start" }, "metres");
+    return s;
+  }
+
+  function btn(label, title, fn) { var b = el("button", null, label); b.type = "button"; b.title = title; b.setAttribute("aria-label", title); b.addEventListener("click", fn); return b; }
+
+  function render() {
+    var nights = expand();
+    var maxA = 0, hi = 0, bad = 0;
+    nights.forEach(function (x) { maxA = Math.max(maxA, x.p.a); if (x.p.a >= 3000) hi++; if (x.bad) bad++; });
+    q("[data-ap-s-n]").textContent = nights.length;
+    q("[data-ap-s-max]").textContent = nights.length ? fmt(maxA) + " m" : "—";
+    q("[data-ap-s-hi]").textContent = hi;
+    var badEl = q("[data-ap-s-bad]"); badEl.textContent = bad; badEl.className = bad ? "is-bad" : "";
+
+    profEl.innerHTML = "";
+    if (nights.length >= 2) profEl.appendChild(svg(nights));
+    else {
+      var em = el("div", "ap__empty"), p = el("p", null, nights.length ? "Add one more night to draw the profile." : "Add two or more nights to draw the profile, or load an example.");
+      p.style.margin = "0"; em.appendChild(p); profEl.appendChild(em);
+    }
+
+    stopsEl.innerHTML = "";
+    var night = 1;
+    route.forEach(function (st, si) {
+      var mine = nights.filter(function (x) { return x.si === si; });
+      var li = el("li", "ap__stop" + (mine.some(function (x) { return x.bad; }) ? " is-bad" : ""));
+      li.appendChild(el("span", "ap__n", st.n > 1 ? "N" + night + "–" + (night + st.n - 1) : "N" + night));
+      night += st.n;
+      var nm = el("div", "ap__name");
+      var b = el("b"); var a = el("a", null, st.p.n); a.href = st.p.u; a.style.textDecoration = "none"; b.appendChild(a); nm.appendChild(b);
+      var first = mine[0];
+      nm.appendChild(el("small", null, fmt(st.p.a) + " m · " + st.p.r + " · " + st.n + " night" + (st.n > 1 ? "s" : "") + (first ? " · " + (first.gain >= 0 ? "+" : "−") + fmt(Math.abs(first.gain)) + " m" : "")));
+      if (first && first.bad) nm.appendChild(el("span", "ap__flag", "Too fast: " + fmt(first.gain) + " m higher than the night before, above 3,000 m. Add a night in between."));
+      else if (mine.some(function (x) { return x.soft; })) nm.appendChild(el("span", "ap__flag ap__flag--soft", "Third climbing night in a row above 3,000 m. Consider a rest night here."));
+      li.appendChild(nm);
+      var ctl = el("div", "ap__ctl");
+      ctl.appendChild(btn("−", "One night fewer at " + st.p.n, function () { if (st.n > 1) st.n--; else route.splice(si, 1); save(); render(); }));
+      ctl.appendChild(btn("+", "One night more at " + st.p.n, function () { st.n = Math.min(7, st.n + 1); save(); render(); }));
+      ctl.appendChild(btn("↑", "Move " + st.p.n + " earlier", function () { if (si > 0) { route.splice(si - 1, 0, route.splice(si, 1)[0]); save(); render(); } }));
+      ctl.appendChild(btn("↓", "Move " + st.p.n + " later", function () { if (si < route.length - 1) { route.splice(si + 1, 0, route.splice(si, 1)[0]); save(); render(); } }));
+      ctl.appendChild(btn("×", "Remove " + st.p.n, function () { route.splice(si, 1); save(); render(); }));
+      li.appendChild(ctl);
+      stopsEl.appendChild(li);
+    });
+
+    var land = "", hiA = -1;
+    route.forEach(function (st) { if (st.p.a > hiA) { hiA = st.p.a; land = st.p.s; } });
+    var msg = "Altitude planner route: " + route.map(function (st) { return st.p.n + " (" + st.n + "n, " + fmt(st.p.a) + " m)"; }).join(" > ");
+    cta.href = PLAN + "?from=" + FROM + (land ? "&land=" + encodeURIComponent(land) : "") + (route.length ? "&journey=" + encodeURIComponent(msg.slice(0, 150)) : "");
+  }
+
+  function save() {
+    try { history.replaceState(null, "", location.pathname + location.search + (route.length ? "#r=" + route.map(function (st) { return st.p.key + "*" + st.n; }).join(",") : "")); } catch (e) {}
+  }
+  function load() {
+    var h = (location.hash || "").match(/^#r=(.+)$/);
+    if (!h) return;
+    decodeURIComponent(h[1]).split(",").forEach(function (part) {
+      var bits = part.split("*"), p = byKey[bits[0]];
+      if (p) route.push({ p: p, n: Math.min(7, Math.max(1, parseInt(bits[1], 10) || 1)) });
+    });
+  }
+  function example() {
+    var reg = regionEl.value;
+    if (!reg) { var hiR = null; places.forEach(function (p) { if (!hiR || p.a > hiR.a) hiR = p; }); reg = hiR ? hiR.s : ""; }
+    var list = places.filter(function (p) { return p.s === reg; }).sort(function (a, b) { return a.a - b.a; });
+    if (!list.length) return;
+    var pick = [], want = Math.min(5, list.length);
+    for (var k = 0; k < want; k++) pick.push(list[Math.round(k * (list.length - 1) / Math.max(1, want - 1))]);
+    route = pick.filter(function (p, i) { return pick.indexOf(p) === i; }).map(function (p, i) { return { p: p, n: i === 0 ? 2 : 1 }; });
+    save(); render();
+  }
+
+  regionEl.addEventListener("change", fillPlaces);
+  startEl.addEventListener("change", render);
+  q("[data-ap-addbtn]").addEventListener("click", function () {
+    var p = places[parseInt(placeEl.value, 10)];
+    if (!p) return;
+    route.push({ p: p, n: Math.min(7, Math.max(1, parseInt(nightsEl.value, 10) || 1)) });
+    nightsEl.value = 1; save(); render();
+  });
+  Array.prototype.forEach.call(root.querySelectorAll("[data-ap-example]"), function (b) { b.addEventListener("click", example); });
+  q("[data-ap-clear]").addEventListener("click", function () { route = []; save(); render(); });
+
+  fillPlaces(); load(); render();
+})();
+</script>
+{% endblock %}

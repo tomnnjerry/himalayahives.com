@@ -1,0 +1,151 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Season finder · where in the Himalaya is good in your month · Himalaya Hives{% endblock %}
+{% block description %}Pick a month and see every Himalaya place rated best or good for it, from Kashmir to Arunachal, with a filter by hive.{% endblock %}
+{% block og_title %}Himalaya season finder{% endblock %}
+{% block head_extra %}<style>
+.sf-months { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 4px; padding: 6px; background: var(--paper-2); }
+.sf-months button { border: 0; background: transparent; padding: 12px 0; font: 600 13px/1 var(--mono); letter-spacing: .04em; text-transform: uppercase; cursor: pointer; clip-path: var(--hexcut); min-width: 0; }
+.sf-months button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.sf-months button:hover:not([aria-pressed="true"]) { background: var(--paper-3); }
+.sf-bar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 16px 0 34px; }
+.sf-bar select { padding: 10px 12px; border: 1.5px solid var(--rule-2); background: var(--card); font-weight: 500; }
+.sf-count { margin-left: auto; font: 500 13px/1 var(--mono); color: var(--muted); }
+.sf-group + .sf-group { margin-top: 48px; }
+.sf-group h2 { margin-bottom: 18px; }
+.sf-card .cell__body { padding-top: 22px; }
+.sf-empty { padding: 26px; background: var(--card); clip-path: var(--chamfer); }
+@media (max-width: 760px) { .sf-card .cell__ph { aspect-ratio: 16 / 7; } .sf-months { grid-template-columns: repeat(6, minmax(0, 1fr)); } .sf-count { margin-left: 0; width: 100%; } }
+</style>{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "season-finder" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Trip tools · season finder</p>
+      <h1 class="d-1">Where is good in your month</h1>
+      <p class="lede">Pick a month. We list every place we cover that is at its best or good then, across all {{ regions|length }} hives, best first.</p>
+    </div>
+  </div>
+  {% ridgeline "season-finder" 4 %}
+</header>
+
+<section class="sec sec--tight" id="finder">
+  <div class="wrap">
+    <div class="sf-months" role="group" aria-label="Month" data-sf-months>{% for m in months %}<button type="button" data-m="{{ forloop.counter0 }}" aria-pressed="{% if forloop.counter0 == now %}true{% else %}false{% endif %}" aria-label="{{ m }}">{{ m|slice:":3" }}</button>{% endfor %}</div>
+    <div class="sf-bar">
+      <label class="sr-only" for="sf-region">Hive</label>
+      <select id="sf-region" data-sf-region><option value="">Every hive</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+      <label style="display:inline-flex;gap:8px;align-items:center;font-size:15.5px"><input type="checkbox" data-sf-best> Best months only</label>
+      <span class="sf-count" data-sf-count aria-live="polite"></span>
+    </div>
+    <div data-sf-out>
+      <noscript><div class="sf-empty"><p style="margin:0">The season finder needs JavaScript. The <a href="{% url 'seasons' %}">season almanac</a> shows the same ratings for every hive on one page.</p></div></noscript>
+    </div>
+    <div class="panel panel--wax" style="margin-top:44px;display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between">
+      <div style="max-width:60ch"><h3 style="margin-bottom:6px">Found your month?</h3><p style="margin:0;font-size:16.5px">Send it to a planner with the hive you like. We reply within one working day with a route, an altitude profile and an itemised price.</p></div>
+      <a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-sf-cta data-cta="season-finder-plan">Plan this month</a>
+    </div>
+    <p class="small muted" style="margin-top:16px">Ratings come from our notes for each place and describe a typical year. Snow, monsoon and road openings vary; check current status before you travel. See the <a href="{% url 'seasons' %}">season almanac</a> for whole hives.</p>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script type="application/json" id="sf-data">{{ data|safe }}</script>
+<script>
+(function () {
+  "use strict";
+  var MONTHS = [{% for m in months %}"{{ m }}"{% if not forloop.last %},{% endif %}{% endfor %}];
+  var PLAN = "{% url 'plan' %}", FROM = "{{ request.path|urlencode }}";
+  var data = [];
+  try { data = JSON.parse(document.getElementById("sf-data").textContent) || []; } catch (e) { data = []; }
+  var monthsEl = document.querySelector("[data-sf-months]");
+  var regionEl = document.querySelector("[data-sf-region]");
+  var bestEl = document.querySelector("[data-sf-best]");
+  var out = document.querySelector("[data-sf-out]");
+  var countEl = document.querySelector("[data-sf-count]");
+  var cta = document.querySelector("[data-sf-cta]");
+  if (!monthsEl || !out) return;
+
+  var month = {{ now|default:0 }};
+  var params = new URLSearchParams(location.search);
+  var qm = (params.get("month") || "").toLowerCase();
+  MONTHS.forEach(function (m, i) { if (m.toLowerCase() === qm || m.slice(0, 3).toLowerCase() === qm) month = i; });
+  var h = parseInt((location.hash || "").replace("#", ""), 10);
+  if (!isNaN(h) && h >= 0 && h < 12) month = h;
+  if (params.get("region")) regionEl.value = params.get("region");
+
+  function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+
+  function card(p, v) {
+    var a = el("a", "cell sf-card");
+    a.href = p.u; a.setAttribute("data-land", p.rs);
+    var ph = el("div", "cell__ph");
+    if (p.i) { var img = el("img"); img.src = p.i; img.alt = ""; img.loading = "lazy"; img.onerror = function () { img.remove(); }; ph.appendChild(img); }
+    var tag = el("span", "cell__tier tier " + (v === 2 ? "tier--signature" : "tier--saver"), v === 2 ? "Best" : "Good");
+    ph.appendChild(tag);
+    a.appendChild(ph);
+    var b = el("div", "cell__body");
+    b.appendChild(el("span", "readout", p.r + (p.k ? " · " + p.k.charAt(0).toUpperCase() + p.k.slice(1) : "")));
+    b.appendChild(el("h3", "cell__title", p.n));
+    var best = [];
+    (p.b || []).forEach(function (x, i) { if (x === 2) best.push(MONTHS[i].slice(0, 3)); });
+    if (best.length) b.appendChild(el("p", "cell__text", "Best: " + best.join(", ")));
+    a.appendChild(b);
+    return a;
+  }
+
+  function group(title, list, v) {
+    var g = el("div", "sf-group");
+    var head = el("div", "sec-head");
+    var d = el("div");
+    d.appendChild(el("p", "eyebrow", v === 2 ? "At their best" : "Good, with trade-offs"));
+    d.appendChild(el("h2", "d-2", title));
+    head.appendChild(d);
+    g.appendChild(head);
+    var grid = el("div", "grid grid--4");
+    list.forEach(function (p) { grid.appendChild(card(p, v)); });
+    g.appendChild(grid);
+    return g;
+  }
+
+  function render() {
+    var reg = regionEl.value, onlyBest = bestEl.checked;
+    var best = [], good = [];
+    data.forEach(function (p) {
+      if (reg && p.rs !== reg) return;
+      var v = (p.b || [])[month] || 0;
+      if (v === 2) best.push(p); else if (v === 1 && !onlyBest) good.push(p);
+    });
+    var byName = function (a, b) { return a.r === b.r ? a.n.localeCompare(b.n) : 0; };
+    best.sort(byName); good.sort(byName);
+    out.innerHTML = "";
+    var mName = MONTHS[month];
+    var regName = reg ? regionEl.options[regionEl.selectedIndex].text : "";
+    if (best.length) out.appendChild(group("Best in " + mName + (regName ? " in " + regName : ""), best, 2));
+    if (good.length) out.appendChild(group("Good in " + mName + (regName ? " in " + regName : ""), good, 1));
+    if (!best.length && !good.length) {
+      var e = el("div", "sf-empty");
+      e.appendChild(el("h3", "d-4", "Nothing rated good in " + mName + (regName ? " in " + regName : "")));
+      var p = el("p", null, regName ? "Try every hive, or another month. Many high valleys close in winter and the eastern hives are wet in the monsoon." : "Try another month, or untick best months only.");
+      p.style.margin = "8px 0 0";
+      e.appendChild(p);
+      out.appendChild(e);
+    }
+    countEl.textContent = best.length + " best · " + good.length + " good";
+    Array.prototype.forEach.call(monthsEl.querySelectorAll("button"), function (b) { b.setAttribute("aria-pressed", String(+b.dataset.m === month)); });
+    if (cta) {
+      cta.href = PLAN + "?month=" + encodeURIComponent(mName) + (reg ? "&land=" + encodeURIComponent(reg) : "") + "&from=" + FROM;
+      cta.textContent = "Plan " + mName + (regName ? " in " + regName : "");
+    }
+    var q = new URLSearchParams(); q.set("month", mName.toLowerCase()); if (reg) q.set("region", reg);
+    try { history.replaceState(null, "", location.pathname + "?" + q.toString()); } catch (e2) {}
+  }
+
+  monthsEl.addEventListener("click", function (e) { var b = e.target.closest("button[data-m]"); if (!b) return; month = +b.dataset.m; render(); });
+  regionEl.addEventListener("change", render);
+  bestEl.addEventListener("change", render);
+  render();
+})();
+</script>
+{% endblock %}

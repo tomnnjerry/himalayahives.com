@@ -1,0 +1,40 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya routes · drive times, buses and shared jeeps · Himalaya Hives{% endblock %}
+{% block description %}How to get between places in every Himalaya hive: realistic mountain drive times, state bus and shared jeep fares, private car costs and road opening seasons.{% endblock %}
+{% block og_title %}Himalaya routes and drive times{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="routes" eyebrow="Routes" title="Getting around the hives" lede="Mountain kilometres are slow. Here is how long each road really takes, and what the bus, the shared jeep and a private car cost." answer="Each route lists every way to make the journey with honest times and indicative 2026 fares, the season the road is open and what is worth a stop on the way. Roads and passes close with snow and landslides: check current status before you travel." %}
+
+<section class="sec">
+  <div class="wrap">
+    {% if counts.routes %}
+    <div class="chips" style="margin-bottom:34px">{% for r in regions %}{% if r.routes %}<a class="chip" href="#{{ r.slug }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endif %}{% endfor %}</div>
+    {% for r in regions %}{% if r.routes %}<div id="{{ r.slug }}" style="margin-bottom:clamp(40px,5vw,64px);scroll-margin-top:100px" data-land="{{ r.slug }}">
+      <div class="sec-head"><div><p class="eyebrow">{{ r.routes|length }} route{{ r.routes|length|pluralize }}</p><h2 class="d-2">{{ r.name }}</h2></div><a class="link" href="{{ r.url }}#map">{{ r.name }} map {% icon "arrow" %}</a></div>
+      <div class="toc">{% for rt in r.routes %}<a class="toc__row" href="{{ rt.url }}" data-img="{% with i=rt|first_img %}{{ i|src:500 }}{% endwith %}"><span class="hbadge hbadge--sm">{% icon "route" %}</span><span><b>{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</b><small>{{ rt.summary|truncatechars:120 }}</small></span><span class="readout">{% if rt.distance_km %}{{ rt.distance_km }} km{% endif %}{% if rt.options %} · {{ rt.options|length }} way{{ rt.options|length|pluralize }}{% endif %}</span>{% icon "arrow" %}</a>{% endfor %}</div>
+    </div>{% endif %}{% endfor %}
+    <div class="toc__peek" aria-hidden="true"><img alt=""></div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>Routes are being added</h2><p>Ask us how to get from one place to another and a planner will send times, fares and the best option for your budget.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask a planner</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--tint">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">How we plan a drive</p><h2 class="d-2" style="margin-bottom:16px">Slow roads, honest times</h2>
+      <div class="prose" style="font-size:17px"><ul>
+        <li>We drive in daylight and keep long road days to about one in three.</li>
+        <li>We add a spare day to any route that crosses a pass above 4,000 m.</li>
+        <li>Above 3,000 m we pace the climb so sleeping height rises no more than 300–500 m a day. This is not medical advice: talk to your doctor before a high trip.</li>
+      </ul></div>
+    </div>
+    <div>
+      <p class="eyebrow">On a budget</p><h2 class="d-2" style="margin-bottom:16px">Buses and shared jeeps</h2>
+      <p class="muted">State buses and shared jeeps run most valley roads in season. Saver trips use them where they run reliably.</p>
+      <div class="chips"><a class="chip" href="{% url 'affordable' %}">{% icon "bus" %}The affordable Himalaya</a><a class="chip" href="{% url 'theme' 'road-trips' %}">{% icon "road" %}Road trips</a><a class="chip" href="{% url 'tool_altitude' %}">{% icon "altitude" %}Altitude planner</a></div>
+    </div>
+  </div>
+</section>
+{% endblock %}

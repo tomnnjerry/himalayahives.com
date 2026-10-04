@@ -1,0 +1,261 @@
+{
+ "slug": "bhutan-comfort-central-bhutan-bumthang-12n",
+ "title": "Central Bhutan to Bumthang, 12 nights",
+ "region": "bhutan",
+ "tier": "comfort",
+ "nights": 12,
+ "themes": [
+  "monasteries",
+  "road-trips",
+  "wildlife-and-birds",
+  "homestays-and-villages"
+ ],
+ "stops": [
+  {
+   "place": "thimphu",
+   "nights": 2
+  },
+  {
+   "place": "punakha",
+   "nights": 1
+  },
+  {
+   "place": "phobjikha",
+   "nights": 2
+  },
+  {
+   "place": "trongsa",
+   "nights": 1
+  },
+  {
+   "place": "bumthang",
+   "nights": 3
+  },
+  {
+   "place": "punakha",
+   "nights": 1
+  },
+  {
+   "place": "paro",
+   "nights": 2
+  }
+ ],
+ "start": "Paro International Airport",
+ "end": "Paro International Airport",
+ "price_from_inr": 144000,
+ "price_note": "Per person, twin share, Indian nationals: SDF ₹1,200 a night, 12 nights in good hotels and lodges with breakfast and dinner, private car and licensed guide; flights to Paro extra. Other nationals pay USD 100 a night SDF, quoted separately.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "12 nights across Bhutan: Thimphu, Punakha, Phobjikha, Trongsa and Bumthang's old temples, then Paro and Tiger's Nest. Private car and guide, from ₹1,44,000.",
+ "summary": "Twelve nights that cross the Black Mountains into central Bhutan: Phobjikha's crane valley, the great dzong at Trongsa and three nights in Bumthang, the valley of Bhutan's oldest temples. Private car and licensed guide, good hotels and lodges including Dewachen and the Swiss Guest House, and Paro's Tiger's Nest at the end.",
+ "intro": [
+  "Most visitors to Bhutan never pass Dochu La. East of it the country changes: the road climbs over Pele La at about 3,400 m into Trongsa, the dzong that once controlled all traffic between east and west, and on into Bumthang's four high valleys, where buckwheat replaces rice and many of the oldest temples in the country stand in the fields. This trip gives that part of Bhutan the time it needs, with two short days for every long one.",
+  "Prices assume Indian nationals, who pay ₹1,200 a night SDF as we understand the current rules; most other nationalities pay USD 100 a night. Over 12 nights that difference is large, so we quote both clearly. The rules have changed several times since 2022; check current status before you travel. Your licensed guide and driver stay with you from Paro and back."
+ ],
+ "highlights": [
+  "Phobjikha valley and its wintering black-necked cranes",
+  "Trongsa Dzong and the Ta Dzong royal museum",
+  "Jambay, Kurjey and Tamshing temples in Bumthang",
+  "Membartsho, the Burning Lake, in the Tang valley",
+  "Punakha Dzong and Tiger's Nest on the way home"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Land at Paro, drive to Thimphu",
+   "place": "thimphu",
+   "overnight": "Hotel Druk, Thimphu",
+   "drive": "≈ 55 km · 1 h 15 min",
+   "text": "Your guide and driver meet you at Paro airport after the steep daylight approach between the ridges. Drive along the river to Chhuzom and up to Thimphu. Check in at Hotel Druk on Clock Tower Square. In the late afternoon, walk to the Memorial Chorten, where residents circle the stupa until dusk, and along Norzin Lam, where traffic is still directed by hand.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Thimphu's dzong, Buddha and crafts",
+   "place": "thimphu",
+   "overnight": "Hotel Druk, Thimphu",
+   "drive": "≈ 30 km in the city",
+   "text": "Visit Buddha Dordenma above the valley and the Royal Takin Preserve at Motithang. After lunch, see students at the Institute for Zorig Chusum learning painting, carving and embroidery, and browse the Centenary Farmers Market if it is Friday to Sunday. End at Tashichho Dzong at about 5 pm, when government offices close and the flag is lowered.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Dochu La to Punakha",
+   "place": "punakha",
+   "overnight": "Hotel in the Punakha valley",
+   "drive": "≈ 72 km · 3 h",
+   "text": "Stop at Simtokha Dzong, built in 1629, then cross Dochu La at about 3,100 m with its 108 chortens. Drop into the warm Punakha valley and spend the afternoon at Punakha Dzong at the confluence of the Pho Chhu and Mo Chhu, built by the Zhabdrung in the 1630s and Bhutan's capital until the 1950s. Walk on to the long suspension bridge before dinner.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Chimi Lhakhang and up to Phobjikha",
+   "place": "phobjikha",
+   "overnight": "Dewachen Hotel, Gangtey",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Walk the field path to Chimi Lhakhang, the temple of the Divine Madman, built in 1499. Then drive past Wangdue and climb through oak and rhododendron forest over Lawa La into Phobjikha, a glacial valley at about 3,000 m. Check in at Dewachen, a 16-room lodge with wood stoves in every room and views over the valley. Nights are cold from November to February.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Cranes and Gangtey Goenpa",
+   "place": "phobjikha",
+   "overnight": "Dewachen Hotel, Gangtey",
+   "drive": "",
+   "text": "From late October to February, watch black-necked cranes on the marsh at first light. Visit the crane centre run by the Royal Society for Protection of Nature and Gangtey Goenpa, the Nyingma monastery on the spur above the valley. In the afternoon, walk the Gangtey nature trail, about 1.5–2 hours through pine and across the valley floor. A hot stone bath at the lodge is a good end to the day.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Over Pele La to Trongsa",
+   "place": "trongsa",
+   "overnight": "Hotel in Trongsa",
+   "drive": "≈ 120 km · 4–4.5 h",
+   "text": "Rejoin the Lateral Road and climb to Pele La at about 3,400 m, the traditional boundary between western and central Bhutan, where yaks graze in summer and dwarf bamboo covers the slopes. Stop at Chendebji Chorten, an 18th-century stupa built in the Nepali style. Arrive in Trongsa for the evening view across the gorge to the dzong, lit up after dark.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Trongsa Dzong, then Bumthang",
+   "place": "bumthang",
+   "overnight": "Swiss Guest House, Jakar",
+   "drive": "≈ 68 km · 2.5–3 h",
+   "text": "Morning inside Trongsa Dzong, the ancestral seat of the Wangchuck kings, built along a ridge above the Mangde Chhu. Climb to the Ta Dzong watchtower, now a museum of royal history. Then cross Yotong La and descend into Bumthang's Chhume valley, known for yathra weaving; stop at a weaving village before reaching Jakar. Check in at the Swiss Guest House among its orchards.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Bumthang's oldest temples",
+   "place": "bumthang",
+   "overnight": "Swiss Guest House, Jakar",
+   "drive": "≈ 20 km",
+   "text": "A walking day in the Choekhor valley. Visit Jambay Lhakhang, said to have been founded in the 7th century by the Tibetan king Songtsen Gampo; Kurjey Lhakhang, where Guru Rinpoche is said to have left his body's imprint in rock; and, across the river by footbridge, Tamshing, founded in 1501 by Pema Lingpa, with a chain-mail coat pilgrims carry around the inner temple. Afternoon at Jakar Dzong above the town.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Tang valley and the Burning Lake",
+   "place": "bumthang",
+   "overnight": "Swiss Guest House, Jakar",
+   "drive": "≈ 60 km round trip · 2 h",
+   "text": "Drive into the Tang valley to Membartsho, the Burning Lake, a pool in a gorge where Pema Lingpa is said to have recovered sacred treasures. Keep back from the edge: the water is deep and dangerous. In the afternoon, visit Jakar's Swiss-founded cheese makers and brewery, or walk the town's main street for buckwheat noodles, called puta, at a local café.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 10,
+   "title": "The long road back to Punakha",
+   "place": "punakha",
+   "overnight": "Hotel in the Punakha valley",
+   "drive": "≈ 215 km · 7–8 h",
+   "text": "The one long day of the trip. Drive back over Yotong La, through Trongsa and over Pele La, then down through the forests to Wangdue and Punakha. We stop for lunch and short breaks, and the guide will time a stop at Trongsa's viewpoint for a last look at the dzong. Arrive in warm Punakha for a late dinner.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 11,
+   "title": "Punakha to Paro",
+   "place": "paro",
+   "overnight": "Zhiwa Ling Heritage, Paro",
+   "drive": "≈ 125 km · 4–4.5 h",
+   "text": "Morning hike through rice terraces to the Khamsum Yulley Namgyal Chorten, about an hour up. Then drive over Dochu La and past Thimphu to Paro. Check in at Zhiwa Ling, hand-built by Bhutanese craftsmen over five years. In the late afternoon, visit Rinpung Dzong across its covered bridge.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 12,
+   "title": "Taktsang, the Tiger's Nest",
+   "place": "paro",
+   "overnight": "Zhiwa Ling Heritage, Paro",
+   "drive": "≈ 10 km · 20 min each way",
+   "text": "After nights at Phobjikha and Bumthang, you are well acclimatised for the hike. Start early from about 2,600 m and climb through blue pine to the cafeteria viewpoint and on to the monastery at 3,120 m. Cameras go into lockers at the gate. Visit Kyichu Lhakhang on the way back. Farewell dinner at the hotel.",
+   "meals": "Breakfast, Packed lunch, Dinner"
+  },
+  {
+   "day": 13,
+   "title": "Fly out of Paro",
+   "place": "paro",
+   "overnight": "",
+   "drive": "≈ 5 km · 15 min",
+   "text": "A short transfer to Paro airport for your morning flight. Weather can delay departures, so keep a spare day before onward international flights and avoid same-day connections in India.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-druk-thimphu",
+  "dewachen-hotel-phobjikha",
+  "swiss-guest-house-bumthang",
+  "zhiwa-ling-heritage-paro"
+ ],
+ "includes": [
+  "SDF at ₹1,200 per night for Indian nationals (12 nights)",
+  "12 nights in good hotels and lodges, twin share, with breakfast and dinner",
+  "Private car with driver for all days",
+  "Licensed English- or Hindi-speaking guide throughout",
+  "Entry and route permits for all districts, and monument entry fees"
+ ],
+ "excludes": [
+  "Flights to and from Paro",
+  "Visa fee and the higher SDF for non-Indian nationals",
+  "Lunches, drinks and tips",
+  "Hot stone baths and pony hire",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "Sleeping altitudes reach about 3,000 m in Phobjikha and 2,600–2,800 m in Bumthang, and the road crosses Pele La at about 3,400 m. Drink water, rest on arrival, and talk to your doctor before the trip if you have heart or lung conditions.",
+  "Sustainable Development Fee: as we understand it, ₹1,200 a night for Indian nationals and USD 100 a night for most others. Check current status before you travel.",
+  "Day 10 is a 7–8 hour drive. Domestic flights between Bumthang and Paro sometimes run and can replace it; schedules change, so check current status before you travel.",
+  "January is very cold in Bumthang and Phobjikha, and snow can close Pele La for a day; we do not run this trip in January.",
+  "Bumthang and Trongsa districts must be on your route permit; our partner arranges this before arrival."
+ ],
+ "faqs": [
+  {
+   "q": "Is Bumthang worth the long drive?",
+   "a": "Yes, if you have 10 nights or more. Bumthang holds many of Bhutan's oldest temples, linked to Guru Rinpoche and Pema Lingpa, and feels quieter and more rural than the west. The drive is long but broken here by a night in Trongsa, so only the return day is truly long."
+  },
+  {
+   "q": "How much SDF will I pay on this trip?",
+   "a": "As we understand the current rules, ₹14,400 per Indian adult for 12 nights at ₹1,200 a night, and USD 1,200 for most other adults at USD 100 a night. Children 6–12 pay half, under-6s nothing. Check current status before you travel."
+  },
+  {
+   "q": "Can we fly back from Bumthang instead of driving?",
+   "a": "Sometimes. Bathpalathang airport near Jakar has had domestic flights to Paro, which can replace the long day 10 drive. Schedules are limited and change by season, and weather cancels flights. We check availability when you book and keep the road as a fallback."
+  },
+  {
+   "q": "When will we see the black-necked cranes?",
+   "a": "From about late October to February, when the cranes winter in Phobjikha. Late October and November are best for this trip, combining cranes with clear skies. The Black-necked Crane Festival is held at Gangtey Goenpa in November."
+  },
+  {
+   "q": "Are the hotels heated?",
+   "a": "Yes, all have heaters or wood stoves, which matters in Phobjikha and Bumthang, where nights fall below freezing from November to March. Dewachen and the Swiss Guest House use wood stoves. Hot water bottles are often provided on request."
+  },
+  {
+   "q": "What is Bumthang known for?",
+   "a": "Ancient temples, Pema Lingpa's Burning Lake, buckwheat dishes such as puta noodles and khuli pancakes, and yathra wool weaving. Swiss development work in the valley left a cheese maker and a brewery in Jakar. Several festivals, including Jambay Lhakhang Drup, fall in autumn."
+  },
+  {
+   "q": "Is this trip suitable for older travellers?",
+   "a": "For active older travellers, yes. Drives are 3–4.5 hours on most travel days, with one long day of 7–8 hours. Sleeping altitudes reach about 3,000 m, so talk to your doctor first. Most temple visits involve short walks and some steps."
+  },
+  {
+   "q": "Can we add a festival?",
+   "a": "Yes. Bumthang's Jambay Lhakhang Drup and Jakar Tshechu usually fall in October or November, and Thimphu Tshechu in September or October. Dates follow the lunar calendar. We can shift the itinerary to include one; check current status before you travel."
+  },
+  {
+   "q": "Do we need special permits for central Bhutan?",
+   "a": "Yes. Districts beyond Paro and Thimphu must be listed on your route permit, which our licensed partner arranges before you arrive. Your guide carries it and shows it at checkpoints along the Lateral Road. You do not need to apply separately."
+  }
+ ]
+}

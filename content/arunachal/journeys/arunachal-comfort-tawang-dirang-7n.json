@@ -1,0 +1,203 @@
+{
+ "slug": "arunachal-comfort-tawang-dirang-7n",
+ "title": "Tawang and Dirang by private car",
+ "region": "arunachal",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "road-trips",
+  "monasteries",
+  "family-holidays",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "bhalukpong",
+   "nights": 1
+  },
+  {
+   "place": "dirang",
+   "nights": 2
+  },
+  {
+   "place": "tawang",
+   "nights": 3
+  },
+  {
+   "place": "bomdila",
+   "nights": 1
+  }
+ ],
+ "start": "Guwahati airport or railway station",
+ "end": "Tezpur airport or Guwahati",
+ "price_from_inr": 54000,
+ "price_note": "Per person, twin sharing: 7 nights in good hotels and cottages with breakfast and dinner, private SUV with driver throughout, Sela and high lakes day, e-ILP fee; flights extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Comfort Tawang trip, 7 nights: Bhalukpong, Dirang, Sela Pass, Tawang Monastery, the high lakes and Bomdila by private SUV, from ₹54,000 per person.",
+ "summary": "Seven nights on the western Arunachal circuit in your own SUV: a river night at Bhalukpong, two nights in the Dirang valley to acclimatise, three nights in Tawang with time for the monastery, Urgelling and the high lakes, and a last night in Bomdila. Good hotels, unhurried days.",
+ "intro": [
+  "A private car changes the Tawang trip. You can stop at Sela for the lake and the views, take the old road over the pass when it is open, visit Nuranang Falls at Jang, and leave early or late as the weather suggests. We break the long drive from Guwahati at Bhalukpong, then climb to Dirang for two nights before Tawang, which makes the altitude easier on everyone.",
+  "Stays are the best of the mid-range: riverside cottages in Dirang, an established town hotel in Tawang with heaters and monastery views, and a central hotel in Bomdila. The first night at Bhalukpong is simpler, in the best available lodge near the river. Drivers on this route are experienced, but roads are mountain roads; expect long days on days 1, 2 and 7."
+ ],
+ "highlights": [
+  "The Kameng river and Inner Line gate at Bhalukpong",
+  "Two nights in riverside cottages in the Dirang valley",
+  "Time at Sela Lake and the Jaswantgarh memorial",
+  "Tawang Monastery and Urgelling, birthplace of the 6th Dalai Lama",
+  "A full day to the high lakes above 4,000 m"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Guwahati to the Kameng at Bhalukpong",
+   "place": "bhalukpong",
+   "overnight": "Bhalukpong",
+   "drive": "≈ 230 km · 5–6 h",
+   "text": "Your driver meets you in Guwahati and heads north-east across the Brahmaputra plains through Mangaldoi or Tezpur district, past tea gardens to Bhalukpong. In the late afternoon, walk down to the stony bank of the Kameng as the light drops. Tonight is the simplest stay on the trip, in the best available lodge near the river. Keep your permit printouts handy for the check gate tomorrow.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Climb to Dirang via Tipi and Bomdila",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 145 km · 5–6 h",
+   "text": "Cross the check gate early and stop at the Orchid Research Centre at Tipi, 5 km up the road. The road climbs through Tenga's valley to Bomdila at about 2,400 m, then drops to the warmer Dirang valley. Check into your riverside cottage, reached across a hanging bridge, and spend the evening by the river.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 3,
+   "title": "Dirang Dzong, Sangti and the hot springs",
+   "place": "dirang",
+   "overnight": "Dirang",
+   "drive": "≈ 40 km local",
+   "text": "A slow day at about 1,600 m to acclimatise. Visit Dirang Dzong, the stone village with its old fortified houses, and the hot springs by the river. Drive out to the Sangti valley, a broad river flat where black-necked cranes have been recorded in winter, and walk among the orchards. Rest in the afternoon; tomorrow is the big climb.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 4,
+   "title": "Over Sela Pass to Tawang",
+   "place": "sela-pass",
+   "overnight": "Tawang",
+   "drive": "≈ 140 km · 6–7 h with stops",
+   "text": "Leave by 7 am. The road climbs through Baisakhi to Sela Pass at about 4,170 m. When the old road is open your driver takes it for Sela Lake and the prayer-flag gate; keep the stop to 30–45 minutes. Descend to the Jaswantgarh war memorial and Nuranang Falls near Jang, then on to Tawang. Rest on arrival, drink water and avoid alcohol tonight.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 5,
+   "title": "Tawang Monastery and Urgelling",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 20 km local",
+   "text": "Begin with morning prayers at Tawang Monastery, then visit the museum and library. After lunch, drive to Urgelling, the small temple where the 6th Dalai Lama was born in 1683, and to Ani Gompa, a nunnery on the hillside, if open. End the day at the Tawang War Memorial at sunset.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 6,
+   "title": "The high lakes",
+   "place": "tawang",
+   "overnight": "Tawang",
+   "drive": "≈ 80–100 km round trip · full day",
+   "text": "A full day in your own car to the lakes above Tawang: Pangang Teng Tso and, if the road and Army rules allow, Sangetsar beyond. The road climbs above 4,000 m through yak pastures and in winter is often under snow. If you have extra permission for Bum La, it can be added on this day. Carry warm layers, water and snacks.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 7,
+   "title": "Tawang to Bomdila",
+   "place": "bomdila",
+   "overnight": "Bomdila",
+   "drive": "≈ 180 km · 6–7 h",
+   "text": "Drive back over Sela or through the tunnel and past Dirang to Bomdila. In the late afternoon, visit Bomdila Monastery above the town and walk through the market for Monpa carpets and woollens. Overnight at a central hotel on the highway, ready for an early start.",
+   "meals": "Breakfast, dinner"
+  },
+  {
+   "day": 8,
+   "title": "Bomdila to Tezpur or Guwahati",
+   "place": "bomdila",
+   "overnight": "",
+   "drive": "≈ 160 km · 5 h to Tezpur; ≈ 340 km · 9–10 h to Guwahati",
+   "text": "Leave early and drive down through Tenga and Bhalukpong to the plains. Tezpur airport, about 5 hours away, suits midday or afternoon flights when they operate. For Guwahati, plan an evening flight or train, or add a night in Guwahati. Delays are common on this road, so do not cut it fine.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "dirang-boutique-cottages",
+  "hotel-gakyi-khang-zhang-tawang",
+  "hotel-siphiyang-phong-bomdila"
+ ],
+ "includes": [
+  "7 nights in good hotels and cottages, twin sharing, with breakfast and dinner",
+  "Private SUV with an experienced mountain driver throughout",
+  "Sela, Jang and high lakes sightseeing as per the plan",
+  "Driver's food, stay, fuel, tolls and parking",
+  "Tourist e-ILP fee"
+ ],
+ "excludes": [
+  "Flights or trains to Guwahati and from Tezpur or Guwahati",
+  "Lunches",
+  "Monastery and museum fees, camera fees",
+  "Bum La permission and vehicle",
+  "Guide fees; a local guide in Tawang can be added"
+ ],
+ "good_to_know": [
+  "Sela Pass is about 4,170 m and the high lakes above 4,000 m; two nights in Dirang first help with acclimatisation. Drink water, avoid alcohol early on and talk to your doctor if you have heart or lung conditions.",
+  "Days 1, 2 and 8 are long drives on mountain roads; carry motion-sickness remedies and snacks.",
+  "The Bhalukpong lodge is simple; the rest of the trip uses good mid-range hotels.",
+  "Your e-ILP must list West Kameng and Tawang districts. Check current status before you travel.",
+  "High lakes and Bum La access depend on weather, Army rules and extra permits."
+ ],
+ "faqs": [
+  {
+   "q": "Why start with a night at Bhalukpong?",
+   "a": "Guwahati to Dirang is about 320 km and 9–10 hours, too long for a comfortable first day. A night at Bhalukpong splits the drive and lets you reach Dirang in good time on day 2. If you fly into Tezpur early, we can skip it and go straight to Dirang."
+  },
+  {
+   "q": "What does ₹54,000 per person include?",
+   "a": "Seven nights in good hotels with breakfast and dinner, a private SUV and driver for the whole trip, sightseeing as planned and the e-ILP fee, for two people sharing. Flights, lunches, monastery fees and Bum La are extra. Prices rise in October and May."
+  },
+  {
+   "q": "Is this trip good for families with children?",
+   "a": "Yes. A private car means you control the pace and stops, and the hotels are comfortable. Children may feel the altitude at Sela and the lakes, so keep stops short and watch for headaches. Bring motion-sickness remedies."
+  },
+  {
+   "q": "Is it suitable for seniors?",
+   "a": "Yes, for seniors in reasonable health who can manage long drives. Sela and the lakes are above 4,000 m, so talk to your doctor before the trip, and skip the lakes day if anyone feels unwell in Tawang."
+  },
+  {
+   "q": "Can we visit Bum La?",
+   "a": "Bum La needs extra permission from authorities in Tawang and a dedicated vehicle, and is not always open to visitors. We can apply on your behalf on arrival. Check current status before you travel."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "March to May and October to November for clear skies and comfortable temperatures. December to February is good for snow at Sela and Tawang, with very cold nights. Avoid June to August for landslides and cloud."
+  },
+  {
+   "q": "Can we do the trip in fewer days?",
+   "a": "Six nights is possible by dropping Bomdila and driving Tawang to Bhalukpong or Tezpur in one long day, but we do not recommend fewer than two nights in Dirang and three in Tawang."
+  },
+  {
+   "q": "Are the hotels heated?",
+   "a": "Tawang and Bomdila hotels have heaters in rooms; Dirang cottages are warm but ask about heaters in midwinter. Power cuts happen, so carry thermals."
+  },
+  {
+   "q": "Is there mobile network on the route?",
+   "a": "4G works in Bomdila, Dirang and Tawang town, with gaps on the road and none at the high lakes. Download maps and tell family when you will be offline."
+  }
+ ]
+}

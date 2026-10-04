@@ -1,0 +1,187 @@
+{
+ "slug": "himachal-saver-kinnaur-by-hrtc-bus-6n",
+ "title": "Kinnaur by HRTC bus: Sangla, Chitkul, Kalpa",
+ "region": "himachal",
+ "tier": "saver",
+ "nights": 6,
+ "themes": [
+  "road-trips",
+  "homestays-and-villages",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "shimla",
+   "nights": 1
+  },
+  {
+   "place": "sangla-chitkul",
+   "nights": 3
+  },
+  {
+   "place": "kalpa",
+   "nights": 2
+  }
+ ],
+ "start": "Shimla (arrive by overnight Volvo or the Kalka toy train)",
+ "end": "Shimla ISBT Tutikandi",
+ "price_from_inr": 16500,
+ "price_note": "Per person, twin sharing: 1 night budget hotel in Shimla, 5 nights homestays or HPTDC with dinner and breakfast, all HRTC bus fares from Shimla and back; travel to Shimla extra.",
+ "transport": "HRTC buses and local shared taxis",
+ "group": "Shared departures",
+ "best_months": [
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Kinnaur by bus, 6 nights: Shimla, Sangla, Chitkul and Kalpa on HRTC buses with family homestays and Kinnaur Kailash views, from ₹16,500 per person.",
+ "summary": "The Sutlej and Baspa valleys the way Kinnauris travel them: on the HRTC bus. One night in Shimla, three in the Sangla valley with a day at Chitkul, two at Kalpa facing the Kinnaur Kailash range, then the long bus back. Family homestays with home-cooked meals keep it affordable.",
+ "intro": [
+  "Kinnaur is far from Delhi and closer to Tibet than to the plains, which is what makes it worth the effort. HRTC buses run every day up the Hindustan–Tibet road, NH5, from Shimla to Reckong Peo and up the side valley to Sangla and Chitkul. They are slow, with two long bus days of 9–10 hours, but they cost a few hundred rupees and the window seat views of the Sutlej gorge are the same as from a private SUV.",
+  "We use family homestays in Sangla and Kalpa, where dinner is dal, rajma or seasonal vegetables with rice and rotis, and breakfast is eaten in the kitchen. Rooms are clean and simple, with hot water from geysers or buckets. Sangla sits at about 2,700 m and Kalpa at 2,960 m, so you sleep just below 3,000 m and visit Chitkul, at 3,450 m, as a day trip."
+ ],
+ "highlights": [
+  "Ten hours on the Hindustan–Tibet road above the Sutlej",
+  "Chitkul, the last village on the road up the Baspa",
+  "The wooden Kamru fort temple above Sangla",
+  "Morning light on the Kinnaur Kailash range from Kalpa",
+  "Apple orchards and chilgoza pine in the villages around Kalpa"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Shimla: the Ridge and Jakhu",
+   "place": "shimla",
+   "overnight": "Budget hotel near the Mall, Shimla",
+   "drive": "",
+   "text": "Arrive by the overnight Volvo from Delhi or by the Kalka–Shimla toy train, about 96 km and 5–6 hours from Kalka. Check into a budget hotel near the Mall. Walk the Ridge and Christ Church, then climb the steep 2 km path to the Jakhu temple at about 2,450 m, the highest point in town; watch the monkeys and keep food and glasses out of sight. In the evening, buy your bus ticket to Sangla at ISBT Tutikandi or online, and eat at a dhaba on Lower Bazaar.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "The long bus to Sangla",
+   "place": "sangla-chitkul",
+   "overnight": "Family homestay, Sangla or Batseri",
+   "drive": "≈ 225 km · 9–10 h by bus",
+   "text": "An early start: HRTC buses for Sangla or Reckong Peo leave Tutikandi in the morning. The road climbs through Narkanda's apple country, drops to the Sutlej at Rampur and follows the gorge past the Nathpa dam to Karcham, where the Sangla road turns up the Baspa. If there is no direct Sangla bus, ride to Karcham and take a local bus or shared taxi for the last 18 km. Your hosts will have dinner ready.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Chitkul, the end of the road",
+   "place": "sangla-chitkul",
+   "overnight": "Family homestay, Sangla or Batseri",
+   "drive": "≈ 26 km each way · 1 h by bus",
+   "text": "Take the morning HRTC bus up the valley through Rakchham to Chitkul, at about 3,450 m. Walk slowly: you have gained 750 m since breakfast. Visit the wooden Mathi temple, walk down to the Baspa meadows and eat a thali at a village dhaba for ₹150–300. Head back by the afternoon bus or a shared taxi; ask the conductor in the morning when the last bus down leaves and be at the stop early.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Kamru fort and Batseri village",
+   "place": "sangla-chitkul",
+   "overnight": "Family homestay, Sangla or Batseri",
+   "drive": "",
+   "text": "A walking day. Climb about 2 km from Sangla to Kamru village and its tower-like fort temple, once a seat of the Bushahr rulers; you may need to wear the cap provided and leave leather outside. In the afternoon, walk along the Baspa to Batseri, a village of slate-roofed wooden houses and apple orchards, about 5 km from Sangla. Ask your host about the chilgoza and apple harvests, which shape the year in this valley.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Sangla to Kalpa",
+   "place": "kalpa",
+   "overnight": "Family homestay or HPTDC Hotel Kinner Kailash, Kalpa",
+   "drive": "≈ 45 km · 2–3 h by bus",
+   "text": "Take a bus down to Karcham and change for Reckong Peo, the district town, then a local bus or shared taxi for the 7 km climb to Kalpa. Check in and spend the evening watching the Kinnaur Kailash range turn orange at sunset. In Kalpa village, look for the Narayan-Nagini temple and the small Buddhist gompa side by side, a sign of how the two faiths meet in Kinnaur.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Roghi and Kalpa's orchards",
+   "place": "kalpa",
+   "overnight": "Family homestay or HPTDC Hotel Kinner Kailash, Kalpa",
+   "drive": "",
+   "text": "Walk the road from Kalpa to Roghi village, about 4–5 km each way, cut into the cliff with long drops to the Sutlej; keep well away from the edge. Return through the orchards, where apples ripen from August to October. In the afternoon, go down to Reckong Peo to buy chilgoza, Kinnauri caps and shawls, and to buy your return ticket to Shimla. Early night before the long ride.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Bus back to Shimla",
+   "place": "kalpa",
+   "overnight": "",
+   "drive": "≈ 225 km · 9–10 h by bus",
+   "text": "Take the first bus from Kalpa down to Reckong Peo and board an early HRTC bus to Shimla. You reach Tutikandi in the evening, in time for an overnight Volvo to Delhi or Chandigarh if you have booked one. Carry snacks and water; the bus stops at dhabas at Tapri, Rampur and Narkanda.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hptdc-hotel-kinner-kailash-kalpa"
+ ],
+ "includes": [
+  "1 night in a budget hotel in Shimla, twin sharing",
+  "5 nights in family homestays or HPTDC, twin sharing, with dinner and breakfast",
+  "All HRTC bus fares from Shimla to Sangla, Chitkul, Kalpa and back to Shimla",
+  "Pre-trip sheet with bus timings and backups",
+  "Phone support from our team during the trip"
+ ],
+ "excludes": [
+  "Travel to and from Shimla",
+  "Lunches and snacks",
+  "Taxis if you miss a bus, and monument or temple donations",
+  "Porters and guides",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "You sleep at 2,700–2,960 m and visit Chitkul at 3,450 m; drink water, avoid alcohol on the first nights and talk to your doctor if you have heart or lung conditions.",
+  "Two days are 9–10 hours on a bus; bring motion-sickness tablets and sit on the left side out of Shimla for river views.",
+  "Homestay rooms are simple and some share a bathroom; hot water may come in a bucket.",
+  "The Karcham–Sangla road and NH5 have rockfall zones; buses can be held for hours, so keep a buffer day before your flight or train.",
+  "Foreign nationals can visit Sangla and Kalpa without a permit but need an Inner Line Permit to continue towards Spiti; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a budget Kinnaur trip cost?",
+   "a": "This plan is from ₹16,500 per person for 6 nights, including homestays with two meals a day, a Shimla night and all HRTC buses from Shimla. Add travel to Shimla, around ₹1,000–1,800 each way by Volvo from Delhi, and ₹300–500 a day for lunches. Most travellers finish under ₹22,000."
+  },
+  {
+   "q": "Is there a direct bus from Shimla to Sangla?",
+   "a": "Yes, HRTC runs a few direct buses to Sangla, mostly early in the morning, and many more to Reckong Peo. If you miss the direct bus, ride to Karcham and change for Sangla. Timings change by season; confirm at ISBT Tutikandi or on the HRTC portal."
+  },
+  {
+   "q": "Is Chitkul too high for altitude sickness?",
+   "a": "Chitkul is at about 3,450 m. We visit it as a day trip and you sleep lower, around 2,700 m in Sangla, which reduces the risk. Walk slowly, drink water and come down if you feel a strong headache or breathlessness. Talk to your doctor before travelling if you have health conditions."
+  },
+  {
+   "q": "Do I need a permit for Kinnaur?",
+   "a": "Indian citizens need no permit for Sangla, Chitkul or Kalpa. Foreign nationals need an Inner Line Permit only to go beyond Jangi towards Spiti. Rules can change; check current status before you travel."
+  },
+  {
+   "q": "What is the best time to visit Kinnaur?",
+   "a": "May–June and September–October. Apple orchards fill with fruit in September, autumn colours peak in October and skies are clearest. July–August bring rockfall on NH5, and from December to March snow closes Chitkul and many homestays."
+  },
+  {
+   "q": "Is Kinnaur safe for women travelling alone?",
+   "a": "Yes. Kinnauri villages are conservative but welcoming, and homestay families look after their guests. The main risks are road-related. Dress modestly in temples, travel in daylight and tell your hosts your plans for the day."
+  },
+  {
+   "q": "Will I have mobile signal and ATMs in Kinnaur?",
+   "a": "Jio, Airtel and BSNL work in Reckong Peo, Kalpa and Sangla; signal is weak in Chitkul. ATMs are in Reckong Peo and Sangla but can be empty. Carry enough cash for the whole trip, since homestays and dhabas may not accept UPI when the network drops."
+  },
+  {
+   "q": "Can we do this trip with a private car instead?",
+   "a": "Yes. A private car from Shimla for the 7 days costs roughly ₹28,000–36,000, so for two people it raises the price by about ₹14,000–18,000 each. It saves time on the long road days. See our comfort and signature Kinnaur plans."
+  },
+  {
+   "q": "Is the bus ride along the Sutlej dangerous?",
+   "a": "It is a long, narrow and dramatic road, driven daily by HRTC drivers who know it well. The real risk is rockfall in heavy rain and the spring thaw. We avoid the monsoon months and suggest you sit by a window with a view of the road ahead, not the drop."
+  }
+ ]
+}

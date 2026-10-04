@@ -1,0 +1,68 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya trips {{ label|lower }} per person · Saver trips · Himalaya Hives{% endblock %}
+{% block description %}{{ trips|length }} Himalaya Saver trip{{ trips|length|pluralize }} {{ label|lower }} per person, twin sharing, indicative 2026. State buses, shared jeeps and homestays, with what is and is not included.{% endblock %}
+{% block og_title %}Himalaya trips {{ label|lower }}{% endblock %}
+{% block fab_label %}Plan a trip {{ label|lower }}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_title="Name your ceiling, we price every line" %}{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "under-"|add:label "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">The affordable Himalaya</p>
+      <h1 class="d-1">Himalaya trips {{ label|lower }}</h1>
+      <p class="lede">Saver trips that start at or below {{ amount|inr }} per person, twin sharing, from the trip's start point. Indicative 2026 prices; travel to the start is extra.</p>
+      <dl class="phead__meta">
+        <div><dt>Trips</dt><dd>{{ trips|length }}</dd></div>
+        {% if trips %}<div><dt>Cheapest</dt><dd>{{ trips.0.price_from_inr|inr }}</dd></div>{% endif %}
+        <div><dt>Ceiling</dt><dd>{{ amount|inr }}</dd></div>
+      </dl>
+      <div class="chips" style="margin-top:26px">{% for b in bands %}{% if b.amount != amount %}<a class="chip" href="{{ b.url }}">{% icon "wallet" %}Trips {{ b.label|lower }}</a>{% endif %}{% endfor %}<a class="chip" href="{% url 'affordable' %}">{% icon "compass" %}The affordable Himalaya</a></div>
+    </div>
+  </div>
+  {% ridgeline "under" 4 %}
+</header>
+
+<section class="sec">
+  <div class="wrap">
+    {% if trips %}
+    <div class="filters" data-filter-group="#band-trips">
+      <label class="sr-only" for="bt-region">Hive</label>
+      <select id="bt-region" data-key="region"><option value="">Every hive</option>{% for r in regions %}{% for j in trips %}{% if j.region == r.slug %}{% ifchanged r.slug %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endifchanged %}{% endif %}{% endfor %}{% endfor %}</select>
+      <div class="tabs" role="group" aria-label="Length"><button type="button" data-key="length" data-value="" aria-pressed="true">Any length</button><button type="button" data-key="length" data-value="short" aria-pressed="false">Up to 5 nights</button><button type="button" data-key="length" data-value="mid" aria-pressed="false">6–9 nights</button><button type="button" data-key="length" data-value="long" aria-pressed="false">10+ nights</button></div>
+      <span class="filters__count" data-filter-count></span>
+    </div>
+    <div class="grid grid--4" id="band-trips" data-fill>{% for j in trips %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_title="A trip "|add:label|lower fill_text="Tell us the hive and the month. We plan it around buses, jeeps and homestays." %}</div>
+    {% else %}
+    <div class="split">
+      <div class="panel panel--wax"><h2>No listed trips {{ label|lower }} yet</h2>
+        <p>We are still adding Saver trips at this price. Most hives can be done {{ label|lower }} by state bus and homestay for a long weekend or a short week, so ask us and a planner will send a route and an itemised price within one working day.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn--ink btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="band-empty-plan">Ask for a route {{ label|lower }}</a><a class="btn btn--line btn--sm" href="{% url 'tool_budget' %}">Try the budget builder</a></div>
+      </div>
+      <aside class="split__aside"><div class="panel panel--line"><h3>Other budgets</h3><div class="ledger">{% for b in bands %}<a class="ledger__row" href="{{ b.url }}"><span>Trips {{ b.label|lower }}</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>{% endfor %}</div></div></aside>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--tint">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Hive by hive</p><h2 class="d-1">A Saver day in each hive</h2>
+      <p class="lede">Per person, per day, indicative 2026, for bed, food and local transport once you are there.</p></div></div>
+    <div class="grid grid--4">{% for r in regions %}<a class="panel" href="{% url 'affordable_region' r.slug %}" data-land="{{ r.slug }}" style="text-decoration:none;display:grid;gap:8px">
+      <span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span>
+      <b class="d-4">{{ r.name }}</b>
+      {% for b in r.budget_rows %}{% if b.tier == "saver" %}<span class="price"><small>Saver day</small>₹{{ b.per_day_inr }}</span>{% endif %}{% endfor %}
+      <span class="readout">{% if r.saver_from %}Saver trips from <b>{{ r.saver_from|inr }}</b>{% else %}Saver trips on request{% endif %}</span>
+    </a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">Travelling {{ label|lower }}, answered</h2></div></div>
+    {% include "hives/partials/faq.html" with open_first=True %}
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,68 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}About Himalaya Hives · a Himalaya-only trip planner{% endblock %}
+{% block description %}Himalaya Hives plans trips in the Himalaya and nowhere else, from Kashmir to Arunachal, in Saver, Comfort and Signature tiers, with altitude-safe pacing and sourced facts.{% endblock %}
+{% block og_title %}About Himalaya Hives{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="about" eyebrow="About us" title="We plan trips in the Himalaya and nowhere else" lede="Eleven valleys from Kashmir to Arunachal, each trip in three price tiers, paced for altitude and written up with facts you can check." %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div class="prose">
+      <p>Himalaya Hives is a trip planner for one mountain range. We do not sell beaches, cities or cruises. Every route on this site starts and ends in the Himalaya, from the Kashmir Valley in the west to Arunachal Pradesh in the east, and takes in Ladakh, Himachal, Spiti and Lahaul, Garhwal, Kumaon, Nepal, Darjeeling and Kalimpong, Sikkim and Bhutan on the way.</p>
+      <p>We call each valley a hive. Himalayan villages tend to sit packed onto the sunny side of a slope, joined by old trade and pilgrim paths, and each one runs on its own calendar: its own season, festivals, food, words and roads. Planning one well means knowing that calendar, so we keep the site organised by hive.</p>
+      <h2>Three tiers on every route</h2>
+      <p>Every trip comes as Saver, Comfort or Signature. The valleys and the altitude rules stay the same; what changes is how you move, where you sleep and what you spend.</p>
+      <ul>
+        {% for t in nav_tiers %}<li><b>{{ t.name }}</b>{% if t.frm %} (trips from {{ t.frm|inr }} per person){% endif %}: {{ t.line|lower_first }}.</li>{% endfor %}
+      </ul>
+      <p>Saver trips are not an afterthought. Shared jeeps, state buses, homestays and government tourist bungalows are how most people in these valleys travel, and we plan them with the same care, including honest notes on road times, bathrooms and cold rooms.</p>
+      <h2>Altitude-safe pacing</h2>
+      <p>Every trip page shows a sleeping-altitude profile, night by night. Above 3,000 m we follow the usual advice of gaining no more than 300 to 500 m of sleeping height a day, with rest days where the route needs them. We are not doctors, and we ask anyone going high, especially with heart or lung conditions, to talk to their own doctor first.</p>
+      <h2>Facts with sources</h2>
+      <p>Our field notes are short, lesser-known facts about places on the routes. Each one names its source, usually a Wikipedia article or a public body, so you can check it yourself. Photos come from Wikimedia Commons under free licences and are credited under each photo and on our <a href="{% url 'photo_credits' %}">photo credits page</a>.</p>
+      <p>Rules that change often, such as permits, pass openings, fees and festival dates, are written as we understand them with a reminder to check current status before you travel. When you enquire, we send current guidance with your quote.</p>
+      <h2>Prices you can read</h2>
+      <p>Prices on the site are indicative "from" prices in Indian rupees, per person, twin sharing. When you write to us, we send a written quote with every line itemised. You pay nothing until you choose to book.</p>
+    </div>
+    <aside class="split__aside">
+      <div class="panel">
+        <h2>The site in numbers</h2>
+        <div class="ledger ledger--mono">
+          {% if counts.regions %}<div class="ledger__row"><span>Hives</span><span class="ledger__dots"></span><b>{{ counts.regions }}</b></div>{% endif %}
+          {% if counts.places %}<div class="ledger__row"><span>Places described</span><span class="ledger__dots"></span><b>{{ counts.places }}</b></div>{% endif %}
+          {% if counts.journeys %}<div class="ledger__row"><span>Trips, all tiers</span><span class="ledger__dots"></span><b>{{ counts.journeys }}</b></div>{% endif %}
+          {% if counts.experiences %}<div class="ledger__row"><span>Experiences</span><span class="ledger__dots"></span><b>{{ counts.experiences }}</b></div>{% endif %}
+          {% if counts.stays %}<div class="ledger__row"><span>Stays</span><span class="ledger__dots"></span><b>{{ counts.stays }}</b></div>{% endif %}
+          {% if counts.guides %}<div class="ledger__row"><span>Planning guides</span><span class="ledger__dots"></span><b>{{ counts.guides }}</b></div>{% endif %}
+          {% if counts.festivals %}<div class="ledger__row"><span>Festivals</span><span class="ledger__dots"></span><b>{{ counts.festivals }}</b></div>{% endif %}
+          {% if counts.routes %}<div class="ledger__row"><span>Routes</span><span class="ledger__dots"></span><b>{{ counts.routes }}</b></div>{% endif %}
+        </div>
+        <p class="small muted" style="margin:12px 0 0">Counts of what is written up on this site today, not of trips sold.</p>
+      </div>
+      <div class="panel panel--line">
+        <h3>Talk to a planner</h3>
+        <p class="small" style="margin:0 0 14px">One planner handles your trip from the first message to the last transfer.</p>
+        <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="about-plan">Plan my trip</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">West to east</p><h2 class="d-1">Every hive we plan</h2></div><a class="link" href="{% url 'lands' %}">Compare the hives {% icon "arrow" %}</a></div>
+    <div class="chips">{% for r in nav_regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Read more</p><h2 class="d-2">How we plan, book and look after you</h2></div></div>
+    <div class="grid grid--3">
+      <a class="panel panel--line" href="{% url 'how_we_work' %}" style="text-decoration:none"><h3>How we work</h3><p class="small muted" style="margin:0">From your first message to the last transfer.</p></a>
+      <a class="panel panel--line" href="{% url 'field_notes' %}" style="text-decoration:none"><h3>Field notes</h3><p class="small muted" style="margin:0">Lesser-known facts about the routes, each with its source.</p></a>
+      <a class="panel panel--line" href="{% url 'policies' %}" style="text-decoration:none"><h3>Policies</h3><p class="small muted" style="margin:0">Booking terms, payments, refunds and privacy in plain English.</p></a>
+    </div>
+  </div>
+</section>
+{% endblock %}

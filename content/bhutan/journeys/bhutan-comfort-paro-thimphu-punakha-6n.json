@@ -1,0 +1,189 @@
+{
+ "slug": "bhutan-comfort-paro-thimphu-punakha-6n",
+ "title": "Paro, Thimphu and Punakha in comfort, 6 nights",
+ "region": "bhutan",
+ "tier": "comfort",
+ "nights": 6,
+ "themes": [
+  "monasteries",
+  "family-holidays",
+  "honeymoons",
+  "festivals"
+ ],
+ "stops": [
+  {
+   "place": "thimphu",
+   "nights": 2
+  },
+  {
+   "place": "punakha",
+   "nights": 2
+  },
+  {
+   "place": "paro",
+   "nights": 2
+  }
+ ],
+ "start": "Paro International Airport",
+ "end": "Paro International Airport",
+ "price_from_inr": 78000,
+ "price_note": "Per person, twin share, Indian nationals: SDF ₹1,200 a night, 6 nights in 3–4 star hotels with breakfast and dinner, private car and licensed guide; flights to Paro extra. Other nationals pay USD 100 a night SDF, quoted separately.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "6 nights in western Bhutan: Thimphu, Punakha and Paro with private car, licensed guide, 3–4 star hotels and the Tiger's Nest hike. From ₹78,000 pp.",
+ "summary": "Bhutan's western valleys at an easy pace: fly into Paro, two nights each in Thimphu, Punakha and Paro, a private car and licensed guide, and good 3–4 star hotels including Hotel Druk and Zhiwa Ling Heritage. The Tiger's Nest hike comes on the last full day, after five nights of acclimatising.",
+ "intro": [
+  "This is the trip most first-time visitors want, done at a pace that leaves time to stand still. Flying into Paro saves the two long road days from Phuentsholing, and two nights in each valley mean no early check-outs except one. Your guide is licensed by Bhutan's Department of Tourism and stays with you from arrival to departure, as Bhutan's rules require.",
+  "Prices assume Indian nationals, who pay a Sustainable Development Fee of ₹1,200 a night as we understand the current rules. Most other nationalities pay USD 100 a night, a rate set to run to 31 August 2027, which changes the trip cost a great deal. These rules have changed several times since 2022, so check current status before you travel; we confirm the SDF in writing when you book."
+ ],
+ "highlights": [
+  "Tashichho Dzong at flag-lowering time in Thimphu",
+  "Weekend market and an archery match, when one is on",
+  "Punakha Dzong and the long suspension bridge",
+  "Rinpung Dzong and the National Museum in Paro",
+  "The Tiger's Nest hike, with time to go slowly"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Land at Paro, drive to Thimphu",
+   "place": "thimphu",
+   "overnight": "Hotel Druk, Thimphu",
+   "drive": "≈ 55 km · 1 h 15 min",
+   "text": "Flights into Paro land in daylight only, and the approach between ridges is part of the trip; ask for a left-side window seat on the way in. Your guide and driver meet you outside arrivals. Drive along the Paro Chhu to Chhuzom and up the Wang Chhu to Thimphu. Check in at Hotel Druk on Clock Tower Square, then walk Norzin Lam, where a policeman directs traffic from a pavilion in a city without traffic lights.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Thimphu: Buddha, takin and the dzong",
+   "place": "thimphu",
+   "overnight": "Hotel Druk, Thimphu",
+   "drive": "≈ 30 km in the city",
+   "text": "Start at the Memorial Chorten, built in 1974 for the third king, as residents make their morning rounds. Drive up to Buddha Dordenma above the valley, then to the Royal Takin Preserve at Motithang to see Bhutan's national animal. After lunch, visit the Institute for Zorig Chusum to watch students learn the 13 traditional arts, and the Centenary Farmers Market from Friday to Sunday. At about 5 pm, Tashichho Dzong as the flag comes down.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Over Dochu La to Punakha",
+   "place": "punakha",
+   "overnight": "Hotel in the Punakha valley",
+   "drive": "≈ 72 km · 3 h",
+   "text": "Stop at Simtokha Dzong, built in 1629 and the oldest dzong surviving in its original form. Climb to Dochu La at about 3,100 m for the 108 chortens and, from October to February, views of the high peaks. Descend to Punakha and walk the field path to Chimi Lhakhang, the temple of Drukpa Kunley. Check in to a riverside or hillside hotel above the Mo Chhu.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Punakha Dzong and the valley",
+   "place": "punakha",
+   "overnight": "Hotel in the Punakha valley",
+   "drive": "≈ 40 km round trip",
+   "text": "Morning at Punakha Dzong, built by the Zhabdrung in the 1630s where the Pho Chhu and Mo Chhu meet, reached by a covered cantilever bridge. Walk on to the long suspension bridge upstream. In the afternoon, hike up through rice terraces to the Khamsum Yulley Namgyal Chorten, about an hour up, for a view down the valley. Optional half-day rafting on the Mo Chhu in spring and autumn.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Punakha to Paro",
+   "place": "paro",
+   "overnight": "Zhiwa Ling Heritage, Paro",
+   "drive": "≈ 125 km · 4–4.5 h",
+   "text": "Drive back over Dochu La and down to Paro, arriving for a late lunch at Zhiwa Ling, a hotel built over five years by Bhutanese carpenters, carvers and painters. In the afternoon, walk across the covered bridge to Rinpung Dzong and climb to the Ta Dzong watchtower, home of the National Museum. Evening at the hotel; sleep early before the hike.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Taktsang, the Tiger's Nest",
+   "place": "paro",
+   "overnight": "Zhiwa Ling Heritage, Paro",
+   "drive": "≈ 10 km · 20 min each way",
+   "text": "Start at the trailhead at about 2,600 m by 7.30 am and climb through blue pine to the cafeteria viewpoint, then on to the monastery at 3,120 m, about 5–6 hours return for most fit adults. Phones and cameras go into lockers at the gate. A pony can carry you up to the cafeteria. Visit Kyichu Lhakhang on the way back, and finish with a hot stone bath at the hotel if you wish.",
+   "meals": "Breakfast, Packed lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Fly out of Paro",
+   "place": "paro",
+   "overnight": "",
+   "drive": "≈ 5 km · 15 min",
+   "text": "Breakfast and a short transfer to Paro airport for your flight. Flights leave in the morning in most seasons and can be delayed by weather, so we do not book same-day onward connections in India. If your flight is later, a short visit to the Paro weekend market or the main street fills the morning.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-druk-thimphu",
+  "zhiwa-ling-heritage-paro"
+ ],
+ "includes": [
+  "SDF at ₹1,200 per night for Indian nationals (6 nights)",
+  "6 nights in 3–4 star hotels, twin share, with breakfast and dinner",
+  "Private car with driver for all days",
+  "Licensed English- or Hindi-speaking guide throughout",
+  "Entry permit, route permit and monument entry fees"
+ ],
+ "excludes": [
+  "Flights to and from Paro",
+  "Visa fee and the higher SDF for non-Indian nationals",
+  "Lunches, drinks and tips",
+  "Rafting, pony hire and hot stone bath",
+  "Travel insurance"
+ ],
+ "good_to_know": [
+  "Sustainable Development Fee: as we understand it, ₹1,200 a night for Indian nationals and USD 100 a night for most others, with children 6–12 at half and under-6s exempt. These rules change; check current status before you travel.",
+  "Indian nationals need a passport valid for six months or a voter ID; Aadhaar is not accepted. Others need a visa arranged through a licensed operator.",
+  "Taktsang reaches 3,120 m. Go slowly, drink water, and talk to your doctor before the trip if you have heart or lung conditions.",
+  "Dzongs and temples need long sleeves and long trousers or skirts, no caps, and quiet inside. Photography inside temples is not allowed.",
+  "Paro flights depend on weather; keep a spare day before onward international flights."
+ ],
+ "faqs": [
+  {
+   "q": "What is the SDF and how much will I pay?",
+   "a": "The Sustainable Development Fee is a nightly charge that funds health, education and conservation. As we understand the current rules, Indian nationals pay ₹1,200 per night and most other nationals USD 100 per night until 31 August 2027. Children 6–12 pay half. Check current status before you travel."
+  },
+  {
+   "q": "Why fly into Paro instead of driving from Phuentsholing?",
+   "a": "It saves about two long road days of 10 hours or more and gives you an extra day in the valleys. Flights cost more, often ₹8,000–20,000 each way from Indian cities, and depend on weather. If budget matters more than time, see our saver trips by road from Siliguri."
+  },
+  {
+   "q": "Which hotels do you use?",
+   "a": "Hotel Druk on Thimphu's Clock Tower Square, a well-run comfort hotel open since 1985, a 3–4 star riverside or hillside hotel in Punakha, and Zhiwa Ling Heritage in Paro, a hand-built Bhutanese hotel with a temple inside. We confirm hotels when you book."
+  },
+  {
+   "q": "Can we time this trip with a festival?",
+   "a": "Yes. Paro Tshechu falls in March or April and Thimphu Tshechu in September or October, on lunar dates. We reorder the days so you attend the main dance day. Hotels fill early and some raise rates, so book four to six months ahead and check current status before you travel."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, with care. Drives are 1–4.5 hours, hotels have attached bathrooms and heating, and most sites need short walks. The Tiger's Nest hike is optional: a pony goes to the cafeteria, or you can view the monastery from the road. Talk to your doctor about altitude first."
+  },
+  {
+   "q": "What should we wear to dzongs and temples?",
+   "a": "Long sleeves, long trousers or a long skirt, and closed shoes; no caps, shorts or sleeveless tops. Remove hats and sunglasses inside. Walk clockwise around chortens and prayer wheels. Photography is not allowed inside temple rooms, and your guide will tell you where it is."
+  },
+  {
+   "q": "How do we pay in Bhutan?",
+   "a": "Indian rupees are accepted at par with the ngultrum in most places, but carry ₹100–500 notes rather than large ones. Hotels in Thimphu and Paro often take cards. Some shops accept Indian UPI payments, but coverage is uneven, so carry cash for markets and small purchases."
+  },
+  {
+   "q": "Can we extend to Phobjikha?",
+   "a": "Yes. Phobjikha adds two nights between Punakha and Paro, with a stay at Dewachen Hotel or a similar lodge above the valley. From late October to February you may see black-necked cranes. Each extra night adds hotel, SDF, guide and car costs."
+  },
+  {
+   "q": "Can we see archery?",
+   "a": "Often. Archery is Bhutan's national sport, and matches are held at the Changlimithang ground in Thimphu and on village grounds, especially at weekends and holidays. Your guide will look out for one. Teams sing and dance when they hit the target; stand well back from the line."
+  }
+ ]
+}

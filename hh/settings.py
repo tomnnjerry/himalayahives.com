@@ -89,3 +89,24 @@ if os.environ.get("HH_HASHED_STATIC") == "1":
                         if "whitenoise.middleware.WhiteNoiseMiddleware" in MIDDLEWARE
                         else "django.contrib.staticfiles.storage.ManifestStaticFilesStorage"},
     }
+
+# Production security. Set HH_HTTPS=1 on the server once TLS is in place.
+if os.environ.get("HH_HTTPS") == "1":
+    SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+    SECURE_SSL_REDIRECT = True
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+    SECURE_HSTS_SECONDS = 60 * 60 * 24 * 30
+    SECURE_CONTENT_TYPE_NOSNIFF = True
+    SECURE_REFERRER_POLICY = "strict-origin-when-cross-origin"
+
+# Email alerts for new enquiries (optional). Set HH_NOTIFY_EMAIL and the SMTP variables to receive them.
+EMAIL_HOST = os.environ.get("HH_SMTP_HOST", "")
+EMAIL_PORT = int(os.environ.get("HH_SMTP_PORT", "587"))
+EMAIL_HOST_USER = os.environ.get("HH_SMTP_USER", "")
+EMAIL_HOST_PASSWORD = os.environ.get("HH_SMTP_PASSWORD", "")
+EMAIL_USE_TLS = True
+DEFAULT_FROM_EMAIL = os.environ.get("HH_FROM_EMAIL", "Himalaya Hives <no-reply@himalayahives.com>")
+HH_NOTIFY_EMAIL = os.environ.get("HH_NOTIFY_EMAIL", "")
+if not EMAIL_HOST:
+    EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
