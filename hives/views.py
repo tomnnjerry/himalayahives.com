@@ -422,11 +422,28 @@ def tool_permits(request):
 
 
 # ---------------- enquiry ----------------
+def _notify(e):
+    """Email the planners about a new enquiry when HH_NOTIFY_EMAIL is set. Never blocks the visitor."""
+    to = getattr(settings, "HH_NOTIFY_EMAIL", "")
+    if not to:
+        return
+    from django.core.mail import send_mail
+    lines = [f"{k}: {v}" for k, v in (("Name", e.name), ("Email", e.email), ("Phone", e.phone), ("Prefers", e.contact_pref),
+                                      ("Hives", e.lands), ("Month", e.month), ("Nights", e.nights), ("Travellers", e.travellers),
+                                      ("Budget", e.budget), ("Form", e.kind), ("Page", e.source_page)) if v]
+    try:
+        send_mail(f"New enquiry: {e.name} ({e.lands or 'any hive'})", "\n".join(lines) + "\n\n" + (e.message or ""),
+                  None, [to], fail_silently=True)
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def plan(request):
     if request.method == "POST":
         form = EnquiryForm(request.POST)
         if form.is_valid():
-            form.save()
+            enquiry = form.save()
+            _notify(enquiry)
             return redirect("plan_thanks")
     else:
         initial = {"source_page": request.GET.get("from", "")[:300], "kind": "full"}
