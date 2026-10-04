@@ -1,0 +1,206 @@
+{
+ "slug": "bhutan-saver-phobjikha-farmhouse-7n",
+ "title": "Bhutan saver with Phobjikha farmhouse, 7 nights",
+ "region": "bhutan",
+ "tier": "saver",
+ "nights": 7,
+ "themes": [
+  "homestays-and-villages",
+  "wildlife-and-birds",
+  "monasteries",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "phuentsholing",
+   "nights": 1
+  },
+  {
+   "place": "thimphu",
+   "nights": 1
+  },
+  {
+   "place": "punakha",
+   "nights": 1
+  },
+  {
+   "place": "phobjikha",
+   "nights": 2
+  },
+  {
+   "place": "paro",
+   "nights": 2
+  }
+ ],
+ "start": "Siliguri (Tenzing Norgay bus terminus)",
+ "end": "Siliguri",
+ "price_from_inr": 40000,
+ "price_note": "Per person, twin share, Indian nationals, group of 5–6: SDF ₹1,200 a night, simple certified hotels plus two farmhouse nights, shared vehicle, licensed guide, breakfast and dinner; excludes travel to Siliguri.",
+ "transport": "Shared jeep or bus to Jaigaon, then shared vehicle with licensed guide",
+ "group": "Small group (max 8)",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Active",
+ "meta_description": "7 nights in Bhutan by road from Siliguri: Thimphu, Punakha, two farmhouse nights in Phobjikha and Tiger's Nest, shared guide and vehicle, from ₹40,000 pp.",
+ "summary": "Our second saver route adds what the classic circuit misses: two nights in a working farmhouse in the Phobjikha valley at about 3,000 m, home of wintering black-necked cranes. Shared guide and vehicle, simple hotels elsewhere, and the Tiger's Nest hike near the end, when you are best acclimatised.",
+ "intro": [
+  "Bhutan's cost rules reward sharing and the road. Indian nationals pay ₹1,200 a night SDF, as we understand the rules, and every tourist needs a licensed guide beyond the first checkpoint. So we keep the group to five to eight people, share one guide and one vehicle, and enter overland from Siliguri through Phuentsholing. The farmhouse nights are cheaper than hotels too, and they are the part people remember.",
+  "The trade-offs are real. Two days are long drives of 7 hours or more on mountain roads. Farmhouse rooms have mattresses, heavy quilts and a wood stove, with shared or very simple bathrooms; at 3,000 m in December, nights fall well below freezing. In return you see Phobjikha's glacial valley, Gangtey Goenpa above it and, from late October to February, the cranes on the marsh."
+ ],
+ "highlights": [
+  "Two nights with a farming family in the Phobjikha valley",
+  "Black-necked cranes on the marsh, late October to February",
+  "Gangtey Goenpa and the Gangtey nature trail",
+  "Punakha Dzong at the meeting of two rivers",
+  "Taktsang, the Tiger's Nest, on the last full day"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Siliguri to Phuentsholing",
+   "place": "phuentsholing",
+   "overnight": "Phuentsholing",
+   "drive": "≈ 160 km · 4–5 h",
+   "text": "Meet the group in Siliguri and take a shared jeep or bus west through the Dooars tea gardens to Jaigaon, about ₹150–400 a seat. Walk through the Bhutan Gate into Phuentsholing and check in near the immigration office. If your entry permit was approved online, your guide checks it this afternoon; otherwise you queue at the Regional Immigration Office in the morning. Dinner of red rice and ema datshi in town.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Climb to Thimphu",
+   "place": "thimphu",
+   "overnight": "Thimphu",
+   "drive": "≈ 150 km · 5–6 h",
+   "text": "Finish permit formalities and drive up from 300 m past the Rinchending checkpoint, where the guide joins. The road climbs through the fog belt at Gedu and down to the Chhuzom confluence before reaching Thimphu by mid-afternoon. If time allows, visit Tashichho Dzong at about 5 pm, when offices close and the flag is lowered. Walk Norzin Lam after dark and buy a local SIM with your guide's help.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Thimphu, Dochu La and Punakha",
+   "place": "punakha",
+   "overnight": "Punakha (Khuruthang)",
+   "drive": "≈ 72 km · 3 h",
+   "text": "Early visit to the Memorial Chorten, where older residents circle the stupa and spin prayer wheels, and to Buddha Dordenma on the hill above the city. Then over Dochu La at about 3,100 m, with its 108 chortens and, on clear days, the high peaks to the north. Drop 1,900 m into warm Punakha for Punakha Dzong at the confluence of the Pho Chhu and Mo Chhu in the afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Chimi Lhakhang, then Phobjikha",
+   "place": "phobjikha",
+   "overnight": "Farmhouse homestay, Phobjikha",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Walk the field path from Sopsokha to Chimi Lhakhang, the temple linked to the Divine Madman, Drukpa Kunley. Then drive past Wangdue and up through oak and rhododendron forest to Lawa La and down into Phobjikha, a wide glacial valley at about 3,000 m. Meet your host family, help with the evening jobs if you like, and eat whatever is cooked: often potatoes, red rice, ema datshi and buckwheat.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Cranes, Gangtey Goenpa and the trail",
+   "place": "phobjikha",
+   "overnight": "Farmhouse homestay, Phobjikha",
+   "drive": "",
+   "text": "From late October to February, watch black-necked cranes feeding on the marsh at first light from the edge, never closer. Visit the Royal Society for Protection of Nature's crane centre, then walk up to Gangtey Goenpa, the Nyingma monastery above the valley. In the afternoon, walk the Gangtey nature trail, about 1.5 to 2 hours through pine and across the valley floor. In the evening, a hot stone bath at the farmhouse for those who want one.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Phobjikha to Paro",
+   "place": "paro",
+   "overnight": "Paro",
+   "drive": "≈ 200 km · 7–8 h",
+   "text": "A long day: back over Lawa La to Wangdue, up over Dochu La again and past Thimphu down the Wang Chhu to Chhuzom, then up the Paro valley. We stop for lunch and short breaks. Arrive in Paro in the late afternoon and walk the main street of painted shopfronts. Eat early and sleep well; tomorrow is the Tiger's Nest. Carry travel-sickness tablets if you need them.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Taktsang, the Tiger's Nest",
+   "place": "paro",
+   "overnight": "Paro",
+   "drive": "≈ 10 km · 20 min each way",
+   "text": "Start at the trailhead, at about 2,600 m, by 7.30 am. Climb through blue pine to the cafeteria viewpoint in about 2 hours, then on to the monastery at 3,120 m. Cameras and phones go into lockers at the gate. Two farmhouse nights near 3,000 m help with the climb, but go slowly and turn back if you feel unwell. On the way back, visit Kyichu Lhakhang, one of Bhutan's oldest temples.",
+   "meals": "Breakfast, Packed lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Paro to Phuentsholing and Siliguri",
+   "place": "phuentsholing",
+   "overnight": "",
+   "drive": "≈ 310 km · 10–11 h",
+   "text": "An early start for the longest day: down the Paro valley to Chhuzom and down the highway to Phuentsholing in 5–6 hours. Your guide leaves you at the gate. Walk into Jaigaon and take a shared jeep or bus back to Siliguri, arriving in the evening. Book onward trains from New Jalpaiguri late, or flights from Bagdogra for the next day.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "phobjikha-farmhouse-homestays"
+ ],
+ "includes": [
+  "SDF at ₹1,200 per night for Indian nationals (7 nights)",
+  "5 nights in simple tourist-certified hotels and 2 nights in a registered farmhouse homestay, twin share",
+  "Shared vehicle with driver from Phuentsholing and back",
+  "Licensed guide from the first checkpoint to the last day",
+  "Breakfast and dinner daily; packed lunch on day 7",
+  "Entry and route permit paperwork through our licensed partner"
+ ],
+ "excludes": [
+  "Travel to and from Siliguri",
+  "Shared jeep or bus fares Siliguri–Jaigaon (₹150–400 each way)",
+  "Monument and crane centre entry fees",
+  "Lunches, drinks, hot stone bath and tips",
+  "Pony for Taktsang and travel insurance"
+ ],
+ "good_to_know": [
+  "Phobjikha sits at about 3,000 m and Taktsang at 3,120 m. Drink water, avoid alcohol on the first farmhouse night, and talk to your doctor before the trip if you have heart or lung conditions.",
+  "Farmhouse bathrooms may be shared or basic and hot water comes by bucket on some nights; bring a head torch and warm sleepwear.",
+  "Indian nationals need a passport with six months' validity or a voter ID; Aadhaar is not accepted. Check current status before you travel.",
+  "The cranes are in Phobjikha roughly from late October to February. Outside those months the valley is still worth it, but you will not see them.",
+  "Days 6 and 8 are long road days of 7–11 hours; landslides in the wet season can add hours."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this trip cost for non-Indian passport holders?",
+   "a": "More, because the SDF for most other nationalities is USD 100 per night, as we understand the current rate, against ₹1,200 for Indians. That adds about USD 700 per adult for 7 nights, plus a visa fee. Ask us for a quote in your currency and check current status before you travel."
+  },
+  {
+   "q": "What is a Bhutanese farmhouse stay like?",
+   "a": "You sleep in a registered family home, usually a two- or three-storey rammed-earth and timber house. Rooms have mattresses or beds, thick quilts and a stove. Bathrooms are shared or simple. Meals are what the family eats. It is clean and warm enough but not a hotel."
+  },
+  {
+   "q": "When can I see the black-necked cranes?",
+   "a": "Usually from late October to February, when they winter in Phobjikha after flying over the Himalaya from the Tibetan plateau. Mornings and late afternoons are best. The Black-necked Crane Festival is held at Gangtey Goenpa in November. Keep your distance and follow the guide."
+  },
+  {
+   "q": "Is the altitude a problem?",
+   "a": "For most healthy people, no, but it is noticeable. Phobjikha sits at about 3,000 m, and you may feel short of breath or sleep lightly. Walk slowly, drink water and avoid alcohol on the first night. Talk to your doctor before the trip if you have heart or lung conditions."
+  },
+  {
+   "q": "Why share a guide and vehicle?",
+   "a": "Because the guide fee and vehicle hire are the biggest daily costs after the SDF, often ₹6,000–10,000 a day together, and they cost the same whether one person or six use them. Splitting them across five to eight people is what keeps this trip in the saver tier."
+  },
+  {
+   "q": "Can I do this trip with my children?",
+   "a": "Yes, with older children used to long drives and simple rooms. As we understand the rules, under-6s pay no SDF and 6–12s pay half. The farmhouse nights are often a highlight for children. Check current status before you travel."
+  },
+  {
+   "q": "Is a hot stone bath included?",
+   "a": "No. It costs about ₹800–1,500 and is arranged by the family. River stones are heated in a fire and dropped into a wooden tub of water, sometimes with herbs. It is a traditional Bhutanese bath and very welcome on cold nights."
+  },
+  {
+   "q": "How long is the drive from Phobjikha to Paro?",
+   "a": "About 200 km and 7–8 hours with stops, crossing Lawa La and Dochu La. It is long but scenic. We break it with lunch and short stops. In the monsoon, roadworks and landslides can add time, which is one reason we do not run this trip in July and August."
+  },
+  {
+   "q": "What should I pack for the farmhouse nights?",
+   "a": "Thermal layers, a warm hat, wool socks, a down jacket, a head torch, a small towel, toilet paper and hand sanitiser. A hot water bottle helps from November to February. Bring slippers for inside the house; shoes come off at the door."
+  }
+ ]
+}

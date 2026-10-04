@@ -1,0 +1,210 @@
+{
+ "slug": "garhwal-signature-kedarnath-badrinath-ananda-8n",
+ "title": "Kedarnath by helicopter, Badrinath and Ananda",
+ "region": "garhwal",
+ "tier": "signature",
+ "nights": 8,
+ "themes": [
+  "pilgrimages",
+  "wellness-and-yoga",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "rishikesh",
+   "nights": 1
+  },
+  {
+   "place": "kedarnath",
+   "nights": 2
+  },
+  {
+   "place": "auli",
+   "nights": 2
+  },
+  {
+   "place": "rishikesh",
+   "nights": 3
+  }
+ ],
+ "start": "Dehradun (Jolly Grant) airport",
+ "end": "Dehradun (Jolly Grant) airport",
+ "price_from_inr": 160000,
+ "price_note": "Per person, twin sharing: Taj Rishikesh, the best hotels in Guptkashi and Auli, 3 nights at Ananda with its standard programme, private car, private guide, Kedarnath helicopter return seat; flights extra.",
+ "transport": "Private car with driver and helicopter shuttle",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  0,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Kedarnath and Badrinath in comfort, 8 nights: helicopter to Kedarnath, private guide, Auli views, Badrinath and Mana, ending with 3 nights at Ananda, from ₹1,60,000.",
+ "summary": "Eight nights that put the two high shrines within reach of travellers who cannot walk 33 km: a night at Taj Rishikesh, two in Guptkashi with a helicopter to Kedarnath, two at Auli for Badrinath and Mana, and three nights of recovery at Ananda in the Himalayas. Private car and guide throughout.",
+ "intro": [
+  "There are no luxury hotels in the Kedar or Badri valleys, and we will not pretend otherwise. What we can do is take the hard parts out: a helicopter seat from Guptkashi or Phata to Kedarnath, a private guide who knows the queues and the rituals, the best rooms in Guptkashi and Auli, and drives timed to start early and end before dark.",
+  "The trip is framed by the two best hotels in the Rishikesh area. Taj Rishikesh, on the Ganga at Singthali, is a short first day from the airport and puts you 30 km up the yatra road. Ananda, in the old Tehri royal estate at Narendra Nagar, takes you at the end for three nights of yoga, Ayurveda and quiet after a week of mountain roads."
+ ],
+ "highlights": [
+  "A helicopter shuttle to Kedarnath and darshan with a private guide",
+  "The forest road through Chopta between the Kedar and Badri valleys",
+  "Badrinath temple and Mana village above the Alaknanda",
+  "Nanda Devi from the slopes of Auli",
+  "Three nights at Ananda in the Himalayas above Rishikesh"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive at Taj Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Taj Rishikesh Resort & Spa",
+   "drive": "≈ 65 km · 2 h from the airport",
+   "text": "Your driver and guide meet you at Jolly Grant airport and drive to Taj Rishikesh at Singthali. Your guide checks your Char Dham registration and helicopter booking and walks you through the plan, the kit and the altitude. Rest of the day at the hotel on the river.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Up the Alaknanda to Guptkashi",
+   "place": "kedarnath",
+   "overnight": "Best available hotel, Guptkashi",
+   "drive": "≈ 160 km · 6 h",
+   "text": "Leave after an early breakfast. Stop at Devprayag, where the Bhagirathi and Alaknanda meet, and at the Dhari Devi temple near Srinagar. At Rudraprayag turn up the Mandakini to Guptkashi. Check into the best hotel in town, with heating and views of the Chaukhamba massif. In the evening, visit Guptkashi's Vishwanath temple and the Ardhanareshwar shrine beside it.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Kedarnath by helicopter",
+   "place": "kedarnath",
+   "overnight": "Best available hotel, Guptkashi",
+   "drive": "Helipad transfers ≈ 20–40 km",
+   "text": "Drive to your helipad at Guptkashi, Phata or Sersi for the shuttle to Kedarnath, a flight of under 10 minutes. From the Kedarnath helipad it is about 500 m on foot to the temple. Your guide manages the queue, shows you the Bhim Shila boulder and the Adi Shankaracharya samadhi, and brings you back for the return flight. If weather grounds the helicopters, we use the spare day or switch to a pony.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Through Chopta to Auli",
+   "place": "auli",
+   "overnight": "Best available resort, Auli",
+   "drive": "≈ 150 km · 6 h",
+   "text": "Drive via Ukhimath, where the Omkareshwar temple is Kedarnath's winter seat, and up through the oak and rhododendron forest to Chopta. Fit travellers can walk part of the way towards Tungnath; others take tea in the meadow. Continue down through Mandal and Gopeshwar to Chamoli and up to Joshimath and Auli. Check into a resort on the slope facing Nanda Devi.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Badrinath and Mana",
+   "place": "badrinath",
+   "overnight": "Best available resort, Auli",
+   "drive": "≈ 120 km round trip · 5 h",
+   "text": "An early start for Badrinath, 45 km above Joshimath. Bathe at Tapt Kund if you wish and join the darshan with your guide. Drive on to Mana, 3 km away, for Bhim Pul over the Saraswati and Vyas Gufa. Lunch in Badrinath and return to Auli for the sunset on Nanda Devi.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Down to Ananda",
+   "place": "rishikesh",
+   "overnight": "Ananda in the Himalayas, Narendra Nagar",
+   "drive": "≈ 260 km · 9–10 h",
+   "text": "The long day. We leave Auli at dawn and follow the Alaknanda down past Nandprayag, Karnaprayag and Rudraprayag, with lunch at Srinagar. Reach Ananda at Narendra Nagar, above Rishikesh, in the evening. If you prefer, we break the drive with a night at Rudraprayag or Srinagar at extra cost.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Ananda: yoga and rest",
+   "place": "rishikesh",
+   "overnight": "Ananda in the Himalayas, Narendra Nagar",
+   "drive": "",
+   "text": "A day inside Ananda's programme: morning yoga and meditation, a consultation, spa treatments chosen with the staff, and walks in the grounds of the old palace estate with views down to the Ganga valley. Meals follow Ananda's menu.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Ananda: a slow day",
+   "place": "rishikesh",
+   "overnight": "Ananda in the Himalayas, Narendra Nagar",
+   "drive": "",
+   "text": "Another day at your own pace. Join a guided walk to the nearby Kunjapuri temple for sunrise, attend the evening aarti that Ananda holds, or simply rest after the high valleys.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Departure",
+   "place": "rishikesh",
+   "overnight": "",
+   "drive": "≈ 30 km · 1 h to the airport",
+   "text": "Transfer to Jolly Grant airport, about an hour away, for your flight home.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "taj-rishikesh-resort-and-spa",
+  "ananda-in-the-himalayas"
+ ],
+ "includes": [
+  "1 night at Taj Rishikesh Resort & Spa, 2 nights at the best hotel in Guptkashi, 2 nights at the best resort in Auli, 3 nights at Ananda with its standard programme",
+  "Breakfast and dinner daily; all meals at Ananda",
+  "Private car with driver throughout",
+  "Private guide from arrival to departure",
+  "Kedarnath helicopter return seat, booked on the IRCTC HeliYatra portal when seats open"
+ ],
+ "excludes": [
+  "Flights",
+  "Lunches outside Ananda",
+  "Additional spa treatments at Ananda",
+  "Special pujas and temple offerings",
+  "Extra nights from weather or road closures"
+ ],
+ "good_to_know": [
+  "Kedarnath is at 3,583 m and Badrinath at 3,300 m. A helicopter does not remove altitude; move slowly at the temple, drink water and tell your guide if you feel unwell. Talk to your doctor before the trip.",
+  "Helicopter seats are released in batches on the IRCTC HeliYatra portal and can sell out within hours; we book as soon as your Char Dham registration is done. Weather can cancel flights. Check current status before you travel.",
+  "Hotels in Guptkashi and Auli are the best available but not five-star; expect comfortable rooms, heating and simple service.",
+  "Ananda has its own house rules and dress code for the spa and dining, and asks guests to follow its programme timings.",
+  "Day 6 is a long drive; we can split it at extra cost."
+ ],
+ "faqs": [
+  {
+   "q": "Can I visit Kedarnath without trekking?",
+   "a": "Yes. Helicopter shuttles from Guptkashi, Phata and Sersi land about 500 m from the temple. Ponies and palkis also run from Gaurikund at notified rates. Seats sell fast on the IRCTC HeliYatra portal; check current status before you travel."
+  },
+  {
+   "q": "What does a luxury Kedarnath and Badrinath trip cost?",
+   "a": "This 8-night plan starts at ₹1,60,000 per person, twin sharing, with a helicopter seat, private car and guide, the best hotels on the route and three nights at Ananda. Ananda room choice changes the price most."
+  },
+  {
+   "q": "Are there luxury hotels at Kedarnath or Badrinath?",
+   "a": "No. Kedarnath has tent camps, huts and simple cottages, and Badrinath has plain hotels and GMVN rooms. We sleep at the best hotels in Guptkashi and Auli and pair the trip with Taj Rishikesh and Ananda."
+  },
+  {
+   "q": "What happens if the Kedarnath helicopter is cancelled?",
+   "a": "Flights stop in cloud and rain, often in the afternoon. We keep a spare day at Guptkashi where possible and can switch to a pony or palki from Gaurikund. Refund rules follow the portal's terms."
+  },
+  {
+   "q": "Is this trip suitable for seniors?",
+   "a": "Yes, it is designed for travellers who cannot walk long distances. The altitude is still real, so talk to your doctor first, and carry your regular medicines and prescriptions."
+  },
+  {
+   "q": "Do I need Char Dham registration for this trip?",
+   "a": "Yes. Kedarnath and Badrinath both require free registration on the Uttarakhand Tourism Development Board's portal, and the helicopter booking needs your registration number. Check current status before you travel."
+  },
+  {
+   "q": "Why stay at Ananda at the end?",
+   "a": "After a week of mountain roads and early starts, three nights with yoga, spa treatments and set meals help most people recover before flying home. Ananda is about an hour from Jolly Grant airport."
+  },
+  {
+   "q": "Which months are best for this trip?",
+   "a": "May and late September to October. Avoid July and August, when the roads and helicopter flights are most disrupted by monsoon rain."
+  },
+  {
+   "q": "Can we add Gangotri and Yamunotri?",
+   "a": "Yes, by road via Mussoorie, Barkot and Uttarkashi, adding 4–5 nights, or with a Char Dham helicopter charter package from Dehradun. Ask us for options."
+  }
+ ]
+}

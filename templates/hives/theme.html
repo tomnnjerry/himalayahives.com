@@ -105,7 +105,7 @@
     </div>
     <div>
       <p class="eyebrow">Other styles</p><h2 class="d-2" style="margin-bottom:16px">Something else</h2>
-      <div class="chips">{% for x in nav_themes %}{% if x.slug != t.slug %}<a class="chip" href="{% if r %}{{ x.url }}{% else %}{{ x.url }}{% endif %}">{% icon x.icon %}{{ x.name }}</a>{% endif %}{% endfor %}</div>
+      <div class="chips">{% for x in nav_themes %}{% if x.slug != t.slug %}<a class="chip" href="{{ x.url }}">{% icon x.icon %}{{ x.name }}</a>{% endif %}{% endfor %}</div>
     </div>
   </div>
 </section>
