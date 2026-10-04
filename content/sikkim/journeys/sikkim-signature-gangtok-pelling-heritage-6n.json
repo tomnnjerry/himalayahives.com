@@ -1,0 +1,184 @@
+{
+ "slug": "sikkim-signature-gangtok-pelling-heritage-6n",
+ "title": "Sikkim heritage hotels, 6 nights",
+ "region": "sikkim",
+ "tier": "signature",
+ "nights": 6,
+ "themes": [
+  "honeymoons",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 3
+  },
+  {
+   "place": "pelling",
+   "nights": 3
+  }
+ ],
+ "start": "Bagdogra Airport",
+ "end": "Bagdogra Airport",
+ "price_from_inr": 145000,
+ "price_note": "Per person, twin sharing: 3 nights at The Elgin Nor-Khill and 3 nights at The Elgin Mount Pandim with meals as listed, private SUV, a private local guide and entry fees; flights extra.",
+ "transport": "Private SUV with driver and local guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Sikkim signature trip, 6 nights: The Elgin Nor-Khill in Gangtok and The Elgin Mount Pandim in Pelling with private guide and SUV, from ₹1,45,000 per person.",
+ "summary": "Six unhurried nights in two of Sikkim's best-known hotels: The Elgin Nor-Khill, the former Gangtok guest house of the Chogyals, and The Elgin Mount Pandim, built facing Kangchenjunga. A private guide and SUV take you to Rumtek, Pemayangtse and Rabdentse.",
+ "intro": [
+  "The Nor-Khill was built in the 1950s as a royal guest house for the Chogyal of Sikkim, and the Mount Pandim in Pelling looks straight at the Kangchenjunga range. Between them they give you the Sikkim of royal Gangtok and of the old west, with long meals and few early starts.",
+  "A private guide travels with you for monasteries, ruins and museum visits, and explains who the Namgyal kings were, how Buddhism arrived, and why Lepchas treat the mountain as sacred. We add one optional Tsomgo day if permits are available. Check current status before you travel."
+ ],
+ "highlights": [
+  "The Elgin Nor-Khill, a heritage hotel in a 1950s royal guest house",
+  "The Elgin Mount Pandim, facing Kangchenjunga from Pelling",
+  "A private guide for Rumtek, Enchey and the Namgyal Institute of Tibetology",
+  "Pemayangtse monastery, Rabdentse ruins and Sangachoeling",
+  "Optional Tsomgo day trip with permits arranged"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Gangtok",
+   "place": "gangtok",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Your driver and guide meet you at Bagdogra and drive up the Teesta valley. Check in at The Elgin Nor-Khill, set in gardens above the town, and rest. Dinner is at the hotel, with a Sikkimese menu on request.",
+   "meals": "Lunch on the way, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Royal Gangtok and Rumtek",
+   "place": "gangtok",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 50 km local",
+   "text": "With your guide, visit Enchey, the Namgyal Institute of Tibetology and Rumtek monastery, seat of the Karma Kagyu in Sikkim. The guide explains Gangtok's history as capital since 1894. Walk MG Marg in the evening and return to the hotel for dinner.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Tsomgo Lake or a slow day",
+   "place": "tsomgo-lake",
+   "overnight": "The Elgin Nor-Khill, Gangtok",
+   "drive": "≈ 40 km · 1.5–2 h each way",
+   "text": "If permits are available, drive to Tsomgo Lake at about 3,750 m; go slowly and drink water. Otherwise spend a slow day in Gangtok with a Sikkimese cooking session or a visit to a handicraft centre. Tsomgo is open only to registered tourist vehicles; check current status before you travel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Gangtok to Pelling",
+   "place": "pelling",
+   "overnight": "The Elgin Mount Pandim, Pelling",
+   "drive": "≈ 115–130 km · 5–6 h",
+   "text": "Drive west via Ravangla or Singtam, with tea and views on the way. Check in at The Elgin Mount Pandim, whose terrace faces the Kangchenjunga range. Rest and have dinner in the hotel; tonight's weather decides tomorrow's views.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Pemayangtse and Rabdentse",
+   "place": "pelling",
+   "overnight": "The Elgin Mount Pandim, Pelling",
+   "drive": "≈ 20 km local",
+   "text": "With your guide, visit Pemayangtse, founded in 1705, and then walk to the Rabdentse ruins, the second capital. The guide explains the Chogyal line and the three lamas of Yuksom. Return for lunch and a free afternoon.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Sangachoeling or a village day",
+   "place": "pelling",
+   "overnight": "The Elgin Mount Pandim, Pelling",
+   "drive": "≈ 15 km local",
+   "text": "Walk or drive to Sangachoeling monastery, perched on a ridge above Pelling, and then visit a nearby village to see cardamom and vegetable terraces. A late afternoon is for the hotel and the mountain. Kangchenjunga is clearest at dawn from October to December.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Pelling to Bagdogra",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 140 km · 5–6 h",
+   "text": "Drive down via Jorethang and Melli to Bagdogra, with a lunch stop. Plan flights after 6 pm and add a day in the monsoon; check current status before you travel.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "elgin-nor-khill-gangtok",
+  "elgin-mount-pandim-pelling"
+ ],
+ "includes": [
+  "6 nights, twin sharing, at the hotels named",
+  "Meals as listed",
+  "Private SUV with driver and a private local guide",
+  "Entry fees",
+  "Tsomgo permit processing if the day is used"
+ ],
+ "excludes": [
+  "Flights",
+  "Restricted Area Permit for foreign nationals",
+  "Travel insurance",
+  "Spa and alcohol",
+  "Tips"
+ ],
+ "good_to_know": [
+  "All nights are below 2,200 m. Tsomgo reaches about 3,750 m for a few hours only; go slowly and talk to your doctor if you have a heart or lung condition.",
+  "Hotel stays may be at heritage properties with steps and steep paths; tell us about mobility needs.",
+  "The Elgin Mount Pandim and Nor-Khill operate as heritage hotels; confirm current status and room type at booking.",
+  "Photography is restricted in some monastery halls; your guide will advise.",
+  "Kangchenjunga views depend on weather; do not plan your trip around a single clear dawn."
+ ],
+ "faqs": [
+  {
+   "q": "Why these two hotels?",
+   "a": "The Elgin Nor-Khill and The Elgin Mount Pandim are well-known heritage-style hotels with long histories and good locations in Gangtok and Pelling. We chose them for setting and service, not for number of stars."
+  },
+  {
+   "q": "Is a guide included for the whole trip?",
+   "a": "Yes, a private local guide travels with you in the car on all sightseeing days. Guides speak English and Hindi; ask if you need another language."
+  },
+  {
+   "q": "Can we replace Tsomgo with another activity?",
+   "a": "Yes. If permits are closed or you prefer a slow day, we add a cooking class, a monastery visit or a Temi tea-garden trip."
+  },
+  {
+   "q": "Is this a good honeymoon trip?",
+   "a": "Yes, for couples who like unhurried days, heritage rooms and mountain views. We can set up room upgrades and dinners; ask when you book."
+  },
+  {
+   "q": "What are the permit rules?",
+   "a": "Foreign nationals need a free Restricted Area Permit. Tsomgo needs a Protected Area Permit arranged by your agent. Check current status before you travel."
+  },
+  {
+   "q": "Can we add North Sikkim?",
+   "a": "Yes, with 4–5 extra nights, see our comfort and signature trips. Gurudongmar needs a night in Lachen first and has been open to Indian nationals only."
+  },
+  {
+   "q": "Is it suitable for seniors?",
+   "a": "Yes with rests and a slower pace. Drives are long and winding but nights are below 2,200 m. Tell us about health conditions at booking."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "March to May and October to December for clear views. The monsoon brings landslides and cloud."
+  },
+  {
+   "q": "Do the hotels allow non-vegetarians and vegetarians?",
+   "a": "Yes. Menus include Indian, continental and Sikkimese dishes; tell us about dietary needs in advance."
+  }
+ ]
+}

@@ -106,6 +106,18 @@
       <div><h2>The Hive letter</h2><p>One email a month: which valley is at its best, roads that opened, festival dates and the month's cheapest trips. Nothing you did not ask for.</p></div>
       <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter">Subscribe</button></div>
     </form>
+    <div class="foot__brand">
+      <div>
+        <a class="brand" href="{% url 'home' %}" aria-label="Himalaya Hives, home"><span class="brand__word">Himalaya Hives<small>Kashmir to Arunachal</small></span></a>
+        <p>We plan trips in the Himalaya and nowhere else. Every trip comes in three tiers, with honest prices, sleeping-altitude profiles and local facts that name their sources.</p>
+      </div>
+      <div class="foot__stats">
+        <div><b>{{ counts.regions }}</b><span>Hives</span></div>
+        <div><b>{{ counts.places }}</b><span>Places</span></div>
+        <div><b>{{ counts.journeys }}</b><span>Trips in 3 tiers</span></div>
+        <div><b>{{ counts.guides }}</b><span>Guides</span></div>
+      </div>
+    </div>
     <div class="foot__cols">
       <div><h3>Hives</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__hive" data-land="{{ r.slug }}"><i aria-hidden="true"></i>{{ r.name }}</a></li>{% endfor %}</ul></div>
       <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>

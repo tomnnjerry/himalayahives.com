@@ -1,0 +1,188 @@
+{
+ "slug": "sikkim-comfort-lachen-lachung-gurudongmar-6n",
+ "title": "North Sikkim: Lachen, Lachung, Gurudongmar",
+ "region": "sikkim",
+ "tier": "comfort",
+ "nights": 6,
+ "themes": [
+  "adventure-sports",
+  "photography",
+  "snow-and-winter"
+ ],
+ "stops": [
+  {
+   "place": "gangtok",
+   "nights": 2
+  },
+  {
+   "place": "lachen",
+   "nights": 2
+  },
+  {
+   "place": "lachung",
+   "nights": 2
+  }
+ ],
+ "start": "Bagdogra Airport",
+ "end": "Bagdogra Airport",
+ "price_from_inr": 62000,
+ "price_note": "Per person, twin sharing: 6 nights in Hotel Tibet and good hotels or lodges in Lachen and Lachung with meals in the north, private SUV with driver, permits arranged by a registered agent; Gangtok lunches and dinners extra.",
+ "transport": "Private SUV with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0
+ ],
+ "pace": "Active",
+ "meta_description": "North Sikkim comfort trip, 6 nights: Lachen, Gurudongmar Lake, Lachung and Yumthang by private SUV with permits arranged, from ₹62,000 per person.",
+ "summary": "Six nights up the Teesta: two in Gangtok, two in Lachen for Gurudongmar Lake at about 5,100 m, and two in Lachung for Yumthang Valley. Permits are arranged by a registered agent, and Lachen's night before the lake gives your body a gentler step up.",
+ "intro": [
+  "The high north is a short map distance and a long day on the ground. Lachen sits at about 2,750 m and Gurudongmar Lake at over 5,100 m, so the sensible route is a night in Lachen first, then an early start. We schedule it that way and add a rest evening before Lachung.",
+  "Permit rules for North Sikkim change and differ for Indian and foreign nationals, and Gurudongmar has been open to Indian nationals only. We tell you plainly at booking whether the lake is open to your passport. If it is not, we replace it with a second Yumthang day and Zero Point. Check current status before you travel."
+ ],
+ "highlights": [
+  "Gurudongmar Lake at over 5,100 m, sacred to Buddhists and Sikhs",
+  "Lachen's village and the Dzumsa council that still governs it",
+  "Yumthang Valley and, in April and May, its rhododendrons",
+  "Chungthang, where the Lachen and Lachung rivers meet to form the Teesta",
+  "Yak herds and high plateau near Thangu"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Gangtok",
+   "place": "gangtok",
+   "overnight": "Hotel Tibet, Gangtok",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Your driver collects you at Bagdogra and drives up the Teesta valley to Gangtok. Your agent collects ID copies, photos and permit forms the same evening. Walk MG Marg for dinner, and sleep early; Lachen is a long day tomorrow.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Gangtok to Lachen",
+   "place": "lachen",
+   "overnight": "Hotel, Lachen",
+   "drive": "≈ 120 km · 6–7 h",
+   "text": "Drive via Mangan, Chungthang and the hairpins above, stopping at a waterfall and the army check posts where permits are checked. Reach Lachen by mid-afternoon and rest. Tea and soup in the evening; keep warm, because nights drop below 5 °C even in May. Drink water, avoid alcohol and tell your driver about any headache.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Gurudongmar Lake",
+   "place": "gurudongmar-lake",
+   "overnight": "Hotel, Lachen",
+   "drive": "≈ 65 km · 3–4 h each way",
+   "text": "Leave at 4–5 am to reach Gurudongmar in morning light. The road crosses Thangu and a plateau of grazing yaks. At about 5,100 m you stay at the lake for 30–45 minutes only, as lack of oxygen tires most visitors. Return to Lachen by afternoon. If the lake is closed to you or weather turns, we stay put and avoid risks.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Lachen to Lachung via Chungthang",
+   "place": "lachung",
+   "overnight": "Hotel, Lachung",
+   "drive": "≈ 100 km · 4–5 h",
+   "text": "After breakfast, drive down to Chungthang, then up the Lachung Chu valley to Lachung at about 2,700 m. Visit the small village monastery in the evening. The Dzumsa, the village council, sets local rules on grazing and conduct; follow them on noise and litter.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Yumthang Valley and Zero Point",
+   "place": "yumthang-valley",
+   "overnight": "Hotel, Lachung",
+   "drive": "≈ 24 km · 1–1.5 h each way",
+   "text": "Leave early for Yumthang at about 3,560 m, walk by the river, and bathe feet in a hot-spring pool if the baths are open. Zero Point, higher, is reached only in clear weather and if the road is open; check current status before you travel. Return to Lachung for a late lunch. Altitude headaches are possible; walk slowly.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Lachung to Gangtok",
+   "place": "gangtok",
+   "overnight": "Hotel Tibet, Gangtok",
+   "drive": "≈ 115 km · 6–7 h",
+   "text": "Drive back to Gangtok with a lunch stop at Mangan. Check in at Hotel Tibet and unpack. If your flight is soon, we advise an extra night, as landslides can slow the road.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 7,
+   "title": "Gangtok to Bagdogra",
+   "place": "",
+   "overnight": "",
+   "drive": "≈ 125 km · 4–5 h",
+   "text": "Drive down the Teesta valley to Bagdogra. Schedule flights or trains after 6 pm, and give an extra day in the monsoon.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hotel-tibet-gangtok",
+  "lachung-homestay-village"
+ ],
+ "includes": [
+  "6 nights, twin sharing, in the lodgings named or similar",
+  "Breakfast daily and dinners in Lachen and Lachung",
+  "Private SUV with driver for all days",
+  "Protected Area Permits arranged by a registered agent"
+ ],
+ "excludes": [
+  "Flights and trains",
+  "Gangtok lunches and dinners",
+  "Restricted Area Permit for foreign nationals",
+  "Travel insurance",
+  "Personal medicines",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Gurudongmar is above 5,100 m. Altitude sickness can be serious; talk to your doctor before you travel and do not push on with symptoms.",
+  "We stay at Lachen at 2,750 m before the lake; do not skip this step.",
+  "North Sikkim has been closed to some nationalities at times; check current status before you travel.",
+  "Mobile coverage is poor above Chungthang; cash is needed in the north.",
+  "Pack thermals, down jacket, gloves, sunscreen and sunglasses; snow glare is strong."
+ ],
+ "faqs": [
+  {
+   "q": "Is Gurudongmar open to foreigners?",
+   "a": "It has been open only to Indian nationals on past rules, and rules change. Foreign nationals may need a different route. Check current status before you travel."
+  },
+  {
+   "q": "How dangerous is altitude at Gurudongmar?",
+   "a": "The lake is at over 5,100 m, where oxygen is roughly half that at sea level. Some people feel headaches, nausea or breathlessness. Stay for a short time, drink water and descend if you feel worse. Talk to your doctor."
+  },
+  {
+   "q": "When can I do this trip?",
+   "a": "Best in March to May and October to November. The route is risky or closed in monsoon and often in deep winter. Avoid December to February for Gurudongmar; ask us for alternatives."
+  },
+  {
+   "q": "Are permits guaranteed?",
+   "a": "No. Permits are granted by authorities and depend on rules, weather and military checks. Your agent applies in advance with ID and photos. Check current status before you travel."
+  },
+  {
+   "q": "What are the hotels like in Lachen and Lachung?",
+   "a": "Expect simple to good rooms with attached bathrooms, thick quilts and a dining room. Hot water and power can be limited. Rooms are not like city hotels, but they are warm."
+  },
+  {
+   "q": "Can I skip Lachen and just do Lachung?",
+   "a": "Yes. See our saver North Sikkim trip for a short Lachung and Yumthang stay. You will not reach Gurudongmar, which needs a night in Lachen."
+  },
+  {
+   "q": "Is it suitable for children and seniors?",
+   "a": "We do not recommend Gurudongmar for young children or anyone with heart, lung or blood-pressure conditions. Yumthang is easier. Speak to your doctor before you plan."
+  },
+  {
+   "q": "Will mobile networks work?",
+   "a": "Mostly not above Chungthang. BSNL and some post-paid connections may work in patches. Tell family your plan and carry cash."
+  },
+  {
+   "q": "Why is the trip six nights?",
+   "a": "One night in Gangtok to arrive, two in Lachen for acclimatisation and the lake, two in Lachung for Yumthang, and one back in Gangtok. Fewer nights add risk and strain."
+  }
+ ]
+}
