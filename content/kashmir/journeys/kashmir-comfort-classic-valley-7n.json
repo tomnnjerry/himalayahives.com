@@ -1,0 +1,200 @@
+{
+ "slug": "kashmir-comfort-classic-valley-7n",
+ "title": "Classic Kashmir: Srinagar, Gulmarg, Pahalgam",
+ "region": "kashmir",
+ "tier": "comfort",
+ "nights": 7,
+ "themes": [
+  "road-trips",
+  "family-holidays",
+  "honeymoons",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 3
+  },
+  {
+   "place": "gulmarg",
+   "nights": 2
+  },
+  {
+   "place": "pahalgam",
+   "nights": 2
+  }
+ ],
+ "start": "Srinagar airport",
+ "end": "Srinagar airport",
+ "price_from_inr": 54000,
+ "price_note": "Per person, twin sharing: 7 nights with breakfast and dinner at Ahdoos, Highlands Park and The Pahalgam Hotel, private car for 8 days, union taxi, gondola Phase 1 and a shikara; flights extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  1,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Balanced",
+ "meta_description": "Classic Kashmir, 7 nights: Srinagar's lake and Mughal gardens, a Sonamarg day, two nights in Gulmarg and two in Pahalgam by private car, from ₹54,000 per person.",
+ "summary": "Seven nights by private car through the valley's four best-known places: three nights in central Srinagar with a Sonamarg day trip, two in Gulmarg for the gondola and meadow walks, and two in Pahalgam on the Lidder. Long-running hotels, sensible drive times and room to slow down.",
+ "intro": [
+  "This is the trip most families and couples have in mind when they think of Kashmir, planned so that no day has more than about four hours in the car. We start with three nights at Ahdoos on Residency Road, close to Lal Chowk, Dal Lake and its own well-known wazwan restaurant. From Srinagar we make a day trip to Sonamarg, so you see the Sindh valley without a night at 2,730 m.",
+  "Then two nights at Highlands Park, an old Gulmarg hotel on a rise above the meadow, for an unhurried gondola day. The last two nights are at The Pahalgam Hotel, open since the early 1930s, near the Lidder. A Pahalgam union taxi takes you to Aru, Betaab Valley and Chandanwari, as local rules require, and your own car waits in town."
+ ],
+ "highlights": [
+  "Evening shikara on Dal Lake and Nishat, Shalimar and Chashme Shahi gardens",
+  "Thajiwas glacier walk on a Sonamarg day trip",
+  "Gulmarg Gondola to Kongdori and, weather allowing, Apharwat",
+  "Saffron fields of Pampore and the Avantipora temple ruins",
+  "Aru and Betaab Valley in the Lidder valley"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Srinagar, shikara at sunset",
+   "place": "srinagar",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 14 km · 30–40 min",
+   "text": "Your driver meets you at Srinagar airport and drives you to Ahdoos on Residency Road. Rest after the flight; the city is at 1,585 m and early afternoons can be warm in summer. At about 5 pm drive to Dal Gate for an hour on a shikara past houseboats, Char Chinari island and the lotus beds on the inner lake. Dinner at the hotel restaurant: try rista, gushtaba and haak.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Mughal gardens and Hazratbal",
+   "place": "srinagar",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 40 km in the city",
+   "text": "Morning at the Mughal gardens along the Zabarwan hills: Chashme Shahi with its spring, the terraces of Nishat laid out by Asif Khan, and Shalimar, built for Jahangir. Then Pari Mahal, a ruined garden palace above the lake with wide views at midday. After lunch, visit Hazratbal shrine on the lake's western shore; women cover their heads and there are separate areas for men and women. Return along the Boulevard at sunset.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Day trip to Sonamarg",
+   "place": "sonamarg",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 160 km round trip · 6 h driving",
+   "text": "Leave by 7.30 am up the Sindh valley through Ganderbal and Kangan to Sonamarg at 2,730 m. Walk or ride a pony on the fixed-rate route to the Thajiwas glacier, about 3 km from the road; union rates are posted at the stand. Lunch at a riverside dhaba. In July and August, Amarnath traffic towards Baltal slows this road; we may swap this day for Doodhpathri if convoys are heavy. Back in Srinagar by early evening.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Srinagar to Gulmarg",
+   "place": "gulmarg",
+   "overnight": "Hotel Highlands Park, Gulmarg",
+   "drive": "≈ 55 km · 1 h 30 min–2 h",
+   "text": "A short drive west through Magam and Tangmarg, then hairpins through pine forest to Gulmarg at 2,650 m. Check in at Highlands Park, on a rise facing Apharwat. In the afternoon walk the meadow loop: St Mary's Church, the Maharani temple on its knoll, and the edge of the golf course, one of the highest in the world. Ponies and their handlers are everywhere; agree rates from the posted list only if you want a ride.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Gulmarg Gondola day",
+   "place": "gulmarg",
+   "overnight": "Hotel Highlands Park, Gulmarg",
+   "drive": "",
+   "text": "Your gondola tickets are booked online for the first slots. Phase 1 climbs to Kongdori, near 3,080 m, where you can walk across the bowl. If the weather is clear and Phase 2 is running, continue to the Apharwat ridge near 3,950 m; walk slowly there and come down if anyone feels unwell. In the afternoon, walk the forest path towards Khilanmarg or rest at the hotel. Phase 2 often closes for wind or cloud; check on the day.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Gulmarg to Pahalgam via Pampore",
+   "place": "pahalgam",
+   "overnight": "The Pahalgam Hotel",
+   "drive": "≈ 150 km · 4 h 30 min–5 h",
+   "text": "Drive back past Srinagar and south on the highway. Stop at Pampore, where saffron is grown on the karewa plateaus; in late October and early November the fields are purple with flowers. Stop again at Avantipora for the 9th-century Avantiswami temple ruins, cared for by the Archaeological Survey of India. Turn up the Lidder valley at Anantnag to reach Pahalgam by mid-afternoon, then walk by the river.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Aru, Betaab Valley and Chandanwari",
+   "place": "aru-valley",
+   "overnight": "The Pahalgam Hotel",
+   "drive": "≈ 60 km round trip · full day by union taxi",
+   "text": "Pahalgam's taxi union runs local sightseeing, so you switch to a union taxi for the day at the posted rate. Go first to Aru, 12 km up the West Lidder, and walk beyond the village to the meadow and herders' huts. Then Betaab Valley, named after a 1983 Hindi film shot there, and Chandanwari, start of the Amarnath route, which may be closed to tourists in July and August. Evening free in Pahalgam.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Pahalgam to Srinagar airport",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 100 km · 3 h",
+   "text": "After breakfast, drive down the Lidder valley and back along the highway to Srinagar airport. If your flight is late in the day, stop at a Pampore shop for saffron and kahwa, or at Bijbehara for its chinar groves along the Jhelum. Allow two hours at the airport; security checks start at the outer gate and can take time.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "ahdoos-hotel-srinagar",
+  "hotel-highlands-park-gulmarg",
+  "pahalgam-hotel"
+ ],
+ "includes": [
+  "7 nights twin sharing with breakfast and dinner",
+  "Private car with driver for all transfers and the Sonamarg day trip",
+  "Pahalgam union taxi for Aru, Betaab Valley and Chandanwari",
+  "Gulmarg Gondola Phase 1 tickets, booked in advance",
+  "One-hour shikara on Dal Lake"
+ ],
+ "excludes": [
+  "Flights to and from Srinagar",
+  "Lunches",
+  "Gondola Phase 2, ponies and sledges",
+  "Garden and park entry fees",
+  "Tips for drivers and boatmen"
+ ],
+ "good_to_know": [
+  "All nights are below 2,700 m. The gondola reaches near 3,950 m at Phase 2; walk slowly and talk to your doctor first if you have heart or lung conditions.",
+  "Prepaid SIM cards from outside Jammu and Kashmir usually do not work; bring a postpaid connection.",
+  "Srinagar taxis cannot do sightseeing in Pahalgam or Sonamarg; local union taxis and ponies have fixed posted rates.",
+  "In July and August, Amarnath Yatra traffic affects Pahalgam and the Sonamarg road; we adjust days if needed.",
+  "Dress modestly at shrines and in the old city; carry a scarf.",
+  "Security and access rules for meadows can change; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "What does ₹54,000 per person include?",
+   "a": "Seven nights twin sharing with breakfast and dinner at three long-running hotels, a private car with driver for eight days, a Pahalgam union taxi day, Gondola Phase 1 tickets and a shikara hour. It assumes April–June or September–October outside the busiest holiday weeks. Flights, lunches, Phase 2, ponies, entry fees and tips are extra."
+  },
+  {
+   "q": "Can we stay on a houseboat instead of Ahdoos?",
+   "a": "Yes. We can swap one or all Srinagar nights to a deluxe houseboat on Nigeen or Dal Lake at a similar price. Houseboats are atmospheric but quieter at night and less central, and getting to shore needs a shikara. We suggest one houseboat night and two hotel nights for families with small children."
+  },
+  {
+   "q": "Is this trip suitable for seniors and small children?",
+   "a": "Yes. Drives are short, all nights are below 2,700 m and hotels are central. Pony rides and the gondola are optional. For seniors, we keep Phase 2 off the plan unless their doctor agrees, since the top is near 3,950 m. For toddlers, carry warm layers even in June, as Gulmarg evenings are cool."
+  },
+  {
+   "q": "Do we need to book the Gulmarg Gondola in advance?",
+   "a": "Yes. We book Phase 1 online on the official cable car corporation site for an early slot, as tickets sell out in May, June and October. Phase 2 depends on wind and cloud and often closes at short notice. If it is open on the day, we can buy Phase 2 at the counter or online; check current status before you travel."
+  },
+  {
+   "q": "Why do we need a separate taxi in Pahalgam?",
+   "a": "Pahalgam's taxi union runs local sightseeing to Aru, Betaab Valley and Chandanwari, and outside cars are not allowed to do these trips. Rates are fixed and posted at the stand. Your Srinagar driver waits in town. We include the union taxi in the price, so you do not have to negotiate."
+  },
+  {
+   "q": "Is it safe to travel in Kashmir now?",
+   "a": "Millions of domestic tourists visit Kashmir each year, and tourist areas have a strong police and army presence. Incidents do happen, so we follow official advisories, keep to main tourist areas and adjust plans on local advice. Check current government travel advisories and current status before you travel."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "April to June for green meadows, snow on the peaks and the tulip garden in April; September and October for clear skies, cool days and autumn colour. July and August work but bring yatra traffic and some showers. Winter suits snow lovers; see our winter Gulmarg trip for that season."
+  },
+  {
+   "q": "Can we add Doodhpathri or Yusmarg?",
+   "a": "Yes. Either is a day trip from Srinagar, about 42 km and 50 km, taking 1 h 30 min–2 h each way. Adding one day and night in Srinagar costs about ₹6,000–8,000 per person with the car. Both are good alternatives to Sonamarg in July and August when Amarnath traffic slows the Sindh valley road."
+  },
+  {
+   "q": "What food should we try?",
+   "a": "In Srinagar try rogan josh, rista, gushtaba and yakhni from a wazwan menu, nun chai with girda bread at breakfast, and saffron kahwa in the afternoon. Vegetarians do well with dum aloo, nadru yakhni and haak with rice. Ahdoos has one of the city's best-known Kashmiri restaurants, so one dinner there is easy."
+  }
+ ]
+}

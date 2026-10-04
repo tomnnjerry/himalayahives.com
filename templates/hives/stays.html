@@ -1,0 +1,50 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Where to stay in the Himalaya · homestays, rest houses and lodges · Himalaya Hives{% endblock %}
+{% block description %}Real places to stay in every Himalaya hive, from government tourist bungalows, hostels and homestay villages to heritage hotels and the best lodges. Indicative 2026 price bands.{% endblock %}
+{% block og_title %}Where to stay in the Himalaya{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="stays" eyebrow="Stays" title="Where to sleep in the hives" lede="Government rest houses, hostels and homestay villages, good mid-range hotels and the best lodges each valley has." answer="Every stay here is a real, operating property we would put on a trip. Price bands are indicative 2026 for a double room a night; we confirm the actual rate and room with your quote." %}
+
+{% with total=counts.stays %}
+<section class="sec">
+  <div class="wrap">
+    {% if total %}
+    <div class="filters" data-filter-group="#stay-list">
+      <div class="tabs" role="group" aria-label="Price level"><button type="button" data-key="tier" data-value="" aria-pressed="true">All</button><button type="button" data-key="tier" data-value="budget" aria-pressed="false">Budget</button><button type="button" data-key="tier" data-value="mid" aria-pressed="false">Mid-range</button><button type="button" data-key="tier" data-value="luxury" aria-pressed="false">Luxury</button></div>
+      <label class="sr-only" for="s-region">Hive</label><select id="s-region" data-key="region"><option value="">Every hive</option>{% for r in regions %}{% if r.stays %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endif %}{% endfor %}</select>
+      <span class="filters__count" data-filter-count>Showing {{ total }}</span>
+    </div>
+    <div id="stay-list">
+      {% for r in regions %}{% if r.stays %}<div data-section id="{{ r.slug }}" style="margin-bottom:clamp(40px,5vw,64px)">
+        <div class="sec-head"><div><p class="eyebrow">{{ r.stays|length }} stay{{ r.stays|length|pluralize }}</p><h2 class="d-2">{{ r.name }}</h2></div><a class="link" href="{{ r.url }}">About {{ r.name }} {% icon "arrow" %}</a></div>
+        <div class="grid grid--3">{% for s in r.stays %}<a class="cell" href="{{ s.url }}" data-land="{{ s.region }}" data-item data-region="{{ s.region }}" data-tier="{{ s.tier }}">
+          <div class="cell__ph">{% with img=s|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 980px) 100vw, 33vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+            <span class="cell__tier tier tier--{% if s.tier == 'budget' %}saver{% elif s.tier == 'mid' %}comfort{% else %}signature{% endif %}">{% if s.tier == 'mid' %}Mid-range{% else %}{{ s.tier|capfirst }}{% endif %}</span>
+            <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "bed" %}</span></div>
+          <div class="cell__body">
+            <span class="readout">{{ s.kind|capfirst }} · {{ s.place_obj.name|default:r.name }}</span>
+            <h3 class="cell__title">{{ s.name }}</h3>
+            <p class="cell__text">{{ s.summary|truncatechars:115 }}</p>
+            {% if s.price_band %}<div class="cell__foot"><span class="readout">{{ s.price_band|truncatechars:60 }}</span></div>{% endif %}
+          </div>
+        </a>{% endfor %}</div>
+      </div>{% endif %}{% endfor %}
+    </div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>Stays are being added</h2><p>Tell us the valley and the kind of room you want and we will suggest real places at your price.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask a planner</a></div>
+    {% endif %}
+  </div>
+</section>
+{% endwith %}
+
+<section class="sec sec--tint">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">How we choose</p><h2 class="d-1">Three levels, one standard</h2></div></div>
+    <div class="tiers">
+      <div><span class="tier tier--saver" style="align-self:start">Budget</span><p class="muted" style="margin:0">Government tourist bungalows (JKTDC, HPTDC, GMVN, KMVN and their equivalents), hostels and homestay villages. Simple, often with a shared or outside bathroom in the high valleys. We say so on each page.</p><a class="link" style="margin-top:auto" href="{% url 'tier' 'saver' %}">Saver trips {% icon "arrow" %}</a></div>
+      <div><span class="tier tier--comfort" style="align-self:start">Mid-range</span><p class="muted" style="margin:0">Good three and four star hotels and the best homestays, with heating where nights are cold.</p><a class="link" style="margin-top:auto" href="{% url 'tier' 'comfort' %}">Comfort trips {% icon "arrow" %}</a></div>
+      <div><span class="tier tier--signature" style="align-self:start">Luxury</span><p class="muted" style="margin:0">The best hotels and lodges each valley has: heritage houses, river and tea estate bungalows, and lodges with a private guide on call.</p><a class="link" style="margin-top:auto" href="{% url 'tier' 'signature' %}">Signature trips {% icon "arrow" %}</a></div>
+    </div>
+  </div>
+</section>
+{% endblock %}

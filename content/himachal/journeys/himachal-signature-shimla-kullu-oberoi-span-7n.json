@@ -1,0 +1,194 @@
+{
+ "slug": "himachal-signature-shimla-kullu-oberoi-span-7n",
+ "title": "Shimla and the Kullu valley in luxury",
+ "region": "himachal",
+ "tier": "signature",
+ "nights": 7,
+ "themes": [
+  "honeymoons",
+  "family-holidays",
+  "road-trips",
+  "wellness-and-yoga"
+ ],
+ "stops": [
+  {
+   "place": "shimla",
+   "nights": 3
+  },
+  {
+   "place": "manali",
+   "nights": 4
+  }
+ ],
+ "start": "Chandigarh airport",
+ "end": "Bhuntar (Kullu) airport",
+ "price_from_inr": 195000,
+ "price_note": "Per person, twin sharing: 3 nights Wildflower Hall, 4 nights Span Resort and Spa, breakfast and dinner, private car with driver, guide in Shimla, Naggar and Manali; flights and permits extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Shimla and Kullu in 7 nights: Wildflower Hall forest stay, Span Resort on the Beas, Naggar castle, Old Manali and the Atal tunnel, private car, from ₹1,95,000.",
+ "summary": "Seven unhurried nights in two of the best hotels in the Himalaya: three at Wildflower Hall in the forest above Shimla, four at Span Resort and Spa on the Beas near Katrain. Guided days in Shimla, Naggar and Old Manali, the Atal tunnel to Lahaul, and time to do nothing at all.",
+ "intro": [
+  "This is the classic Shimla–Manali trip, slowed down and moved out of the crowds. Instead of the Mall's hotels, you stay at Wildflower Hall at Chharabra, about 13 km beyond Shimla at roughly 2,500 m, in deodar and oak forest. Instead of central Manali, you stay at Span Resort and Spa, on about 12 acres by the Beas near Katrain, between Kullu and Manali, close to Naggar across the river.",
+  "The one long drive, Shimla to the Kullu valley, comes in the middle and is broken with stops at Mandi. Otherwise, days are short: a guided morning, lunch, and an afternoon at the hotel. It suits honeymooners, families with older children and anyone who wants the mountains without the rush."
+ ],
+ "highlights": [
+  "Three nights in the forest at Wildflower Hall",
+  "A guided heritage walk on Shimla's Mall and Ridge",
+  "Four nights on the Beas at Span Resort and Spa",
+  "Naggar Castle and the Roerich estate with a guide",
+  "A day through the Atal tunnel to Sissu in Lahaul"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Chandigarh to Wildflower Hall",
+   "place": "shimla",
+   "overnight": "Wildflower Hall, An Oberoi Resort, Chharabra",
+   "drive": "≈ 125 km · 4 h",
+   "text": "Your driver meets you at Chandigarh airport. Drive up via Parwanoo and Solan, with a stop for tea at Dharampur, to Shimla and on to Chharabra. Check into Wildflower Hall and spend the afternoon on the terrace with views of the snow peaks on clear days. Dinner at the hotel.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Shimla heritage walk",
+   "place": "shimla",
+   "overnight": "Wildflower Hall, An Oberoi Resort, Chharabra",
+   "drive": "≈ 13 km each way",
+   "text": "With your guide, walk the Ridge and the Mall: Christ Church, the Gaiety Theatre, Scandal Point and the Town Hall. Drive to the Viceregal Lodge on Observatory Hill, now the Indian Institute of Advanced Study, for a guided tour of the building where the Simla Conference of 1945 was held. Return to Chharabra for a quiet evening.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Forest trails and the spa",
+   "place": "shimla",
+   "overnight": "Wildflower Hall, An Oberoi Resort, Chharabra",
+   "drive": "",
+   "text": "A free day at the resort. Walk the forest trails around Chharabra, through deodar, oak and rhododendron that flowers red in March and April. In the afternoon, use the spa, or drive to Mashobra for an hour. Early night before the road.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Shimla to the Kullu valley",
+   "place": "manali",
+   "overnight": "Span Resort and Spa, near Katrain",
+   "drive": "≈ 230 km · 7–8 h",
+   "text": "Leave after breakfast and descend to the Sutlej at Bilaspur and the Gobind Sagar lake. Continue through Sundernagar to Mandi, where we stop for lunch and a walk to the old temples on the Beas, then up the Beas gorge past Pandoh and through the Aut tunnel to Kullu. Arrive at Span Resort in the evening.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Naggar Castle and the Roerich estate",
+   "place": "naggar",
+   "overnight": "Span Resort and Spa, near Katrain",
+   "drive": "≈ 10 km each way",
+   "text": "Cross the Beas to Naggar with your guide. Visit Naggar Castle, the kath-kuni seat of the Kullu rajas, now an HPTDC hotel, and the Jagatipatt shrine in its courtyard. Walk up to the Roerich estate, where Nicholas Roerich lived from 1928, and the wooden Tripura Sundari temple. Lunch on the castle terrace and back to Span by mid-afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Old Manali, Hadimba and Vashisht",
+   "place": "manali",
+   "overnight": "Span Resort and Spa, near Katrain",
+   "drive": "≈ 20 km each way",
+   "text": "Drive to Manali for a guided morning: the Hadimba temple in the deodar forest, built in 1553, Old Manali's kath-kuni houses and the Manu temple. Cross to Vashisht to see the hot spring baths and the temple. Lunch in Old Manali, then back to the resort for the afternoon by the river.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Atal tunnel to Sissu",
+   "place": "manali",
+   "overnight": "Span Resort and Spa, near Katrain",
+   "drive": "≈ 60 km each way · 2–2.5 h",
+   "text": "Drive up past Manali and Solang and through the Atal tunnel, about 9 km long, opened in 2020, into the Chandra valley of Lahaul. Continue to Sissu, at about 3,100 m, for the waterfall and views of the Lahaul peaks. Return to Span in the afternoon. Vehicle rules and tunnel timings change; check current status before you travel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Span to Bhuntar",
+   "place": "manali",
+   "overnight": "",
+   "drive": "≈ 30 km · 1 h",
+   "text": "A slow last morning by the river, then the short drive down the valley to Bhuntar airport for your flight. If flights are cancelled by weather, as can happen, we arrange the drive to Chandigarh, about 7 hours.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "oberoi-wildflower-hall-shimla",
+  "span-resort-and-spa-manali"
+ ],
+ "includes": [
+  "7 nights twin sharing: 3 at Wildflower Hall, 4 at Span Resort and Spa, with breakfast and dinner",
+  "Private car with driver from Chandigarh to Bhuntar",
+  "Private guide in Shimla, Naggar and Manali",
+  "Entry fees for the Viceregal Lodge, Naggar Castle and the Roerich estate",
+  "Phone support from our team during the trip"
+ ],
+ "excludes": [
+  "Flights to Chandigarh and from Bhuntar",
+  "Lunches, drinks and spa treatments",
+  "Atal tunnel or Rohtang permits if applicable",
+  "Tips for driver and guide",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "All nights are below 2,600 m; Sissu at about 3,100 m is a day trip.",
+  "Bhuntar flights are weather-dependent; keep a buffer for international connections or ask us to end at Chandigarh.",
+  "The Shimla–Kullu day is long; we break it at Mandi and avoid driving after dark.",
+  "Wildflower Hall and Span are outside the towns; we use the car for every outing.",
+  "In winter, Shimla and Manali can get snow; the trip runs in December–February with warm clothing and flexible plans."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a luxury Shimla Manali trip cost?",
+   "a": "This plan is from ₹1,95,000 per person on twin sharing for 7 nights at Wildflower Hall and Span Resort, with breakfast and dinner, a private car and a guide. Flights are extra. Prices rise for Christmas, New Year and May–June."
+  },
+  {
+   "q": "Is this a good honeymoon itinerary?",
+   "a": "Yes. Both hotels are quiet, set outside the towns, and built for couples who want space, good food and spa time. Days are short, and we can add a private dinner or an extra night at either hotel."
+  },
+  {
+   "q": "Why stay at Span Resort rather than in Manali?",
+   "a": "Manali's centre is crowded and noisy in season. Span sits by the Beas near Katrain, in gardens, about 20 km from Manali and close to Naggar. You see Manali on a guided day and come back to calm."
+  },
+  {
+   "q": "Can we do this trip in winter for snow?",
+   "a": "Yes, December to February works. Shimla and the upper Kullu valley often get snow, and both hotels are heated. Drives may be slower and the Atal tunnel can close after heavy snow, so we keep plans flexible."
+  },
+  {
+   "q": "Is the trip suitable for children and older travellers?",
+   "a": "Yes. Altitudes are moderate, drives are short except one, and both hotels have space and good food. Tell us about mobility needs; Shimla's walk involves slopes, and the car can drop you at the top of the Mall."
+  },
+  {
+   "q": "Do we need a permit for the Atal tunnel or Rohtang?",
+   "a": "Rules for vehicles beyond Manali change. Rohtang needs an online permit with a daily cap; the Atal tunnel route has its own rules at times. We handle permits where needed; check current status before you travel."
+  },
+  {
+   "q": "Can we fly into Shimla instead?",
+   "a": "Shimla's Jubbarhatti airport has limited flights, often cancelled by weather. Chandigarh is far more reliable and only 4 hours by road, so we start there. If a Shimla flight suits you, we can meet you there."
+  },
+  {
+   "q": "How long is the drive from Shimla to Manali?",
+   "a": "About 230–250 km and 7–8 hours by car, depending on where you stay. We stop at Mandi for lunch and old temples, and arrive before dark."
+  },
+  {
+   "q": "Can we add Kinnaur or Dharamshala?",
+   "a": "Yes. Add Kinnaur after Shimla, or McLeodganj and Bir after Manali; each adds 3–5 nights. We price the extension with the best available stays."
+  }
+ ]
+}

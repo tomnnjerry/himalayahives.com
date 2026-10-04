@@ -1,0 +1,177 @@
+{
+ "slug": "darjeeling-comfort-tea-and-toy-train-5n",
+ "title": "Tea and toy train: Kurseong and Darjeeling",
+ "region": "darjeeling",
+ "tier": "comfort",
+ "nights": 5,
+ "themes": [
+  "food-and-tea",
+  "road-trips",
+  "photography",
+  "honeymoons"
+ ],
+ "stops": [
+  {
+   "place": "kurseong",
+   "nights": 2
+  },
+  {
+   "place": "darjeeling",
+   "nights": 3
+  }
+ ],
+ "start": "Bagdogra Airport (IXB) or NJP station",
+ "end": "Bagdogra Airport (IXB) or NJP station",
+ "price_from_inr": 38000,
+ "price_note": "Per person, twin sharing: 2 nights at Cochrane Place and 3 in a good Darjeeling hotel with breakfast, private car with driver throughout, steam joy ride, tea tastings and entries; flights or trains extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Darjeeling tea trip, 5 nights: Kurseong estates at Cochrane Place, steam toy train, Happy Valley, Tiger Hill and tea tastings by private car, from ₹38,000.",
+ "summary": "Five unhurried nights for tea lovers and couples: two at Cochrane Place above the Kurseong tea slopes, three in Darjeeling. Private car, estate walks and tastings, the steam joy ride to Ghum, Tiger Hill at dawn and time to learn the difference between first flush and muscatel.",
+ "intro": [
+  "Darjeeling tea is grown on about 87 registered gardens, and the Kurseong slopes hold some of the best known. This trip starts there, at Cochrane Place, a restored colonial house looking over the Makaibari, Castleton and Ambootia gardens, with tea on the menu at every meal. Days are short and slow: an estate walk, a tasting, a forest walk on Dow Hill.",
+  "Then the car takes you up the Hill Cart Road, beside the toy train track, to Darjeeling for three nights. There is time for Tiger Hill, the steam joy ride, Happy Valley, the monasteries at Ghum and a proper tea-buying session. We book a well-run 3-star hotel near Chowrasta, such as Dekeling, so you can walk to the Mall, and the car handles the hills."
+ ],
+ "highlights": [
+  "Two nights at Cochrane Place above the Kurseong tea slopes",
+  "An estate walk and tasting near Kurseong when tours run",
+  "The steam toy train joy ride to Ghum and the Batasia Loop",
+  "Tiger Hill at sunrise and Ghum Monastery",
+  "A guided tea-buying session in Darjeeling"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Kurseong",
+   "place": "kurseong",
+   "overnight": "Cochrane Place, Kurseong",
+   "drive": "≈ 50 km · 2 h",
+   "text": "Your driver meets you at Bagdogra or NJP and takes the Pankhabari road or the Hill Cart Road up to Kurseong at about 1,482 m, about 2 hours. Check in to Cochrane Place, set on the slope above town, and spend the afternoon on the terrace with a pot of the season's tea and the view over the gardens to the plains. An early dinner and rest.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Estates, Netaji museum and Dow Hill",
+   "place": "kurseong",
+   "overnight": "Cochrane Place, Kurseong",
+   "drive": "Local",
+   "text": "In the morning, walk through a tea estate near Kurseong with a local guide and, where tours run, see the factory: withering troughs, rollers and dryers. After lunch, visit the Netaji Subhas Chandra Bose museum at Giddapahar, the house where he was kept under house arrest in 1936, then walk in the Dow Hill forest. Evening tasting at the hotel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Up the Hill Cart Road to Darjeeling",
+   "place": "darjeeling",
+   "overnight": "Dekeling Hotel or similar, Darjeeling",
+   "drive": "≈ 30 km · 1.25 h",
+   "text": "Drive up through Tung and Sonada to Ghum, beside the toy train track. Stop at Ghum Monastery, founded in 1850, and the small railway museum at Ghum station, then the Batasia Loop. Check in near Chowrasta and spend the afternoon on Observatory Hill and the Mall, with tea at one of the old tea rooms.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Tiger Hill and the steam joy ride",
+   "place": "darjeeling",
+   "overnight": "Dekeling Hotel or similar, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Your driver collects you at about 4 am for Tiger Hill and the first light on Kangchenjunga. Back for breakfast, then the steam joy ride from Darjeeling station to Ghum and back, about two hours. In the afternoon, visit the zoo and the Himalayan Mountaineering Institute, or the Japanese Peace Pagoda for a quieter view of the range.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 5,
+   "title": "Happy Valley and buying tea",
+   "place": "darjeeling",
+   "overnight": "Dekeling Hotel or similar, Darjeeling",
+   "drive": "Local",
+   "text": "A morning at Happy Valley Tea Estate, 3 km from town and planted in 1854, to see the gardens and taste. In the afternoon, a tea-buying session in town: we take you to shops that list the estate, flush, year and invoice number, and help you taste first and second flush side by side. Visit the Tibetan Refugee Self Help Centre for carpets and crafts.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 6,
+   "title": "Down to Bagdogra",
+   "place": "darjeeling",
+   "overnight": "",
+   "drive": "≈ 75 km · 3–3.5 h",
+   "text": "Leave after breakfast for Bagdogra or NJP, about 3–3.5 hours. We time departure with a buffer for traffic at Ghum and Kurseong, and can stop at a Kurseong estate shop on the way down if you missed anything.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "cochrane-place-kurseong",
+  "dekeling-hotel-darjeeling"
+ ],
+ "includes": [
+  "2 nights at Cochrane Place and 3 nights in a good Darjeeling hotel, twin sharing, with breakfast",
+  "Dinners at Cochrane Place",
+  "Private car with driver for all transfers and sightseeing",
+  "Steam toy train joy ride",
+  "Estate walk with local guide and a tea tasting",
+  "Tiger Hill viewing fee, zoo, HMI and Netaji museum entries"
+ ],
+ "excludes": [
+  "Flights or trains",
+  "Lunches and dinners in Darjeeling",
+  "Factory tour fees where charged",
+  "Tea and shopping",
+  "Tips"
+ ],
+ "good_to_know": [
+  "All stays are below 2,100 m; altitude is not an issue.",
+  "Tea factories work in plucking season, March to November; in winter many are closed.",
+  "Darjeeling hotels near Chowrasta cannot be reached by car; porters carry bags the last few minutes.",
+  "Steam joy rides sell out in April, May and October; we book as soon as you confirm.",
+  "The Hill Cart Road is slow on weekends in season; we start early."
+ ],
+ "faqs": [
+  {
+   "q": "How much does this 5-night Darjeeling tea trip cost?",
+   "a": "From ₹38,000 per person, twin sharing, with two nights at Cochrane Place, three nights in a good Darjeeling hotel, breakfasts, dinners in Kurseong, a private car throughout, the steam joy ride, a tasting and entries. Flights to Bagdogra are extra. Prices rise in peak weeks; these are indicative 2026."
+  },
+  {
+   "q": "When is the best time for a tea trip to Darjeeling?",
+   "a": "March to May for first flush plucking and the start of second flush, and October to November for autumn flush and the clearest mountain views. Factories are busy from March to November. In winter, bushes are pruned and many factories are closed, though tastings still happen in town."
+  },
+  {
+   "q": "Can we visit a working tea factory?",
+   "a": "Usually, in plucking season. Several estates around Kurseong and Darjeeling allow visits or offer paid tours, and Happy Valley near Darjeeling is open to visitors. Access depends on the estate's work that day, so we confirm locally and check current status before you travel."
+  },
+  {
+   "q": "What is the difference between first flush and second flush?",
+   "a": "First flush is the spring plucking, March to April, giving light, floral, greenish teas. Second flush comes in May and June, with fuller, fruity teas described as muscatel. Autumn flush, October to November, is mellower. Monsoon tea is mostly used for blends."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. Short drives, two quiet nights at Cochrane Place, a steam train ride and sunrise at Tiger Hill suit couples. For more privacy and luxury, upgrade the Kurseong nights to Taj Chia Kutir or add two nights at Glenburn Tea Estate."
+  },
+  {
+   "q": "Do we need to walk a lot?",
+   "a": "Moderately. Darjeeling is steep and the hotel area near Chowrasta is car-free, so expect stairs and slopes. Estate walks are on uneven paths. Tell us about any mobility needs and we will choose rooms and walks to suit."
+  },
+  {
+   "q": "How do we get to Kurseong from Bagdogra?",
+   "a": "By the private car included in the trip, about 50 km and 2 hours via Pankhabari or the Hill Cart Road. The driver meets you at arrivals. If you come by train, the pick-up is at NJP instead."
+  },
+  {
+   "q": "Can we buy good tea to take home?",
+   "a": "Yes. Buy from shops that show the estate, flush, year and invoice number, and taste before you buy. Good first flush costs much more than tea sold loose in tourist stalls. We guide you through a tasting on day five."
+  },
+  {
+   "q": "Can we add Kalimpong or Mirik?",
+   "a": "Yes. Add two nights in Kalimpong for its monasteries and nurseries, or a day trip to Mirik's lake and tea gardens from Darjeeling. The car makes both easy, at extra cost."
+  }
+ ]
+}

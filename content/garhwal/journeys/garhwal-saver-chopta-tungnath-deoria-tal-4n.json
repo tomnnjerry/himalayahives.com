@@ -1,0 +1,166 @@
+{
+ "slug": "garhwal-saver-chopta-tungnath-deoria-tal-4n",
+ "title": "Deoria Tal, Tungnath and Chandrashila",
+ "region": "garhwal",
+ "tier": "saver",
+ "nights": 4,
+ "themes": [
+  "treks-and-walks",
+  "homestays-and-villages",
+  "pilgrimages",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "rishikesh",
+   "nights": 1
+  },
+  {
+   "place": "chopta-tungnath",
+   "nights": 3
+  }
+ ],
+ "start": "Rishikesh (Zostel, Tapovan)",
+ "end": "Rishikesh ISBT",
+ "price_from_inr": 11500,
+ "price_note": "Per person, twin sharing: 4 nights in a hostel dorm, a Sari homestay and a Chopta lodge with meals, buses, shared jeeps and a shared taxi to Chopta, local guide for Tungnath; travel to Rishikesh extra.",
+ "transport": "UTC and GMOU buses, shared jeeps and a shared taxi",
+ "group": "Shared departures",
+ "best_months": [
+  1,
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Active",
+ "meta_description": "Chopta on a budget, 4 nights: bus from Rishikesh, Sari homestay, Deoria Tal, the walk to Tungnath and Chandrashila summit, from ₹11,500.",
+ "summary": "Four nights and two of Garhwal's best short walks for little money: Deoria Tal from a village homestay at Sari, then Tungnath, the highest Shiva temple of the Panch Kedar, and the summit of Chandrashila above it. Buses, shared jeeps and simple lodges, with every bed below 3,000 m.",
+ "intro": [
+  "Chopta is where we send students and first-time walkers who have a long weekend and a small budget. The walks are short, the views of Chaukhamba, Kedarnath and Nanda Devi are wide, and you never sleep higher than about 2,700 m. Deoria Tal is a 2.5–3 km climb from Sari village; Tungnath is 3.5 km from Chopta on a paved path, with Chandrashila another 1–1.5 km above.",
+  "The trade-off is transport. Buses from Rishikesh reach Ukhimath in 7–8 hours, but there is no regular bus to Chopta, so we share a taxi for the last stretch. Rooms are simple: a family homestay at Sari with shared or basic attached bathrooms, and a Chopta lodge or camp with blankets and bucket hot water. Snow closes the upper road for part of winter."
+ ],
+ "highlights": [
+  "Sunrise over Chaukhamba from the shore of Deoria Tal",
+  "Tungnath, the highest of the Panch Kedar temples at about 3,680 m",
+  "The 360-degree view from Chandrashila at about 4,000 m",
+  "Garhwali home food in Sari: mandua roti, jhangora and local dal",
+  "Monal pheasants and rhododendron forest on the Chopta road"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Rishikesh",
+   "place": "rishikesh",
+   "overnight": "Zostel Rishikesh, Tapovan",
+   "drive": "",
+   "text": "Reach Rishikesh by train to Haridwar or overnight bus from Delhi and check into a dorm at Zostel in Tapovan. Confirm your seat on the early bus to Ukhimath at the ISBT or GMOU yard, buy snacks for the road, and walk down to the ghats for the evening aarti at Parmarth Niketan or Triveni Ghat. Pack a small bag for the walks and leave the rest at the hostel if they allow it.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Bus to Ukhimath, jeep to Sari",
+   "place": "chopta-tungnath",
+   "overnight": "Homestay, Sari village",
+   "drive": "≈ 180 km bus · 7–8 h, ≈ 12–15 km jeep",
+   "text": "Take the early UTC or GMOU bus from Rishikesh to Ukhimath via Devprayag, Srinagar and Rudraprayag, then a shared jeep to Sari, about 12–15 km. Ukhimath's Omkareshwar temple, winter seat of Kedarnath, is worth 30 minutes if your bus arrives early. In Sari, settle into a family homestay; dinner is usually home food with mandua roti and local dal. Sleep early for the dawn walk.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Deoria Tal at dawn, on to Chopta",
+   "place": "chopta-tungnath",
+   "overnight": "Lodge or camp, Chopta",
+   "drive": "≈ 2.5–3 km walk each way, ≈ 25 km taxi",
+   "text": "Start at 5 am for Deoria Tal, a 2.5–3 km climb on a stone path through oak forest from Sari, to reach the lake for sunrise over Chaukhamba. Pay the forest fee at the gate. Walk down for breakfast at the homestay, then share a taxi to Chopta, about 25 km, through the rhododendron forest of the Kedarnath Wildlife Sanctuary. Afternoon short walk in the meadow; listen for monal pheasants.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Tungnath and Chandrashila",
+   "place": "chopta-tungnath",
+   "overnight": "Lodge or camp, Chopta",
+   "drive": "",
+   "text": "Walk up the paved 3.5 km path to Tungnath, climbing about 700 m to around 3,680 m. The stone temple is the highest of the Panch Kedar and is open roughly May to early November; in winter the deity moves down to Makkumath and the path may be under snow. Continue 1–1.5 km to Chandrashila, about 4,000 m, for views of Nanda Devi, Trishul, Chaukhamba and Kedarnath. Our local guide walks with you. Back to Chopta by afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Back to Rishikesh",
+   "place": "chopta-tungnath",
+   "overnight": "",
+   "drive": "≈ 200 km · 8–9 h with changes",
+   "text": "Share a taxi down to Ukhimath early and catch a bus or shared jeep to Rudraprayag, where buses for Rishikesh run through the day. You reach Rishikesh by evening, in time for an overnight bus to Delhi or a late train from Haridwar. If you can, keep a spare day; landslides and missed connections are common in the hills.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "zostel-rishikesh-tapovan"
+ ],
+ "includes": [
+  "4 nights: hostel dorm in Rishikesh, homestay at Sari and lodge or camp at Chopta",
+  "Breakfast and dinner at the homestay and lodge",
+  "Bus fares Rishikesh–Ukhimath and return, shared jeep to Sari, shared taxi Sari–Chopta–Ukhimath",
+  "Local guide for the Tungnath and Chandrashila walk",
+  "Deoria Tal forest entry fee"
+ ],
+ "excludes": [
+  "Travel to and from Rishikesh",
+  "Lunches and snacks",
+  "Microspikes, gaiters and warm clothing",
+  "Private taxi if you prefer not to share",
+  "Costs from snow or landslide delays"
+ ],
+ "good_to_know": [
+  "You sleep below 2,800 m, but Chandrashila is about 4,000 m. Walk slowly, turn back if you feel unwell, and talk to your doctor before the trip if you have heart or lung conditions.",
+  "From January to March snow can close the road above Duggalbitta; the walk becomes longer and needs microspikes and a guide. Check current status before you travel.",
+  "Tungnath temple is closed in winter, roughly November to April; the walk is still possible in good weather.",
+  "Homestays in Sari are family homes; dress modestly, ask before photographing people, and take your rubbish back down.",
+  "Network is patchy at Chopta; Jio and Airtel signal varies. Carry cash; there is no ATM at Sari or Chopta."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a Chopta Tungnath trip cost from Rishikesh?",
+   "a": "On this saver plan, about ₹11,500–14,000 per person for 4 nights, with buses, shared jeeps and taxi, homestay and lodge meals and a local guide. A private car from Rishikesh adds roughly ₹14,000–18,000 for the vehicle."
+  },
+  {
+   "q": "How difficult is the Tungnath trek?",
+   "a": "It is a 3.5 km paved path climbing about 700 m, steep in places. Most walkers take 2–3 hours up. Chandrashila adds 1–1.5 km on a rougher path. It suits fit beginners walking slowly."
+  },
+  {
+   "q": "What is the best time for Chopta and Tungnath?",
+   "a": "April to June for rhododendrons and clear mornings, and October to December for the sharpest mountain views. January to March brings snow and possible road closures. July and August are wet and cloudy."
+  },
+  {
+   "q": "Can I visit Tungnath in winter?",
+   "a": "The temple is closed from around November to April, with the deity at Makkumath. The walk is possible on clear days with microspikes and a local guide, but snow can block the road to Chopta. Check current status before you travel."
+  },
+  {
+   "q": "How do I reach Chopta by bus?",
+   "a": "Take a UTC or GMOU bus from Rishikesh to Ukhimath, about 7–8 hours. There is no regular bus to Chopta; shared jeeps are irregular, so most people share a taxi for the last 30–35 km."
+  },
+  {
+   "q": "Is Deoria Tal worth adding to Tungnath?",
+   "a": "Yes. It costs half a day, the climb is just 2.5–3 km from Sari, and on a clear morning Chaukhamba reflects in the lake. Sari's homestays also give you a night in a Garhwali village."
+  },
+  {
+   "q": "Is Chopta safe for solo women travellers?",
+   "a": "Generally yes. Many solo women walk here, especially in spring and autumn. Choose registered lodges, walk in daylight, and hire a local guide for Chandrashila or in snow."
+  },
+  {
+   "q": "Is there mobile network at Chopta?",
+   "a": "Signal at Chopta is limited and varies by network; some lodges have weak Jio or Airtel coverage. Expect no reliable data. Download offline maps before leaving Rishikesh."
+  },
+  {
+   "q": "Do I need registration for Tungnath?",
+   "a": "Tungnath is not one of the four Char Dham shrines, and Deoria Tal has its own forest entry fee at the gate. Registration rules for temples and treks in Uttarakhand change from season to season, so check current status before you travel."
+  }
+ ]
+}

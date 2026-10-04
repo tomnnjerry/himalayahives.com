@@ -1,0 +1,60 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya travel guides · budgets, seasons, permits and treks · Himalaya Hives{% endblock %}
+{% block description %}Practical Himalaya guides for every hive: what a trip really costs, when to go, permits, altitude, treks, food and where to stay. Written by the Himalaya Hives Field Desk.{% endblock %}
+{% block og_title %}Himalaya travel guides{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="guides" eyebrow="Guides" title="Read before you go" lede="Budgets, seasons, permits, altitude, treks and food, hive by hive. Numbers over adjectives, sources where it matters." answer="Each guide answers one planning question for one hive, with tables you can use and the rules that change marked 'check current status before you travel'. Written by the Himalaya Hives Field Desk." %}
+
+<section class="sec">
+  <div class="wrap">
+    {% if counts.guides %}
+    <div class="filters" data-filter-group="#guide-list">
+      <label class="sr-only" for="g-region">Hive</label><select id="g-region" data-key="region"><option value="">Every hive</option>{% for r in regions %}{% if r.guides %}<option value="{{ r.slug }}">{{ r.name }} ({{ r.guides|length }})</option>{% endif %}{% endfor %}</select>
+      <label class="sr-only" for="g-cat">Topic</label><select id="g-cat" data-key="cat"><option value="">Every topic</option><option value="planning">Planning</option><option value="budget">Budget</option><option value="seasons">Seasons</option><option value="stays">Stays</option><option value="culture">Culture</option><option value="food">Food</option><option value="treks">Treks</option><option value="practical">Practical</option><option value="wildlife">Wildlife</option><option value="pilgrimage">Pilgrimage</option></select>
+      <span class="filters__count" data-filter-count>Showing {{ counts.guides }}</span>
+    </div>
+    <div id="guide-list">
+      {% for r in regions %}{% if r.guides %}<div data-section id="{{ r.slug }}" style="margin-bottom:clamp(40px,5vw,64px)">
+        <div class="sec-head"><div><p class="eyebrow">{{ r.guides|length }} guide{{ r.guides|length|pluralize }}</p><h2 class="d-2">{{ r.name }}</h2></div><a class="link" href="{{ r.url }}">About {{ r.name }} {% icon "arrow" %}</a></div>
+        <div class="grid grid--3">{% for g in r.guides %}<a class="cell" href="{{ g.url }}" data-land="{{ g.region }}" data-item data-region="{{ g.region }}" data-cat="{{ g.category }}">
+          <div class="cell__ph">{% with img=g|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 980px) 100vw, 33vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+            <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon "book" %}</span></div>
+          <div class="cell__body">
+            <span class="readout">{{ g.category|capfirst }} · {{ g.read_min }} min read</span>
+            <h3 class="cell__title">{{ g.title }}</h3>
+            <p class="cell__text">{{ g.summary|truncatechars:125 }}</p>
+          </div>
+        </a>{% endfor %}</div>
+      </div>{% endif %}{% endfor %}
+    </div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>Guides are on their way</h2><p>We are writing guides for each hive: what it costs, when to go, permits and altitude. Until they are here, every hive page has month-by-month notes, real local prices and answers to common questions.</p>
+      <div class="chips" style="margin:18px 0">{% for r in regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+      <a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask a planner instead</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Plan with tools</p><h2 class="d-2" style="margin-bottom:16px">Work it out yourself</h2>
+      <div class="ledger">
+        <a class="ledger__row" href="{% url 'tool_season' %}"><span>Season finder</span><span class="ledger__dots"></span><b>Where is good this month</b></a>
+        <a class="ledger__row" href="{% url 'tool_budget' %}"><span>Budget builder</span><span class="ledger__dots"></span><b>Cost a trip per day</b></a>
+        <a class="ledger__row" href="{% url 'tool_altitude' %}"><span>Altitude planner</span><span class="ledger__dots"></span><b>Pace the climb</b></a>
+        <a class="ledger__row" href="{% url 'tool_permits' %}"><span>Permits</span><span class="ledger__dots"></span><b>What you need where</b></a>
+      </div>
+    </div>
+    <div>
+      <p class="eyebrow">More reading</p><h2 class="d-2" style="margin-bottom:16px">From the Field Desk</h2>
+      <div class="ledger">
+        <a class="ledger__row" href="{% url 'journal' %}"><span>The Journal</span><span class="ledger__dots"></span><b>Stories and dispatches</b></a>
+        <a class="ledger__row" href="{% url 'field_notes' %}"><span>Field notes</span><span class="ledger__dots"></span><b>Sourced local facts</b></a>
+        <a class="ledger__row" href="{% url 'festivals' %}"><span>Festivals</span><span class="ledger__dots"></span><b>Dates to plan around</b></a>
+        <a class="ledger__row" href="{% url 'routes' %}"><span>Routes</span><span class="ledger__dots"></span><b>Drive times and fares</b></a>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

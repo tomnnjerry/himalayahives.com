@@ -1,0 +1,42 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Thank you · your note is with a planner · Himalaya Hives{% endblock %}
+{% block description %}Your trip enquiry has reached Himalaya Hives. A planner replies within one working day with a route, an altitude profile and an itemised price.{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex">{% endblock %}
+{% block cta %}{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="thanks" eyebrow="Enquiry received" title="Thank you, your note is with a planner" lede="We reply within one working day with a first route, a sleeping-altitude profile and an itemised price in your tier. Nothing to pay until you decide to book." %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">What happens now</p>
+      <h2 class="d-2" style="margin-bottom:22px">Three things we do next</h2>
+      <div class="hl">
+        <div><span class="hl__n">{% icon "chat" %}</span><h3>We read your note</h3><p>A planner checks your month against road openings, festival dates and altitude on the route.</p></div>
+        <div><span class="hl__n">{% icon "route" %}</span><h3>A first route</h3><p>Day by day, with where you sleep, the height of each night and drive times.</p></div>
+        <div><span class="hl__n">{% icon "wallet" %}</span><h3>An itemised price</h3><p>Every line priced, so you can swap a hotel or a car and see the difference.</p></div>
+      </div>
+      <p class="small muted" style="margin-top:22px">No reply in your inbox after one working day? Check the spam folder, then write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if wa_base %} or <a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="thanks-whatsapp">message us on WhatsApp</a>{% endif %}.</p>
+    </div>
+    <aside class="split__aside">
+      <div class="panel">
+        <h2>While you wait</h2>
+        <div class="ledger">
+          <a class="ledger__row" href="{% url 'how_we_work' %}"><span>How we work</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+          <a class="ledger__row" href="{% url 'tool_altitude' %}"><span>Altitude planner</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+          <a class="ledger__row" href="{% url 'guides' %}"><span>Planning guides</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+          <a class="ledger__row" href="{% url 'journal' %}"><span>The Journal</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+          <a class="ledger__row" href="{% url 'policy' 'refund-and-cancellation' %}"><span>Refunds and cancellations</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Eleven hives</p><h2 class="d-2">Read up on the valleys</h2></div><a class="link" href="{% url 'lands' %}">Compare the hives {% icon "arrow" %}</a></div>
+    <div class="chips">{% for r in nav_regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+  </div>
+</section>
+{% endblock %}

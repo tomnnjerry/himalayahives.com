@@ -1,0 +1,79 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ e.title }} · {{ p.name }}, {{ r.name }} · Himalaya Hives{% endblock %}
+{% block description %}{{ e.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ e.title }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block alt_from %}0{% endblock %}{% block alt_to %}{{ p.altitude_m|default:0 }}{% endblock %}{% block alt_label %}{{ p.name }}{% endblock %}
+{% block fab_label %}Add this to a trip{% endblock %}{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block og_image %}{% with img=e|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=r.slug cta_title="Build a trip around this day" %}{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo e.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">{% with k=e.kind %}<a href="{% url 'experience_kind' k %}" style="color:inherit">{{ k|capfirst }}</a>{% endwith %} · {{ p.name }}, {{ r.name }}</p>
+      <h1 class="d-1">{{ e.title }}</h1>
+      <p class="answer">{{ e.summary }}</p>
+      <dl class="phead__meta">
+        {% if e.duration %}<div><dt>Takes</dt><dd>{{ e.duration }}</dd></div>{% endif %}
+        {% if e.best_time %}<div><dt>Best time</dt><dd>{{ e.best_time }}</dd></div>{% endif %}
+        {% if p.alt_label %}<div><dt>Altitude</dt><dd>{{ p.alt_label }}</dd></div>{% endif %}
+      </dl>
+    </div>
+    <div class="phead__photo">{% with img=e|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ img.description|default:e.title|truncatechars:120 }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline e.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <div class="prose">{% for para in e.body %}<p>{{ para }}</p>{% endfor %}</div>
+      {% if e.good_for %}<p class="eyebrow" style="margin-top:26px">Good for</p><div class="chips">{% for g in e.good_for %}<span class="chip">{% icon "heart" %}{{ g|capfirst }}</span>{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>Before you go</h2>
+        <div class="ledger">
+          <div class="ledger__row"><span>Kind</span><span class="ledger__dots"></span><b>{{ e.kind|capfirst }}</b></div>
+          {% if e.duration %}<div class="ledger__row"><span>Duration</span><span class="ledger__dots"></span><b>{{ e.duration }}</b></div>{% endif %}
+          {% if e.best_time %}<div class="ledger__row"><span>Best time</span><span class="ledger__dots"></span><b>{{ e.best_time }}</b></div>{% endif %}
+          <a class="ledger__row" href="{{ p.url }}"><span>Where</span><span class="ledger__dots"></span><b>{{ p.name }}</b></a>
+        </div>
+        {% if e.cost %}<p class="eyebrow" style="margin:18px 0 6px">What it costs</p><p style="margin:0;font-size:16px">{{ e.cost }}</p><p class="small muted" style="margin:8px 0 0">Indicative 2026. Check current status before you travel.</p>{% endif %}
+        {% if p.bar %}<p class="eyebrow" style="margin:18px 0 10px">{{ p.name }} by month</p>{% include "hives/partials/mbar.html" with bar=p.bar label=p.best_label %}{% endif %}
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="exp" qf_land=r.slug qf_title="Add this to a trip" qf_message="Experience: "|add:e.title %}
+    </aside>
+  </div>
+</section>
+
+{% if siblings %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Also in {{ p.name }}</p><h2 class="d-1">More days here</h2></div><a class="link" href="{{ p.url }}">The {{ p.name }} guide {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for e in siblings %}{% include "hives/partials/card_exp.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if p.journey_objs %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Trips through {{ p.name }}</p><h2 class="d-1">Do this on a trip</h2><p class="lede">Each of these trips stops in {{ p.name }}. Tell us and we keep a slot for this day.</p></div></div>
+    <div class="grid grid--4" data-fill>{% for j in p.journey_objs|slice:":4" %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=r.slug %}</div>
+  </div>
+</section>{% endif %}
+
+{% if p.stay_objs %}<section class="sec{% if not p.journey_objs %} sec--paper2{% endif %}">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Sleep nearby</p><h2 class="d-1">Stays in {{ p.name }}</h2></div></div>
+    <div class="grid grid--3">{% for s in p.stay_objs|slice:":3" %}{% include "hives/partials/card_stay.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if e.faqs %}<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">Before you book</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=e.faqs open_first=True %}
+  </div>
+</section>{% endif %}
+{% endblock %}

@@ -1,0 +1,199 @@
+{
+ "slug": "darjeeling-signature-sandakphu-and-tea-7n",
+ "title": "Windamere, Sandakphu and Taj Chia Kutir",
+ "region": "darjeeling",
+ "tier": "signature",
+ "nights": 7,
+ "themes": [
+  "photography",
+  "treks-and-walks",
+  "food-and-tea",
+  "road-trips"
+ ],
+ "stops": [
+  {
+   "place": "darjeeling",
+   "nights": 3
+  },
+  {
+   "place": "sandakphu",
+   "nights": 2
+  },
+  {
+   "place": "kurseong",
+   "nights": 2
+  }
+ ],
+ "start": "Bagdogra Airport (IXB)",
+ "end": "Bagdogra Airport (IXB)",
+ "price_from_inr": 110000,
+ "price_note": "Per person, twin sharing: 3 nights at Windamere, 2 in the best available Sandakphu lodge rooms, 2 at Taj Chia Kutir; private SUV, reserved Land Rover, private guide, park fees and most meals; flights extra.",
+ "transport": "Private SUV with driver; reserved Land Rover on the Singalila Ridge",
+ "group": "Private",
+ "best_months": [
+  1,
+  0,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Darjeeling and Sandakphu in 7 nights: Windamere, a private Land Rover to 3,636 m for Everest views, then Taj Chia Kutir, from ₹1,10,000.",
+ "summary": "Darjeeling's best views and hotels in one week: three nights at Windamere to settle at 2,045 m, two nights on the Singalila Ridge at Sandakphu, reached by private Land Rover, for Everest, Lhotse, Makalu and Kangchenjunga, and two nights to recover at Taj Chia Kutir in the Makaibari tea estate.",
+ "intro": [
+  "Sandakphu, at 3,636 m, is the highest point in West Bengal and one of the few places where you can see four of the world's five highest peaks from one spot. Most people walk up over three or four days. This journey goes up by reserved Land Rover from Manebhanjan, with a private guide, so you get the ridge and the views without the trek, while sleeping two nights on top for two chances at a clear sunrise.",
+  "There is no luxury on the ridge. The lodges are simple, cold and often share bathrooms; we book the best rooms available and send extra blankets and food. That is why the journey starts with three nights at Windamere, which also helps you adjust to altitude, and ends with two at Taj Chia Kutir, with a spa and heated pool to warm up in."
+ ],
+ "highlights": [
+  "Three nights at Windamere on Observatory Hill",
+  "A private Land Rover along the Singalila Ridge via Tumling and Kalipokhri",
+  "Sunrise on Everest, Lhotse, Makalu and Kangchenjunga from Sandakphu",
+  "Rhododendron forests on the ridge in April",
+  "Recovery at Taj Chia Kutir in the Makaibari estate"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bagdogra to Darjeeling",
+   "place": "darjeeling",
+   "overnight": "Windamere Hotel, Darjeeling",
+   "drive": "≈ 75 km · 3–3.5 h",
+   "text": "Your driver and guide meet you at Bagdogra for the climb to Darjeeling, about 3–3.5 hours via Kurseong or Rohini. Check in to Windamere and rest. Afternoon tea in the hotel, then a short walk on the Mall and Observatory Hill. Go easy on the first evening; you are now at about 2,045 m.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Tiger Hill and the steam train",
+   "place": "darjeeling",
+   "overnight": "Windamere Hotel, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Pre-dawn drive to Tiger Hill for sunrise on Kangchenjunga, returning via Ghum Monastery and the Batasia Loop. After breakfast, the steam joy ride to Ghum and back. Afternoon at the Himalayan Mountaineering Institute, where your guide explains the history of Everest climbing from Darjeeling, a good preparation for the view to come.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Happy Valley and town",
+   "place": "darjeeling",
+   "overnight": "Windamere Hotel, Darjeeling",
+   "drive": "Local",
+   "text": "A slow day to adjust to altitude. Morning walk to Happy Valley Tea Estate and a tasting; afternoon in the bazaars, the Tibetan Refugee Self Help Centre or the Japanese Peace Pagoda. Your guide checks the ridge weather and Land Rover booking, and briefs you on packing warm layers for Sandakphu.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Land Rover up the Singalila Ridge",
+   "place": "sandakphu",
+   "overnight": "Best available lodge room, Sandakphu",
+   "drive": "≈ 28 km by car + 31 km by Land Rover · 5–6 h",
+   "text": "Drive to Manebhanjan, about 1–1.5 hours, and transfer to a reserved Land Rover. Pay park fees at the checkpost and climb the rough ridge road via Chitrey, Tumling and Kalipokhri, 3–4 hours, with stops for tea and views. Reach Sandakphu at 3,636 m by mid-afternoon. Rest, drink water and walk slowly; dinner early in the lodge.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Sunrise on four 8,000-ers",
+   "place": "sandakphu",
+   "overnight": "Best available lodge room, Sandakphu",
+   "drive": "",
+   "text": "Wake before dawn and walk a few minutes to the top for sunrise on Kangchenjunga's Sleeping Buddha and, far to the west, Everest, Lhotse and Makalu. After breakfast, a short walk along the ridge with your guide through fir and rhododendron, looking out for birds. A second sunset and a second chance at sunrise if the first was cloudy.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Down to Taj Chia Kutir",
+   "place": "kurseong",
+   "overnight": "Taj Chia Kutir, Kurseong",
+   "drive": "≈ 31 km by Land Rover + 60 km by car · 6–7 h",
+   "text": "One more look at the range at dawn, then the Land Rover back down to Manebhanjan, where your car waits. Drive via Sukhiapokhri and Ghum down to Kurseong, about 2.5 hours. Check in to Taj Chia Kutir and head straight for the heated pool or the spa.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Makaibari tea trails",
+   "place": "kurseong",
+   "overnight": "Taj Chia Kutir, Kurseong",
+   "drive": "Local",
+   "text": "A slow morning, then a guided walk on the tea trails of the Makaibari estate and a tasting. Afternoon free at the resort. In the evening, look back at the photographs from the ridge over dinner.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Kurseong to Bagdogra",
+   "place": "kurseong",
+   "overnight": "",
+   "drive": "≈ 50 km · 1.5–2 h",
+   "text": "After breakfast, the drive down to Bagdogra, about 1.5–2 hours, in good time for your flight.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "windamere-hotel-darjeeling",
+  "taj-chia-kutir-kurseong"
+ ],
+ "includes": [
+  "3 nights at Windamere and 2 at Taj Chia Kutir with breakfast and dinner",
+  "2 nights in the best available lodge rooms at Sandakphu with all meals",
+  "Private SUV with driver from Bagdogra and back",
+  "Reserved Land Rover Manebhanjan–Sandakphu–Manebhanjan",
+  "Private guide throughout, including on the ridge",
+  "Singalila National Park and vehicle fees, steam joy ride, Tiger Hill and museum entries"
+ ],
+ "excludes": [
+  "Flights to and from Bagdogra",
+  "Spa treatments",
+  "Lunches in Darjeeling and Kurseong",
+  "Personal warm gear",
+  "Tips"
+ ],
+ "good_to_know": [
+  "Sandakphu is 3,636 m. Sleeping above 3,000 m can cause headache, breathlessness and poor sleep; three nights in Darjeeling first help, but altitude sickness can still occur. Descend if symptoms worsen.",
+  "Talk to your doctor before the trip if you have heart, lung or blood pressure conditions or are pregnant.",
+  "Sandakphu lodges are basic, unheated and often share bathrooms; nights drop below freezing from November to March.",
+  "The ridge road crosses in and out of Nepal; foreign nationals should carry passport and visa. Check current status before you travel.",
+  "Snow can close the ridge road in winter, and the monsoon closes it in practice; we plan around both."
+ ],
+ "faqs": [
+  {
+   "q": "Can I reach Sandakphu without trekking?",
+   "a": "Yes. Reserved Land Rovers drive the 31 km ridge road from Manebhanjan via Tumling and Kalipokhri in about 3–4 hours. The road is rough and steep, so it suits most travellers with reasonable health, but not anyone with back problems. This journey uses a private Land Rover with your guide."
+  },
+  {
+   "q": "Can I see Everest from Sandakphu?",
+   "a": "Yes, on clear mornings. From the top you see Everest, Lhotse and Makalu to the west and the Kangchenjunga massif, the Sleeping Buddha, to the north. October, November and the early weeks of spring give the best chances. Two nights on top double your chance of a clear dawn."
+  },
+  {
+   "q": "What is the accommodation like at Sandakphu?",
+   "a": "Simple. Lodges and trekkers' huts have basic rooms, heavy blankets, and often shared toilets; there is no luxury hotel on the ridge. We book the best rooms available, add extra bedding and arrange meals. Hot water comes by the bucket."
+  },
+  {
+   "q": "How cold is Sandakphu?",
+   "a": "Nights are below freezing from November to March and can reach well below zero in winter; days in October and November can be pleasant in the sun. Bring a down jacket, thermals, gloves, a warm hat and a sleeping bag liner. In April and May nights are near freezing."
+  },
+  {
+   "q": "Is altitude sickness a risk on this trip?",
+   "a": "Yes, at Sandakphu. That is why we spend three nights at 2,045 m in Darjeeling first. Drink water, avoid alcohol, walk slowly, and tell your guide about headache or nausea; the answer is to descend. Talk to your doctor before booking if you have any health conditions."
+  },
+  {
+   "q": "What does this journey cost?",
+   "a": "From ₹1,10,000 per person, twin sharing, including Windamere, Taj Chia Kutir, Sandakphu lodges with meals, a private SUV, reserved Land Rover, private guide, park fees and the steam train. Flights are extra. Prices are indicative 2026."
+  },
+  {
+   "q": "Is this trip suitable for older travellers?",
+   "a": "For fit older travellers, yes, with a doctor's advice. The Land Rover ride is bumpy for several hours and Sandakphu's altitude and cold are demanding. We can drop the ridge and add Glenburn instead for a gentler week."
+  },
+  {
+   "q": "Do foreigners need permits for Sandakphu?",
+   "a": "No special permit is needed, but carry your passport and Indian visa, since the ridge road passes through Nepal for short stretches and there are checkposts. Singalila National Park fees apply. Rules can change; check current status before you travel."
+  },
+  {
+   "q": "When is the best time for Sandakphu?",
+   "a": "October and November for the clearest views, and March to April for rhododendrons, with more haze. December and January are clear but very cold, and snow can close the road. June to September is wet and cloudy, and we do not run this journey then."
+  }
+ ]
+}

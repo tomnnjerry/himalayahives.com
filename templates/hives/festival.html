@@ -1,0 +1,79 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ f.name }} · {{ f.region_obj.name }} festival dates and tips · Himalaya Hives{% endblock %}
+{% block description %}{{ f.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ f.name }}{% endblock %}
+{% block body_attrs %} data-land="{{ f.region }}"{% endblock %}
+{% block alt_from %}0{% endblock %}{% block alt_to %}{{ f.place_obj.altitude_m|default:0 }}{% endblock %}{% block alt_label %}{{ f.place_obj.name|default:"Altitude" }}{% endblock %}
+{% block fab_label %}Plan around {{ f.name|truncatechars:22 }}{% endblock %}{% block fab_land %}&land={{ f.region }}{% endblock %}
+{% block og_image %}{% with img=f|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=f.region cta_title="Plan a trip around "|add:f.name %}{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo f.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Festival · {% if f.place_obj %}{{ f.place_obj.name }}, {% endif %}{{ f.region_obj.name }}</p>
+      <h1 class="d-1">{{ f.name }}</h1>
+      <p class="answer">{{ f.summary }}</p>
+      <dl class="phead__meta">
+        <div><dt>When</dt><dd>{{ f.when }}</dd></div>
+        {% if f.place_obj %}<div><dt>Where</dt><dd>{{ f.place_obj.name }}{% if f.place_obj.alt_label %} · {{ f.place_obj.alt_label }}{% endif %}</dd></div>{% endif %}
+      </dl>
+    </div>
+    <div class="phead__photo">{% with img=f|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ img.description|default:f.name|truncatechars:120 }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline f.slug 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <div class="prose">{% for para in f.body %}<p>{{ para }}</p>{% endfor %}</div>
+      {% if f.tips %}<div class="panel panel--wax" style="margin-top:30px"><h2>Tips for the day</h2><div class="prose" style="font-size:16.5px"><ul>{% for t in f.tips %}<li>{{ t }}</li>{% endfor %}</ul></div></div>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>Dates</h2>
+        <p style="font-size:16.5px;margin:0 0 16px">{{ f.when }}</p>
+        {% include "hives/partials/mbar.html" with bar=bar label=f.when %}
+        <p class="small muted" style="margin:14px 0 0">Festival dates move with the lunar calendar and local announcements. Check current status before you travel.</p>
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="fest" qf_land=f.region qf_title="Get this year's dates" qf_message="Festival: "|add:f.name %}
+    </aside>
+  </div>
+</section>
+
+{% if f.place_obj %}<section class="sec sec--paper2">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Where it happens</p><h2 class="d-2" style="margin-bottom:16px">{{ f.place_obj.name }}</h2>
+      <p class="prose">{{ f.place_obj.summary }}</p>
+      {% if f.place_obj.stay_objs %}<p class="eyebrow" style="margin-top:28px">Stay nearby</p><div class="grid grid--2">{% for s in f.place_obj.stay_objs|slice:":2" %}{% include "hives/partials/card_stay.html" %}{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="split__aside"><div class="panel panel--line"><h3>{{ f.place_obj.name }} at a glance</h3>
+      <div class="ledger">{% for k, v in f.place_obj.facts|slice:":5" %}<div class="ledger__row"><span>{{ k }}</span><span class="ledger__dots"></span><b>{{ v }}</b></div>{% endfor %}</div>
+      <a class="link" style="margin-top:14px" href="{{ f.place_obj.url }}">The {{ f.place_obj.name }} guide {% icon "arrow" %}</a></div></aside>
+  </div>
+</section>{% endif %}
+
+{% if journeys %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Festival trips</p><h2 class="d-1">Trips timed for the dates</h2></div></div>
+    <div class="grid grid--3">{% for j in journeys %}{% include "hives/partials/card_journey.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if f.faqs %}<section class="sec{% if not journeys %} sec--paper2{% endif %}">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">About {{ f.name }}</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=f.faqs open_first=True %}
+  </div>
+</section>{% endif %}
+
+{% if f.region_obj.festivals|length > 1 %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">More in {{ f.region_obj.name }}</p><h2 class="d-1">Other festivals</h2></div><a class="link" href="{% url 'festivals' %}">Festival calendar {% icon "arrow" %}</a></div>
+    <div class="toc">{% for x in f.region_obj.festivals %}{% if x.slug != f.slug %}<a class="toc__row" href="{{ x.url }}"><span class="hbadge hbadge--sm">{% icon "festival" %}</span><span><b>{{ x.name }}</b><small>{{ x.when }}</small></span><span></span>{% icon "arrow" %}</a>{% endif %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

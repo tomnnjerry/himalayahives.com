@@ -1,0 +1,190 @@
+{
+ "slug": "kashmir-comfort-autumn-saffron-chinar-6n",
+ "title": "Kashmir in autumn: saffron, chinars and Aru",
+ "region": "kashmir",
+ "tier": "comfort",
+ "nights": 6,
+ "themes": [
+  "photography",
+  "wildlife-and-birds",
+  "food-and-tea",
+  "treks-and-walks"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 3
+  },
+  {
+   "place": "pahalgam",
+   "nights": 2
+  },
+  {
+   "place": "aru-valley",
+   "nights": 1
+  }
+ ],
+ "start": "Srinagar airport",
+ "end": "Srinagar airport",
+ "price_from_inr": 39000,
+ "price_note": "Per person, twin sharing: 6 nights with breakfast and dinner at Ahdoos, The Pahalgam Hotel and a simple Aru guesthouse, private car, union taxi, Dachigam permit and guide; flights extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Kashmir autumn trip, 6 nights: chinars turning red, saffron flowering at Pampore, hangul in Dachigam and a night in Aru, private car, from ₹39,000 per person.",
+ "summary": "Six nights timed for late October and early November, when chinar leaves turn red, Pampore's saffron flowers, and hangul deer are on the move in Dachigam. Three nights in Srinagar, two on the Lidder at Pahalgam and one quiet night in Aru, with a private car throughout.",
+ "intro": [
+  "Autumn is Kashmir's clearest season. Skies are dry, nights are cold, and for a few weeks from late October the chinar trees in the Mughal gardens and along the Jhelum turn copper and red. In the same weeks, the saffron crocus flowers on the karewa plateaus around Pampore, and families pick the blooms at dawn. Kashmir saffron carries a Geographical Indication tag, and this is the only time you can see it harvested.",
+  "We base three nights in Srinagar for chinars, a morning in Dachigam National Park with a permit and guide, and a meadow day at Doodhpathri. Then Pampore at dawn on the way to Pahalgam, two nights by the Lidder, and a last night in Aru, where most visitors only stay an hour. Aru guesthouses are simple; we choose one with heating."
+ ],
+ "highlights": [
+  "Chinars turning red at Nishat, Shalimar and Char Chinari",
+  "Saffron picking at dawn on the Pampore karewas",
+  "A guided morning in Dachigam, home of the hangul",
+  "Doodhpathri's meadows and the Shaliganga river",
+  "A quiet night in Aru after the day visitors leave"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive in Srinagar, chinars by boat",
+   "place": "srinagar",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 14 km · 30–40 min",
+   "text": "Your driver meets you at the airport and takes you to Ahdoos on Residency Road. After lunch, take a shikara from Dal Gate to Char Chinari, the small island in the lake named after its chinar trees, and on past the houseboats as the light drops. Evenings are cold from late October, often near 0 °C by November, so bring a warm jacket. Dinner at the hotel's Kashmiri restaurant.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Dachigam morning, gardens afternoon",
+   "place": "dachigam",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 50 km round trip",
+   "text": "Dachigam National Park, 22 km from Srinagar, protects the hangul, the Kashmir stag, one of the region's rarest animals. Autumn is the rut, when stags call in the forest. With the permit from the Wildlife Department and a park guide, walk the lower park from early morning; Himalayan black bears feed on fruit and acorns at this season too. In the afternoon, walk Nishat and Shalimar under their chinars, and stay for sunset.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Day trip to Doodhpathri",
+   "place": "doodhpathri",
+   "overnight": "Ahdoos Hotel, Srinagar",
+   "drive": "≈ 85 km round trip · 4 h driving",
+   "text": "Drive south-west through Budgam district to Doodhpathri at about 2,730 m, a set of open meadows above the Shaliganga river, used by herding families in summer. By October most herders have moved down and the grass turns gold. Walk along the river and up to the forest edge for views back over the valley. Carry a packed lunch; stalls close as the season ends. Back in Srinagar by late afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Pampore saffron at dawn, on to Pahalgam",
+   "place": "pampore",
+   "overnight": "The Pahalgam Hotel",
+   "drive": "≈ 100 km · 3 h 30 min with stops",
+   "text": "Leave Srinagar at 6.30 am for Pampore, 15 km away. In the flowering weeks, roughly late October to mid-November, families pick the violet blooms before the sun opens them, then separate the red stigmas by hand at home. Buy sealed packs with a GI label from a known shop. Stop at Avantipora's 9th-century temple ruins, then continue up the Lidder valley to Pahalgam. Afternoon walk on the river path.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Betaab Valley and Chandanwari",
+   "place": "pahalgam",
+   "overnight": "The Pahalgam Hotel",
+   "drive": "≈ 35 km round trip by union taxi",
+   "text": "Take a Pahalgam union taxi, as local rules require, up the East Lidder to Betaab Valley and on to Chandanwari, 16 km from town, where the Amarnath route begins. In autumn the yatra crowds are gone and the road is quiet; early snow can close the upper stretch from November, so check current status before you travel. Afternoon free: walk among the pines behind the hotel or read on its lawns above the river.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Up the West Lidder to Aru",
+   "place": "aru-valley",
+   "overnight": "Simple guesthouse, Aru",
+   "drive": "≈ 12 km · 40 min by union taxi",
+   "text": "Move up to Aru, 12 km away at about 2,414 m. Walk 2–3 hours up the valley towards Lidderwat with a local guide, through meadows where Gujjar and Bakarwal herders camp in summer, and turn back when you choose. In the evening the village goes quiet, with smoke from the houses and stars overhead. Rooms are simple; we pick a guesthouse with heating. Some close by mid-November, in which case we keep this night in Pahalgam.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Aru to Srinagar airport",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 110 km · 3 h 30 min",
+   "text": "Walk to the edge of Aru at sunrise for the light on the peaks, then take the union taxi down to Pahalgam, where your car waits, and drive to Srinagar airport. If time allows, stop at Bijbehara, a town on the Jhelum known for its old chinar groves. Allow two hours at the airport for security checks.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "ahdoos-hotel-srinagar",
+  "pahalgam-hotel"
+ ],
+ "includes": [
+  "6 nights twin sharing with breakfast and dinner",
+  "Private car with driver for all transfers and day trips",
+  "Pahalgam union taxi for Betaab Valley, Chandanwari and Aru",
+  "Dachigam National Park permit and park guide for one morning",
+  "Shikara to Char Chinari and a guide for the Aru walk"
+ ],
+ "excludes": [
+  "Flights to and from Srinagar",
+  "Lunches",
+  "Saffron and shopping",
+  "Garden entry fees",
+  "Tips for drivers, guides and boatmen"
+ ],
+ "good_to_know": [
+  "All nights are below 2,500 m; altitude is not a concern for healthy travellers.",
+  "Nights from late October drop near or below 0 °C; pack thermals, a down jacket, a hat and gloves.",
+  "Saffron flowering varies by a week or two with the weather; we fix Pampore once local growers confirm.",
+  "Dachigam needs a permit from the Wildlife Department in Srinagar; wildlife sightings are never guaranteed.",
+  "Prepaid SIM cards from outside Jammu and Kashmir usually do not work; bring a postpaid connection.",
+  "Early snow can close roads above Pahalgam in November; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "When exactly does saffron flower in Pampore?",
+   "a": "Usually from the last week of October to the middle of November, with the peak for about two weeks. The exact dates move with temperature and rain. Flowers are picked early in the morning, so plan Pampore at dawn. We fix the day once growers in the area confirm the bloom has started."
+  },
+  {
+   "q": "When do chinar leaves turn red in Srinagar?",
+   "a": "From about late October, and the colour holds through mid-November in most years, earlier at higher places. Nishat, Shalimar, Naseem Bagh and the Jhelum banks have the best trees. A spell of wind or rain can strip leaves quickly, so the first half of November is a good compromise for both chinars and saffron."
+  },
+  {
+   "q": "Will we see a hangul in Dachigam?",
+   "a": "Possibly, but nothing is guaranteed. The hangul is rare and shy, and autumn is the rut, when stags call and are more active in the lower forest. A park guide improves your chances. Himalayan black bears feeding on fruit and acorns are also seen in autumn. Go early and walk quietly."
+  },
+  {
+   "q": "Do we need a permit for Dachigam?",
+   "a": "Yes. Entry needs a permit from the Wildlife Department in Srinagar, and access is controlled. We arrange the permit and a park guide as part of the trip. Foreign nationals may face different rules. Opening arrangements can change, so check current status before you travel."
+  },
+  {
+   "q": "How cold is Kashmir in early November?",
+   "a": "Srinagar days are about 12–16 °C and nights drop to around 0 °C. Pahalgam and Aru are colder, often below freezing at night. Hotels have heaters, but you will want thermals, a down jacket, warm socks, a hat and gloves for mornings. Days are dry and clear, which is the season's great advantage."
+  },
+  {
+   "q": "Is the Aru guesthouse comfortable?",
+   "a": "It is simple: a clean room, heating, hot water and home-style Kashmiri food. It is not at the level of The Pahalgam Hotel. If you prefer, we can keep all three nights in Pahalgam and visit Aru by day. Some Aru guesthouses close by mid-November, in which case we do that anyway."
+  },
+  {
+   "q": "Can we buy genuine Kashmir saffron in Pampore?",
+   "a": "Yes. Buy sealed packs with the Kashmir saffron GI label, ideally from established shops or growers' outlets rather than roadside sellers with loose saffron. Real saffron threads are deep red with slightly lighter tips and colour water slowly. Prices are high; expect several hundred rupees per gram."
+  },
+  {
+   "q": "Is this trip suitable for photographers?",
+   "a": "Yes. Autumn light is clear and low, mornings bring mist over Dal Lake, and chinars, saffron fields and golden meadows give strong colour. We build in dawn starts at Pampore and Aru and keep afternoons slow. Drones need permission and are restricted in many areas; do not fly them without checking."
+  },
+  {
+   "q": "Is altitude a problem on this trip?",
+   "a": "No for healthy travellers. You sleep at 1,585 m in Srinagar, 2,200 m in Pahalgam and about 2,414 m in Aru, and Doodhpathri is a day visit near 2,730 m. Cold is the bigger factor than altitude. If you have heart or lung conditions, talk to your doctor before travelling in cold weather."
+  }
+ ]
+}

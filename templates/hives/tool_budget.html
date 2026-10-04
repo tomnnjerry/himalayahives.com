@@ -1,0 +1,181 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Budget builder · what a Himalaya trip costs by hive and tier · Himalaya Hives{% endblock %}
+{% block description %}Estimate a Himalaya trip budget: choose a hive, Saver, Comfort or Signature, the nights and the travellers for an indicative 2026 range in rupees.{% endblock %}
+{% block og_title %}Himalaya budget builder{% endblock %}
+{% block head_extra %}<style>
+.bb { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: clamp(24px, 4vw, 56px); align-items: start; }
+.bb__form { background: var(--card); padding: clamp(20px, 3vw, 32px); clip-path: var(--chamfer); }
+.bb__form fieldset { border: 0; padding: 0; margin: 0 0 18px; }
+.bb__tiers { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.bb__tiers label { display: grid; gap: 4px; padding: 12px; border: 1.5px solid var(--rule-2); background: var(--paper); cursor: pointer; text-transform: none; letter-spacing: 0; font: 600 16px/1.2 var(--text); color: var(--ink); }
+.bb__tiers label small { font: 400 11px/1.3 var(--mono); color: var(--muted); }
+.bb__tiers label:has(input:checked) { border-color: var(--ink); background: var(--wax); }
+.bb__tiers input { position: absolute; opacity: 0; pointer-events: none; }
+.bb__tiers label:focus-within { outline: 3px solid var(--honey); outline-offset: 2px; }
+.bb__step { display: grid; grid-template-columns: 48px minmax(0, 1fr) 48px; }
+.bb__step button { border: 1.5px solid var(--rule-2); background: var(--paper-2); font: 600 20px/1 var(--mono); cursor: pointer; }
+.bb__step input { text-align: center; border-left: 0 !important; border-right: 0 !important; font: 600 18px/1 var(--mono) !important; }
+.bb__out { position: sticky; top: 100px; }
+.bb__total { font: 400 clamp(40px, 5vw, 64px)/1 var(--display); margin: 10px 0 4px; }
+.bb__sub { font: 500 13px/1.5 var(--mono); color: rgba(255,255,255,.75); }
+.bb__out .ledger__row { border-color: rgba(255,255,255,.16); }
+.bb__out .ledger__dots { border-color: rgba(255,255,255,.25); }
+.bb__out .ledger__row > span:first-child { color: rgba(255,255,255,.72); }
+@media (max-width: 980px) { .bb { grid-template-columns: 1fr; } .bb__out { position: static; } }
+@media (max-width: 420px) { .bb__tiers { grid-template-columns: 1fr; } }
+</style>{% endblock %}
+{% block content %}
+<header class="phead phead--plain ground">
+  {% topo "budget-builder" "topo--honey" %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Trip tools · budget builder</p>
+      <h1 class="d-1">What will the trip cost</h1>
+      <p class="lede">Choose a hive, a tier, the nights and the travellers. We multiply our per-person day costs for that hive into a range you can plan around.</p>
+    </div>
+  </div>
+  {% ridgeline "budget-builder" 4 %}
+</header>
+
+<section class="sec sec--tight">
+  <div class="wrap bb">
+    <form class="bb__form" data-bb onsubmit="return false" aria-label="Budget builder">
+      <div class="field"><label for="bb-land">Hive</label>
+        <select id="bb-land" name="land" data-bb-land>{% for r in regions %}<option value="{{ r.slug }}"{% for b in r.budget_rows %} data-{{ b.tier }}="{{ b.per_day_inr }}" data-{{ b.tier }}-covers="{{ b.covers }}"{% endfor %}{% for t, v in r.tier_from.items %}{% if v %} data-{{ t }}-from="{{ v }}"{% endif %}{% endfor %} data-tip="{{ r.money_savers.0|default:'' }}">{{ r.name }}</option>{% endfor %}</select></div>
+      <fieldset class="field"><legend>Tier</legend>
+        <div class="bb__tiers">
+          <label><input type="radio" name="tier" value="saver" checked>Saver<small>Bus, jeep, homestay</small></label>
+          <label><input type="radio" name="tier" value="comfort">Comfort<small>Car, good hotels</small></label>
+          <label><input type="radio" name="tier" value="signature">Signature<small>Best lodges, guide</small></label>
+        </div>
+      </fieldset>
+      <div class="field"><label for="bb-nights">Nights in the hive</label>
+        <div class="bb__step"><button type="button" data-step="nights" data-d="-1" aria-label="One night fewer">−</button><input id="bb-nights" name="nights" type="number" min="1" max="30" value="7" inputmode="numeric" data-bb-nights><button type="button" data-step="nights" data-d="1" aria-label="One night more">+</button></div></div>
+      <div class="field"><label for="bb-trav">Travellers</label>
+        <div class="bb__step"><button type="button" data-step="trav" data-d="-1" aria-label="One traveller fewer">−</button><input id="bb-trav" name="travellers" type="number" min="1" max="20" value="2" inputmode="numeric" data-bb-trav><button type="button" data-step="trav" data-d="1" aria-label="One traveller more">+</button></div></div>
+      <p class="small muted" style="margin:0">Day costs cover a bed, food and getting around once you are in the hive. They do not cover travel to the start point, flights, permits, insurance, tips or shopping.</p>
+    </form>
+
+    <div class="bb__out" aria-live="polite">
+      <div class="panel ground" data-bb-panel style="background:var(--grad);color:#F4EEE2;clip-path:var(--chamfer);padding:clamp(22px,3vw,34px)">
+        <p class="eyebrow" data-bb-eyebrow>Indicative 2026</p>
+        <p class="bb__sub" style="margin:0">Whole group, <span data-bb-summary>7 nights</span></p>
+        <p class="bb__total" data-bb-total>—</p>
+        <p class="bb__sub" data-bb-pp>Per person —</p>
+        <div class="ledger" style="margin-top:18px">
+          <div class="ledger__row"><span>Day cost per person</span><span class="ledger__dots"></span><b data-bb-day>—</b></div>
+          <div class="ledger__row"><span>Nights</span><span class="ledger__dots"></span><b data-bb-n>—</b></div>
+          <div class="ledger__row"><span>Travellers</span><span class="ledger__dots"></span><b data-bb-t>—</b></div>
+          <div class="ledger__row" data-bb-fromrow hidden><span data-bb-fromlabel>Our trips here from</span><span class="ledger__dots"></span><b data-bb-from>—</b></div>
+        </div>
+        <p class="small" style="margin:16px 0 0;opacity:.85" data-bb-covers></p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-bb-cta data-cta="budget-builder-plan">Get an itemised quote</a></div>
+      </div>
+      <div class="panel panel--wax" style="margin-top:18px">
+        <h3 style="font-size:20px;margin-bottom:8px">This is an indicative range, not a quote</h3>
+        <p class="small" style="margin:0">It multiplies our 2026 per-person day costs for the hive by your nights and travellers. Real prices move with dates, rooms, festivals and fuel, and solo travellers pay more for rooms. A planner sends a written, itemised quote before you pay anything.</p>
+      </div>
+      <div class="panel panel--line" style="margin-top:18px" data-bb-tipbox hidden><p class="eyebrow" style="color:var(--hink)">One way to spend less</p><p style="margin:0;font-size:16px" data-bb-tip></p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The numbers behind it</p><h2 class="d-1">Per-day costs in every hive</h2><p class="lede">Per person, per day, indicative 2026, once you are in the hive.</p></div>
+      <a class="link" href="{% url 'affordable' %}">The affordable Himalaya {% icon "arrow" %}</a></div>
+    <div class="tablewrap"><table class="table">
+      <thead><tr><th scope="col">Hive</th><th scope="col">Saver</th><th scope="col">Comfort</th><th scope="col">Signature</th></tr></thead>
+      <tbody>{% for r in regions %}<tr><td><a href="{{ r.url }}#budget" style="font-weight:600">{{ r.name }}</a></td>
+        <td class="mono">{% for b in r.budget_rows %}{% if b.tier == "saver" %}₹{{ b.per_day_inr }}{% endif %}{% empty %}<span class="muted">—</span>{% endfor %}</td>
+        <td class="mono">{% for b in r.budget_rows %}{% if b.tier == "comfort" %}₹{{ b.per_day_inr }}{% endif %}{% empty %}<span class="muted">—</span>{% endfor %}</td>
+        <td class="mono">{% for b in r.budget_rows %}{% if b.tier == "signature" %}₹{{ b.per_day_inr }}{% endif %}{% empty %}<span class="muted">—</span>{% endfor %}</td></tr>{% endfor %}</tbody>
+    </table></div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  "use strict";
+  var form = document.querySelector("[data-bb]");
+  if (!form) return;
+  var PLAN = "{% url 'plan' %}", FROM = "{{ request.path|urlencode }}";
+  var TIER = { saver: "Saver", comfort: "Comfort", signature: "Signature" };
+  var land = form.querySelector("[data-bb-land]"), nightsEl = form.querySelector("[data-bb-nights]"), travEl = form.querySelector("[data-bb-trav]");
+  var $ = function (s) { return document.querySelector(s); };
+
+  function inr(n) {
+    n = Math.round(n);
+    var s = String(n), last3 = s.slice(-3), rest = s.slice(0, -3);
+    if (rest) last3 = "," + last3;
+    return "₹" + rest.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + last3;
+  }
+  function round(n) { return n >= 100000 ? Math.round(n / 1000) * 1000 : Math.round(n / 100) * 100; }
+  /* "2,000–3,500", "25,000–60,000+", "60,000–1,50,000" -> {lo, hi, open} */
+  function parse(str) {
+    if (!str) return null;
+    var open = /\+\s*$/.test(str);
+    var nums = String(str).replace(/,/g, "").match(/\d+(\.\d+)?/g);
+    if (!nums) return null;
+    var lo = parseFloat(nums[0]), hi = nums.length > 1 ? parseFloat(nums[1]) : lo;
+    if (hi < lo) { var t = lo; lo = hi; hi = t; }
+    return { lo: lo, hi: hi, open: open };
+  }
+  function clamp(v, a, b) { v = parseInt(v, 10); if (isNaN(v)) v = a; return Math.min(b, Math.max(a, v)); }
+  function tier() { var c = form.querySelector("input[name=tier]:checked"); return c ? c.value : "saver"; }
+
+  function render() {
+    var opt = land.options[land.selectedIndex], t = tier();
+    var n = clamp(nightsEl.value, 1, 30), p = clamp(travEl.value, 1, 20);
+    var name = opt.text, r = parse(opt.getAttribute("data-" + t));
+    $("[data-bb-summary]").textContent = n + " night" + (n > 1 ? "s" : "") + ", " + p + " traveller" + (p > 1 ? "s" : "");
+    $("[data-bb-eyebrow]").textContent = name + " · " + TIER[t] + " · indicative 2026";
+    $("[data-bb-n]").textContent = n;
+    $("[data-bb-t]").textContent = p;
+    var cta = $("[data-bb-cta]");
+    if (!r) {
+      $("[data-bb-total]").textContent = "Ask us";
+      $("[data-bb-pp]").textContent = "We have not published " + TIER[t] + " day costs for " + name + " yet.";
+      $("[data-bb-day]").textContent = "—";
+    } else {
+      var plo = round(r.lo * n), phi = round(r.hi * n);
+      var plus = r.open ? "+" : "";
+      $("[data-bb-day]").textContent = inr(r.lo) + (r.hi !== r.lo ? "–" + inr(r.hi).slice(1) : "") + plus;
+      $("[data-bb-pp]").textContent = "Per person " + inr(plo) + (phi !== plo ? "–" + inr(phi).slice(1) : "") + plus;
+      var glo = round(r.lo * n * p), ghi = round(r.hi * n * p);
+      $("[data-bb-total]").textContent = inr(glo) + (ghi !== glo ? "–" + inr(ghi).slice(1) : "") + plus;
+    }
+    var covers = opt.getAttribute("data-" + t + "-covers");
+    $("[data-bb-covers]").textContent = covers ? "A " + TIER[t] + " day here covers: " + covers.charAt(0).toLowerCase() + covers.slice(1) + "." : "";
+    var from = parseInt(opt.getAttribute("data-" + t + "-from"), 10), fromRow = $("[data-bb-fromrow]");
+    if (from) { fromRow.hidden = false; $("[data-bb-fromlabel]").textContent = "Our " + TIER[t] + " trips here from"; $("[data-bb-from]").textContent = inr(from) + " pp"; }
+    else fromRow.hidden = true;
+    var tip = opt.getAttribute("data-tip"), tipBox = $("[data-bb-tipbox]");
+    tipBox.hidden = !(tip && t === "saver");
+    $("[data-bb-tip]").textContent = tip || "";
+    var msg = "Budget builder: " + name + ", " + TIER[t] + ", " + n + " nights, " + p + " travellers, estimate " + $("[data-bb-total]").textContent;
+    cta.href = PLAN + "?land=" + encodeURIComponent(land.value) + "&journey=" + encodeURIComponent(msg) + "&from=" + FROM;
+    cta.textContent = "Get an itemised " + name + " quote";
+    try { var q = new URLSearchParams({ land: land.value, tier: t, nights: n, travellers: p }); history.replaceState(null, "", location.pathname + "?" + q.toString()); } catch (e) {}
+  }
+
+  var q = new URLSearchParams(location.search);
+  if (q.get("land")) land.value = q.get("land");
+  if (land.selectedIndex < 0) land.selectedIndex = 0;
+  if (q.get("tier")) { var tr = form.querySelector("input[name=tier][value='" + q.get("tier").replace(/[^a-z]/g, "") + "']"); if (tr) tr.checked = true; }
+  if (q.get("nights")) nightsEl.value = clamp(q.get("nights"), 1, 30);
+  if (q.get("travellers")) travEl.value = clamp(q.get("travellers"), 1, 20);
+
+  form.addEventListener("input", render);
+  form.addEventListener("change", function () { nightsEl.value = clamp(nightsEl.value, 1, 30); travEl.value = clamp(travEl.value, 1, 20); render(); });
+  form.addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-step]"); if (!b) return;
+    var inp = b.dataset.step === "nights" ? nightsEl : travEl, max = b.dataset.step === "nights" ? 30 : 20;
+    inp.value = clamp((parseInt(inp.value, 10) || 0) + parseInt(b.dataset.d, 10), 1, max); render();
+  });
+  render();
+})();
+</script>
+{% endblock %}

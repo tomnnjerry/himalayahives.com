@@ -1,0 +1,184 @@
+{
+ "slug": "kumaon-signature-kasar-devi-binsar-6n",
+ "title": "Kasar Devi and Binsar, slow and private",
+ "region": "kumaon",
+ "tier": "signature",
+ "nights": 6,
+ "themes": [
+  "treks-and-walks",
+  "wildlife-and-birds",
+  "honeymoons",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "almora",
+   "nights": 3
+  },
+  {
+   "place": "binsar",
+   "nights": 3
+  }
+ ],
+ "start": "Kathgodam railway station or Pantnagar Airport",
+ "end": "Kathgodam railway station or Pantnagar Airport",
+ "price_from_inr": 135000,
+ "price_note": "Per person, twin sharing: 3 nights at The Kumaon and 3 at Mary Budden Estate with meals as listed, private car and driver throughout, private guide on four days, Binsar fees; trains or flights extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Unhurried",
+ "meta_description": "6 nights in Kumaon at The Kumaon, Kasar Devi and Mary Budden Estate, Binsar: forest walks, Jageshwar, Himalayan sunrises, private car and guide. From ₹1,35,000.",
+ "summary": "Six quiet nights in two of Kumaon's best small hotels: The Kumaon on its terraced slope at Kasar Devi, and Mary Budden Estate, a restored 19th-century house inside Binsar sanctuary. Private car, a private guide for walks and temples, and long views of the high Himalaya from both.",
+ "intro": [
+  "This is a trip for people who want to stay put. We do not chase sights. Three nights at Kasar Devi give you the old Chand capital of Almora, the ridge where writers and seekers lived from the 1930s, and a day among the stone temples of Jageshwar. Three nights inside Binsar give you oak forest, birds, and sunrise from Zero Point on a ridge that the Chand kings used as a summer retreat.",
+  "Both hotels are small and both face the snow peaks. The Kumaon's chalets of local stone and bamboo-clad timber are spread down a terraced hillside; Mary Budden Estate is a restored colonial-era house on about five acres of forest, run on solar power and harvested rainwater. Drives are short, under four hours on the longest day, and every night sleeps below 2,500 m."
+ ],
+ "highlights": [
+  "Three nights at The Kumaon facing Trishul and Nanda Devi",
+  "A walk along Crank's Ridge and up to the Kasar Devi temple",
+  "A private guided day at the Jageshwar temple group",
+  "Three nights inside Binsar sanctuary at Mary Budden Estate",
+  "Sunrise from Zero Point over a 300 km line of peaks"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Kathgodam to Kasar Devi",
+   "place": "almora",
+   "overnight": "The Kumaon, Kasar Devi",
+   "drive": "≈ 100 km · 3.5 h",
+   "text": "Your driver meets the morning Shatabdi at Kathgodam or your flight at Pantnagar. The road climbs past Bhowali and Kainchi, then follows the Kosi river through pine before rising to Almora's ridge and on through deodar to Kasar Devi. Lunch at the hotel, then rest on your terrace. If the evening is clear, the peaks to the north turn pink at sunset; the hotel's terraces are laid out to face them.",
+   "meals": "Lunch, Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Kasar Devi temple and Crank's Ridge",
+   "place": "almora",
+   "overnight": "The Kumaon, Kasar Devi",
+   "drive": "",
+   "text": "Walk with your guide up the stone steps to the Kasar Devi temple on its rocky summit, where Swami Vivekananda meditated in the 1890s. Then follow Crank's Ridge, the lane where the Danish seeker Sunyata, Lama Anagarika Govinda and, later, Beat-era travellers lived. In the afternoon, an easy walk through the village below the hotel to see terraced fields, naulas and slate-roofed houses. Evening free.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "A day at Jageshwar",
+   "place": "jageshwar",
+   "overnight": "The Kumaon, Kasar Devi",
+   "drive": "≈ 45 km · 1.5 h each way",
+   "text": "Drive east through Artola to Jageshwar, where about 125 stone temples stand in a deodar valley. Your guide explains the Nagara towers, the Mahamrityunjaya and Jageshwar shrines, and the bronze and stone figures in the Archaeological Survey of India museum. Walk up to Dandeshwar and, if you have energy, the path towards Vriddh Jageshwar for a view back down the valley. Lunch at a simple local place, back by late afternoon.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Almora bazaar, then into Binsar",
+   "place": "binsar",
+   "overnight": "Mary Budden Estate, Binsar",
+   "drive": "≈ 40 km · 1.5 h",
+   "text": "A late morning in Almora's Lal Bazaar with your guide: stone-paved lanes, carved wooden shopfronts, the Nanda Devi temple built by the Chand kings, copperware workshops and a stop for bal mithai at its home. After lunch, drive north on the Bageshwar road and into Binsar sanctuary. The estate sits in oak and rhododendron forest near the top of the ridge. Tea on the lawn, then a short walk with the estate's guide.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Zero Point at sunrise",
+   "place": "binsar",
+   "overnight": "Mary Budden Estate, Binsar",
+   "drive": "",
+   "text": "Walk up through the forest before dawn to Zero Point, the watchtower on Jhandi Dhar. On a clear morning the line of peaks runs from Kedarnath and Chaukhamba through Trishul and Nanda Devi to Panchachuli. Walk back slowly for breakfast, watching for kalij pheasant and laughingthrushes. The afternoon is yours: read, sleep, or take a gentle walk on old bridle paths with a guide who knows the forest.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Forest villages and the museum",
+   "place": "binsar",
+   "overnight": "Mary Budden Estate, Binsar",
+   "drive": "",
+   "text": "A longer guided walk down from the ridge to the villages on the sanctuary's edge, where families grow mandua, wheat and vegetables on terraces and keep cattle in stone byres. Lunch in the field or back at the estate. In the late afternoon, visit the small sanctuary museum on Binsar's plants, birds and mammals, then watch the light fade over the valleys from the estate. Dinner by the fire; nights are cold from November to February.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Binsar to Kathgodam",
+   "place": "binsar",
+   "overnight": "",
+   "drive": "≈ 120 km · 4 h",
+   "text": "A last slow breakfast with the view, then the drive out via Almora and the Kosi valley to Kathgodam for the afternoon Shatabdi, or to Pantnagar for an evening flight. If you have time, stop at Kainchi Dham, the ashram of Neem Karoli Baba, though expect crowds on weekends and on 15 June.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "the-kumaon",
+  "mary-budden-estate"
+ ],
+ "includes": [
+  "3 nights at The Kumaon and 3 nights at Mary Budden Estate, twin sharing",
+  "Meals as listed",
+  "Private car with driver for all transfers and day trips",
+  "Private English- or Hindi-speaking guide on days 2 to 6",
+  "Binsar sanctuary entry and vehicle fees for Indian nationals"
+ ],
+ "excludes": [
+  "Trains or flights to Kathgodam or Pantnagar",
+  "Foreign-national sanctuary fees",
+  "Drinks, spa treatments and personal shopping",
+  "Temple donations and tips"
+ ],
+ "good_to_know": [
+  "Both hotels have few rooms and fill early for October, November and New Year; book three to four months ahead.",
+  "Every night is below 2,500 m, so altitude is not a concern for healthy travellers.",
+  "Power inside Binsar is limited and mobile signal is weak; plan to be offline for three days.",
+  "Leopards live in the sanctuary; walk with a guide at dawn and dusk and not alone after dark.",
+  "Hotel names and operations can change; we confirm both stays when you book. Check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "Why only two hotels in six nights?",
+   "a": "Because the drive is the tiring part of Kumaon. Staying three nights in each place means you unpack twice, walk more and sit in a car less. The Kumaon and Mary Budden Estate are both in quiet spots with views, so the time in between sights is part of the trip, not wasted."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. Both hotels are small, quiet and private, with few other guests and views of the snow peaks from rooms and terraces. There are no crowds, no nightlife and limited mobile signal in Binsar. Couples who want shopping or a busy Mall should add a night in Nainital instead."
+  },
+  {
+   "q": "When is the best time for this trip?",
+   "a": "October to December gives the clearest views of the peaks and dry trails. March and April bring red rhododendron flowers and bird song. January and February are cold but clear, with occasional snow at Binsar. We do not run it in July and August, when rain hides the views and roads slip."
+  },
+  {
+   "q": "How do we reach Kathgodam from Delhi?",
+   "a": "The New Delhi–Kathgodam Shatabdi takes about six hours by day; the overnight Ranikhet Express arrives early morning. Pantnagar Airport, about 100 km from Kasar Devi, has limited flights from Delhi. Our driver can meet either. Check current status before you travel, as timings change."
+  },
+  {
+   "q": "How fit do we need to be?",
+   "a": "Moderately. The walks are on paths and old bridle tracks of 3–8 km, with some climbs. The Zero Point walk from the estate is short but uphill in the dark. Every walk can be shortened, and the car can reach most trailheads if knees are a concern."
+  },
+  {
+   "q": "Is food included and what is it like?",
+   "a": "Most meals are included as listed. Both hotels cook home-style Indian and continental food, often with Kumaoni dishes such as bhatt ki churkani or mandua roti if you ask. Tell us about any diet needs when you book so we can pass them on early."
+  },
+  {
+   "q": "Can we add Nainital or Mukteshwar?",
+   "a": "Yes. Two nights at the start in Nainital or at Te Aroha in Dhanachuli near Mukteshwar fit well, since both are on the way from Kathgodam. Our 8-night signature trip covers Nainital, Mukteshwar, Binsar and Kasar Devi together."
+  },
+  {
+   "q": "Is there mobile network at Binsar?",
+   "a": "Barely. Signal inside the sanctuary is weak or absent at many points, and power is solar with limits on heavy appliances. Tell family you will be mostly offline for three days. Almora and Kasar Devi have usable Jio and Airtel coverage."
+  },
+  {
+   "q": "Can seniors do this trip?",
+   "a": "Yes, with care. Drives are short and both hotels are below 2,500 m. Some rooms at The Kumaon involve steps on the slope, and paths at Binsar are uneven. Tell us about mobility needs so we can request suitable rooms. Talk to your doctor if you have heart conditions."
+  }
+ ]
+}

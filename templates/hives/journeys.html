@@ -1,0 +1,74 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya trips · {{ journeys|length }} routes in Saver, Comfort and Signature · Himalaya Hives{% endblock %}
+{% block description %}Every Himalaya Hives trip in one list: filter by hive, price tier, length and travel style. Indicative 2026 prices per person, with sleeping altitude for each trip.{% endblock %}
+{% block og_title %}Every Himalaya Hives trip{% endblock %}
+{% block head_extra %}<style>
+.flt { display: grid; gap: 12px; width: 100%; }
+.flt__row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.flt__row label { font: 500 11px/1 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.flt select { max-width: 100%; }
+@media (max-width: 760px) { .flt__row { flex-direction: column; align-items: stretch; } .flt select { width: 100%; } .filters__count { margin-left: 0; } }
+</style>{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="trips" eyebrow="Trips" title="Every Himalaya trip we run" lede="Each route comes in up to three tiers. Same valleys, same altitude rules, same planner. What changes is how you move, where you sleep and what you spend." answer="Filter by hive, tier, length or travel style. Prices are indicative 2026 'from' prices per person, twin sharing, from the trip's start point. Every trip can be changed: send us your month and budget." %}
+
+<section class="sec">
+  <div class="wrap">
+    {% if journeys %}
+    <div class="filters" data-filter-group="#all-trips">
+      <div class="flt">
+        <div class="flt__row">
+          <div class="tabs" role="group" aria-label="Price tier"><button type="button" data-key="tier" data-value="" aria-pressed="true">All tiers</button>{% for t in nav_tiers %}<button type="button" data-key="tier" data-value="{{ t.slug }}" aria-pressed="false">{{ t.name }}</button>{% endfor %}</div>
+          <div class="tabs" role="group" aria-label="Trip length"><button type="button" data-key="length" data-value="" aria-pressed="true">Any length</button><button type="button" data-key="length" data-value="short" aria-pressed="false">Up to 5 nights</button><button type="button" data-key="length" data-value="mid" aria-pressed="false">6–9 nights</button><button type="button" data-key="length" data-value="long" aria-pressed="false">10+ nights</button></div>
+        </div>
+        <div class="flt__row">
+          <label for="f-region">Hive</label><select id="f-region" data-key="region"><option value="">Every hive</option>{% for r in regions %}{% if r.journeys %}<option value="{{ r.slug }}">{{ r.name }} ({{ r.journeys|length }})</option>{% endif %}{% endfor %}</select>
+          <label for="f-theme">Style</label><select id="f-theme" data-key="themes"><option value="">Any style</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select>
+          <span class="filters__count" data-filter-count>Showing {{ journeys|length }}</span>
+        </div>
+      </div>
+    </div>
+    <div class="grid grid--4" id="all-trips" data-fill>{% for j in journeys %}<a class="cell" href="{{ j.url }}" data-land="{{ j.region }}" data-item data-region="{{ j.region }}" data-tier="{{ j.tier }}" data-length="{% if j.nights <= 5 %}short{% elif j.nights <= 9 %}mid{% else %}long{% endif %}" data-themes="{{ j.themes|join:' ' }}">
+      <div class="cell__ph">{% with img=j|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 760px) 100vw, 25vw" alt="" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+        <span class="cell__tier tier tier--{{ j.tier }}">{{ j.tier_obj.name }}</span>
+        <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon j.region %}</span></div>
+      <div class="cell__body">
+        <span class="readout">{{ j.region_obj.name }} · <b>{{ j.nights }} nights</b>{% if j.max_sleep_alt %} · sleeps to {{ j.max_sleep_alt|alt }}{% endif %}</span>
+        <h3 class="cell__title">{{ j.title }}</h3>
+        <p class="cell__text">{{ j.transport|default:j.summary|truncatechars:110 }}</p>
+        <div class="cell__foot"><span class="price"><small>From, per person</small>{{ j.price_from_inr|inr }}</span><span class="readout">{{ j.best_label }}</span></div>
+      </div>
+    </a>{% endfor %}{% include "hives/partials/fill.html" with fill_title="No trip fits? We draw one" %}</div>
+    {% else %}
+    <div class="panel panel--wax" style="max-width:720px"><h2>Trips are being added</h2><p>We are writing up our routes hive by hive. Until they are all here, tell us the valley, the month and your budget, and a planner sends a day-by-day route and an itemised price within one working day.</p><a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Plan my trip</a></div>
+    {% endif %}
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Three ways to travel</p><h2 class="d-1">Choose a tier</h2></div></div>
+    <div class="tiers">{% for t in nav_tiers %}<div>
+      <span class="tier tier--{{ t.slug }}" style="align-self:start">{{ t.name }}</span>
+      {% if t.frm %}<p class="tiers__from"><small>Trips from, per person</small>{{ t.frm|inr }}</p>{% endif %}
+      <p class="muted" style="margin:0">{{ t.long }}</p>
+      <a class="link" style="margin-top:auto" href="{% url 'tier' t.slug %}">All {{ t.name }} trips {% icon "arrow" %}</a>
+    </div>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">By hive</p><h2 class="d-2" style="margin-bottom:16px">Trips in each valley</h2>
+      <div class="ledger">{% for r in regions %}<a class="ledger__row" href="{{ r.url }}#trips"><span>{{ r.name }}</span><span class="ledger__dots"></span><b>{% if r.journeys %}{{ r.journeys|length }} trip{{ r.journeys|length|pluralize }}{% else %}Plan with us{% endif %}</b></a>{% endfor %}</div>
+    </div>
+    <div>
+      <p class="eyebrow">By style</p><h2 class="d-2" style="margin-bottom:16px">What kind of trip</h2>
+      <div class="chips">{% for t in themes %}<a class="chip" href="{{ t.url }}">{% icon t.icon %}{{ t.name }}</a>{% endfor %}</div>
+      <p class="eyebrow" style="margin-top:30px">By budget</p>
+      <div class="chips"><a class="chip" href="{% url 'affordable' %}">{% icon "wallet" %}The affordable Himalaya</a>{% for a, l in nav_bands %}<a class="chip" href="{% url 'affordable_under' a %}">{% icon "tag" %}Trips {{ l|lower }}</a>{% endfor %}</div>
+    </div>
+  </div>
+</section>
+{% endblock %}

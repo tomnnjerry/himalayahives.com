@@ -1,0 +1,93 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ d.title }} · Himalaya Hives Journal{% endblock %}
+{% block description %}{{ d.meta_description|default:d.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ d.title }}{% endblock %}
+{% block og_image %}{% with img=d|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}{% if d.land %} data-land="{{ d.land }}"{% endif %}{% endblock %}
+{% block fab_land %}{% if d.land %}&land={{ d.land }}{% endif %}{% endblock %}
+{% block head_extra %}<style>
+.post-meta { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; margin: 0 0 26px; }
+.post-toc-m { display: none; margin: 0 0 26px; }
+.post-toc-m summary { cursor: pointer; font-weight: 600; }
+.post-toc-m .toc-side { margin-top: 12px; }
+.prose .post-sec { scroll-margin-top: 110px; }
+.midcta { flex-wrap: wrap; }
+@media (max-width: 1180px) { .post-toc-d { display: none; } .post-toc-m { display: block; } }
+</style>{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=d.land cta_title="Plan the trip this article is about" %}{% endblock %}
+{% block content %}
+{% with img=d|first_img %}{% include "hives/partials/phead.html" with seed=d.slug land=d.land eyebrow="The Journal · "|add:d.category title=d.title answer=d.summary img=img %}{% endwith %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <article>
+      <div class="post-meta">
+        {% if d.date_obj %}<time class="readout" datetime="{{ d.date_obj|date:'Y-m-d' }}">{{ d.date_obj|date:"j F Y" }}</time>{% elif d.date %}<span class="readout">{{ d.date }}</span>{% endif %}
+        <span class="readout">{{ d.read_min }} min read</span>
+        <span class="readout">By {{ SITE.byline }}</span>
+        {% if d.category %}<a class="chip" href="{% url 'journal_cat' d.cat_slug %}">{% icon "book" %}{{ d.category }}</a>{% endif %}
+        {% for r in d.region_objs %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}
+      </div>
+
+      {% if d.sections|length > 1 %}<details class="post-toc-m panel panel--line"><summary>In this article</summary>
+        <nav class="toc-side" aria-label="In this article">{% for s in d.sections %}<a href="#{{ s.anchor|default:forloop.counter }}">{{ s.heading }}</a>{% endfor %}{% if d.faqs %}<a href="#questions">Questions</a>{% endif %}</nav>
+      </details>{% endif %}
+
+      {% if d.key_takeaways %}<div class="takeaways prose" style="margin-bottom:30px"><h2>Key takeaways</h2><ul>{% for t in d.key_takeaways %}<li>{{ t }}</li>{% endfor %}</ul></div>{% endif %}
+
+      <div class="prose">
+        {% for s in d.sections %}<section class="post-sec" id="{{ s.anchor|default:forloop.counter }}">
+          {% if s.heading %}<h2>{{ s.heading }}</h2>{% endif %}
+          {% for p in s.paras %}<p>{{ p }}</p>{% endfor %}
+          {% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+          {% if s.table.rows %}<div class="tablewrap"><table>
+            {% if s.table.head %}<thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead>{% endif %}
+            <tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+          </table></div>{% endif %}
+          {% if s.link_objs %}<div class="inline-cards">{% for o in s.link_objs %}<a class="inline-card" href="{{ o.url }}">{% if o.img %}<img src="{{ o.img|src:500 }}" alt="" loading="lazy">{% else %}<span class="hbadge">{% icon "hex" %}</span>{% endif %}<span><small>{{ o.type|capfirst }}</small><b>{{ o.title }}</b></span></a>{% endfor %}</div>{% endif %}
+        </section>
+        {% if forloop.counter == 2 and not forloop.last %}<div class="midcta">{% topo d.slug|add:"-mid" %}<div><b>Planning this?</b><span style="opacity:.85">Send your month and budget. A planner replies within one working day.</span></div><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if d.land %}&land={{ d.land }}{% endif %}" data-cta="post-mid-plan">Get a route</a></div>{% endif %}
+        {% endfor %}
+      </div>
+
+      {% if d.cta %}<div class="midcta">{% topo d.slug|add:"-cta" %}
+        {% if d.cta.items %}<div><b>{{ d.cta.title|default:"Plan this with a local planner" }}</b>{% if d.cta.text %}<span style="opacity:.85">{{ d.cta.text }}</span>{% endif %}</div>
+          <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if d.land %}&land={{ d.land }}{% endif %}" data-cta="post-end-plan">{{ d.cta.button|default:"Plan my trip" }}</a>
+        {% else %}<div><b>Plan this with a local planner</b><span style="opacity:.85">{{ d.cta }}</span></div>
+          <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if d.land %}&land={{ d.land }}{% endif %}" data-cta="post-end-plan">Plan my trip</a>{% endif %}
+      </div>{% endif %}
+
+      {% if d.faqs %}<div id="questions" style="margin-top:44px;scroll-margin-top:110px"><p class="eyebrow">Questions</p><h2 class="d-2" style="margin-bottom:18px">Asked before you go</h2>{% include "hives/partials/faq.html" with faqs=d.faqs open_first=True %}</div>{% endif %}
+    </article>
+
+    <aside class="split__aside">
+      {% if d.sections|length > 1 %}<div class="panel panel--line post-toc-d"><p class="eyebrow" style="margin-bottom:10px">In this article</p>
+        <nav class="toc-side" data-spy aria-label="In this article">{% for s in d.sections %}<a href="#{{ s.anchor|default:forloop.counter }}">{{ s.heading }}</a>{% endfor %}{% if d.faqs %}<a href="#questions">Questions</a>{% endif %}</nav></div>{% endif %}
+      {% include "hives/partials/quick_form.html" with qf_id="post" qf_land=d.land qf_title="Plan this trip" qf_message="Article: "|add:d.title %}
+    </aside>
+  </div>
+</section>
+
+{% if d.journey_objs %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Trips that fit</p><h2 class="d-2">Routes from this article</h2></div><a class="link" href="{% url 'journeys' %}">Every trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for j in d.journey_objs|slice:":8" %}{% include "hives/partials/card_journey.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=d.land %}</div>
+  </div>
+</section>{% endif %}
+
+{% if d.place_objs %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Places mentioned</p><h2 class="d-2">Where this article goes</h2></div></div>
+    <div class="grid grid--4" data-fill>{% for p in d.place_objs|slice:":8" %}{% include "hives/partials/card_place.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_land=d.land %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec{% if d.place_objs %} sec--paper2{% endif %}">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Keep reading</p><h2 class="d-2">More from the Journal</h2></div><a class="link" href="{% url 'journal' %}">All articles {% icon "arrow" %}</a></div>
+    {% if more %}<div class="grid grid--3" data-fill>{% for d in more %}{% include "hives/partials/card_post.html" %}{% endfor %}{% include "hives/partials/fill.html" %}</div>
+    {% else %}<p class="muted">More articles are on the way. Meanwhile, the <a href="{% url 'guides' %}">planning guides</a> cover each hive in depth.</p>{% endif %}
+  </div>
+</section>
+{% include "hives/partials/nudge.html" with land=d.land nudge_title="Planning this trip?" %}
+{% endblock %}

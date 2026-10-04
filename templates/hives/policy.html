@@ -1,0 +1,31 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ pol.title }} · Himalaya Hives{% endblock %}
+{% block description %}{{ pol.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ pol.title }}{% endblock %}
+{% block head_extra %}<style>.pol-sec { scroll-margin-top: 110px; }</style>{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed=slug eyebrow="Policies" title=pol.title %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <article>
+      <p class="answer answer--paper" style="margin-bottom:12px">{{ pol.summary }}</p>
+      <p class="readout" style="margin:0 0 30px">Last updated: <b>{{ updated }}</b></p>
+      <div class="prose">
+        {% for s in sections %}<section class="pol-sec" id="{{ s.heading|slugify }}">
+          <h2>{{ s.heading }}</h2>
+          {% for b in s.blocks %}{% if b.list %}<ul>{% for x in b.list %}<li>{{ x }}</li>{% endfor %}</ul>{% elif b.p %}<p>{{ b.p }}</p>{% endif %}{% endfor %}
+        </section>{% endfor %}
+      </div>
+    </article>
+    <aside class="split__aside">
+      {% if sections|length > 1 %}<div class="panel panel--line"><p class="eyebrow" style="margin-bottom:10px">On this page</p>
+        <nav class="toc-side" data-spy aria-label="On this page">{% for s in sections %}<a href="#{{ s.heading|slugify }}">{{ s.heading }}</a>{% endfor %}</nav></div>{% endif %}
+      {% if others %}<div class="panel"><h2>Other policies</h2>
+        <div class="ledger">{% for k, n in others %}<a class="ledger__row" href="{% url 'policy' k %}"><span>{{ n }}</span><span class="ledger__dots"></span><b>{% icon "arrow" %}</b></a>{% endfor %}</div>
+        <a class="link" style="margin-top:14px" href="{% url 'policies' %}">All policies {% icon "arrow" %}</a></div>{% endif %}
+      <div class="panel panel--line"><h3>A question about this?</h3><p class="small" style="margin:0">Write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if tel %} or call <a href="tel:{{ tel }}">{{ SITE.phone }}</a>{% endif %}. We answer in plain English.</p></div>
+    </aside>
+  </div>
+</section>
+{% endblock %}

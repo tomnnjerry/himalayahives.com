@@ -1,0 +1,200 @@
+{
+ "slug": "nepal-signature-dwarikas-tiger-mountain-7n",
+ "title": "Dwarika's, Bandipur and Tiger Mountain",
+ "region": "nepal",
+ "tier": "signature",
+ "nights": 7,
+ "themes": [
+  "honeymoons",
+  "photography",
+  "treks-and-walks",
+  "wellness-and-yoga"
+ ],
+ "stops": [
+  {
+   "place": "kathmandu",
+   "nights": 3
+  },
+  {
+   "place": "bandipur",
+   "nights": 1
+  },
+  {
+   "place": "pokhara",
+   "nights": 3
+  }
+ ],
+ "start": "Kathmandu, Tribhuvan International Airport",
+ "end": "Pokhara International Airport, with a flight to Kathmandu",
+ "price_from_inr": 195000,
+ "price_note": "Per person, twin sharing: 3 nights at Dwarika's with breakfast, 1 night at The Old Inn, 3 nights at Tiger Mountain Pokhara Lodge with meals, private car and senior guide throughout, entry fees and the Pokhara–Kathmandu flight; international flights extra.",
+ "transport": "Private car with driver; domestic flight Pokhara–Kathmandu",
+ "group": "Private",
+ "best_months": [
+  2,
+  2,
+  2,
+  1,
+  1,
+  0,
+  0,
+  0,
+  1,
+  2,
+  2,
+  2
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Nepal in 7 nights at its best hotels: Dwarika's in Kathmandu, a night in Bandipur and Tiger Mountain Pokhara Lodge, private guide and car, from ₹1,95,000.",
+ "summary": "Seven nights at the most characterful hotels in central Nepal. Three nights at Dwarika's in Kathmandu with a senior guide for the valley's royal cities, a night in the restored Newar town of Bandipur, and three nights at Tiger Mountain Pokhara Lodge on a ridge facing the Annapurnas, with guided village walks.",
+ "intro": [
+  "Dwarika's Hotel in Kathmandu is built around carved Newar windows, doors and pillars rescued from old buildings across the valley, set into new brick courtyards. It is the best place in Nepal to understand Newar craft before you see it in the squares outside. We pair it with a senior guide who knows the temples well enough to show you the details, from the erotic roof struts of Kathmandu's temples to the sun window in Bhaktapur's palace.",
+  "From Kathmandu we drive west, stopping a night at The Old Inn in Bandipur, then go on to Tiger Mountain Pokhara Lodge, set on a ridge above the Pokhara valley with the Annapurna range and Machhapuchhre in front of it. The lodge's naturalists lead walks through farm villages and forest. You fly back to Kathmandu to save the highway a second time."
+ ],
+ "highlights": [
+  "Three nights at Dwarika's, among Newar carvings rescued from old valley houses",
+  "A senior guide for Bhaktapur, Patan and Kathmandu's Durbar Squares",
+  "Bandipur's Newar bazaar and its morning view of the Himalaya",
+  "Village and forest walks from Tiger Mountain Pokhara Lodge",
+  "Sunrise over Machhapuchhre from the lodge terrace"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive Kathmandu, Dwarika's",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "≈ 4 km · 20 min",
+   "text": "Your guide and driver meet you at the airport for the short drive to Dwarika's in Battisputali. Spend the afternoon in the courtyards and pool, and take the hotel's own walk through its carved windows and doors, many from the fifteenth to eighteenth centuries. In the evening, your guide walks you to Pashupatinath, close by, for the aarti on the Bagmati.",
+   "meals": "None"
+  },
+  {
+   "day": 2,
+   "title": "Kathmandu and Patan with a senior guide",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "≈ 25 km",
+   "text": "A full guided day. Start early at Swayambhunath before the crowds, then Kathmandu Durbar Square, Hanuman Dhoka and the Kumari Ghar. After lunch in a restored courtyard restaurant, drive to Patan for the Krishna Mandir, the Golden Temple and the Patan Museum, which has the best sculpture and metalwork collection in Nepal. Visit a bronze workshop where images are still cast by the lost-wax method.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Bhaktapur and Boudhanath",
+   "place": "kathmandu",
+   "overnight": "Dwarika's Hotel, Kathmandu",
+   "drive": "≈ 35 km",
+   "text": "Spend the morning in Bhaktapur: Taumadhi Square and Nyatapola, the potters' square and the peacock window in Dattatreya Square. In the afternoon return to Boudhanath, one of the largest stupas in the world, and climb to a rooftop as the light fades over the dome. Dinner at the hotel's Newar restaurant, Krishnarpan, which serves a long multi-course Nepali meal.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Drive to Bandipur",
+   "place": "bandipur",
+   "overnight": "The Old Inn, Bandipur",
+   "drive": "≈ 143 km · 5–6 h",
+   "text": "Drive west along the Trishuli river on the Prithvi Highway. Stop for the Manakamana cable car if you want to see the hilltop temple. Turn off at Dumre and climb 8 km to Bandipur. In the late afternoon, walk the bazaar with your guide and go up to Tundikhel for the sunset. Dinner at The Old Inn.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Bandipur to Tiger Mountain Pokhara Lodge",
+   "place": "pokhara",
+   "overnight": "Tiger Mountain Pokhara Lodge",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Watch the morning mountain view from Bandipur, then walk to the Thani Mai temple or down to Siddha Cave. Drive to Pokhara and up to Tiger Mountain Pokhara Lodge on its ridge, about half an hour above the valley. The lodge's stone cottages face the Annapurna range. Afternoon at the pool; dinner in the main lodge.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Village walk from the lodge",
+   "place": "pokhara",
+   "overnight": "Tiger Mountain Pokhara Lodge",
+   "drive": "",
+   "text": "A morning walk with one of the lodge's naturalists through Gurung, Brahmin and Chhetri farm villages and patches of forest on the ridge, with birds and long views. In the afternoon, drive down to Lakeside for a rowing boat across Phewa Lake to the Tal Barahi temple and a walk on the far shore, or stay at the lodge for yoga or a massage.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Sarangkot or a free day",
+   "place": "pokhara",
+   "overnight": "Tiger Mountain Pokhara Lodge",
+   "drive": "Optional",
+   "text": "For early risers, a drive to Sarangkot for sunrise over Dhaulagiri, Annapurna and Machhapuchhre. Otherwise, a free day at the lodge, which has its own view of the same range. Options include a tandem paragliding flight, the World Peace Pagoda, or a longer guided walk along the ridge. Last dinner on the terrace.",
+   "meals": "Breakfast, Lunch, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Fly to Kathmandu and home",
+   "place": "pokhara",
+   "overnight": "",
+   "drive": "Flight 25 min",
+   "text": "Breakfast with the mountains, then your driver takes you to Pokhara airport for the 25-minute flight to Kathmandu, timed to connect with your international departure. On a clear morning, sit on the left side for the Himalaya.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "dwarikas-hotel-kathmandu",
+  "the-old-inn-bandipur",
+  "tiger-mountain-pokhara-lodge"
+ ],
+ "includes": [
+  "3 nights at Dwarika's Hotel with breakfast and one dinner at Krishnarpan",
+  "1 night at The Old Inn, Bandipur, with dinner and breakfast",
+  "3 nights at Tiger Mountain Pokhara Lodge with meals and lodge-led walks",
+  "Private car with driver and a senior licensed guide throughout",
+  "All entry fees for the sites on the itinerary",
+  "Domestic flight Pokhara–Kathmandu and airport transfers"
+ ],
+ "excludes": [
+  "International flights",
+  "Lunches and dinners in Kathmandu except as listed",
+  "Drinks, spa treatments and paragliding",
+  "Manakamana cable car",
+  "Tips and travel insurance"
+ ],
+ "good_to_know": [
+  "No night on this trip is above about 1,400 m; altitude is not a concern.",
+  "Tiger Mountain Pokhara Lodge sits on a ridge reached by a short rough road and paths; rooms are cottages spread across the hillside.",
+  "Dwarika's is in Battisputali, near Pashupatinath and about 20 minutes from Thamel; a car is always available.",
+  "Pokhara–Kathmandu flights depend on weather; we hold the car in case the road becomes the better option.",
+  "From December to February, Kathmandu mornings are cold and hazy; views from Pokhara are usually clearest early."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a luxury Nepal trip cost from India?",
+   "a": "This 7-night private trip starts at ₹1,95,000 per person, twin sharing, with Dwarika's, The Old Inn and Tiger Mountain Pokhara Lodge, meals as listed, a senior guide, private car and the Pokhara flight. International flights are extra. Prices rise in October and over Christmas."
+  },
+  {
+   "q": "Is Dwarika's Hotel worth it?",
+   "a": "For anyone interested in Newar architecture and craft, yes. The hotel is built around carved wooden windows, doors and pillars salvaged from old valley buildings, and the courtyards feel like a living museum. It is also close to Pashupatinath and Boudhanath. It is not in the old town, so you drive to the Durbar Squares."
+  },
+  {
+   "q": "Where is Tiger Mountain Pokhara Lodge?",
+   "a": "It sits on a ridge east of the Pokhara valley, about half an hour's drive from Lakeside, facing Machhapuchhre and the Annapurna range. It has stone cottages, a pool and its own walking trails, with meals and guided walks usually included. Check current status of rates and inclusions before you travel."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. It is unhurried, with no early starts except optional sunrises, and the three hotels are among the most romantic places to stay in Nepal. We can arrange a private dinner at Dwarika's, a boat on Phewa Lake at sunset or a couples' massage at Tiger Mountain."
+  },
+  {
+   "q": "Can we add Chitwan to this trip?",
+   "a": "Yes. Chitwan National Park is 4–5 hours by road from Pokhara. We add two or three nights at a good jungle lodge with naturalist-led walks, canoe rides and jeep drives, where one-horned rhino are often seen. It fits best before Kathmandu at the end."
+  },
+  {
+   "q": "What is the best time for this luxury Nepal trip?",
+   "a": "October to early December has the clearest mountain views from Bandipur and Tiger Mountain. February to April is warm with good morning views and flowering trees. June to August is monsoon: lush and quiet, but the mountains are often hidden."
+  },
+  {
+   "q": "Do we need any permits?",
+   "a": "No trekking permits are needed for this itinerary. Indian citizens need a passport or voter ID to enter Nepal; other nationalities need a visa, available on arrival. Entry fees for heritage sites are included. Check current status before you travel."
+  },
+  {
+   "q": "How fit do we need to be?",
+   "a": "Average fitness is enough. You walk on uneven old paving in the Durbar Squares and on village paths around Tiger Mountain, usually two to three hours at a gentle pace. The lodge's cottages are on a slope with steps; tell us about any mobility needs."
+  },
+  {
+   "q": "Can we extend with a mountain flight or helicopter?",
+   "a": "Yes. From Kathmandu, a one-hour Everest mountain flight leaves early in the morning in clear weather. A helicopter day trip to the Everest View Hotel above Namche is also possible at a much higher cost. Both depend on weather; check current status before you travel."
+  }
+ ]
+}

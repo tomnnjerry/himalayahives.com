@@ -1,0 +1,268 @@
+[
+ {
+  "slug": "kathmandu-to-pokhara",
+  "from": "kathmandu",
+  "to": "pokhara",
+  "distance_km": 200,
+  "summary": "Nepal's main tourist transfer: west out of the valley on the Prithvi Highway via Naubise and Mugling, along the Trishuli river and up to Pokhara. About 200 km, 7–8 hours by bus or car, or a 25-minute flight.",
+  "options": [
+   {
+    "mode": "Tourist bus",
+    "time": "7–9 h",
+    "cost": "₹500–1,600 a seat (NPR 800–2,500)",
+    "text": "Tourist buses leave Sorhakhutte near Thamel at about 7 am and arrive at Pokhara's tourist bus park, a short taxi ride from Lakeside, in the afternoon. Cheaper buses have fixed seats and a lunch stop at a roadside restaurant; air-conditioned operators such as Greenline cost more and include a meal. Book a day ahead, more in October."
+   },
+   {
+    "mode": "Flight",
+    "time": "25 min (plus 2–3 h at airports)",
+    "cost": "₹4,500–9,000 one way; fares vary by nationality",
+    "text": "Several Nepali airlines fly Kathmandu–Pokhara through the day. Sit on the right side heading west for the Himalaya on a clear morning. Fares for foreign passports are usually higher than for Nepalis; SAARC fares sometimes apply. Weather delays are common in the monsoon and on hazy spring afternoons. Check current status before you travel."
+   },
+   {
+    "mode": "Private car",
+    "time": "6–8 h",
+    "cost": "₹9,000–12,000 one way",
+    "text": "A car with driver lets you stop at Manakamana cable car or Bandipur and travel at your own pace. It uses the same road as the buses, so it is no faster in traffic. Road widening near Naubise and Mugling has caused delays for years. Agree the price, tolls and stops before you start."
+   }
+  ],
+  "stops_on_way": [
+   "Naubise and the Trishuli valley",
+   "Manakamana cable car at Kurintar",
+   "Mugling, where the Trishuli meets the Marsyangdi",
+   "Dumre turn-off for Bandipur",
+   "Damauli"
+  ],
+  "road_status": "Open all year; landslides and roadworks cause delays, worst in July–August and around Mugling. Check current status before you travel.",
+  "tip": "If the road is your only option, take the 7 am bus and sit on the left heading west for river views.",
+  "faqs": [
+   {
+    "q": "How long does Kathmandu to Pokhara take by bus?",
+    "a": "Usually 7–8 hours by tourist bus, sometimes 9–10 hours with roadworks or monsoon landslides. Buses leave Kathmandu around 7 am and arrive in mid-afternoon. Travel days around Dashain and Tihar are the slowest, with full buses and heavy traffic leaving the valley."
+   },
+   {
+    "q": "Is it worth flying from Kathmandu to Pokhara?",
+    "a": "If you are short of time, yes: 25 minutes in the air against a full day on the road, with Himalayan views on clear mornings. Add airport time and the chance of weather delays. On a saver budget the tourist bus is far cheaper and the scenery along the Trishuli is good."
+   },
+   {
+    "q": "Which side of the bus is best from Kathmandu to Pokhara?",
+    "a": "The left side, heading west, has more of the Trishuli river along the road. Mountain views are limited from the highway; the best Himalayan views come once you reach Pokhara or on the flight, sitting on the right."
+   },
+   {
+    "q": "Can I stop at Bandipur between Kathmandu and Pokhara?",
+    "a": "Yes. Get off at Dumre, about 5 hours from Kathmandu, and take a local bus or jeep 8 km up to Bandipur. Spend a night or two, then continue to Pokhara, about 2–3 hours further west."
+   }
+  ]
+ },
+ {
+  "slug": "kathmandu-to-bandipur",
+  "from": "kathmandu",
+  "to": "bandipur",
+  "distance_km": 143,
+  "summary": "Bandipur sits on a ridge above the Prithvi Highway, roughly two-thirds of the way from Kathmandu to Pokhara. Ride any westbound bus to Dumre, then climb 8 km by jeep or local bus. About 143 km and 5–6 hours in all.",
+  "options": [
+   {
+    "mode": "Tourist bus and local jeep",
+    "time": "5–6 h",
+    "cost": "₹500–750 to Dumre, plus ₹60–125 to Bandipur",
+    "text": "Take a Pokhara-bound tourist bus from Sorhakhutte and ask the conductor to drop you at Dumre; you pay close to the full Pokhara fare. In Dumre, local buses and shared jeeps wait near the junction for the 8 km climb to Bandipur, about 30 minutes. Arrive before dark, when departures thin out."
+   },
+   {
+    "mode": "Local bus",
+    "time": "5.5–7 h",
+    "cost": "₹300–500",
+    "text": "Local buses heading to Pokhara, Damauli or further west leave from Kathmandu's Gongabu bus park and pass Dumre. They are cheaper and stop more often, with less luggage space. Useful if tourist buses are sold out around festivals."
+   },
+   {
+    "mode": "Private car",
+    "time": "4.5–5.5 h",
+    "cost": "₹7,000–9,500 one way",
+    "text": "A car drives you all the way up to the edge of the bazaar, where vehicles are kept out; hotel staff or porters help with bags. You can stop at Manakamana cable car on the way. Combining Kathmandu–Bandipur–Pokhara in a car over two days is the comfortable way to do this stretch."
+   }
+  ],
+  "stops_on_way": [
+   "Trishuli river valley",
+   "Manakamana cable car at Kurintar",
+   "Mugling",
+   "Dumre junction"
+  ],
+  "road_status": "Highway open all year with frequent roadwork delays; the Dumre–Bandipur road is paved but steep. Check current status before you travel.",
+  "tip": "Tell the bus conductor 'Dumre' when you board, and sit near the front so you are not missed.",
+  "faqs": [
+   {
+    "q": "How do I get from Kathmandu to Bandipur by bus?",
+    "a": "Take any Pokhara-bound tourist or local bus and get off at Dumre, about 5 hours from Kathmandu. From the Dumre junction, local buses and shared jeeps climb 8 km to Bandipur in about 30 minutes. There is usually no direct tourist bus to Bandipur itself."
+   },
+   {
+    "q": "Can cars drive into Bandipur bazaar?",
+    "a": "The main bazaar street is kept largely free of vehicles. Cars stop at a parking area at its edge, a few minutes' walk from most guesthouses. It is one reason the old Newar street stays quiet."
+   },
+   {
+    "q": "How far is Bandipur from Pokhara?",
+    "a": "About 75 km, roughly 2–3 hours by road: back down to Dumre and west along the Prithvi Highway. Pokhara-bound buses pass Dumre through the day, so it is easy to continue after a night or two."
+   },
+   {
+    "q": "Is one night in Bandipur enough?",
+    "a": "One night gives you the bazaar, sunset at Tundikhel and the morning mountain view. Two nights let you walk to Ramkot village or visit Siddha Cave without rushing. Most travellers who stay a second night are glad they did."
+   }
+  ]
+ },
+ {
+  "slug": "pokhara-to-ghandruk",
+  "from": "pokhara",
+  "to": "ghandruk",
+  "distance_km": 50,
+  "summary": "From Pokhara's Baglung bus park, the road runs west to Nayapul, then up the Modi Khola valley to Kimche below Ghandruk. About 50 km and 2.5–3.5 hours by jeep, plus a short walk up to the Gurung village.",
+  "options": [
+   {
+    "mode": "Shared jeep or local bus",
+    "time": "3–4 h, plus 1–1.5 h walk",
+    "cost": "₹500–900 a seat",
+    "text": "Local buses and shared jeeps leave Pokhara's Baglung bus park for Nayapul in about 1.5–2 hours, and jeeps continue up the rough road towards Kimche. From there it is about 1–1.5 hours on stone steps to Ghandruk. Leave by 9 am to arrive in daylight; jeeps wait to fill."
+   },
+   {
+    "mode": "Private jeep",
+    "time": "2.5–3 h",
+    "cost": "₹6,000–9,500 per vehicle",
+    "text": "A private jeep from Lakeside is the easiest choice for families, seniors or anyone with heavy bags, and in dry months it may reach a little closer to the village. Ordinary cars should stop at Nayapul. Book through your hotel or a trekking agency and agree the drop point."
+   },
+   {
+    "mode": "Walk via Poon Hill",
+    "time": "3–4 days",
+    "cost": "Lodge stays ₹1,500–3,000 a day with food",
+    "text": "The classic approach is the Poon Hill loop: jeep to Ulleri or nearby, walk up to Ghorepani, climb Poon Hill at dawn, then cross through rhododendron forest to Tadapani and down to Ghandruk. You need the ACAP permit; licensed-guide rules for foreigners apply. Check current status before you travel."
+   }
+  ],
+  "stops_on_way": [
+   "Phedi, start of the Australian Camp walk",
+   "Lumle and Naudanda viewpoints",
+   "Nayapul bazaar on the Modi Khola",
+   "Birethanti"
+  ],
+  "road_status": "Jeepable most of the year; the upper section is rough and can close after heavy monsoon rain. Check current status before you travel.",
+  "tip": "Show your ACAP permit at the Birethanti or Kimche checkpoint and keep it dry; it is checked again on the trail.",
+  "faqs": [
+   {
+    "q": "Can you drive all the way to Ghandruk?",
+    "a": "A jeep road reaches Kimche and nearby points below the village, and in good conditions jeeps get quite close. The last stretch into the old village is on foot, about an hour on stone steps. Ordinary cars should stop at Nayapul; the upper road needs a 4x4."
+   },
+   {
+    "q": "Do I need a permit to visit Ghandruk?",
+    "a": "Yes. Ghandruk is inside the Annapurna Conservation Area, so you need the ACAP permit, which costs NPR 1,000 for SAARC nationals and NPR 3,000 for other foreigners in recent years. Get it at the Nepal Tourism Board office in Pokhara or Kathmandu. Check current status before you travel."
+   },
+   {
+    "q": "Is Ghandruk a good day trip from Pokhara?",
+    "a": "It is possible but rushed: 5–7 hours of jeep and walking for a couple of hours in the village. One night lets you see the Annapurna South and Machhapuchhre view at sunrise, which is the main reason to go, and eat in a Gurung homestay."
+   },
+   {
+    "q": "How much does a jeep from Pokhara to Ghandruk cost?",
+    "a": "A shared seat costs about ₹500–900, and a private jeep about ₹6,000–9,500 per vehicle in 2026, depending on how far up the road it goes and the season. Agree the drop point and price before you leave."
+   }
+  ]
+ },
+ {
+  "slug": "pokhara-to-marpha",
+  "from": "pokhara",
+  "to": "marpha",
+  "distance_km": 160,
+  "summary": "Two very different ways into the Kali Gandaki: a 20-minute morning flight from Pokhara to Jomsom, or a long day by bus or jeep via Beni and the world's deepest gorge. About 160 km by road; Marpha is 6 km south of Jomsom.",
+  "options": [
+   {
+    "mode": "Flight to Jomsom",
+    "time": "20 min, plus 20 min by road",
+    "cost": "₹8,000–11,000 one way at foreigner fares",
+    "text": "Small planes fly Pokhara–Jomsom only in the early morning, before the strong afternoon wind in the Kali Gandaki. The view of Dhaulagiri and Annapurna on either side is extraordinary on a clear day. Delays and cancellations are common, so keep a buffer day. From Jomsom, a jeep or a 1.5-hour walk takes you to Marpha."
+   },
+   {
+    "mode": "Bus or shared jeep",
+    "time": "7–9 h",
+    "cost": "₹1,100–1,900 a seat",
+    "text": "Buses and shared jeeps run from Pokhara via Beni, Tatopani and Ghasa to Jomsom, often with a change of vehicle at Beni. The road is rough beyond Beni, with river crossings and dust; it is slower after rain. Ask to be dropped at Marpha, which lies on the road before Jomsom."
+   },
+   {
+    "mode": "Private jeep",
+    "time": "6–8 h",
+    "cost": "₹22,000–30,000 per vehicle one way",
+    "text": "A private 4x4 lets you stop at the Rupse waterfall, the Tatopani hot springs and the Thakali village of Tukuche. Ordinary cars struggle beyond Beni. Split it into two days with a night at Tatopani or Kalopani if you can."
+   }
+  ],
+  "stops_on_way": [
+   "Beni, where the Myagdi joins the Kali Gandaki",
+   "Tatopani hot springs",
+   "Rupse waterfall",
+   "Ghasa and Lete",
+   "Tukuche"
+  ],
+  "road_status": "Open most of the year; landslides close sections in the monsoon and occasionally in winter. Check current status before you travel.",
+  "tip": "Fly up and ride down: the flight saves a day and the road down gives you the gorge in daylight.",
+  "faqs": [
+   {
+    "q": "Is the Pokhara to Jomsom flight reliable?",
+    "a": "It runs only in the early morning and is often delayed or cancelled when wind or cloud closes the valley. In autumn and spring most flights operate; in the monsoon cancellations are frequent. Keep a spare day and check current status before you travel."
+   },
+   {
+    "q": "How bad is the road from Pokhara to Marpha?",
+    "a": "Paved to Beni, then rough and dusty with river crossings and landslide zones up the Kali Gandaki. It is passable by bus and jeep most of the year but slow, 7–9 hours to Jomsom. In July and August it can close for a day or more."
+   },
+   {
+    "q": "Do I need a permit for Marpha?",
+    "a": "Yes, Marpha is inside the Annapurna Conservation Area, so you need the ACAP permit. If you go north of Kagbeni into Upper Mustang, you also need the restricted-area permit through an agency. Check current status before you travel."
+   },
+   {
+    "q": "Should I stay in Marpha or Jomsom?",
+    "a": "Marpha is quieter and prettier, with whitewashed Thakali houses, apple orchards and a gompa above the village, and it is only 6 km from Jomsom airport. Jomsom has more lodges and the airport, useful for an early flight out."
+   }
+  ]
+ },
+ {
+  "slug": "kathmandu-to-bhaktapur",
+  "from": "kathmandu",
+  "to": "bhaktapur",
+  "distance_km": 15,
+  "summary": "The easiest heritage trip in the valley: 15 km east from Thamel to Bhaktapur's old town, by local bus for under ₹60 or by taxi in under an hour. Cars stop at the edge; you walk in through the ticket gates.",
+  "options": [
+   {
+    "mode": "Local bus",
+    "time": "45 min–1 h 15 min",
+    "cost": "₹30–60",
+    "text": "Buses and microbuses leave from Ratna Park and Bagbazar in central Kathmandu for Bhaktapur's bus park, about a 10-minute walk from Durbar Square. They are crowded at rush hour, so go mid-morning. Ask for 'Bhaktapur' and confirm the destination before you board."
+   },
+   {
+    "mode": "Taxi",
+    "time": "45 min–1 h",
+    "cost": "₹750–1,100 one way",
+    "text": "Taxis from Thamel run along the Araniko Highway or through Thimi. Agree the fare first or ask for the meter. For a half-day trip, a return taxi with waiting time costs a little more than two one-way rides and saves finding a car for the way back."
+   },
+   {
+    "mode": "Ride-hailing app",
+    "time": "45 min–1 h",
+    "cost": "₹500–900 one way",
+    "text": "Pathao and InDrive operate in the Kathmandu valley for car and motorbike rides, often cheaper than street taxis. You need a local SIM for the app. Availability can change, so check current status before you travel."
+   }
+  ],
+  "stops_on_way": [
+   "Pashupatinath and Boudhanath, on the way if you leave early",
+   "Thimi pottery town",
+   "Changu Narayan, 6 km north of Bhaktapur"
+  ],
+  "road_status": "Open all year; heavy traffic at morning and evening rush hours.",
+  "tip": "Go early and stay till dusk: Bhaktapur's squares are at their best in morning and late-afternoon light.",
+  "faqs": [
+   {
+    "q": "How far is Bhaktapur from Kathmandu?",
+    "a": "About 13–15 km from central Kathmandu and Thamel, which takes 45 minutes to an hour by road depending on traffic. It is close enough for a day trip, but a night in the old town lets you see it after the day visitors leave."
+   },
+   {
+    "q": "Which bus goes to Bhaktapur from Kathmandu?",
+    "a": "Local buses and microbuses from Ratna Park and Bagbazar go to Bhaktapur bus park for NPR 50–100 (about ₹30–60). From the bus park, walk 10 minutes to Durbar Square and buy the entry ticket at the gate."
+   },
+   {
+    "q": "Can I combine Bhaktapur and Nagarkot?",
+    "a": "Yes. Local buses run from Bhaktapur's bus park to Nagarkot in about an hour, so many travellers see Bhaktapur by day and sleep at Nagarkot for the sunrise. A taxi takes about 45 minutes."
+   },
+   {
+    "q": "Is there an entry fee for Bhaktapur?",
+    "a": "Yes, NPR 500 for SAARC nationals, including Indians, and NPR 1,800 for other foreigners in recent years. Register your passport to reuse the ticket on later days. Check current status before you travel."
+   }
+  ]
+ }
+]

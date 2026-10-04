@@ -1,0 +1,73 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Contact Himalaya Hives · email{% if wa_base %}, WhatsApp{% endif %} or a call back{% endblock %}
+{% block description %}Contact a Himalaya Hives planner by email{% if wa_base %} or WhatsApp{% endif %}, or ask for a call back. We reply within one working day with a route and an itemised price.{% endblock %}
+{% block og_title %}Contact Himalaya Hives{% endblock %}
+{% block head_extra %}<style>
+.contact-ways { display: grid; gap: 12px; margin: 0 0 22px; }
+.contact-ways a, .contact-ways div { display: grid; grid-template-columns: 44px 1fr; gap: 14px; align-items: center; padding: 16px 18px; background: var(--card); text-decoration: none; clip-path: var(--chamfer); }
+.contact-ways b { display: block; font-size: 17px; }
+.contact-ways small { display: block; color: var(--muted); font-size: 14.5px; overflow-wrap: anywhere; }
+#callback { scroll-margin-top: 110px; }
+.cb-pref { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+</style>{% endblock %}
+{% block cta %}{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="contact" eyebrow="Contact" title="Talk to a planner" lede="Write, message or ask us to call. A planner replies within one working day, and one planner stays with your trip from the first message to the last transfer." %}
+
+<section class="sec sec--tight">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Ways to reach us</p>
+      <h2 class="d-2" style="margin-bottom:20px">Pick what suits you</h2>
+      <div class="contact-ways">
+        <a href="mailto:{{ SITE.email }}" data-cta="contact-email"><span class="hbadge hbadge--sm hbadge--foil">{% icon "note" %}</span><span><b>Email</b><small>{{ SITE.email }}</small></span></a>
+        {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="contact-whatsapp"><span class="hbadge hbadge--sm hbadge--foil">{% icon "chat" %}</span><span><b>WhatsApp</b><small>Usually the fastest reply</small></span></a>{% endif %}
+        {% if tel %}<a href="tel:{{ tel }}" data-cta="contact-call"><span class="hbadge hbadge--sm hbadge--foil">{% icon "chat" %}</span><span><b>Call {{ SITE.phone }}</b><small>[Office hours]</small></span></a>{% endif %}
+        <a href="#callback" data-cta="contact-callback-jump"><span class="hbadge hbadge--sm hbadge--foil">{% icon "clock" %}</span><span><b>Request a call back</b><small>Tell us when suits you</small></span></a>
+        <a href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="contact-plan"><span class="hbadge hbadge--sm hbadge--foil">{% icon "route" %}</span><span><b>Plan online</b><small>Three short steps, a first route within one working day</small></span></a>
+        {% if SITE.address %}<div><span class="hbadge hbadge--sm">{% icon "home" %}</span><span><b>Office</b><small>{{ SITE.address }}</small></span></div>{% endif %}
+      </div>
+      <p class="small muted">We never ask for card numbers, OTPs or passwords by email, WhatsApp or phone. Read our <a href="{% url 'policy' 'payments' %}">payments policy</a>.</p>
+    </div>
+    {% include "hives/partials/quick_form.html" with qf_id="contact" qf_title="Send us four details" qf_sub="A route and an itemised price within one working day. No payment to start." %}
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="callback">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Call back</p>
+      <h2 class="d-2" style="margin-bottom:12px">We call you</h2>
+      <p class="lede" style="margin-bottom:24px">Leave a number and a time that suits you, in Indian Standard Time. A planner calls within one working day.</p>
+      <form class="qform" method="post" action="{% url 'plan' %}" data-cta-form="callback">
+        {% csrf_token %}
+        <input type="hidden" name="kind" value="callback">
+        <input type="hidden" name="source_page" value="{{ request.path }}#callback">
+        <input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <div class="row2">
+          <div class="field"><label for="cb-name">Name</label><input id="cb-name" name="name" required maxlength="120" autocomplete="name"></div>
+          <div class="field"><label for="cb-phone">Phone, with country code</label><input id="cb-phone" name="phone" type="tel" required maxlength="40" autocomplete="tel" placeholder="+91"></div>
+        </div>
+        <div class="field"><label for="cb-email">Email</label><input id="cb-email" name="email" type="email" required autocomplete="email"></div>
+        <fieldset class="field" style="border:0;padding:0;margin:0 0 16px">
+          <legend>Call me on</legend>
+          <ul class="cb-pref">
+            <li><label for="cb-pref-call"><input id="cb-pref-call" type="radio" name="contact_pref" value="call" checked> A phone call</label></li>
+            {% if wa_base %}<li><label for="cb-pref-wa"><input id="cb-pref-wa" type="radio" name="contact_pref" value="whatsapp"> A WhatsApp call</label></li>{% endif %}
+          </ul>
+        </fieldset>
+        <div class="field"><label for="cb-msg">Best time to call, and what about</label><textarea id="cb-msg" name="message" rows="3" placeholder="e.g. Weekdays after 6 pm IST. Spiti in June, two of us."></textarea></div>
+        <button class="btn btn--foil btn--block" type="submit" data-cta="callback-submit">Request a call back</button>
+        <p class="small" style="margin:10px 0 0;opacity:.75">We use your number only to call about this trip. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+      </form>
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>Before we talk</h2>
+        <p class="small" style="margin:0 0 12px">It helps to know roughly:</p>
+        <div class="prose" style="font-size:16px"><ul><li>Which hive, or that you are open to suggestions</li><li>The month, or your fixed dates</li><li>How many of you, and any children or older travellers</li><li>Saver, Comfort or Signature, or a mix</li></ul></div>
+        <a class="link" href="{% url 'faq' %}">Questions answered {% icon "arrow" %}</a>
+      </div>
+    </aside>
+  </div>
+</section>
+{% endblock %}

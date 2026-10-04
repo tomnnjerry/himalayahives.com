@@ -1,0 +1,273 @@
+[
+ {
+  "slug": "rishikesh-to-kedarnath",
+  "from": "rishikesh",
+  "to": "kedarnath",
+  "distance_km": 230,
+  "summary": "About 210 km by road from Rishikesh to Sonprayag via Devprayag, Srinagar, Rudraprayag and Guptkashi, then 5 km by shuttle jeep to Gaurikund and a 16–17 km climb on foot, pony or palki. Most people need two days; helicopters from Phata, Sersi and Guptkashi cut the walk.",
+  "options": [
+   {
+    "mode": "UTC or GMOU bus plus walk",
+    "time": "7–9 h bus, then 6–9 h walk",
+    "cost": "₹500–800 bus; ₹50–100 shuttle jeep",
+    "text": "Buses leave Rishikesh between about 4 am and 6 am for Sonprayag and Guptkashi. Sleep at Sonprayag or Sitapur, take the first shuttle jeep to Gaurikund, and start walking by 5–6 am. The path is paved and railed, with water, toilets and tea stalls along the way. Most fit walkers take 6–9 hours up and 4–6 hours down."
+   },
+   {
+    "mode": "Private car plus pony or palki",
+    "time": "7–9 h drive, then 4–6 h on a pony",
+    "cost": "₹7,000–9,000 car one way; pony ₹2,500–4,500 one way",
+    "text": "A car lets you leave when you like and stop at Devprayag, where the Bhagirathi and Alaknanda meet. Cars stop at Sonprayag. Ponies, palkis and porters run at government-notified rates from counters at Sonprayag and Gaurikund; pay only at the counter and keep the receipt."
+   },
+   {
+    "mode": "Car plus helicopter shuttle",
+    "time": "6–7 h drive to Phata, 8–10 min flight",
+    "cost": "≈ ₹6,000–13,000 return seat plus GST",
+    "text": "Shuttle flights from Phata, Sersi and Guptkashi land at Kedarnath, about 500 m below the temple. Seats are sold only on the IRCTC HeliYatra portal after Char Dham registration, in batches that sell out quickly. Flights stop in bad weather, so keep a spare day."
+   }
+  ],
+  "stops_on_way": [
+   "Devprayag confluence",
+   "Dhari Devi temple near Srinagar",
+   "Rudraprayag confluence",
+   "Guptkashi's Vishwanath temple",
+   "Gaurikund"
+  ],
+  "road_status": "Open in yatra season, late April to early November; landslides close it for hours or days in July–August. Check current status before you travel.",
+  "tip": "Sleep at Sitapur or Sonprayag the night before the walk; starting from Rishikesh the same morning is too much.",
+  "faqs": [
+   {
+    "q": "How far is Kedarnath from Rishikesh?",
+    "a": "About 210 km by road to Sonprayag, 5 km more by shuttle jeep to Gaurikund, and then a 16–17 km walk. Allow two days each way at an easy pace."
+   },
+   {
+    "q": "Is there a direct bus from Rishikesh to Kedarnath?",
+    "a": "No vehicle reaches Kedarnath. UTC and GMOU buses run from Rishikesh to Sonprayag or Guptkashi in 7–9 hours, early morning, and shuttle jeeps cover Sonprayag to Gaurikund."
+   },
+   {
+    "q": "How do I book a Kedarnath helicopter?",
+    "a": "Only on the IRCTC HeliYatra portal, after you register for the Char Dham. Seats open in batches and go fast. Ignore other websites and agents selling tickets; fraud is common. Check current status before you travel."
+   },
+   {
+    "q": "Can I do Kedarnath in one day from Rishikesh?",
+    "a": "Not by road and on foot. With an early drive, a night near Sonprayag and a helicopter seat, Kedarnath can be done as a day trip from Guptkashi or Phata, but not from Rishikesh."
+   }
+  ]
+ },
+ {
+  "slug": "rishikesh-to-badrinath",
+  "from": "rishikesh",
+  "to": "badrinath",
+  "distance_km": 295,
+  "summary": "The Alaknanda road: about 295 km from Rishikesh to Badrinath through Devprayag, Srinagar, Rudraprayag, Karnaprayag, Chamoli and Joshimath. Buses do it in one long day of 10–11 hours; by car most travellers break the journey at Joshimath or Pipalkoti.",
+  "options": [
+   {
+    "mode": "UTC or GMOU bus",
+    "time": "10–11 h",
+    "cost": "₹600–950",
+    "text": "Buses leave Rishikesh between about 4 am and 6 am and reach Badrinath by late afternoon. Book a seat a day ahead in May and June. Sit on the left side for the river and to stay away from the cliff drops on the right. If you miss the direct bus, take one to Joshimath and a shared jeep for the last 45 km."
+   },
+   {
+    "mode": "Shared jeep, Joshimath to Badrinath",
+    "time": "1.5–2 h",
+    "cost": "₹200–350 a seat",
+    "text": "From Joshimath's taxi stand, shared jeeps leave when full for Badrinath, passing Vishnuprayag and Govindghat. They run mainly in the morning; afternoon departures thin out. This is the easiest way to combine Badrinath with Auli or the Valley of Flowers."
+   },
+   {
+    "mode": "Private car",
+    "time": "10–12 h, better over 2 days",
+    "cost": "₹9,000–12,000 one way",
+    "text": "A car lets you stop at the five prayags, the river confluences of the Alaknanda, and sleep at Joshimath or Pipalkoti halfway. In peak season, traffic is sometimes held at checkposts above Joshimath; start early."
+   }
+  ],
+  "stops_on_way": [
+   "Devprayag",
+   "Srinagar",
+   "Rudraprayag",
+   "Karnaprayag",
+   "Nandprayag",
+   "Joshimath"
+  ],
+  "road_status": "Open to Joshimath all year; Joshimath to Badrinath opens with the temple, roughly May to November. Monsoon slides are frequent. Check current status before you travel.",
+  "tip": "Do not drive the stretch above Joshimath after dark; plan to arrive by 4 pm.",
+  "faqs": [
+   {
+    "q": "How long does it take from Rishikesh to Badrinath?",
+    "a": "About 10–11 hours by bus and 10–12 hours by car without long stops. Most car travellers break the trip at Joshimath, Pipalkoti or Srinagar."
+   },
+   {
+    "q": "Is the road to Badrinath open in winter?",
+    "a": "The road above Joshimath is closed in practice from late November to April, when Badrinath is snowbound and the temple is shut. Lower Joshimath and Auli stay reachable. Check current status before you travel."
+   },
+   {
+    "q": "What is the bus fare from Rishikesh to Badrinath?",
+    "a": "About ₹600–950 on UTC and GMOU buses, depending on the bus. Shared jeeps from Joshimath add ₹200–350."
+   },
+   {
+    "q": "Can I see the five prayags on the way to Badrinath?",
+    "a": "Yes. Devprayag, Rudraprayag, Karnaprayag and Nandprayag are on the main road, and Vishnuprayag is just above Joshimath. A private car makes stops easy."
+   }
+  ]
+ },
+ {
+  "slug": "rishikesh-to-gangotri",
+  "from": "rishikesh",
+  "to": "gangotri",
+  "distance_km": 255,
+  "summary": "The Bhagirathi road: about 255 km from Rishikesh to Gangotri via Chamba, Tehri dam, Dharasu, Uttarkashi and Harsil. It takes 9–10 hours; most travellers break the journey at Uttarkashi or Harsil and reach Gangotri fresh the next morning.",
+  "options": [
+   {
+    "mode": "UTC or GMOU bus to Uttarkashi, then bus or jeep",
+    "time": "6 h plus 4 h",
+    "cost": "₹300–450 plus ₹200–350",
+    "text": "Buses run from Rishikesh and Dehradun to Uttarkashi through the day, the best ones early morning. From Uttarkashi, a few buses and shared jeeps continue to Gangotri in season. Spending a night in Uttarkashi or Harsil splits the trip and helps you adjust before 3,100 m."
+   },
+   {
+    "mode": "Private car",
+    "time": "9–10 h, better over 2 days",
+    "cost": "₹8,000–11,000 one way",
+    "text": "Leave Rishikesh by 6 am to clear Chamba before traffic. The road passes the Tehri reservoir and follows the Bhagirathi past Uttarkashi. After Gangnani, the gorge has slide zones and a narrow stretch to Harsil. A night in Harsil's orchards is the most pleasant break."
+   },
+   {
+    "mode": "Helicopter charter",
+    "time": "About 1 h from Dehradun to Harsil",
+    "cost": "Package rates; high",
+    "text": "Char Dham helicopter charters from Dehradun land at Harsil, and a car covers the last 25 km to Gangotri. Seats are sold as multi-shrine packages and depend on weather. Book only with operators on the official lists and check current status before you travel."
+   }
+  ],
+  "stops_on_way": [
+   "Chamba",
+   "Tehri reservoir viewpoints",
+   "Uttarkashi's Vishwanath temple",
+   "Gangnani hot spring",
+   "Harsil"
+  ],
+  "road_status": "Open to Uttarkashi all year; beyond Harsil to Gangotri roughly May to November. Monsoon slides near Gangnani and Sukhi Top. Check current status before you travel.",
+  "tip": "Sleep at Harsil, not at Gangotri, if you want warmer rooms and a quieter night; it is 25 km below the temple.",
+  "faqs": [
+   {
+    "q": "How far is Gangotri from Rishikesh?",
+    "a": "About 255 km by road, 9–10 hours via Chamba, Uttarkashi and Harsil. Most travellers break the trip at Uttarkashi or Harsil."
+   },
+   {
+    "q": "Is there a direct bus from Rishikesh to Gangotri?",
+    "a": "A few UTC and GMOU buses run direct in season, leaving early morning. More frequent buses go to Uttarkashi, with buses and shared jeeps on to Gangotri."
+   },
+   {
+    "q": "Can I go from Gangotri to Kedarnath directly?",
+    "a": "There is no direct road. You return to Uttarkashi and drive via Ghansali or Tehri to Rudraprayag and Guptkashi, a full day of about 10–11 hours. Plan a night in between."
+   },
+   {
+    "q": "Is the Gangotri road safe in monsoon?",
+    "a": "It is open but slide-prone in July and August, and you can be held for hours. Drive in daylight only, keep a spare day and check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "mussoorie-landour-to-yamunotri",
+  "from": "mussoorie-landour",
+  "to": "yamunotri",
+  "distance_km": 150,
+  "summary": "The shortest way into the Yamuna valley: about 105 km from Mussoorie past Kempty Falls, Nainbagh and Damta to Barkot, then 45 km to the road head at Janki Chatti and a 6 km walk to the temple. Allow 5–6 hours to Janki Chatti; most people sleep at Barkot.",
+  "options": [
+   {
+    "mode": "Private car",
+    "time": "5–6 h to Janki Chatti",
+    "cost": "₹6,000–8,000 one way",
+    "text": "The road drops from Mussoorie past Kempty Falls to the Yamuna at Yamuna Bridge, then climbs the valley through Nainbagh, Damta and Naugaon to Barkot. The last stretch past Syanachatti and Hanuman Chatti is narrow and slide-prone. Most itineraries sleep at Barkot and walk to Yamunotri as a long day."
+   },
+   {
+    "mode": "Bus and shared jeep",
+    "time": "6–8 h with changes",
+    "cost": "₹300–500 in total",
+    "text": "Buses from Dehradun to Barkot pass through Mussoorie in the morning; seats are easier to get at Dehradun. From Barkot, shared jeeps and a few buses go to Janki Chatti. Change early in the day so you are not stuck at Barkot after 3 pm."
+   },
+   {
+    "mode": "On foot, Janki Chatti to Yamunotri",
+    "time": "2.5–4 h up",
+    "cost": "Pony ₹1,500–2,500 one way at notified rates",
+    "text": "The last 6 km is a paved, steep path climbing about 600 m to the temple at about 3,293 m. Ponies, palkis and porters with baskets run from official counters at Janki Chatti. Start early to avoid the midday pony traffic."
+   }
+  ],
+  "stops_on_way": [
+   "Kempty Falls",
+   "Yamuna Bridge",
+   "Damta",
+   "Barkot",
+   "Kharsali"
+  ],
+  "road_status": "Mussoorie to Barkot is open all year; Barkot to Janki Chatti is busiest May–June and slide-prone in monsoon. The temple is closed November to April. Check current status before you travel.",
+  "tip": "Cross Kempty Falls before 9 am on weekends; the traffic jam there can cost an hour.",
+  "faqs": [
+   {
+    "q": "How far is Yamunotri from Mussoorie?",
+    "a": "About 150 km to the road head at Janki Chatti, 5–6 hours by car, then a 6 km walk. Barkot, about 105 km from Mussoorie, is the usual overnight stop."
+   },
+   {
+    "q": "Is Mussoorie a good start for the Char Dham?",
+    "a": "Yes. Yamunotri is the first shrine in the traditional order, and the Mussoorie–Barkot road is the shortest way in from Dehradun. A night or two in Landour first also helps you rest before the yatra."
+   },
+   {
+    "q": "How hard is the walk to Yamunotri?",
+    "a": "The 6 km path is paved but steep, climbing about 600 m. Fit walkers take 2.5–4 hours up. Ponies, palkis and porters are available at notified rates."
+   },
+   {
+    "q": "Can I visit Kharsali on the way to Yamunotri?",
+    "a": "Yes. Kharsali, across the river from Janki Chatti, is the winter seat of the Yamuna deity, with an old Shani temple. It is a short walk from the road head."
+   }
+  ]
+ },
+ {
+  "slug": "chopta-tungnath-to-badrinath",
+  "from": "chopta-tungnath",
+  "to": "badrinath",
+  "distance_km": 155,
+  "summary": "The short cut between the Kedar and Badri valleys: from Chopta down through the Mandal forest to Gopeshwar, then up the Alaknanda through Chamoli and Joshimath to Badrinath. About 155 km and 6–7 hours, far shorter than going back via Rudraprayag.",
+  "options": [
+   {
+    "mode": "Private car",
+    "time": "6–7 h",
+    "cost": "₹6,000–8,000 one way",
+    "text": "The road from Chopta descends through oak and rhododendron forest to Mandal and Gopeshwar, joins the Badrinath highway at Chamoli and climbs to Joshimath and Badrinath. It is the most practical link in a Kedarnath–Tungnath–Badrinath circuit. Many travellers sleep at Joshimath and do Badrinath the next morning."
+   },
+   {
+    "mode": "Shared jeep and bus via Gopeshwar",
+    "time": "7–9 h with changes",
+    "cost": "₹500–900 in total",
+    "text": "Public transport from Chopta itself is irregular; ask your lodge to find a seat in a jeep to Gopeshwar. From Gopeshwar and Chamoli, buses and shared jeeps run to Joshimath, where shared jeeps leave for Badrinath. Start early; connections thin out after 2 pm."
+   },
+   {
+    "mode": "Via Ukhimath and Rudraprayag",
+    "time": "8–9 h",
+    "cost": "Car ₹8,000–10,000",
+    "text": "If the Chopta–Mandal road is blocked by snow or slides, the alternative is down to Ukhimath and Rudraprayag and up the Alaknanda highway. It is longer but has more buses. Check current status before you travel."
+   }
+  ],
+  "stops_on_way": [
+   "Mandal forest",
+   "Gopeshwar's Gopinath temple",
+   "Chamoli",
+   "Pipalkoti",
+   "Joshimath"
+  ],
+  "road_status": "The Chopta–Mandal stretch can be closed by snow from January to March; the road above Joshimath is open roughly May to November. Check current status before you travel.",
+  "tip": "Stop at the Gopinath temple in Gopeshwar, winter seat of Rudranath, which keeps a tall metal trident with old inscriptions.",
+  "faqs": [
+   {
+    "q": "How far is Badrinath from Chopta?",
+    "a": "About 155 km via Mandal, Gopeshwar, Chamoli and Joshimath, 6–7 hours by car. It is much shorter than returning to Rudraprayag."
+   },
+   {
+    "q": "Is there a bus from Chopta to Badrinath?",
+    "a": "Not directly. Take a shared jeep or taxi to Gopeshwar, then buses or jeeps to Joshimath and a shared jeep to Badrinath. A private car is far simpler."
+   },
+   {
+    "q": "Is the Chopta–Gopeshwar road open in winter?",
+    "a": "It is often blocked by snow between January and March, when Chopta is reached from Ukhimath only up to the snow line. Check current status before you travel."
+   },
+   {
+    "q": "Can I do Kedarnath, Tungnath and Badrinath in one trip?",
+    "a": "Yes. Chopta is about 75 km from Sonprayag via Ukhimath, and Chopta to Badrinath about 155 km. Allow 6–8 nights in all from Rishikesh."
+   }
+  ]
+ }
+]

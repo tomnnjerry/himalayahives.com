@@ -1,0 +1,154 @@
+{
+ "slug": "darjeeling-saver-kolkata-long-weekend-3n",
+ "title": "Darjeeling long weekend from Kolkata",
+ "region": "darjeeling",
+ "tier": "saver",
+ "nights": 3,
+ "themes": [
+  "food-and-tea",
+  "road-trips",
+  "monasteries",
+  "photography"
+ ],
+ "stops": [
+  {
+   "place": "darjeeling",
+   "nights": 3
+  }
+ ],
+ "start": "New Jalpaiguri (NJP) railway station",
+ "end": "New Jalpaiguri (NJP) railway station",
+ "price_from_inr": 9500,
+ "price_note": "Per person, twin sharing: 3 nights in the WBTDC lodge or a similar budget hotel with breakfast, shared jeeps NJP–Darjeeling and back, Tiger Hill shared jeep, diesel toy train joy ride and main entries; trains from Kolkata extra.",
+ "transport": "Overnight train, shared jeeps, toy train joy ride",
+ "group": "Private",
+ "best_months": [
+  1,
+  1,
+  2,
+  2,
+  2,
+  1,
+  0,
+  0,
+  1,
+  2,
+  2,
+  1
+ ],
+ "pace": "Balanced",
+ "meta_description": "Darjeeling on a budget, 3 nights: overnight train from Kolkata, shared jeeps, Tiger Hill, toy train joy ride, zoo, HMI and Happy Valley tea, from ₹9,500.",
+ "summary": "Three nights in Darjeeling for travellers from Kolkata who want the real thing at an honest price. Overnight train to NJP, a shared jeep up the hill, a government lodge near the Mall, Tiger Hill at dawn, the diesel toy train to Ghum and Batasia, the zoo and mountaineering institute, and a walk through Happy Valley's tea.",
+ "intro": [
+  "This is the trip we would give a friend with a Friday off and a small budget. You leave Sealdah or Howrah on an overnight train, wake up at New Jalpaiguri, and are on the Darjeeling Mall by lunchtime. On the ground it costs about ₹9,500 per person for three nights, because we use shared jeeps, a WBTDC lodge or similar budget hotel and local cafes, and spend money only on the things worth paying for: the toy train and Tiger Hill.",
+  "The trade-offs are real. Shared jeeps are cramped and leave when full, budget rooms are simple and often unheated, and Tiger Hill means a 4 am alarm. In return you get three full days in Darjeeling's best sights, time for momos and tea tasting, and a return train on the Sunday or Monday night. If you can add a fourth night, add Kalimpong or Mirik."
+ ],
+ "highlights": [
+  "Kangchenjunga at sunrise from Tiger Hill, 2,567 m",
+  "Diesel toy train joy ride to Ghum and the Batasia Loop",
+  "Red pandas at the Padmaja Naidu Himalayan Zoological Park and the Himalayan Mountaineering Institute",
+  "A morning walk through Happy Valley Tea Estate, planted in 1854",
+  "Ghum Monastery and its Maitreya Buddha image"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "NJP to Darjeeling by shared jeep",
+   "place": "darjeeling",
+   "overnight": "WBTDC Meghbalika or similar, Darjeeling",
+   "drive": "≈ 70 km · 3–3.5 h",
+   "text": "Arrive at NJP on an overnight train such as the Darjeeling Mail or Padatik Express. Shared jeeps for Darjeeling wait outside the station and leave when full, about ₹250–400 a seat; a seat in the front costs a little more. The road climbs from about 100 m to 2,045 m through Rohini or Kurseong. Check in near the Mall, rest, then walk Chowrasta and Observatory Hill in the late afternoon. Dinner at a Tibetan cafe off the Mall.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Tiger Hill, Ghum and the toy train",
+   "place": "darjeeling",
+   "overnight": "WBTDC Meghbalika or similar, Darjeeling",
+   "drive": "≈ 22 km round trip",
+   "text": "Leave at about 4 am in a shared jeep to Tiger Hill, 11 km away, to watch first light hit Kangchenjunga. On the way back the jeeps stop at Ghum Monastery and the Batasia Loop. After breakfast, ride the two-hour diesel joy ride from Darjeeling station to Ghum and back, which stops at the Batasia Loop and the small railway museum at Ghum. Afternoon free for a nap; evening on the Mall.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 3,
+   "title": "Zoo, HMI and Happy Valley tea",
+   "place": "darjeeling",
+   "overnight": "WBTDC Meghbalika or similar, Darjeeling",
+   "drive": "",
+   "text": "Walk or take a shared taxi to the Padmaja Naidu Himalayan Zoological Park, known for red pandas and snow leopards, and the Himalayan Mountaineering Institute in the same compound, with its Everest museum. After lunch, walk down to Happy Valley Tea Estate, about 3 km from town, to see the gardens and factory if it is open, and taste tea. Buy tea from a shop that names the estate and flush.",
+   "meals": "Breakfast"
+  },
+  {
+   "day": 4,
+   "title": "Down to NJP for the night train",
+   "place": "darjeeling",
+   "overnight": "",
+   "drive": "≈ 70 km · 3–3.5 h",
+   "text": "After breakfast, a last walk round Chowrasta, then a shared jeep down to NJP. Leave Darjeeling by about 1 pm for evening trains to Kolkata, and earlier on Sundays or in holiday weeks, when traffic at Ghum and Kurseong is slow. Carry snacks and water for the jeep ride and the train.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "wbtdc-meghbalika-darjeeling"
+ ],
+ "includes": [
+  "3 nights in a WBTDC lodge or similar budget hotel, twin sharing, with breakfast",
+  "Shared jeep seats NJP–Darjeeling and back",
+  "Shared jeep seat to Tiger Hill with stops at Ghum and Batasia",
+  "Diesel toy train joy ride, Darjeeling–Ghum–Darjeeling",
+  "Zoo and HMI entry and Tiger Hill viewing fee",
+  "Trip notes with jeep stands, cafes and tea shops"
+ ],
+ "excludes": [
+  "Train fares from Kolkata",
+  "Lunches and dinners except the first night",
+  "Steam joy ride upgrade",
+  "Porters and tips",
+  "Any reserved taxis"
+ ],
+ "good_to_know": [
+  "Darjeeling is at about 2,045 m; altitude is not a problem for most healthy travellers.",
+  "Budget rooms in Darjeeling are rarely heated; carry thermals from November to February.",
+  "Book trains 60 days ahead for Puja, Christmas and summer weekends, and book the joy ride on IRCTC as soon as dates are fixed.",
+  "Shared jeeps fill fast in the morning; on the way down, buy your seat the evening before.",
+  "Mountain views are most likely from October to December; in the monsoon, expect cloud."
+ ],
+ "faqs": [
+  {
+   "q": "How much does a 3-night Darjeeling trip from Kolkata cost?",
+   "a": "About ₹9,500 per person on the ground with this plan: a budget lodge with breakfast, shared jeeps, Tiger Hill, the diesel joy ride and entries. Add the train, about ₹500–700 each way in sleeper or ₹1,300–1,800 in 3AC, and ₹600–1,000 a day for lunch and dinner. All figures are indicative 2026, per person, twin sharing."
+  },
+  {
+   "q": "Which train should I take from Kolkata to NJP?",
+   "a": "Overnight trains such as the Darjeeling Mail and Padatik Express from Sealdah reach NJP in the morning and are the most popular. A daytime Vande Bharat runs from Howrah. Book 60 days ahead for holiday weekends. Timings change, so check current status before you travel."
+  },
+  {
+   "q": "Is the shared jeep from NJP to Darjeeling safe?",
+   "a": "Shared jeeps are the standard way locals travel and drivers know the road well. They carry up to ten people and can be cramped, but are generally safe. Choose a jeep that is filling, keep valuables on you, and travel in daylight. Take motion-sickness tablets if you need them."
+  },
+  {
+   "q": "Is Tiger Hill worth the early start?",
+   "a": "On a clear morning, yes: the first light on Kangchenjunga is the classic Darjeeling view. In the monsoon or on hazy mornings you may see nothing, so ask your lodge about the weather the night before. Shared jeeps leave around 4 am and cost about ₹300–500 return."
+  },
+  {
+   "q": "Steam or diesel toy train, which is better?",
+   "a": "Both cover the same two-hour loop to Ghum and back via the Batasia Loop. Steam costs more, about ₹1,500–1,700, and sells out first; diesel costs about ₹1,000. On a budget, diesel gives you the same track and views. Book on IRCTC and check current status before you travel."
+  },
+  {
+   "q": "Can I fit Mirik or Kalimpong into this trip?",
+   "a": "Not without rushing. Each needs about a day. If you can add one night, Mirik makes an easy day trip by shared jeep, or go to Kalimpong on day four and take a jeep from there to NJP, about 2.5–3 hours."
+  },
+  {
+   "q": "Is this trip okay for students and solo travellers?",
+   "a": "Yes. It uses public transport and simple stays, and Darjeeling is used to young and solo travellers. Solo travellers pay more for a single room. Women travelling alone generally find the town safe; use normal care after dark and on quiet paths."
+  },
+  {
+   "q": "What should I eat in Darjeeling on a budget?",
+   "a": "Momos, thukpa, shaphaley, sel roti and simple thalis in local cafes cost about ₹80–300. The lanes off Chowk Bazaar and Laden La Road are cheaper than the Mall. Try a glass of Darjeeling tea at a tasting counter rather than a sweet milky one."
+  },
+  {
+   "q": "What is the best month for this long weekend?",
+   "a": "October and November for clear mountain views, then March to May for first flush tea and spring flowers. Avoid July and August, when rain and landslides are common. December is cold but clear and cheap outside Christmas week."
+  }
+ ]
+}

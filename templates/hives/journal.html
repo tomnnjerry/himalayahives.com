@@ -1,0 +1,38 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{% if category %}{{ category.name }} · {% endif %}The Journal · Himalaya trip planning notes · Himalaya Hives{% endblock %}
+{% block description %}{% if category %}{{ category.name }} articles from the Himalaya Hives Journal: {% endif %}planning notes on seasons, budgets, altitude, permits and routes across the Himalaya, from Kashmir to Arunachal.{% endblock %}
+{% block og_title %}{% if category %}{{ category.name }} · {% endif %}The Journal{% endblock %}
+{% block content %}
+{% if category %}{% include "hives/partials/phead.html" with seed="journal" eyebrow="The Journal" title=category.name lede="Planning notes from the Himalaya Hives field desk, filed under this topic." %}
+{% else %}{% include "hives/partials/phead.html" with seed="journal" eyebrow="The Journal" title="Notes for planning a Himalaya trip" lede="Seasons, budgets, altitude, permits and roads, written plainly with numbers and sources, so you can decide before you book." %}{% endif %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    {% if cats %}<nav class="chips" aria-label="Journal topics" style="margin-bottom:clamp(24px,3vw,40px)">
+      <a class="chip" href="{% url 'journal' %}"{% if not category %} aria-current="page" style="border-color:var(--ink);background:var(--wax)"{% endif %}>{% icon "book" %}All topics</a>
+      {% for c in cats %}<a class="chip" href="{% url 'journal_cat' c.slug %}"{% if category.slug == c.slug %} aria-current="page" style="border-color:var(--ink);background:var(--wax)"{% endif %}>{{ c.name }} <span class="readout">{{ c.posts|length }}</span></a>{% endfor %}
+    </nav>{% endif %}
+
+    {% if posts %}
+    <div class="grid grid--3" data-fill>{% for d in posts %}{% include "hives/partials/card_post.html" %}{% endfor %}{% include "hives/partials/fill.html" with fill_title="Ask us instead" fill_text="Have a question the Journal does not answer yet? A planner will." %}</div>
+    {% else %}
+    <div class="panel panel--line" style="max-width:720px">
+      <h2>The first articles are on their way</h2>
+      <p>We are writing the Journal now: when to go where, what a Saver trip really costs, and how to pace a climb above 3,000 m. Until then, our planning guides and field notes cover most of the same ground.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:16px">
+        <a class="btn btn--ink btn--sm" href="{% url 'guides' %}">Planning guides</a>
+        <a class="btn btn--line btn--sm" href="{% url 'field_notes' %}">Field notes</a>
+        <a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="journal-empty-plan">Ask a planner</a>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+{% if posts %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Read by hive</p><h2 class="d-2">Every valley has its own guides</h2></div><a class="link" href="{% url 'guides' %}">All planning guides {% icon "arrow" %}</a></div>
+    <div class="chips">{% for r in nav_regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

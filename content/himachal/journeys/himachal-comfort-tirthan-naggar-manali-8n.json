@@ -1,0 +1,206 @@
+{
+ "slug": "himachal-comfort-tirthan-naggar-manali-8n",
+ "title": "Tirthan, Naggar and Manali by private car",
+ "region": "himachal",
+ "tier": "comfort",
+ "nights": 8,
+ "themes": [
+  "homestays-and-villages",
+  "wildlife-and-birds",
+  "treks-and-walks",
+  "family-holidays"
+ ],
+ "stops": [
+  {
+   "place": "tirthan-valley",
+   "nights": 3
+  },
+  {
+   "place": "naggar",
+   "nights": 2
+  },
+  {
+   "place": "manali",
+   "nights": 3
+  }
+ ],
+ "start": "Bhuntar (Kullu) airport or Aut",
+ "end": "Bhuntar (Kullu) airport",
+ "price_from_inr": 58000,
+ "price_note": "Per person, twin sharing: 8 nights in the best riverside homestay, HPTDC Castle and a good Manali hotel, breakfast and dinner, private car with driver, GHNP guide; flights and Atal tunnel permits extra.",
+ "transport": "Private car with driver",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  0,
+  0,
+  1,
+  2,
+  2,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Kullu valley in 8 nights: Tirthan river and GHNP walks, a castle stay in Naggar, Manali and the Atal tunnel, private car and guide, from ₹58,000.",
+ "summary": "Eight unhurried nights in the Kullu valley, from the trout streams of Tirthan and the edge of the Great Himalayan National Park to a castle stay in Naggar and three nights in Manali with a day through the Atal tunnel to Lahaul. Short drives, a private car and walks on most days.",
+ "intro": [
+  "Most people fly or bus straight to Manali and see the Kullu valley through a windscreen. We go the other way: first to the Tirthan valley, a side valley off the main highway at Aut, where homestays sit by a clear trout river at the edge of the Great Himalayan National Park, a UNESCO World Heritage Site since 2014. Then up the quieter left bank of the Beas to Naggar, where you sleep inside the old castle of the Kullu rajas.",
+  "Manali comes last, when you have the measure of the valley, with time for Old Manali, the Hadimba temple and a day through the Atal tunnel to Sissu in Lahaul. No drive is longer than three hours, which makes this a good trip for families and for anyone who prefers walking to sitting in a car."
+ ],
+ "highlights": [
+  "A riverside homestay on the Tirthan at the edge of the GHNP",
+  "A guided day walk in the park's ecozone",
+  "Jalori Pass and the forest walk to Serolsar lake",
+  "Two nights inside Naggar Castle",
+  "The Atal tunnel to Sissu in Lahaul"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Bhuntar to the Tirthan valley",
+   "place": "tirthan-valley",
+   "overnight": "Riverside homestay or cottage, Gushaini",
+   "drive": "≈ 50 km · 1.5 h",
+   "text": "Your driver meets you at Bhuntar airport or at Aut if you come by Volvo. Drive through the Aut tunnel and turn off up the Tirthan to Banjar and Gushaini. Check into a riverside homestay or cottage. In the afternoon, walk along the river; the Tirthan is a protected trout stream, and anglers need a licence from the fisheries department. Dinner is home-cooked, often with trout.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "A day in the GHNP ecozone",
+   "place": "tirthan-valley",
+   "overnight": "Riverside homestay or cottage, Gushaini",
+   "drive": "",
+   "text": "With a registered local guide, walk from Gushaini into the ecozone of the Great Himalayan National Park along the trail up the Tirthan, through villages, fields and forest of oak and deodar. You walk for 5–6 hours at an easy pace. Look for birds such as whistling thrushes, wagtails and, with luck, the koklass or monal pheasants. The guide arranges the entry permit at the park office.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Jalori Pass and Serolsar lake",
+   "place": "tirthan-valley",
+   "overnight": "Riverside homestay or cottage, Gushaini",
+   "drive": "≈ 40 km each way · 1.5–2 h",
+   "text": "Drive up through Jibhi and Shoja to Jalori Pass, at about 3,120 m, between the Kullu and Shimla districts. From the pass, walk about 5 km through oak and rhododendron forest to Serolsar lake and its small temple to Budhi Nagin, then return the same way. Return to Gushaini for the night; the road may be closed after snow from December to March.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Up the Beas to Naggar",
+   "place": "naggar",
+   "overnight": "HPTDC Hotel Castle, Naggar",
+   "drive": "≈ 80 km · 3 h",
+   "text": "Drive back to Aut and up the Kullu valley, crossing to the left bank of the Beas at Kullu and climbing to Naggar. Check into HPTDC Hotel Castle, the kath-kuni castle of the Kullu rajas, traditionally dated to about 1460. Spend the late afternoon on the terrace over the Beas, and see the Jagatipatt shrine in the courtyard, a stone slab that legend says was carried here by bees on the orders of the gods.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Roerich estate and Naggar's temples",
+   "place": "naggar",
+   "overnight": "HPTDC Hotel Castle, Naggar",
+   "drive": "",
+   "text": "Walk up from the castle to the Roerich estate, where the Russian painter Nicholas Roerich lived from 1928, with his house and gallery of Himalayan paintings. Continue to the wooden Tripura Sundari temple, with its three-tiered pagoda roof, and the stone Gauri Shankar temple below the castle. After lunch, the car takes you to Jana village and its waterfall for maize rotis and saag at a roadside dhaba in season.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Naggar to Manali",
+   "place": "manali",
+   "overnight": "Good hotel in Manali",
+   "drive": "≈ 21 km · 45 min",
+   "text": "A short drive up the left bank to Manali. Check in, then walk through the deodar forest to the Hadimba temple, built in 1553, and on to Old Manali and the Manu temple. In the afternoon, cross the river to Vashisht for the hot baths beside the temple. Evening on the Mall or in an Old Manali café.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Atal tunnel and Sissu",
+   "place": "manali",
+   "overnight": "Good hotel in Manali",
+   "drive": "≈ 40 km each way · 1.5–2 h",
+   "text": "Drive up to Solang and through the Atal tunnel, about 9 km long, which opened in 2020 and links Manali to Lahaul in all seasons. Emerge into the dry Chandra valley and continue to Sissu, at about 3,100 m, with its waterfall and views of the Lahaul peaks. Return to Manali by afternoon. Vehicle rules and tunnel timings change; check current status before you travel.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "A free day in Manali",
+   "place": "manali",
+   "overnight": "Good hotel in Manali",
+   "drive": "",
+   "text": "Keep a slow day. Walk the Manalsu stream, visit the Himalayan Nyingmapa gompa near the Mall, or ride the Solang ropeway in clear weather. The car is with you for any short outings. In the evening, buy Kullu shawls and caps from a weavers' cooperative, where prices are fixed and the wool is labelled.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 9,
+   "title": "Manali to Bhuntar",
+   "place": "manali",
+   "overnight": "",
+   "drive": "≈ 50 km · 1.5–2 h",
+   "text": "Drive down the valley to Bhuntar airport, about 1.5–2 hours. We time departure for your flight with a buffer, as weather often delays flights here. If you are taking the Volvo, we drop you at the bus stand or on the highway pick-up point.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "hptdc-hotel-castle-naggar"
+ ],
+ "includes": [
+  "8 nights twin sharing with breakfast and dinner: riverside homestay or cottage, HPTDC Hotel Castle, good Manali hotel",
+  "Private car with driver from Bhuntar and back",
+  "Registered GHNP guide and park entry for the day walk",
+  "Roerich estate and Naggar Castle entry fees",
+  "Phone support from our team during the trip"
+ ],
+ "excludes": [
+  "Flights or Volvo to Bhuntar",
+  "Lunches",
+  "Ropeway tickets, angling licence and any Atal tunnel or Rohtang permits",
+  "Tips for driver and guides",
+  "Anything not listed as included"
+ ],
+ "good_to_know": [
+  "All nights are between 1,600 m and 2,050 m; Jalori and Sissu, at about 3,100 m, are day trips.",
+  "Bhuntar flights are few and weather-dependent; keep a buffer day before international connections.",
+  "The GHNP walk needs a permit from the park office, which our guide arranges; carry ID.",
+  "Naggar Castle is a heritage building with steps and simple rooms; it is about location and history, not luxury.",
+  "July and August bring slides on the Tirthan and Jalori roads; we do not run this trip then."
+ ],
+ "faqs": [
+  {
+   "q": "How much does an 8-night Kullu valley trip cost?",
+   "a": "This plan is from ₹58,000 per person on twin sharing, including stays with breakfast and dinner, a private car and the GHNP guide. Flights to Bhuntar, lunches and optional activities are extra. Costs rise in May–June and around Diwali."
+  },
+  {
+   "q": "Is the Tirthan valley good for families?",
+   "a": "Yes. It is quiet, the homestays are welcoming and walks can be as short or long as you like. Keep children away from the river edge, which is fast and cold. The GHNP day walk suits children who are used to walking 8–10 km."
+  },
+  {
+   "q": "Do we need a permit for the Great Himalayan National Park?",
+   "a": "Yes, entry into the park needs a permit from the park office, and our registered guide arranges it. Overnight treks in the core zone need longer permits. Rules can change; check current status before you travel."
+  },
+  {
+   "q": "Is Naggar Castle a comfortable place to stay?",
+   "a": "It is a heritage stay rather than a luxury hotel: simple rooms, thick walls, a terrace and a restaurant. Book a valley-view room. For more comfort, we can swap Naggar nights for a resort near Katrain at extra cost."
+  },
+  {
+   "q": "Can we visit Rohtang Pass?",
+   "a": "Rohtang needs a vehicle permit with a daily cap and is closed in winter. We prefer the Atal tunnel to Sissu, which is quicker and less crowded. If you want Rohtang, tell us early and we will try for a permit; check current status before you travel."
+  },
+  {
+   "q": "What is the best time for this trip?",
+   "a": "April to June and late September to November. Spring brings blossom and green slopes, autumn clear skies and apple season. December to February suits snow lovers but Jalori is often closed."
+  },
+  {
+   "q": "Is Manali too crowded?",
+   "a": "In peak weeks, yes. We keep you in Manali for the last three nights, choose a hotel away from the Mall's traffic, and plan outings for early mornings. Old Manali and Vashisht are calmer on foot."
+  },
+  {
+   "q": "What is the food like in Tirthan homestays?",
+   "a": "Home-cooked Himachali and North Indian food: dal, rajma, seasonal vegetables, rice and rotis, often with fresh trout. Tell us about dietary needs in advance; vegetarian food is always available."
+  },
+  {
+   "q": "Can we add Kasol or the Parvati valley?",
+   "a": "Yes. Add two nights in Kasol between Tirthan and Naggar; it is about 2 hours from Aut via Bhuntar. It adds roughly ₹9,000–12,000 per person depending on the stay."
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "slug": "kashmir-signature-palace-gulmarg-pahalgam-7n",
+ "title": "Signature Kashmir: palace, meadow and river",
+ "region": "kashmir",
+ "tier": "signature",
+ "nights": 7,
+ "themes": [
+  "honeymoons",
+  "food-and-tea",
+  "photography",
+  "wellness-and-yoga"
+ ],
+ "stops": [
+  {
+   "place": "srinagar",
+   "nights": 3
+  },
+  {
+   "place": "gulmarg",
+   "nights": 2
+  },
+  {
+   "place": "pahalgam",
+   "nights": 2
+  }
+ ],
+ "start": "Srinagar airport",
+ "end": "Srinagar airport",
+ "price_from_inr": 145000,
+ "price_note": "Per person, twin sharing: 7 nights at The LaLiT Grand Palace, The Khyber and Pine N Peak with breakfast and dinner, private car and guide, private shikara, gondola, a wazwan dinner; flights extra.",
+ "transport": "Private car with driver and a private guide",
+ "group": "Private",
+ "best_months": [
+  0,
+  0,
+  1,
+  2,
+  2,
+  2,
+  1,
+  1,
+  2,
+  2,
+  1,
+  0
+ ],
+ "pace": "Unhurried",
+ "meta_description": "Signature Kashmir, 7 nights: a Dogra palace on Dal Lake, The Khyber in Gulmarg and Pine N Peak in Pahalgam, private guide and car, from ₹1,45,000 per person.",
+ "summary": "Seven nights in the valley's best hotels: the former Gulab Bhavan palace above Dal Lake, The Khyber in Gulmarg and ITC's Pine N Peak on the Lidder. A private guide opens the old city, craft workshops and a wazwan dinner, with gondola, Dachigam and Aru days kept unhurried.",
+ "intro": [
+  "We start with three nights at The LaLiT Grand Palace, built in 1910 as a summer residence for Maharaja Pratap Singh, on the slopes above Dal Lake with chinar lawns among the largest in Srinagar. From there your guide takes you into the old city by its lanes and canals, to papier-mache and walnut-wood workshops, and to Dachigam for a morning in the forest.",
+  "Gulmarg is two nights at The Khyber, near the gondola, with a spa for the afternoon after the ridge. Pahalgam is two nights at Pine N Peak, the most polished hotel in the Lidder valley, with Aru and Betaab Valley by union taxi and a guided riverside walk. We hold one private wazwan dinner, cooked by a waza and served the traditional way on a shared trami."
+ ],
+ "highlights": [
+  "Three nights in the 1910 Gulab Bhavan palace above Dal Lake",
+  "A private dawn shikara through the lake's vegetable market",
+  "Old-city walk with craft workshops and a private wazwan dinner",
+  "Gondola to Apharwat and The Khyber's spa in Gulmarg",
+  "Aru and the Lidder from ITC's Pine N Peak in Pahalgam"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Arrive at the palace",
+   "place": "srinagar",
+   "overnight": "The LaLiT Grand Palace, Srinagar",
+   "drive": "≈ 20 km · 45 min",
+   "text": "Your driver and guide meet you at Srinagar airport and take you to The LaLiT Grand Palace on the Zabarwan slopes. Settle in, walk the lawns among the chinars, and look out over Dal Lake. In the late afternoon, a short drive to Pari Mahal, the ruined Mughal garden palace above the lake, for the evening light over the city. Dinner at the hotel; ask for Kashmiri dishes from the kitchen's menu.",
+   "meals": "Dinner"
+  },
+  {
+   "day": 2,
+   "title": "Dawn shikara and the old city",
+   "place": "srinagar",
+   "overnight": "The LaLiT Grand Palace, Srinagar",
+   "drive": "≈ 25 km in the city",
+   "text": "A private shikara picks you up at 5.30 am for the lake's channels, where growers trade vegetables from their boats at first light. After breakfast, your guide leads you through the old city: the Jamia Masjid and its 378 wooden pillars, Khanqah-e-Moula on the Jhelum, and lanes where artisans make papier-mache and carve walnut wood. In the evening, a private wazwan dinner with a waza, shared from a copper trami.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 3,
+   "title": "Dachigam and the Mughal gardens",
+   "place": "dachigam",
+   "overnight": "The LaLiT Grand Palace, Srinagar",
+   "drive": "≈ 50 km round trip",
+   "text": "Early morning in Dachigam National Park with a permit and park guide. The park protects the hangul, the Kashmir stag, and holds Himalayan black bears and good birdlife; sightings are never guaranteed. Return for lunch and an afternoon in Nishat and Shalimar, the two great Mughal gardens on the lake's eastern shore. Finish with saffron kahwa on the palace lawns.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 4,
+   "title": "Srinagar to Gulmarg",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "≈ 55 km · 1 h 30 min–2 h",
+   "text": "Drive west through Tangmarg and up through pine forest to Gulmarg at 2,650 m. Check in at The Khyber, set among pines above the meadow, near the gondola. In the afternoon, walk with your guide across the meadow to St Mary's Church and the Maharani temple, or book a treatment at the spa. Gulmarg evenings are cool even in June; the hotel's fires and Kashmiri dinner are a good end to the day.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 5,
+   "title": "Gondola to Apharwat",
+   "place": "gulmarg",
+   "overnight": "The Khyber Himalayan Resort & Spa, Gulmarg",
+   "drive": "",
+   "text": "Your guide has booked the first gondola slots. Phase 1 takes you to Kongdori near 3,080 m; if it is clear and Phase 2 is running, go on to the Apharwat ridge near 3,950 m, where the view runs over the valley and, on clear days, towards Nanga Parbat. Walk slowly at the top. Afternoon at leisure: spa, a forest walk towards Khilanmarg, or tea on the terrace.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 6,
+   "title": "Gulmarg to Pahalgam via Pampore",
+   "place": "pahalgam",
+   "overnight": "Welcomhotel by ITC Hotels, Pine N Peak, Pahalgam",
+   "drive": "≈ 150 km · 4 h 30 min–5 h",
+   "text": "Drive back across the valley and south on the highway. Your guide stops at Pampore, where saffron grows on the karewas, at a grower's shop rather than a roadside stall, and at Avantipora's 9th-century Avantiswami temple ruins. Continue up the Lidder valley from Anantnag to Pahalgam and check in at Pine N Peak on the river. Evening walk along the Lidder.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 7,
+   "title": "Aru and Betaab Valley",
+   "place": "aru-valley",
+   "overnight": "Welcomhotel by ITC Hotels, Pine N Peak, Pahalgam",
+   "drive": "≈ 50 km round trip by union taxi",
+   "text": "A Pahalgam union taxi, as local rules require, takes you up the West Lidder to Aru at 2,414 m. Walk with your guide an hour or two up the valley towards Lidderwat, past herders' huts and meadows. After lunch, Betaab Valley on the East Lidder for an easy riverside walk. Return to the hotel for the spa or a quiet evening by the river.",
+   "meals": "Breakfast, Dinner"
+  },
+  {
+   "day": 8,
+   "title": "Pahalgam to Srinagar airport",
+   "place": "srinagar",
+   "overnight": "",
+   "drive": "≈ 100 km · 3 h",
+   "text": "A slow breakfast by the river, then the drive down the Lidder valley and along the highway to Srinagar airport. If time allows, your guide can arrange a last stop at a carpet or pashmina workshop where you can see work on the loom before you buy. Allow two hours at the airport for security checks.",
+   "meals": "Breakfast"
+  }
+ ],
+ "stays": [
+  "lalit-grand-palace-srinagar",
+  "khyber-himalayan-resort-gulmarg",
+  "welcomhotel-pine-n-peak-pahalgam"
+ ],
+ "includes": [
+  "7 nights twin sharing with breakfast and dinner at three top hotels",
+  "Private car with driver and a private English- or Hindi-speaking guide throughout",
+  "Private dawn shikara and a private wazwan dinner",
+  "Gondola Phase 1 and Phase 2 tickets (Phase 2 subject to weather)",
+  "Dachigam permit and park guide, Pahalgam union taxi, all entry fees"
+ ],
+ "excludes": [
+  "Flights to and from Srinagar",
+  "Lunches and drinks",
+  "Spa treatments",
+  "Shopping and pony rides",
+  "Tips for guide, driver and hotel staff"
+ ],
+ "good_to_know": [
+  "All nights are below 2,700 m. Gondola Phase 2 reaches near 3,950 m; walk slowly at the top and talk to your doctor first if you have heart or lung conditions.",
+  "Book The Khyber and The LaLiT well ahead for May, June and October; they fill early.",
+  "Prepaid SIM cards from outside Jammu and Kashmir usually do not work; bring a postpaid connection.",
+  "Shopping visits are optional; your guide earns nothing from what you buy, and you can decline any shop.",
+  "Dress modestly in the old city and at shrines.",
+  "Security and access rules can change at short notice; check current status before you travel."
+ ],
+ "faqs": [
+  {
+   "q": "What makes this a signature trip?",
+   "a": "The three hotels are the most comfortable in their places: a 1910 Dogra palace above Dal Lake, The Khyber in Gulmarg and ITC's Pine N Peak in Pahalgam. You also have a private guide for all eight days, a private shikara at dawn, a wazwan dinner cooked by a waza, and every ticket and permit arranged in advance."
+  },
+  {
+   "q": "Why is the price ₹1,45,000 per person?",
+   "a": "Top rooms in Kashmir cost ₹18,000–70,000 a night for a double, and The Khyber is the most expensive. Add a private car and guide for eight days, a private wazwan, gondola tickets and permits. The price assumes twin sharing in spring or autumn outside peak holiday weeks; June and late December cost more."
+  },
+  {
+   "q": "Is this trip good for a honeymoon?",
+   "a": "Yes. It is built at an unhurried pace with afternoons free, spa time in Gulmarg and Pahalgam, a private shikara and evenings in quiet hotels. We can request lake-view or palace-wing rooms at The LaLiT and a meadow-view room at The Khyber, subject to availability at booking."
+  },
+  {
+   "q": "Can we replace the palace with a houseboat?",
+   "a": "Yes. We can swap one or two Srinagar nights to a top-grade houseboat on Nigeen or Dal Lake. Houseboats give the lake at your door and carved-wood interiors, but they are smaller and quieter than a palace hotel. Many couples like one houseboat night between two palace nights."
+  },
+  {
+   "q": "Will we see Nanga Parbat from Gulmarg?",
+   "a": "On clear days, yes, from the Apharwat ridge and sometimes from the meadow edge, far to the north. It needs a clear morning and Phase 2 to be running. Autumn mornings and some spring days give the best chance. Cloud often builds by late morning, so we take the first gondola slots."
+  },
+  {
+   "q": "How safe is it to travel in Kashmir?",
+   "a": "Tourist areas have a strong police and army presence, and the hotels on this trip have their own security. Incidents do happen in the region, so we follow official advisories, keep to main tourist areas and adjust plans on local advice. Check current government advisories and current status before you travel."
+  },
+  {
+   "q": "Can vegetarians eat well on this trip?",
+   "a": "Yes. All three hotels have full vegetarian menus. Kashmiri vegetarian dishes include dum aloo, nadru yakhni made with lotus stem, haak greens, and paneer in a red Kashmiri gravy. For the wazwan, we can arrange a Kashmiri Pandit-style vegetarian dinner instead if you prefer."
+  },
+  {
+   "q": "Do we need special clothing?",
+   "a": "Pack layers: Gulmarg and Pahalgam are 8–10 °C cooler than Srinagar, and evenings can be cold even in June. Bring a warm jacket, walking shoes for meadows, and a scarf for shrines. In the old city and at Hazratbal, dress modestly with arms and legs covered."
+  },
+  {
+   "q": "What is the best season for this signature trip?",
+   "a": "Late April to June for green meadows and snow on the peaks, and September to October for clear skies and autumn colour. July and August bring Amarnath traffic to Pahalgam. For snow and skiing, see our winter Gulmarg signature trip from late December to March."
+  }
+ ]
+}

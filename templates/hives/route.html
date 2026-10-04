@@ -1,0 +1,91 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}{% if rt.distance_km %} · {{ rt.distance_km }} km{% endif %} by bus, shared jeep or car · Himalaya Hives{% endblock %}
+{% block description %}{{ rt.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}{% endblock %}
+{% block body_attrs %} data-land="{{ rt.region }}"{% endblock %}
+{% block alt_from %}{{ rt.from_obj.altitude_m|default:0 }}{% endblock %}{% block alt_to %}{{ rt.to_obj.altitude_m|default:0 }}{% endblock %}{% block alt_label %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}{% endblock %}
+{% block fab_label %}Book this transfer{% endblock %}{% block fab_land %}&land={{ rt.region }}{% endblock %}
+{% block og_image %}{% with img=rt|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block cta %}{% include "hives/partials/cta.html" with cta_land=rt.region cta_title="Let us handle the road" %}{% endblock %}
+{% block content %}
+<header class="phead ground">
+  {% topo rt.slug %}
+  <div class="wrap">{% include "hives/partials/crumbs.html" %}</div>
+  <div class="wrap phead__in">
+    <div>
+      <p class="eyebrow">Route · {{ rt.region_obj.name }}</p>
+      <h1 class="d-1">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</h1>
+      <p class="answer">{{ rt.summary }}</p>
+      <dl class="phead__meta">
+        {% if rt.distance_km %}<div><dt>Distance</dt><dd>≈ {{ rt.distance_km }} km</dd></div>{% endif %}
+        {% with o=rt.options.0 %}{% if o %}<div><dt>{{ o.mode }}</dt><dd>{{ o.time }}</dd></div>{% endif %}{% endwith %}
+        {% if rt.from_obj.alt_label and rt.to_obj.alt_label %}<div><dt>Altitude</dt><dd>{{ rt.from_obj.alt_label }} → {{ rt.to_obj.alt_label }}</dd></div>{% endif %}
+      </dl>
+    </div>
+    <div class="phead__photo">{% with img=rt|first_img %}{% if img %}<img src="{{ img|src:960 }}" srcset="{{ img|srcset }}" sizes="(max-width: 1180px) 90vw, 420px" alt="{{ rt.to_obj.name }}" fetchpriority="high">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}</div>
+  </div>
+  {% ridgeline rt.slug 4 %}
+</header>
+
+<section class="sec sec--tight" id="options">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Every way to go</p><h2 class="d-2" style="margin-bottom:18px">Options compared</h2>
+      {% if rt.options %}<div class="tablewrap"><table class="table">
+        <thead><tr><th scope="col">How</th><th scope="col">Time</th><th scope="col">Cost, indicative 2026</th></tr></thead>
+        <tbody>{% for o in rt.options %}<tr><td><a href="#opt-{{ forloop.counter }}"><b>{{ o.mode }}</b></a></td><td style="white-space:nowrap">{{ o.time }}</td><td>{{ o.cost }}</td></tr>{% endfor %}</tbody>
+      </table></div>
+      <div class="days" style="margin-top:26px">{% for o in rt.options %}<article class="day" id="opt-{{ forloop.counter }}" style="scroll-margin-top:100px">
+        <div class="day__n"><b>{{ forloop.counter }}</b><small>Option</small></div>
+        <div><h3>{{ o.mode }}</h3>
+          <div class="day__meta">{% if o.time %}<span>{{ o.time }}</span>{% endif %}{% if o.cost %}<span>{{ o.cost }}</span>{% endif %}</div>
+          <p>{{ o.text }}</p></div>
+      </article>{% endfor %}</div>
+      {% else %}<p class="muted">We are still writing up the options for this road. <a href="{% url 'plan' %}?land={{ rt.region }}">Ask a planner</a> for current times and fares.</p>{% endif %}
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2>The road</h2>
+        <div class="ledger">
+          <a class="ledger__row" href="{{ rt.from_obj.url }}"><span>From</span><span class="ledger__dots"></span><b>{{ rt.from_obj.name }}</b></a>
+          <a class="ledger__row" href="{{ rt.to_obj.url }}"><span>To</span><span class="ledger__dots"></span><b>{{ rt.to_obj.name }}</b></a>
+          {% if rt.distance_km %}<div class="ledger__row"><span>Distance</span><span class="ledger__dots"></span><b>≈ {{ rt.distance_km }} km</b></div>{% endif %}
+        </div>
+        {% if rt.road_status %}<p class="eyebrow" style="margin:18px 0 6px">Road status</p><p style="margin:0;font-size:16px">{{ rt.road_status }}</p>{% endif %}
+        {% if rt.tip %}<p class="eyebrow" style="margin:18px 0 6px">Our tip</p><p style="margin:0;font-size:16px">{{ rt.tip }}</p>{% endif %}
+      </div>
+      {% include "hives/partials/quick_form.html" with qf_id="route" qf_land=rt.region qf_title="Book a car or seats" qf_message="Route: "|add:rt.from_obj.name|add:" to "|add:rt.to_obj.name %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="map">
+  <div class="wrap split">
+    <div>{% atlas map_points rt.region True %}</div>
+    <aside class="split__aside">
+      {% if rt.stops_on_way %}<div class="panel panel--wax"><h3>Worth a stop on the way</h3><div class="prose" style="font-size:16.5px"><ul>{% for s in rt.stops_on_way %}<li>{{ s }}</li>{% endfor %}</ul></div></div>{% endif %}
+      {% if rt.from_obj.alt_label and rt.to_obj.alt_label %}<div class="panel panel--line"><h3>Altitude</h3><p style="font-size:16px;margin:0">{{ rt.from_obj.name }} sits at {{ rt.from_obj.alt_label }} and {{ rt.to_obj.name }} at {{ rt.to_obj.alt_label }}. Above 3,000 m, plan a rest day before climbing higher and talk to your doctor before a high trip. <a href="{% url 'tool_altitude' %}">Altitude planner</a>.</p></div>{% endif %}
+    </aside>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">At each end</p><h2 class="d-1">The two places</h2></div></div>
+    <div class="grid grid--2">{% with p=rt.from_obj %}{% include "hives/partials/card_place.html" %}{% endwith %}{% with p=rt.to_obj %}{% include "hives/partials/card_place.html" %}{% endwith %}</div>
+  </div>
+</section>
+
+{% if rt.faqs %}<section class="sec sec--paper2">
+  <div class="wrap wrap--narrow">
+    <div class="sec-head"><div><p class="eyebrow">Questions</p><h2 class="d-1">Asked about this road</h2></div></div>
+    {% include "hives/partials/faq.html" with faqs=rt.faqs open_first=True %}
+  </div>
+</section>{% endif %}
+
+{% if rt.region_obj.routes|length > 1 %}<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">More in {{ rt.region_obj.name }}</p><h2 class="d-1">Other routes</h2></div><a class="link" href="{% url 'routes' %}#{{ rt.region }}">All routes {% icon "arrow" %}</a></div>
+    <div class="toc">{% for x in rt.region_obj.routes %}{% if x.slug != rt.slug %}<a class="toc__row" href="{{ x.url }}"><span class="hbadge hbadge--sm">{% icon "route" %}</span><span><b>{{ x.from_obj.name }} to {{ x.to_obj.name }}</b><small>{{ x.summary|truncatechars:110 }}</small></span><span class="readout">{% if x.distance_km %}{{ x.distance_km }} km{% endif %}</span>{% icon "arrow" %}</a>{% endif %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

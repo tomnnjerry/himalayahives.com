@@ -1,0 +1,21 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Policies · booking terms, payments, refunds and privacy · Himalaya Hives{% endblock %}
+{% block description %}Himalaya Hives policies in plain English: booking terms, payments, refunds and cancellations, privacy, disclaimer and accessibility.{% endblock %}
+{% block og_title %}Policies{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="policies" eyebrow="Policies" title="Our policies, in plain English" lede="Each policy opens with a short summary of what it means for you. The full text follows, and the written quote you receive is what counts." %}
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="grid grid--3">
+      {% for p in policies %}<a class="panel panel--line" href="{% url 'policy' p.slug %}" style="text-decoration:none;display:flex;flex-direction:column;gap:10px">
+        <span class="hbadge hbadge--sm">{% icon "shield" %}</span>
+        <h2 style="margin:0">{{ p.title }}</h2>
+        <p class="small muted" style="margin:0">{{ p.summary|truncatechars:170 }}</p>
+        <span class="link" style="margin-top:auto">Read in full {% icon "arrow" %}</span>
+      </a>{% empty %}<p class="muted">Our policies are being finalised. Write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> with any question.</p>{% endfor %}
+    </div>
+    <p class="small muted" style="margin-top:28px">Questions about any of these? Write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> or see <a href="{% url 'how_we_work' %}">how we work</a>.</p>
+  </div>
+</section>
+{% endblock %}

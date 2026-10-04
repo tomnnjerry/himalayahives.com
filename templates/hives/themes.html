@@ -1,0 +1,32 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Himalaya travel styles · road trips, treks, monasteries and more · Himalaya Hives{% endblock %}
+{% block description %}Choose a Himalaya trip by style: road trips, treks, monasteries, pilgrimages, wildlife, snow, honeymoons, family holidays, homestays, food, festivals, photography, adventure and wellness.{% endblock %}
+{% block og_title %}Himalaya travel styles{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="styles" eyebrow="Travel styles" title="What kind of trip" lede="Start from what you want to do and we show you the valleys, the trips and the places that fit." answer="Each style page lists the trips, places, stays and experiences that suit it across every hive, with links to the hive-by-hive pages where there is enough to say." %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="grid grid--3">{% for row in rows %}<a class="panel" href="{{ row.t.url }}" style="text-decoration:none;display:flex;flex-direction:column;gap:12px">
+      <span class="hbadge hbadge--foil">{% icon row.t.icon %}</span>
+      <h2 class="d-3" style="margin:6px 0 0">{{ row.t.name }}</h2>
+      <p style="margin:0;font-weight:500">{{ row.t.tagline }}</p>
+      <p class="muted" style="margin:0;font-size:15.5px">{{ row.t.summary|truncatechars:150 }}</p>
+      <span class="readout" style="margin-top:auto;padding-top:12px;border-top:1px dashed var(--rule-2)">{% if row.n %}{{ row.n }} trip{{ row.n|pluralize }}{% else %}Trips on request{% endif %}</span>
+    </a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Or by valley</p><h2 class="d-2" style="margin-bottom:16px">Start from a hive</h2>
+      <div class="chips">{% for r in nav_regions %}<a class="chip" href="{{ r.url }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</div>
+    </div>
+    <div>
+      <p class="eyebrow">Or by budget</p><h2 class="d-2" style="margin-bottom:16px">Start from a price</h2>
+      <div class="chips"><a class="chip" href="{% url 'affordable' %}">{% icon "wallet" %}The affordable Himalaya</a>{% for t in nav_tiers %}<a class="chip" href="{% url 'tier' t.slug %}">{% icon "tag" %}{{ t.name }} trips</a>{% endfor %}</div>
+    </div>
+  </div>
+</section>
+{% endblock %}

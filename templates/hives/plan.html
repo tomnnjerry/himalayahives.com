@@ -1,0 +1,110 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}Plan your Himalaya trip · a route and a price within one working day · Himalaya Hives{% endblock %}
+{% block description %}Tell us the valley, the month and your budget. A planner replies within one working day with a route, a sleeping-altitude profile and an itemised price. No payment to start.{% endblock %}
+{% block og_title %}Plan your Himalaya trip{% endblock %}
+{% block head_extra %}<style>
+.wizard:not([data-ready]) .wizard__nav { display: none; }
+.wizard fieldset { border: 0; padding: 0; margin: 0 0 16px; min-width: 0; }
+.wizard__step h2 { font: 400 clamp(26px, 2.6vw, 34px)/1.1 var(--display); margin: 0 0 6px; }
+.wizard__step > p { margin: 0 0 22px; color: var(--muted); font-size: 16px; }
+.wizard .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.wizard .help { font-size: 14px; color: var(--muted); margin: 0; }
+.wizard .is-bad input, .wizard .is-bad select, .wizard .is-bad textarea { border-color: var(--flag-r); }
+.form-alert { border-left: 3px solid var(--flag-r); background: var(--paper-2); padding: 14px 18px; margin: 0 0 22px; }
+.form-alert p { margin: 0 0 6px; font-weight: 600; }
+.form-alert .errorlist { margin: 0; }
+@media (max-width: 560px) { .wizard .row2 { grid-template-columns: 1fr; } }
+</style>{% endblock %}
+{% block cta %}{% endblock %}
+{% block fab %}{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="plan" eyebrow="Plan a trip" title="Tell us the valley, the month and the budget" lede="Three short steps. A planner replies within one working day with a route, a sleeping-altitude profile and an itemised price in your tier." %}
+
+<section class="sec sec--tight">
+  <div class="wrap split">
+    <div>
+      <form class="wizard" method="post" action="{% url 'plan' %}" data-wizard data-cta-form="plan">
+        {% csrf_token %}
+        {{ form.source_page }}{{ form.kind }}{{ form.website }}
+        <ol class="wizard__steps" aria-label="Steps">
+          <li class="is-on">1 · Where and when</li>
+          <li>2 · The trip</li>
+          <li>3 · Your details</li>
+        </ol>
+        <div class="wizard__bar" aria-hidden="true"><span></span></div>
+
+        {% if form.errors %}<div class="form-alert" role="alert">
+          <p>Please check {% if form.errors|length == 1 %}one detail{% else %}a few details{% endif %} and send again</p>
+          <ul class="errorlist" role="alert">{% for e in form.non_field_errors %}<li>{{ e }}</li>{% endfor %}{% for f in form %}{% for e in f.errors %}<li>{{ f.label }}: {{ e }}</li>{% endfor %}{% endfor %}</ul>
+        </div>{% endif %}
+
+        <div class="wizard__step is-on" id="step-1">
+          <h2>Where and when</h2>
+          <p>Pick one hive or several. Not sure yet is fine: tell us the month and we will suggest the valley at its best.</p>
+          <fieldset class="field{% if form.lands.errors %} is-bad{% endif %}">
+            <legend>Which hives interest you</legend>
+            <ul>{% for c in form.lands %}<li><label for="{{ c.id_for_label }}">{{ c.tag }} {{ c.choice_label }}</label></li>{% endfor %}</ul>
+            {{ form.lands.errors }}
+          </fieldset>
+          <div class="row2">
+            <div class="field{% if form.month.errors %} is-bad{% endif %}"><label for="{{ form.month.id_for_label }}">Month</label>{{ form.month }}{{ form.month.errors }}</div>
+            <div class="field{% if form.nights.errors %} is-bad{% endif %}"><label for="{{ form.nights.id_for_label }}">{{ form.nights.label }}</label><input type="number" name="nights" id="{{ form.nights.id_for_label }}" min="1" max="60" inputmode="numeric" placeholder="e.g. 7" value="{{ form.nights.value|default_if_none:'' }}">{{ form.nights.errors }}</div>
+          </div>
+          <div class="wizard__nav"><span></span><button class="btn btn--ink" type="button" data-next>Next: the trip</button></div>
+        </div>
+
+        <div class="wizard__step" id="step-2">
+          <h2>The trip</h2>
+          <p>A rough budget lets us price the right tier first. You can mix tiers, for example Saver in the valley and a good hotel on the last night.</p>
+          <div class="row2">
+            <div class="field{% if form.travellers.errors %} is-bad{% endif %}"><label for="{{ form.travellers.id_for_label }}">{{ form.travellers.label }}</label><input type="number" name="travellers" id="{{ form.travellers.id_for_label }}" min="1" max="40" inputmode="numeric" value="{{ form.travellers.value|default_if_none:'2' }}">{{ form.travellers.errors }}</div>
+            <div class="field{% if form.budget.errors %} is-bad{% endif %}"><label for="{{ form.budget.id_for_label }}">{{ form.budget.label }}</label>{{ form.budget }}{{ form.budget.errors }}</div>
+          </div>
+          <div class="field{% if form.message.errors %} is-bad{% endif %}"><label for="{{ form.message.id_for_label }}">{{ form.message.label }}</label>{{ form.message }}{{ form.message.errors }}
+            <p class="help">Useful: dates if fixed, ages of children, anyone with heart or lung conditions, treks you want, places you have already seen.</p></div>
+          <div class="wizard__nav"><button class="btn btn--line" type="button" data-prev>Back</button><button class="btn btn--ink" type="button" data-next>Next: your details</button></div>
+        </div>
+
+        <div class="wizard__step" id="step-3">
+          <h2>Your details</h2>
+          <p>We use these only to reply about this trip. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+          <div class="field{% if form.name.errors %} is-bad{% endif %}"><label for="{{ form.name.id_for_label }}">{{ form.name.label }}</label><input type="text" name="name" id="{{ form.name.id_for_label }}" required maxlength="120" autocomplete="name" value="{{ form.name.value|default_if_none:'' }}">{{ form.name.errors }}</div>
+          <div class="row2">
+            <div class="field{% if form.email.errors %} is-bad{% endif %}"><label for="{{ form.email.id_for_label }}">{{ form.email.label }}</label><input type="email" name="email" id="{{ form.email.id_for_label }}" required autocomplete="email" value="{{ form.email.value|default_if_none:'' }}">{{ form.email.errors }}</div>
+            <div class="field{% if form.phone.errors %} is-bad{% endif %}"><label for="{{ form.phone.id_for_label }}">{{ form.phone.label }} (optional)</label><input type="tel" name="phone" id="{{ form.phone.id_for_label }}" maxlength="40" autocomplete="tel" value="{{ form.phone.value|default_if_none:'' }}">{{ form.phone.errors }}</div>
+          </div>
+          <fieldset class="field{% if form.contact_pref.errors %} is-bad{% endif %}">
+            <legend>{{ form.contact_pref.label }}</legend>
+            <ul>{% for c in form.contact_pref %}<li><label for="{{ c.id_for_label }}">{{ c.tag }} {{ c.choice_label }}</label></li>{% endfor %}</ul>
+            {{ form.contact_pref.errors }}
+          </fieldset>
+          <div class="wizard__nav"><button class="btn btn--line" type="button" data-prev>Back</button><button class="btn btn--foil" type="submit" data-cta="plan-submit">Send to a planner</button></div>
+        </div>
+
+        <div class="wizard__submit-only"><button class="btn btn--foil btn--block" type="submit" data-cta="plan-submit-nojs">Send to a planner</button></div>
+        <p class="small muted" style="margin:16px 0 0">No payment to start. We reply by email{% if wa_base %} or WhatsApp{% endif %} within one working day.</p>
+      </form>
+    </div>
+
+    <aside class="split__aside">
+      <div class="panel">
+        <h2>What happens next</h2>
+        <div class="ledger">
+          <div class="ledger__row"><span>A planner reads your note</span><span class="ledger__dots"></span><b>Same day</b></div>
+          <div class="ledger__row"><span>Route, altitude profile, itemised price</span><span class="ledger__dots"></span><b>1 working day</b></div>
+          <div class="ledger__row"><span>Changes until it fits</span><span class="ledger__dots"></span><b>As many as you need</b></div>
+          <div class="ledger__row"><span>Payment</span><span class="ledger__dots"></span><b>Only when you book</b></div>
+        </div>
+        <a class="link" style="margin-top:16px" href="{% url 'how_we_work' %}">How we work {% icon "arrow" %}</a>
+      </div>
+      <div class="panel panel--line">
+        <h3>Rather talk first?</h3>
+        <p class="small" style="margin:0 0 12px">Write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if tel %} or call <a href="tel:{{ tel }}">{{ SITE.phone }}</a>{% endif %}.</p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">{% if wa_base %}<a class="btn btn--line btn--sm" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="plan-whatsapp">WhatsApp</a>{% endif %}<a class="btn btn--line btn--sm" href="{% url 'contact' %}#callback" data-cta="plan-callback">Request a call back</a></div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<div class="wrap" style="padding-bottom:clamp(44px,5vw,72px)">{% include "hives/partials/trust.html" %}</div>
+{% endblock %}

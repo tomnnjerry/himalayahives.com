@@ -1,0 +1,68 @@
+{% extends "hives/base.html" %}{% load hives %}
+{% block title %}The hives · {{ regions|length }} Himalaya valleys compared · Himalaya Hives{% endblock %}
+{% block description %}Compare {{ regions|length }} Himalaya hives from Kashmir to Arunachal: best months, sleeping altitude, Saver prices and what each valley is known for.{% endblock %}
+{% block og_title %}The hives of the Himalaya{% endblock %}
+{% block content %}
+{% include "hives/partials/phead.html" with seed="lands" eyebrow="West to east along the arc" title="The hives" lede="Each valley is a hive: villages on the warm side of a slope, joined by old trade paths, with their own food, words and festivals." answer="We plan trips in these Himalaya valleys and nowhere else. Compare when each one is open, how high you sleep and what a Saver trip costs, then open a hive for its places, trips and month-by-month notes." %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">{{ regions|length }} hives</p><h2 class="d-1">Pick a valley</h2><p class="lede">Ordered west to east. Prices are indicative 2026, per person, twin sharing, from the trip's start point.</p></div>
+      <a class="link" href="{% url 'journeys' %}">Every trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for r in regions %}<a class="cell" href="{{ r.url }}" data-land="{{ r.slug }}">
+      <div class="cell__ph">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" srcset="{{ img|srcset }}" sizes="(max-width: 980px) 100vw, 33vw" alt="{{ r.name }}" loading="lazy">{% include "hives/partials/credit.html" %}{% endif %}{% endwith %}
+        <span class="cell__badge hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span></div>
+      <div class="cell__body">
+        <span class="readout">{{ r.country }}{% if r.max_alt %} · {{ r.min_alt|thousands }}–{{ r.max_alt|alt }}{% endif %}</span>
+        <h3 class="cell__title">{{ r.name }}</h3>
+        <p class="cell__text">{{ r.tagline }}</p>
+        {% include "hives/partials/mbar.html" with bar=r.bar label=r.best_label %}
+        <div class="cell__foot">{% if r.saver_from %}<span class="price"><small>Saver from</small>{{ r.saver_from|inr }}</span>{% else %}<span class="readout">{{ r.places|length }} places</span>{% endif %}<span class="readout">Best {{ r.best_label|default:"varies" }}</span></div>
+      </div>
+    </a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="compare">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Side by side</p><h2 class="d-1">The hives in numbers</h2></div></div>
+    <div class="tablewrap"><table class="table">
+      <thead><tr><th scope="col">Hive</th><th scope="col">Best months</th><th scope="col">Altitude range</th><th scope="col">Saver from</th><th scope="col">Comfort from</th><th scope="col">Signature from</th></tr></thead>
+      <tbody>{% for r in regions %}<tr><th scope="row" style="background:transparent;color:var(--ink);font:600 16px/1.3 var(--text);text-transform:none;letter-spacing:0"><a href="{{ r.url }}">{{ r.name }}</a></th>
+        <td>{{ r.best_label|default:"—" }}</td>
+        <td>{% if r.max_alt %}{{ r.min_alt|thousands }}–{{ r.max_alt|alt }}{% else %}—{% endif %}</td>
+        <td>{% if r.tier_from.saver %}<a href="{% url 'affordable_region' r.slug %}">{{ r.tier_from.saver|inr }}</a>{% else %}<a href="{% url 'plan' %}?land={{ r.slug }}">Ask us</a>{% endif %}</td>
+        <td>{% if r.tier_from.comfort %}{{ r.tier_from.comfort|inr }}{% else %}<a href="{% url 'plan' %}?land={{ r.slug }}">Ask us</a>{% endif %}</td>
+        <td>{% if r.tier_from.signature %}{{ r.tier_from.signature|inr }}{% else %}<a href="{% url 'plan' %}?land={{ r.slug }}">Ask us</a>{% endif %}</td></tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small muted">"Ask us" means we have not published a trip in that tier yet. We still plan it: send your month and budget.</p>
+  </div>
+</section>
+
+<section class="sec" id="almanac">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">When to go</p><h2 class="d-1">Which hive, which month</h2>
+      <p class="lede">Dark cells are the best months, pale cells are good, empty cells are closed or hard. A ₹ marks months when rooms and transport cost least. Tap a cell for that month's notes.</p></div>
+      <a class="link" href="{% url 'seasons' %}">Season almanac {% icon "arrow" %}</a></div>
+    <div class="alm"><table>
+      <thead><tr><th></th>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}"><span class="hbadge hbadge--sm">{% icon r.slug %}</span>{{ r.name }}</a></th>
+        {% for m in r.bar %}<td><a href="{% url 'region_month' r.slug m.full|lower %}" class="alm__c" data-v="{{ m.v }}" title="{{ r.name }} in {{ m.full }}: {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}hard or closed{% endif %}"><span class="sr-only">{{ r.name }} in {{ m.full }}</span></a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+    <div class="alm__key"><span><i style="background:#2B2012"></i>Best</span><span><i style="background:#E8C98A"></i>Good</span><span><i></i>Hard or closed</span></div>
+  </div>
+</section>
+
+<section class="sec sec--tint">
+  <div class="wrap grid grid--2" style="align-items:start">
+    <div>
+      <p class="eyebrow">Not sure which hive</p><h2 class="d-2" style="margin-bottom:16px">Start from what you want</h2>
+      <div class="chips">{% for t in nav_themes %}<a class="chip" href="{{ t.url }}">{% icon t.icon %}{{ t.name }}</a>{% endfor %}</div>
+    </div>
+    <div>
+      <p class="eyebrow">Or from what you can spend</p><h2 class="d-2" style="margin-bottom:16px">Trips by budget</h2>
+      <div class="chips"><a class="chip" href="{% url 'affordable' %}">{% icon "wallet" %}The affordable Himalaya</a>{% for t in nav_tiers %}<a class="chip" href="{% url 'tier' t.slug %}">{% icon "tag" %}{{ t.name }} trips</a>{% endfor %}<a class="chip" href="{% url 'tool_season' %}">{% icon "calendar" %}Season finder</a></div>
+    </div>
+  </div>
+</section>
+{% endblock %}
