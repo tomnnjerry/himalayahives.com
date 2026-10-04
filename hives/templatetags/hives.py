@@ -180,3 +180,9 @@ def thousands(value):
         return f"{int(value):,}"
     except (TypeError, ValueError):
         return value
+
+
+@register.inclusion_tag("hives/partials/seal.html")
+def seal(r, size="sm"):
+    """Hex photo seal for a hive (its lead photo, or its gradient with the first letter) with its landmark line."""
+    return {"r": r, "size": size}

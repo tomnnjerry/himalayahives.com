@@ -39,7 +39,7 @@
       <p class="lede">Dark cells are the best months, pale cells are good, empty cells are closed or hard going. A ₹ marks months when rooms and transport cost least. Tap a cell for that month in that hive.</p></div></div>
     <div class="alm"><table>
       <thead><tr><th></th>{% for m in months_short %}<th scope="col"{% if forloop.counter|stringformat:"s" == cur %} class="is-now"{% endif %}><span>{{ m }}</span></th>{% endfor %}</tr></thead>
-      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span>{{ r.name }}</a></th>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}">{% seal r %}</a></th>
         {% if r.months|length >= 12 %}{% for m in r.months|slice:":12" %}<td><a href="{% url 'region_month' r.slug m.month|lower %}" class="alm__c" data-v="{{ m.rating }}" data-p="{{ m.price_level }}" title="{{ r.name }} in {{ m.month }}: {% if m.rating == 2 %}best{% elif m.rating == 1 %}good{% else %}hard or closed{% endif %}{% if m.price_level %}, {{ m.price_level }} prices{% endif %}"><span class="sr-only">{{ r.name }} in {{ m.month }}: {% if m.rating == 2 %}best{% elif m.rating == 1 %}good{% else %}hard or closed{% endif %}{% if m.price_level %}, {{ m.price_level }} prices{% endif %}</span></a></td>{% endfor %}
         {% else %}{% for m in r.bar %}<td><a href="{% url 'region_month' r.slug m.full|lower %}" class="alm__c" data-v="{{ m.v }}" title="{{ r.name }} in {{ m.full }}"><span class="sr-only">{{ r.name }} in {{ m.full }}: {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}hard or closed{% endif %}</span></a></td>{% endfor %}{% endif %}</tr>{% endfor %}</tbody>
     </table></div>
@@ -66,7 +66,7 @@
   <div class="wrap">
     <div class="sec-head"><div><p class="eyebrow">Hive by hive</p><h2 class="d-1">Each hive's year</h2></div><a class="link" href="{% url 'lands' %}">Compare the hives {% icon "arrow" %}</a></div>
     <div class="grid grid--3">{% for r in regions %}<a class="panel" href="{{ r.url }}#months" data-land="{{ r.slug }}" style="text-decoration:none;display:grid;gap:10px">
-      <span style="display:flex;gap:12px;align-items:center"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><b class="d-4">{{ r.name }}</b></span>
+      <span style="display:flex;gap:12px;align-items:center">{% seal r %}</span>
       <span class="readout">Best <b>{{ r.best_label|default:"varies" }}</b>{% if r.cheap_months %} · cheapest {% for m in r.cheap_months|slice:":2" %}{{ m|slice:":3" }}{% if not forloop.last %}, {% endif %}{% endfor %}{% endif %}</span>
       {% include "hives/partials/mbar.html" with bar=r.bar label=r.best_label %}
     </a>{% endfor %}</div>

@@ -1,0 +1,1 @@
+{% load hives %}<span class="seal seal--{{ size }}" data-land="{{ r.slug }}"><span class="seal__hex">{% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy" onerror="this.remove()">{% endif %}{% endwith %}<i aria-hidden="true">{{ r.name|slice:":1" }}</i></span><span class="seal__txt"><b>{{ r.name }}</b><small>{{ r.known }}</small></span></span>

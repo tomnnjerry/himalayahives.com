@@ -53,7 +53,9 @@ LANDS = {
                   "grad": ("#230A24", "#3E1240", "#5E1E5C"), "foil": ("#FFDCC8", "#FF8C5E", "#C6512A"),
                   "ink": "#B0431D", "tint": "#F4E8F1"},
 }
+KNOWN = {'kashmir': 'Dal Lake houseboats', 'ladakh': 'Gompas above the high desert', 'himachal': 'Cedar villages and old castles', 'spiti': 'Key Gompa above the river', 'garhwal': 'The four Char Dham shrines', 'kumaon': 'Naini lake at dawn', 'nepal': 'Three royal cities, one valley', 'darjeeling': 'Toy train and first-flush tea', 'sikkim': 'Kangchenjunga at dawn', 'bhutan': "Tiger's Nest above Paro", 'arunachal': 'Tawang Monastery at prayer'}
 for _slug, _p in LANDS.items():
+    _p["known"] = KNOWN[_slug]
     _p["accent"] = _p["foil"][1]
     _p["ground"] = _p["grad"][1]
 

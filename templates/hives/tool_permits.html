@@ -44,7 +44,7 @@
     <div class="pm">{% for r in regions %}
       <article class="pm__c" id="{{ r.slug }}" data-land="{{ r.slug }}">
         <div>
-          <h2><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h2>
+          <h2><a href="{{ r.url }}" style="text-decoration:none">{% seal r "md" %}</a></h2>
           {% for k, v in r.facts %}{% if k == "Permits" %}<p class="pm__short">{{ v }}</p>{% endif %}{% endfor %}
           {% if r.permits %}<p class="pm__text" data-permit>{{ r.permits }}</p>
           {% else %}<p class="pm__text muted">We are still writing up the permit rules for {{ r.name }}. <a href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}">Ask a planner</a> for the current position.</p>{% endif %}

@@ -303,3 +303,13 @@
     doc.classList.remove("js");
   }
 })();
+
+/* a photo that fails to load is removed so the gradient placeholder underneath shows instead of a broken-image icon */
+document.addEventListener("error", function (e) {
+  var el = e.target;
+  if (el && el.tagName === "IMG" && el.closest(".cell__ph, .seal__hex, .comb__c, .mhive, .mfeat, .phead__photo")) {
+    var cr = el.parentNode && el.parentNode.querySelector(".credit");
+    if (cr) cr.remove();
+    el.remove();
+  }
+}, true);

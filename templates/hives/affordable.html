@@ -50,7 +50,7 @@
     <div class="tablewrap" style="position:relative"><table class="table">
       <thead><tr><th scope="col">Hive</th><th scope="col">Saver day</th><th scope="col">Saver trips from</th><th scope="col">Cheapest months</th><th scope="col"><span class="sr-only">Link</span></th></tr></thead>
       <tbody>{% for row in rows %}<tr data-land="{{ row.r.slug }}">
-        <th scope="row" style="background:transparent;color:var(--ink);font:400 19px/1.2 var(--display);text-transform:none;letter-spacing:0"><a href="{{ row.r.url }}" style="text-decoration:none;display:flex;align-items:center;gap:10px"><span class="hbadge hbadge--sm hbadge--foil">{% icon row.r.slug %}</span>{{ row.r.name }}</a></th>
+        <th scope="row" style="background:transparent;color:var(--ink);font:400 19px/1.2 var(--display);text-transform:none;letter-spacing:0"><a href="{{ row.r.url }}" style="text-decoration:none;display:flex;align-items:center;gap:10px">{% seal row.r %}</a></th>
         <td class="mono">{% if row.per_day %}₹{{ row.per_day }}{% else %}<span class="muted">Ask us</span>{% endif %}</td>
         <td class="mono">{% if row.from %}{{ row.from|inr }}{% else %}<span class="muted">Trips being added</span>{% endif %}</td>
         <td>{% if row.cheap %}{{ row.cheap|join:", " }}{% else %}<span class="muted">Shoulder months</span>{% endif %}</td>

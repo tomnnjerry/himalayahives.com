@@ -59,7 +59,7 @@
     {% if regions %}<nav class="chips" aria-label="Jump to a hive" style="margin:12px 0 10px">{% for r in regions %}<a class="chip" href="#hive-{{ r.slug }}" data-land="{{ r.slug }}">{% icon r.slug %}{{ r.name }}</a>{% endfor %}</nav>{% endif %}
 
     {% for r in regions %}<section class="smap-hive" id="hive-{{ r.slug }}" data-land="{{ r.slug }}">
-      <h2 class="d-2"><span class="hbadge hbadge--sm hbadge--foil">{% icon r.slug %}</span><a href="{{ r.url }}" style="text-decoration:none">{{ r.name }}</a></h2>
+      <h2 class="d-2"><a href="{{ r.url }}" style="text-decoration:none">{% seal r "md" %}</a></h2>
       <div class="smap">
         <div><h3>Overview</h3><ul>
           <li><a href="{{ r.url }}">{{ r.name }} overview</a></li>
