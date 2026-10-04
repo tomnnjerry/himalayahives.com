@@ -11,11 +11,11 @@
 <meta property="og:url" content="{{ canonical }}">
 <meta property="og:type" content="website">
 {% block og_image %}{% endblock %}
-<meta name="theme-color" content="#100E0B">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 44'%3E%3Cpath d='M20 1l18 10.5v21L20 43 2 32.5v-21z' fill='%23E9A21A'/%3E%3Cpath d='M7 31l8-11 4 5 5-7 9 13z' fill='%23100E0B'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#0E1A33">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 44'%3E%3Cpath d='M20 1l18 10.5v21L20 43 2 32.5v-21z' fill='%23E8806A'/%3E%3Cpath d='M7 31l8-11 4 5 5-7 9 13z' fill='%230E1A33'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Martian+Mono:wdth,wght@87.5,400..600&family=Mukta:wght@400;500;600;700&family=Rozha+One&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..700&family=Fraunces:opsz,wght@9..144,300..600&display=swap">
 <link rel="preconnect" href="https://upload.wikimedia.org">
 <link rel="stylesheet" href="{% static 'css/hive.css' %}?v={{ V }}">
 <style>{% for r in nav_regions %}[data-land="{{ r.slug }}"]{--g0:{{ r.grad.0 }};--g1:{{ r.grad.1 }};--g2:{{ r.grad.2 }};--f0:{{ r.foil.0 }};--f1:{{ r.foil.1 }};--f2:{{ r.foil.2 }};--hink:{{ r.ink }};--tint:{{ r.tint }}}{% endfor %}</style>
@@ -30,13 +30,11 @@
 
 <div class="util">
   <div class="wrap util__in">
-    <p class="util__note">Himalaya only · Saver trips from <b>{{ saver_from|inr }}</b> · a planner replies within one working day</p>
+    <p class="util__note">Himalaya only · Saver trips from <b>{{ saver_from|inr }}</b></p>
     <nav class="util__links" aria-label="Contact">
       {% if tel %}<a href="tel:{{ tel }}" data-cta="util-call">{{ SITE.phone }}</a>{% endif %}
       {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="util-whatsapp" rel="noopener">WhatsApp</a>{% endif %}
       <a href="mailto:{{ SITE.email }}" data-cta="util-email">{{ SITE.email }}</a>
-      <a href="{% url 'how_we_work' %}">How we work</a>
-      <a href="{% url 'contact' %}">Contact</a>
     </nav>
   </div>
 </div>
@@ -44,7 +42,7 @@
 <header class="mast">
   <div class="wrap mast__in">
     <a class="brand" href="{% url 'home' %}" aria-label="Himalaya Hives, home">
-      <svg class="brand__mark" viewBox="0 0 40 44" aria-hidden="true"><defs><linearGradient id="bm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE7A3"/><stop offset=".5" stop-color="#E9A21A"/><stop offset="1" stop-color="#A86A00"/></linearGradient></defs><path d="M20 1l18 10.5v21L20 43 2 32.5v-21z" fill="url(#bm)"/><path d="M6.5 31l8.2-11.5 4.3 5.4 5.2-7.4L33.5 31z" fill="#100E0B"/><path d="M12.4 22.7l2.3 1.3 1.7-1.6M22.7 20.3l1.5 1.2 1.6-1.4" fill="none" stroke="#FFF3D1" stroke-width="1.2" stroke-linecap="round"/><path d="M9 35.5c4-1.6 8-1.6 11 0s7 1.6 11 0" fill="none" stroke="#100E0B" stroke-width="1.3" stroke-linecap="round"/></svg>
+      <svg class="brand__mark" viewBox="0 0 40 44" aria-hidden="true"><defs><linearGradient id="bm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD9BE"/><stop offset=".5" stop-color="#EE8C70"/><stop offset="1" stop-color="#B5476A"/></linearGradient></defs><path d="M20 1l18 10.5v21L20 43 2 32.5v-21z" fill="url(#bm)"/><path d="M6.5 31l8.2-11.5 4.3 5.4 5.2-7.4L33.5 31z" fill="#0E1A33"/><path d="M12.4 22.7l2.3 1.3 1.7-1.6M22.7 20.3l1.5 1.2 1.6-1.4" fill="none" stroke="#FFF1E6" stroke-width="1.2" stroke-linecap="round"/><path d="M9 35.5c4-1.6 8-1.6 11 0s7 1.6 11 0" fill="none" stroke="#0E1A33" stroke-width="1.3" stroke-linecap="round"/></svg>
       <span class="brand__word">Himalaya Hives<small>Kashmir to Arunachal</small></span>
     </a>
     {% include "hives/partials/nav.html" %}
@@ -90,49 +88,40 @@
 {% block cta %}{% include "hives/partials/cta.html" %}{% endblock %}
 
 <footer class="foot">
-  {% topo "footer-hive" %}
-  <div class="foot__ridge">{% ridgeline "footer" 4 %}</div>
+  <div class="foot__ridge" aria-hidden="true">{% ridgeline "footer" 4 %}</div>
   <div class="wrap">
-    <div class="foot__top">
-      <p class="foot__big">Every valley<br>is a <span class="foil-text">hive</span></p>
-      <div class="foot__contact">
-        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><b>Plan online</b><span>Three short steps, a first route within one working day</span></a>
-        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><b>WhatsApp a planner</b><span>Quick questions, quick answers</span></a>{% else %}<a class="fcard" href="{% url 'contact' %}#callback" data-cta="footer-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>{% endif %}
-        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><b>{% if tel %}Call {{ SITE.phone }}{% else %}Write to us{% endif %}</b><span>{{ SITE.email }}</span></a>
-      </div>
-    </div>
-    <form class="letter" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">
-      {% csrf_token %}
-      <div><h2>The Hive letter</h2><p>One email a month: which valley is at its best, roads that opened, festival dates and the month's cheapest trips. Nothing you did not ask for.</p></div>
-      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter">Subscribe</button></div>
-    </form>
-    <div class="foot__brand">
+    <div class="foot__hero">
       <div>
-        <a class="brand" href="{% url 'home' %}" aria-label="Himalaya Hives, home"><span class="brand__word">Himalaya Hives<small>Kashmir to Arunachal</small></span></a>
-        <p>We plan trips in the Himalaya and nowhere else. Every trip comes in three tiers, with honest prices, sleeping-altitude profiles and local facts that name their sources.</p>
+        <p class="foot__eyebrow">Himalaya Hives · Kashmir to Arunachal</p>
+        <p class="foot__big">Every valley is a hive</p>
+        <p class="foot__lede">We plan trips in the Himalaya and nowhere else, in three tiers, with honest prices and sleeping-altitude profiles.</p>
+        <div class="foot__ctas">
+          <a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan">Plan my trip</a>
+          {% if wa_base %}<a class="btn btn--glass" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp" rel="noopener">WhatsApp a planner</a>{% endif %}
+        </div>
       </div>
-      <div class="foot__stats">
-        <div><b>{{ counts.regions }}</b><span>Hives</span></div>
-        <div><b>{{ counts.places }}</b><span>Places</span></div>
-        <div><b>{{ counts.journeys }}</b><span>Trips in 3 tiers</span></div>
-        <div><b>{{ counts.guides }}</b><span>Guides</span></div>
-      </div>
+      <form class="letter" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">
+        {% csrf_token %}
+        <h2>The Hive letter</h2>
+        <p>One email a month: which valley is at its best, roads that opened, festival dates and the cheapest trips.</p>
+        <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter">Subscribe</button></div>
+      </form>
     </div>
     <div class="foot__cols">
-      <div><h3>Hives</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__hive" data-land="{{ r.slug }}"><i aria-hidden="true"></i>{{ r.name }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Affordable</h3><ul><li><a href="{% url 'affordable' %}">The affordable Himalaya</a></li>{% for a, l in nav_bands %}<li><a href="{% url 'affordable_under' a %}">Trips {{ l|lower }}</a></li>{% endfor %}{% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }} trips</a></li>{% endfor %}<li><a href="{% url 'tool_budget' %}">Budget builder</a></li></ul></div>
-      <div><h3>Plan</h3><ul><li><a href="{% url 'journal' %}">Journal</a></li><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'seasons' %}">Season almanac</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'tool_altitude' %}">Altitude planner</a></li><li><a href="{% url 'field_notes' %}">Field notes</a></li><li><a href="{% url 'themes' %}">Travel styles</a></li></ul></div>
-      <div><h3>Company</h3><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'design_system' %}">Design system</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
-      <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}</ul></div>
-    </div>
-    <div class="foot__trust">
-      <span>Payments: UPI · bank transfer · cards</span><span>No payment to start · written, itemised quotes</span>
+      <div><h3>Hives</h3><ul class="foot__hives">{% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><i aria-hidden="true"></i>{{ r.name }}</a></li>{% endfor %}</ul></div>
+      <div><h3>Trips</h3><ul><li><a href="{% url 'journeys' %}">Every trip</a></li>{% for t in nav_tiers %}<li><a href="{% url 'tier' t.slug %}">{{ t.name }} trips</a></li>{% endfor %}<li><a href="{% url 'affordable' %}">The affordable Himalaya</a></li><li><a href="{% url 'themes' %}">Travel styles</a></li></ul></div>
+      <div><h3>Plan</h3><ul><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'journal' %}">Journal</a></li><li><a href="{% url 'seasons' %}">Season almanac</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'field_notes' %}">Field notes</a></li></ul></div>
+      <div><h3>Company</h3><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'contact' %}">Contact</a></li></ul></div>
+      <div class="foot__reach"><h3>Talk to us</h3><ul>
+        {% if tel %}<li><a href="tel:{{ tel }}" data-cta="footer-call">{{ SITE.phone }}</a></li>{% endif %}
+        {% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp-2" rel="noopener">WhatsApp</a></li>{% endif %}
+        <li><a href="mailto:{{ SITE.email }}" data-cta="footer-email">{{ SITE.email }}</a></li></ul>
+        <p class="foot__note">A planner replies within one working day. No payment to start.</p></div>
     </div>
     <div class="foot__base">
       <span>© {% now "Y" %} Himalaya Hives{% if SITE.address %} · {{ SITE.address }}{% endif %}</span>
-      <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth</span>
-      <a href="#main">Back to the top ↑</a>
+      <nav aria-label="Legal">{% for k, n in nav_policies %}<a href="{% url 'policy' k %}">{{ n }}</a>{% endfor %}<a href="{% url 'photo_credits' %}">Photo credits</a><a href="{% url 'html_sitemap' %}">Sitemap</a></nav>
+      <span>Payments: UPI · bank transfer · cards</span>
     </div>
   </div>
 </footer>

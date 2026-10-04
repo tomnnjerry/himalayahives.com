@@ -13,15 +13,9 @@
           </ul>
           <a class="btn btn--ink btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-hives-plan">Ask a planner</a>
         </div>
-        <div class="mhives">
-          {% for r in nav_regions %}<a class="mhive" href="{{ r.url }}" data-land="{{ r.slug }}">
-            {% with img=r|first_img %}{% if img %}<img src="{{ img|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}
-            <span class="hbadge hbadge--foil">{% icon r.slug %}</span>
-            <b>{{ r.name }}</b>
-            <small>{{ r.palette }}</small>
-          </a>{% endfor %}
-          <a class="mhive mhive__all" href="{% url 'affordable' %}"><span class="hbadge hbadge--foil">{% icon "wallet" %}</span><b>On a budget?</b><small>The affordable Himalaya</small></a>
-        </div>
+        <ul class="mh">
+          {% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><i aria-hidden="true"></i><b>{{ r.name }}</b><small>{{ r.known }}</small></a></li>{% endfor %}
+        </ul>
       </div>
     </div>
   </div>
@@ -57,7 +51,7 @@
       <div class="wrap mega__cols" style="grid-template-columns: 2.2fr 1fr">
         <div>
           <p class="eyebrow">By kind of day</p>
-          <div class="mkinds">{% for k, n in nav_kinds %}<a href="{% url 'experience_kind' k %}"><span class="hbadge hbadge--sm">{% icon k %}</span>{{ n }}</a>{% endfor %}</div>
+          <ul class="mlist mlist--cols">{% for k, n in nav_kinds %}<li><a href="{% url 'experience_kind' k %}">{{ n }}</a></li>{% endfor %}</ul>
         </div>
         <div>
           <p class="eyebrow">Also</p>
