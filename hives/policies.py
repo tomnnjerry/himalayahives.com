@@ -51,7 +51,7 @@ POLICIES["booking-terms"] = {
     "summary": "Prices on this site are indicative. Your written quote is the offer; a booking is confirmed when we receive your deposit and send written confirmation. Travel insurance with medical evacuation cover is a condition of booking.",
     "sections": [
         ("Who we are", [
-            "Himalaya Hives is a trading name of [LEGAL NAME], registered at [REGISTERED ADDRESS], [COMPANY REGISTRATION NO.], GSTIN [GSTIN], [MINISTRY OF TOURISM APPROVAL NO. IF HELD].",
+            "Himalaya Hives is a trading name of [LEGAL NAME], registered at [REGISTERED ADDRESS], [COMPANY REGISTRATION NO.], GSTIN [GSTIN].",
         ]),
         ("Prices and quotes", [
             "Prices on the website are indicative 'from' prices in Indian rupees, per person, twin sharing, at the hotels named. They are not offers. Your written quote lists the services, hotels, room categories, dates and total price, including applicable GST. A quote is valid for [7] days unless it says otherwise, and remains subject to availability until booked.",

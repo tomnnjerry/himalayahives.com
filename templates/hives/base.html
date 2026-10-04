@@ -127,10 +127,10 @@
       <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}</ul></div>
     </div>
     <div class="foot__trust">
-      <span>[Ministry of Tourism approval no.]</span><span>[State tourism registrations]</span><span>Payments: [UPI · bank transfer · cards]</span><span>No payment to start · written, itemised quotes</span>
+      <span>Payments: UPI · bank transfer · cards</span><span>No payment to start · written, itemised quotes</span>
     </div>
     <div class="foot__base">
-      <span>© {% now "Y" %} Himalaya Hives · {{ SITE.address }}</span>
+      <span>© {% now "Y" %} Himalaya Hives{% if SITE.address %} · {{ SITE.address }}{% endif %}</span>
       <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth</span>
       <a href="#main">Back to the top ↑</a>
     </div>
@@ -143,7 +143,7 @@
     <p class="fab__title">Talk to a planner</p>
     <a href="{% url 'plan' %}?from={{ request.path|urlencode }}{% block fab_land %}{% endblock %}" data-cta="fab-plan"><b>Plan online</b><span>A first route within one working day</span></a>
     {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="fab-whatsapp"><b>WhatsApp</b><span>Usually the fastest reply</span></a>{% endif %}
-    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>[Office hours]</span></a>{% endif %}
+    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>Call or WhatsApp</span></a>{% endif %}
     <a href="{% url 'contact' %}#callback" data-cta="fab-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>
     <a href="mailto:{{ SITE.email }}" data-cta="fab-email"><b>Email</b><span>{{ SITE.email }}</span></a>
   </div>

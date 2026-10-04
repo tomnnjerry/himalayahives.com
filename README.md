@@ -58,10 +58,8 @@ Every enquiry is also saved to the database and listed at `/admin/`.
 
 These show as `[BRACKETED]` placeholders on the live site until you fill them in:
 
-- Contact email, phone and WhatsApp: set the `HH_*` variables above.
-- Office address: `SITE["address"]` in `hh/settings.py`.
-- Footer trust line (Ministry of Tourism approval, state registrations, payment methods): `templates/hives/base.html`.
-- Office hours in the contact button: `templates/hives/base.html`.
+- Contact email, phone and WhatsApp are set (hello@himalayahives.com, +91 99546 34102). Override with the `HH_*` variables above.
+- Office address: set `HH_ADDRESS`; it is hidden until you do.
 - Policy pages (`hives/policies.py`): legal name, registered address, GSTIN, deposit percentages, cancellation scale and
   the review date. **Have a lawyer review these drafts before you take bookings.**
 

@@ -22,7 +22,7 @@
       <div class="contact-ways">
         <a href="mailto:{{ SITE.email }}" data-cta="contact-email"><span class="hbadge hbadge--sm hbadge--foil">{% icon "note" %}</span><span><b>Email</b><small>{{ SITE.email }}</small></span></a>
         {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="contact-whatsapp"><span class="hbadge hbadge--sm hbadge--foil">{% icon "chat" %}</span><span><b>WhatsApp</b><small>Usually the fastest reply</small></span></a>{% endif %}
-        {% if tel %}<a href="tel:{{ tel }}" data-cta="contact-call"><span class="hbadge hbadge--sm hbadge--foil">{% icon "chat" %}</span><span><b>Call {{ SITE.phone }}</b><small>[Office hours]</small></span></a>{% endif %}
+        {% if tel %}<a href="tel:{{ tel }}" data-cta="contact-call"><span class="hbadge hbadge--sm hbadge--foil">{% icon "chat" %}</span><span><b>Call {{ SITE.phone }}</b><small>Call or WhatsApp</small></span></a>{% endif %}
         <a href="#callback" data-cta="contact-callback-jump"><span class="hbadge hbadge--sm hbadge--foil">{% icon "clock" %}</span><span><b>Request a call back</b><small>Tell us when suits you</small></span></a>
         <a href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="contact-plan"><span class="hbadge hbadge--sm hbadge--foil">{% icon "route" %}</span><span><b>Plan online</b><small>Three short steps, a first route within one working day</small></span></a>
         {% if SITE.address %}<div><span class="hbadge hbadge--sm">{% icon "home" %}</span><span><b>Office</b><small>{{ SITE.address }}</small></span></div>{% endif %}
