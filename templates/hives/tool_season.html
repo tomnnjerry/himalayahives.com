@@ -14,7 +14,7 @@
 .sf-group h2 { margin-bottom: 18px; }
 .sf-card .cell__body { padding-top: 22px; }
 .sf-empty { padding: 26px; background: var(--card); clip-path: var(--chamfer); }
-@media (max-width: 760px) { .sf-months { grid-template-columns: repeat(6, minmax(0, 1fr)); } .sf-count { margin-left: 0; width: 100%; } }
+@media (max-width: 760px) { .sf-card .cell__ph { aspect-ratio: 16 / 7; } .sf-months { grid-template-columns: repeat(6, minmax(0, 1fr)); } .sf-count { margin-left: 0; width: 100%; } }
 </style>{% endblock %}
 {% block content %}
 <header class="phead phead--plain ground">
@@ -81,7 +81,7 @@
     var a = el("a", "cell sf-card");
     a.href = p.u; a.setAttribute("data-land", p.rs);
     var ph = el("div", "cell__ph");
-    if (p.i) { var img = el("img"); img.src = p.i; img.alt = ""; img.loading = "lazy"; ph.appendChild(img); }
+    if (p.i) { var img = el("img"); img.src = p.i; img.alt = ""; img.loading = "lazy"; img.onerror = function () { img.remove(); }; ph.appendChild(img); }
     var tag = el("span", "cell__tier tier " + (v === 2 ? "tier--signature" : "tier--saver"), v === 2 ? "Best" : "Good");
     ph.appendChild(tag);
     a.appendChild(ph);

@@ -1,0 +1,374 @@
+[
+ {
+  "slug": "lachung-homestay-village",
+  "name": "Lachung village homestays",
+  "place": "lachung",
+  "tier": "budget",
+  "kind": "homestay village",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Lachung village houses North Sikkim",
+  "summary": "Family homes across Lachung's hamlets take guests in a few rooms each, with home-cooked dinners and breakfasts. They are the warmest, most rooted way to spend the night before Yumthang, and the money stays with Lachungpa families.",
+  "body": [
+   "Many households in Lachung host travellers, usually in two to four rooms in a wooden or stone family house. Rooms are simple, with thick quilts, and bathrooms may be attached or shared. The kitchen, warmed by a stove, is the centre of the house, and meals of rice, dal, vegetables, eggs and sometimes meat are served there.",
+   "Homestays are generally booked through Gangtok agencies as part of a North Sikkim permit tour; ask for a homestay rather than a hotel when you book. Expect limited power and hot water in buckets in winter. Hosts can arrange walks to the monastery and the 6 am departure for Yumthang. Follow Dzumsa rules on noise and litter."
+  ],
+  "why": [
+   "Meals with a Lachungpa family",
+   "Lower cost than the larger roadside hotels",
+   "Close to the monastery and village lanes"
+  ],
+  "best_for": [
+   "budget travellers",
+   "couples",
+   "solo",
+   "families"
+  ],
+  "price_band": "₹1,500–3,000 per person a night with meals (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "How do I book a homestay in Lachung?",
+    "a": "Ask your Gangtok agency to arrange one as part of your North Sikkim permit tour. Shared tours usually assign rooms, so request a homestay when booking."
+   },
+   {
+    "q": "Are Lachung homestays heated?",
+    "a": "Rarely with central heating. The kitchen is the warm room, and beds come with thick quilts. Bring thermals and a warm cap."
+   },
+   {
+    "q": "Is food included in Lachung homestays?",
+    "a": "Usually dinner and breakfast are included. Tell your host about dietary needs in advance; vegetarian meals are easy to arrange."
+   }
+  ]
+ },
+ {
+  "slug": "yuksom-homestay-village",
+  "name": "Yuksom village homestays",
+  "place": "yuksom",
+  "tier": "budget",
+  "kind": "homestay village",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Yuksom village homestay West Sikkim",
+  "summary": "Small family homestays and lodges around Yuksom's bazaar and on the village edges offer simple rooms, home-cooked meals and a quiet base for Norbugang, Dubdi and the start of the Goecha La trek.",
+  "body": [
+   "Yuksom has long hosted trekkers, and many families have converted part of their homes into guest rooms. Expect clean, simple rooms, often with attached bathrooms and hot water, plus home-cooked dal, rice, vegetables and local greens. Several homestays have gardens with views across the valley to the forested ridges of Khangchendzonga National Park.",
+   "Homestays are a good fit for trekkers before and after Goecha La, and for travellers who want a slower stay than Pelling. Hosts can arrange guides for Dubdi and point you to Norbugang and Kathok lake. Book ahead in April, May, October and November, when trekking groups fill the village."
+  ],
+  "why": [
+   "Quiet village base near Norbugang and Dubdi",
+   "Home-cooked meals and local knowledge",
+   "Good value before and after a trek"
+  ],
+  "best_for": [
+   "trekkers",
+   "budget travellers",
+   "couples",
+   "solo"
+  ],
+  "price_band": "₹1,500–2,800 per person a night with meals (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "Are there homestays in Yuksom?",
+    "a": "Yes, several families run homestays and small lodges in and around the village. Book ahead in trekking season."
+   },
+   {
+    "q": "Do Yuksom homestays help arrange treks?",
+    "a": "Many hosts can point you to registered agencies and guides for Dzongri and Goecha La, but treks must be booked through a registered agency with permits."
+   },
+   {
+    "q": "Is Wi-Fi available in Yuksom homestays?",
+    "a": "Some have Wi-Fi, but connections are slow and unreliable. Mobile signal is patchy too."
+   }
+  ]
+ },
+ {
+  "slug": "zuluk-homestay-village",
+  "name": "Zuluk village homestays",
+  "place": "zuluk",
+  "tier": "budget",
+  "kind": "homestay village",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Zuluk homestay East Sikkim",
+  "summary": "Zuluk has no hotels; family homestays in the village and nearby hamlets host Silk Route travellers with simple rooms, warm meals and an early start for sunrise at Thambi viewpoint.",
+  "body": [
+   "Homestays in Zuluk are family houses with a few guest rooms, usually wooden, with thick quilts and either attached or shared bathrooms. Dinner and breakfast are included, cooked by the family: rice, dal, vegetables and eggs, with chicken on request. Hot water usually comes in buckets, and power cuts are common.",
+   "Because Zuluk is in a Protected Area open only to Indian nationals, homestays are booked together with your permit and vehicle through a registered agency. Most hosts arrange the pre-dawn drive to Thambi viewpoint and Lungthung. Nights are cold from October to April, so pack thermals and a warm cap."
+  ],
+  "why": [
+   "The only way to stay overnight in Zuluk",
+   "Early start for sunrise on the loops",
+   "Meals cooked by the family"
+  ],
+  "best_for": [
+   "couples",
+   "students",
+   "photographers",
+   "budget travellers"
+  ],
+  "price_band": "₹1,500–2,500 per person a night with meals (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "How do I book a homestay in Zuluk?",
+    "a": "Through the registered agency arranging your Silk Route permit and vehicle. Permits and stays are usually booked together."
+   },
+   {
+    "q": "Can foreigners stay in Zuluk?",
+    "a": "Zuluk has been open only to Indian nationals. Check current status before you travel."
+   },
+   {
+    "q": "Is it very cold in Zuluk homestays?",
+    "a": "Yes, from October to April nights are cold and often below freezing. Rooms rarely have heating; bring warm layers."
+   }
+  ]
+ },
+ {
+  "slug": "hotel-tibet-gangtok",
+  "name": "Hotel Tibet",
+  "place": "gangtok",
+  "tier": "mid",
+  "kind": "boutique hotel",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Hotel Tibet Gangtok",
+  "summary": "A long-established mid-range hotel near Paljor Stadium, a few minutes' walk from MG Marg, decorated in Tibetan style with painted woodwork and thangkas. A central, practical base for permits, day trips and evening walks.",
+  "body": [
+   "Hotel Tibet stands on Paljor Stadium Road, just below the centre of Gangtok, and has been a fixture of the town for decades. Its public areas use traditional Tibetan decoration, with carved and painted woodwork, and some rooms look towards the Kangchenjunga range on clear days.",
+   "The location is the main draw: MG Marg, Lal Bazaar and the taxi stands are walkable, and the hotel can arrange permits and vehicles for Tsomgo and North Sikkim. Rooms are comfortable rather than luxurious. Ask for a room on the mountain side and confirm current rates directly."
+  ],
+  "why": [
+   "Walking distance to MG Marg",
+   "Tibetan-style decoration",
+   "Help with permits and day trips"
+  ],
+  "best_for": [
+   "couples",
+   "families",
+   "first-timers"
+  ],
+  "price_band": "₹4,000–7,000 a night for a double (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "Where is Hotel Tibet in Gangtok?",
+    "a": "On Paljor Stadium Road, a short walk below MG Marg in central Gangtok."
+   },
+   {
+    "q": "Can Hotel Tibet arrange Tsomgo and North Sikkim permits?",
+    "a": "Most Gangtok hotels, including this one, help arrange permits and vehicles through registered agencies. Ask at the desk a day ahead with your ID and photos."
+   },
+   {
+    "q": "Does Hotel Tibet have mountain views?",
+    "a": "Some rooms face the Kangchenjunga range and have views on clear days. Ask for a mountain-side room when booking."
+   }
+  ]
+ },
+ {
+  "slug": "netuk-house-gangtok",
+  "name": "Netuk House",
+  "place": "gangtok",
+  "tier": "mid",
+  "kind": "heritage hotel",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Netuk House Gangtok",
+  "summary": "A family-run heritage guesthouse in a traditional Sikkimese home off Tibet Road, known for its painted interiors and home-cooked Sikkimese meals. A small, personal stay a short walk from the centre of Gangtok.",
+  "body": [
+   "Netuk House is a Sikkimese family home that takes guests in a small number of rooms, decorated with traditional painted woodwork, carpets and furnishings. It sits in a quiet lane near Tibet Road, a short uphill walk from MG Marg.",
+   "The experience is closer to staying with a family than in a hotel, and meals often include Sikkimese dishes. It suits travellers who want character and quiet in the city. Rooms are limited, so book ahead in spring and autumn, and confirm current rates and meal plans directly."
+  ],
+  "why": [
+   "Traditional Sikkimese house and decoration",
+   "Home-cooked Sikkimese food",
+   "Quiet lane near the centre"
+  ],
+  "best_for": [
+   "couples",
+   "seniors",
+   "solo"
+  ],
+  "price_band": "₹5,000–9,000 a night for a double (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "Is Netuk House a hotel or homestay?",
+    "a": "It is a family-run heritage guesthouse in a Sikkimese home, with a small number of rooms and meals cooked in-house."
+   },
+   {
+    "q": "How far is Netuk House from MG Marg?",
+    "a": "A short walk, a few minutes uphill from the centre near Tibet Road."
+   },
+   {
+    "q": "Does Netuk House serve Sikkimese food?",
+    "a": "Meals often include Sikkimese and Tibetan dishes. Ask about current meal plans when booking."
+   }
+  ]
+ },
+ {
+  "slug": "chumbi-mountain-retreat-pelling",
+  "name": "The Chumbi Mountain Retreat",
+  "place": "pelling",
+  "tier": "mid",
+  "kind": "resort",
+  "brand": "Independent",
+  "wiki": "",
+  "image_query": "Chumbi Mountain Retreat Pelling",
+  "summary": "A mid-range resort in upper Pelling with rooms facing Kangchenjunga, a restaurant and gardens. A comfortable base for Pemayangtse, Rabdentse and day trips to Khecheopalri and Yuksom.",
+  "body": [
+   "The Chumbi Mountain Retreat stands in upper Pelling, on the side of the ridge that looks north to Kangchenjunga. Rooms are modern and comfortable, many facing the mountains, and the resort has its own restaurant.",
+   "It suits couples and families who want more comfort than Pelling's budget hotels without paying luxury rates. Pemayangtse and the skywalk are short drives away. Book mountain-view rooms early for October to December, and confirm current rates directly."
+  ],
+  "why": [
+   "Kangchenjunga-facing rooms",
+   "Comfortable mid-range resort",
+   "Short drive to Pemayangtse and the skywalk"
+  ],
+  "best_for": [
+   "couples",
+   "families",
+   "honeymooners"
+  ],
+  "price_band": "₹6,000–11,000 a night for a double (indicative)",
+  "website": "",
+  "faqs": [
+   {
+    "q": "Does The Chumbi Mountain Retreat have Kangchenjunga views?",
+    "a": "Yes, many rooms face Kangchenjunga. Ask for a mountain-view room when booking, especially in autumn."
+   },
+   {
+    "q": "Is The Chumbi Mountain Retreat good for families?",
+    "a": "Yes. The resort has comfortable rooms and its own restaurant, and is close to Pelling's main sights."
+   },
+   {
+    "q": "How far is the resort from Pemayangtse?",
+    "a": "A short drive, a few kilometres, in upper Pelling."
+   }
+  ]
+ },
+ {
+  "slug": "elgin-nor-khill-gangtok",
+  "name": "The Elgin Nor-Khill",
+  "place": "gangtok",
+  "tier": "luxury",
+  "kind": "heritage hotel",
+  "brand": "Elgin Hotels",
+  "wiki": "",
+  "image_query": "Elgin Nor-Khill Gangtok",
+  "summary": "Built in 1932 as the royal guest house of the Chogyal of Sikkim, the Nor-Khill is Gangtok's classic heritage hotel, below Paljor Stadium. Period furniture, old photographs and gardens make it the city's most characterful stay.",
+  "body": [
+   "The Nor-Khill was built in 1932 as a guest house for visitors to the Sikkim royal court, and hosted dignitaries in the kingdom's later decades. It is now run by Elgin Hotels, a group with heritage properties in Darjeeling and Sikkim. The building keeps its period character, with carpets, woodwork and photographs from the royal era.",
+   "It sits on a quiet road below Paljor Stadium, close to the centre but away from traffic. Rooms vary in size and outlook; ask for one with garden or valley views. Meals are usually included in Elgin's room plans. It is a fine choice for signature trips that want history rather than a modern resort."
+  ],
+  "why": [
+   "Former royal guest house built in 1932",
+   "Period interiors and gardens",
+   "Central but quiet location"
+  ],
+  "best_for": [
+   "couples",
+   "seniors",
+   "history lovers"
+  ],
+  "price_band": "₹14,000–25,000 a night for a double with meals (indicative)",
+  "website": "https://www.elginhotels.com",
+  "faqs": [
+   {
+    "q": "What is the history of the Elgin Nor-Khill?",
+    "a": "It was built in 1932 as a guest house for visitors to the royal court of Sikkim and is now a heritage hotel run by Elgin Hotels."
+   },
+   {
+    "q": "Is the Elgin Nor-Khill close to MG Marg?",
+    "a": "Yes, it is below Paljor Stadium, a short drive or a walk of 15–20 minutes from MG Marg."
+   },
+   {
+    "q": "Are meals included at the Elgin Nor-Khill?",
+    "a": "Elgin room plans usually include meals. Confirm the current plan when booking."
+   }
+  ]
+ },
+ {
+  "slug": "mayfair-spa-resort-gangtok",
+  "name": "Mayfair Spa Resort and Casino",
+  "place": "gangtok",
+  "tier": "luxury",
+  "kind": "resort",
+  "brand": "Mayfair Hotels",
+  "wiki": "",
+  "image_query": "Mayfair Spa Resort Gangtok",
+  "summary": "A large luxury resort on the outskirts of Gangtok with landscaped gardens, a spa, several restaurants and a casino. It suits travellers who want space, facilities and quiet away from the city centre.",
+  "body": [
+   "Mayfair Spa Resort and Casino lies outside central Gangtok, set in gardens on a hillside. The resort has a spa, restaurants and a casino, and rooms look out over gardens or the valley.",
+   "It is a good choice for families and couples who prefer resort facilities to a heritage hotel, and for travellers who want a quiet base between day trips. The centre of Gangtok is a short drive away, and the hotel arranges cars and permits. Confirm current rates and plans directly."
+  ],
+  "why": [
+   "Spa, restaurants and casino on site",
+   "Landscaped gardens away from city traffic",
+   "Family-friendly resort facilities"
+  ],
+  "best_for": [
+   "families",
+   "couples",
+   "honeymooners"
+  ],
+  "price_band": "₹15,000–30,000 a night for a double (indicative)",
+  "website": "https://www.mayfairhotels.com",
+  "faqs": [
+   {
+    "q": "How far is Mayfair Gangtok from MG Marg?",
+    "a": "It lies outside the centre, a short drive from MG Marg. The hotel can arrange transfers."
+   },
+   {
+    "q": "What facilities does Mayfair Gangtok have?",
+    "a": "The resort has a spa, restaurants and a casino. Check the current list of facilities, including any pool, directly with the hotel."
+   },
+   {
+    "q": "Is Mayfair Gangtok good for families?",
+    "a": "Yes. Its gardens, space and facilities make it a popular choice for families who want resort comforts."
+   }
+  ]
+ },
+ {
+  "slug": "elgin-mount-pandim-pelling",
+  "name": "The Elgin Mount Pandim",
+  "place": "pelling",
+  "tier": "luxury",
+  "kind": "heritage hotel",
+  "brand": "Elgin Hotels",
+  "wiki": "",
+  "image_query": "Elgin Mount Pandim Pelling",
+  "summary": "A heritage hotel on the ridge just below Pemayangtse monastery, facing Kangchenjunga and Mount Pandim. Gardens, period-style rooms and a quiet setting away from Pelling's busier hotel strip make it the town's classic stay.",
+  "body": [
+   "The Elgin Mount Pandim stands on a forested ridge below Pemayangtse, a short drive from Pelling's centre, with gardens looking across to Kangchenjunga and Pandim, the peak that gives it its name. The building has a heritage feel with traditional decoration, and it is run by Elgin Hotels.",
+   "Its location lets you walk to Pemayangtse and the Rabdentse ruins, and it is quieter than the hotels in upper Pelling. Meals are usually included. Book mountain-view rooms well ahead for October to December, and confirm current rates directly."
+  ],
+  "why": [
+   "Walk to Pemayangtse and Rabdentse",
+   "Kangchenjunga and Pandim views from the gardens",
+   "Quiet heritage setting"
+  ],
+  "best_for": [
+   "couples",
+   "seniors",
+   "honeymooners"
+  ],
+  "price_band": "₹12,000–22,000 a night for a double with meals (indicative)",
+  "website": "https://www.elginhotels.com",
+  "faqs": [
+   {
+    "q": "Where is the Elgin Mount Pandim?",
+    "a": "On the ridge just below Pemayangtse monastery, a short drive from central Pelling."
+   },
+   {
+    "q": "Can I see Kangchenjunga from the Elgin Mount Pandim?",
+    "a": "Yes, on clear days the gardens and many rooms look across to Kangchenjunga and Mount Pandim."
+   },
+   {
+    "q": "Can I walk to Pemayangtse from the hotel?",
+    "a": "Yes, Pemayangtse is a short walk uphill, and Rabdentse is reachable on foot as well."
+   }
+  ]
+ }
+]

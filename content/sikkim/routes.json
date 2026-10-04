@@ -1,0 +1,266 @@
+[
+ {
+  "slug": "gangtok-to-tsomgo-lake",
+  "from": "gangtok",
+  "to": "tsomgo-lake",
+  "distance_km": 40,
+  "summary": "The classic permit day trip from Gangtok: 40 km east on the Nathu La road, climbing about 2,100 m past army camps and waterfalls to Tsomgo Lake at 3,750 m. Only registered Sikkim tourist vehicles with permits may go, booked through Gangtok agencies.",
+  "options": [
+   {
+    "mode": "Shared tour",
+    "time": "1.5–2 h each way",
+    "cost": "₹800–1,500 a seat",
+    "text": "Most Gangtok agencies sell seats in shared jeeps leaving around 7–8 am and returning early afternoon. The price covers vehicle and permit processing. You travel with strangers and follow the group's schedule, but it is the cheapest way for solo travellers and couples. Give ID and photos a day ahead."
+   },
+   {
+    "mode": "Private vehicle",
+    "time": "1.5–2 h each way",
+    "cost": "₹3,500–5,500 per vehicle; ₹6,000–9,000 with Nathu La",
+    "text": "A reserved jeep or SUV with driver gives you control of timing and stops at Baba Mandir and, for Indian nationals on permitted days, the Nathu La. Prices rise in peak season. The agency arranges the permit; carry original ID."
+   },
+   {
+    "mode": "Self-drive",
+    "time": "Not usually permitted",
+    "cost": "—",
+    "text": "Private cars from outside Sikkim are generally not allowed beyond the check post. Use a local registered vehicle instead."
+   }
+  ],
+  "stops_on_way": [
+   "Kyongnosla alpine sanctuary",
+   "Waterfalls on the Nathu La road",
+   "Army check posts"
+  ],
+  "road_status": "Open most of the year; snow closes the road in winter and landslides in the monsoon. Check current status before you travel.",
+  "tip": "Leave Gangtok by 7 am to clear the permit check before the queue builds.",
+  "faqs": [
+   {
+    "q": "How long does the Gangtok to Tsomgo drive take?",
+    "a": "About 1.5–2 hours each way for 40 km, plus time at the permit check post."
+   },
+   {
+    "q": "Can I go to Tsomgo without a permit?",
+    "a": "No. All visitors need a permit arranged by a registered Gangtok agency, which also provides the vehicle."
+   },
+   {
+    "q": "How much is a taxi from Gangtok to Tsomgo?",
+    "a": "About ₹3,500–5,500 per vehicle for Tsomgo and Baba Mandir, and ₹6,000–9,000 with Nathu La. Shared seats cost ₹800–1,500."
+   },
+   {
+    "q": "Can I visit Tsomgo and Nathu La on the same day?",
+    "a": "Yes, Indian nationals can on permitted days, usually Wednesday to Sunday. Check current status before you travel."
+   }
+  ]
+ },
+ {
+  "slug": "gangtok-to-lachung",
+  "from": "gangtok",
+  "to": "lachung",
+  "distance_km": 115,
+  "summary": "Gangtok to Lachung is the first leg of every North Sikkim permit tour: north via Kabi, Phodong and Mangan to Chungthang, then up the Lachung Chu. About 115 km and 6–7 hours on narrow mountain roads, with permits and vehicle arranged by a registered agency.",
+  "options": [
+   {
+    "mode": "Shared tour",
+    "time": "6–7 h",
+    "cost": "₹3,000–5,000 per person for 2 days incl. stay and meals",
+    "text": "Shared tours leave Gangtok around 10–11 am with a full jeep and include permits, basic accommodation in Lachung and meals. The Yumthang trip is next morning, then back to Gangtok. You have little choice of hotel, and seats at the back are bumpy."
+   },
+   {
+    "mode": "Private vehicle",
+    "time": "6–7 h",
+    "cost": "₹16,000–25,000 per vehicle for 3 days with Lachen",
+    "text": "A reserved SUV lets you stop at waterfalls, Phodong monastery and Chungthang, and choose better stays. Most private tours combine Lachung, Yumthang, Lachen and Gurudongmar over three days."
+   },
+   {
+    "mode": "Shared jeep to Mangan",
+    "time": "3–4 h to Mangan",
+    "cost": "₹200–350 a seat",
+    "text": "Shared jeeps run from Gangtok to Mangan, the district headquarters, but you still need a permit and permitted vehicle beyond. This is useful only if your agency arranges pick-up from Mangan."
+   }
+  ],
+  "stops_on_way": [
+   "Kabi Longstok",
+   "Phodong monastery",
+   "Bheem Nala falls",
+   "Mangan",
+   "Chungthang confluence"
+  ],
+  "road_status": "Open most of the year, but landslides and flood damage since 2023 have caused long closures near Chungthang. Check current status before you travel.",
+  "tip": "Carry snacks and motion sickness tablets; the road is winding and slow.",
+  "faqs": [
+   {
+    "q": "How far is Lachung from Gangtok?",
+    "a": "About 115 km, 6–7 hours by road via Mangan and Chungthang."
+   },
+   {
+    "q": "Can I go to Lachung by public transport?",
+    "a": "Not directly. Lachung is a Protected Area, so you need a permit tour with a registered vehicle from Gangtok."
+   },
+   {
+    "q": "Is the Gangtok–Lachung road open?",
+    "a": "It is open most of the year, but closures for landslides, floods and repairs are common. Check current status before you travel."
+   },
+   {
+    "q": "What is the best time to drive to Lachung?",
+    "a": "March to May and October to December. Avoid June to September, when landslides often block the road."
+   }
+  ]
+ },
+ {
+  "slug": "gangtok-to-pelling",
+  "from": "gangtok",
+  "to": "pelling",
+  "distance_km": 125,
+  "summary": "Gangtok to Pelling crosses from the east to the west of Sikkim, via Singtam and Ravangla or via Rabongla and Legship. About 115–130 km and 5–6 hours. Shared jeeps run daily to Gyalshing and Pelling, and many travellers break the trip at Ravangla.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "5–6 h",
+    "cost": "₹350–550 a seat",
+    "text": "Shared jeeps leave Gangtok's Vajra stand in the morning for Gyalshing and sometimes Pelling directly. From Gyalshing, local jeeps cover the last 10 km to Pelling. Book a seat a day ahead in season and sit by a window."
+   },
+   {
+    "mode": "Private car",
+    "time": "5–6 h",
+    "cost": "₹4,500–6,500 one way",
+    "text": "A reserved car lets you stop at Temi tea garden, Buddha Park in Ravangla or Rumtek on the way. Most drivers prefer the route via Ravangla and Legship, depending on road conditions."
+   },
+   {
+    "mode": "Break at Ravangla",
+    "time": "2.5–3 h + 2–2.5 h",
+    "cost": "As above, split",
+    "text": "Spending a night in Ravangla turns a long drive into two easy halves and adds Buddha Park, Ralang and Temi to the trip."
+   }
+  ],
+  "stops_on_way": [
+   "Singtam",
+   "Temi tea garden",
+   "Ravangla Buddha Park",
+   "Legship"
+  ],
+  "road_status": "Open all year; landslides can block sections from June to September. Check current status before you travel.",
+  "tip": "Break the drive at Ravangla to see Buddha Park and arrive in Pelling rested.",
+  "faqs": [
+   {
+    "q": "How far is Pelling from Gangtok?",
+    "a": "About 115–130 km depending on the route, 5–6 hours by road."
+   },
+   {
+    "q": "Is there a direct bus from Gangtok to Pelling?",
+    "a": "Shared jeeps run to Gyalshing and sometimes Pelling. SNT buses have run on some routes; ask at the Gangtok stand."
+   },
+   {
+    "q": "What does a taxi from Gangtok to Pelling cost?",
+    "a": "About ₹4,500–6,500 one way for a private car, more in peak season."
+   },
+   {
+    "q": "Can I visit Ravangla on the way to Pelling?",
+    "a": "Yes, Ravangla lies on the usual route. Stop for Buddha Park or spend a night."
+   }
+  ]
+ },
+ {
+  "slug": "pelling-to-yuksom",
+  "from": "pelling",
+  "to": "yuksom",
+  "distance_km": 35,
+  "summary": "A short, scenic drive from Pelling to Yuksom, Sikkim's first capital, past Rimbi and Kanchenjunga falls and the turn for Khecheopalri lake. About 35 km and 1.5–2 hours, with shared jeeps from Gyalshing and taxis from Pelling.",
+  "options": [
+   {
+    "mode": "Shared jeep",
+    "time": "1.5–2 h",
+    "cost": "₹150–250 a seat",
+    "text": "Shared jeeps run from Gyalshing to Yuksom through the day, passing below Pelling. Ask your hotel to help you find a seat. Departures can be slow to fill outside season."
+   },
+   {
+    "mode": "Private car",
+    "time": "1.5–2 h",
+    "cost": "₹2,000–3,000 one way",
+    "text": "A taxi lets you stop at Rimbi falls, Kanchenjunga Falls and Khecheopalri lake. A full-day round trip from Pelling with these stops costs about ₹3,000–4,500."
+   },
+   {
+    "mode": "Walk via Khecheopalri",
+    "time": "1–2 days",
+    "cost": "Guide ₹1,000–2,000 a day",
+    "text": "A traditional footpath links Khecheopalri lake and Yuksom through forest and villages. Go with a local guide in the dry months; leeches are common in the monsoon."
+   }
+  ],
+  "stops_on_way": [
+   "Rimbi falls",
+   "Kanchenjunga Falls",
+   "Khecheopalri lake turn-off"
+  ],
+  "road_status": "Open all year; landslides possible from June to September. Check current status before you travel.",
+  "tip": "Leave Pelling early and spend a night in Yuksom rather than rushing back.",
+  "faqs": [
+   {
+    "q": "How far is Yuksom from Pelling?",
+    "a": "About 35 km, 1.5–2 hours by road."
+   },
+   {
+    "q": "Can I visit Khecheopalri on the way to Yuksom?",
+    "a": "Yes, it is a short detour from the road. Allow an extra 2–3 hours."
+   },
+   {
+    "q": "What does a taxi from Pelling to Yuksom cost?",
+    "a": "About ₹2,000–3,000 one way, or ₹3,000–4,500 for a full-day round trip with stops."
+   },
+   {
+    "q": "Do I need a permit for Yuksom?",
+    "a": "Indian nationals do not. Foreigners need the Sikkim Restricted Area Permit. Treks beyond Yuksom need park permits."
+   }
+  ]
+ },
+ {
+  "slug": "gangtok-to-zuluk",
+  "from": "gangtok",
+  "to": "zuluk",
+  "distance_km": 90,
+  "summary": "Gangtok to Zuluk follows roads east via Rongli to the old Silk Route, then climbs through Lingtam and Padamchen to the village. About 90 km and 4–5 hours. Only Indian nationals with permits may go, in a registered vehicle arranged by an agency.",
+  "options": [
+   {
+    "mode": "Private vehicle",
+    "time": "4–5 h",
+    "cost": "₹9,000–15,000 per vehicle for 2 days",
+    "text": "The usual way: a registered SUV with driver from Gangtok, with permit and homestay arranged by the agency. The second day covers Thambi, Nathang and Kupup before returning to Gangtok via Tsomgo or Rongli."
+   },
+   {
+    "mode": "Shared jeep to Rongli",
+    "time": "2.5–3 h",
+    "cost": "₹150–250 a seat",
+    "text": "Shared jeeps run from Gangtok to Rongli. From there, you need a permitted vehicle and permit for the Silk Route, which some local agencies arrange."
+   },
+   {
+    "mode": "From Siliguri or NJP",
+    "time": "5–6 h",
+    "cost": "₹6,000–9,000 one way per vehicle",
+    "text": "Some travellers go directly from Siliguri via Rhenock and Rongli. You still need the permit arranged in advance."
+   }
+  ],
+  "stops_on_way": [
+   "Rongli",
+   "Lingtam",
+   "Padamchen",
+   "Zuluk"
+  ],
+  "road_status": "Open most of the year; snow closes upper sections in winter and landslides in the monsoon. Indian nationals only. Check current status before you travel.",
+  "tip": "Book permits and homestay together through one agency to avoid delays at Rongli.",
+  "faqs": [
+   {
+    "q": "How far is Zuluk from Gangtok?",
+    "a": "About 90 km via Rongli, 4–5 hours by road."
+   },
+   {
+    "q": "Can foreigners go to Zuluk?",
+    "a": "Zuluk has been open only to Indian nationals. Check current status before you travel."
+   },
+   {
+    "q": "What does a Silk Route tour from Gangtok cost?",
+    "a": "A private vehicle for 2 days costs about ₹9,000–15,000, with homestays about ₹1,500–2,500 per person extra."
+   },
+   {
+    "q": "Can I combine Zuluk with Tsomgo?",
+    "a": "Yes, some tours return from Zuluk via Kupup and Tsomgo, depending on permits and road conditions."
+   }
+  ]
+ }
+]
