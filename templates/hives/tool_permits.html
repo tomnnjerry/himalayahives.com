@@ -90,7 +90,7 @@
   /* split each permit paragraph into sentences and tag who each one is for */
   Array.prototype.forEach.call(root.querySelectorAll("[data-permit]"), function (p) {
     var text = p.textContent;
-    var parts = text.match(/[^.;]+(?:[.;]+|$)(?:\s+|$)/g) || [text];
+    var parts = text.match(/[^.]+(?:\.+|$)(?:\s+|$)/g) || [text];
     p.textContent = "";
     parts.forEach(function (s) {
       var span = document.createElement("span");

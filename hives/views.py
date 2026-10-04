@@ -170,7 +170,8 @@ def region_month(request, region, month):
         {"q": f"What is the weather like in {r['name']} in {MONTHS[i]}?",
          "a": f"{md.get('weather', 'Weather varies across the region')}. Conditions differ by altitude and coast, so check the forecast for each stop a week before you travel."},
         {"q": f"Where should we go in {r['name']} in {MONTHS[i]}?",
-         "a": ("We suggest " + ", ".join(p["name"] for p in go) + ". " if go else "") + (md.get("tip") or "")},
+         "a": (("We suggest " + ", ".join(p["name"] for p in go) + ". " if go else "") + (md.get("tip") or "")).strip()
+              or f"Tell us your dates and budget and we will suggest the parts of {r['name']} that work best in {MONTHS[i]}."},
     ]
     return render(request, "hives/region_month.html", {
         "r": r, "i": i, "month": MONTHS[i], "md": md, "go": go, "events": events, "journeys": journeys,
